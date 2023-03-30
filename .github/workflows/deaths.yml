@@ -1,0 +1,26 @@
+name: Fetch deaths
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/55 1 1 * *'
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        wget -O data/deaths.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vSh5jJG28gW0pjJb25Q4LI0nEDrVvFjvrfBZ5KJTlPAPzqY3oM5R7hNWlXMCfYEfX9-7zgL1tHq90xN/pub?output=csv"
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated csv deaths")
+        git push
