@@ -1,0 +1,24 @@
+name: Fetch weather
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/59 7-22 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        curl "https://api.open-meteo.com/v1/forecast?latitude=38.74&longitude=-9.28&daily=weathercode,temperature_2m_max,temperature_2m_min&current_weather=true&forecast_days=1&timezone=Europe%2FLondon" | jq -r tostring > weather.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated with latest articles")
+        git push
