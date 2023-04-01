@@ -14,7 +14,7 @@ jobs:
         fetch-depth: 0
     - name: Download Feed
       run: |-
-        curl "https://www.publico.pt/api/search/?size=50" | jq -r tostring > news.json
+        curl "https://www.publico.pt/api/search/?size=20&type=noticias" | jq -r tostring > hardnews.json
     - name: Download Feed
       run: |-
         curl "https://www.publico.pt/api/search/?size=6&type=opiniao" | jq -r tostring > opinion.json
