@@ -1,8 +1,6 @@
 name: Fetch articles 50anos25abril
 on:
-  workflow_dispatch:
-  schedule:
-    - cron:  '*/60 * * * *'
+  deployment
 
 jobs:
   build:
