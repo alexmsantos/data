@@ -1,6 +1,6 @@
 name: Fetch articles 50anos25abril
-on:
-  deployment
+on: 
+   workflow_dispatch:
 
 jobs:
   build:
