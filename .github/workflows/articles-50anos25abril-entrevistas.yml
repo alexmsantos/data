@@ -1,0 +1,22 @@
+name: Fetch articles 50anos25abril entrevistas
+on: 
+   workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        curl "https://www.publico.pt/api/search/?size=15&tags=50-anos-25-abril&tags=entrevista" | jq -r tostring > 50anos25abril-entrevistas.json
+    - name: Download Feed
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated with latest 50anos25abril entrevistas")
+        git push
