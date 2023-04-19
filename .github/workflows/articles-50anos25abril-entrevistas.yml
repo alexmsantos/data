@@ -12,7 +12,7 @@ jobs:
         fetch-depth: 0
     - name: Download Feed
       run: |-
-        curl "https://www.publico.pt/api/search/?size=15&tags=50-anos-25-abril&tags=entrevista" | jq -r tostring > 50anos25abril-entrevistas.json
+        curl "https://www.publico.pt/api/search/?size=10&tags=50-anos-25-abril&tags=entrevista" | jq -r tostring > 50anos25abril-entrevistas.json
     - name: Download Feed
       run: |-
         git diff
