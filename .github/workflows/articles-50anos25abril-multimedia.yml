@@ -1,0 +1,22 @@
+name: Fetch articles 50anos25abril multimedia
+on: 
+   workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        curl "https://www.publico.pt/api/search/?size=10&tags=50-anos-25-abril&tags=multimedia" | jq -r tostring > 50anos25abril-multimedia.json
+    - name: Download Feed
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated with latest 50anos25abril multimedia")
+        git push
