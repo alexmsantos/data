@@ -16,7 +16,7 @@ jobs:
     - name: Download Feed
       run: |-
         wget -O deaths-2022.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vSh5jJG28gW0pjJb25Q4LI0nEDrVvFjvrfBZ5KJTlPAPzqY3oM5R7hNWlXMCfYEfX9-7zgL1tHq90xN/pub?output=csv"
-    - name: CSV to JSON
+    - name: Download Feed
       run |-
         jq --slurp --raw-input --raw-output \
         'split("\n") | .[1:] | map(split(",")) |
