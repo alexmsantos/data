@@ -16,16 +16,16 @@ jobs:
     - name: Download Feed
       run: |-
         wget -O deaths-2022.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vSh5jJG28gW0pjJb25Q4LI0nEDrVvFjvrfBZ5KJTlPAPzqY3oM5R7hNWlXMCfYEfX9-7zgL1tHq90xN/pub?output=csv"
-    - name: Download Feed
+    - name: CSV to JSON
       run: |-
         jq --slurp --raw-input --raw-output \
         'split("\n") | .[1:] | map(split(",")) |
         map({"id": .[0],
-           "ascension": .[1],
-           "declination": .[2],
-           "ultraviolet": .[3],
-           "green": .[4],
-           "red": .[5]})' \
+           "month": .[1],
+           "name": .[2],
+           "age": .[3],
+           "image": .[4],
+           "link": .[5]})' \
         deaths-2022.csv > deaths-2022.json
     - name: Commit and push changes
       run: |-
