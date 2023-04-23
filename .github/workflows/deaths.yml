@@ -26,6 +26,9 @@ jobs:
            "image": .[3],
            "link": .[4]})' \
         deaths-2022.csv > deaths-2022.json
+    - name: Minify
+      run: |-
+        deaths-2022.json | jq -r tostring > deaths-2022-min.json
     - name: Commit and push changes
       run: |-
         git diff
