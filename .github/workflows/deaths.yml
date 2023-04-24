@@ -31,7 +31,7 @@ jobs:
     #    jq -r tostring deaths-2022.json > deaths-2022-min.json
     - name: csv to json
       run: |-
-        https://gist.githubusercontent.com/hvva/7b39caaa3fc27fa4d28a/raw/fc71fcd1450aa64af3a592396c72ce14e1869160/csv2json.sh > deaths-2022.csv > deaths-2022.json
+        csv2json.sh > deaths-2022.csv > deaths-2022.json
     - name: Commit and push changes
       run: |-
         git diff
