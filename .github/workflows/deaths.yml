@@ -19,7 +19,7 @@ jobs:
     - name: CSV to JSON
       run: |-
         jq --slurp --raw-input --raw-output \
-        'split("\n") | .[1:] | map(split(',')) |
+        'split("\n") | .[1:] | map(split(",")) |
         map({"month": .[0],
            "name": .[1],
            "age": .[2],
