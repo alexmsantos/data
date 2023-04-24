@@ -16,19 +16,22 @@ jobs:
     - name: Download Feed
       run: |-
         wget -O deaths-2022.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vSh5jJG28gW0pjJb25Q4LI0nEDrVvFjvrfBZ5KJTlPAPzqY3oM5R7hNWlXMCfYEfX9-7zgL1tHq90xN/pub?output=csv"
-    - name: CSV to JSON
+    # name: CSV to JSON
+    # run: |-
+    #    jq --slurp --raw-input --raw-output \
+    #    'split("\n") | .[1:] | map(split(",")) |
+    #    map({"month": .[0],
+    #       "name": .[1],
+    #       "age": .[2],
+    #       "image": .[3],
+    #       "link": .[4]})' \
+    #    deaths-2022.csv > deaths-2022.json
+    #- name: Minify
+    #  run: |-
+    #    jq -r tostring deaths-2022.json > deaths-2022-min.json
+    - name: csv to json
       run: |-
-        jq --slurp --raw-input --raw-output \
-        'split("\n") | .[1:] | map(split(",")) |
-        map({"month": .[0],
-           "name": .[1],
-           "age": .[2],
-           "image": .[3],
-           "link": .[4]})' \
-        deaths-2022.csv > deaths-2022.json
-    - name: Minify
-      run: |-
-        jq -r tostring deaths-2022.json > deaths-2022-min.json
+        https://gist.githubusercontent.com/hvva/7b39caaa3fc27fa4d28a/raw/fc71fcd1450aa64af3a592396c72ce14e1869160/csv2json.sh > deaths-2022.csv > deaths-2022.json
     - name: Commit and push changes
       run: |-
         git diff
