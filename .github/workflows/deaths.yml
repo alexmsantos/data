@@ -19,12 +19,12 @@ jobs:
     - name: CSV to JSON
       run: |-
         jq --slurp --raw-input --raw-output \
-        'split("\n") | .[1:] | map(split(",")) |
+        "split('\n') | .[1:] | map(split(',')) |
         map({"month": .[0],
            "name": .[1],
            "age": .[2],
            "image": .[3],
-           "link": .[4]})' \
+           "link": .[4]})" \
         deaths-2022.csv > deaths-2022.json
     - name: Minify
       run: |-
