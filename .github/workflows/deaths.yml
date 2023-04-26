@@ -28,7 +28,7 @@ jobs:
     #    deaths-2022.csv > deaths-2022.json
     - name: csv to json
       run: |-
-      dasel -r csv -w json < deaths-2022.csv > deaths-2022.json
+        dasel -r csv -w json < deaths-2022.csv > deaths-2022.json
     - name: Minify
       run: |-
         jq -r tostring deaths-2022.json > deaths-2022-min.json
