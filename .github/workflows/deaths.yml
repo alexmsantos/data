@@ -13,24 +13,14 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Download Feed
+    - name: Convert google sheet to csv
       run: |-
         wget -O deaths-2022.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vSh5jJG28gW0pjJb25Q4LI0nEDrVvFjvrfBZ5KJTlPAPzqY3oM5R7hNWlXMCfYEfX9-7zgL1tHq90xN/pub?output=csv"
-    #- name: CSV to JSON
-    #  run: |-
-    #    jq --slurp --raw-input --raw-output \
-    #    'split("\n") | .[1:] | map(split(",")) |
-    #    map({"month": .[0],
-    #       "name": .[1],
-    #       "age": .[2],
-    #       "image": .[3],
-    #       "link": .[4]})' \
-    #    deaths-2022.csv > deaths-2022.json
     - name: Download dasel
       run: curl -s https://api.github.com/repos/tomwright/dasel/releases/latest | grep browser_download_url | grep linux_amd64 | cut -d '"' -f 4 | wget -qi - && mv dasel_linux_amd64 dasel && chmod +x dasel && ./dasel --version
-    - name: csv to json
+    - name: CSV to JSON
       run: ./dasel -r csv -w json < deaths-2022.csv > deaths-2022.json
-    - name: Minify
+    - name: Minify JSON
       run: |-
         jq -r tostring deaths-2022.json > deaths-2022-min.json
     - name: Commit and push changes
