@@ -1,6 +1,8 @@
 name: Fetch articles
 on:
   workflow_dispatch:
+    #schedule:
+    #- cron:  '*/59 9-18 * * *'
 
 jobs:
   build:
