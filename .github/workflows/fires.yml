@@ -1,8 +1,8 @@
 name: Fetch fires
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '*/20 * * * *'
+  #schedule:
+  #  - cron:  '*/20 * * * *'
 
 jobs:
   build:
