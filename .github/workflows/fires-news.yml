@@ -1,0 +1,25 @@
+name: Fetch articles about fires
+on:
+  workflow_dispatch:
+    #schedule:
+    #- cron:  '*/59 9-18 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        curl "https://www.publico.pt/api/search/?size=10&type=noticia&tags=incendios" | jq -r tostring > fires-news.json
+    - name: Download Feed
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git pull
+        git diff --quiet || (git add -A && git commit -m "Updated with latest articles about fires")
+        git push
