@@ -12,7 +12,7 @@ jobs:
         fetch-depth: 0
     - name: Download Feed
       run: |-
-        curl "https://www.publico.pt/api/search/?size=20&tags=p2-verao-2023&tags=questionario" | jq -r tostring > p2verao2023-entrevistas.json
+        curl "https://www.publico.pt/api/search/?size=20&tags=p2-verao-2023&tags=entrevista" | jq -r tostring > p2verao2023-entrevistas.json
     - name: Download Feed
       run: |-
         git diff
