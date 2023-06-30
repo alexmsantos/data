@@ -15,7 +15,7 @@ jobs:
         fetch-depth: 0
     - name: Convert google sheet to csv
       run: |-
-        wget -O 45rostos.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vSsKEaNuZS12yC18X_4U8Kwvu6oBea_-6Ao9rU5KBBOfOw4oKHWgZ42pI7m3LvSpqfcIctWMIy5GVDz/pubhtml?gid=0&single=true"
+        wget -O 45rostos.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vSsKEaNuZS12yC18X_4U8Kwvu6oBea_-6Ao9rU5KBBOfOw4oKHWgZ42pI7m3LvSpqfcIctWMIy5GVDz/pub?gid=0&single=true&output=csv"
     - name: Commit and push changes
       run: |-
         git diff
