@@ -14,10 +14,10 @@ jobs:
         fetch-depth: 0
     - name: Download Feed
       run: |-
-        curl "https://www.publico.pt/api/search/?size=21&type=noticia" | jq -r tostring > hardnews.json
+        curl "https://www.publico.pt/api/content/home?&op=false&size=22" | jq -r tostring > hardnews.json
     - name: Download Feed
       run: |-
-        curl "https://www.publico.pt/api/search/?size=6&type=opiniao" | jq -r tostring > opinion.json
+        curl "https://www.publico.pt/api/page/hp/opinion" | jq -r tostring > opinion.json
     - name: Commit and push changes
       run: |-
         git diff
