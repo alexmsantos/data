@@ -18,6 +18,9 @@ jobs:
     - name: Download Feed
       run: |-
         curl "https://www.publico.pt/api/page/hp/opinion" | jq -r tostring > opinion.json
+    - name: Download Feed
+      run: |-
+        curl "https://www.publico.pt/api/list/ultimas" | jq -r tostring > latest-news.json
     - name: Commit and push changes
       run: |-
         git diff
