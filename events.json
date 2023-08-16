@@ -1,1 +1,60 @@
-
+{
+  "events":[
+    {
+      "title": "Dão: o melhor concurso de vinhos 2023",
+      "description": "Com Pedro Mendonça",
+      "date": "12 jul",
+      "time": "18:00 - 19:30",
+      "city": "Porto",
+      "theme": "Vinhos",
+      "classes": "vinhos",
+      "level": "iniciante",
+      "buttonText": "Ver mais",
+      "buttonLink": "#"
+    }, {
+      "title": "Queijo flamengo: o melhor concurso de queijos 2023",
+      "description": "Com Pedro Mendonça",
+      "date": "13 jul",
+      "time": "18:00 - 19:30",
+      "city": "Lisboa",
+      "theme": "Queijos",
+      "classes": "queijos",
+      "level": "intermedio",
+      "buttonText": "Ver mais",
+      "buttonLink": "#"
+    }, {
+      "title": "Queijo flamengo: o melhor concurso de queijos 2023",
+      "description": "Com Pedro Mendonça",
+      "date": "13 jul",
+      "time": "18:00 - 19:30",
+      "city": "Lisboa",
+      "theme": "Queijos",
+      "classes": "queijos",
+      "level": "intermedio",
+      "buttonText": "Ver mais",
+      "buttonLink": "#"
+    }, {
+      "title": "Azeite: o melhor concurso de azeite 2023",
+      "description": "Com Pedro Mendonça",
+      "date": "13 jul",
+      "time": "18:00 - 19:30",
+      "city": "Lisboa",
+      "theme": "Azeite",
+      "classes": "azeite",
+      "level": "intermedio",
+      "buttonText": "Ver mais",
+      "buttonLink": "#"
+    }, {
+      "title": "Peixe: o melhor concurso de queijos 2023",
+      "description": "Com Pedro Mendonça",
+      "date": "13 jul",
+      "time": "18:00 - 19:30",
+      "city": "Lisboa",
+      "theme": "Peixe",
+      "classes": "peixes",
+      "level": "intermedio",
+      "buttonText": "Ver mais",
+      "buttonLink": "#"
+    }
+  ]
+}
