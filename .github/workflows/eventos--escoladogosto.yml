@@ -1,0 +1,25 @@
+name: Fetch eventos escola do gosto
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/59 2-4 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Convert google sheet to csv
+      run: |-
+        wget -O eventos--escoladogosto.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vR1639hqwoPIQ3GbSSqDt8f4PUu_1LRhIYou6VYX1fqFYrMDbqotldLMLPdm6DhBCJ8OOF74DVzLw-R/pub?output=csv"
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated csv eventos escola do gosto")
+        git push
