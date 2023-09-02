@@ -1,0 +1,25 @@
+name: Fetch deaths 2023
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/59 2-4 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Convert google sheet to csv
+      run: |-
+        wget -O deaths-2023.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vQa5wNPOBCQAOrii-CTNuTMso-kJ3BokCBMQc_uc68ZWZVi_ov12AHQP4o8XlfcKkitsPcre0eSi2sb/pub?output=csv"
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated deaths 2023")
+        git push
