@@ -3,7 +3,7 @@ name: Fetch eventos escola do gosto
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/59 7-9 * * *'
+    - cron:  '*/59 7-8 * * *'
 
 jobs:
   build:
