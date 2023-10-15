@@ -21,6 +21,9 @@ jobs:
     - name: Download Feed
       run: |-
         curl "https://www.publico.pt/api/list/ultimas" | jq -r tostring > latest-news.json
+    - name: Download Feed
+      run: |-
+      curl "https://www.publico.pt/api/content/top-bar" | jq -r tostring > carimbos.json
     - name: Commit and push changes
       run: |-
         git diff
