@@ -14,7 +14,7 @@ jobs:
         fetch-depth: 0
     - name: Download Público Feed
       run: |-
-        curl "https://www.publico.pt/api/list/ultimas" | jq -r tostring > latest--publico.json
+        curl "https://www.publico.pt/api/search/?size=20" | jq -r tostring > latest--publico.json
     - name: Download Observador Feed
       run: |-
         curl "https://api.observador.pt/wp/lists/latest/" | jq -r tostring > latest--observador.json
