@@ -9,14 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@main
-    - uses: fabasoad/data-format-converter-action@main
-      id: yaml2json
-      with:
-        input: "https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true"
-        from: "xml"
-        to: "json"
-    - name: Print result
-      run: echo "${{ steps.xml2json.outputs.output }}"
     - name: Check out repo
       uses: actions/checkout@v2
       with:
