@@ -1,0 +1,28 @@
+name: Fetch latest news PT
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/10 7-23 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Público Feed
+      run: |-
+        curl "https://www.publico.pt/api/list/ultimas" | jq -r tostring > latest--publico.json
+    - name: Download Observador Feed
+      run: |-
+        curl "https://api.observador.pt/wp/lists/latest/" | jq -r tostring > latest--observador.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git pull
+        git diff --quiet || (git add -A && git commit -m "Updated with latest news PT")
+        git push
