@@ -1,0 +1,26 @@
+name: Fetch latest news PT
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/10 7-23 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download News Api
+      run: |-
+        curl "https://newsapi.ai/api/v1/article/getArticles?query=%7B%22%24query%22%3A%7B%22%24or%22%3A%5B%7B%22sourceUri%22%3A%22publico.pt%22%7D%2C%7B%22sourceUri%22%3A%22observador.pt%22%7D%2C%7B%22sourceUri%22%3A%22eco.sapo.pt%22%7D%2C%7B%22sourceUri%22%3A%22expresso.pt%22%7D%2C%7B%22sourceUri%22%3A%22dn.pt%22%7D%5D%7D%2C%22%24filter%22%3A%7B%22forceMaxDataTimeWindow%22%3A%2231%22%2C%22dataType%22%3A%5B%22news%22%5D%7D%7D&resultType=articles&articlesSortBy=date&articlesCount=100&includeArticleSocialScore=true&articleBodyLen=-1&apiKey=8c295d3a-83e1-4cf3-992f-2b1061367810" | jq -r tostring > newsapi.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git pull
+        git diff --quiet || (git add -A && git commit -m "Updated with latest news PT")
+        git push
