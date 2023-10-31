@@ -1,8 +1,8 @@
-name: Fetch latest news PT
+name: Fetch News API
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/10 7-23 * * *'
+    - cron:  '*/20 7-23 * * *'
 
 jobs:
   build:
@@ -22,5 +22,5 @@ jobs:
         git config user.name "Automated"
         git config user.email "---"
         git pull
-        git diff --quiet || (git add -A && git commit -m "Updated with latest news PT")
+        git diff --quiet || (git add -A && git commit -m "Updated with News API")
         git push
