@@ -22,8 +22,8 @@ jobs:
     - name: Find and Replace latest--observador.json
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: "title:"
-        replace: "titulo:"
+        find: "title"
+        replace: "titulo"
         include: "**latest--observador.json"
     - name: Download Expresso Feed
       run: |-
