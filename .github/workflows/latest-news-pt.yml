@@ -34,13 +34,13 @@ jobs:
     - name: Download Expresso Feed
       run: |-
         curl -o latest--expresso.xml  https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true
-    - uses: fabasoad/yaml-json-xml-converter-action@main
+    - name: Print xml2json result
+      uses: fabasoad/yaml-json-xml-converter-action@main
       id: xml2json
       with:
         path: 'latest--expresso.xml'
         from: 'xml'
         to: 'json'
-    - name: Print xml2json result
       run: echo "${{ steps.xml2json.outputs.data }}"
     - name: Commit and push changes
       run: |-
