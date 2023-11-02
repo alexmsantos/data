@@ -25,6 +25,8 @@ jobs:
         find: "title"
         replace: "titulo"
         include: "**latest--observador.json"
+    - name: Find and Replace pubDate
+      uses: jacobtomlinson/gha-find-replace@v3
       with:
         find: "pubDate"
         replace: "data"
