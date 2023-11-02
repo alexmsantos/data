@@ -31,6 +31,12 @@ jobs:
         find: "pubDate"
         replace: "data"
         include: "**latest--observador.json"
+    - name: Find and Replace Links
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '"links":{"webUri":'
+        replace: '"webUri":'
+        include: "**latest--observador.json"
     - name: Download Expresso Feed
       run: |-
         curl -o latest--expresso.xml  https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true
