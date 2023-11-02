@@ -41,7 +41,7 @@ jobs:
       uses: jacobtomlinson/gha-find-replace@v3
       with:
         find: '},"type":'
-        replace: '"type":'
+        replace: ',"type":'
         include: "**latest--observador.json"
     - name: Download Expresso Feed
       run: |-
