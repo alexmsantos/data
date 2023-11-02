@@ -43,6 +43,12 @@ jobs:
         find: '},"type":'
         replace: ',"type":'
         include: "**latest--observador.json"
+    - name: Find and Replace image
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '"image":"https://bordalo.observador.pt/v2/rs:fill:{{width}}/q:{{quality}}/c:770:433:nowe:0:0/plain/'
+        replace: '"multimediaPrincipal":"'
+        include: "**latest--observador.json"
     - name: Download Expresso Feed
       run: |-
         curl -o latest--expresso.xml  https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true
