@@ -80,7 +80,7 @@ jobs:
       uses: jacobtomlinson/gha-find-replace@v3
       with:
         find: '"guid":'
-        replace: '"brandImg":"https://static.publico.pt/news/expresso.png","guid":"'
+        replace: '"brandImg":"https://static.publico.pt/news/expresso.png","guid":'
         include: "**latest--expresso.json"
     - name: Find and Replace Expresso end json
       uses: jacobtomlinson/gha-find-replace@v3
