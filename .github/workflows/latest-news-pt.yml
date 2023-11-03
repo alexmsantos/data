@@ -95,8 +95,8 @@ jobs:
     - name: Find and Replace RTP end json
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: '}}]}'
-        replace: '}}]'
+        find: '}]}'
+        replace: '}]'
         include: "**latest--rtp.json"
     - name: Find and Replace RTP init json
       uses: jacobtomlinson/gha-find-replace@v3
