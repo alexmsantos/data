@@ -92,6 +92,19 @@ jobs:
         find: '"guid":'
         replace: '"brandImg":"https://static.publico.pt/news/rtp.png","guid":'
         include: "**latest--rtp.json"
+    - name: Find and Replace RTP end json
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '}}]}'
+        replace: '}}]'
+        include: "**latest--rtp.json"
+    - name: Find and Replace RTP init json
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '{"version":"https://jsonfeed.org/version/1","title":"RTP Notícias / Geral / Últimas","home_page_url":"https://www.rtp.pt/","description":"RTP Notícias / Geral / Últimas","items":['
+        replace: '['
+        include: "**latest--rtp.json"
+        regex: false
     - name: Commit and push changes
       run: |-
         git diff
