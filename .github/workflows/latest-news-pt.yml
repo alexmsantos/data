@@ -25,17 +25,23 @@ jobs:
     - name: Download RTP Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq -r tostring > latest--rtp.json
-    - name: Find and Replace title
+    - name: Find and Replace titulo
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: "title"
-        replace: "titulo"
-        include: "**latest--observador.json"
-    - name: Find and Replace pubDate
+        find: '"titulo":'
+        replace: '"title":'
+        include: "**latest--publico.json"
+    - name: Find and Replace data Publico
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: "pubDate"
-        replace: "data"
+        find: '"data":'
+        replace: '"date_published":'
+        include: "**latest--publico.json"
+    - name: Find and Replace pubDate OBS
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '"pubDate":'
+        replace: '"date_published":'
         include: "**latest--observador.json"
     - name: Find and Replace Links
       uses: jacobtomlinson/gha-find-replace@v3
@@ -52,33 +58,15 @@ jobs:
     - name: Find and Replace image OBS
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: ',"titulo":"'
-        replace: ',"brandImg":"https://static.publico.pt/news/observador.png","titulo":"'
+        find: ',"title":"'
+        replace: ',"brandImg":"https://static.publico.pt/news/observador.png","title":"'
         include: "**latest--observador.json"
     - name: Find and Replace image Publico
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: ',"titulo":"'
-        replace: ',"brandImg":"https://static.publico.pt/news/publico.png","titulo":"'
+        find: ',"title":"'
+        replace: ',"brandImg":"https://static.publico.pt/news/publico.png","title":"'
         include: "**latest--publico.json"
-    - name: Find and Replace Expresso title
-      uses: jacobtomlinson/gha-find-replace@v3
-      with:
-        find: 'title'
-        replace: 'titulo'
-        include: "**latest--expresso.json"
-    - name: Find and Replace Expresso title
-      uses: jacobtomlinson/gha-find-replace@v3
-      with:
-        find: 'title'
-        replace: 'titulo'
-        include: "**latest--expresso.json"
-    - name: Find and Replace Expresso data
-      uses: jacobtomlinson/gha-find-replace@v3
-      with:
-        find: 'date_published'
-        replace: 'data'
-        include: "**latest--expresso.json"
     - name: Find and Replace image Expresso
       uses: jacobtomlinson/gha-find-replace@v3
       with:
@@ -98,6 +86,12 @@ jobs:
         replace: '['
         include: "**latest--expresso.json"
         regex: false
+    - name: Find and Replace image RTP
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '"guid":'
+        replace: '"brandImg":"https://static.publico.pt/news/rtp.png","guid":'
+        include: "**latest--rtp.json"
     - name: Commit and push changes
       run: |-
         git diff
