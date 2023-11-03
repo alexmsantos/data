@@ -58,6 +58,42 @@ jobs:
         find: ',"titulo":"'
         replace: ',"brandImg":"https://static.publico.pt/news/publico.png","titulo":"'
         include: "**latest--publico.json"
+    - name: Find and Replace Expresso init json
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '{"version":"https://jsonfeed.org/version/1","title":"Expresso","home_page_url":"https://expresso.pt/","description":"No Expresso leia opinião, economia, política, cultura, lifestyle, cinema, desporto, última hora. Veja fotografias e vídeos.","items":['
+        replace: '['
+        include: "**latest--expresso.json"
+    - name: Find and Replace Expresso end json
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '}}]}'
+        replace: '}}]'
+        include: "**latest--expresso.json"
+    - name: Find and Replace Expresso title
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: 'title'
+        replace: 'titulo'
+        include: "**latest--expresso.json"
+    - name: Find and Replace Expresso title
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: 'title'
+        replace: 'titulo'
+        include: "**latest--expresso.json"
+    - name: Find and Replace Expresso data
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: 'date_published'
+        replace: 'data'
+        include: "**latest--expresso.json"
+    - name: Find and Replace image Expresso
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: '"guid":'
+        replace: '"brandImg":"https://static.publico.pt/news/expresso.png","guid":"'
+        include: "**latest--publico.json"
     #- name: Download Expresso Feed
     #  run: |-
     #    curl -o latest--expresso.xml  https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true
