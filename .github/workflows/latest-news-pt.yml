@@ -94,6 +94,7 @@ jobs:
         find: '{"version":"https://jsonfeed.org/version/1","titulo":"Expresso","home_page_url":"https://expresso.pt/","description":"No Expresso leia opinião, economia, política, cultura, lifestyle, cinema, desporto, última hora. Veja fotografias e vídeos.","items":['
         replace: '['
         include: "**latest--expresso.json"
+        regex: false
     #- name: Download Expresso Feed
     #  run: |-
     #    curl -o latest--expresso.xml  https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true
