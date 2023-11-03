@@ -85,8 +85,8 @@ jobs:
     - name: Find and Replace Expresso init json
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: '{"version":"https://jsonfeed.org/version/1","titulo":"Expresso","home_page_url":"https://expresso.pt/","description":"No Expresso leia opinião, economia, política, cultura, lifestyle, cinema, desporto, última hora. Veja fotografias e vídeos.","items":[{'
-        replace: '[{'
+        find: '{"version":"https://jsonfeed.org/version/1","titulo":"Expresso","home_page_url":"https://expresso.pt/","description":"No Expresso leia opinião, economia, política, cultura, lifestyle, cinema, desporto, última hora. Veja fotografias e vídeos.","items":'
+        replace: ''
         include: "**latest--expresso.json"
     - name: Find and Replace Expresso end json
       uses: jacobtomlinson/gha-find-replace@v3
