@@ -19,6 +19,9 @@ jobs:
     - name: Download Observador Feed
       run: |-
         curl "https://api.observador.pt/wp/lists/latest/" | jq -r tostring > latest--observador.json
+    - name: Download Expresso Feed
+      run: |-
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true" | jq -r tostring > latest--expresso.json
     - name: Find and Replace title
       uses: jacobtomlinson/gha-find-replace@v3
       with:
