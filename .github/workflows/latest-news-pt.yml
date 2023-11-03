@@ -58,9 +58,9 @@ jobs:
         find: ',"titulo":"'
         replace: ',"brandImg":"https://static.publico.pt/news/publico.png","titulo":"'
         include: "**latest--publico.json"
-    - name: Download Expresso Feed
-      run: |-
-        curl -o latest--expresso.xml  https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true
+    #- name: Download Expresso Feed
+    #  run: |-
+    #    curl -o latest--expresso.xml  https://rss.impresa.pt/feed/latest/expresso.rss?type=ARTICLE,VIDEO,GALLERY,STREAM,PLAYLIST,EVENT&limit=20&pubsubhub=true
     - name: Commit and push changes
       run: |-
         git diff
