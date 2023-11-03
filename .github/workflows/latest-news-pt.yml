@@ -2,7 +2,7 @@ name: Fetch latest news PT
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/5 6-23 * * *'
+    - cron:  '*/3 6-23 * * *'
 
 jobs:
   build:
