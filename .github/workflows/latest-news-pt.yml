@@ -15,31 +15,31 @@ jobs:
         fetch-depth: 0
     - name: Download Público Feed
       run: |-
-        curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq '.[:20] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, brandImg: "https://static.publico.pt/news/publico.png"})' | jq -r tostring > digest/latest--publico.json
+        curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq '.[:20] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, brandImg: "/assets/img/publico.png"})' | jq -r tostring > digest/latest--publico.json
     - name: Download Observador Feed
       run: |-
-        curl "https://api.observador.pt/wp/lists/latest/?$(date +%s)" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, brandImg: "https://static.publico.pt/news/observador.png"})' | jq -r tostring > digest/latest--observador.json
+        curl "https://api.observador.pt/wp/lists/latest/?$(date +%s)" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, brandImg: "/assets/img/observador.png"})' | jq -r tostring > digest/latest--observador.json
     - name: Download Expresso Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fexpresso.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/expresso.png"})' | jq -r tostring > digest/latest--expresso.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fexpresso.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/expresso.png"})' | jq -r tostring > digest/latest--expresso.json
     - name: Download Expresso Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fsicnot.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/sic-noticias.png"})' | jq -r tostring > digest/latest--sicnoticias.json
-    - name: Download DN Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FDN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/dn.png"})' | jq -r tostring > digest/dn.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fsicnot.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/sic-noticias.png"})' | jq -r tostring > digest/latest--sicnoticias.json
+    #- name: Download DN Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FDN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/dn.png"})' | jq -r tostring > digest/dn.json
     - name: Download RTP Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/rtp.png"})' | jq -r tostring > digest/latest--rtp.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/rtp.png"})' | jq -r tostring > digest/latest--rtp.json
     - name: Download Jonnal Económico Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/economico.png"})' | jq -r tostring > digest/latest--economico.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, brandImg:"/assets/img/economico.png"})' | jq -r tostring > digest/latest--economico.json
     - name: Download Notícias ao Minuto Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/noticiasaominuto.png"})' | jq -r tostring > digest/latest--noticiasaominuto.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/noticiasaominuto.png"})' | jq -r tostring > digest/latest--noticiasaominuto.json
     - name: Download CNN Portugal Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fcnnportugal.iol.pt%2Frss.xml&minify=on&v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/cnn-portugal.png"})' | jq -r tostring > digest/latest--cnnportugal.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fcnnportugal.iol.pt%2Frss.xml&minify=on&v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/cnn-portugal.png"})' | jq -r tostring > digest/latest--cnnportugal.json
     - name: Find and Replace Links
       uses: jacobtomlinson/gha-find-replace@v3
       with:
