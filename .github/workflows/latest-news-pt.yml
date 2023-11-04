@@ -15,7 +15,7 @@ jobs:
         fetch-depth: 0
     - name: Download Público Feed
       run: |-
-        curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq -r tostring > latest--publico.json
+        curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq '.[:20] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, brandImg: "https://static.publico.pt/news/publico.png"})' | jq -r tostring > latest--publico.json
     - name: Download Observador Feed
       run: |-
         curl "https://api.observador.pt/wp/lists/latest/?$(date +%s)" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, brandImg: "https://static.publico.pt/news/observador.png"})' | jq -r tostring > latest--observador.json
@@ -25,18 +25,6 @@ jobs:
     - name: Download RTP Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/rtp.png"})' | jq -r tostring > latest--rtp.json
-    - name: Find and Replace titulo
-      uses: jacobtomlinson/gha-find-replace@v3
-      with:
-        find: '"titulo":'
-        replace: '"title":'
-        include: "**latest--publico.json"
-    - name: Find and Replace data Publico
-      uses: jacobtomlinson/gha-find-replace@v3
-      with:
-        find: '"data":'
-        replace: '"date_published":'
-        include: "**latest--publico.json"
     - name: Find and Replace Links
       uses: jacobtomlinson/gha-find-replace@v3
       with:
@@ -49,12 +37,6 @@ jobs:
         find: '},"date_published":'
         replace: ',"date_published":'
         include: "**latest--observador.json"
-    - name: Find and Replace image Publico
-      uses: jacobtomlinson/gha-find-replace@v3
-      with:
-        find: ',"title":"'
-        replace: ',"brandImg":"https://static.publico.pt/news/publico.png","title":"'
-        include: "**latest--publico.json"
     - name: Commit and push changes
       run: |-
         git diff
