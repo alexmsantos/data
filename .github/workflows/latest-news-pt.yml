@@ -25,10 +25,10 @@ jobs:
     - name: Download RTP Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/rtp.png"})' | jq -r tostring > digest/latest--rtp.json
-    - name: Download RTP Feed
+    - name: Download Jonnal Económico Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/economico.png"})' | jq -r tostring > digest/latest--economico.json
-    - name: Download RTP Feed
+    - name: Download Notícias ao Minuto Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/noticiasaominuto.png"})' | jq -r tostring > digest/latest--noticiasaominuto.json
     - name: Find and Replace Links
