@@ -63,7 +63,7 @@ jobs:
         include: "**latest--publico.json"
     - name: Edit OBS Feed
       run: |-
-        curl "https://raw.githubusercontent.com/alexmsantos/data/main/latest--observador.json?$(date +%s)" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/observador.png"})' | jq -r tostring > latest--observador.json
+        curl "https://raw.githubusercontent.com/alexmsantos/data/main/latest--observador.json?$(date +%s)" | jq '.[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/observador.png"})' | jq -r tostring > latest--observador.json
     - name: Commit and push changes
       run: |-
         git diff
