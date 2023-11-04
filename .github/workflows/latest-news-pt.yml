@@ -18,7 +18,7 @@ jobs:
         curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq -r tostring > latest--publico.json
     - name: Download Observador Feed
       run: |-
-        curl "https://api.observador.pt/wp/lists/latest/?$(date +%s)" | jq -r tostring > latest--observador.json
+        curl "https://api.observador.pt/wp/lists/latest/?$(date +%s)" | .[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, brandImg: "https://static.publico.pt/news/observador.png"}) | jq -r tostring > latest--observador.json
     - name: Download Expresso Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fexpresso.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/expresso.png"})' | jq -r tostring > latest--expresso.json
@@ -37,12 +37,6 @@ jobs:
         find: '"data":'
         replace: '"date_published":'
         include: "**latest--publico.json"
-    - name: Find and Replace pubDate OBS
-      uses: jacobtomlinson/gha-find-replace@v3
-      with:
-        find: '"pubDate":'
-        replace: '"date_published":'
-        include: "**latest--observador.json"
     - name: Find and Replace Links
       uses: jacobtomlinson/gha-find-replace@v3
       with:
