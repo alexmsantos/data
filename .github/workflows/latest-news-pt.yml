@@ -61,9 +61,12 @@ jobs:
         find: ',"title":"'
         replace: ',"brandImg":"https://static.publico.pt/news/publico.png","title":"'
         include: "**latest--publico.json"
-    - name: Edit OBS Feed
-      run: |-
-        curl "https://raw.githubusercontent.com/alexmsantos/data/main/latest--observador.json" | jq '.[:20] | map({title, url, date_published, brandImg:"https://static.publico.pt/news/observador.png"})' | jq -r tostring > latest--observador.json
+    - name: Find and Replace image Observador
+      uses: jacobtomlinson/gha-find-replace@v3
+      with:
+        find: ',"title":"'
+        replace: ',"brandImg":"https://static.publico.pt/news/publico.png","title":"'
+        include: "**latest--observador.json"
     - name: Commit and push changes
       run: |-
         git diff
