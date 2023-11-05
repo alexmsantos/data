@@ -40,6 +40,9 @@ jobs:
     - name: Download Dinheiro Vivo Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/dv.png"})' | jq -r tostring > digest/latest--dinheirovivo.json
+    - name: Download Rádio Renascença Feed
+      run: |-
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frr.sapo.pt%2Frss%2Frssfeed.aspx%3Fsection%3Dsection_noticias?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/rr.png"})' | jq -r tostring > digest/latest--rr.json
     - name: Download Notícias ao Minuto Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/noticiasaominuto.png"})' | jq -r tostring > digest/latest--noticiasaominuto.json
