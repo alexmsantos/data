@@ -45,7 +45,7 @@ jobs:
         curl "https://www.toptal.com/developers/feed2json/convert?url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Jornal de Negócios", mediaLogo: "/assets/img/negocios.png"})' | jq -r tostring > digest/latest--negocios.json
     - name: Download Rádio Renascença Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://rr.sapo.pt/rss/rssfeed.aspx?v=2331&section=section_noticias" | jq '.items[:20] | map({title, url, date_published, media: "Rádio Renascença", mediaLogo: "/assets/img/rr.png"})' | jq -r tostring > digest/latest--rr.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://rr.sapo.pt/rss/rssfeed.aspx?v=$(date +%s)&section=section_noticias" | jq '.items[:20] | map({title, url, date_published, media: "Rádio Renascença", mediaLogo: "/assets/img/rr.png"})' | jq -r tostring > digest/latest--rr.json
     - name: Download Notícias ao Minuto Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Notícias ao Minuto", mediaLogo: "/assets/img/noticiasaominuto.png"})' | jq -r tostring > digest/latest--noticiasaominuto.json
