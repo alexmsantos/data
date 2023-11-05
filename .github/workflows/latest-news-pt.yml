@@ -1,4 +1,4 @@
-name: Fetch latest news PT
+name: Fetch News Digest PT
 on:
   workflow_dispatch:
   schedule:
@@ -73,5 +73,5 @@ jobs:
         git config user.name "Automated"
         git config user.email "---"
         git pull
-        git diff --quiet || (git add -A && git commit -m "Updated with latest news PT")
+        git diff --quiet || (git add -A && git commit -m "Updated News Digest PT")
         git push
