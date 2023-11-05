@@ -37,9 +37,9 @@ jobs:
     - name: Download Notícias ao Minuto Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/noticiasaominuto.png"})' | jq -r tostring > digest/latest--noticiasaominuto.json
-    - name: Download CNN Portugal Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fcnnportugal.iol.pt%2Frss.xml%3Fv%3D$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/cnn-portugal.png"})' | jq -r tostring > digest/latest--cnnportugal.json
+    #- name: Download CNN Portugal Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fcnnportugal.iol.pt%2Frss.xml%3Fv%3D$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, brandImg:"/assets/img/cnn-portugal.png"})' | jq -r tostring > digest/latest--cnnportugal.json
     - name: Find and Replace Links
       uses: jacobtomlinson/gha-find-replace@v3
       with:
