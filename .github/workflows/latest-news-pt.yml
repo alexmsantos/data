@@ -36,7 +36,7 @@ jobs:
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fsicnot.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "SIC Notícias", mediaLogo: "/assets/img/sic-noticias.png"})' | jq -r tostring > digest/latest--sicnoticias.json
     - name: Download DN Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://ws.globalnoticias.pt/feed/dn/articles/ultimas/rss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Diário de Notícias", mediaLogo: "/assets/img/dn.png"})' | jq -r tostring > digest/latest--dn.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FDN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Diário de Notícias", mediaLogo: "/assets/img/dn.png"})' | jq -r tostring > digest/latest--dn.json
     #- name: Download JN Feed
     #  run: |-
     #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FJN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Jornal de Notícias", mediaLogo: "/assets/img/jn.png"})' | jq -r tostring > digest/latest--jn.json
