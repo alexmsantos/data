@@ -19,7 +19,7 @@ jobs:
     - name: Download CNN Portugal xml
       run: |-
         curl -o cnnportugal.xml https://cnnportugal.iol.pt/rss.xml
-    - name: Delete GMT from cnn.xml
+    - name: Delete GMT from rr.xml
       run: |-
         sed -i 's/GMT+1//g' rr.xml
     - name: Download Público Feed
