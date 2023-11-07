@@ -15,8 +15,11 @@ jobs:
         fetch-depth: 0
     - name: Download RR xml
       run: |-
-        curl -o rr.xml  https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
-    - name: Delete GMT from rr.xml
+        curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
+    - name: Download CNN Portugal xml
+      run: |-
+        curl -o cnnportugal.xml https://cnnportugal.iol.pt/rss.xml
+    - name: Delete GMT from cnn.xml
       run: |-
         sed -i 's/GMT+1//g' rr.xml
     - name: Download Público Feed
