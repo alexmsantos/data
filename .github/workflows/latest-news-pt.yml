@@ -16,9 +16,9 @@ jobs:
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
-    - name: Download CNN Portugal xml
-      run: |-
-        curl -o cnnportugal.xml https://cnnportugal.iol.pt/rss.xml
+    #- name: Download CNN Portugal xml
+    #  run: |-
+    #    curl -o cnnportugal.xml https://cnnportugal.iol.pt/rss.xml
     - name: Delete GMT from rr.xml
       run: |-
         sed -i 's/GMT+1//g' rr.xml
@@ -61,9 +61,9 @@ jobs:
     #- name: Download Eco Feed
     #  run: |-
     #    curl "https://eco.sapo.pt/wp-json/eco/v1/items" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, media: "Eco", mediaLogo: "/assets/img/eco.png"})' | jq -r tostring > digest/latest--eco.json
-    - name: Download CNN Portugal Feed
-      run: |-
-        curl "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcnnportugal.iol.pt%2Frss.xml?v=$(date +%s)" | jq '.items[:20] |  map(.date_published = .pubDate | .url = .link | del(.pubDate, .link)) | map({title, url, date_published, media: "CNN Portugal", mediaLogo: "/assets/img/cnn-portugal.png"})' | jq -r tostring > digest/latest--cnnportugal.json
+    #- name: Download CNN Portugal Feed
+    #  run: |-
+    #    curl "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcnnportugal.iol.pt%2Frss.xml?v=$(date +%s)" | jq '.items[:20] |  map(.date_published = .pubDate | .url = .link | del(.pubDate, .link)) | map({title, url, date_published, media: "CNN Portugal", mediaLogo: "/assets/img/cnn-portugal.png"})' | jq -r tostring > digest/latest--cnnportugal.json
     - name: Find and Replace Links
       uses: jacobtomlinson/gha-find-replace@v3
       with:
