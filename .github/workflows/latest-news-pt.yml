@@ -18,7 +18,7 @@ jobs:
         curl -o rr.xml  https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
     - name: Delete GMT from rr.xml
       run: |-
-        sed -i '' -e 's/GMT+1//g' rr.xml
+        sed -i '' -e 's/GMT+1//g' https://raw.githubusercontent.com/alexmsantos/data/main/rr.xml
     - name: Download Público Feed
       run: |-
         curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq '.[:20] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, media: "Público", mediaLogo: "/assets/img/publico.png"})' | jq -r tostring > digest/latest--publico.json
