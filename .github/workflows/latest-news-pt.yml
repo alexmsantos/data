@@ -24,46 +24,46 @@ jobs:
         sed -i 's/GMT+1//g' rr.xml
     - name: Download Público Feed
       run: |-
-        curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq '.[:20] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, media: "Público", mediaLogo: "publico"})' | jq -r tostring > digest/latest--publico.json
+        curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq '.[:20] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, media: "Público"})' | jq -r tostring > digest/latest--publico.json
     - name: Download Observador Feed
       run: |-
-        curl "https://api.observador.pt/wp/lists/latest/?$(date +%s)" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, media: "Observador", mediaLogo: "observador"})' | jq -r tostring > digest/latest--observador.json
+        curl "https://api.observador.pt/wp/lists/latest/?$(date +%s)" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, media: "Observador"})' | jq -r tostring > digest/latest--observador.json
     - name: Download Expresso Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fexpresso.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Expresso", mediaLogo: "expresso"})' | jq -r tostring > digest/latest--expresso.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fexpresso.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Expresso"})' | jq -r tostring > digest/latest--expresso.json
     - name: Download SIC Notícias Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fsicnot.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "SIC Notícias", mediaLogo: "sic-noticias"})' | jq -r tostring > digest/latest--sicnoticias.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fsicnot.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "SIC Notícias"})' | jq -r tostring > digest/latest--sicnoticias.json
     - name: Download DN Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FDN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Diário de Notícias", mediaLogo: "dn"})' | jq -r tostring > digest/latest--dn.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FDN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Diário de Notícias"})' | jq -r tostring > digest/latest--dn.json
     #- name: Download JN Feed
     #  run: |-
-    #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FJN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Jornal de Notícias", mediaLogo: "jn"})' | jq -r tostring > digest/latest--jn.json
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FJN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Jornal de Notícias"})' | jq -r tostring > digest/latest--jn.json
     - name: Download RTP Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "RTP", mediaLogo: "rtp"})' | jq -r tostring > digest/latest--rtp.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "RTP"})' | jq -r tostring > digest/latest--rtp.json
     - name: Download Jornal Económico Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Jornal Económico", mediaLogo: "economico"})' | jq -r tostring > digest/latest--economico.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Jornal Económico"})' | jq -r tostring > digest/latest--economico.json
     - name: Download Dinheiro Vivo Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Dinheiro Vivo", mediaLogo: "dv"})' | jq -r tostring > digest/latest--dinheirovivo.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Dinheiro Vivo"})' | jq -r tostring > digest/latest--dinheirovivo.json
     - name: Download Jornal de Negócios Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Jornal de Negócios", mediaLogo: "negocios"})' | jq -r tostring > digest/latest--negocios.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Jornal de Negócios"})' | jq -r tostring > digest/latest--negocios.json
     - name: Download Rádio Renascença Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/rr.xml?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Rádio Renascença", mediaLogo: "rr"})' | jq -r tostring > digest/latest--rr.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/rr.xml?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Rádio Renascença"})' | jq -r tostring > digest/latest--rr.json
     - name: Download Notícias ao Minuto Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Notícias ao Minuto", mediaLogo: "noticiasaominuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Notícias ao Minuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
     #- name: Download Eco Feed
     #  run: |-
-    #    curl "https://eco.sapo.pt/wp-json/eco/v1/items" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, media: "Eco", mediaLogo: "eco"})' | jq -r tostring > digest/latest--eco.json
+    #    curl "https://eco.sapo.pt/wp-json/eco/v1/items" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, media: "Eco"})' | jq -r tostring > digest/latest--eco.json
     #- name: Download CNN Portugal Feed
     #  run: |-
-    #    curl "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcnnportugal.iol.pt%2Frss.xml?v=$(date +%s)" | jq '.items[:20] |  map(.date_published = .pubDate | .url = .link | del(.pubDate, .link)) | map({title, url, date_published, media: "CNN Portugal", mediaLogo: "cnn-portugal"})' | jq -r tostring > digest/latest--cnnportugal.json
+    #    curl "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fcnnportugal.iol.pt%2Frss.xml?v=$(date +%s)" | jq '.items[:20] |  map(.date_published = .pubDate | .url = .link | del(.pubDate, .link)) | map({title, url, date_published, media: "CNN Portugal"})' | jq -r tostring > digest/latest--cnnportugal.json
     #- name: Parse date
     #  run: |-
     #    jq '.[].date_published |= strflocaltime' digest/latest--cnnportugal.json
