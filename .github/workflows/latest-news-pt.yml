@@ -58,7 +58,7 @@ jobs:
     - name: Download Notícias ao Minuto Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Notícias ao Minuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
-    - name: Download Notícias ao Minuto Feed
+    - name: Download Google Trends Feed
       run: |-
         curl "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT" | jq -r tostring > digest/google-trends.json
     #- name: Download Eco Feed
