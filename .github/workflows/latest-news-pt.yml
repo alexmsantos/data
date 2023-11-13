@@ -60,7 +60,7 @@ jobs:
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Notícias ao Minuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
     - name: Download Google Trends Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT&v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Google Trends"})' |jq -r tostring > digest/google-trends.json
+        curl -H 'Cache-Control: no-cache, no-store' "https://www.toptal.com/developers/feed2json/convert?url=https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT" | jq '.items[:20] | map({title, url, date_published, media: "Google Trends"})' |jq -r tostring > digest/google-trends.json
     #- name: Download Eco Feed
     #  run: |-
     #    curl "https://eco.sapo.pt/wp-json/eco/v1/items" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, media: "Eco"})' | jq -r tostring > digest/latest--eco.json
