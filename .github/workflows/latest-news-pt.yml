@@ -64,8 +64,8 @@ jobs:
     - name: Find and Replace standalone part
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: " standalone='yes'?"
-        replace: " standalone='no'?"
+        find: "standalone='yes'"
+        replace: "standalone='no'"
         include: "google-trends.xml"
     - name: Download Google Trends Feed
       run: |-
