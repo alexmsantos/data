@@ -64,8 +64,8 @@ jobs:
     - name: Find and Replace standalone part
       uses: jacobtomlinson/gha-find-replace@v3
       with:
-        find: "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>"
-        replace: "<?xml version='1.0' encoding='UTF-8'"
+        find: 'yes'
+        replace: 'no'
         include: "google-trends.xml"
     - name: Download Google Trends Feed
       run: |-
