@@ -64,6 +64,9 @@ jobs:
     - name: Change Yes to No in google-trends.xml
       run: |-
         sed -i 's/yes/no/g' google-trends.xml
+    - name: Change property name in google-trends.xml
+      run: |-
+        sed -i 's/ht:approx_traffic/approx_traffic/g' google-trends.xml
     - name: Download Google Trends Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/google-trends.xml?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Google Trends", approx_traffic})' |jq -r tostring > digest/google-trends.json
