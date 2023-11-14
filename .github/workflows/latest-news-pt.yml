@@ -15,7 +15,7 @@ jobs:
         fetch-depth: 0
     - name: Download Google Trends xml
       run: |-
-        curl -o google-trends.xml https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT
+        curl -o google-trends.xml https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT&$(date +%s)
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
