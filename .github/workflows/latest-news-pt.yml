@@ -69,7 +69,7 @@ jobs:
         sed -i 's/ht:approx_traffic/approx_traffic/g' google-trends.xml
     - name: Download Google Trends Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/google-trends.xml?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Google Trends", approx_traffic})' |jq -r tostring > digest/google-trends.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/google-trends.xml?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, approx_traffic, media: "Google Trends"})' |jq -r tostring > digest/google-trends.json
     #- name: Download Eco Feed
     #  run: |-
     #    curl "https://eco.sapo.pt/wp-json/eco/v1/items" | jq '.[:20] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, media: "Eco"})' | jq -r tostring > digest/latest--eco.json
