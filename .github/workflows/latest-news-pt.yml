@@ -45,7 +45,7 @@ jobs:
     #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FJN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "JN"})' | jq -r tostring > digest/latest--jn.json
     - name: Download RTP Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "RTP notícias"})' | jq -r tostring > digest/latest--rtp.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "RTP Notícias"})' | jq -r tostring > digest/latest--rtp.json
     - name: Download Jornal Económico Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Jornal Económico"})' | jq -r tostring > digest/latest--economico.json
