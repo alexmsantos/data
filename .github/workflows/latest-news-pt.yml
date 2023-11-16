@@ -39,10 +39,10 @@ jobs:
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fsicnot.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "SIC Notícias"})' | jq -r tostring > digest/latest--sicnoticias.json
     - name: Download DN Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FDN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Diário de Notícias"})' | jq -r tostring > digest/latest--dn.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FDN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "DN"})' | jq -r tostring > digest/latest--dn.json
     #- name: Download JN Feed
     #  run: |-
-    #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FJN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Jornal de Notícias"})' | jq -r tostring > digest/latest--jn.json
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FJN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "JN"})' | jq -r tostring > digest/latest--jn.json
     - name: Download RTP Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "RTP"})' | jq -r tostring > digest/latest--rtp.json
@@ -54,10 +54,10 @@ jobs:
         curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Dinheiro Vivo"})' | jq -r tostring > digest/latest--dinheirovivo.json
     - name: Download Jornal de Negócios Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Jornal de Negócios"})' | jq -r tostring > digest/latest--negocios.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Negócios"})' | jq -r tostring > digest/latest--negocios.json
     - name: Download Rádio Renascença Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/rr.xml?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Rádio Renascença"})' | jq -r tostring > digest/latest--rr.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/rr.xml?v=$(date +%s)" | jq '.items[:20] | map({title, url, date_published, media: "Renascença"})' | jq -r tostring > digest/latest--rr.json
     - name: Download Notícias ao Minuto Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Notícias ao Minuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
