@@ -27,6 +27,27 @@
 			</ht:news_item>
 		</item>
 		<item>
+			<title>Guiné-Bissau</title>
+			<ht:approx_traffic>1,000+</ht:approx_traffic>
+			<description>guine bissau</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guin%C3%A9-Bissau</link>
+			<pubDate>Thu, 16 Nov 2023 13:00:00 +0000</pubDate>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcQbBYvKailFWyVfcnskE-ARKS6_VDzks9RfH3LGJWj0X9lqW2Wjm6DNvWXW8xFG0wUPnFVLBvvb</ht:picture>
+			<ht:picture_source>RTP</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Marcelo e Costa juntos na Guiné-Bissau para celebrar 50 anos de ...</ht:news_item_title>
+				<ht:news_item_snippet>O Presidente da República, Marcelo Rebelo de Sousa, e o ...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.rtp.pt/madeira/politica/marcelo-e-costa-juntos-na-guine-bissau-para-celebrar-50-anos-de-independencia_128871</ht:news_item_url>
+				<ht:news_item_source>RTP</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>António Costa condecorado pelo Presidente da República da Guiné ...</ht:news_item_title>
+				<ht:news_item_snippet>O primeiro-ministro português, António Costa, foi hoje condecorado na Guiné-Bissau, com a Ordem Nacional Colinas de Boé, das mais altas condecorações&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://24.sapo.pt/atualidade/artigos/antonio-costa-condecorado-pelo-presidente-da-republica-da-guine-bissau</ht:news_item_url>
+				<ht:news_item_source>SAPO 24</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>Adriana Lima</title>
 			<ht:approx_traffic>1,000+</ht:approx_traffic>
 			<description></description>
@@ -41,31 +62,10 @@
 				<ht:news_item_source>Notícias ao Minuto</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Marina Ruy Barbosa sai em defesa de Adriana Lima após ...</ht:news_item_title>
-				<ht:news_item_snippet>Top foi acusada de abusar de procedimentos estéticos. Na ocasião, Adriana respondeu que era o &amp;quot;rosto de uma mãe cansada&amp;quot;</ht:news_item_snippet>
-				<ht:news_item_url>https://glamour.globo.com/entretenimento/noticia/2023/11/marina-ruy-barbosa-sai-em-defesa-de-adriana-lima-apos-internautas-criticarem-aparencia-da-modelo-doentio-e-toxico.ghtml</ht:news_item_url>
-				<ht:news_item_source>Glamour</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Guine Bissau</title>
-			<ht:approx_traffic>1,000+</ht:approx_traffic>
-			<description>guiné bissau</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guine%20Bissau</link>
-			<pubDate>Thu, 16 Nov 2023 13:00:00 +0000</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcQbBYvKailFWyVfcnskE-ARKS6_VDzks9RfH3LGJWj0X9lqW2Wjm6DNvWXW8xFG0wUPnFVLBvvb</ht:picture>
-			<ht:picture_source>RTP</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Marcelo e Costa juntos na Guiné-Bissau para celebrar 50 anos de ...</ht:news_item_title>
-				<ht:news_item_snippet>O Presidente da República, Marcelo Rebelo de Sousa, e o ... Publicado há 25 minutos.</ht:news_item_snippet>
-				<ht:news_item_url>https://www.rtp.pt/madeira/politica/marcelo-e-costa-juntos-na-guine-bissau-para-celebrar-50-anos-de-independencia_128871</ht:news_item_url>
-				<ht:news_item_source>RTP</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Marcelo inaugura rua com o seu nome em Guiné-Bissau</ht:news_item_title>
-				<ht:news_item_snippet>O chefe de Estado, Marcelo Rebelo de Sousa, inaugurou esta quinta-feira uma rua com o seu nome em Bissau, juntamente com o Presidente guineense,&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.jn.pt/5515005455/marcelo-inaugura-rua-com-o-seu-nome-em-guine-bissau/</ht:news_item_url>
-				<ht:news_item_source>Jornal de Notícias</ht:news_item_source>
+				<ht:news_item_title>Marina Ruy Barbosa defende Adriana Lima após internautas ...</ht:news_item_title>
+				<ht:news_item_snippet>Após Adriana Lima comparecer a um evento com sua família, muitos acusaram ela de ter, supostamente, exagerado em procedimentos estéticos.</ht:news_item_snippet>
+				<ht:news_item_url>https://revistaquem.globo.com/noticias/noticia/2023/11/marina-ruy-barbosa-defende-adriana-lima-apos-internautas-criticarem-aparencia-de-modelo.ghtml</ht:news_item_url>
+				<ht:news_item_source>Quem Acontece</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -132,6 +132,21 @@
 			</ht:news_item>
 		</item>
 		<item>
+			<title>Dakota Johnson</title>
+			<ht:approx_traffic>500+</ht:approx_traffic>
+			<description></description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dakota%20Johnson</link>
+			<pubDate>Thu, 16 Nov 2023 13:00:00 +0000</pubDate>
+			<ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcRhVkzd1rQa_OqV_BNcvRnkiEscfcFfOOcHbxCYbkVsvECnUunHQ14GudVqi11rOtE4T16aYzDW</ht:picture>
+			<ht:picture_source>CARAS</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Caras | Dakota Johnson agradece apoio de Chris Martin para ...</ht:news_item_title>
+				<ht:news_item_snippet>O casal está junto há mais de cinco anos, apesar de ter passado por um breve afastamento.</ht:news_item_snippet>
+				<ht:news_item_url>https://caras.pt/famosos/2023-11-16-dakota-johnson-agradece-apoio-de-chris-martin-para-ultrapassar-depressao/</ht:news_item_url>
+				<ht:news_item_source>CARAS</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
 			<title>Surfshark</title>
 			<ht:approx_traffic>500+</ht:approx_traffic>
 			<description></description>
@@ -144,21 +159,6 @@
 				<ht:news_item_snippet>Entenda como o Surfshark Alert ajuda a navegar com mais segurança e aproveite para assinar o serviço agora mesmo.</ht:news_item_snippet>
 				<ht:news_item_url>https://olhardigital.com.br/2023/11/16/seguranca/surfshark-alert-avisa-quando-seus-dados-vazaram-para-voce-se-proteger/</ht:news_item_url>
 				<ht:news_item_source>Olhar Digital</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Dakota Johnson</title>
-			<ht:approx_traffic>500+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dakota%20Johnson</link>
-			<pubDate>Thu, 16 Nov 2023 13:00:00 +0000</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcQGMsx2FA-xkZh9CFNx6EnpgazhEZZyysKWpUzeB6Ui9bVb-jREFD-ty4yYI7-zXh3ekcD0oFrb</ht:picture>
-			<ht:picture_source>CARAS</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Caras | Dakota Johnson agradece apoio de Chris Martin para ...</ht:news_item_title>
-				<ht:news_item_snippet>O casal está junto há mais de cinco anos, apesar de ter passado por um breve afastamento.</ht:news_item_snippet>
-				<ht:news_item_url>https://caras.pt/famosos/2023-11-16-dakota-johnson-agradece-apoio-de-chris-martin-para-ultrapassar-depressao/</ht:news_item_url>
-				<ht:news_item_source>CARAS</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -176,10 +176,10 @@
 				<ht:news_item_source>ECO Economia Online</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Direita diz que o recuo no IUC é “eleitoralismo”, esquerda satisfeita</ht:news_item_title>
-				<ht:news_item_snippet>No entender do PSD, o argumento invocado pelo PS para suportar a descida do IUC — “preocupações ambientais” — era “falso”. Mortágua, líder do BE,&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.publico.pt/2023/11/15/politica/noticia/direita-recuo-iuc-eleitoralismo-socialista-2070294</ht:news_item_url>
-				<ht:news_item_source>PÚBLICO</ht:news_item_source>
+				<ht:news_item_title>IUC: “Isto foi muito além da perceção de que eram apenas dois ...</ht:news_item_title>
+				<ht:news_item_snippet>Foi uma das medidas do Orçamento do Estado mais polémicas e acaba por cair por iniciativa do PS. A ideia não ficou totalmente abandonada e será retomada num&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.jornaldenegocios.pt/economia/detalhe/iuc-isto-foi-muito-alem-da-percecao--de-que-eram-apenas-dois-euros-por-mes</ht:news_item_url>
+				<ht:news_item_source>Jornal de Negócios - Portugal</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -222,6 +222,27 @@
 				<ht:news_item_snippet>Há 19 anos, a seleção empatou a dois golos em Vaduz no apuramento para o Mundial 2006. O então presidente da FPF chegou a dizer que era um escândalo e o&amp;nbsp;...</ht:news_item_snippet>
 				<ht:news_item_url>https://www.dn.pt/desporto/liechtenstein-ja-valeu-um-raspanete-de-scolari-e-deixou-madail-a-beira-de-um-ataque--17345010.html</ht:news_item_url>
 				<ht:news_item_source>Diário de Notícias - Lisboa</ht:news_item_source>
+			</ht:news_item>
+		</item>
+		<item>
+			<title>Portugal Liechtenstein</title>
+			<ht:approx_traffic>2,000+</ht:approx_traffic>
+			<description>jogo portugal, jose sa, portugal jogo</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20Liechtenstein</link>
+			<pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcTtbSvLCJ-Ovc2o63fzupRihpYHimlKOOhHdDdlug2fbZvHMHt1nK7vnfKoROFUJI2lC_Ae7FYx</ht:picture>
+			<ht:picture_source>Exame Notícias</ht:picture_source>
+			<ht:news_item>
+				<ht:news_item_title>Liechtenstein x Portugal: onde assistir, horário e escalações do jogo ...</ht:news_item_title>
+				<ht:news_item_snippet>A partida entre Liechtenstein e Portugal é válida pela 9ª rodada das Eliminatórias Uefa Euro.</ht:news_item_snippet>
+				<ht:news_item_url>https://exame.com/esporte/liechtenstein-x-portugal-onde-assistir-horario-e-escalacoes-do-jogo-pelas-eliminatorias-eurocopa/</ht:news_item_url>
+				<ht:news_item_source>Exame Notícias</ht:news_item_source>
+			</ht:news_item>
+			<ht:news_item>
+				<ht:news_item_title>Antevisão Liechtenstein-Portugal: Calculadora? Não, obrigado</ht:news_item_title>
+				<ht:news_item_snippet>O penúltimo jogo de apuramento está marcado para esta quinta-feira, às 19h45, em Vaduz, capital do Liechtenstein. Antevisão Liechtenstein-Portugal:&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://desporto.sapo.pt/futebol/euro-qualificacao/artigos/antevisao-liechtenstein-portugal-maquina-de-calculadora-nao-obrigado</ht:news_item_url>
+				<ht:news_item_source>SAPO Desporto</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -279,27 +300,6 @@
 				<ht:news_item_snippet>Para além disso, também revela algo que os fãs há muito queriam conhecer, os uniformes de Julia Carpenter (Sydney Sweeney), Anya Corazon (Isabela Merced) e&amp;nbsp;...</ht:news_item_snippet>
 				<ht:news_item_url>https://pt.ign.com/madame-web/132610/news/madame-web-os-uniformes-das-spider-women</ht:news_item_url>
 				<ht:news_item_source>IGN Portugal</ht:news_item_source>
-			</ht:news_item>
-		</item>
-		<item>
-			<title>Jogo Portugal</title>
-			<ht:approx_traffic>2,000+</ht:approx_traffic>
-			<description>jose sa, portugal jogo</description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Portugal</link>
-			<pubDate>Wed, 15 Nov 2023 10:00:00 +0000</pubDate>
-			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcTtbSvLCJ-Ovc2o63fzupRihpYHimlKOOhHdDdlug2fbZvHMHt1nK7vnfKoROFUJI2lC_Ae7FYx</ht:picture>
-			<ht:picture_source>Exame Notícias</ht:picture_source>
-			<ht:news_item>
-				<ht:news_item_title>Liechtenstein x Portugal: onde assistir, horário e escalações do jogo ...</ht:news_item_title>
-				<ht:news_item_snippet>A partida entre Liechtenstein e Portugal é válida pela 9ª rodada das Eliminatórias Uefa Euro.</ht:news_item_snippet>
-				<ht:news_item_url>https://exame.com/esporte/liechtenstein-x-portugal-onde-assistir-horario-e-escalacoes-do-jogo-pelas-eliminatorias-eurocopa/</ht:news_item_url>
-				<ht:news_item_source>Exame Notícias</ht:news_item_source>
-			</ht:news_item>
-			<ht:news_item>
-				<ht:news_item_title>Liechtenstein x Portugal: Onde assistir, horário e prováveis ...</ht:news_item_title>
-				<ht:news_item_snippet>A seleção portuguesa segue invicta no grupo J, enquanto a equipe da casa é a última colocada e não conquistou nenhum ponto em 8 jogos. A partida será&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.lance.com.br/futebol-internacional/onde-assistir-liechtenstein-x-portugal-eliminatorias-euro.html</ht:news_item_url>
-				<ht:news_item_source>LANCE!</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
@@ -366,24 +366,24 @@
 			</ht:news_item>
 		</item>
 		<item>
-			<title>Adriane Garcia</title>
+			<title>Pedro Sánchez</title>
 			<ht:approx_traffic>1,000+</ht:approx_traffic>
-			<description></description>
-			<link>https://trends.google.com/trends/trendingsearches/daily?geo=PT#Adriane%20Garcia</link>
-			<pubDate>Wed, 15 Nov 2023 13:00:00 +0000</pubDate>
-			<ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcRoipBM_brNTMVjbhULYrvcxYMlx3dvGPFVlo0S4uyQ5W-wsJOYUKWvh9iP8Beo_z6kj6lbODNu</ht:picture>
-			<ht:picture_source>Jornal de Notícias</ht:picture_source>
+			<description>pedro sanchez</description>
+			<link>https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20S%C3%A1nchez</link>
+			<pubDate>Wed, 15 Nov 2023 19:00:00 +0000</pubDate>
+			<ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcRkm1xVRhRY_70jK3r_LSkDbgLjRHdTe3wNt7VGz3c7vg7xDCfZ232KIseT0dtvFIwG3G_2Ah8p</ht:picture>
+			<ht:picture_source>PÚBLICO</ht:picture_source>
 			<ht:news_item>
-				<ht:news_item_title>Adriane Garcia vítima de agressão em Lisboa</ht:news_item_title>
-				<ht:news_item_snippet>Apresentadora foi “agarrada por um homem por trás”, na segunda-feira, em Lisboa. Nas redes sociais, partilhou o episódio e alertou para as mulheres terem&amp;nbsp;...</ht:news_item_snippet>
-				<ht:news_item_url>https://www.jn.pt/1559928173/adriane-garcia-vitima-de-agressao-em-lisboa/</ht:news_item_url>
-				<ht:news_item_source>Jornal de Notícias</ht:news_item_source>
+				<ht:news_item_title>Pedro Sánchez reeleito presidente do Governo de Espanha</ht:news_item_title>
+				<ht:news_item_snippet>Congresso espanhol aprova investidura do candidato do PSOE, com 179 votos a favor, que incluem o apoio dos partidos independentistas catalães com quem os&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.publico.pt/2023/11/16/mundo/noticia/pedro-sanchez-reeleito-presidente-governo-espanha-2070419</ht:news_item_url>
+				<ht:news_item_source>PÚBLICO</ht:news_item_source>
 			</ht:news_item>
 			<ht:news_item>
-				<ht:news_item_title>Adriane Garcia agredida na rua: &amp;quot;Fui agarrada por um homem ...</ht:news_item_title>
-				<ht:news_item_snippet>A atriz e apresentadora Adriane Garcia não ganhou para o susto. Saiba o que aconteceu!</ht:news_item_snippet>
-				<ht:news_item_url>https://selfie.iol.pt/famosos/adriane-garcia/adriane-garcia-agredida-na-rua-fui-agarrada-por-um-homem-tentou-apalpar-me/20231115/6554e8fad34e371fc0b9e5de</ht:news_item_url>
-				<ht:news_item_source>SELFIE</ht:news_item_source>
+				<ht:news_item_title>Pedro Sánchez reeleito chefe do Governo espanhol</ht:news_item_title>
+				<ht:news_item_snippet>O socialista avança agora para mais um mandato, depois de ter sido eleito pela primeira vez em 2018. Acordo para a investidura gerou uma onda de protestos&amp;nbsp;...</ht:news_item_snippet>
+				<ht:news_item_url>https://www.jornaldenegocios.pt/economia/politica/detalhe/pedro-sanchez-reeleito-primeiro-ministro-de-espanha</ht:news_item_url>
+				<ht:news_item_source>Jornal de Negócios - Portugal</ht:news_item_source>
 			</ht:news_item>
 		</item>
 		<item>
