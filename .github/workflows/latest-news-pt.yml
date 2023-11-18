@@ -2,7 +2,7 @@ name: Fetch News Digest PT
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/* 6-1 * * *'
+    - cron:  '*/5 6-1 * * *'
 
 jobs:
   build:
