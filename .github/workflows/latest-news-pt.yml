@@ -1,6 +1,7 @@
 name: Fetch News Digest PT
 on:
   repository_dispatch:
+  #workflow_dispatch:
   schedule:
     - cron:  '*/5 5-23 * * *'
 
@@ -13,9 +14,9 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Download Google Trends xml
-      run: |-
-        curl -o google-trends.xml "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT&$(date +%s)"
+    #- name: Download Google Trends xml
+    #  run: |-
+    #    curl -o google-trends.xml "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT&$(date +%s)"
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
