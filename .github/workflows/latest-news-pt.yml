@@ -1,6 +1,6 @@
 name: Fetch News Digest PT
 on:
-  workflow_dispatch:
+  repository_dispatch:
   schedule:
     - cron:  '*/5 5-23 * * *'
 
