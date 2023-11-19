@@ -58,7 +58,7 @@ jobs:
         curl "https://api.rss2json.com/v1/api.json?rss_url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq -r tostring > negocios.json
     - name: Download Negócios Feed 2
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/negocios.json?v=$(date +%s)" | map(.date_published = .pubDate | .url = .link | del(.pubDate, .link)) | map({title, url, date_published, media: "Negócios"})' | jq -r tostring > digest/latest--negocios.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/negocios.json?v=$(date +%s)" | jq '.items[:12] | map(.date_published = .pubDate | .url = .link | del(.pubDate, .link)) | map({title, url, date_published, media: "Negócios"})' | jq -r tostring > digest/latest--negocios.json
     - name: Download Rádio Renascença Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/rr.xml?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "Renascença"})' | jq -r tostring > digest/latest--rr.json
