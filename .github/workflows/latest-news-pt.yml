@@ -71,9 +71,9 @@ jobs:
     - name: Download Notícias ao Minuto Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Notícias ao Minuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
-    - name: Change Yes to No in google-trends.xml
-      run: |-
-        sed -i 's/yes/no/g' google-trends.xml
+    #- name: Change Yes to No in google-trends.xml
+    #  run: |-
+    #    sed -i 's/yes/no/g' google-trends.xml
     #- name: Change property name in google-trends.xml
     #  run: |-
     #    sed -i 's/ht:approx_traffic/approx_traffic/g' google-trends.xml
