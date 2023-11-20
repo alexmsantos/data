@@ -74,6 +74,9 @@ jobs:
     - name: Download Novo Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https://onovo.sapo.pt/feed/?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "Novo"})' | jq -r tostring > digest/latest--novo.json    
+    - name: Download TSF Feed
+      run: |-
+        curl "https://www.toptal.com/developers/feed2json/convert?url=http://feeds.tsf.pt/TSF-Ultimas?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "TSF"})' | jq -r tostring > digest/latest--tsf.json
     #- name: Change Yes to No in google-trends.xml
     #  run: |-
     #    sed -i 's/yes/no/g' google-trends.xml
@@ -112,7 +115,7 @@ jobs:
     #    include: "digest/latest--observador.json"
     - name: Merge files
       run: |-
-        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--dn.json digest/latest--dinheirovivo.json digest/latest--rr.json digest/latest--novo.json | jq -r tostring > digest/digestpt.json
+        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--dn.json digest/latest--dinheirovivo.json digest/latest--rr.json digest/latest--novo.json digest/latest--tsf.json | jq -r tostring > digest/digestpt.json
     - name: Commit and push changes
       run: |-
         git diff
