@@ -92,18 +92,21 @@ jobs:
     - name: Sed links to url in observador.json
       run: |-
         sed -i 's/"links":{"webUri":/"url":/g' digest/latest--observador.json
+    - name: Sed links close tab in observador.json
+      run: |-
+        sed -i 's/},"date_published":/,"date_published":/g' digest/latest--observador.json
     #- name: Find and Replace Links
     #  uses: jacobtomlinson/gha-find-replace@v3
     #  with:
     #    find: '"links":{"webUri":'
     #    replace: '"url":'
     #    include: "digest/latest--observador.json"
-    - name: Find and Replace links close tag
-      uses: jacobtomlinson/gha-find-replace@v3
-      with:
-        find: '},"date_published":'
-        replace: ',"date_published":'
-        include: "digest/latest--observador.json"
+    #- name: Find and Replace links close tag
+    #  uses: jacobtomlinson/gha-find-replace@v3
+    #  with:
+    #    find: '},"date_published":'
+    #    replace: ',"date_published":'
+    #    include: "digest/latest--observador.json"
     - name: Merge files
       run: |-
         jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--dn.json digest/latest--dinheirovivo.json digest/latest--rr.json | jq -r tostring > digest/digestpt.json
