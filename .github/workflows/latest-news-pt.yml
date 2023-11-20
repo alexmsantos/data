@@ -53,12 +53,15 @@ jobs:
     - name: Download Dinheiro Vivo Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Dinheiro Vivo"})' | jq -r tostring > digest/latest--dinheirovivo.json
-    #- name: Download Negócios Feed 1
-    #  run: |-
-    #    curl "https://api.rss2json.com/v1/api.json?rss_url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq -r tostring > negocios.json
-    #- name: Download Negócios Feed 2
-    #  run: |-
-    #    curl "https://raw.githubusercontent.com/alexmsantos/data/main/negocios.json?v=$(date +%s)" | jq '.items[:12] | map(.date_published = .pubDate | .url = .link | del(.pubDate, .link)) | map({title, url, date_published, media: "Negócios"})' | jq -r tostring > digest/latest--negocios.json
+    - name: Download Negócios Feed 1
+      run: |-
+        curl "https://api.rss2json.com/v1/api.json?rss_url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq -r tostring > negocios.json
+    - name: Download Negócios Feed 2
+      run: |-
+        curl "https://raw.githubusercontent.com/alexmsantos/data/main/negocios.json?v=$(date +%s)" | jq '.items[:12] | map(.date_published = .pubDate | .url = .link | del(.pubDate, .link)) | map({title, url, date_published, media: "Negócios"})' | jq -r tostring > digest/latest--negocios.json
+    - name: Change Date format in digest/latest--negocios.json
+      run: |-
+        sed -e "s/^\(.*\)\([0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}\) \([0-9]\{2\}:[0-9]\{2\}:[0-9]\{2\}[.][0-9]\{1,3\}\)\(.*\)$/\1\2T\3Z\4/" digest/latest--negocios.json
     - name: Download Rádio Renascença Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/rr.xml?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "Renascença"})' | jq -r tostring > digest/latest--rr.json
@@ -97,7 +100,7 @@ jobs:
         include: "digest/latest--observador.json"
     - name: Merge files
       run: |-
-        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--dn.json digest/latest--dinheirovivo.json digest/latest--rr.json | jq -r tostring > digest/digestpt.json
+        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--dn.json digest/latest--dinheirovivo.json digest/latest--rr.json digest/latest--negocios.json | jq -r tostring > digest/digestpt.json
     - name: Commit and push changes
       run: |-
         git diff
