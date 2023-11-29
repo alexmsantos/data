@@ -2,7 +2,7 @@ name: Fetch weather
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/59 7-22 * * *'
+    - cron:  '* */3 * * *'
 
 jobs:
   build:
