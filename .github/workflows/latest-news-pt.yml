@@ -3,7 +3,7 @@ on:
   repository_dispatch:
   #workflow_dispatch:
   schedule:
-    - cron:  '*/6 * * * *'
+    - cron:  '*/5 * * * *'
 
 jobs:
   build:
