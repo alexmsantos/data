@@ -2,7 +2,7 @@ name: Fetch CTAs
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/30 3-4 * * 1'
+    - cron:  '0 4 * * 1'
 
 jobs:
   build:
