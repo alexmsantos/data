@@ -53,6 +53,9 @@ jobs:
     - name: Download Dinheiro Vivo Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Dinheiro Vivo"})' | jq -r tostring > digest/latest--dinheirovivo.json
+    - name: Download Dinheiro Vivo Feed
+      run: |-
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.cmjornal.pt%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Correio da Manhã"})' | jq -r tostring > digest/latest--cm.json
     #- name: Download Negócios xml
     #  run: |-
     #    curl -o negocios.xml https://www.jornaldenegocios.pt/rss?v=$(date +%s)
