@@ -20,12 +20,18 @@ jobs:
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
+    - name: Download CM xml
+      run: |-
+        curl -o cm.xml https://www.cmjornal.pt/rss?$(date +%s)
     #- name: Download CNN Portugal xml
     #  run: |-
     #    curl -o cnnportugal.xml https://cnnportugal.iol.pt/rss.xml
     - name: Delete GMT from rr.xml
       run: |-
         sed -i 's/GMT+1//g' rr.xml
+    - name: Insert UTF8 line in cm.xml
+      run: |-
+        sed '<?xml version="1.0" encoding="UTF-8"?>' cm.xml
     - name: Download Público Feed
       run: |-
         curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq '.[:12] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, media: "Público"})' | jq -r tostring > digest/latest--publico.json
@@ -53,9 +59,9 @@ jobs:
     - name: Download Dinheiro Vivo Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Dinheiro Vivo"})' | jq -r tostring > digest/latest--dinheirovivo.json
-    - name: Download Dinheiro Vivo Feed
+    - name: Download Correio da Manhã Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.cmjornal.pt%2Frss?v=$(date +%s)&minify=on" | jq '.items[:20] | map({title, url, date_published, media: "Correio da Manhã"})' | jq -r tostring > digest/latest--cm.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/cm.xml" | jq '.items[:20] | map({title, url, date_published, media: "Correio da Manhã"})' | jq -r tostring > digest/latest--cm.json
     #- name: Download Negócios xml
     #  run: |-
     #    curl -o negocios.xml https://www.jornaldenegocios.pt/rss?v=$(date +%s)
