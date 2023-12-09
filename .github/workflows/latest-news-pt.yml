@@ -31,7 +31,7 @@ jobs:
         sed -i 's/GMT+1//g' rr.xml
     - name: Insert UTF8 line in cm.xml
       run: |-
-        sed -i 's/<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">/<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">/g' cm.xml
+        sed -i 's/<rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/g' cm.xml
     - name: Download Público Feed
       run: |-
         curl "https://www.publico.pt/api/search/?size=20?$(date +%s)" | jq '.[:12] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, media: "Público"})' | jq -r tostring > digest/latest--publico.json
