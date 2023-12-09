@@ -20,9 +20,9 @@ jobs:
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
-    - name: Download CM xml
-      run: |-
-        curl -o cm.xml https://www.cmjornal.pt/rss?$(date +%s)
+    #- name: Download CM xml
+    #  run: |-
+    #    curl -o cm.xml https://www.cmjornal.pt/rss?$(date +%s)
     #- name: Download CNN Portugal xml
     #  run: |-
     #    curl -o cnnportugal.xml https://cnnportugal.iol.pt/rss.xml
