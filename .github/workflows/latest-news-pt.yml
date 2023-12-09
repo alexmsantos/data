@@ -59,18 +59,18 @@ jobs:
     - name: Download Dinheiro Vivo Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Dinheiro Vivo"})' | jq -r tostring > digest/latest--dinheirovivo.json
-    - name: Download Correio da Manhã Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/cm.xml" | jq '.items[:20] | map({title, url, date_published, media: "Correio da Manhã"})' | jq -r tostring > digest/latest--cm.json
+    #- name: Download Correio da Manhã Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/cm.xml" | jq '.items[:20] | map({title, url, date_published, media: "Correio da Manhã"})' | jq -r tostring > digest/latest--cm.json
     #- name: Download Negócios xml
     #  run: |-
     #    curl -o negocios.xml https://www.jornaldenegocios.pt/rss?v=$(date +%s)
     #- name: Download Negócios Feed 1
     #  run: |-
     #    curl "https://api.rss2json.com/v1/api.json?rss_url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq -r tostring > negocios.json
-    - name: Download Negócios Feed 2
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "Negócios"})' | jq -r tostring > digest/latest--negocios.json
+    #- name: Download Negócios Feed 2
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https://www.jornaldenegocios.pt/rss?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "Negócios"})' | jq -r tostring > digest/latest--negocios.json
     #- name: Change Date format in digest/latest--negocios.json
     #  run: |-
     #    sed -e "s/^\(.*\)\([0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}\) \([0-9]\{2\}:[0-9]\{2\}:[0-9]\{2\}[.][0-9]\{1,3\}\)\(.*\)$/\1\2T\3Z\4/" digest/latest--negocios.json
