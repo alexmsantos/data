@@ -1,0 +1,25 @@
+name: Cronologia mulheres 25 abril
+
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron:  '0 4 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Convert google sheet to csv
+      run: |-
+        wget -O mulheres25abril/cronologia.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3WwA_73awrFMkrPw7w_JwCeDPHikxop7wKPsRBW2KUW-0vu3zKSCCQo1ed1G8Cw/pub?output=csv"
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated cronologia mulheres 25 abril")
+        git push
