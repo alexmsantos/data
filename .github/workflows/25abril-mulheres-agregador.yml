@@ -1,1 +1,25 @@
+name: Agregador Mulheres 25 de Abril
 
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron:  '0 4 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Convert google sheet to csv
+      run: |-
+        wget -O mulheres25abril/agregador.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vT4bS8PSMGYMjfpfvJxiu8158_gdnWeiO_F4RoLW1H--4LLH6Ie0gnYBD1S28ZZYw/pub?output=csv"
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated Agregador mulheres 25 abril")
+        git push
