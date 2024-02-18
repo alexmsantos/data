@@ -86,6 +86,9 @@ jobs:
     - name: Download TSF Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=http://feeds.tsf.pt/TSF-Ultimas?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "TSF"})' | jq -r tostring > digest/latest--tsf.json
+    - name: Download Jornal i Feed
+      run: |-
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://feeds.feedburner.com/i-ultimas?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "Jornal i"})' | jq -r tostring > digest/latest--jornali.json
     #- name: Change Yes to No in google-trends.xml
     #  run: |-
     #    sed -i 's/yes/no/g' google-trends.xml
