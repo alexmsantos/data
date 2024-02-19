@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-19T12:41:00+00:00</dc:date>
+        <dc:date>2024-02-19T13:27:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Morreu no hospital criança baleada no Bairro da Bela Vista ]]></title>
+                <link>https://ionline.sapo.pt/artigo/810949/morreu-no-hospital-crianca-baleada-no-bairro-da-bela-vista?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+O menino foi baleado na cabeça, no domingo passado, por um carro em movimento.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-19T13:27:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Setúbal, Morte, Crianças, Tiroteio,  | O menino foi baleado na cabeça, no domingo passado, por um carro em movimento.
+					
+                   ]]>
+                </content:encoded>
+                <guid>810949</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/19/863778.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Cantora de Country Jessie James deu à luz o quarto filho ]]></title>
                 <link>https://ionline.sapo.pt/artigo/810948/cantora-de-country-jessie-james-deu-a-luz-o-quarto-filho?seccao=Mais_i</link>
@@ -427,27 +448,6 @@ Calçado, Feira, Milão, APICCAPS | A fileira portuguesa do calçado — que abr
                 <guid>810930</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/18/863759.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ FC Porto ganha ao Estrela da Amadora por duas bolas a zero ]]></title>
-                <link>https://ionline.sapo.pt/artigo/810929/fc-porto-ganha-ao-estrela-da-amadora-por-duas-bolas-a-zero?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-Dragões voltam às vitórias.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-02-17T22:44:35+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-FC Porto, Futebol,  | Dragões voltam às vitórias.
-					
-                   ]]>
-                </content:encoded>
-                <guid>810929</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/17/863758.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
