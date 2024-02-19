@@ -22,7 +22,7 @@ jobs:
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
     - name: Download Jornal i xml
       run: |-
-        curl -o jornali.xml https://ionline.sapo.pt/rss.xml
+        curl -o jornali.xml https://ionline.sapo.pt/rss.xml?v=$(date +%s)
     #- name: Download CM xml
     #  run: |-
     #    curl -o cm.xml https://www.cmjornal.pt/rss?$(date +%s)
