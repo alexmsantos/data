@@ -22,7 +22,7 @@ jobs:
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
     - name: Download Jornal i xml
       run: |-
-        curl -o jornali.xml https://ionline.sapo.pt/rss.xml?v=$(date +%s)
+        curl -o jornali.xml https://ionline.sapo.pt/rss.xml
     #- name: Download CM xml
     #  run: |-
     #    curl -o cm.xml https://www.cmjornal.pt/rss?$(date +%s)
@@ -94,7 +94,7 @@ jobs:
         curl "https://www.toptal.com/developers/feed2json/convert?url=http://feeds.tsf.pt/TSF-Ultimas?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "TSF"})' | jq -r tostring > digest/latest--tsf.json
     - name: Download Jornal i Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://ionline.sapo.pt/rss.xml?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "Jornal i"})' | jq -r tostring > digest/latest--jornali.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/jornali.xml?v=$(date +%s)" | jq '.items[:12] | map({title, url, date_published, media: "Jornal i"})' | jq -r tostring > digest/latest--jornali.json
     #- name: Change Yes to No in google-trends.xml
     #  run: |-
     #    sed -i 's/yes/no/g' google-trends.xml
