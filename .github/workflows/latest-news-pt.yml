@@ -20,6 +20,9 @@ jobs:
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
+    - name: Download Jornal i xml
+      run: |-
+        curl -o jornali.xml https://ionline.sapo.pt/rss.xml?v=$(date +%s)
     #- name: Download CM xml
     #  run: |-
     #    curl -o cm.xml https://www.cmjornal.pt/rss?$(date +%s)
@@ -29,6 +32,9 @@ jobs:
     - name: Delete GMT from rr.xml
       run: |-
         sed -i 's/GMT+1//g' rr.xml
+    - name: Change +01:00 to +00:00from jornali.xml
+      run: |-
+        sed -i 's/+01:00/+00:00/g' jornali.xml
     #- name: Insert UTF8 line in cm.xml
     #  run: |-
     #    sed -i 's/<rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/<?xml version="1.0" encoding="ISO-8859-1"?><rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/g' cm.xml
