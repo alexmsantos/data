@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-19T15:01:48+00:00</dc:date>
+        <dc:date>2024-02-19T15:42:55+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Número de mortos em Gaza ultrapassa 29 mil ]]></title>
+                <link>https://ionline.sapo.pt/artigo/810952/n-mero-de-mortos-em-gaza-ultrapassa-29-mil?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+107 corpos foram levados para os hospitais nas últimas 24 horas.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-02-19T15:42:55+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Gaza, Israel, Hamas,  | 107 corpos foram levados para os hospitais nas últimas 24 horas.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>810952</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/19/863781.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Super Bowl. A festa americana que movimenta milhões ]]></title>
                 <link>https://ionline.sapo.pt/artigo/810951/super-bowl-a-festa-americana-que-movimenta-milhoes?seccao=Portugal_i</link>
@@ -430,27 +455,6 @@ Eleições, Intercalares, Freguesia, | As mesas de voto estão abertas dede as 0
                 </content:encoded>
                 <guid>810933</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/18/863762.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[  TSE de El Salvador ratifica vitória de Bukele ]]></title>
-                <link>https://ionline.sapo.pt/artigo/810932/-tse-de-el-salvador-ratifica-vitoria-de-bukele?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-A taxa de participação destas presidenciais de El Salvador foi de 52,60%
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-18T10:37:44+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-El Salvador, Bukele, Presidenciais,  | A taxa de participação destas presidenciais de El Salvador foi de 52,60%
-					
-                   ]]>
-                </content:encoded>
-                <guid>810932</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/18/863761.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
