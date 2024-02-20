@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-20T15:40:00+00:00</dc:date>
+        <dc:date>2024-02-20T15:43:37+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Futebol de Praia. Portugal nos "quartos" do Mundial ]]></title>
+                <link>https://ionline.sapo.pt/artigo/810999/futebol-de-praia-portugal-nos-quartos-do-mundial?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+A seleção comandada por Mário Narciso, campeã mundial em 2001, 2015 e 2019, aguarda agora pelo resultado do jogo entre o Brasil, também apurado, e o México
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-20T15:43:37+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Portugal, Futebol, Praia, Mundial,  | A seleção comandada por Mário Narciso, campeã mundial em 2001, 2015 e 2019, aguarda agora pelo resultado do jogo entre o Brasil, também apurado, e o México
+					
+                   ]]>
+                </content:encoded>
+                <guid>810999</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863825.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Gaza. OMS acusa Israel de impedir missões de salvamento médico ]]></title>
                 <link>https://ionline.sapo.pt/artigo/810998/gaza-oms-acusa-israel-de-impedir-missoes-de-salvamento-medico?seccao=Mundo_i</link>
@@ -425,27 +446,6 @@ Opinião,  | Tenho a certeza, estas eleições serão taco a taco entre Pedro Nu
                 <guid>810980</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863801.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ IPMA. Sete distritos sob aviso laranja quinta e sexta-feira devido à agitação marítima ]]></title>
-                <link>https://ionline.sapo.pt/artigo/810979/ipma-sete-distritos-sob-aviso-laranja-quinta-e-sexta-feira-devido-a-agitacao-maritima?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Estão previstas ondas de noroeste com 5 a 7 metros, podendo atingir 12 metros de altura máxima.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-02-20T10:36:28+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-IPMA, agitação marítima,  | Estão previstas ondas de noroeste com 5 a 7 metros, podendo atingir 12 metros de altura máxima.
-					
-                   ]]>
-                </content:encoded>
-                <guid>810979</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863800.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
