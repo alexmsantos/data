@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-20T14:19:00+00:00</dc:date>
+        <dc:date>2024-02-20T14:50:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Faculdade de Direito de Lisboa recebe conferência sobre a Justiça nas eleições de 2024 ]]></title>
+                <link>https://ionline.sapo.pt/artigo/810996/faculdade-de-direito-de-lisboa-recebe-confer-ncia-sobre-a-justica-nas-eleicoes-de-2024?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Do painel figuram nomes como Joana Marques Vidal, Alexandra Leitão e Manuel Ramos Soares. Conferência ocorre com justiça debaixo de fogo, após Influencer e Madeira.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-02-20T14:50:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Justiça, Eleições, polémica,  | Do painel figuram nomes como Joana Marques Vidal, Alexandra Leitão e Manuel Ramos Soares. Conferência ocorre com justiça debaixo de fogo, após Influencer e Madeira.
+					
+                   ]]>
+                </content:encoded>
+                <guid>810996</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863821.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Aeroporto de Barcelona em alerta devido a fuga radioativa ]]></title>
                 <link>https://ionline.sapo.pt/artigo/810995/aeroporto-de-barcelona-em-alerta-devido-a-fuga-radioativa?seccao=Mundo_i</link>
@@ -427,25 +448,6 @@ Opinião,  | É o mínimo que se exige, hoje, de um país normal: levar os direi
                    ]]>
                 </content:encoded>
                 <guid>810976</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Diogo Ribeiro, a nova estrela... portuguesa ]]></title>
-                <link>https://ionline.sapo.pt/artigo/810975/diogo-ribeiro-a-nova-estrela-portuguesa?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-A história do Diogo é bonita de se contar, pela prova de superação, de abnegação e de coragem de alguém que tinha tudo para desistir e não o fez.
-				]]>
-                
-                </description>
-                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
-                <dc:date>2024-02-20T09:37:13+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião, Na Linha da Frente,  | A história do Diogo é bonita de se contar, pela prova de superação, de abnegação e de coragem de alguém que tinha tudo para desistir e não o fez.
-					
-                   ]]>
-                </content:encoded>
-                <guid>810975</guid>
            </item>
     </channel>
 
