@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-20T09:33:43+00:00</dc:date>
+        <dc:date>2024-02-20T09:37:13+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Diogo Ribeiro, a nova estrela... portuguesa ]]></title>
+                <link>https://ionline.sapo.pt/artigo/810975/diogo-ribeiro-a-nova-estrela-portuguesa?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+A história do Diogo é bonita de se contar, pela prova de superação, de abnegação e de coragem de alguém que tinha tudo para desistir e não o fez.
+				]]>
+                
+                </description>
+                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
+                <dc:date>2024-02-20T09:37:13+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião, Na Linha da Frente,  | A história do Diogo é bonita de se contar, pela prova de superação, de abnegação e de coragem de alguém que tinha tudo para desistir e não o fez.
+					
+                   ]]>
+                </content:encoded>
+                <guid>810975</guid>
+           </item>
             <item>
                <title><![CDATA[ Um forte apelo aos Eleitores! ]]></title>
                 <link>https://ionline.sapo.pt/artigo/810974/um-forte-apelo-aos-eleitores-?seccao=Opiniao_i</link>
@@ -419,27 +438,6 @@ FC Porto,  | A venda de Otávio tornou-se a transação mais elevada da históri
                 <guid>810954</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/19/863783.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[  Alerta para fraude telefónica ]]></title>
-                <link>https://ionline.sapo.pt/artigo/810953/-alerta-para-fraude-telefonica?seccao=Dinheiro_i</link>
-                <description>
-                <![CDATA[
-Banco central está a colaborar com as autoridades e que denunciou os casos recebidos
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-19T16:02:57+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Banco de Portugal, fraude fiscal,  | Banco central está a colaborar com as autoridades e que denunciou os casos recebidos
-					
-                   ]]>
-                </content:encoded>
-                <guid>810953</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/19/863782.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
