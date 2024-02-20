@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-20T13:54:05+00:00</dc:date>
+        <dc:date>2024-02-20T14:19:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Aeroporto de Barcelona em alerta devido a fuga radioativa ]]></title>
+                <link>https://ionline.sapo.pt/artigo/810995/aeroporto-de-barcelona-em-alerta-devido-a-fuga-radioativa?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+A Aena, entidade que explora o aeroporto, assegurou que as operações e os voos no aeroporto de El Prat não foram afetados pelo incidente.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-20T14:19:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Barcelona, Aeroporto,  | A Aena, entidade que explora o aeroporto, assegurou que as operações e os voos no aeroporto de El Prat não foram afetados pelo incidente.
+					
+                   ]]>
+                </content:encoded>
+                <guid>810995</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863820.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Ilya Kaminsky. Uma conspiração contra o esquecimento ]]></title>
                 <link>https://ionline.sapo.pt/artigo/810994/ilya-kaminsky-uma-conspiracao-contra-o-esquecimento?seccao=Mais_i</link>
@@ -425,29 +446,6 @@ Opinião, Na Linha da Frente,  | A história do Diogo é bonita de se contar, pe
                    ]]>
                 </content:encoded>
                 <guid>810975</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Um forte apelo aos Eleitores! ]]></title>
-                <link>https://ionline.sapo.pt/artigo/810974/um-forte-apelo-aos-eleitores-?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Desde 2015, em que somos governados por socialistas, emigraram 469 mil portugueses. Que vergonha e que tristeza!
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Fernando Teixeira Mendes</dc:creator>
-                <dc:date>2024-02-20T09:33:43+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião, Por Uma Democracia de Qualidade,  | Desde 2015, em que somos governados por socialistas, emigraram 469 mil portugueses. Que vergonha e que tristeza!
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>810974</guid>
            </item>
     </channel>
 
