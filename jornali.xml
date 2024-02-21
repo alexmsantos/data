@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-21T16:44:16+00:00</dc:date>
+        <dc:date>2024-02-21T16:55:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Sismo de magnitude 1.8 sentido na ilha terceira ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811035/sismo-de-magnitude-1-8-sentido-na-ilha-terceira?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+O abalo foi sentido pelas 3h56 locais (4h56 em Lisboa).
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-21T16:55:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Sismo, Açores,  | O abalo foi sentido pelas 3h56 locais (4h56 em Lisboa).
+					
+                   ]]>
+                </content:encoded>
+                <guid>811035</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/21/863863.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Lisboa escolhida pela Microsoft para novo centro de inovação em IA ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811036/lisboa-escolhida-pela-microsoft-para-novo-centro-de-inovacao-em-ia?seccao=Dinheiro_i</link>
@@ -442,27 +463,6 @@ Justiça, Ministério Público, Juízes, Madeira,  | O MP tinha pedido para Pedr
                 </content:encoded>
                 <guid>811015</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863842.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ O historiador que apela a consensos e à união de esquerda ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811014/o-historiador-que-apela-a-consensos-e-a-uniao-de-esquerda?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Ficou conhecido por ter entrado no PE como independente, mas acabou por criar o seu próprio partido
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-20T22:49:55+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Crise Política, Partido Livre, Campanha Eleitoral, Legislativas | Ficou conhecido por ter entrado no PE como independente, mas acabou por criar o seu próprio partido
-					
-                   ]]>
-                </content:encoded>
-                <guid>811014</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863841.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
