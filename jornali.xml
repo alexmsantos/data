@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-21T09:20:31+00:00</dc:date>
+        <dc:date>2024-02-21T09:58:37+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Incêndio deixa duas pessoas desalojadas no Porto ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811019/inc-ndio-deixa-duas-pessoas-desalojadas-no-porto?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Alerta foi dado pelas 4h20.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-02-21T09:58:37+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Porto,  | Alerta foi dado pelas 4h20.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>811019</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/21/863846.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Guerra. China critica veto dos EUA de cessar-fogo  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811018/guerra-china-critica-veto-dos-eua-de-cessar-fogo-?seccao=Portugal_i</link>
@@ -427,27 +452,6 @@ Sporting, Tribunal,  | No final da Taça da Liga, em janeiro de 2023, entre o Sp
                 <guid>811000</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863826.png?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Futebol de Praia. Portugal nos "quartos" do Mundial ]]></title>
-                <link>https://ionline.sapo.pt/artigo/810999/futebol-de-praia-portugal-nos-quartos-do-mundial?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-A seleção comandada por Mário Narciso, campeã mundial em 2001, 2015 e 2019, aguarda agora pelo resultado do jogo entre o Brasil, também apurado, e o México
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-20T15:43:37+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Portugal, Futebol, Praia, Mundial,  | A seleção comandada por Mário Narciso, campeã mundial em 2001, 2015 e 2019, aguarda agora pelo resultado do jogo entre o Brasil, também apurado, e o México
-					
-                   ]]>
-                </content:encoded>
-                <guid>810999</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/20/863825.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
