@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-22T13:10:00+00:00</dc:date>
+        <dc:date>2024-02-22T13:45:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Guinness retira título de cão mais velho do mundo a Bobi ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811059/guinness-retira-titulo-de-cao-mais-velho-do-mundo-a-bobi?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Rafeiro alentejano morreu em outubro de 2023.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-22T13:45:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Guinness, Cão,  | Rafeiro alentejano morreu em outubro de 2023.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811059</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/22/863889.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Festivais. Queens of the Stone Age vão atuar no Vilar de Mouros ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811058/festivais-queens-of-the-stone-age-vao-atuar-no-vilar-de-mouros?seccao=Mais_i</link>
@@ -435,27 +456,6 @@ Carlos Moedas, Câmara Municipal de Lisboa, Manifestação,  | Durante o debate 
                 <guid>811040</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/21/863869.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Embaixador russo "não foi capaz" de dar esclarecimentos sobre morte de Navalny  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811038/embaixador-russo-nao-foi-capaz-de-dar-esclarecimentos-sobre-morte-de-navalny-?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-João Gomes Cravinho explicou que a resposta da Rússia foi "perfeitamente insuficiente".
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-21T18:32:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Ministério dos Negócios Estrangeiros, Rússia,  | João Gomes Cravinho explicou que a resposta da Rússia foi "perfeitamente insuficiente".
-					
-                   ]]>
-                </content:encoded>
-                <guid>811038</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/21/863866.png?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Bruno Gon&#231;alves</media:credit>                                                              </media:content>
            </item>
     </channel>
 
