@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-23T17:31:11+00:00</dc:date>
+        <dc:date>2024-02-23T17:59:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Espanha. Número de mortos no incêndio em Valência subiu para dez ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811103/espanha-n-mero-de-mortos-no-inc-ndio-em-val-ncia-subiu-para-dez?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Pelo menos dez pessoas morreram e outras 15 ficaram feridas no incêndio num complexo habitacional em Valência, Espanha, que deflagrou na quinta-feira.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-02-23T17:59:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Espanha, Incêndio, Prédio, Valência,  | Pelo menos dez pessoas morreram e outras 15 ficaram feridas no incêndio num complexo habitacional em Valência, Espanha, que deflagrou na quinta-feira.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811103</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863934.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Morreu o antigo piloto de Fórmula 1 Wilson Fittipaldi ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811102/morreu-o-antigo-piloto-de-formula-1-wilson-fittipaldi?seccao=Desporto_i</link>
@@ -438,35 +459,6 @@ Opinião,  | É um concelho onde há problemas em todos, ou quase todos, os seto
                 </content:encoded>
                 <guid>811083</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863914.jpeg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Israel revela objetivos para o pós-guerra em Gaza ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811082/israel-revela-objetivos-para-o-pos-guerra-em-gaza?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-A longo prazo, o primeiro-ministro volta a confirmar que não aceitará um Estado palestiniano e que prevê o fim da Agência das Nações Unidas de Assistência para os Refugiados Palestinianos (UNRWA).
-
-A longo prazo, o primeiro-ministro volta a confirmar que não aceitará um Estado palestiniano e que prevê o fim da Agência das Nações Unidas de Assistência para os Refugiados Palestinianos (UNRWA).
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-02-23T11:22:30+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Gaza, Israel, Hamas, Palestina, | A longo prazo, o primeiro-ministro volta a confirmar que não aceitará um Estado palestiniano e que prevê o fim da Agência das Nações Unidas de Assistência para os Refugiados Palestinianos (UNRWA).
-
-A longo prazo, o primeiro-ministro volta a confirmar que não aceitará um Estado palestiniano e que prevê o fim da Agência das Nações Unidas de Assistência para os Refugiados Palestinianos (UNRWA).
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811082</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863915.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
