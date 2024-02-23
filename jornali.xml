@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-23T17:28:14+00:00</dc:date>
+        <dc:date>2024-02-23T17:31:11+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Morreu o antigo piloto de Fórmula 1 Wilson Fittipaldi ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811102/morreu-o-antigo-piloto-de-formula-1-wilson-fittipaldi?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+Estava hospitalizado desde dezembro, quando se engasgou com um bocado de carne.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-02-23T17:31:11+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Fórmula 1, óbito, Wilson Fittipaldi,  | Estava hospitalizado desde dezembro, quando se engasgou com um bocado de carne.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811102</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863933.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Nova presidente quer todo o potencial do BEI na defesa e alargamento ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811101/nova-presidente-quer-todo-o-potencial-do-bei-na-defesa-e-alargamento?seccao=Dinheiro_i</link>
@@ -446,31 +467,6 @@ A longo prazo, o primeiro-ministro volta a confirmar que não aceitará um Estad
                 </content:encoded>
                 <guid>811082</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863915.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Neve. Aulas suspensas em Montalegre  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811081/neve-aulas-suspensas-em-montalegre-?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Cerca de 600 alunos não foram à escola.  
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-02-23T10:25:51+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Montalegre, neve, ipma, metereologia,  | Cerca de 600 alunos não foram à escola.  
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811081</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863913.jpeg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
