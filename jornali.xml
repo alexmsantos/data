@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-23T16:26:42+00:00</dc:date>
+        <dc:date>2024-02-23T16:55:45+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ José Pinto. O homem que abraçou a arte ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811098/jose-pinto-o-homem-que-abracou-a-arte?seccao=Mais_i</link>
+                <description>
+                <![CDATA[
+1929-2024 . De engenheiro eletrotécnico a ator.
+				]]>
+                
+                </description>
+                <dc:creator>Sara Porto</dc:creator>
+                <dc:date>2024-02-23T16:55:45+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+josé pinto, óbito, ator,  | 1929-2024 . De engenheiro eletrotécnico a ator.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811098</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863929.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Voto antecipado em mobilidade cresceu mais de 20 vezes desde 2019 ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811097/voto-antecipado-em-mobilidade-cresceu-mais-de-20-vezes-desde-2019?seccao=Portugal_i</link>
@@ -458,27 +479,6 @@ Ursula von der Leyen, Parlamento Europeu, Comissão Europeia, União Europeia,  
                 </content:encoded>
                 <guid>811078</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863910.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Polícias radicais recusam travar protestos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811077/policias-radicais-recusam-travar-protestos?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Pedro Costa, o agente que tem dormido à porta da AR, insurgiu-se contra as tréguas declaradas pela Plataforma e o movimento inorgânico INOP já anunciou nova manifestação para o princípio de março.
-				]]>
-                
-                </description>
-                <dc:creator>V&#237;tor Rainho</dc:creator>
-                <dc:date>2024-02-23T08:13:45+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Polícias, GNR, PSP, Protestos,  | Pedro Costa, o agente que tem dormido à porta da AR, insurgiu-se contra as tréguas declaradas pela Plataforma e o movimento inorgânico INOP já anunciou nova manifestação para o princípio de março.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811077</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863909.png?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
