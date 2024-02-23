@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-23T19:20:21+00:00</dc:date>
+        <dc:date>2024-02-23T19:24:20+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Liga Europa. Jogo entre Sporting e Atalanta agendado para 6 de março ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811108/liga-europa-jogo-entre-sporting-e-atalanta-agendado-para-6-de-marco?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+O encontro da segunda mão dos oitavos de final da Liga Europa está marcado para 14 de março, em Bérgamo, pelas 21h00 locais (20h00) em Lisboa
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-23T19:24:20+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Liga Europa, Sporting, Atalanta, Benfica, Rangers | O encontro da segunda mão dos oitavos de final da Liga Europa está marcado para 14 de março, em Bérgamo, pelas 21h00 locais (20h00) em Lisboa
+					
+                   ]]>
+                </content:encoded>
+                <guid>811108</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863939.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Empresas de plástico e papel juntam-se para parceria amiga do ambiente ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811107/empresas-de-plastico-e-papel-juntam-se-para-parceria-amiga-do-ambiente?seccao=Dinheiro_i</link>
@@ -427,31 +448,6 @@ Açores, Marinha Portuguesa, Resgate,  | Inglesa necessitou de cuidados médicos
                 <guid>811088</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863920.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Espanha. Pelo menos quatro pessoas morreram em incêndio num prédio em Valência ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811087/espanha-pelo-menos-quatro-pessoas-morreram-em-inc-ndio-num-predio-em-val-ncia?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Chamas alastraram ao edifício todo em menos de trinta minutos. Entre os desparecidos estão dois bebés.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-02-23T12:44:45+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Espanha, Incêndio, Prédio, Valência,  | Chamas alastraram ao edifício todo em menos de trinta minutos. Entre os desparecidos estão dois bebés.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811087</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863919.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
