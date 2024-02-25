@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-25T17:41:00+00:00</dc:date>
+        <dc:date>2024-02-25T19:20:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Somália anuncia acordo de segurança com a Turquia ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811134/somalia-anuncia-acordo-de-seguranca-com-a-turquia?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+A vizinha Etiópia, o país sem litoral mais populoso do mundo,  reconheceu a independência da Somalilândiaem troca de um porto naval.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-25T19:20:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Somália, Turquia,  | A vizinha Etiópia, o país sem litoral mais populoso do mundo,  reconheceu a independência da Somalilândiaem troca de um porto naval.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811134</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/25/863966.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Alexei Navalny. Um mártir? ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811132/alexei-navalny-um-martir-?seccao=Mundo_i</link>
@@ -430,27 +451,6 @@ GNR,  | Em comunicado, enviado às redações este sábado, 102 foram por condu�
                 </content:encoded>
                 <guid>811114</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/24/863945.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Quem são os conselheiros dos líderes ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811113/quem-sao-os-conselheiros-dos-lideres?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-A campanha corre a todo o vapor nas sedes partidárias, mas só muito poucos têm acesso aos gabinetes de Pedro Nuno e Montenegro. Cavaco e Costa aconselham à distância.
-				]]>
-                
-                </description>
-                <dc:creator>Raquel Abecasis</dc:creator>
-                <dc:date>2024-02-24T10:30:14+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Pedro Nuno, Luis Montenegro,  | A campanha corre a todo o vapor nas sedes partidárias, mas só muito poucos têm acesso aos gabinetes de Pedro Nuno e Montenegro. Cavaco e Costa aconselham à distância.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811113</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/24/863944.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
