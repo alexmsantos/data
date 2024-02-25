@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-25T09:17:00+00:00</dc:date>
+        <dc:date>2024-02-25T09:35:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ EUA. Trump alcança vitória nas primárias Republicanas na Carolina do Sul ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811124/eua-trump-alcanca-vitoria-nas-primarias-republicanas-na-carolina-do-sul?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Foi uma vitória pesada para a adversária de Trump, Nikki Haley, que durante seis anos foi governadora da Carolina do Sul.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-25T09:35:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+EUA, partido republicano,  | Foi uma vitória pesada para a adversária de Trump, Nikki Haley, que durante seis anos foi governadora da Carolina do Sul.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811124</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/25/863956.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Abrem hoje as inscrições para o voto antecipado ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811123/abrem-hoje-as-inscricoes-para-o-voto-antecipado?seccao=Portugal_i</link>
@@ -434,27 +455,6 @@ Opinião,  | Os simpatizantes e sócios de ambas as partes estavam embevecidos c
                 </content:encoded>
                 <guid>811105</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863936.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Bloqueio de fronteira com a Alemanha anunciada por agricultores polacos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811104/bloqueio-de-fronteira-com-a-alemanha-anunciada-por-agricultores-polacos?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Protesto é contra a regulamentação europeia e as importações de produtos que consideram desrespeitar as normas comunitárias
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-23T18:08:27+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Polónia, Alemanha, agricultores, protestos, fronteiras, | Protesto é contra a regulamentação europeia e as importações de produtos que consideram desrespeitar as normas comunitárias
-					
-                   ]]>
-                </content:encoded>
-                <guid>811104</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/23/863935.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
