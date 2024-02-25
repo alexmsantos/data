@@ -63,9 +63,9 @@ jobs:
     - name: Download RTP Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "RTP Notícias"})' | jq -r tostring > digest/latest--rtp.json
-    - name: Download Jornal Económico Feed
+    - name: Download Económico Feed
       run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Jornal Económico"})' | jq -r tostring > digest/latest--economico.json
+        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Económico"})' | jq -r tostring > digest/latest--economico.json
     #- name: Download Dinheiro Vivo Feed
     #  run: |-
     #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:12] | map({title, url, date_published, media: "Dinheiro Vivo"})' | jq -r tostring > digest/latest--dinheirovivo.json
@@ -137,7 +137,7 @@ jobs:
     #    include: "digest/latest--observador.json"
     - name: Edit eco.json
       run: |-
-        curl "https://raw.githubusercontent.com/alexmsantos/data/main/eco.json" | jq '[{title: ."0", url: ."1", date_published: ."2", media: "Jornal Eco"},{title: ."3", url: ."4", date_published: ."5", media: "Jornal Eco"},{title: ."6", url: ."7", date_published: ."8", media: "Jornal Eco"},{title: ."9", url: ."10", date_published: ."11", media: "Jornal Eco"},{title: ."12", url: ."13", date_published: ."14", media: "Jornal Eco"},{title: ."15", url: ."16", date_published: ."17", media: "Jornal Eco"},{title: ."18", url: ."19", date_published: ."20", media: "Jornal Eco"},{title: ."21", url: ."22", date_published: ."23", media: "Jornal Eco"},{title: ."24", url: ."25", date_published: ."26", media: "Jornal Eco"},{title: ."27", url: ."28", date_published: ."29", media: "Jornal Eco"},{title: ."30", url: ."31", date_published: ."32", media: "Jornal Eco"},{title: ."33", url: ."34", date_published: ."35", media: "Jornal Eco"}]' | jq -r tostring > digest/latest--eco.json
+        curl "https://raw.githubusercontent.com/alexmsantos/data/main/eco.json" | jq '[{title: ."0", url: ."1", date_published: ."2", media: "Eco"},{title: ."3", url: ."4", date_published: ."5", media: "Eco"},{title: ."6", url: ."7", date_published: ."8", media: "Eco"},{title: ."9", url: ."10", date_published: ."11", media: "Eco"},{title: ."12", url: ."13", date_published: ."14", media: "Eco"},{title: ."15", url: ."16", date_published: ."17", media: "Eco"},{title: ."18", url: ."19", date_published: ."20", media: "Eco"},{title: ."21", url: ."22", date_published: ."23", media: "Eco"},{title: ."24", url: ."25", date_published: ."26", media: "Eco"},{title: ."27", url: ."28", date_published: ."29", media: "Eco"},{title: ."30", url: ."31", date_published: ."32", media: "Eco"},{title: ."33", url: ."34", date_published: ."35", media: "Eco"}]' | jq -r tostring > digest/latest--eco.json
     - name: Merge files
       run: |-
         jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--rr.json digest/latest--novo.json digest/latest--jornali.json digest/latest--eco.json | jq -r tostring > digest/digestpt.json
