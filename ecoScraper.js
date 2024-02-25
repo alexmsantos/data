@@ -14,13 +14,14 @@ rp(url)
       const articleDate = $('.meta__time > time', html)[i];
       articles.push(articleTitle.text());
       articles.push(articleUrl.attribs.href);
-      articles.push(articleDate.attribs.datetime);
+      const toISOString = new Date(articleDate.attribs.datetime).toISOString();
+      articles.push(toISOString);
     }
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
     fs.writeFile('eco.json', jsonString, function(err){
-      console.log('File successfully written! - Check your project directory for the articles.json file');
+      console.log('File successfully written! - Check your project directory for the eco.json file');
     });
 
   })
