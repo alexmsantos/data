@@ -17,8 +17,8 @@ jobs:
     #- name: Download Google Trends xml
     #  run: |-
     #    curl -o google-trends.xml "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT&$(date +%s)"
-    - name: Build
-      run: npm install
+    #- name: Build
+    #  run: npm install
     - name: Scrape
       run: node ecoScraper.js
     - name: Download RR xml
