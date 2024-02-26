@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-26T17:14:46+00:00</dc:date>
+        <dc:date>2024-02-26T17:22:25+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ António Florêncio. O último dos bons malandros ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811158/antonio-flor-ncio-o-ltimo-dos-bons-malandros?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+1943-2024. Correspondente Internacional de A Bola, ganhou o mundo .
+				]]>
+                
+                </description>
+                <dc:creator>Afonso de Melo</dc:creator>
+                <dc:date>2024-02-26T17:22:25+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Óbito, António Florêncio,  | 1943-2024. Correspondente Internacional de A Bola, ganhou o mundo .
+					
+                   ]]>
+                </content:encoded>
+                <guid>811158</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/26/863987.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Abilio Diniz. Um luso-brasileiro de sucesso ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811157/abilio-diniz-um-luso-brasileiro-de-sucesso?seccao=Dinheiro_i</link>
@@ -412,27 +433,6 @@ Saúde, Alergias, Asma, Alimentos, Medicamentos,  | Estima-se que as reações a
                 </content:encoded>
                 <guid>811138</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/26/863969.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Agricultura. Reunião de ministros da UE com manifestação à porta  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811137/agricultura-reuniao-de-ministros-da-ue-com-manifestacao-a-porta-?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Os agricultores têm-se manifestado nas últimas semanas em vários Estados-membros, incluindo Portugal.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-26T07:53:37+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Agricultura, União Europeia, Manifestação, Política, Francisco Assis,  | Os agricultores têm-se manifestado nas últimas semanas em vários Estados-membros, incluindo Portugal.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811137</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/26/863968.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
