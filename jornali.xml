@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-27T16:58:00+00:00</dc:date>
+        <dc:date>2024-02-27T17:00:40+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Turista belga desaparecido desde domingo nos Açores ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811204/turista-belga-desaparecido-desde-domingo-nos-acores?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Homem, de 54 anos, estava a fazer um trilho na Lagoa do Fogo.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-02-27T17:00:40+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Açores, Buscas, Desaparecido, Lagoa do Fogo, trilho, turista, | Homem, de 54 anos, estava a fazer um trilho na Lagoa do Fogo.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811204</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/27/864028.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Greve dos guardas prisionais obrigou a adiar mais de 90% dos julgamentos ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811203/greve-dos-guardas-prisionais-obrigou-a-adiar-mais-de-90-dos-julgamentos?seccao=Portugal_i</link>
@@ -425,27 +446,6 @@ Opinião,  | A inquietação com a progressiva enlanguescência das leis laborai
                    ]]>
                 </content:encoded>
                 <guid>811184</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Argentina. Proibida “linguagem inclusiva” nas Forças Armadas ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811183/argentina-proibida-linguagem-inclusiva-nas-forcas-armadas?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-De acordo com a resolução são proibidas fórmulas como “sargenta” e “caba” e estruturas para se referir a identidades não binárias, como “soldadxs” ou “soldades”.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-27T10:53:15+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Argentina, Forças Armadas, Linguagem | De acordo com a resolução são proibidas fórmulas como “sargenta” e “caba” e estruturas para se referir a identidades não binárias, como “soldadxs” ou “soldades”.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811183</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/27/864009.JPG?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
