@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-27T17:07:07+00:00</dc:date>
+        <dc:date>2024-02-27T17:30:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Advogado de Navalny detido em Moscovo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811206/advogado-de-navalny-detido-em-moscovo?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+A família de Navalny conseguiu recuperar o corpo do falecido, no passado sábado, dia 24 de fevereiro, mas ainda não se sabe quando e onde este será sepultado.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-27T17:30:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Rússia,  | A família de Navalny conseguiu recuperar o corpo do falecido, no passado sábado, dia 24 de fevereiro, mas ainda não se sabe quando e onde este será sepultado.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811206</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/27/864030.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Veneza. Petição contra presença de Israel em evento artístico reúne 9.000 assinaturas ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811205/veneza-peticao-contra-presenca-de-israel-em-evento-artistico-re-ne-9-000-assinaturas?seccao=Mundo_i</link>
@@ -430,27 +451,6 @@ Portugal, Azeite, UE, preços,  | Em janeiro, o preço do azeite aumentou em tod
                 </content:encoded>
                 <guid>811186</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/27/864011.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Homem encontrado inconsciente e com ferimentos de bala na cabeça numa rua em Odivelas ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811185/homem-encontrado-inconsciente-e-com-ferimentos-de-bala-na-cabeca-numa-rua-em-odivelas?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Ferido com disparos de caçadeira.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-02-27T11:39:56+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Odivelas, disparos,  | Ferido com disparos de caçadeira.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811185</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/27/864010.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
