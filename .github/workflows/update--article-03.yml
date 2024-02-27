@@ -1,0 +1,29 @@
+name: Update Mulheres Article 03
+
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron:  '0 4 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Build
+      run: npm install -g aml-gdoc-server
+    - name: Run aml-gdoc-server
+      run: aml-gdoc-server
+    - name: Retrieve content and save it
+      run: |-
+        curl "http://127.0.0.1:6006/1CME5F7e4a2szQKpNWAc95-OkpK0UjfisHwwXpdOhb-s" | jq -r tostring > mulheres25abril/data-03.json 
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated EcoScraper.js")
+        git push
