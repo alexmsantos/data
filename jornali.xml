@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-27T11:54:51+00:00</dc:date>
+        <dc:date>2024-02-27T12:07:25+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Guerra. Hezbollah atacou norte de Israel com artilharia ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811187/guerra-hezbollah-atacou-norte-de-israel-com-artilharia?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Ofensiva é uma resposta aos ataques aéreos israelitas no leste do Líbano. 
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-02-27T12:07:25+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Hezbollah, Israel, Palestina,  | Ofensiva é uma resposta aos ataques aéreos israelitas no leste do Líbano. 
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>811187</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/27/864012.PNG?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Azeite. Subida de preço em Portugal é a maior da UE ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811186/azeite-subida-de-preco-em-portugal-e-a-maior-da-ue?seccao=Dinheiro_i</link>
@@ -401,27 +426,6 @@ A televisão mostra-nos apenas o final da sua viagem. E, por mais que possamos i
                 <guid>811167</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/26/863996.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Cristiano Ronaldo punido com dois jogos de suspensão por gesto obsceno ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811166/cristiano-ronaldo-punido-com-dois-jogos-de-suspensao-por-gesto-obsceno?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-O gesto, de teor sexual, surgiu em resposta aos cânticos de provocação sobre Lionel Messi.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-26T21:15:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | O gesto, de teor sexual, surgiu em resposta aos cânticos de provocação sobre Lionel Messi.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811166</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/26/863995.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
