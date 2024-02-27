@@ -14,7 +14,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Build
-      run: npm install
+      run: npm install rss-to-json --save
     - name: Scrape
       run: node rss-to-json--cnn.js
     - name: Edit cnnportugal.json
