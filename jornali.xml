@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-27T15:32:25+00:00</dc:date>
+        <dc:date>2024-02-27T15:49:54+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ GNR detém 14 pessoas e apreende 14 mil artigos contrafeitos em Vila do Conde ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811201/gnr-detem-14-pessoas-e-apreende-14-mil-artigos-contrafeitos-em-vila-do-conde?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Sapatos tinham logótipos e desenhos de várias marcas registadas no mercado.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-02-27T15:49:54+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+GNR, vila do Conde,  | Sapatos tinham logótipos e desenhos de várias marcas registadas no mercado.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811201</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/27/864024.JPG?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: GNR</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Abril aos 50 anos, a mais cruel das primaveras ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811200/abril-aos-50-anos-a-mais-cruel-das-primaveras?seccao=Mais_i</link>
@@ -425,25 +446,6 @@ Incêndio, Vila Real,  | Fogo terá tido início no quarto da vítima.
                 <guid>811180</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/27/864004.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ As tascas de Lisboa - segunda parte ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811179/as-tascas-de-lisboa-segunda-parte?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-A verdade é que neste rali das tascas a que me entreguei nos últimos tempos a quantidade é tão generosa versus o preço do prato que raramente tenho jantado para tentar caber na porta quando chego a casa.
-				]]>
-                
-                </description>
-                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
-                <dc:date>2024-02-27T09:49:04+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | A verdade é que neste rali das tascas a que me entreguei nos últimos tempos a quantidade é tão generosa versus o preço do prato que raramente tenho jantado para tentar caber na porta quando chego a casa.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811179</guid>
            </item>
     </channel>
 
