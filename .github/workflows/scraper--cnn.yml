@@ -19,7 +19,7 @@ jobs:
       run: node rss-to-json--cnn.js
     - name: Edit cnnportugal.json
       run: |-
-        jq -r '.items[:10] | map(.date_published = (.date_published | strftime("%Y-%m-%dT%H:%M:%SZ")) | .url = .link | del(.published, .link)) | map({title, url, date_published, media: "CNN Portugal"})' cnnportugal.json 
+        jq -r '.items[:10] | map(.date_published = (.date_published | strftime("%s" | strptime("%s") | strftime("%Y-%m-%dT%H:%M:%SZ")) | .url = .link | del(.published, .link)) | map({title, url, date_published, media: "CNN Portugal"})' cnnportugal.json 
     - name: Commit and push changes
       run: |-
         git diff
