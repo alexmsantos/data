@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-29T14:20:00+00:00</dc:date>
+        <dc:date>2024-02-29T14:30:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Rui Costa recebido pelo Papa  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811271/rui-costa-recebido-pelo-papa-?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+O encontro aconteceu no âmbito das celebrações dos 120 anos do clube.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-02-29T14:30:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Benfica, Papa Francisco, Rui Costa,  | O encontro aconteceu no âmbito das celebrações dos 120 anos do clube.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811271</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/29/864096.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Taça de Portugal. Jogo grande a caminho do Jamor  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811270/taca-de-portugal-jogo-grande-a-caminho-do-jamor-?seccao=Desporto_i</link>
@@ -415,27 +436,6 @@ Luís Castro é um homem que não gosta de se expor. No entanto é, certamente, 
                 <guid>811252</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/28/864077.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[  Diretor desportivo da Red Bull Ilibado de conduta imprópria ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811251/-diretor-desportivo-da-red-bull-ilibado-de-conduta-impropria?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-A Redbull assegura que a investigação encontra-se "concluída",  e que a queixa da funcionária foi “rejeitada”
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-28T21:28:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | A Redbull assegura que a investigação encontra-se "concluída",  e que a queixa da funcionária foi “rejeitada”
-					
-                   ]]>
-                </content:encoded>
-                <guid>811251</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/28/864076.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
