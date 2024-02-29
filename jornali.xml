@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-29T12:00:00+00:00</dc:date>
+        <dc:date>2024-02-29T12:00:19+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Sindicato dos Enfermeiros Portugueses marca greve para 15 de março ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811263/sindicato-dos-enfermeiros-portugueses-marca-greve-para-15-de-marco?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Em causa está a atualização das tabelas salariais e remunerações justas, a dignificação da carreira de enfermagem e melhores condições de trabalho.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-02-29T12:00:19+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Enfermeiros, Greve, Saúde, Sindicato, SNS,  | Em causa está a atualização das tabelas salariais e remunerações justas, a dignificação da carreira de enfermagem e melhores condições de trabalho.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811263</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/29/864088.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Bruno Gon&#231;alves</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ António Guterres. Planeta está "à beira do abismo"  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811261/antonio-guterres-planeta-esta-a-beira-do-abismo-?seccao=Mundo_i</link>
@@ -418,27 +439,6 @@ baixa, SNS, Urgências,  | Até agora, os doentes tinham de pedir ao médico de 
                 </content:encoded>
                 <guid>811244</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/28/864069.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ PM que PSP disponibilize segurança pessoal aos líder partidários ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811243/pm-que-psp-disponibilize-seguranca-pessoal-aos-lider-partidarios?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-As instruções de António Costa foram dadas ao ministro da Administração Interna no seguimento do ataque de tinta a Luís Montenegro.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-28T17:05:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-António Costa, primeiro-ministro, PSP,  | As instruções de António Costa foram dadas ao ministro da Administração Interna no seguimento do ataque de tinta a Luís Montenegro.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811243</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/28/864068.png?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
