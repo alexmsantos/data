@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-02-29T16:14:47+00:00</dc:date>
+        <dc:date>2024-02-29T16:44:50+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ INE confirma crescimento do PIB de 2,3% em 2023 ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811278/ine-confirma-crescimento-do-pib-de-2-3-em-2023?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+Recessão foi evitada no quarto trimestre.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-02-29T16:44:50+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+INE, PIB,  | Recessão foi evitada no quarto trimestre.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811278</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/29/864103.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Imposto global para bilionários proposto pelo Brasil ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811277/imposto-global-para-bilionarios-proposto-pelo-brasil?seccao=Dinheiro_i</link>
@@ -423,27 +444,6 @@ Opinião,  | É tempo de Portugal começar a pensar, seriamente, no restabelecim
                    ]]>
                 </content:encoded>
                 <guid>811259</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Tiroteio na Florida faz um morto e vários feridos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811258/tiroteio-na-florida-faz-um-morto-e-varios-feridos?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Pelo menos uma pessoa morreu e várias ficaram feridas na sequência de um tiroteio em Orlando, no estado norte-americano da Florida.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-02-29T10:26:39+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-EUA, Florida, Tiroteio,  | Pelo menos uma pessoa morreu e várias ficaram feridas na sequência de um tiroteio em Orlando, no estado norte-americano da Florida.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811258</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/29/864085.png?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
