@@ -19,22 +19,12 @@ jobs:
     #    curl -o google-trends.xml "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT&$(date +%s)"
     #- name: Build
     #  run: npm install
-    #- name: Scrape ECO
-    #  run: node ecoScraper.js
     - name: Scrape ECO
-      runs:
-        using: 'node20'
-        main: 'ecoScraper.js'
+      run: node ecoScraper.js
     - name: Scrape CM
-      runs:
-        using: 'node20'
-        main: 'cmScraper.js'
-    # run: node cmScraper.js
+      run: node cmScraper.js
     - name: RSS to JSON CNN Portugal
-      runs:
-        using: 'node20'
-        main: 'rss-to-json--cnn.js'
-    # run: node rss-to-json--cnn.js
+      run: node rss-to-json--cnn.js
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
