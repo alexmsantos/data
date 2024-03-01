@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-01T17:10:39+00:00</dc:date>
+        <dc:date>2024-03-01T17:47:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Atropelamento na Polónia faz 19 feridos ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811312/atropelamento-na-polonia-faz-19-feridos?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Seis menores estão entre as pessoas feridas, no seguimento de um atropelamento violento.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-01T17:47:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Polónia,  | Seis menores estão entre as pessoas feridas, no seguimento de um atropelamento violento.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811312</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/1/864136.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Familiares dos reféns do Hamas pedem ajuda a Joe Biden ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811311/familiares-dos-refens-do-hamas-pedem-ajuda-a-joe-biden?seccao=Mundo_i</link>
@@ -431,27 +452,6 @@ Vacinas, saude, Sarampo, DGS,  | Em comunicado, a DGS informa que os novos casos
                 <guid>811293</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/29/864115.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Guterres admite estar "consternado com trágico custo humano" do conflito em Gaza ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811290/guterres-admite-estar-consternado-com-tragico-custo-humano-do-conflito-em-gaza?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-O Ministério da Saúde de Gaza anunciou, que na última madrugada, morreram, pelo menos, 109 habitantes e registaram-se 760 feridos.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-02-29T19:54:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-António Guterres, ONU, Conflito israelo-palestiniano,  | O Ministério da Saúde de Gaza anunciou, que na última madrugada, morreram, pelo menos, 109 habitantes e registaram-se 760 feridos.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811290</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/29/864112.png?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
