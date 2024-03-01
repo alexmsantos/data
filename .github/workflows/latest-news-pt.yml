@@ -26,14 +26,14 @@ jobs:
         using: 'node20'
         main: 'ecoScraper.js'
     - name: Scrape CM
-        runs:
-          using: 'node20'
-          main: 'cmScraper.js'
+      runs:
+        using: 'node20'
+        main: 'cmScraper.js'
     # run: node cmScraper.js
     - name: RSS to JSON CNN Portugal
-        runs:
-          using: 'node20'
-          main: 'rss-to-json--cnn.js'
+      runs:
+        using: 'node20'
+        main: 'rss-to-json--cnn.js'
     # run: node rss-to-json--cnn.js
     - name: Download RR xml
       run: |-
