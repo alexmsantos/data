@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-01T08:37:08+00:00</dc:date>
+        <dc:date>2024-03-01T10:24:04+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ PIB cresceu 2,3% em 2023, confirma INE ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811299/pib-cresceu-2-3-em-2023-confirma-ine?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+Olhando para o conjunto do ano, o Produto Interno Bruto (PIB) cresceu 2,3%, após o aumento de 6,8% em 2022, o mais elevado desde 1987
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-01T10:24:04+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+INE, PIB,  | Olhando para o conjunto do ano, o Produto Interno Bruto (PIB) cresceu 2,3%, após o aumento de 6,8% em 2022, o mais elevado desde 1987
+					
+                   ]]>
+                </content:encoded>
+                <guid>811299</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/1/864121.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Estado registou um excedente de 1.177 milhões de euros em janeiro ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811298/estado-registou-um-excedente-de-1-177-milhoes-de-euros-em-janeiro?seccao=Dinheiro_i</link>
@@ -428,31 +449,6 @@ PJ, Porto, porto de leixões, Tráfico de droga,  | Homem tinha regressado do es
                 </content:encoded>
                 <guid>811276</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/29/864101.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Gaza. Exército israelita disparou contra multidão que esperava para receber comida  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811275/gaza-exercito-israelita-disparou-contra-multidao-que-esperava-para-receber-comida-?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Morreram, de acordo o Ministério da Saúde de Gaza, 104 pessoas e pelo menos 760 ficaram feridas.  
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-02-29T15:58:31+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Gaza, Israel, Hamas, Palestina,  | Morreram, de acordo o Ministério da Saúde de Gaza, 104 pessoas e pelo menos 760 ficaram feridas.  
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811275</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/2/29/864100.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
