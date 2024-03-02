@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-02T13:46:19+00:00</dc:date>
+        <dc:date>2024-03-02T13:51:18+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Agressão a bombeiro agredido no quartel de Mourão ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811323/agressao-a-bombeiro-agredido-no-quartel-de-mourao?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Os bombeiros de Mourão já apresentaram queixa na GNR, a quem serão entregues as imagens de videovigilância do quartel
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-02T13:51:18+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Bombeiros, GNR, Agressão,  | Os bombeiros de Mourão já apresentaram queixa na GNR, a quem serão entregues as imagens de videovigilância do quartel
+					
+                   ]]>
+                </content:encoded>
+                <guid>811323</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/2/864147.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ RTP noticiou recondução de Nicolau Santos sem ainda ter acontecido ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811322/rtp-noticiou-reconducao-de-nicolau-santos-sem-ainda-ter-acontecido?seccao=Portugal_i</link>
@@ -426,27 +447,6 @@ Câmara de Faro, Agua, algarve,  | Em comunicado, em autarquia pretende "uma mai
                 </content:encoded>
                 <guid>811304</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/1/864127.jpeg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Papa considera ideologia de género o pior perigo atual ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811303/papa-considera-ideologia-de-genero-o-pior-perigo-atual?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Papa Francisco falou numa conferência no Vaticano, intitulada “Homem e Mulher, Imagem de Deus”.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-01T12:39:25+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Papa Francisco, Ideologia de Género, Vaticano, Perigo | Papa Francisco falou numa conferência no Vaticano, intitulada “Homem e Mulher, Imagem de Deus”.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811303</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/1/864125.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
