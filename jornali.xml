@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-03T14:40:00+00:00</dc:date>
+        <dc:date>2024-03-03T17:31:12+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Cadáver encontrado em barragem em Penalva do Castelo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811341/cadaver-encontrado-em-barragem-em-penalva-do-castelo?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Incidente está a ser investigado.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-03T17:31:12+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+penalva do castelo, viseu, cadáver, corpo,  | Incidente está a ser investigado.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811341</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864166.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Legislativas. Confusão no boletim de voto preocupa Montenegro ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811340/legislativas-confusao-no-boletim-de-voto-preocupa-montenegro?seccao=Portugal_i</link>
@@ -442,27 +463,6 @@ RTP, RTP2, Rui Tavares | Conselho Geral convidou Nicolau Santos a apresentar pla
                 </content:encoded>
                 <guid>811322</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/2/864146.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Javier Milei anuncia leis que eliminam privilégios políticos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811321/javier-milei-anuncia-leis-que-eliminam-privilegios-politicos?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Outra modificação será uma drástica redução na quantidade de assessores que deputados e senadores podem contratar
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-02T11:12:16+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Argentina, Javier Milei, leis, Parlamento, Políticos,  | Outra modificação será uma drástica redução na quantidade de assessores que deputados e senadores podem contratar
-					
-                   ]]>
-                </content:encoded>
-                <guid>811321</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/2/864145.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
