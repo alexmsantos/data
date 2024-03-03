@@ -21,6 +21,8 @@ jobs:
       run: node publicoHeadline.js
     - name: Scrape Observador
       run: node obsHeadline.js
+    - name: Scrape CNN Portugal
+      run: node cnnHeadline.js
     - name: Edit headline--eco.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Eco"}' headline--eco.json >headlines/headline--eco.json
@@ -30,9 +32,12 @@ jobs:
     - name: Edit headline--observador.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Observador"}' headline--observador.json >headlines/headline--observador.json
+    - name: Edit headline--cnn.json
+      run: |-
+        jq '{title: ."0", url: ."1", media: "CNN Portugal"}' headline--cnn.json >headlines/headline--cnn.json
     - name: Merge files
       run: |-
-        jq -s . headlines/headline--eco.json headlines/headline--publico.json headlines/headline--observador.json | jq -r tostring > headlines/headlinespt.json
+        jq -s . headlines/headline--eco.json headlines/headline--publico.json headlines/headline--observador.json headlines/headline--cnn.json | jq -r tostring > headlines/headlinespt.json
     - name: Commit and push changes
       run: |-
         git diff
