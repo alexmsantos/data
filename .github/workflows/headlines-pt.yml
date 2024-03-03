@@ -33,6 +33,8 @@ jobs:
       run: node novoHeadline.js
     - name: Scrape Renascença
       run: node renascencaHeadline.js
+    - name: Scrape Jornal i
+      run: node jornaliHeadline.js
     - name: Edit headline--eco.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Eco"}' headline--eco.json >headlines/headline--eco.json
@@ -60,9 +62,12 @@ jobs:
     - name: Edit headline--renascenca.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Renascença"}' headline--renascenca.json >headlines/headline--renascenca.json
+    - name: Edit headline--jornali.json
+      run: |-
+        jq '{title: ."0", url: ."1", media: "Jornal i"}' headline--jornali.json >headlines/headline--jornali.json
     - name: Merge files
       run: |-
-        jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json | jq -r tostring > headlines/headlinespt.json
+        jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--jornali.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json | jq -r tostring > headlines/headlinespt.json
     - name: Commit and push changes
       run: |-
         git diff
