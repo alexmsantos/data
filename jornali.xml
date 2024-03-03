@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-03T18:33:21+00:00</dc:date>
+        <dc:date>2024-03-03T18:39:56+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Descoberto cadáver com sinais de violência num edifício em construção em Loures ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811344/descoberto-cadaver-com-sinais-de-viol-ncia-num-edificio-em-construcao-em-loures?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Polícia Judiciária está a investigar o caso.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-03T18:39:56+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Loures, cadáver, pj,  | Polícia Judiciária está a investigar o caso.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811344</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864169.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Seleção de Rugby bate Espanha e está na final do Europeu ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811343/selecao-de-rugby-bate-espanha-e-esta-na-final-do-europeu?seccao=Desporto_i</link>
@@ -442,31 +463,6 @@ Brasil, São Paulo,  | Uma vez capturados, os escorpiões são levados para o In
                 </content:encoded>
                 <guid>811325</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/2/864149.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Alemanha. Fuga de informação grave nas Forças Armadas sob investigação ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811324/alemanha-fuga-de-informacao-grave-nas-forcas-armadas-sob-investigacao?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-O Ministério da Defesa alemão assume que o áudio é real e não foi manipulado com ferramentas de inteligência artificial
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-02T16:45:43+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Alemanha, Ucrânia, Rússia, Guerra,  | O Ministério da Defesa alemão assume que o áudio é real e não foi manipulado com ferramentas de inteligência artificial
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811324</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/2/864148.JPG?type=artigo">
                                                             </media:content>
            </item>
     </channel>
