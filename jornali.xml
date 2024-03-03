@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-03T18:19:55+00:00</dc:date>
+        <dc:date>2024-03-03T18:33:21+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Seleção de Rugby bate Espanha e está na final do Europeu ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811343/selecao-de-rugby-bate-espanha-e-esta-na-final-do-europeu?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+'Lobos' reencontram Geórgia na final.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-03T18:33:21+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Rugby, Selecção Nacional,  | 'Lobos' reencontram Geórgia na final.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811343</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864168.PNG?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Instagram portugalrugbyoficial</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Arruada do Pedro Nuno Santos em Guimarães marcada por momentos de tensão ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811342/arruada-do-pedro-nuno-santos-em-guimaraes-marcada-por-momentos-de-tensao?seccao=Portugal_i</link>
@@ -446,27 +467,6 @@ Alemanha, Ucrânia, Rússia, Guerra,  | O Ministério da Defesa alemão assume q
                 </content:encoded>
                 <guid>811324</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/2/864148.JPG?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Agressão a bombeiro no quartel de Mourão ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811323/agressao-a-bombeiro-no-quartel-de-mourao?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Os bombeiros de Mourão já apresentaram queixa na GNR, a quem serão entregues as imagens de videovigilância do quartel
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-02T13:51:18+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Bombeiros, GNR, Agressão,  | Os bombeiros de Mourão já apresentaram queixa na GNR, a quem serão entregues as imagens de videovigilância do quartel
-					
-                   ]]>
-                </content:encoded>
-                <guid>811323</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/2/864147.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
