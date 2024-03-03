@@ -29,6 +29,8 @@ jobs:
       run: node economicoHeadline.js
     - name: Scrape RTP Notícias
       run: node rtpHeadline.js
+    - name: Scrape Novo
+      run: node novoHeadline.js
     - name: Edit headline--eco.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Eco"}' headline--eco.json >headlines/headline--eco.json
@@ -50,9 +52,12 @@ jobs:
     - name: Edit headline--rtp.json
       run: |-
         jq '{title: ."0", url: ."1", media: "RTP Notícias"}' headline--rtp.json >headlines/headline--rtp.json
+    - name: Edit headline--novo.json
+      run: |-
+        jq '{title: ."0", url: ."1", media: "Novo"}' headline--novo.json >headlines/headline--novo.json
     - name: Merge files
       run: |-
-        jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--rtp.json | jq -r tostring > headlines/headlinespt.json
+        jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--rtp.json | jq -r tostring > headlines/headlinespt.json
     - name: Commit and push changes
       run: |-
         git diff
