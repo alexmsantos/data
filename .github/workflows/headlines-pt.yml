@@ -1,7 +1,7 @@
 name: Headlines PT
 on:
   workflow_dispatch:
-  schedule:
+  #schedule:
   #  - cron:  '*/15 6-23 * * *'
 
 jobs:
@@ -39,5 +39,5 @@ jobs:
         git config user.name "Automated"
         git config user.email "---"
         git pull
-        git diff --quiet || (git add -A && git commit -m "Updated News Digest PT")
+        git diff --quiet || (git add -A && git commit -m "Updated Headlines PT")
         git push
