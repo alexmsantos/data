@@ -23,13 +23,13 @@ jobs:
       run: node obsHeadline.js
     - name: Edit headline--eco.json
       run: |-
-        jq '[{title: ."0", url: ."1", media: "Eco"}]' headline--eco.json >headlines/headline--eco.json
+        jq '{title: ."0", url: ."1", media: "Eco"}' headline--eco.json >headlines/headline--eco.json
     - name: Edit headline--publico.json
       run: |-
-        jq '[{title: ."0", url: ."1", media: "Público"}]' headline--publico.json >headlines/headline--publico.json
+        jq '{title: ."0", url: ."1", media: "Público"}' headline--publico.json >headlines/headline--publico.json
     - name: Edit headline--observador.json
       run: |-
-        jq '[{title: ."0", url: ."1", media: "Observador"}]' headline--observador.json >headlines/headline--observador.json
+        jq '{title: ."0", url: ."1", media: "Observador"}' headline--observador.json >headlines/headline--observador.json
     - name: Merge files
       run: |-
         jq -s . headlines/headline--eco.json headlines/headline--publico.json headlines/headline--observador.json | jq -r tostring > headlines/headlinespt.json
