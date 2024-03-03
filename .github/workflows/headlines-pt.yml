@@ -1,0 +1,43 @@
+name: Headlines PT
+on:
+  workflow_dispatch:
+  schedule:
+  #  - cron:  '*/15 6-23 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    #- name: Build
+    #  run: npm install
+    - name: Scrape ECO
+      run: node ecoHeadline.js
+    - name: Scrape Público
+      run: node publicoHeadline.js
+    - name: Scrape Observador
+      run: node obsHeadline.js
+    - name: Edit headline--eco.json
+      run: |-
+        jq '[{title: ."0", url: ."1", media: "Eco"}]' headline--eco.json >headlines/headline--eco.json
+    - name: Edit headline--publico.json
+      run: |-
+        jq '[{title: ."0", url: ."1", media: "Público"}]' headline--publico.json >headlines/headline--publico.json
+    - name: Edit headline--observador.json
+      run: |-
+        jq '[{title: ."0", url: ."1", media: "Observador"}]' headline--observador.json >headlines/headline--observador.json
+    - name: Merge files
+      run: |-
+        jq -s . headlines/headline--eco.json headlines/headline--publico.json headlines/headline--observador.json | jq -r tostring > headlines/headlinespt.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git pull
+        git diff --quiet || (git add -A && git commit -m "Updated News Digest PT")
+        git push
