@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-04T09:10:00+00:00</dc:date>
+        <dc:date>2024-03-04T09:30:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Tiroteio em Almada deixa dois feridos ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811351/tiroteio-em-almada-deixa-dois-feridos?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+O alerta foi dado pelas 19h45 depois de terem sido disparadas armas de fogo na via pública.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-04T09:30:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Tiroteio, Almada, PSP,  | O alerta foi dado pelas 19h45 depois de terem sido disparadas armas de fogo na via pública.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811351</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/4/864176.png?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Jo&#227;o Porf&#237;rio</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Novo Governo dos Açores toma posse hoje ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811350/novo-governo-dos-acores-toma-posse-hoje?seccao=Portugal_i</link>
@@ -450,27 +471,6 @@ Agressões, carcavelos, Homicídio, PJ,  | Na origem da morte terão estado desa
                 </content:encoded>
                 <guid>811332</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864156.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Auditoria Interna e Poder Autárquico – Onde fica a Independência? ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811331/auditoria-interna-e-poder-autarquico-onde-fica-a-independ-ncia-?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Um dos fatores fundamentais para a eficácia da função Auditoria prende-se com a estrutura de governação, diretamente relacionada com a sua independência.
-				]]>
-                
-                </description>
-                <dc:creator>F&#225;tima Geada</dc:creator>
-                <dc:date>2024-03-03T11:02:38+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Um dos fatores fundamentais para a eficácia da função Auditoria prende-se com a estrutura de governação, diretamente relacionada com a sua independência.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811331</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864155.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
