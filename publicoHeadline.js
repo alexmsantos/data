@@ -11,7 +11,7 @@ rp(url)
     const articleTitle = $('.article  .article__title a', html).eq(0);
     const articleUrl = $('.article  .article__title a');
     articles.push(articleTitle.text().trim());
-    articles.push('https://www.publico.pt/' + articleUrl[0].attribs.href);
+    articles.push('https://www.publico.pt' + articleUrl[0].attribs.href);
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
