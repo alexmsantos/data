@@ -37,6 +37,8 @@ jobs:
       run: node jornaliHeadline.js
     - name: Scrape Notícias ao Minuto
       run: node noticiasaominutoHeadline.js
+    - name: Scrape Expresso
+      run: node expressoHeadline.js
     - name: Edit headline--eco.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Eco"}' headline--eco.json >headlines/headline--eco.json
