@@ -14,7 +14,7 @@ jobs:
       with:
         fetch-depth: 0
     #- name: Build
-    #  run: npm install
+    #  run: npx puppeteer browsers install chrome
     - name: Scrape ECO
       run: node ecoHeadline.js
     - name: Scrape Público
