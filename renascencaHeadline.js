@@ -8,7 +8,7 @@ rp(url)
     const $ = cheerio.load(html);
 
     const articles = [];
-    const articleTitle = $('.column-group.bottom-space a h3', html).eq(0);
+    const articleTitle = $('.column-group.bottom-space a h3.superFix', html).eq(0);
     const articleUrl = $('.column-group.bottom-space .all-100:last-child a');
     articles.push(articleTitle.text().trim());
     articles.push('https://rr.sapo.pt/' + articleUrl[0].attribs.href);
