@@ -39,6 +39,8 @@ jobs:
       run: node noticiasaominutoHeadline.js
     - name: Scrape Expresso
       run: node expressoHeadline.js
+    - name: Scrape SIC Notícias
+      run: node sicHeadline.js
     - name: Edit headline--eco.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Eco"}' headline--eco.json >headlines/headline--eco.json
@@ -75,9 +77,12 @@ jobs:
     - name: Edit headline--expresso.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Expresso"}' headline--expresso.json >headlines/headline--expresso.json
+    - name: Edit headline--sicnoticias.json
+      run: |-
+        jq '{title: ."0", url: ."1", media: "SIC Notícias"}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
     - name: Merge files
       run: |-
-        jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--expresso.json headlines/headline--jornali.json headlines/headline--noticiasaominuto.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json | jq -r tostring > headlines/headlinespt.json
+        jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--expresso.json headlines/headline--jornali.json headlines/headline--noticiasaominuto.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json headlines/headline--sicnoticias.json | jq -r tostring > headlines/headlinespt.json
     - name: Commit and push changes
       run: |-
         git diff
