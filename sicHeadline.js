@@ -25,9 +25,12 @@ puppeteer
     const jsonString = JSON.stringify(Object.assign({}, articles))
     fs.writeFile('headline--sicnoticias.json', jsonString, function(err){
       console.log('File successfully written');
+      // Exit the process after the file is written
+      process.exit(0);
     });
 
   })
   .catch(function(err) {
     console.log(err);
+    process.exit(1);
   });
