@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-04T15:14:00+00:00</dc:date>
+        <dc:date>2024-03-04T16:05:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Açores sob aviso amarelo devido a vento e agitação marítima ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811365/acores-sob-aviso-amarelo-devido-a-vento-e-agitacao-maritima?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Ondas podem chegar aos sete metros.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-04T16:05:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ipma, Açores,  | Ondas podem chegar aos sete metros.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811365</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/4/864190.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Banco de Portugal adverte para perfis de Facebook fraudulentos. ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811364/banco-de-portugal-adverte-para-perfis-de-facebook-fraudulentos-?seccao=Portugal_i</link>
@@ -427,31 +448,6 @@ farense, Futebol, Sporting,  | Golos de Daniel Bragança, Gyokeres e Pedro Gonç
                 <guid>811346</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864171.PNG?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Instagram Sporting CP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Irão executa acusado de espionagem a favor de Israel ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811345/irao-executa-acusado-de-espionagem-a-favor-de-israel?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Identidade do executado e a data não foram divulgadas
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-03T20:03:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-espionagem, Irão, Israel, Mossad, Terrorismo, | Identidade do executado e a data não foram divulgadas
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811345</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864170.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
