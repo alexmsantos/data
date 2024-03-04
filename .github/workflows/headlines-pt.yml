@@ -69,7 +69,7 @@ jobs:
         jq '{title: ."0", url: ."1", media: "Jornal i"}' headline--jornali.json >headlines/headline--jornali.json
     - name: Edit headline--noticiasaominuto.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Jornal i"}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
+        jq '{title: ."0", url: ."1", media: "Notícias ao Minuto"}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
     - name: Merge files
       run: |-
         jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--jornali.json headlines/headline--noticiasaominuto.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json | jq -r tostring > headlines/headlinespt.json
