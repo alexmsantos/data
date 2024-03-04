@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const cheerio = require('cheerio');
-const url = 'https://www.dn.pt';
+const url = 'https://www.jn.pt';
 
 puppeteer
   .launch()
@@ -11,7 +11,7 @@ puppeteer
   .then(function(page) {
     return page.goto(url).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('.sk-1 h2.title', '.sk-left .sk-1 a.clean-link');
+      return page.waitForSelector('#destaques h2.title', '#destaques a.clean-link');
     })
     .then(function() {
       return page.content();
@@ -20,14 +20,14 @@ puppeteer
   .then(function(html) {
     const $ = cheerio.load(html);
     const articles = [];
-    const articleTitle = $('.sk-1 h2.title');
-    const articleUrl = $('.sk-left .sk-1 a.clean-link');
+    const articleTitle = $('#destaques h2.title');
+    const articleUrl = $('#destaques a.clean-link');
     articles.push(articleTitle.first().text().trim());
-    articles.push('https://www.dn.pt' + articleUrl[0].attribs.href);
+    articles.push('https://www.jn.pt' + articleUrl[0].attribs.href);
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
-    fs.writeFile('headline--dn.json', jsonString, function(err){
+    fs.writeFile('headline--jn.json', jsonString, function(err){
       console.log('File successfully written');
       // Exit the process after the file is written
       process.exit(0);
