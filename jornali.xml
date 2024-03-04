@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-04T11:20:08+00:00</dc:date>
+        <dc:date>2024-03-04T11:45:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Mãe e filha morrem em colisão frontal perto de Mora ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811357/mae-e-filha-morrem-em-colisao-frontal-perto-de-mora?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Uma terceira mulher ficou ferida com gravidade.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-04T11:45:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Acidente, Carros, Colisão, mora,  | Uma terceira mulher ficou ferida com gravidade.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811357</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/4/864182.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Estado direito, fundos europeus e a necessidade de nivelação de controlos ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811355/estado-direito-fundos-europeus-e-a-necessidade-de-nivelacao-de-controlos?seccao=Opiniao_i</link>
@@ -435,31 +456,6 @@ Festival da Canção, Música, RTP, | Os 12 temas vão ser apresentados novament
                 <guid>811339</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864163.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Líder do partido conservador dinamarquês morre após enfarte num congresso ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811338/lider-do-partido-conservador-dinamarqu-s-morre-apos-enfarte-num-congresso?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Soren Pape Poulsen morreu no sábado, aos 52 anos.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-03T12:58:37+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Dinamarca, Soren Pape Poulsen,  | Soren Pape Poulsen morreu no sábado, aos 52 anos.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811338</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/3/864162.PNG?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 

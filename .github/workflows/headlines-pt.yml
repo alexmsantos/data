@@ -13,8 +13,8 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    #- name: Build
-    #  run: npx puppeteer browsers install chrome
+    - name: Build
+      run: npx puppeteer browsers install chrome
     - name: Scrape ECO
       run: node ecoHeadline.js
     - name: Scrape Público
