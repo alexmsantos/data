@@ -62,13 +62,13 @@ jobs:
         jq '{title: ."0", url: ."1", media: "Observador", fetchDate: (now | todateiso8601)}' headline--observador.json >headlines/headline--observador.json
     - name: Edit headline--cnn.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "CNN Portugal", fetchDate: (now | todateiso8601)}' headline--cnn.json >headlines/headline--cnn.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "CNN Portugal"}' headline--cnn.json >headlines/headline--cnn.json
     - name: Edit headline--cm.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Correio da Manhã", fetchDate: (now | todateiso8601)}' headline--cm.json >headlines/headline--cm.json
     - name: Edit headline--economico.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Económico", fetchDate: (now | todateiso8601)}' headline--economico.json >headlines/headline--economico.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Económico"}' headline--economico.json >headlines/headline--economico.json
     - name: Edit headline--rtp.json
       run: |-
         jq '{title: ."0", url: ."1", media: "RTP Notícias", fetchDate: (now | todateiso8601)}' headline--rtp.json >headlines/headline--rtp.json
