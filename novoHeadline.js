@@ -12,6 +12,9 @@ rp(url)
     const articleUrl = $('h1.uk-h1 > a');
     articles.push(articleTitle.text().trim());
     articles.push(articleUrl[0].attribs.href);
+    let ms = new Date();
+    const dateIso = ms.toISOString()
+    articles.push(dateIso);
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
