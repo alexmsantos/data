@@ -20,6 +20,9 @@ puppeteer
     const articleUrl = $('.main-section .teaser-article .text-details > h2.title > a');
     articles.push(articleTitle.text());
     articles.push('https://expresso.pt' + articleUrl[0].attribs.href);
+    let ms = new Date();
+    const dateIso = ms.toISOString()
+    articles.push(dateIso);
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
