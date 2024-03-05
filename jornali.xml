@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-05T14:54:00+00:00</dc:date>
+        <dc:date>2024-03-05T15:03:06+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Basta! ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811407/basta-?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Basta de politiquices, ser de direita ou de esquerda o importante é tentarmos todos resolver os nossos problemas.
+				]]>
+                
+                </description>
+                <dc:creator>Joaquim Jorge</dc:creator>
+                <dc:date>2024-03-05T15:03:06+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Basta de politiquices, ser de direita ou de esquerda o importante é tentarmos todos resolver os nossos problemas.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811407</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/5/864225.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Josep Borrell. "A Europa estava em perigo e hoje está cada vez mais em perigo"  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811406/josep-borrell-a-europa-estava-em-perigo-e-hoje-esta-cada-vez-mais-em-perigo-?seccao=Mundo_i</link>
@@ -425,25 +446,6 @@ Opinião,  | O que se exige do lado da cidadania é que as forças políticas co
                    ]]>
                 </content:encoded>
                 <guid>811388</guid>
-           </item>
-            <item>
-               <title><![CDATA[ O poder da música ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811387/o-poder-da-m-sica?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Essa é a força do som e a felicidade suprema para quem passa música. Ver gente feliz e a dançar, salas cheias e animadas e a sensação de que se está a fazer parte de algo especial e transcendental.
-				]]>
-                
-                </description>
-                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
-                <dc:date>2024-03-05T09:51:26+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Essa é a força do som e a felicidade suprema para quem passa música. Ver gente feliz e a dançar, salas cheias e animadas e a sensação de que se está a fazer parte de algo especial e transcendental.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811387</guid>
            </item>
     </channel>
 
