@@ -83,7 +83,7 @@ jobs:
         jq '{title: ."0", url: ."1", media: "Jornal i", fetchDate: (now | todateiso8601)}' headline--jornali.json >headlines/headline--jornali.json
     - name: Edit headline--noticiasaominuto.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Notícias ao Minuto", fetchDate: (now | todateiso8601)}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Notícias ao Minuto"}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
     - name: Edit headline--expresso.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Expresso", fetchDate: (now | todateiso8601)}' headline--expresso.json >headlines/headline--expresso.json
