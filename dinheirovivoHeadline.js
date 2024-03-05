@@ -24,6 +24,9 @@ puppeteer
     const articleUrl = $('.component-root a.clean-link');
     articles.push(articleTitle.first().text().trim());
     articles.push('https://www.dinheirovivo.pt' + articleUrl[0].attribs.href);
+    let ms = new Date();
+    const dateIso = ms.toISOString()
+    articles.push(dateIso);
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
