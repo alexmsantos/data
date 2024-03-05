@@ -11,7 +11,7 @@ puppeteer
   .then(function(page) {
     return page.goto(url).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('.component-root h2.title', '.component-root a.clean-link');
+      return page.waitForSelector('div.sk-container > div.sk-wrapper > div > div > a h2.title', 'div.sk-container > div.sk-wrapper > div > div > a.clean-link');
     })
     .then(function() {
       return page.content();
@@ -20,8 +20,8 @@ puppeteer
   .then(function(html) {
     const $ = cheerio.load(html);
     const articles = [];
-    const articleTitle = $('.component-root h2.title');
-    const articleUrl = $('.component-root a.clean-link');
+    const articleTitle = $('div.sk-container > div.sk-wrapper > div > div > a h2.title');
+    const articleUrl = $('div.sk-container > div.sk-wrapper > div > div > a.clean-link');
     articles.push(articleTitle.first().text().trim());
     articles.push('https://www.tsf.pt' + articleUrl[0].attribs.href);
     console.log(articles);
