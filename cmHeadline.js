@@ -12,6 +12,9 @@ rp(url)
     const articleUrl = $('.manchetes_container article.destaque .text_container h1 > a');
     articles.push(articleTitle.text().trim());
     articles.push('https://www.cmjornal.pt' + articleUrl[0].attribs.href);
+    let ms = new Date();
+    const dateIso = ms.toISOString()
+    articles.push(dateIso);
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
