@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-05T09:39:20+00:00</dc:date>
+        <dc:date>2024-03-05T09:42:26+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Um futuro quase feito só de passados ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811383/um-futuro-quase-feito-so-de-passados?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Domingo é dia de votar, num quadro de manutenção ou de mudança, podendo haver diversas opções, algumas soluções de maioria para governar e uma improvável possibilidade de maioria absoluta.
+				]]>
+                
+                </description>
+                <dc:creator>Ant&#243;nio Galamba</dc:creator>
+                <dc:date>2024-03-05T09:42:26+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Domingo é dia de votar, num quadro de manutenção ou de mudança, podendo haver diversas opções, algumas soluções de maioria para governar e uma improvável possibilidade de maioria absoluta.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811383</guid>
+           </item>
             <item>
                <title><![CDATA[ Uma campanha de demagogia e de casos ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811382/uma-campanha-de-demagogia-e-de-casos?seccao=Opiniao_i</link>
@@ -437,27 +456,6 @@ Aeroporto, Ativistas, Climáximo, Lisboa,  | Pelo menos três pessoas foram leva
                 <guid>811362</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/4/864187.jpeg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Athletic Bilbao contrata Álvaro Djaló ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811360/athletic-bilbao-contrata-alvaro-djalo?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O avançado espanhol vai deixar o Sporting de Braga no final da época.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-04T13:20:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | O avançado espanhol vai deixar o Sporting de Braga no final da época.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811360</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/4/864185.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Sporting de Braga / Facebook</media:credit>                                                              </media:content>
            </item>
     </channel>
 
