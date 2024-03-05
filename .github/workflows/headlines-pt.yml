@@ -59,7 +59,7 @@ jobs:
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Público"}' headline--publico.json >headlines/headline--publico.json
     - name: Edit headline--observador.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Observador", fetchDate: (now | todateiso8601)}' headline--observador.json >headlines/headline--observador.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Observador"}' headline--observador.json >headlines/headline--observador.json
     - name: Edit headline--cnn.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "CNN Portugal"}' headline--cnn.json >headlines/headline--cnn.json
