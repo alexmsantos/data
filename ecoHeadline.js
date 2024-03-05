@@ -8,7 +8,7 @@ rp(url)
     const $ = cheerio.load(html);
 
     const articles = [];
-    const articleTitle = $('article.highlight .highlight__content a:last-of-type');
+    const articleTitle = $('article.highlight .highlight__content h2.title a:last-of-type');
     const articleUrl = $('article.highlight .highlight__content a');
     articles.push(articleTitle[0].attribs.title);
     articles.push(articleUrl[0].attribs.href);
