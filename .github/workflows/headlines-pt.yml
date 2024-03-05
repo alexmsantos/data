@@ -98,10 +98,10 @@ jobs:
         jq '{title: ."0", url: ."1", media: "Jornal de Notícias", fetchDate: (now | todateiso8601)}' headline--jn.json >headlines/headline--jn.json
     - name: Edit headline--dinheirovivo.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Dinheiro Vivo", fetchDate: (now | todateiso8601)}' headline--dinheirovivo.json >headlines/headline--dinheirovivo.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Dinheiro Vivo"}' headline--dinheirovivo.json >headlines/headline--dinheirovivo.json
     - name: Edit headline--tsf.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "TSF", fetchDate: (now | todateiso8601)}' headline--tsf.json >headlines/headline--tsf.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "TSF"}' headline--tsf.json >headlines/headline--tsf.json
     - name: Edit headline--negocios.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Negócios", fetchDate: (now | todateiso8601)}' headline--negocios.json >headlines/headline--negocios.json
