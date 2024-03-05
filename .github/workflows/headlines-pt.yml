@@ -86,13 +86,13 @@ jobs:
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Notícias ao Minuto"}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
     - name: Edit headline--expresso.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Expresso", fetchDate: (now | todateiso8601)}' headline--expresso.json >headlines/headline--expresso.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Expresso"}' headline--expresso.json >headlines/headline--expresso.json
     - name: Edit headline--sicnoticias.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "SIC Notícias"}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
     - name: Edit headline--dn.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Diário de Notícias", fetchDate: (now | todateiso8601)}' headline--dn.json >headlines/headline--dn.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Diário de Notícias"}' headline--dn.json >headlines/headline--dn.json
     - name: Edit headline--jn.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Jornal de Notícias"}' headline--jn.json >headlines/headline--jn.json
