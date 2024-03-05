@@ -56,55 +56,55 @@ jobs:
         jq '{title: ."0", url: ."1", media: "Eco", fetchDate: (now | todateiso8601)}' headline--eco.json >headlines/headline--eco.json
     - name: Edit headline--publico.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Público"}' headline--publico.json >headlines/headline--publico.json
+        jq '{title: ."0", url: ."1", media: "Público", fetchDate: (now | todateiso8601)}' headline--publico.json >headlines/headline--publico.json
     - name: Edit headline--observador.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Observador"}' headline--observador.json >headlines/headline--observador.json
+        jq '{title: ."0", url: ."1", media: "Observador", fetchDate: (now | todateiso8601)}' headline--observador.json >headlines/headline--observador.json
     - name: Edit headline--cnn.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "CNN Portugal"}' headline--cnn.json >headlines/headline--cnn.json
+        jq '{title: ."0", url: ."1", media: "CNN Portugal", fetchDate: (now | todateiso8601)}' headline--cnn.json >headlines/headline--cnn.json
     - name: Edit headline--cm.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Correio da Manhã"}' headline--cm.json >headlines/headline--cm.json
+        jq '{title: ."0", url: ."1", media: "Correio da Manhã", fetchDate: (now | todateiso8601)}' headline--cm.json >headlines/headline--cm.json
     - name: Edit headline--economico.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Económico"}' headline--economico.json >headlines/headline--economico.json
+        jq '{title: ."0", url: ."1", media: "Económico", fetchDate: (now | todateiso8601)}' headline--economico.json >headlines/headline--economico.json
     - name: Edit headline--rtp.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "RTP Notícias"}' headline--rtp.json >headlines/headline--rtp.json
+        jq '{title: ."0", url: ."1", media: "RTP Notícias", fetchDate: (now | todateiso8601)}' headline--rtp.json >headlines/headline--rtp.json
     - name: Edit headline--novo.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Novo"}' headline--novo.json >headlines/headline--novo.json
+        jq '{title: ."0", url: ."1", media: "Novo", fetchDate: (now | todateiso8601)}' headline--novo.json >headlines/headline--novo.json
     - name: Edit headline--renascenca.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Renascença"}' headline--renascenca.json >headlines/headline--renascenca.json
+        jq '{title: ."0", url: ."1", media: "Renascença", fetchDate: (now | todateiso8601)}' headline--renascenca.json >headlines/headline--renascenca.json
     - name: Edit headline--jornali.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Jornal i"}' headline--jornali.json >headlines/headline--jornali.json
+        jq '{title: ."0", url: ."1", media: "Jornal i", fetchDate: (now | todateiso8601)}' headline--jornali.json >headlines/headline--jornali.json
     - name: Edit headline--noticiasaominuto.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Notícias ao Minuto"}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
+        jq '{title: ."0", url: ."1", media: "Notícias ao Minuto", fetchDate: (now | todateiso8601)}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
     - name: Edit headline--expresso.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Expresso"}' headline--expresso.json >headlines/headline--expresso.json
+        jq '{title: ."0", url: ."1", media: "Expresso", fetchDate: (now | todateiso8601)}' headline--expresso.json >headlines/headline--expresso.json
     - name: Edit headline--sicnoticias.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "SIC Notícias"}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
+        jq '{title: ."0", url: ."1", media: "SIC Notícias", fetchDate: (now | todateiso8601)}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
     - name: Edit headline--dn.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Diário de Notícias"}' headline--dn.json >headlines/headline--dn.json
+        jq '{title: ."0", url: ."1", media: "Diário de Notícias", fetchDate: (now | todateiso8601)}' headline--dn.json >headlines/headline--dn.json
     - name: Edit headline--jn.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Jornal de Notícias"}' headline--jn.json >headlines/headline--jn.json
+        jq '{title: ."0", url: ."1", media: "Jornal de Notícias", fetchDate: (now | todateiso8601)}' headline--jn.json >headlines/headline--jn.json
     - name: Edit headline--dinheirovivo.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Dinheiro Vivo"}' headline--dinheirovivo.json >headlines/headline--dinheirovivo.json
+        jq '{title: ."0", url: ."1", media: "Dinheiro Vivo", fetchDate: (now | todateiso8601)}' headline--dinheirovivo.json >headlines/headline--dinheirovivo.json
     - name: Edit headline--tsf.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "TSF"}' headline--tsf.json >headlines/headline--tsf.json
+        jq '{title: ."0", url: ."1", media: "TSF", fetchDate: (now | todateiso8601)}' headline--tsf.json >headlines/headline--tsf.json
     - name: Edit headline--negocios.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Negócios"}' headline--negocios.json >headlines/headline--negocios.json
+        jq '{title: ."0", url: ."1", media: "Negócios", fetchDate: (now | todateiso8601)}' headline--negocios.json >headlines/headline--negocios.json
     - name: Merge files
       run: |-
         jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--dinheirovivo.json headlines/headline--dn.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--expresso.json headlines/headline--jn.json headlines/headline--jornali.json headlines/headline--negocios.json headlines/headline--noticiasaominuto.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json headlines/headline--sicnoticias.json headlines/headline--tsf.json | jq -r tostring > headlines/headlinespt.json
