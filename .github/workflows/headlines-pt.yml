@@ -53,7 +53,7 @@ jobs:
       run: node negociosHeadline.js
     - name: Edit headline--eco.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Eco", fetchDate: (now | todateiso8601)}' headline--eco.json >headlines/headline--eco.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Eco"}' headline--eco.json >headlines/headline--eco.json
     - name: Edit headline--publico.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Público", fetchDate: (now | todateiso8601)}' headline--publico.json >headlines/headline--publico.json
