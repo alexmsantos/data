@@ -12,6 +12,9 @@ rp(url)
     const articleUrl = $('article.destaque h1 > a');
     articles.push(articleTitle[0].attribs.title);
     articles.push('https://www.jornaldenegocios.pt' + articleUrl[0].attribs.href);
+    let ms = new Date();
+    const dateIso = ms.toISOString()
+    articles.push(dateIso);
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
