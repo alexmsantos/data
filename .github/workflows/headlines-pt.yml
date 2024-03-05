@@ -80,7 +80,7 @@ jobs:
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Renascença"}' headline--renascenca.json >headlines/headline--renascenca.json
     - name: Edit headline--jornali.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Jornal i", fetchDate: (now | todateiso8601)}' headline--jornali.json >headlines/headline--jornali.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Jornal i"}' headline--jornali.json >headlines/headline--jornali.json
     - name: Edit headline--noticiasaominuto.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Notícias ao Minuto"}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
@@ -95,7 +95,7 @@ jobs:
         jq '{title: ."0", url: ."1", media: "Diário de Notícias", fetchDate: (now | todateiso8601)}' headline--dn.json >headlines/headline--dn.json
     - name: Edit headline--jn.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Jornal de Notícias", fetchDate: (now | todateiso8601)}' headline--jn.json >headlines/headline--jn.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Jornal de Notícias"}' headline--jn.json >headlines/headline--jn.json
     - name: Edit headline--dinheirovivo.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Dinheiro Vivo"}' headline--dinheirovivo.json >headlines/headline--dinheirovivo.json
