@@ -65,7 +65,7 @@ jobs:
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "CNN Portugal"}' headline--cnn.json >headlines/headline--cnn.json
     - name: Edit headline--cm.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "Correio da Manhã", fetchDate: (now | todateiso8601)}' headline--cm.json >headlines/headline--cm.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Correio da Manhã"}' headline--cm.json >headlines/headline--cm.json
     - name: Edit headline--economico.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Económico"}' headline--economico.json >headlines/headline--economico.json
