@@ -71,7 +71,7 @@ jobs:
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Económico"}' headline--economico.json >headlines/headline--economico.json
     - name: Edit headline--rtp.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "RTP Notícias", fetchDate: (now | todateiso8601)}' headline--rtp.json >headlines/headline--rtp.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "RTP Notícias"}' headline--rtp.json >headlines/headline--rtp.json
     - name: Edit headline--novo.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Novo", fetchDate: (now | todateiso8601)}' headline--novo.json >headlines/headline--novo.json
@@ -89,7 +89,7 @@ jobs:
         jq '{title: ."0", url: ."1", media: "Expresso", fetchDate: (now | todateiso8601)}' headline--expresso.json >headlines/headline--expresso.json
     - name: Edit headline--sicnoticias.json
       run: |-
-        jq '{title: ."0", url: ."1", media: "SIC Notícias", fetchDate: (now | todateiso8601)}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
+        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "SIC Notícias"}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
     - name: Edit headline--dn.json
       run: |-
         jq '{title: ."0", url: ."1", media: "Diário de Notícias", fetchDate: (now | todateiso8601)}' headline--dn.json >headlines/headline--dn.json
