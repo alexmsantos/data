@@ -12,6 +12,9 @@ rp(url)
     const articleUrl = $('.column-group.bottom-space .all-100:last-child a');
     articles.push(articleTitle.text().trim());
     articles.push('https://rr.sapo.pt/' + articleUrl[0].attribs.href);
+    let ms = new Date();
+    const dateIso = ms.toISOString()
+    articles.push(dateIso);
     console.log(articles);
 
     const jsonString = JSON.stringify(Object.assign({}, articles))
