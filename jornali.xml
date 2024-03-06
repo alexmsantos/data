@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-06T19:55:04+00:00</dc:date>
+        <dc:date>2024-03-06T21:46:12+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Incêndio em habitação faz dois feridos em Portalegre ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811462/inc-ndio-em-habitacao-faz-dois-feridos-em-portalegre?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Alerta foi dado às 19h32.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-03-06T21:46:12+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+acidente, portalegre,  | Alerta foi dado às 19h32.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811462</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/6/864283.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Israel aprova mais 3500 colonatos na Cisjordânia ocupada  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811461/israel-aprova-mais-3500-colonatos-na-cisjord-nia-ocupada-?seccao=Mundo_i</link>
@@ -444,27 +465,6 @@ Acidente, Ambulância, bombeiro, Lisboa,  | Um dos feridos é bombeiro.
                 </content:encoded>
                 <guid>811442</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/6/864264.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Associação de Treinadores de Futebol condena injúrias dirigidas a Abel Ferreira ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811441/associacao-de-treinadores-de-futebol-condena-inj-rias-dirigidas-a-abel-ferreira?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-No final da partida entre o São Paulo e o Palmeiras, que acabou empatada, no passado domingo, para o Campeonato Paulista, Carlos Belmonte dirigiu-se de forma insultuosa ao técnico nacional.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-06T13:23:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | No final da partida entre o São Paulo e o Palmeiras, que acabou empatada, no passado domingo, para o Campeonato Paulista, Carlos Belmonte dirigiu-se de forma insultuosa ao técnico nacional.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811441</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/6/864263.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
