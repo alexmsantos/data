@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-07T09:14:00+00:00</dc:date>
+        <dc:date>2024-03-07T09:35:40+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Ganham todos se a abstenção perder no domingo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811467/ganham-todos-se-a-abstencao-perder-no-domingo?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Iniciativas de educação cívica, debates políticos inclusivos e transparentes, e uma comunicação mais eficaz por parte dos partidos são essenciais para voltar a incentivar e aproximar os cidadãos da política.
+				]]>
+                
+                </description>
+                <dc:creator>Carlos Gouveia Martins</dc:creator>
+                <dc:date>2024-03-07T09:35:40+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Iniciativas de educação cívica, debates políticos inclusivos e transparentes, e uma comunicação mais eficaz por parte dos partidos são essenciais para voltar a incentivar e aproximar os cidadãos da política.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811467</guid>
+           </item>
             <item>
                <title><![CDATA[ MotoGP. O sonho americano de Miguel Oliveira ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811466/motogp-o-sonho-americano-de-miguel-oliveira?seccao=Desporto_i</link>
@@ -435,27 +454,6 @@ iniciativa liberal, Legislativas 2024, cgd, tap,  | Menos impostos e eliminaçã
                 <guid>811447</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/6/864269.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Facebook Iniciativa Liberal</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Mais de 40 mil alunos continuam sem professor a pelo menos uma disciplina ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811445/mais-de-40-mil-alunos-continuam-sem-professor-a-pelo-menos-uma-disciplina?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O distrito com mais alunos, sem docentes, é Lisboa, seguido de Setúbal, Faro, Porto, Santarém e Leiria.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-06T15:13:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-FENPROF, Sindicatos, Professores,  | O distrito com mais alunos, sem docentes, é Lisboa, seguido de Setúbal, Faro, Porto, Santarém e Leiria.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811445</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/6/864267.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
