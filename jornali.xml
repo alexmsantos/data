@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-07T14:03:38+00:00</dc:date>
+        <dc:date>2024-03-07T14:13:52+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Queixas nas telecomunicações lideradas por aumento dos preços ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811480/queixas-nas-telecomunicacoes-lideradas-por-aumento-dos-precos?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+No setor postal registaram-se 37,3 mil reclamações em 2023
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-07T14:13:52+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Anacom, Telecomunicações, Reclamações | No setor postal registaram-se 37,3 mil reclamações em 2023
+					
+                   ]]>
+                </content:encoded>
+                <guid>811480</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/7/864300.jpeg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ AD cancela arruada no Chiado na sexta devido ao mau tempo ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811479/ad-cancela-arruada-no-chiado-na-sexta-devido-ao-mau-tempo?seccao=Portugal_i</link>
@@ -426,31 +447,6 @@ Cisjordania, israel, colonatos,  | No total, serão 3 476 novas habitações par
                 </content:encoded>
                 <guid>811461</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/6/864282.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ As aventuras fatídicas do mau soldado Schmidt ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811460/as-aventuras-fatidicas-do-mau-soldado-schmidt?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-Em Toulouse, o Benfica fez uma exibição miserável. Outra igual e a derrota no Porto será inevitável.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Afonso de Melo</dc:creator>
-                <dc:date>2024-03-06T19:40:27+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Roger Schmidt, futebol,  | Em Toulouse, o Benfica fez uma exibição miserável. Outra igual e a derrota no Porto será inevitável.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811460</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/6/864281.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
