@@ -23,7 +23,9 @@
       {
          "title": " Os perigos da Worldcoin ",
          "description": {
-            "img": "",
+            "img": {
+               "src": "https://img.iol.pt/image/id/65e89130d34e8d13c9b88289/200.jpg"
+            },
             "$text": "  "
          },
          "link": "https://cnnportugal.iol.pt/iris/worldcoin/rodrigo-adao-da-fonseca-os-perigos-da-worldcoin/20240307/65e9a5a8d34e87e0c08a7090",
@@ -544,21 +546,6 @@
          "media": {}
       },
       {
-         "title": " &quot;Mudança&quot;, a palavra da campanha eleitoral para Luís Paixão Martins ",
-         "description": {
-            "img": {
-               "src": "https://img.iol.pt/image/id/65e8fdb2d34e87e0c08a6e8f/200.jpg"
-            },
-            "$text": " &lt;p&gt;O comentador da CNN Portugal considera que esta palavra &quot;mudan&#xe7;a&quot; tem marcado a campanha eleitoral para as legislativas de 10 de mar&#xe7;o, tendo sido adotada por PS, AD e Chega.&lt;/p&gt; "
-         },
-         "link": "https://cnnportugal.iol.pt/videos/mudanca-a-palavra-da-campanha-eleitoral-para-luis-paixao-martins/65e8fcb10cf2c4edbc0d4df9",
-         "published": 1709768700000,
-         "created": 1709768700000,
-         "category": [],
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "title": " CNN Meia Noite - 6 de março de 2024 ",
          "description": {
             "img": {
@@ -567,6 +554,21 @@
             "$text": " &lt;p&gt;Com Cl&#xe1;udio Carvalho.&amp;#xa0;&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/cnn-meia-noite-6-de-marco-de-2024/65e925ae0cf2ee3456706155",
+         "published": 1709768700000,
+         "created": 1709768700000,
+         "category": [],
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "title": " &quot;Mudança&quot;, a palavra da campanha eleitoral para Luís Paixão Martins ",
+         "description": {
+            "img": {
+               "src": "https://img.iol.pt/image/id/65e8fdb2d34e87e0c08a6e8f/200.jpg"
+            },
+            "$text": " &lt;p&gt;O comentador da CNN Portugal considera que esta palavra &quot;mudan&#xe7;a&quot; tem marcado a campanha eleitoral para as legislativas de 10 de mar&#xe7;o, tendo sido adotada por PS, AD e Chega.&lt;/p&gt; "
+         },
+         "link": "https://cnnportugal.iol.pt/videos/mudanca-a-palavra-da-campanha-eleitoral-para-luis-paixao-martins/65e8fcb10cf2c4edbc0d4df9",
          "published": 1709768700000,
          "created": 1709768700000,
          "category": [],
