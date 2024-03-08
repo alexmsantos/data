@@ -66,9 +66,6 @@ jobs:
     - name: Edit headline--renascenca.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Renascença"}' headline--renascenca.json >headlines/headline--renascenca.json
-    - name: Edit headline--noticiasaominuto.json
-      run: |-
-        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Notícias ao Minuto"}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
     - name: Edit headline--sicnoticias.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "SIC Notícias"}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
