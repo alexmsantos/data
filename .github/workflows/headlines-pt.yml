@@ -66,9 +66,6 @@ jobs:
     - name: Edit headline--cm.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Correio da Manhã"}' headline--cm.json >headlines/headline--cm.json
-    - name: Edit headline--economico.json
-      run: |-
-        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Económico"}' headline--economico.json >headlines/headline--economico.json
     - name: Edit headline--rtp.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "RTP Notícias"}' headline--rtp.json >headlines/headline--rtp.json
@@ -93,9 +90,6 @@ jobs:
     - name: Edit headline--dn.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Diário de Notícias"}' headline--dn.json >headlines/headline--dn.json
-    - name: Edit headline--jn.json
-      run: |-
-        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Jornal de Notícias"}' headline--jn.json >headlines/headline--jn.json
     - name: Edit headline--dinheirovivo.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Dinheiro Vivo"}' headline--dinheirovivo.json >headlines/headline--dinheirovivo.json
