@@ -7,20 +7,23 @@ rp(url)
   .then(function(html){
     const $ = cheerio.load(html);
 
-    const articles = [];
     const articleTitle = $('#primeiramanchete .title h1 a', html).eq(0);
     const articleUrl = $('#primeiramanchete .title h1 a');
-    articles.push(articleTitle.text().trim());
-    articles.push('https://ionline.sapo.pt' + articleUrl[0].attribs.href);
     let ms = new Date();
     const dateIso = ms.toISOString()
-    articles.push(dateIso);
-    console.log(articles);
 
-    const jsonString = JSON.stringify(Object.assign({}, articles))
-    fs.writeFile('headline--jornali.json', jsonString, function(err){
+    const jsonString = JSON.stringify(Object.assign({}, {
+      title: articleTitle.text().trim(),
+      url: 'https://ionline.sapo.pt' + articleUrl[0].attribs.href,
+      fetchDate: dateIso,
+      media: "Jornal i"
+    }));
+
+    fs.writeFile('headlines/headline--jornali.json', jsonString, function(err){
       console.log('File successfully written');
     });
+
+    console.log(jsonString);
 
   })
   .catch(function(err){
