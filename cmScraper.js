@@ -13,7 +13,11 @@ rp(url)
       const articleUrl = $('.aominutoMain h2 > a', html)[i];
       const articleDate = $('.aominutoMain .dateTime', html).eq(i);
       articles.push(articleTitle.text().trim());
-      articles.push("https://www.cmjornal.pt" + articleUrl.attribs.href);
+      if (!articleUrl.attribs.href.startsWith("https://")) {
+        articles.push("https://www.cmjornal.pt" + articleUrl.attribs.href);
+      } else {
+        articles.push(articleUrl.attribs.href);
+      }
       const dateTrim = articleDate.text().trim();
       let thisYear = new Date();
       let dateArray = dateTrim.split(/[|,/, ]/);
