@@ -72,9 +72,6 @@ jobs:
     - name: Edit headline--sicnoticias.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "SIC Notícias"}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
-    - name: Edit headline--dinheirovivo.json
-      run: |-
-        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Dinheiro Vivo"}' headline--dinheirovivo.json >headlines/headline--dinheirovivo.json
     - name: Edit headline--tsf.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "TSF"}' headline--tsf.json >headlines/headline--tsf.json
