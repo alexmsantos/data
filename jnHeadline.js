@@ -35,6 +35,7 @@ puppeteer
       console.log('File successfully written');
       process.exit(0);
     });
+    
     console.log(jsonString);
 
   })
