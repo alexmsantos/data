@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-08T15:30:00+00:00</dc:date>
+        <dc:date>2024-03-08T16:10:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Futebol. Adepto do Ranger morre no dia do jogo com o Benfica ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811512/futebol-adepto-do-ranger-morre-no-dia-do-jogo-com-o-benfica?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+Clube escocês anunciou morte de adepto em comunicado, mas não adiantou circunstâncias.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-08T16:10:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Benfica, Futebol,  ,  | Clube escocês anunciou morte de adepto em comunicado, mas não adiantou circunstâncias.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811512</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/8/864333.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Mortes nas estradas aumentara 3% em relação a 2022 ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811511/mortes-nas-estradas-aumentara-3-em-relacao-a-2022?seccao=Portugal_i</link>
@@ -430,31 +451,6 @@ Japão, Índia, Diplomacia, Segurança, Economia,  | Os dois ministros congratul
                 </content:encoded>
                 <guid>811493</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/7/864313.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Detido homem por burla através do MBWay ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811492/detido-homem-por-burla-atraves-do-mbway?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Foram apreendidos 375 euros em numerário e também dois telemóveis. 
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-07T17:52:26+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-MBway, GNR,  | Foram apreendidos 375 euros em numerário e também dois telemóveis. 
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811492</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/7/864312.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
