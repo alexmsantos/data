@@ -19,20 +19,20 @@ puppeteer
   })
   .then(function(html) {
     const $ = cheerio.load(html);
-    const articles = [];
     const articleTitle = $('#destaques h2.title');
     const articleUrl = $('#destaques a.clean-link');
-    articles.push(articleTitle.first().text().trim());
-    articles.push('https://www.jn.pt' + articleUrl[0].attribs.href);
     let ms = new Date();
     const dateIso = ms.toISOString()
-    articles.push(dateIso);
-    console.log(articles);
 
-    const jsonString = JSON.stringify(Object.assign({}, articles))
-    fs.writeFile('headline--jn.json', jsonString, function(err){
+    const jsonString = JSON.stringify(Object.assign({}, {
+      title: articleTitle.first().text().trim(),
+      url: 'https://www.jn.pt' + articleUrl[0].attribs.href,
+      fetchDate: dateIso,
+      media: "Jornal de Notícias"
+    }));
+
+    fs.writeFile('headlines/headline--jn.json', jsonString, function(err){
       console.log('File successfully written');
-      // Exit the process after the file is written
       process.exit(0);
     });
 
