@@ -24,6 +24,7 @@ rp(url)
     });
 
    console.log(jsonString);
+   
   })
   .catch(function(err){
     console.log(err);
