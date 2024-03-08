@@ -60,9 +60,6 @@ jobs:
     - name: Edit headline--rtp.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "RTP Notícias"}' headline--rtp.json >headlines/headline--rtp.json
-    - name: Edit headline--novo.json
-      run: |-
-        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Novo"}' headline--novo.json >headlines/headline--novo.json
     - name: Edit headline--renascenca.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Renascença"}' headline--renascenca.json >headlines/headline--renascenca.json
