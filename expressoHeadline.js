@@ -15,22 +15,25 @@ puppeteer
   })
   .then(function(html) {
     const $ = cheerio.load(html);
-    const articles = [];
+
     const articleTitle = $('.main-section .teaser-article .text-details > h2.title > a', html).eq(0);
     const articleUrl = $('.main-section .teaser-article .text-details > h2.title > a');
-    articles.push(articleTitle.text());
-    articles.push('https://expresso.pt' + articleUrl[0].attribs.href);
     let ms = new Date();
     const dateIso = ms.toISOString()
-    articles.push(dateIso);
-    console.log(articles);
 
-    const jsonString = JSON.stringify(Object.assign({}, articles))
-    fs.writeFile('headline--expresso.json', jsonString, function(err){
+    const jsonString = JSON.stringify(Object.assign({}, {
+      title: articleTitle.text(),
+      url: 'https://expresso.pt' + articleUrl[0].attribs.href,
+      fetchDate: dateIso,
+      media: "Expresso"
+    }));
+ 
+    fs.writeFile('headlines/headline--expresso.json', jsonString, function(err){
       console.log('File successfully written');
-      // Exit the process after the file is written
       process.exit(0);
     });
+
+    console.log(jsonString);
 
   })
   .catch(function(err) {
