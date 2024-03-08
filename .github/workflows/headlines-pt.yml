@@ -72,9 +72,6 @@ jobs:
     - name: Edit headline--noticiasaominuto.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Notícias ao Minuto"}' headline--noticiasaominuto.json >headlines/headline--noticiasaominuto.json
-    - name: Edit headline--expresso.json
-      run: |-
-        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "Expresso"}' headline--expresso.json >headlines/headline--expresso.json
     - name: Edit headline--sicnoticias.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "SIC Notícias"}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
