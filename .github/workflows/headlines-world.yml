@@ -19,8 +19,8 @@ jobs:
       run: node headline--nytimes.js
     - name: Headline Wapo
       run: node headline--wapo.js
-    - name: Headline CNN
-      run: node headline--cnn.js
+    #- name: Headline CNN
+    #  run: node headline--cnn.js
     - name: Merge files
       run: |-
         jq -s . headlines/headline--cnn.json headlines/headline--nytimes.json headlines/headline--wapo.json | jq -r tostring > headlines/headlinesworld.json
