@@ -51,9 +51,6 @@ jobs:
       run: node tsfHeadline.js
     - name: Scrape Negócios
       run: node negociosHeadline.js
-    - name: Edit headline--sicnoticias.json
-      run: |-
-        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "SIC Notícias"}' headline--sicnoticias.json >headlines/headline--sicnoticias.json
     - name: Edit headline--tsf.json
       run: |-
         jq '{title: ."0", url: ."1", fetchDate: ."2", media: "TSF"}' headline--tsf.json >headlines/headline--tsf.json
