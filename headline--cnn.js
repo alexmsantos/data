@@ -11,7 +11,7 @@ puppeteer
   .then(function(page) {
     return page.goto(url, { timeout: 90000 }).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('.container_lead-package__cards-wrapper a.container_lead-package__link .container__headline-text', '.container_lead-package__cards-wrapper a.container_lead-package__link', { timeout: 20000 });
+      return page.waitForSelector('.container_lead-package__cards-wrapper a.container_lead-package__link .container__headline-text', '.container_lead-package__cards-wrapper a.container_lead-package__link', { timeout: 60000 });
     })
     .then(function() {
       return page.content();
