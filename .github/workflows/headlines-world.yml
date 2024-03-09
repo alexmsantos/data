@@ -23,7 +23,7 @@ jobs:
     #  run: node headline--cnn.js
     - name: Merge files
       run: |-
-        jq -s . headlines/headline--cnn.json headlines/headline--nytimes.json headlines/headline--wapo.json | jq -r tostring > headlines/headlinesworld.json
+        jq -s . headlines/headline--cnn.json headlines/headline--nytimes.json headlines/headline--wapo.json | jq -r tostring > headlines-world/headlinesworld.json
     - name: Commit and push changes
       run: |-
         git diff
