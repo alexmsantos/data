@@ -19,11 +19,13 @@ jobs:
       run: node headline--nytimes.js
     - name: Headline Wapo
       run: node headline--wapo.js
-    - name: Headline CNN
-      run: node headline--cnn.js
+    - name: Headline FT
+      run: node headline--ft.js
+    #- name: Headline CNN
+    #  run: node headline--cnn.js
     - name: Merge files
       run: |-
-        jq -s . headlines-world/headline--cnn.json headlines-world/headline--nytimes.json headlines-world/headline--wapo.json | jq -r tostring > headlines-world/headlinesworld.json
+        jq -s . headlines-world/headline--cnn.json headlines-world/headline--ft.json headlines-world/headline--nytimes.json headlines-world/headline--wapo.json | jq -r tostring > headlines-world/headlinesworld.json
     - name: Commit and push changes
       run: |-
         git diff
