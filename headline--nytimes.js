@@ -9,7 +9,7 @@ puppeteer
     return browser.newPage();
   })
   .then(function(page) {
-    return page.goto(url).then(function() {
+    return page.goto(url, { timeout: 90000 }).then(function() {
       // Wait for the dynamic content to load
       return page.waitForSelector('section.story-wrapper p.indicate-hover', 'section.story-wrapper > a', { timeout: 20000 });
     })
