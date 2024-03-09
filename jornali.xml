@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-09T12:26:59+00:00</dc:date>
+        <dc:date>2024-03-09T12:45:18+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Homem morre em Alcobaça vítima de disparo "acidental" ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811531/homem-morre-em-alcobaca-vitima-de-disparo-acidental?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Vítima foi atingida na face.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-09T12:45:18+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Alcobaça, disparo, arma, óbito,  | Vítima foi atingida na face.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>811531</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/9/864354.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Moçambique. 100 mil deslocados num mês ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811530/mocambique-100-mil-deslocados-num-m-s?seccao=Mundo_i</link>
@@ -443,27 +468,6 @@ Benfica, Futebol,  ,  | Clube escocês anunciou morte de adepto em comunicado, m
                 <guid>811512</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/8/864333.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Mortes nas estradas aumentaram 3% em relação a 2022 ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811511/mortes-nas-estradas-aumentaram-3-em-relacao-a-2022?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Registaram-se 61 vítimas por um milhão de habitantes.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-08T15:30:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | Registaram-se 61 vítimas por um milhão de habitantes.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811511</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/8/864331.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
