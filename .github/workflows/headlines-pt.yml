@@ -51,9 +51,6 @@ jobs:
       run: node tsfHeadline.js
     - name: Scrape Negócios
       run: node negociosHeadline.js
-    - name: Edit headline--tsf.json
-      run: |-
-        jq '{title: ."0", url: ."1", fetchDate: ."2", media: "TSF"}' headline--tsf.json >headlines/headline--tsf.json
     - name: Merge files
       run: |-
         jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--dinheirovivo.json headlines/headline--dn.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--expresso.json headlines/headline--jn.json headlines/headline--jornali.json headlines/headline--negocios.json headlines/headline--noticiasaominuto.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json headlines/headline--sicnoticias.json headlines/headline--tsf.json | jq -r tostring > headlines/headlinespt.json
