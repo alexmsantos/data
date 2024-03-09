@@ -11,7 +11,7 @@ puppeteer
   .then(function(page) {
     return page.goto(url).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('#destaques h2.title', '#destaques a.clean-link');
+      return page.waitForSelector('#destaques h2.title', '#destaques a.clean-link', { timeout: 20000 });
     })
     .then(function() {
       return page.content();
