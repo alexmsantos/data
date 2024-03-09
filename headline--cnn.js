@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const cheerio = require('cheerio');
-const url = 'https://edition.cnn.com';
+const url = 'https://www.cnn.com';
 
 puppeteer
   .launch()
@@ -26,7 +26,7 @@ puppeteer
 
     const jsonString = JSON.stringify(Object.assign({}, {
       title: articleTitle.first().text().trim(),
-      url: 'https://edition.cnn.com' + articleUrl[0].attribs.href,
+      url: 'https://www.cnn.com' + articleUrl[0].attribs.href,
       fetchDate: dateIso,
       media: "CNN",
     }));
