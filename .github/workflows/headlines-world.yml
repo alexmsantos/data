@@ -1,1 +1,30 @@
+name: Headlines World
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron:  '*/15 6-23 * * *'
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@main
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Build
+      run: npx puppeteer browsers install chrome
+    - name: Headline NYTimes
+      run: node headline--mytimes.js
+    #- name: Merge files
+    #  run: |-
+    #    jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--dinheirovivo.json headlines/headline--dn.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--expresso.json headlines/headline--jn.json headlines/headline--jornali.json headlines/headline--negocios.json headlines/headline--noticiasaominuto.json headlines/headline--novo.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json headlines/headline--sicnoticias.json headlines/headline--tsf.json | jq -r tostring > headlines/headlinespt.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git pull
+        git diff --quiet || (git add -A && git commit -m "Updated Headlines World")
+        git push
