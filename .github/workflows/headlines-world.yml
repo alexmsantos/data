@@ -41,8 +41,8 @@ jobs:
       run: node headline--aljazeera.js
     #- name: Headline BBC News
     #  run: node headline--bbc.js
-    #- name: Headline CNN
-    #  run: node headline--cnn.js
+    - name: Headline CNN
+      run: node headline--cnn.js
     - name: Headline Reuters
       run: node headline--reuters.js
     - name: Merge files
