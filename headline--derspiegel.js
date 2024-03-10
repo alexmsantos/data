@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const cheerio = require('cheerio');
-const url = 'https://www.spiegel.de';
+const url = 'https://www.spiegel.de/international/';
 
 puppeteer
   .launch()
