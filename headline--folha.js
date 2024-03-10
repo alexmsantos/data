@@ -9,9 +9,9 @@ puppeteer
     return browser.newPage();
   })
   .then(function(page) {
-    return page.goto(url, { timeout: 90000 }).then(function() {
+    return page.goto(url, { timeout: 120000 }).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('.c-main-headline__url > .c-main-headline__title', '.c-main-headline__url', { timeout: 20000 });
+      return page.waitForSelector('.c-main-headline__url > .c-main-headline__title', '.c-main-headline__url', { timeout: 60000 });
     })
     .then(function() {
       return page.content();
