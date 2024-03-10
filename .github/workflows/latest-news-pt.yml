@@ -21,16 +21,21 @@ jobs:
     #  run: npm install
     - name: Scrape ECO
       run: node ecoScraper.js
+      continue-on-error: true
     - name: Scrape CM
       run: node cmScraper.js
+      continue-on-error: true
     - name: RSS to JSON CNN Portugal
       run: node rss-to-json--cnn.js
+      continue-on-error: true
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
+        continue-on-error: true
     - name: Download Jornal i xml
       run: |-
         curl -o jornali.xml https://ionline.sapo.pt/rss.xml?v=$(date +%s)
+        continue-on-error: true
     #- name: Download CM xml
     #  run: |-
     #    curl -o cm.xml https://www.cmjornal.pt/rss?$(date +%s)
