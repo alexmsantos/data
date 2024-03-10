@@ -11,7 +11,7 @@ puppeteer
   .then(function(page) {
     return page.goto(url, { timeout: 90000 }).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('main ul li a p span', 'main ul li a', { timeout: 20000 });
+      return page.waitForSelector('main ul li a > span > p > span', 'main ul li a', { timeout: 20000 });
     })
     .then(function() {
       return page.content();
@@ -19,7 +19,7 @@ puppeteer
   })
   .then(function(html) {
     const $ = cheerio.load(html);
-    const articleTitle = $('main ul li a p span');
+    const articleTitle = $('main ul li a > span > p > span');
     const articleUrl = $('main ul li a');
     let ms = new Date();
     const dateIso = ms.toISOString()
