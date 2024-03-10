@@ -5,7 +5,7 @@ const url = 'https://www.bbc.com/news';
 
 puppeteer
   .launch({
-    headless: "new",
+    headless: false
   })
   .then(function(browser) {
     return browser.newPage();
