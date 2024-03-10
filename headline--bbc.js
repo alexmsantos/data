@@ -11,9 +11,9 @@ puppeteer
   .then(function(page) {
     // Define the user agent
     page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36');
-    return page.goto(url, { timeout: 90000 }).then(function() {
+    return page.goto(url, { timeout: 120000 }).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('main ul li a > span > p > span', 'main ul li a', { timeout: 20000 });
+      return page.waitForSelector('main ul li a > span > p > span', 'main ul li a', { timeout: 60000 });
     })
     .then(function() {
       return page.content();
