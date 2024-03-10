@@ -25,11 +25,13 @@ jobs:
       run: node headline--guardian.js
     - name: Headline The Telegraph
       run: node headline--telegraph.js
+    - name: Headline Folha de S.Paulo
+      run: node headline--folha.js
     #- name: Headline CNN
     #  run: node headline--cnn.js
     - name: Merge files
       run: |-
-        jq -s . headlines-world/headline--cnn.json headlines-world/headline--ft.json headlines-world/headline--guardian.json headlines-world/headline--nytimes.json headlines-world/headline--telegraph.json headlines-world/headline--wapo.json | jq -r tostring > headlines-world/headlinesworld.json
+        jq -s . headlines-world/headline--cnn.json headlines-world/headline--ft.json headlines-world/headline--folha.json headlines-world/headline--guardian.json headlines-world/headline--nytimes.json headlines-world/headline--telegraph.json headlines-world/headline--wapo.json | jq -r tostring > headlines-world/headlinesworld.json
     - name: Commit and push changes
       run: |-
         git diff
