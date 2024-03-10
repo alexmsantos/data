@@ -4,7 +4,9 @@ const cheerio = require('cheerio');
 const url = 'https://www.cnn.com';
 
 puppeteer
-  .launch()
+  .launch({
+    headless: false,
+  })
   .then(function(browser) {
     return browser.newPage();
   })
