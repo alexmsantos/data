@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-10T12:47:58+00:00</dc:date>
+        <dc:date>2024-03-10T13:17:45+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Ilha Terceira. Sismo de magnitude 1,6 na escala de Richter ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811545/ilha-terceira-sismo-de-magnitude-1-6-na-escala-de-richter?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Abalo foi registado às 00h19 (23h19, em Lisboa).
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-03-10T13:17:45+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Ilha Terceira, sismo,  | Abalo foi registado às 00h19 (23h19, em Lisboa).
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>811545</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/10/864369.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Mau tempo. Proteção Civil registou 32 ocorrências durante a noite ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811544/mau-tempo-protecao-civil-registou-32-ocorr-ncias-durante-a-noite?seccao=Mundo_i</link>
@@ -447,31 +472,6 @@ Polícia Judiciária, Máfia, Camorra, detido,  | Homem fica em prisão preventi
                 <guid>811526</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/9/864348.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Cinco pessoas morrem atingidas por caixotes de ajuda humanitária em Gaza ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811525/cinco-pessoas-morrem-atingidas-por-caixotes-de-ajuda-humanitaria-em-gaza?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Paraquedas não terá funcionado e carga caiu sobre telhado.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-08T22:50:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Ajuda Humanitária, campo de refugiados, Gaza, Hamas, Israel, paraquedas,  | Paraquedas não terá funcionado e carga caiu sobre telhado.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811525</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/8/864347.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
