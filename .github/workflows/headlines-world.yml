@@ -17,34 +17,49 @@ jobs:
       run: npx puppeteer browsers install chrome
     - name: Headline NYTimes
       run: node headline--nytimes.js
+      continue-on-error: true
     - name: Headline Wapo
       run: node headline--wapo.js
+      continue-on-error: true
     - name: Headline FT
       run: node headline--ft.js
+      continue-on-error: true
     - name: Headline The Guardian
       run: node headline--guardian.js
+      continue-on-error: true
     - name: Headline The Telegraph
       run: node headline--telegraph.js
+      continue-on-error: true
     - name: Headline Folha de S.Paulo
       run: node headline--folha.js
+      continue-on-error: true
     - name: Headline El País
       run: node headline--elpais.js
+      continue-on-error: true
     - name: Headline Le Monde
       run: node headline--lemonde.js
+      continue-on-error: true
     - name: Headline Corriere Della Sera
       run: node headline--corriere.js
+      continue-on-error: true
     - name: Headline Der Spiegel
       run: node headline--derspiegel.js
+      continue-on-error: true
     - name: Headline The Economist
       run: node headline--economist.js
+      continue-on-error: true
     - name: Headline Al Jazeera
       run: node headline--aljazeera.js
-    #- name: Headline BBC News
-    #  run: node headline--bbc.js
+      continue-on-error: true
+    - name: Headline BBC News
+      run: node headline--bbc.js
+      continue-on-error: true
     - name: Headline CNN
       run: node headline--cnn.js
+      continue-on-error: true
     - name: Headline Reuters
       run: node headline--reuters.js
+      continue-on-error: true
     - name: Merge files
       run: |-
         jq -s . headlines-world/headline--bbc.json headlines-world/headline--cnn.json headlines-world/headline--corriere.json headlines-world/headline--economist.json headlines-world/headline--ft.json headlines-world/headline--folha.json headlines-world/headline--guardian.json headlines-world/headline--aljazeera.json headlines-world/headline--lemonde.json headlines-world/headline--nytimes.json headlines-world/headline--elpais.json headlines-world/headline--reuters.json headlines-world/headline--derspiegel.json headlines-world/headline--telegraph.json headlines-world/headline--wapo.json | jq -r tostring > headlines-world/headlinesworld.json
