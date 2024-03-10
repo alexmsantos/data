@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const cheerio = require('cheerio');
-const url = 'https://www.lemonde.fr';
+const url = 'https://www.lemonde.fr/en/';
 
 puppeteer
   .launch()
