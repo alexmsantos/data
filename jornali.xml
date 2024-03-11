@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-10T20:47:32+00:00</dc:date>
+        <dc:date>2024-03-11T00:20:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Benfica vence Estoril por 3-1 ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811555/benfica-vence-estoril-por-3-1?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+Benfica mantém a segunda posição.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-03-11T00:20:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Benfica, Estoril, futebol, | Benfica mantém a segunda posição.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811555</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/11/864380.jpeg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Sporting mantém liderança no campeonato ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811554/sporting-mantem-lideranca-no-campeonato?seccao=Desporto_i</link>
@@ -459,27 +480,6 @@ Carlos Pereira Santos, óbito,  | 1962-2024. Jornalista puro e duro de carreira 
                 <guid>811535</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/9/864358.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Ant&#243;nio Pedro Santos</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Rebeldes conquistam cidade na região oriental da RDC ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811534/rebeldes-conquistam-cidade-na-regiao-oriental-da-rdc?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-O M23 controla cerca de metade da província de Kivu Norte, onde a violência se tem agravado nas últimas semanas com dezenas de mortos e milhares de deslocados.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-09T17:43:28+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-República Democrática do Congo, áfrica,  | O M23 controla cerca de metade da província de Kivu Norte, onde a violência se tem agravado nas últimas semanas com dezenas de mortos e milhares de deslocados.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811534</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/9/864357.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
