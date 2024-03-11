@@ -11,7 +11,7 @@ puppeteer
   .then(function(page) {
     return page.goto(url, { timeout: 90000 }).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('.body-hp .media-news__content .title-art-hp > a:first-of-type', '.body-hp .media-news__content .title-art-hp > a:first-of-type', { timeout: 20000 });
+      return page.waitForSelector('.body-hp .media-news__content .title-art-hp', '.body-hp .media-news__content .title-art-hp > a:first-of-type', { timeout: 20000 });
     })
     .then(function() {
       return page.content();
@@ -19,7 +19,7 @@ puppeteer
   })
   .then(function(html) {
     const $ = cheerio.load(html);
-    const articleTitle = $('.body-hp .media-news__content .title-art-hp > a:first-of-type');
+    const articleTitle = $('.body-hp .media-news__content .title-art-hp');
     const articleUrl = $('.body-hp .media-news__content .title-art-hp > a:first-of-type');
     let ms = new Date();
     const dateIso = ms.toISOString()
