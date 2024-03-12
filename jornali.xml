@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-12T11:21:29+00:00</dc:date>
+        <dc:date>2024-03-12T12:15:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Ferrovia. Trabalhador morre eletrocutado na Linha do Norte ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811604/ferrovia-trabalhador-morre-eletrocutado-na-linha-do-norte?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+A vítima mortal, de 32 anos, estava a realizar trabalhos na linha, em Pombal, quando foi eletrocutado, tendo morrido no local.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-12T12:15:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ | A vítima mortal, de 32 anos, estava a realizar trabalhos na linha, em Pombal, quando foi eletrocutado, tendo morrido no local.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811604</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/12/864427.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Câmara Pereira defende acordos com o Chega ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811603/c-mara-pereira-defende-acordos-com-o-chega?seccao=Portugal_i</link>
@@ -412,31 +433,6 @@ Com esta lei são beneficiados apenas os hindus, os sikhs, os budistas, os jaini
                 </content:encoded>
                 <guid>811586</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/11/864414.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Praticante de parapente desaparecida no mar em São Martinho do Porto ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811584/praticante-de-parapente-desaparecida-no-mar-em-sao-martinho-do-porto?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-AMN está a realizar buscas pela mulher que "terá largado o equipamento" e desaparecido.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-11T17:15:05+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Autoridade Marítima Nacional, desaparecida, parapente, São Martinho do Porto,  | AMN está a realizar buscas pela mulher que "terá largado o equipamento" e desaparecido.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811584</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/11/864412.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
