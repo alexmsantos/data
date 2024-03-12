@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-12T09:50:54+00:00</dc:date>
+        <dc:date>2024-03-12T10:10:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Semana de grandes decisões nas competições europeias ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811602/semana-de-grandes-decisoes-nas-competicoes-europeias?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+FC Porto, Benfica e Sporting com jogos de alto risco fora de casa.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-03-12T10:10:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+futebol,  | FC Porto, Benfica e Sporting com jogos de alto risco fora de casa.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>811602</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/12/864425.jpeg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Óscares. A rendição incondicional a Nolan ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811601/oscares-a-rendicao-incondicional-a-nolan?seccao=Mais_i</link>
@@ -409,27 +434,6 @@ GNR, estradas, fiscalização,  | A autoridade encontra-se a realizar uma opera�
                 <guid>811582</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/11/864411.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ EUA. Força aérea lança ajuda humanitária em Gaza ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811583/eua-forca-aerea-lanca-ajuda-humanitaria-em-gaza?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-A operação envolveu vários aviões C-130 e soldados especializados “na entrega aérea de suprimentos de assistência humanitária”
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-11T17:11:07+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-EUA, Israel, Gaza, ajuda humanitária,  | A operação envolveu vários aviões C-130 e soldados especializados “na entrega aérea de suprimentos de assistência humanitária”
-					
-                   ]]>
-                </content:encoded>
-                <guid>811583</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/11/864410.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
