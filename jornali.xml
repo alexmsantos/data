@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-12T08:39:51+00:00</dc:date>
+        <dc:date>2024-03-12T08:57:02+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Pouco espaço para a Cultura ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811598/pouco-espaco-para-a-cultura?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+A cultura continua a ser claramente o parente pobre da política, relegado sempre para segundo plano, menos durante as campanhas em que se convém ter os artistas queridos pelo grande público por perto, na ânsia de angariar mais uns votos.
+				]]>
+                
+                </description>
+                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
+                <dc:date>2024-03-12T08:57:02+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | A cultura continua a ser claramente o parente pobre da política, relegado sempre para segundo plano, menos durante as campanhas em que se convém ter os artistas queridos pelo grande público por perto, na ânsia de angariar mais uns votos.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811598</guid>
+           </item>
             <item>
                <title><![CDATA[ Por mares nunca dantes navegados ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811597/por-mares-nunca-dantes-navegados?seccao=Opiniao_i</link>
@@ -412,27 +431,6 @@ entrevista, inteligência artificial, Karim Lakhani, Tecnologia,  | Um dos grand
                 </content:encoded>
                 <guid>811579</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/11/864407.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Bruno Gon&#231;alves</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Próxima legislatura terá menos mulheres no parlamento ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811578/proxima-legislatura-tera-menos-mulheres-no-parlamento?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Foram eleitas 76 mulheres nestas eleições, face às 85 eleitas em 2022.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-11T15:12:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Parlamento, Assembleia da República, mulheres,  | Foram eleitas 76 mulheres nestas eleições, face às 85 eleitas em 2022.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811578</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/11/864406.png?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Bruno Gon&#231;alves</media:credit>                                                              </media:content>
            </item>
     </channel>
