@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-12T15:53:45+00:00</dc:date>
+        <dc:date>2024-03-12T15:59:32+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ TAP. Sindicato avança com pré-aviso de greve ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811614/tap-sindicato-avanca-com-pre-aviso-de-greve?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+De acordo com a estrutura sindical, os trabalhadores reclamam o pagamento dos aumentos previstos no novo acordo de empresa, que prevê aumentos salariais entre 6% a 10%, com retroativos a julho do ano passado.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-12T15:59:32+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ | De acordo com a estrutura sindical, os trabalhadores reclamam o pagamento dos aumentos previstos no novo acordo de empresa, que prevê aumentos salariais entre 6% a 10%, com retroativos a julho do ano passado.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811614</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/12/864436.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Albuquerque desvaloriza queixa da CNE: "Não fiz apelo ao voto" ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811611/albuquerque-desvaloriza-queixa-da-cne-nao-fiz-apelo-ao-voto?seccao=Portugal_i</link>
@@ -431,25 +452,6 @@ Opinião,  | Por tacticismo e conveniência de circunstância política, por int
                    ]]>
                 </content:encoded>
                 <guid>811594</guid>
-           </item>
-            <item>
-               <title><![CDATA[ De eleições em eleições até à derrota final ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811593/de-eleicoes-em-eleicoes-ate-a-derrota-final?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Não é preciso ser o Merlin para acreditar que em breve seremos, de novo, chamados a votar. O que não augura nada de bom para o país, mas é a vida, como diz o outro.
-				]]>
-                
-                </description>
-                <dc:creator>V&#237;tor Rainho</dc:creator>
-                <dc:date>2024-03-12T08:17:55+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Não é preciso ser o Merlin para acreditar que em breve seremos, de novo, chamados a votar. O que não augura nada de bom para o país, mas é a vida, como diz o outro.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811593</guid>
            </item>
     </channel>
 
