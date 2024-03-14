@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-14T12:42:56+00:00</dc:date>
+        <dc:date>2024-03-14T12:45:41+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ PSP detém motorista da TVDE suspeito de auxílio à imigração ilegal ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811659/psp-detem-motorista-da-tvde-suspeito-de-auxilio-a-imigracao-ilegal?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Mandado de detenção europeu chegou às autoridades portuguesas em janeiro.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-14T12:45:41+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Lisboa, imigração ilegal, PSP, TVDE,  | Mandado de detenção europeu chegou às autoridades portuguesas em janeiro.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811659</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/14/864480.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Chiça, PNEC! ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811658/chica-pnec-?seccao=Opiniao_i</link>
@@ -415,27 +436,6 @@ UE, Portugal  | Processo passará para uma segunda fase caso, no prazo de dois m
                 <guid>811639</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/13/864462.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Treinador do Lazio renuncia ao cargo ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811638/treinador-do-lazio-renuncia-ao-cargo?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-Maurizio Sarri tomou a decisão depois de quatro derrotas consecutivas na Liga italiana de Futebol.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-13T13:06:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Lazio, Futebol, Itália,  | Maurizio Sarri tomou a decisão depois de quatro derrotas consecutivas na Liga italiana de Futebol.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811638</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/13/864461.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
