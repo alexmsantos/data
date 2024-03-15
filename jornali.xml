@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-15T11:27:07+00:00</dc:date>
+        <dc:date>2024-03-15T11:59:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Ponte 25 de abril interdita ao trânsito na manhã de domingo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811682/ponte-25-de-abril-interdita-ao-tr-nsito-na-manha-de-domingo?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+A ponte estará cortada ao transito para a realização da meia-maratona de Lisboa.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-15T11:59:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Ponte 25 de Abril, Meia Maratona de LIsboa, Lisboa, Trânsito,  | A ponte estará cortada ao transito para a realização da meia-maratona de Lisboa.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811682</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/15/864502.png?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Jo&#227;o Porf&#237;rio</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ O 'Zé' de Portugal e o Desporto ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811681/o-ze-de-portugal-e-o-desporto?seccao=Opiniao_i</link>
@@ -432,27 +453,6 @@ Motociclismo, motas, miguel oliveira,  | O Mundial está de volta com 11 equipas
                 </content:encoded>
                 <guid>811663</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/14/864484.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Congresso dos deputados espanhol aprova lei da amnistia ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811662/congresso-dos-deputados-espanhol-aprova-lei-da-amnistia?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Na passada quarta-feira, o presidente do parlamento da Catalunha, Pere Aragonès, anunciou a convocação de eleições antecipadas na região espanhola para 12 de maio.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-14T14:52:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | Na passada quarta-feira, o presidente do parlamento da Catalunha, Pere Aragonès, anunciou a convocação de eleições antecipadas na região espanhola para 12 de maio.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811662</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/14/864483.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
