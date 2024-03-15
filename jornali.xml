@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-15T15:40:00+00:00</dc:date>
+        <dc:date>2024-03-15T16:40:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ 1800 militares da GNR irão ser promovidos ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811694/1800-militares-da-gnr-irao-ser-promovidos?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+ Os postos, abrangidos por mais promoções, são os de guarda principal, primeiro-sargento e capitão.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-15T16:40:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+GNR,  |  Os postos, abrangidos por mais promoções, são os de guarda principal, primeiro-sargento e capitão.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811694</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/15/864514.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Combustíveis. Próxima semana traz mexidas nos preços ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811692/combustiveis-proxima-semana-traz-mexidas-nos-precos?seccao=Dinheiro_i</link>
@@ -444,27 +465,6 @@ DECO, Consumidor, Banca, Serviços Públicos | No Dia Mundial dos Direitos do C
                 </content:encoded>
                 <guid>811673</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/14/864494.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Liga Europa. Derrota em Bérgamo elimina Sporting  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811675/liga-europa-derrota-em-bergamo-elimina-sporting-?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-O golo leonino tinha sido marcado, aos 33 minutos, por Pedro Gonçalves, que no mesmo lance contraiu uma lesão muscular e, visivelmente frustrado, acabou por sair em lágrimas, confortado pelos colegas
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-14T22:15:25+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Liga Europa, Futebol, Sporting,  | O golo leonino tinha sido marcado, aos 33 minutos, por Pedro Gonçalves, que no mesmo lance contraiu uma lesão muscular e, visivelmente frustrado, acabou por sair em lágrimas, confortado pelos colegas
-					
-                   ]]>
-                </content:encoded>
-                <guid>811675</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/14/864496.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
