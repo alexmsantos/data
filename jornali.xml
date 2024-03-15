@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-15T15:05:00+00:00</dc:date>
+        <dc:date>2024-03-15T15:40:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Combustíveis. Próxima semana traz mexidas nos preços ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811692/combustiveis-proxima-semana-traz-mexidas-nos-precos?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+Um sobe outro deve manter-se.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-15T15:40:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Combustíveis, Gasolina, gasóleo,  | Um sobe outro deve manter-se.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>811692</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/15/864512.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Morreu João Madeira ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811690/morreu-joao-madeira?seccao=Portugal_i</link>
@@ -436,27 +461,6 @@ Portugal, apoios, Ucrânia, Guerra, Rússia,  | Portugal junta-se assim a outros
                 </content:encoded>
                 <guid>811674</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/14/864495.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Benfica nos quartos-de-final da Liga Europa ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811672/benfica-nos-quartos-de-final-da-liga-europa?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-Rafa marcou o golo que decidiu a eliminatória, depois do empate (2-2) na primeira mão dos oitavos da prova
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-14T20:19:53+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Futebol, Benfica, Glasgow Rangers, Liga Europa,  | Rafa marcou o golo que decidiu a eliminatória, depois do empate (2-2) na primeira mão dos oitavos da prova
-					
-                   ]]>
-                </content:encoded>
-                <guid>811672</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/14/864493.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
