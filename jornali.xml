@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-16T12:00:00+00:00</dc:date>
+        <dc:date>2024-03-16T12:24:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ 200 farmácias estão a recolher medicamentos para ajudar IPSS ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811711/200-farmacias-estao-a-recolher-medicamentos-para-ajudar-ipss?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+A Jornada de Recolha de Medicamento está a decorrer, este sábado, entre as 09h00 e as 19h00.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-16T12:24:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Farmácias, Medicamentos, Recolha,  | A Jornada de Recolha de Medicamento está a decorrer, este sábado, entre as 09h00 e as 19h00.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811711</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/16/864531.png?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Seleção Nacional de Andebol tem de derrotar a Tunísia ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811710/selecao-nacional-de-andebol-tem-de-derrotar-a-tunisia?seccao=Desporto_i</link>
@@ -446,31 +467,6 @@ João Madeira, Vela, Clube Náutico de Almada, | Foi um dos fundadores do Clube 
                 </content:encoded>
                 <guid>811690</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/15/864510.jpeg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Evocação do 25 de Abril vale processo na CNE ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811691/evocacao-do-25-de-abril-vale-processo-na-cne?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-CNE pediu explicações Carlos Carreiras por ter organizado um almoço no dia 5 de março. Vasco Lourenço atira: ‘Há idiotas neste país que se revelam assim’.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Daniela Soares Ferreira</dc:creator>
-                <dc:date>2024-03-15T14:57:14+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-CNE, 25 de abril,  | CNE pediu explicações Carlos Carreiras por ter organizado um almoço no dia 5 de março. Vasco Lourenço atira: ‘Há idiotas neste país que se revelam assim’.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811691</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/15/864511.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
