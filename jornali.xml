@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-18T17:50:07+00:00</dc:date>
+        <dc:date>2024-03-18T18:35:03+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Homem atingido com tiro de caçadeira em Cascais ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811756/homem-atingido-com-tiro-de-cacadeira-em-cascais?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Atirador fugiu do local, mas foi identificado.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-18T18:35:03+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Arma, caçadeira, Cascais,  | Atirador fugiu do local, mas foi identificado.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811756</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/18/864574.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Cristiano Ronaldo de fora para o jogo contra a Suécia ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811755/cristiano-ronaldo-de-fora-para-o-jogo-contra-a-suecia?seccao=Desporto_i</link>
@@ -434,27 +455,6 @@ Educação, escolas, Lisboa,  | Foi durante o Estado Novo, uma referência no en
                 </content:encoded>
                 <guid>811734</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/18/864555.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ I Liga. Goleada mantém Sporting na liderança  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811733/i-liga-goleada-mantem-sporting-na-lideranca-?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-O sueco Viktor Gyökeres conseguiu um ‘hat-trick’
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-17T23:39:29+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Liga Portuguesa de Futebol Profissional, Sporting, Benfica,  | O sueco Viktor Gyökeres conseguiu um ‘hat-trick’
-					
-                   ]]>
-                </content:encoded>
-                <guid>811733</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/17/864554.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
