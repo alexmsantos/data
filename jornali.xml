@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-19T19:00:00+00:00</dc:date>
+        <dc:date>2024-03-19T20:12:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Paula Santos permanece como líder parlamentar do PCP ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811805/paula-santos-permanece-como-lider-parlamentar-do-pcp?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+A deputada foi cabeça de lista por Setúbal e a única eleita do partido por esse círculo.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-19T20:12:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+PCP, Paula Santos, Parlamento,  | A deputada foi cabeça de lista por Setúbal e a única eleita do partido por esse círculo.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811805</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/19/864632.png?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Bruno Gon&#231;alves</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Futebol. João Pedro Sousa abandona liderança do Famalicão ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811803/futebol-joao-pedro-sousa-abandona-lideranca-do-famalicao?seccao=Desporto_i</link>
@@ -443,31 +464,6 @@ Ucrânia, Guerra, Rússia, EUA,  | Os responsáveis pela defesa alertam para o f
                 <guid>811785</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/19/864597.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Isabel Mendes Lopes será a líder parlamentar do Livre ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811784/isabel-mendes-lopes-sera-a-lider-parlamentar-do-livre?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Deputada eleita era a número dois da lista do partido por Lisboa.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-19T12:24:34+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Eleições, Isabel Mendes Lopes, Legislativas 2024, Livre, Rui Tavares,  | Deputada eleita era a número dois da lista do partido por Lisboa.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811784</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/19/864596.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Livre</media:credit>                                                              </media:content>
            </item>
     </channel>
 
