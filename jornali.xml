@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-19T09:45:35+00:00</dc:date>
+        <dc:date>2024-03-19T09:47:36+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ E agora? ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811774/e-agora-?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Não acredito em nenhum partido político que apresente um programa de governo de cem ou duzentas páginas e não apresente uma síntese estratégica de uma página.
+				]]>
+                
+                </description>
+                <dc:creator>Henrique Neto</dc:creator>
+                <dc:date>2024-03-19T09:47:36+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Não acredito em nenhum partido político que apresente um programa de governo de cem ou duzentas páginas e não apresente uma síntese estratégica de uma página.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811774</guid>
+           </item>
             <item>
                <title><![CDATA[ O PS não pode transformar-se num atrelado ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811773/o-ps-nao-pode-transformar-se-num-atrelado?seccao=Opiniao_i</link>
@@ -431,27 +450,6 @@ Cristiano Ronaldo, Futebol, Roberto Martínez, Seleção,  | Roberto Martínez f
                 <guid>811755</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/18/864573.png?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Desflorestação da Amazónia cai 63% no 1.º bimestre ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811754/desflorestacao-da-amazonia-cai-63-no-1-bimestre?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Primeiro bimestre de 2024 fechou com a menor taxa de abate da floresta amazónica dos últimos seis anos, desde 2018, conforme o Sistema de Alerta de Desmatamento (SAD) do Imazon. 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-18T17:38:32+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Amazonia,  | Primeiro bimestre de 2024 fechou com a menor taxa de abate da floresta amazónica dos últimos seis anos, desde 2018, conforme o Sistema de Alerta de Desmatamento (SAD) do Imazon. 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811754</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/18/864572.png?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
