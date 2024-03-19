@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-19T21:11:00+00:00</dc:date>
+        <dc:date>2024-03-19T22:16:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Futebol. Abel Ferreira vence prémio Vítor Oliveira ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811808/futebol-abel-ferreira-vence-premio-vitor-oliveira?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+"Vinha com a ideia de partilhar o prémio com todos os treinadores, mas, se me permitem, vou dedicá-lo ao Vítor Oliveira, porque representa aquela última frase que ali disse: é o homem que se é, que se triunfa no profissional que se quer ser", disse o técnico português.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-19T22:16:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Futebol, treinador, Abel Ferreira, Palmeiras,  | "Vinha com a ideia de partilhar o prémio com todos os treinadores, mas, se me permitem, vou dedicá-lo ao Vítor Oliveira, porque representa aquela última frase que ali disse: é o homem que se é, que se triunfa no profissional que se quer ser", disse o técnico português.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811808</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/19/864635.png?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Palmeiras</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ DeathClean. "Ninguém nasceu para fazer este trabalho" ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811807/deathclean-ninguem-nasceu-para-fazer-este-trabalho?seccao=Portugal_i</link>
@@ -443,31 +464,6 @@ csi, Investigação Forense, Paulo Pinto, Rui Mergulhão,  | Juntamente com dois
                 <guid>811788</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/19/864600.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Bruno Gon&#231;alves</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ EUA. Donald Trump acusa os média de descontextualizarem a sua expressão “banho de sangue” ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811787/eua-donald-trump-acusa-os-media-de-descontextualizarem-a-sua-expressao-banho-de-sangue-?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-“Os falsos meios de comunicação social fizeram um grande alarido com as palavras ‘banho de sangue’, sabendo que se tratava da diminuição da indústria automóvel”, disse o ex-presidente dos EUA.  
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-19T13:33:58+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-EUA, Donald Trump,  | “Os falsos meios de comunicação social fizeram um grande alarido com as palavras ‘banho de sangue’, sabendo que se tratava da diminuição da indústria automóvel”, disse o ex-presidente dos EUA.  
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811787</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/19/864599.png?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
