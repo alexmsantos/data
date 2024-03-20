@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-20T19:19:00+00:00</dc:date>
+        <dc:date>2024-03-20T19:21:58+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Desemprego recua em fevereiro ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811833/desemprego-recua-em-fevereiro?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+No fim de fevereiro estavam registados nos serviços de emprego do continente e regiões autónomas 331.008 indivíduos desempregados. 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-20T19:21:58+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ | No fim de fevereiro estavam registados nos serviços de emprego do continente e regiões autónomas 331.008 indivíduos desempregados. 
+					
+                   ]]>
+                </content:encoded>
+                <guid>811833</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/20/864692.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ André Ventura diz que saída de Augusto Santos Silva do Parlamento é um "resultado histórico" ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811831/andre-ventura-diz-que-saida-de-augusto-santos-silva-do-parlamento-e-um-resultado-historico?seccao=Portugal_i</link>
@@ -511,27 +532,6 @@ Concerto, depeche-mode,  | Num concerto com mais de duas horas, e com um Meo Are
   <media:credit scheme="urn:ebu">Photograph: Victor Barros</media:credit>                                                              </media:content>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/20/864648.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Victor Barros</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ EUA. Ex-polícia condenado a 20 anos de prisão por tortura  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811811/eua-ex-policia-condenado-a-20-anos-de-prisao-por-tortura-?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Os polícias algemaram e proferiram insultos racistas contra os dois homens que estavam na residência
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-20T10:38:46+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-EUA, Mississippi, Polícia, Tortura  | Os polícias algemaram e proferiram insultos racistas contra os dois homens que estavam na residência
-					
-                   ]]>
-                </content:encoded>
-                <guid>811811</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/20/864639.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
