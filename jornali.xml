@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-22T09:52:00+00:00</dc:date>
+        <dc:date>2024-03-22T10:50:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Júdice à mesa do Instituto Amaro da Costa ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811876/j-dice-a-mesa-do-instituto-amaro-da-costa?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Este é mais um dos vários eventos e conversas que o IDL tem promovido desde que o antigo líder do CDS-PP Manuel Monteiro assumiu a presidência da instituição.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-22T10:50:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+José Miguel Júdice,  | Este é mais um dos vários eventos e conversas que o IDL tem promovido desde que o antigo líder do CDS-PP Manuel Monteiro assumiu a presidência da instituição.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811876</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/22/864733.png?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Jo&#227;o Gir&#227;o</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ DGS pede cautela para poeiras vindas do norte de África ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811875/dgs-pede-cautela-para-poeiras-vindas-do-norte-de-africa?seccao=Portugal_i</link>
@@ -421,27 +442,6 @@ Billie Eilish, música, pop, óscares,  | Com 22 anos, e depois de se tornar a p
                 <guid>811857</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/21/864714.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Presidente do STJ pede novo Abril na Justiça ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811855/presidente-do-stj-pede-novo-abril-na-justica?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Henrique Araújo discursava no acontecimento inédito que reúne a quadratura dos tribunais superiores, Supremo, Constitucional, Administrativo e de Contas.
-				]]>
-                
-                </description>
-                <dc:creator>Fel&#237;cia Cabrita</dc:creator>
-                <dc:date>2024-03-21T16:16:15+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Justiça, Supremo Tribunal de Justiça, Henrique Araújo, Tribunal Constitucional, José João Abrantes,  | Henrique Araújo discursava no acontecimento inédito que reúne a quadratura dos tribunais superiores, Supremo, Constitucional, Administrativo e de Contas.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811855</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/21/864715.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Bruno Gon&#231;alves</media:credit>                                                              </media:content>
            </item>
     </channel>
 
