@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-22T15:53:18+00:00</dc:date>
+        <dc:date>2024-03-22T16:00:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Portugueses são os mais europeístas ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811886/portugueses-sao-os-mais-europeistas?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Estudo da Ipsos para Euronews mostra que os portugueses são os que mais aprovam a adesão à UE. E para as europeias de junho mantém-se a tendência destas legislativas.
+				]]>
+                
+                </description>
+                <dc:creator>Daniela Soares Ferreira</dc:creator>
+                <dc:date>2024-03-22T16:00:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+euronews, Europa, Ipsos, Sondagem,  | Estudo da Ipsos para Euronews mostra que os portugueses são os que mais aprovam a adesão à UE. E para as europeias de junho mantém-se a tendência destas legislativas.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811886</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/22/864743.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ União Europeia reforça o apoio à Ucrânia ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811885/uniao-europeia-reforca-o-apoio-a-ucr-nia?seccao=Mundo_i</link>
@@ -419,27 +440,6 @@ o seu primeiro Grande Prémio em Portugal, em 1985, com uma demonstração de 
                 <guid>811867</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/21/864725.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Puigdemont vai ser candidato às eleições da Catalunha ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811866/puigdemont-vai-ser-candidato-as-eleicoes-da-catalunha?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O político disse querer "terminar o trabalho" de tornar a Catalunha independente.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-21T21:25:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Espanha, Catalunha,  | O político disse querer "terminar o trabalho" de tornar a Catalunha independente.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811866</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/21/864724.png?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
