@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-23T18:20:26+00:00</dc:date>
+        <dc:date>2024-03-23T19:34:43+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ António Pacheco. Um buraco do lado esquerdo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811912/antonio-pacheco-um-buraco-do-lado-esquerdo?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+1966-2024 . Fugiu do Benfica para o Sporting mas foi perdoado
+				]]>
+                
+                </description>
+                <dc:creator>Afonso de Melo</dc:creator>
+                <dc:date>2024-03-23T19:34:43+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+António Pacheco, óbito,  | 1966-2024 . Fugiu do Benfica para o Sporting mas foi perdoado
+					
+                   ]]>
+                </content:encoded>
+                <guid>811912</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/23/864767.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Pedro Gonçalves. "A tecnologia sempre foi utilizada para o bem e para o mal" ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811911/pedro-goncalves-a-tecnologia-sempre-foi-utilizada-para-o-bem-e-para-o-mal?seccao=Portugal_i</link>
@@ -439,27 +460,6 @@ Algarve, Água, Barragem,  | APA defende que é preciso ação para haver uma ge
                 <guid>811892</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/22/864749.JPG?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Kate Middleton anunciou que foi diagnosticada com cancro ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811891/kate-middleton-anunciou-que-foi-diagnosticada-com-cancro?seccao=vida_i</link>
-                <description>
-                <![CDATA[
-Vídeo da princesa de Gales foi partilhados nas redes sociais.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-22T18:29:37+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Kate Middleton, Reino Unido, vídeo, multimedia, cancro,  | Vídeo da princesa de Gales foi partilhados nas redes sociais.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811891</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/22/864748.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
