@@ -15,6 +15,7 @@ jobs:
         fetch-depth: 0
     - name: RSS to JSON INE Destaques
       run: node rss-to-json--ine-destaques.js
+    - name: Commit and push changes
       run: |-
         git diff
         git config user.name "Automated"
