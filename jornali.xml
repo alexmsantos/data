@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-26T08:19:00+00:00</dc:date>
+        <dc:date>2024-03-26T08:29:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Ponte colapsa nos EUA depois de colisão com navio ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811957/ponte-colapsa-nos-eua-depois-de-colisao-com-navio?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Não se sabe ainda o número de vítimas.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-26T08:29:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Ponte, Baltimore, EUA,  | Não se sabe ainda o número de vítimas.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811957</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864810.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Estoril Open. Em jeito de despedida ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811956/estoril-open-em-jeito-de-despedida?seccao=Desporto_i</link>
@@ -430,27 +451,6 @@ Dani Alves, Violação, Espanha,  | O antigo futebolista brasileiro pagou a cau�
                 </content:encoded>
                 <guid>811937</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/25/864790.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ França executa megaoperação de combate ao tráfico de droga ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811936/franca-executa-megaoperacao-de-combate-ao-trafico-de-droga?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-As autoridades já detiveram, três dias depois do lançamento da operação, 71 pessoas e apreenderam 22 quilos de droga, mais de 385 mil euros em dinheiro ou bens e quatro armas.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-25T11:27:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Megaoperação, França, Polícia, Droga,  | As autoridades já detiveram, três dias depois do lançamento da operação, 71 pessoas e apreenderam 22 quilos de droga, mais de 385 mil euros em dinheiro ou bens e quatro armas.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811936</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/25/864789.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
