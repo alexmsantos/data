@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-26T09:38:21+00:00</dc:date>
+        <dc:date>2024-03-26T09:41:23+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ A fábula dos cofres cheios ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811963/a-fabula-dos-cofres-cheios?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Depois da lengalenga da culpa do Passos, vem a caminho a fábula dos cofres cheios, na qual Montenegro não pode cair.
+				]]>
+                
+                </description>
+                <dc:creator>Eduardo Oliveira e Silva</dc:creator>
+                <dc:date>2024-03-26T09:41:23+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Depois da lengalenga da culpa do Passos, vem a caminho a fábula dos cofres cheios, na qual Montenegro não pode cair.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811963</guid>
+           </item>
             <item>
                <title><![CDATA[ Águas Minerais Naturais e de Nascente ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811962/aguas-minerais-naturais-e-de-nascente?seccao=Opiniao_i</link>
@@ -422,27 +441,6 @@ Opinião,  | Não escrevo estas linhas para me fazer a um lugar ou cair nas boas
                 </content:encoded>
                 <guid>811943</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/25/864796.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Costa para Marcelo: "Quero agradecer estes oito anos de cooperação e solidariedade institucional" ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811942/costa-para-marcelo-quero-agradecer-estes-oito-anos-de-cooperacao-e-solidariedade-institucional?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O primeiro-ministro demissionário, que falava aos jornalistas no final da reunião do Conselho de Ministros, ao lado do chefe de Estado, disse que “dificilmente será possível encontrar outro período em que a relação entre o Governo e a Presidência tenha seguido de forma tão fluida, cooperativa e solidária”.  
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-25T16:20:24+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-António Costa, Marcelo Rebelo de Sousa,  | O primeiro-ministro demissionário, que falava aos jornalistas no final da reunião do Conselho de Ministros, ao lado do chefe de Estado, disse que “dificilmente será possível encontrar outro período em que a relação entre o Governo e a Presidência tenha seguido de forma tão fluida, cooperativa e solidária”.  
-					
-                   ]]>
-                </content:encoded>
-                <guid>811942</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/25/864795.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
