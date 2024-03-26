@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-26T09:36:26+00:00</dc:date>
+        <dc:date>2024-03-26T09:38:21+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Águas Minerais Naturais e de Nascente ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811962/aguas-minerais-naturais-e-de-nascente?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Portugal tem sido um exemplo positivo em termos de gestão sustentável dos recursos hídricos, implementando políticas e regulamentações que visam proteger e preservar suas fontes naturais de água mineral. No entanto, há sempre espaço para melhorias, especialmente em um cenário de mudanças climáticas e pressões crescentes sobre os recursos naturais.
+				]]>
+                
+                </description>
+                <dc:creator>Ricardo Santos e S&#237;lvia Monteiro</dc:creator>
+                <dc:date>2024-03-26T09:38:21+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Portugal tem sido um exemplo positivo em termos de gestão sustentável dos recursos hídricos, implementando políticas e regulamentações que visam proteger e preservar suas fontes naturais de água mineral. No entanto, há sempre espaço para melhorias, especialmente em um cenário de mudanças climáticas e pressões crescentes sobre os recursos naturais.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811962</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864813.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Traídos pelo quotidiano ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811961/traidos-pelo-quotidiano?seccao=Opiniao_i</link>
@@ -423,27 +444,6 @@ António Costa, Marcelo Rebelo de Sousa,  | O primeiro-ministro demissionário, 
                 <guid>811942</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/25/864795.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Educação. Professores de informática mantêm greve mesmo com novos computadores ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811941/educacao-professores-de-informatica-mant-m-greve-mesmo-com-novos-computadores?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O Governo aprovou uma verba de 6,5 milhões de euros para comprar novos computadores.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-25T15:57:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | O Governo aprovou uma verba de 6,5 milhões de euros para comprar novos computadores.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811941</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/25/864794.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
