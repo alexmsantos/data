@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-26T09:48:32+00:00</dc:date>
+        <dc:date>2024-03-26T10:42:01+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Jorge Martín deu um amasso nos campeões do mundo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/811968/jorge-martin-deu-um-amasso-nos-campeoes-do-mundo?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+Miguel Oliveira atingiu 350,6 km/h em reta, mas faltou estabilidade em curva.
+				]]>
+                
+                </description>
+                <dc:creator>Jo&#227;o Sena</dc:creator>
+                <dc:date>2024-03-26T10:42:01+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Miguel Oliveira, MotoGP, Jorge Martín,  | Miguel Oliveira atingiu 350,6 km/h em reta, mas faltou estabilidade em curva.
+					
+                   ]]>
+                </content:encoded>
+                <guid>811968</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864815.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ A imigração e o voto populista no Algarve ]]></title>
                 <link>https://ionline.sapo.pt/artigo/811967/a-imigracao-e-o-voto-populista-no-algarve?seccao=Opiniao_i</link>
@@ -415,27 +436,6 @@ EUA, Donald Trump, Justiça,  | A apreensão de ativos é uma opção legal comu
                 <guid>811947</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/25/864800.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Estudo mostra que avisos antipirataria podem ter efeito contrário ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811946/estudo-mostra-que-avisos-antipirataria-podem-ter-efeito-contrario?seccao=Tecnologia_i</link>
-                <description>
-                <![CDATA[
-Para efeitos do estudo, que incluiu 962 participantes adultos, foram utilizados três tipos diferentes de mensagens: duas campanhas ameaçadoras que delineavam as repercussões legais e de segurança da pirataria digital e uma que tinha um tom mais educativo e pró-social.
-				]]>
-                
-                </description>
-                <dc:creator>Maria Moreira Rato</dc:creator>
-                <dc:date>2024-03-25T17:58:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-pirataria, antipirataria, downloads, media, música, literatura, televisão | Para efeitos do estudo, que incluiu 962 participantes adultos, foram utilizados três tipos diferentes de mensagens: duas campanhas ameaçadoras que delineavam as repercussões legais e de segurança da pirataria digital e uma que tinha um tom mais educativo e pró-social.
-					
-                   ]]>
-                </content:encoded>
-                <guid>811946</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/25/864799.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
