@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-27T12:29:55+00:00</dc:date>
+        <dc:date>2024-03-27T12:47:55+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Homem morre atropelado por camião do lixo em Famalicão ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812007/homem-morre-atropelado-por-camiao-do-lixo-em-famalicao?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Vítima seria funcionário de uma empresa de recolha de resíduos.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-27T12:47:55+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Famalicão, atropelamento, camião do lixo,  | Vítima seria funcionário de uma empresa de recolha de resíduos.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812007</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/27/864856.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Ourique. Homem morre em incêndio numa habitação ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812006/ourique-homem-morre-em-inc-ndio-numa-habitacao?seccao=Portugal_i</link>
@@ -426,31 +447,6 @@ Automóvel, China, BYD | No ano passado  a BYD tornou-se o primeiro fabricante 
                 </content:encoded>
                 <guid>811988</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864835.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ 2023 foi o segundo ano mais quente de sempre em Portugal ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811987/2023-foi-o-segundo-ano-mais-quente-de-sempre-em-portugal?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Ano de 2022 superou os valores médios da temperatura máxima do ar.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-26T16:16:24+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Calor, IPMA, Temperatura,  | Ano de 2022 superou os valores médios da temperatura máxima do ar.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811987</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864834.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
