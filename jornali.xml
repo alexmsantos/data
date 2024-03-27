@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-27T12:16:11+00:00</dc:date>
+        <dc:date>2024-03-27T12:29:55+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Ourique. Homem morre em incêndio numa habitação ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812006/ourique-homem-morre-em-inc-ndio-numa-habitacao?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Habitação ficou destruída pelas chamas.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-27T12:29:55+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Ourique, incêndio, bombeiros,  | Habitação ficou destruída pelas chamas.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812006</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/27/864855.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Prazo para entrega de candidaturas para presidência da AR prolongado até às 14h ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812005/prazo-para-entrega-de-candidaturas-para-presid-ncia-da-ar-prolongado-ate-as-14h?seccao=Portugal_i</link>
@@ -430,31 +451,6 @@ Calor, IPMA, Temperatura,  | Ano de 2022 superou os valores médios da temperatu
                 </content:encoded>
                 <guid>811987</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864834.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Madeira. Mau tempo condiciona voos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811986/madeira-mau-tempo-condiciona-voos?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Foram cancelados dois voos da TAP.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-26T16:15:10+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Madeira, Vento, aeroporto,  | Foram cancelados dois voos da TAP.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811986</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864833.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
