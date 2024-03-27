@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-27T15:22:13+00:00</dc:date>
+        <dc:date>2024-03-27T15:44:48+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Vídeo. Chuva forte provoca inundações em Lisboa ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812014/video-chuva-forte-provoca-inundacoes-em-lisboa?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Bombeiros Sapadores de Lisboa tinham registado, até as 14h57, 72 ocorrências na cidade relacionadas com o mau tempo. 
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-03-27T15:44:48+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Chuva, inundacoes, vento, lisboa,  | Bombeiros Sapadores de Lisboa tinham registado, até as 14h57, 72 ocorrências na cidade relacionadas com o mau tempo. 
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812014</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/27/864863.jpeg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Primeiro-ministro diz sair com sentido de missão cumprida ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812013/primeiro-ministro-diz-sair-com-sentido-de-missao-cumprida?seccao=Portugal_i</link>
@@ -418,31 +443,6 @@ Subprime,  | As contas dos bancos nacionais estão mais saudáveis e até foram 
                 </content:encoded>
                 <guid>811995</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864844.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ A banca no interior. "Não basta ser digital para ser acessível a todos" ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811994/a-banca-no-interior-nao-basta-ser-digital-para-ser-acessivel-a-todos?seccao=Dinheiro_i</link>
-                <description>
-                <![CDATA[
-A tendência da redução de balcões afeta principalmente as populações do interior do país e os alertas chegam de todos os lados. E ainda que a redução de caixas automáticas não seja tão visível, a redução de horários e serviços de alguns balcões também não ajuda.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Daniela Soares Ferreira</dc:creator>
-                <dc:date>2024-03-26T21:16:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Banco de Portugal,  | A tendência da redução de balcões afeta principalmente as populações do interior do país e os alertas chegam de todos os lados. E ainda que a redução de caixas automáticas não seja tão visível, a redução de horários e serviços de alguns balcões também não ajuda.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>811994</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864843.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
