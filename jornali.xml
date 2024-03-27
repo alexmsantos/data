@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-27T13:28:57+00:00</dc:date>
+        <dc:date>2024-03-27T13:35:27+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Alemanha. Acidente com autocarro faz pelo menos cinco mortos ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812009/alemanha-acidente-com-autocarro-faz-pelo-menos-cinco-mortos?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Circunstâncias do acidente estão a ser apuradas.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-27T13:35:27+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Acidente, Alemanha, Autocarro,  | Circunstâncias do acidente estão a ser apuradas.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812009</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/27/864858.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Aguiar-Branco e Assis vão dividir presidência da Assembleia da República ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812008/aguiar-branco-e-assis-vao-dividir-presid-ncia-da-assembleia-da-rep-blica?seccao=Portugal_i</link>
@@ -426,27 +447,6 @@ EUA, Bolsa de Nova Iorque, Trump, Truth Social | Pela primeira vez em quase 30 a
                 </content:encoded>
                 <guid>811991</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864838.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Automóvel. BYD com lucros recorde no ano passado ]]></title>
-                <link>https://ionline.sapo.pt/artigo/811989/automovel-byd-com-lucros-recorde-no-ano-passado?seccao=Dinheiro_i</link>
-                <description>
-                <![CDATA[
-No ano passado  a BYD tornou-se o primeiro fabricante do mundo a ultrapassar o marco simbólico de produzir um total combinado de cinco milhões de veículos híbridos e elétricos
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-26T16:52:21+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Automóvel, China, BYD | No ano passado  a BYD tornou-se o primeiro fabricante do mundo a ultrapassar o marco simbólico de produzir um total combinado de cinco milhões de veículos híbridos e elétricos
-					
-                   ]]>
-                </content:encoded>
-                <guid>811989</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/26/864836.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
