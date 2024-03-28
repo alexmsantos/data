@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-28T16:47:42+00:00</dc:date>
+        <dc:date>2024-03-28T17:10:16+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Primavera moscovita ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812046/primavera-moscovita?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Dois anos volvidos sobre o início da invasão da Ucrânia pela Rússia, os dois contendores, face às realidades da guerra, estão em processo de aproximação, nominal e metodológica.
+				]]>
+                
+                </description>
+                <dc:creator>M&#225;rio Jo&#227;o Fernandes</dc:creator>
+                <dc:date>2024-03-28T17:10:16+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Dois anos volvidos sobre o início da invasão da Ucrânia pela Rússia, os dois contendores, face às realidades da guerra, estão em processo de aproximação, nominal e metodológica.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812046</guid>
+           </item>
             <item>
                <title><![CDATA[ Salvaterra de Magos. Mais de dez feridos em acidente com quatro carros na A13 ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812045/salvaterra-de-magos-mais-de-dez-feridos-em-acidente-com-quatro-carros-na-a13?seccao=Portugal_i</link>
@@ -411,27 +430,6 @@ PSP, corridas, detidos, | As autoridades policiais detiveram cinco pessoas.
                 <guid>812026</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/28/864877.png?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Jo&#227;o Porf&#237;rio</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ EUA. Navio que colidiu com ponte de Baltimore transportava químicos perigosos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812025/eua-navio-que-colidiu-com-ponte-de-baltimore-transportava-quimicos-perigosos?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Alguns dos contentores que transportavam os químicos caíram à água. Ainda não se sabe o estado do material.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-28T08:20:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | Alguns dos contentores que transportavam os químicos caíram à água. Ainda não se sabe o estado do material.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812025</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/28/864876.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
