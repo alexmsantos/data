@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-29T12:18:00+00:00</dc:date>
+        <dc:date>2024-03-29T15:03:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[  América do Sul regista aumento de casos de dengue ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812070/-america-do-sul-regista-aumento-de-casos-de-dengue?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+80% das infeções registadas na região, ocorreram no Brasil. 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-29T15:03:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+dengue, Brasil, América do sul,  | 80% das infeções registadas na região, ocorreram no Brasil. 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812070</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/29/864918.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ INEM encaminhou com suspeitas de AVC cerca de 24 doentes por dia em 2023  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812069/inem-encaminhou-com-suspeitas-de-avc-cerca-de-24-doentes-por-dia-em-2023-?seccao=Portugal_i</link>
@@ -439,27 +460,6 @@ IPMA, Meteorologia, tornado, video, multimedia,  | Imagens foram partilhadas nas
                 <guid>812049</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/28/864896.PNG?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: X - M&#225;rcio Santos - Meteorologia e Ambiente</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Voos atrasados e desviados. Aeroporto de Lisboa afetado pelo mau tempo ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812048/voos-atrasados-e-desviados-aeroporto-de-lisboa-afetado-pelo-mau-tempo?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Atrasos em vários voos e alguns foram mesmo desviados para outros aeroportos.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-28T17:43:44+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Aeroporto de Lisboa, Mau Tempo, Voos,  | Atrasos em vários voos e alguns foram mesmo desviados para outros aeroportos.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812048</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/28/864895.png?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
