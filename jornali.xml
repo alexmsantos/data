@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-29T11:28:00+00:00</dc:date>
+        <dc:date>2024-03-29T11:40:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Depressão Nélson. Quatro pessoas morrem em Espanha devido ao mau tempo  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812067/depressao-nelson-quatro-pessoas-morrem-em-espanha-devido-ao-mau-tempo-?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+A depressão 'Nelson' está a provocar ventos fortes em várias zonas da península ibérica, nomeadamente em Espanha. 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-29T11:40:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Espanha, Mau Tempo, Morte,  | A depressão 'Nelson' está a provocar ventos fortes em várias zonas da península ibérica, nomeadamente em Espanha. 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812067</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/29/864915.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Operação da Páscoa. GNR registou um morto e 79 feridos na quinta-feira  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812066/operacao-da-pascoa-gnr-registou-um-morto-e-79-feridos-na-quinta-feira-?seccao=Portugal_i</link>
@@ -441,27 +462,6 @@ Opinião,  | Dois anos volvidos sobre o início da invasão da Ucrânia pela Rú
                    ]]>
                 </content:encoded>
                 <guid>812046</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Salvaterra de Magos. Mais de dez feridos em acidente com quatro carros na A13 ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812045/salvaterra-de-magos-mais-de-dez-feridos-em-acidente-com-quatro-carros-na-a13?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-No local estão 48 operacionais, acompanhados por 20 veículos.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-03-28T16:47:42+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Acidente, salvaterra de magos, feridos, a13,  | No local estão 48 operacionais, acompanhados por 20 veículos.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812045</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/28/864893.png?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
