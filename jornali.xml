@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-29T11:50:00+00:00</dc:date>
+        <dc:date>2024-03-29T12:18:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ INEM encaminhou com suspeitas de AVC cerca de 24 doentes por dia em 2023  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812069/inem-encaminhou-com-suspeitas-de-avc-cerca-de-24-doentes-por-dia-em-2023-?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+ Entre 2022 e 2023 registou-se um aumento de 1.920 casos, representando uma média de 24 casos diários.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-29T12:18:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+AVC, INEM, doentes,  |  Entre 2022 e 2023 registou-se um aumento de 1.920 casos, representando uma média de 24 casos diários.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812069</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/29/864917.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Sismo de magnitude 5,7 atinge ilhas na Grécia ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812068/sismo-de-magnitude-5-7-atinge-ilhas-na-grecia?seccao=Mundo_i</link>
@@ -438,31 +459,6 @@ Aeroporto de Lisboa, Mau Tempo, Voos,  | Atrasos em vários voos e alguns foram 
                 </content:encoded>
                 <guid>812048</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/28/864895.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Bryan Adams dá mais dois concertos em Portugal ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812047/bryan-adams-da-mais-dois-concertos-em-portugal?seccao=Mais_i</link>
-                <description>
-                <![CDATA[
-Bilhetes para as novas datas já estão à venda. 
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-28T17:29:05+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Bryan Adams,  | Bilhetes para as novas datas já estão à venda. 
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812047</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/28/864894.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
