@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-29T11:40:00+00:00</dc:date>
+        <dc:date>2024-03-29T11:50:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Sismo de magnitude 5,7 atinge ilhas na Grécia ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812068/sismo-de-magnitude-5-7-atinge-ilhas-na-grecia?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Depois deste abalo seguiram-se dois tremores secundários, com magnitude de 2,9 e 4,5.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-03-29T11:50:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Grécia, Sismo,  | Depois deste abalo seguiram-se dois tremores secundários, com magnitude de 2,9 e 4,5.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812068</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/29/864916.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Depressão Nélson. Quatro pessoas morrem em Espanha devido ao mau tempo  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812067/depressao-nelson-quatro-pessoas-morrem-em-espanha-devido-ao-mau-tempo-?seccao=Mundo_i</link>
@@ -443,25 +464,6 @@ Bryan Adams,  | Bilhetes para as novas datas já estão à venda. 
                 <guid>812047</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/28/864894.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Primavera moscovita ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812046/primavera-moscovita?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Dois anos volvidos sobre o início da invasão da Ucrânia pela Rússia, os dois contendores, face às realidades da guerra, estão em processo de aproximação, nominal e metodológica.
-				]]>
-                
-                </description>
-                <dc:creator>M&#225;rio Jo&#227;o Fernandes</dc:creator>
-                <dc:date>2024-03-28T17:10:16+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Dois anos volvidos sobre o início da invasão da Ucrânia pela Rússia, os dois contendores, face às realidades da guerra, estão em processo de aproximação, nominal e metodológica.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812046</guid>
            </item>
     </channel>
 
