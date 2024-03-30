@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-03-30T18:47:11+00:00</dc:date>
+        <dc:date>2024-03-30T19:42:11+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Mexidas nos preços dos combustíveis na próxima semana ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812090/mexidas-nos-precos-dos-combustiveis-na-proxima-semana?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+Um sobe e outro desce.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-03-30T19:42:11+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+combustíveis, gasolina, gasóleo,  | Um sobe e outro desce.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812090</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/30/864938.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ O universo de Kusama aterra em Serralves ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812089/o-universo-de-kusama-aterra-em-serralves?seccao=Mais_i</link>
@@ -414,27 +435,6 @@ Roménia, NATO, Base Militar,  | O custo da amplianção da base militar Mihail 
                 </content:encoded>
                 <guid>812071</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/29/864919.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[  América do Sul regista aumento de casos de dengue ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812070/-america-do-sul-regista-aumento-de-casos-de-dengue?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-80% das infeções registadas na região, ocorreram no Brasil. 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-03-29T15:03:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-dengue, Brasil, América do sul,  | 80% das infeções registadas na região, ocorreram no Brasil. 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812070</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/29/864918.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
