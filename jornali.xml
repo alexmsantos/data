@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-01T14:07:00+00:00</dc:date>
+        <dc:date>2024-04-01T14:15:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Gaza: Um pesadelo sem fim à vista ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812114/gaza-um-pesadelo-sem-fim-a-vista?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+A crise agrava-se a cada hora que passa. Mais do que qualquer interesse estratégico, é a dimensão da catástrofe humanitária que preocupa. E nem os americanos conseguem moderar Netanyahu.
+				]]>
+                
+                </description>
+                <dc:creator>Gon&#231;alo Nabeiro</dc:creator>
+                <dc:date>2024-04-01T14:15:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Gaza, Hamas, Israel, Palestina,  | A crise agrava-se a cada hora que passa. Mais do que qualquer interesse estratégico, é a dimensão da catástrofe humanitária que preocupa. E nem os americanos conseguem moderar Netanyahu.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812114</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/1/864968.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ "Só se pode esperar o pior". Mariana Mortágua critica novo Governo ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812113/so-se-pode-esperar-o-pior-mariana-mortagua-critica-novo-governo?seccao=Portugal_i</link>
@@ -462,31 +483,6 @@ Operação Páscoa, GNR, acidentes,  | Entre as 00h00 de quinta-feira e as 23h59
                 </content:encoded>
                 <guid>812094</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864948.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Sondagem da Euronews dá PSD e PS empatados e Chega com 3 mandatos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812093/sondagem-da-euronews-da-psd-e-ps-empatados-e-chega-com-3-mandatos?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O estudo da IPSOS para a Euronews aponta intenções de voto em Portugal nas próximas Europeias muito idênticas aos resultados das Legislativas, com o Chega a ficar ligeiramente abaixo.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>S&#243;nia Peres Pinto</dc:creator>
-                <dc:date>2024-03-31T10:34:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Eleições Europeias,  | O estudo da IPSOS para a Euronews aponta intenções de voto em Portugal nas próximas Europeias muito idênticas aos resultados das Legislativas, com o Chega a ficar ligeiramente abaixo.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812093</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864944.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
