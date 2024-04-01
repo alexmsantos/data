@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-01T17:27:50+00:00</dc:date>
+        <dc:date>2024-04-01T17:35:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Universidade de Lisboa anuncia nova residência com 200 camas ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812119/universidade-de-lisboa-anuncia-nova-resid-ncia-com-200-camas?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+A residência estará localizada na Avenida das Forças Armadas, perto da Cidade Universitária. 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-01T17:35:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Universidade de Lisboa, Conselho de Ministros,  | A residência estará localizada na Avenida das Forças Armadas, perto da Cidade Universitária. 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812119</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/1/864974.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ As Lições de Sócrates para o Mundo Moderno ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812121/as-licoes-de-socrates-para-o-mundo-moderno?seccao=Opiniao_i</link>
@@ -440,31 +461,6 @@ Familia real britanica,  | A rainha Isabel II morreu em setembro de 2022. Desde 
                 </content:encoded>
                 <guid>812101</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864955.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Sismo de 3,0 na escala de Richter sentido na ilha Terceira ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812100/sismo-de-3-0-na-escala-de-richter-sentido-na-ilha-terceira?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Evento deu-se às 16h25, com o epicentro a cerca de quatro quilómetros a este da Serreta.  
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-31T19:07:55+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-sismo, acores,  | Evento deu-se às 16h25, com o epicentro a cerca de quatro quilómetros a este da Serreta.  
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812100</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864954.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
