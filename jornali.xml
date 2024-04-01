@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-01T17:12:03+00:00</dc:date>
+        <dc:date>2024-04-01T17:27:50+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ As Lições de Sócrates para o Mundo Moderno ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812121/as-licoes-de-socrates-para-o-mundo-moderno?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+A vida e a filosofia de Sócrates, um dos pilares da tradição ocidental, oferecem um reflexo surpreendente das nossas próprias épocas.
+				]]>
+                
+                </description>
+                <dc:creator>Carlos Gouveia Martins</dc:creator>
+                <dc:date>2024-04-01T17:27:50+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | A vida e a filosofia de Sócrates, um dos pilares da tradição ocidental, oferecem um reflexo surpreendente das nossas próprias épocas.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812121</guid>
+           </item>
             <item>
                <title><![CDATA[ Marcelo dá posse a um Governo pela terceira vez   ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812120/marcelo-da-posse-a-um-governo-pela-terceira-vez-?seccao=Portugal_i</link>
@@ -446,31 +465,6 @@ sismo, acores,  | Evento deu-se às 16h25, com o epicentro a cerca de quatro qu
                 </content:encoded>
                 <guid>812100</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864954.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Criminalidade atinge valor mais elevado em 10 anos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812099/criminalidade-atinge-valor-mais-elevado-em-10-anos?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Em comunicado, a Direção-Geral de Política de Justiça (DGPJ) refere que o número de crimes registados pelas autoridades policiais em 2023 foi de 371.995, mais 28.150 do que em 2022.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-31T17:46:09+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Criminalidade,  | Em comunicado, a Direção-Geral de Política de Justiça (DGPJ) refere que o número de crimes registados pelas autoridades policiais em 2023 foi de 371.995, mais 28.150 do que em 2022.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812099</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864953.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
