@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-01T16:56:45+00:00</dc:date>
+        <dc:date>2024-04-01T17:12:03+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Marcelo dá posse a um Governo pela terceira vez   ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812120/marcelo-da-posse-a-um-governo-pela-terceira-vez-?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+É o primeiro Executivo empossado por Marcelo que é liderado pelo PSD.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-01T17:12:03+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Presidente da República, Marcelo Rebelo de Sousa, Governo,  | É o primeiro Executivo empossado por Marcelo que é liderado pelo PSD.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812120</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/1/864973.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Carlos Costa</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Mercado automóvel cresce 13,1% no 1.º trimestre ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812118/mercado-automovel-cresce-13-1-no-1-trimestre?seccao=Dinheiro_i</link>
@@ -450,31 +471,6 @@ Criminalidade,  | Em comunicado, a Direção-Geral de Política de Justiça (DGP
                 </content:encoded>
                 <guid>812099</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864953.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Homem desaparecido no mar na ilha Terceira ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812098/homem-desaparecido-no-mar-na-ilha-terceira?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Buscas foram interrompidas na noite de sábado por falta de visibilidade, e retomadas esta manhã.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-31T15:00:10+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Ilha Terceira, Açores,  | Buscas foram interrompidas na noite de sábado por falta de visibilidade, e retomadas esta manhã.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812098</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864952.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
