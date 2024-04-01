@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-01T16:34:00+00:00</dc:date>
+        <dc:date>2024-04-01T16:56:45+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Mercado automóvel cresce 13,1% no 1.º trimestre ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812118/mercado-automovel-cresce-13-1-no-1-trimestre?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+Deste total. 51,5% dizia respeito a elétricos e a híbridos.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-01T16:56:45+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ | Deste total. 51,5% dizia respeito a elétricos e a híbridos.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812118</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/1/864972.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Circulação de comboios entre Caldas da Rainha e Torres Vedras está suspensa ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812117/circulacao-de-comboios-entre-caldas-da-rainha-e-torres-vedras-esta-suspensa?seccao=Portugal_i</link>
@@ -454,27 +475,6 @@ Ilha Terceira, Açores,  | Buscas foram interrompidas na noite de sábado por f
                 </content:encoded>
                 <guid>812098</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864952.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Encontrado corpo de criança de dois anos desaparecida em França ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812097/encontrado-corpo-de-crianca-de-dois-anos-desaparecida-em-franca?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Estava desaparecida desde julho do ano passado
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-03-31T12:51:18+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Franca,  | Estava desaparecida desde julho do ano passado
-					
-                   ]]>
-                </content:encoded>
-                <guid>812097</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/3/31/864951.jpeg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
