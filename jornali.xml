@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-02T09:28:40+00:00</dc:date>
+        <dc:date>2024-04-02T09:45:59+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Cinco distritos do Norte sob aviso amarelo  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812140/cinco-distritos-do-norte-sob-aviso-amarelo-?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+É Previsto “vento forte de sudoeste, com rajadas até 75 km/h, podendo chegar a 95 km/h nas terras altas”, diz IPMA.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-04-02T09:45:59+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Norte, Meteorologia, Tempo, IPMA,  | É Previsto “vento forte de sudoeste, com rajadas até 75 km/h, podendo chegar a 95 km/h nas terras altas”, diz IPMA.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812140</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/864988.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Yolanda Hopkins é bicampeã europeia de surf ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812139/yolanda-hopkins-e-bicampea-europeia-de-surf?seccao=Opiniao_i</link>
@@ -407,27 +432,6 @@ Opinião,  | A vida e a filosofia de Sócrates, um dos pilares da tradição oci
                    ]]>
                 </content:encoded>
                 <guid>812121</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Marcelo dá posse a um Governo pela terceira vez   ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812120/marcelo-da-posse-a-um-governo-pela-terceira-vez-?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-É o primeiro Executivo empossado por Marcelo que é liderado pelo PSD.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-01T17:12:03+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Presidente da República, Marcelo Rebelo de Sousa, Governo,  | É o primeiro Executivo empossado por Marcelo que é liderado pelo PSD.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812120</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/1/864973.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Carlos Costa</media:credit>                                                              </media:content>
            </item>
     </channel>
 
