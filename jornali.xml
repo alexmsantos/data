@@ -6,7 +6,7 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-02T15:45:00+00:00</dc:date>
+        <dc:date>2024-04-02T16:18:08+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
@@ -14,8 +14,29 @@
             <link>https://ionline.sapo.pt</link>
         </image>
             <item>
+               <title><![CDATA[ Loures. Homem acusado de agressões graves a bebé de 5 meses ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812155/loures-homem-acusado-de-agressoes-graves-a-bebe-de-5-meses?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Suspeito, companheiro da mãe da vítima, ficou em prisão preventiva.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-02T16:18:08+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Loures, Violência doméstica, detido, bebé,  | Suspeito, companheiro da mãe da vítima, ficou em prisão preventiva.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812155</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/865003.png?type=artigo">
+                                                            </media:content>
+           </item>
+            <item>
                <title><![CDATA[ Governo de Israel admite que exército matou "sem querer" trabalhadores em Gaza ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812153/governo-de-israel-admite-que-exercito-matou-sem-querer-trabalhadores-em-gaza?seccao=Portugal_i</link>
+                <link>https://ionline.sapo.pt/artigo/812153/governo-de-israel-admite-que-exercito-matou-sem-querer-trabalhadores-em-gaza?seccao=Mundo_i</link>
                 <description>
                 <![CDATA[
 Netanyahu admitiu ainda que o incidente será objeto de uma investigação.
@@ -433,25 +454,6 @@ Opinião,  | Desde 2008, Lisboa registou um aumento de áreas verdes superior a 
                                                             </media:content>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/864986.jpeg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ A hora do algodão da direita ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812133/a-hora-do-algodao-da-direita?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Hoje, com o país e os portugueses em estado de necessidade e efervescência, começa o escrutínio às opções, à iniciativa e aos impactos da ação. É o tempo do algodão que não engana.
-				]]>
-                
-                </description>
-                <dc:creator>Ant&#243;nio Galamba</dc:creator>
-                <dc:date>2024-04-02T08:34:20+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião | Hoje, com o país e os portugueses em estado de necessidade e efervescência, começa o escrutínio às opções, à iniciativa e aos impactos da ação. É o tempo do algodão que não engana.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812133</guid>
            </item>
     </channel>
 
