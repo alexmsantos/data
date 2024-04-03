@@ -45,14 +45,14 @@ jobs:
     #- name: Download CNN Portugal xml
     #  run: |-
     #    curl -o cnnportugal.xml https://cnnportugal.iol.pt/rss.xml
-    - name: Delete GMT from rr.xml
-      run: |-
-        sed -i 's/GMT+1//g' rr.xml
-      continue-on-error: true
-    - name: Change +01:00 to +00:00from jornali.xml
-      run: |-
-        sed -i 's/+01:00/+00:00/g' jornali.xml
-      continue-on-error: true
+    #- name: Delete GMT from rr.xml
+    #  run: |-
+    #    sed -i 's/GMT+1//g' rr.xml
+    #  continue-on-error: true
+    #- name: Change +01:00 to +00:00from jornali.xml
+    #  run: |-
+    #    sed -i 's/+01:00/+00:00/g' jornali.xml
+    #  continue-on-error: true
     #- name: Insert UTF8 line in cm.xml
     #  run: |-
     #    sed -i 's/<rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/<?xml version="1.0" encoding="ISO-8859-1"?><rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/g' cm.xml
