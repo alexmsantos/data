@@ -28,6 +28,9 @@ jobs:
     - name: RSS to JSON CNN Portugal
       run: node rss-to-json--cnn.js
       continue-on-error: true
+    - name: RSS to JSON Notícias ao Minuto
+      run: node rss-to-json--noticiasaominuto.js
+      continue-on-error: true
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
@@ -105,10 +108,10 @@ jobs:
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/rr.xml?v=$(date +%s)" | jq '.items[:10] | map({title, url, date_published, media: "Renascença"})' | jq -r tostring > digest/latest--rr.json
       continue-on-error: true
-    - name: Download Notícias ao Minuto Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Notícias ao Minuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
-      continue-on-error: true
+    #- name: Download Notícias ao Minuto Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Notícias ao Minuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
+    #  continue-on-error: true
     - name: Download Novo Feed
       run: |-
         curl "https://www.toptal.com/developers/feed2json/convert?url=https://onovo.sapo.pt/feed/?v=$(date +%s)" | jq '.items[:10] | map({title, url, date_published, media: "Novo"})' | jq -r tostring > digest/latest--novo.json    
@@ -127,6 +130,10 @@ jobs:
     - name: Edit cnnportugal.json
       run: |-
         jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "CNN Portugal"})' cnnportugal.json >digest/latest--cnnportugal.json
+      continue-on-error: true
+    - name: Edit noticiasaominuto.json
+      run: |-
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Notícias ao Minuto"})' noticiasaominuto.json >digest/latest--noticiasaominuto.json
       continue-on-error: true
     - name: Download Jornal i Feed
       run: |-
