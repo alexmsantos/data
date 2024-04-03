@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-03T11:02:00+00:00</dc:date>
+        <dc:date>2024-04-03T12:02:24+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Todo-o-terreno. Um Dakar à portuguesa ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812173/todo-o-terreno-um-dakar-a-portuguesa?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+Os grandes nomes do Dakar estão em Portugal para disputar uma prova com mais de 1.000 quilómetros que passa pelo Alentejo, Ribatejo e Extremadura espanhola.
+				]]>
+                
+                </description>
+                <dc:creator>Jo&#227;o Sena</dc:creator>
+                <dc:date>2024-04-03T12:02:24+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+acp, rally, Rally-Raid, todo-o-terreno,  | Os grandes nomes do Dakar estão em Portugal para disputar uma prova com mais de 1.000 quilómetros que passa pelo Alentejo, Ribatejo e Extremadura espanhola.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812173</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/3/865023.png?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Red Bull</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Guerra. Forças israelitas mantêm operações no sul de Gaza ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812172/guerra-forcas-israelitas-mant-m-operacoes-no-sul-de-gaza?seccao=Mundo_i</link>
@@ -436,31 +457,6 @@ Espanha, FC Porto, Sérgio Conceição, Justiça,  | Manuel Barroso gostava que 
                 </content:encoded>
                 <guid>812154</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/865004.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Governo de Israel admite que exército matou "sem querer" trabalhadores em Gaza ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812153/governo-de-israel-admite-que-exercito-matou-sem-querer-trabalhadores-em-gaza?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Netanyahu admitiu ainda que o incidente será objeto de uma investigação.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-04-02T15:45:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Gaza, Guerra, Israel,  | Netanyahu admitiu ainda que o incidente será objeto de uma investigação.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812153</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/865002.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
