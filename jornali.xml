@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-03T12:13:01+00:00</dc:date>
+        <dc:date>2024-04-03T12:21:25+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Porto. Dois agentes da PSP assistidos após fogo em apartamento  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812175/porto-dois-agentes-da-psp-assistidos-apos-fogo-em-apartamento-?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Alerta para o incêndio, que ocorreu num apartamento de um prédio localizado na Rua Dom Jerónimo de Azevedo, foi dado às 9h21, tendo sido rapidamente extinto.  
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-04-03T12:21:25+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Porto, Incêndio, Porto,  | Alerta para o incêndio, que ocorreu num apartamento de um prédio localizado na Rua Dom Jerónimo de Azevedo, foi dado às 9h21, tendo sido rapidamente extinto.  
+					
+                   ]]>
+                </content:encoded>
+                <guid>812175</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/3/865025.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Espanha. Rubiales detido assim que aterrou em Madrid ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812174/espanha-rubiales-detido-assim-que-aterrou-em-madrid?seccao=Mundo_i</link>
@@ -436,27 +457,6 @@ O Comando Metropolitano da PSP do Porto afirmou esta segunda-feira que foi dado 
                 </content:encoded>
                 <guid>812156</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/865005.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Loures. Homem acusado de agressões graves a bebé de 5 meses ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812155/loures-homem-acusado-de-agressoes-graves-a-bebe-de-5-meses?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Suspeito, companheiro da mãe da vítima, ficou em prisão preventiva.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-02T16:18:08+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Loures, Violência doméstica, detido, bebé,  | Suspeito, companheiro da mãe da vítima, ficou em prisão preventiva.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812155</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/865003.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
