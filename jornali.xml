@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-03T09:45:40+00:00</dc:date>
+        <dc:date>2024-04-03T11:02:00+00:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Guerra. Forças israelitas mantêm operações no sul de Gaza ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812172/guerra-forcas-israelitas-mant-m-operacoes-no-sul-de-gaza?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Militares “mataram e detiveram vários terroristas” e durante um “ataque direcionado” localizaram várias armas, dispositivos explosivos e granadas, diz um comunicado do Exército de Israel.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-04-03T11:02:00+00:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Israel, Hamas,  | Militares “mataram e detiveram vários terroristas” e durante um “ataque direcionado” localizaram várias armas, dispositivos explosivos e granadas, diz um comunicado do Exército de Israel.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812172</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/3/865022.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Grávidas. Encaminhadas 32 casos para os privados nos primeiros dois meses do ano ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812171/gravidas-encaminhadas-32-casos-para-os-privados-nos-primeiros-dois-meses-do-ano?seccao=Portugal_i</link>
@@ -441,27 +462,6 @@ Gaza, Guerra, Israel,  | Netanyahu admitiu ainda que o incidente será objeto de
                 <guid>812153</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/865002.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Von der Leyen investigada pela Procuradoria Europeia por negócio de vacinas com a Pfizer ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812152/von-der-leyen-investigada-pela-procuradoria-europeia-por-negocio-de-vacinas-com-a-pfizer?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Na origem da queixa está uma troca de mensagens entre presidente da CE e o CEO da farmacêutica, antes do maior acordo de vacinas contra a covid-19 da União Europeia.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-02T14:45:00+00:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Covid-19, Investigação, Pfizer, Procuradoria Europeia, Ursula von der Leyen, Vacinas,  | Na origem da queixa está uma troca de mensagens entre presidente da CE e o CEO da farmacêutica, antes do maior acordo de vacinas contra a covid-19 da União Europeia.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812152</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/2/865001.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
