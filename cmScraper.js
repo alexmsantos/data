@@ -21,7 +21,7 @@ rp(url)
       const dateTrim = articleDate.text().trim();
       let thisYear = new Date();
       let dateArray = dateTrim.split(/[|,/, ]/);
-      let newDate = `${thisYear.getFullYear()}-${dateArray[4]}-${dateArray[3]}T${dateArray[0]}:00.000Z`;
+      let newDate = `${thisYear.getFullYear()}-${dateArray[4]}-${dateArray[3]}T${dateArray[0]}:00+01:00`;
       articles.push(newDate);
     }
     console.log(articles);
