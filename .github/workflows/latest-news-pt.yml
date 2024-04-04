@@ -31,6 +31,9 @@ jobs:
     - name: RSS to JSON Notícias ao Minuto
       run: node rss-to-json--noticiasaominuto.js
       continue-on-error: true
+    - name: RSS to JSON RTP Notícas
+      run: node rss-to-json--rtp.js
+      continue-on-error: true
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
@@ -134,6 +137,10 @@ jobs:
     - name: Edit noticiasaominuto.json
       run: |-
         jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Notícias ao Minuto"})' noticiasaominuto.json >digest/latest--noticiasaominuto.json
+      continue-on-error: true
+    - name: Edit rtp.json
+      run: |-
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "RTP Notícias"})' rtp.json >digest/latest--rtp.json
       continue-on-error: true
     - name: Download Jornal i Feed
       run: |-
