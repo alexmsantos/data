@@ -61,7 +61,7 @@ jobs:
     #    sed -i 's/<rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/<?xml version="1.0" encoding="ISO-8859-1"?><rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/g' cm.xml
     - name: Fix Timezone Offset in eco.json
       run: |-
-        sed -i 's/00+00:00/00+01:00/g' eco.json
+        sed -i 's/.000Z/+01:00/g' eco.json
       continue-on-error: true
     - name: Download Público Feed
       run: |-
