@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-03T22:41:57+01:00</dc:date>
+        <dc:date>2024-04-04T08:16:45+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Barragens. Da chuva abundante à seca, tudo é cíclico ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812199/barragens-da-chuva-abundante-a-seca-tudo-e-ciclico?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Nas últimas décadas, a frequência de secas meteorológicas tem aumentado em Portugal. Mas as cheias fazem mais estragos: representam cerca de 80% das indemnizações por catástrofes naturais no país.
+				]]>
+                
+                </description>
+                <dc:creator>Maria Moreira Rato</dc:creator>
+                <dc:date>2024-04-04T08:16:45+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Barragens, Chuva, Seca,  | Nas últimas décadas, a frequência de secas meteorológicas tem aumentado em Portugal. Mas as cheias fazem mais estragos: representam cerca de 80% das indemnizações por catástrofes naturais no país.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812199</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865048.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Taça de Portugal. FC Porto em vantagem rumo à final  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812198/taca-de-portugal-fc-porto-em-vantagem-rumo-a-final-?seccao=Desporto_i</link>
@@ -427,27 +448,6 @@ Moscovo, Guerra, Russia, Ucrania,  | Em comunicado, o Ministério da Defesa da R
                 <guid>812177</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/3/865027.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Novo Governo posa para a a primeira 'fotografia de família' ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812176/novo-governo-posa-para-a-a-primeira-fotografia-de-familia?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Montenegro e os 17 ministros posam para a tradicional foto de família.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-03T13:01:01+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Fotografia de família, Governo, Legislativas 2024,  | Montenegro e os 17 ministros posam para a tradicional foto de família.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812176</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/3/865026.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Twitter Rep&#250;blica Portuguesa</media:credit>                                                              </media:content>
            </item>
     </channel>
 
