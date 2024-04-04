@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-04T10:19:54+01:00</dc:date>
+        <dc:date>2024-04-04T10:24:07+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Sismo de magnitude 6 atinge costa do Japão ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812203/sismo-de-magnitude-6-atinge-costa-do-japao?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Epicentro a 40 quilómetros de profundidade ao largo da costa da província de Fukushima.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-04T10:24:07+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+fukushima, Japão, Sismo,  | Epicentro a 40 quilómetros de profundidade ao largo da costa da província de Fukushima.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812203</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865051.png?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ A insensibilidade ao mal ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812202/a-insensibilidade-ao-mal?seccao=Opiniao_i</link>
@@ -428,27 +449,6 @@ Aeroporto de Lisboa, tráfico de droga, PJ, Cocaína,  | A cocaína apreendida f
                 </content:encoded>
                 <guid>812182</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/3/865032.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Finlândia. Criança que disparou contra colegas diz ter sido vítima de assédio ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812181/finl-ndia-crianca-que-disparou-contra-colegas-diz-ter-sido-vitima-de-assedio?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-“O suspeito disse durante o interrogatório que tinha sido vítima de assédio, o que foi confirmado pela investigação preliminar”, declarou a polícia finlandesa, esta quarta-feira, num comunicado.  
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-04-03T15:22:36+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Finlândia, Tiroteio,  | “O suspeito disse durante o interrogatório que tinha sido vítima de assédio, o que foi confirmado pela investigação preliminar”, declarou a polícia finlandesa, esta quarta-feira, num comunicado.  
-					
-                   ]]>
-                </content:encoded>
-                <guid>812181</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/3/865031.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
