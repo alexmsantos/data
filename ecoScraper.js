@@ -14,7 +14,7 @@ rp(url)
       const articleDate = $('.meta__time > time', html)[i];
       articles.push(articleTitle.text());
       articles.push(articleUrl.attribs.href);
-      //const toISOString = new Date(articleDate.attribs.datetime).toISOString();
+      const toISOString = new Date(articleDate.attribs.datetime).toISOString();
       //articles.push(toISOString);
 
       function toIsoString(date) {
@@ -34,7 +34,7 @@ rp(url)
             ':' + pad(Math.abs(tzo) % 60);
       }
       
-      var dt = new Date(articleDate.attribs.datetime);
+      var dt = new Date(toISOString);
       //console.log(toIsoString(dt));
       
       articles.push(toIsoString(dt));
