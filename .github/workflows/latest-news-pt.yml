@@ -59,6 +59,10 @@ jobs:
     #- name: Insert UTF8 line in cm.xml
     #  run: |-
     #    sed -i 's/<rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/<?xml version="1.0" encoding="ISO-8859-1"?><rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/g' cm.xml
+    - name: Fix Timezone Offset in cm.json
+      run: |-
+        sed -i 's/00+00:00/00+01:00/g' cm.json
+      continue-on-error: true
     - name: Download Público Feed
       run: |-
         curl "https://www.publico.pt/api/list/ultimas?size=12?$(date +%s)" | jq '.[:10] | map(.title = .titulo | .date_published = .data | del(.titulo, .data)) | map({title, url, date_published, media: "Público"})' | jq -r tostring > digest/latest--publico.json
