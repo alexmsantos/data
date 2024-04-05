@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-05T11:35:53+01:00</dc:date>
+        <dc:date>2024-04-05T12:04:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Nuno Borges resiste no Estoril Open ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812241/nuno-borges-resiste-no-estoril-open?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+O melhor tenista português da atualidade continua em prova com exibições convincentes.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-05T12:04:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Estoril Open, Nuno Borges, Ténis,  | O melhor tenista português da atualidade continua em prova com exibições convincentes.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812241</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/5/865092.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Gaza. Número de mortes ultrapassa os 33 mil ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812240/gaza-n-mero-de-mortes-ultrapassa-os-33-mil?seccao=Mundo_i</link>
@@ -447,27 +468,6 @@ Saúde, vacinas, Plano Nacional de Vacinação, Enfermeiros, Ordem dos Enfermeir
                 <guid>812222</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865070.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Santa Maria da Feira. Idoso desaparecido desde quarta-feira após exames no hospital ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812221/santa-maria-da-feira-idoso-desaparecido-desde-quarta-feira-apos-exames-no-hospital?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Fonte do hospital diz que família não deu qualquer indicação de que o idoso não poderia ficar sozinho.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-04T16:22:40+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Desaparecido, Hospital, Idoso, Santa Maria da Feira,  | Fonte do hospital diz que família não deu qualquer indicação de que o idoso não poderia ficar sozinho.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812221</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865069.png?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Raquel Wise</media:credit>                                                              </media:content>
            </item>
     </channel>
 
