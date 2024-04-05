@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-05T09:27:00+01:00</dc:date>
+        <dc:date>2024-04-05T10:40:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Portalegre. Explosão deixa uma mulher e quatro crianças desalojadas ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812238/portalegre-explosao-deixa-uma-mulher-e-quatro-criancas-desalojadas?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Explosão terá sido provocada por uma fuga de gás num fogão.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-04-05T10:40:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Portalegre, explosão,  | Explosão terá sido provocada por uma fuga de gás num fogão.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812238</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/5/865088.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Israel deixa entrar ajuda humanitária em Gaza ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812237/israel-deixa-entrar-ajuda-humanitaria-em-gaza?seccao=Mundo_i</link>
@@ -439,27 +464,6 @@ Justiça, Tribunal, Ana Gomes, Mário Ferreira | Este é o quarto processo que o
                 <guid>812219</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865067.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ França inaugura Centro Aquático a menos de quatro meses dos Jogos Olímpicos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812217/franca-inaugura-centro-aquatico-a-menos-de-quatro-meses-dos-jogos-olimpicos?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-Macron afirma que se trata de um "exemplo" da entrega do país às " infraestruturas nos prazos"
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-04T15:18:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Jogos Olímpicos, Paris, França,  | Macron afirma que se trata de um "exemplo" da entrega do país às " infraestruturas nos prazos"
-					
-                   ]]>
-                </content:encoded>
-                <guid>812217</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865065.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
