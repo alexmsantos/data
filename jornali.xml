@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-05T16:01:43+01:00</dc:date>
+        <dc:date>2024-04-05T16:40:33+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Sismo de magnitude 4.8 sentido em Nova Iorque ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812252/sismo-de-magnitude-4-8-sentido-em-nova-iorque?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Epicentro registado a uma profundidade de dez quilómetros e a cerca de 80 quilómetros a oeste de Manhattan.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-05T16:40:33+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Sismo, Nova Iorque, EUA,  | Epicentro registado a uma profundidade de dez quilómetros e a cerca de 80 quilómetros a oeste de Manhattan.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812252</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/5/865104.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ 821 redes criminosas “mais perigosas” registadas pela Europol ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812251/821-redes-criminosas-mais-perigosas-registadas-pela-europol?seccao=Mundo_i</link>
@@ -456,31 +481,6 @@ Governo, Presidente da República, secretários de Estado,  | Luís Montenegro e
                 </content:encoded>
                 <guid>812233</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865083.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Toyota colocada em sentido por Nasser Al Attiyah  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812232/toyota-colocada-em-sentido-por-nasser-al-attiyah-?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-Os grandes nomes do todo-o-terreno mundial estão a dominar nas estradas portuguesas.
-				]]>
-                
-                </description>
-                <dc:creator>Jo&#227;o Sena, </dc:creator>
-                <dc:date>2024-04-04T22:21:26+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Automobilismo, Rally-Raid | Os grandes nomes do todo-o-terreno mundial estão a dominar nas estradas portuguesas.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812232</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865080.jpg?type=artigo">
-                                                            </media:content>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865081.jpg?type=artigo">
-                                                            </media:content>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/4/865082.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
