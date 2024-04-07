@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-07T11:01:00+01:00</dc:date>
+        <dc:date>2024-04-07T11:42:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Ucrânia destrói 17 drones russos e sofre ataques com mísseis ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812281/ucr-nia-destroi-17-drones-russos-e-sofre-ataques-com-misseis?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Na madrugada de sábado passado, seis civis morreram e dezenas ficaram feridos, depois de um ataque com mísseis S-300 contra a região de Kharkiv.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-07T11:42:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Ucrânia, Rússia, Morte,  | Na madrugada de sábado passado, seis civis morreram e dezenas ficaram feridos, depois de um ataque com mísseis S-300 contra a região de Kharkiv.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812281</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/7/865143.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Excedente não é 'cofre cheio' ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812280/excedente-nao-e-cofre-cheio?seccao=Portugal_i</link>
@@ -418,27 +439,6 @@ Gabão, democracia,  | Iniciativa liderada pelo arcebispo Jean Patrick Iba-Ba co
                 </content:encoded>
                 <guid>812261</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/5/865123.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Caso Gémeas. Segredo de justiça adiou envio da documentação  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812260/caso-gemeas-segredo-de-justica-adiou-envio-da-documentacao-?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Presidente diz que não pode falar de partidos porque o país está já desde há dois dias em período pré-eleitoral para as europeias de 9 de junho
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-05T22:07:59+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Presidente da República, Gémeas,  | Presidente diz que não pode falar de partidos porque o país está já desde há dois dias em período pré-eleitoral para as europeias de 9 de junho
-					
-                   ]]>
-                </content:encoded>
-                <guid>812260</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/5/865122.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
