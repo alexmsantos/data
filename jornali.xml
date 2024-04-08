@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-08T10:20:00+01:00</dc:date>
+        <dc:date>2024-04-08T10:30:11+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Combustíveis sobem esta semana ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812297/combustiveis-sobem-esta-semana?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+Gasóleo tem maior subida desde setembro do ano passado.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-08T10:30:11+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Combustíveis, Gasolina, Gasóleo,  | Gasóleo tem maior subida desde setembro do ano passado.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812297</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865163.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Homem ferido com gravidade após atingido ter sido atingido com tiro no peito em Alfama ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812296/homem-ferido-com-gravidade-apos-atingido-ter-sido-atingido-com-tiro-no-peito-em-alfama?seccao=Portugal_i</link>
@@ -419,27 +440,6 @@ mulheres, Jovens, Saúde,  | As mulheres afetadas pela ansiedade são o dobro do
                 <guid>812278</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/7/865140.png?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Guterres está alarmado com invasão da embaixada mexicana em Quito ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812277/guterres-esta-alarmado-com-invasao-da-embaixada-mexicana-em-quito?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-O responsável da ONU indicou a importância da inviolabilidade do solo diplomático.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-07T09:28:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | O responsável da ONU indicou a importância da inviolabilidade do solo diplomático.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812277</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/7/865138.png?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
