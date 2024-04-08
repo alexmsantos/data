@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-08T09:35:09+01:00</dc:date>
+        <dc:date>2024-04-08T10:20:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Homem ferido com gravidade após atingido ter sido atingido com tiro no peito em Alfama ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812296/homem-ferido-com-gravidade-apos-atingido-ter-sido-atingido-com-tiro-no-peito-em-alfama?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Polícia Judiciária está a investigar. Tiro terá sido acidental.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-08T10:20:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Alfama, disparo, Lisboa, PJ, Tiro,  | Polícia Judiciária está a investigar. Tiro terá sido acidental.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812296</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865162.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Polémica. Paddy Cosgrave está de regresso à liderança da Web Summit ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812295/polemica-paddy-cosgrave-esta-de-regresso-a-lideranca-da-web-summit?seccao=Mundo_i</link>
@@ -419,31 +440,6 @@ O responsável da ONU indicou a importância da inviolabilidade do solo diplomá
                 <guid>812277</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/7/865138.png?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Vitória sobre Benfica deixa Sporting mais próximo do título ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812276/vitoria-sobre-benfica-deixa-sporting-mais-proximo-do-titulo?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-Os leões visitam o Famalicão a 16 de abril para acertar calendário.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-06T23:00:19+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Futebol, I Liga, Benfica, Sporting,  | Os leões visitam o Famalicão a 16 de abril para acertar calendário.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812276</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/6/865137.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
