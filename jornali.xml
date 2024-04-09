@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T15:01:35+01:00</dc:date>
+        <dc:date>2024-04-09T15:31:48+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ EUA. Armas apreendidas ao Irão transferidas para a Ucrânia  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812349/eua-armas-apreendidas-ao-irao-transferidas-para-a-ucr-nia-?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Os carregamentos de armas foram apreendidos depois de terem sido transferidos do Corpo da Guarda Revolucionária para os Houthis do Iémen, em violação de uma resolução do Conselho de Segurança da ONU
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-09T15:31:48+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+EUA, Armas, Irão, Ucrânia,  | Os carregamentos de armas foram apreendidos depois de terem sido transferidos do Corpo da Guarda Revolucionária para os Houthis do Iémen, em violação de uma resolução do Conselho de Segurança da ONU
+					
+                   ]]>
+                </content:encoded>
+                <guid>812349</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865206.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Suspeito de tentativa de homicídio em Beja detido pela PJ ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812347/suspeito-de-tentativa-de-homicidio-em-beja-detido-pela-pj?seccao=Portugal_i</link>
@@ -425,25 +446,6 @@ Opinião,  | Para que uma reforma da Justiça de grande amplitude e alcance pude
                    ]]>
                 </content:encoded>
                 <guid>812329</guid>
-           </item>
-            <item>
-               <title><![CDATA[ O meu zapping televisivo começa no 5 ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812328/o-meu-zapping-televisivo-comeca-no-5?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Parece que um deles agora também tem “homens a brincar às mulheres”. À excepção da RTP2, honra lhe seja feita, que passa séries e documentários de qualidade e dá palco aos desportos menos conhecidos, tudo o resto é tirado a papel químico.
-				]]>
-                
-                </description>
-                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
-                <dc:date>2024-04-09T09:41:07+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Parece que um deles agora também tem “homens a brincar às mulheres”. À excepção da RTP2, honra lhe seja feita, que passa séries e documentários de qualidade e dá palco aos desportos menos conhecidos, tudo o resto é tirado a papel químico.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812328</guid>
            </item>
     </channel>
 
