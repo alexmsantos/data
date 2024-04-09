@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T10:15:08+01:00</dc:date>
+        <dc:date>2024-04-09T10:49:59+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Caminha. Autoridades procuram pescador desaparecido em Moledo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812333/caminha-autoridades-procuram-pescador-desaparecido-em-moledo?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Homem estaria a pescar na barra, que estava encerrada devido à ondulação e ao vento forte.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-09T10:49:59+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Buscas, caminha, moledo, pescador,  | Homem estaria a pescar na barra, que estava encerrada devido à ondulação e ao vento forte.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812333</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865191.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Incêndio urbano em Sintra faz quatro feridos ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812332/inc-ndio-urbano-em-sintra-faz-quatro-feridos?seccao=Portugal_i</link>
@@ -398,27 +419,6 @@ Rússia, Moscovo, Inundacoes,  | “Estamos a implementar o regime de emergênci
                 </content:encoded>
                 <guid>812311</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865176.PNG?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Coligação em Israel pode cair se Netanyahu não avançar sobre Rafah ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812310/coligacao-em-israel-pode-cair-se-netanyahu-nao-avancar-sobre-rafah?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Ministros do executivo ameaçam desfazer coligação caso não se realize "ataque extensivo a Rafah".
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-08T18:37:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Conflito israelo-palestiniano, Benjamin Netanyahu, Governo, Gaza,  | Ministros do executivo ameaçam desfazer coligação caso não se realize "ataque extensivo a Rafah".
-					
-                   ]]>
-                </content:encoded>
-                <guid>812310</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865175.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
