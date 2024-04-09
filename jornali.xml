@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T16:04:14+01:00</dc:date>
+        <dc:date>2024-04-09T16:25:48+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ António Costa aponta ‘falta de tração’ a PSD e PS ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812351/antonio-costa-aponta-falta-de-tracao-a-psd-e-ps?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+A posição foi transmitida por António Costa na sua primeira intervenção no Fórum La Toja, na Fundação Calouste Gulbenkian, em Lisboa
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-09T16:25:48+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+António Costa, Eleições, PSD, PS, Chega | A posição foi transmitida por António Costa na sua primeira intervenção no Fórum La Toja, na Fundação Calouste Gulbenkian, em Lisboa
+					
+                   ]]>
+                </content:encoded>
+                <guid>812351</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865209.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Conselho das Finanças Públicas prevê desaceleração da economia para 1,6% em 2024  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812350/conselho-das-financas-p-blicas-prev-desaceleracao-da-economia-para-1-6-em-2024-?seccao=Dinheiro_i</link>
@@ -426,27 +447,6 @@ Incêndio, Sintra, Protecção Civil,  | As vítimas ficaram encurraladas na var
                 </content:encoded>
                 <guid>812332</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865189.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Temperaturas elevadas a partir de quinta-feira ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812331/temperaturas-elevadas-a-partir-de-quinta-feira?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Valores da temperatura máxima estão acima da média
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-09T10:10:31+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-ipma, Meteorologia, Calor,  | Valores da temperatura máxima estão acima da média
-					
-                   ]]>
-                </content:encoded>
-                <guid>812331</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865188.jpeg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
