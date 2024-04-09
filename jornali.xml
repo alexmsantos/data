@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T14:30:00+01:00</dc:date>
+        <dc:date>2024-04-09T14:35:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Ucrânia acusa Rússia de executar 54 prisioneiros ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812346/ucr-nia-acusa-r-ssia-de-executar-54-prisioneiros?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Ministério Público ucraniano indicou que está a investigar 27 casos relacionados com as alegadas execuções, o que, caso sejam confirmadas, poderão conduzir a processos criminais contra os principais suspeitos. 
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-04-09T14:35:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+MP, Ucrânia, Rússia,  | Ministério Público ucraniano indicou que está a investigar 27 casos relacionados com as alegadas execuções, o que, caso sejam confirmadas, poderão conduzir a processos criminais contra os principais suspeitos. 
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812346</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865204.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Açores. CEO da SATA demite-se por "motivos pessoais" ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812345/acores-ceo-da-sata-demite-se-por-motivos-pessoais?seccao=Portugal_i</link>
@@ -417,25 +442,6 @@ Opinião,  | Putin, a leste, e Trump, a oeste, dizem-nos o que já sabíamos, ma
                    ]]>
                 </content:encoded>
                 <guid>812325</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Afinal porque é que tivemos eleições? ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812324/afinal-porque-e-que-tivemos-eleicoes-?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-É preciso criar condições para que haja entidades judiciárias responsabilizáveis.
-				]]>
-                
-                </description>
-                <dc:creator>Eduardo Oliveira e Silva</dc:creator>
-                <dc:date>2024-04-09T09:34:12+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | É preciso criar condições para que haja entidades judiciárias responsabilizáveis.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812324</guid>
            </item>
     </channel>
 
