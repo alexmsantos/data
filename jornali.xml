@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T09:37:27+01:00</dc:date>
+        <dc:date>2024-04-09T09:41:07+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ O meu zapping televisivo começa no 5 ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812328/o-meu-zapping-televisivo-comeca-no-5?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Parece que um deles agora também tem “homens a brincar às mulheres”. À excepção da RTP2, honra lhe seja feita, que passa séries e documentários de qualidade e dá palco aos desportos menos conhecidos, tudo o resto é tirado a papel químico.
+				]]>
+                
+                </description>
+                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
+                <dc:date>2024-04-09T09:41:07+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Parece que um deles agora também tem “homens a brincar às mulheres”. À excepção da RTP2, honra lhe seja feita, que passa séries e documentários de qualidade e dá palco aos desportos menos conhecidos, tudo o resto é tirado a papel químico.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812328</guid>
+           </item>
             <item>
                <title><![CDATA[ O recreio acabou ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812325/o-recreio-acabou?seccao=Opiniao_i</link>
@@ -402,31 +421,6 @@ Marisa Matias, Parlamento,  | A bloquista vai ser sujeita a uma intervenção ci
                 </content:encoded>
                 <guid>812306</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865171.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ ABBA recordam vitória no festival da Eurovisão ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812305/abba-recordam-vitoria-no-festival-da-eurovisao?seccao=Mais_i</link>
-                <description>
-                <![CDATA[
-O tema “Waterloo” marcou gerações inteiras.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator></dc:creator>
-                <dc:date>2024-04-08T15:11:26+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Eurovisão, ABBA, Música,  | O tema “Waterloo” marcou gerações inteiras.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812305</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865170.jpeg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
