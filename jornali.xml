@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T10:10:31+01:00</dc:date>
+        <dc:date>2024-04-09T10:15:08+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Incêndio urbano em Sintra faz quatro feridos ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812332/inc-ndio-urbano-em-sintra-faz-quatro-feridos?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+As vítimas ficaram encurraladas na varanda e uma delas está em estado grave
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-09T10:15:08+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Incêndio, Sintra, Protecção Civil,  | As vítimas ficaram encurraladas na varanda e uma delas está em estado grave
+					
+                   ]]>
+                </content:encoded>
+                <guid>812332</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865189.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Temperaturas elevadas a partir de quinta-feira ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812331/temperaturas-elevadas-a-partir-de-quinta-feira?seccao=Portugal_i</link>
@@ -398,27 +419,6 @@ Conflito israelo-palestiniano, Benjamin Netanyahu, Governo, Gaza,  | Ministros d
                 </content:encoded>
                 <guid>812310</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865175.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Apreendidos 2510 litros de óleo alimentar vendido como azeite pela ASAE ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812309/apreendidos-2510-litros-de-oleo-alimentar-vendido-como-azeite-pela-asae?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-As ações de fiscalização foram direcionadas a operadores económicos, com ligações comerciais entre si, tendo sido foi detetado "em flagrante delito" a comercialização de óleo alimentar como azeite.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-08T17:39:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Azeite, ASAE, Algarve, Alentejo,  | As ações de fiscalização foram direcionadas a operadores económicos, com ligações comerciais entre si, tendo sido foi detetado "em flagrante delito" a comercialização de óleo alimentar como azeite.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812309</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865174.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
