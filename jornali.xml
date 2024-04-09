@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T14:35:00+01:00</dc:date>
+        <dc:date>2024-04-09T15:01:35+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Suspeito de tentativa de homicídio em Beja detido pela PJ ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812347/suspeito-de-tentativa-de-homicidio-em-beja-detido-pela-pj?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+O homem, de 29 anos, “atentou contra a vida” de outro, de 27, com recurso a arma branca, na sequência de um desentendimento ocorrido junto de um estabelecimento de diversão noturna
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-09T15:01:35+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+PJ, Beja,  | O homem, de 29 anos, “atentou contra a vida” de outro, de 27, com recurso a arma branca, na sequência de um desentendimento ocorrido junto de um estabelecimento de diversão noturna
+					
+                   ]]>
+                </content:encoded>
+                <guid>812347</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865205.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Ucrânia acusa Rússia de executar 54 prisioneiros ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812346/ucr-nia-acusa-r-ssia-de-executar-54-prisioneiros?seccao=Mundo_i</link>
@@ -423,25 +444,6 @@ Opinião,  | Parece que um deles agora também tem “homens a brincar às mulhe
                    ]]>
                 </content:encoded>
                 <guid>812328</guid>
-           </item>
-            <item>
-               <title><![CDATA[ O recreio acabou ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812325/o-recreio-acabou?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Putin, a leste, e Trump, a oeste, dizem-nos o que já sabíamos, mas queríamos que não se visse: “A Europa vai nua.” Temos de nos vestir – e depressa!
-				]]>
-                
-                </description>
-                <dc:creator>Jos&#233; Ribeiro e Castro</dc:creator>
-                <dc:date>2024-04-09T09:37:27+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Putin, a leste, e Trump, a oeste, dizem-nos o que já sabíamos, mas queríamos que não se visse: “A Europa vai nua.” Temos de nos vestir – e depressa!
-					
-                   ]]>
-                </content:encoded>
-                <guid>812325</guid>
            </item>
     </channel>
 
