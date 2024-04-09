@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T19:49:00+01:00</dc:date>
+        <dc:date>2024-04-09T21:16:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Explosão em central hidroelétrica em Bolonha faz vários mortos e feridos  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812362/explosao-em-central-hidroeletrica-em-bolonha-faz-varios-mortos-e-feridos-?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+As autoridades suspeitam que o fogo terá tido início pelas 15h00, num gerador localizado abaixo do nível da água.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-09T21:16:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ | As autoridades suspeitam que o fogo terá tido início pelas 15h00, num gerador localizado abaixo do nível da água.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812362</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865221.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Ministério da Saúde admite avaliar primeiros resultados das ULS ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812361/ministerio-da-sa-de-admite-avaliar-primeiros-resultados-das-uls?seccao=Portugal_i</link>
@@ -414,35 +435,6 @@ Espinho, Acidente,  | Acidente ocorreu perto de uma escola.
                 </content:encoded>
                 <guid>812342</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865200.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Sismo abala largo da Indonésia ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812341/sismo-abala-largo-da-indonesia?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Não há registo de feridos ou danos materiais.
-
- 
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-04-09T12:51:48+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Moçambique, Naufragio,  | Não há registo de feridos ou danos materiais.
-
- 
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812341</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865199.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
