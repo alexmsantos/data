@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T12:51:48+01:00</dc:date>
+        <dc:date>2024-04-09T13:09:09+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Acidente em Espinho deixa quatro crianças feridas ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812342/acidente-em-espinho-deixa-quatro-criancas-feridas?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Acidente ocorreu perto de uma escola.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-09T13:09:09+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Espinho, Acidente,  | Acidente ocorreu perto de uma escola.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812342</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865200.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Sismo abala largo da Indonésia ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812341/sismo-abala-largo-da-indonesia?seccao=Mundo_i</link>
@@ -411,27 +432,6 @@ Opinião,  | Na altura ninguém imaginava o escândalo de suspeita de corrupçã
                    ]]>
                 </content:encoded>
                 <guid>812321</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Liverpool não caminha sozinho na Premier League ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812320/liverpool-nao-caminha-sozinho-na-premier-league?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-Os números não enganam. A Premier League é a competição mais disputada na Europa, com três clubes separados por um ponto! Nos outros campeonatos, as distâncias do líder para os rivais são de calendário, exceto em Portugal.
-				]]>
-                
-                </description>
-                <dc:creator>Jo&#227;o Sena, </dc:creator>
-                <dc:date>2024-04-09T08:01:40+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Futebol, Premier league,  | Os números não enganam. A Premier League é a competição mais disputada na Europa, com três clubes separados por um ponto! Nos outros campeonatos, as distâncias do líder para os rivais são de calendário, exceto em Portugal.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812320</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865184.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
