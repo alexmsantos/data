@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-09T09:20:31+01:00</dc:date>
+        <dc:date>2024-04-09T09:24:27+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Um governo com o pé que estava mais à mão ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812322/um-governo-com-o-pe-que-estava-mais-a-mao?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Não será de estranhar que, em função da exiguidade da vitória eleitoral e da evidente fragilidade da consistência da estabilidade política, o governo tenha sido constituído com os que estavam mais à mão de semear.
+				]]>
+                
+                </description>
+                <dc:creator>Ant&#243;nio Galamba</dc:creator>
+                <dc:date>2024-04-09T09:24:27+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Não será de estranhar que, em função da exiguidade da vitória eleitoral e da evidente fragilidade da consistência da estabilidade política, o governo tenha sido constituído com os que estavam mais à mão de semear.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812322</guid>
+           </item>
             <item>
                <title><![CDATA[ A primeira tentação de Montenegro ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812321/a-primeira-tentacao-de-montenegro?seccao=Opiniao_i</link>
@@ -416,27 +435,6 @@ Israel, Hamas, Palestina,  | Mulher ficou ferida.
                 </content:encoded>
                 <guid>812304</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865169.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ PJ detém funcionário de companhia aérea que retirava droga do Aeroporto de Lisboa ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812301/pj-detem-funcionario-de-companhia-aerea-que-retirava-droga-do-aeroporto-de-lisboa?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Apreendidas 150 mil doses de cocaína, provenientes de um voo da América do Sul.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-08T13:06:28+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Aeroporto de Lisboa, Droga, PJ,  | Apreendidas 150 mil doses de cocaína, provenientes de um voo da América do Sul.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812301</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/8/865166.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
