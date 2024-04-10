@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-10T09:50:01+01:00</dc:date>
+        <dc:date>2024-04-10T09:53:09+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Greve de cinco dias dos enfermeiros em todo o país ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812369/greve-de-cinco-dias-dos-enfermeiros-em-todo-o-pais?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+A paralisação abrange as instituições dos serviços públicos e as dos setores social e privado do continente e das regiões autónomas dos Açores e Madeira e divide-se por regiões consoante os dias.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-10T09:53:09+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Enfermeiros, Greve,  | A paralisação abrange as instituições dos serviços públicos e as dos setores social e privado do continente e das regiões autónomas dos Açores e Madeira e divide-se por regiões consoante os dias.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812369</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/10/865227.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Microsoft investe no Japão em Inteligência Artificial ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812368/microsoft-investe-no-japao-em-intelig-ncia-artificial?seccao=Dinheiro_i</link>
@@ -410,27 +431,6 @@ EUA, Armas, Irão, Ucrânia,  | Os carregamentos de armas foram apreendidos depo
                 </content:encoded>
                 <guid>812349</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865206.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Suspeito de tentativa de homicídio em Beja detido pela PJ ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812347/suspeito-de-tentativa-de-homicidio-em-beja-detido-pela-pj?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O homem, de 29 anos, “atentou contra a vida” de outro, de 27, com recurso a arma branca, na sequência de um desentendimento ocorrido junto de um estabelecimento de diversão noturna
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-09T15:01:35+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-PJ, Beja,  | O homem, de 29 anos, “atentou contra a vida” de outro, de 27, com recurso a arma branca, na sequência de um desentendimento ocorrido junto de um estabelecimento de diversão noturna
-					
-                   ]]>
-                </content:encoded>
-                <guid>812347</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865205.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
