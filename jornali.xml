@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-10T15:40:51+01:00</dc:date>
+        <dc:date>2024-04-10T16:08:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Mercedes regista queda nas vendas de automóveis ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812378/mercedes-regista-queda-nas-vendas-de-automoveis?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+As vendas no segmento de carros desceram 8%, para 463.000 unidades, enquanto a transação de carrinhas aumentou 7%, para 105.400.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-10T16:08:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ | As vendas no segmento de carros desceram 8%, para 463.000 unidades, enquanto a transação de carrinhas aumentou 7%, para 105.400.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812378</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/10/865237.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Área ardida na UE em 2023 é duas vezes maior do que o Luxemburgo ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812379/area-ardida-na-ue-em-2023-e-duas-vezes-maior-do-que-o-luxemburgo?seccao=Mundo_i</link>
@@ -419,27 +440,6 @@ Naufrágio, Tróia, Procuradoria-Geral da República,  | O incidente fez duas v�
                 <guid>812359</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865218.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ MP arquivou 13 das 20 denúncias de abusos sexuais apresentadas pelo Grupo Vita ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812358/mp-arquivou-13-das-20-den-ncias-de-abusos-sexuais-apresentadas-pelo-grupo-vita?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Procuradoria-Geral da República (PGR) informa que duas denúncias “chegaram muito recentemente e serão, agora, remetidas às competentes estruturas” do MP.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-04-09T17:45:40+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Abusos sexuais, Grupo Vita, MP,  | Procuradoria-Geral da República (PGR) informa que duas denúncias “chegaram muito recentemente e serão, agora, remetidas às competentes estruturas” do MP.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812358</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/9/865217.png?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
