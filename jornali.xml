@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-11T19:24:00+01:00</dc:date>
+        <dc:date>2024-04-11T20:30:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Green Lawfare ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812423/green-lawfare?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Algum activismo ambiental sempre apostou na espectacularidade, no hapenning facilmente fotografável, capaz de comunicar de forma eficaz e, via redes sociais, instantânea.
+				]]>
+                
+                </description>
+                <dc:creator>M&#225;rio Jo&#227;o Fernandes</dc:creator>
+                <dc:date>2024-04-11T20:30:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Algum activismo ambiental sempre apostou na espectacularidade, no hapenning facilmente fotografável, capaz de comunicar de forma eficaz e, via redes sociais, instantânea.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812423</guid>
+           </item>
             <item>
                <title><![CDATA[ Futebol. Federação Turca multa Fenerbahçe em 115 mil euros por abandonar final ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812421/futebol-federacao-turca-multa-fenerbahce-em-115-mil-euros-por-abandonar-final?seccao=Portugal_i</link>
@@ -437,25 +456,6 @@ Brasil, Roupa, Investigação, desflorestação | A “Earthsight” revela que 
                 <guid>812401</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/11/865257.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Cidades em 'Re-Modo': A Arte de Redesenhar Urbanismos Pós-Pandémicos ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812400/cidades-em-re-modo-a-arte-de-redesenhar-urbanismos-pos-pandemicos?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Temos de falar sobre o Impacto Social das Transformações Urbanas. As mudanças urbanas tocam todos os segmentos da sociedade, destacando a necessidade de políticas inclusivas que considerem a diversidade de necessidades. É crucial promover uma transição urbana que não apenas respeite o património histórico e cultural, mas também ofereça soluções para os desafios contemporâneos como o teletrabalho e a inclusão social. Isto tem de ser uma base de início para uma reflexão urbana inclusiva.
-				]]>
-                
-                </description>
-                <dc:creator>Carlos Gouveia Martins</dc:creator>
-                <dc:date>2024-04-11T12:23:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Temos de falar sobre o Impacto Social das Transformações Urbanas. As mudanças urbanas tocam todos os segmentos da sociedade, destacando a necessidade de políticas inclusivas que considerem a diversidade de necessidades. É crucial promover uma transição urbana que não apenas respeite o património histórico e cultural, mas também ofereça soluções para os desafios contemporâneos como o teletrabalho e a inclusão social. Isto tem de ser uma base de início para uma reflexão urbana inclusiva.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812400</guid>
            </item>
     </channel>
 
