@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-11T17:08:33+01:00</dc:date>
+        <dc:date>2024-04-11T17:18:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ O.J Simpson morreu  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812415/o-j-simpson-morreu-?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+A antiga estrela de futebol americano tinha 76 anos. Notícia foi avançada pela família.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-11T17:18:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Morte, Obituário, O.J. Simpson,  | A antiga estrela de futebol americano tinha 76 anos. Notícia foi avançada pela família.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812415</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/11/865280.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Aborto. Eurodeputados aprovam decisão de incluir aborto nos direitos fundamentais  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812416/aborto-eurodeputados-aprovam-decisao-de-incluir-aborto-nos-direitos-fundamentais-?seccao=Mundo_i</link>
@@ -434,27 +455,6 @@ Turismo, Portugal, Interior | O turismo no Interior de Portugal tem sido alvo de
                 </content:encoded>
                 <guid>812394</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/11/865253.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Municípios sem sobrecarga não deviam aplicar taxa turística ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812393/municipios-sem-sobrecarga-nao-deviam-aplicar-taxa-turistica?seccao=Dinheiro_i</link>
-                <description>
-                <![CDATA[
-De Norte a Sul do país são muitos os municípios que cobram taxas turísticas e quase todos eles já aumentaram ou querem aumentar esse valor. AHP defende que nem todas as autarquias deviam aplicar essa taxa e que deviam ser aplicadas também por outros agentes económicos.
-				]]>
-                
-                </description>
-                <dc:creator>Daniela Soares Ferreira, </dc:creator>
-                <dc:date>2024-04-11T09:23:39+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Portugal, Turismo, Restauração,  | De Norte a Sul do país são muitos os municípios que cobram taxas turísticas e quase todos eles já aumentaram ou querem aumentar esse valor. AHP defende que nem todas as autarquias deviam aplicar essa taxa e que deviam ser aplicadas também por outros agentes económicos.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812393</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/11/865252.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
