@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-12T13:11:53+01:00</dc:date>
+        <dc:date>2024-04-12T13:17:37+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Incêndio num prédio em Lisboa faz 18 feridos, três deles polícias ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812441/inc-ndio-num-predio-em-lisboa-faz-18-feridos-tr-s-deles-policias?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Chamas começaram no terceiro andar. Todos os feridos foram transportados para o hospital.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-12T13:17:37+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+lisboa, incêndio, bombeiros, polícia,  | Chamas começaram no terceiro andar. Todos os feridos foram transportados para o hospital.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812441</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/12/865305.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Jornalista Sandra Felgueiras perde recurso contra Cofina ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812440/jornalista-sandra-felgueiras-perde-recurso-contra-cofina?seccao=Portugal_i</link>
@@ -409,27 +430,6 @@ Opinião,  | Algum activismo ambiental sempre apostou na espectacularidade, no h
                    ]]>
                 </content:encoded>
                 <guid>812423</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Futebol. Federação Turca multa Fenerbahçe em 115 mil euros por abandonar final ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812421/futebol-federacao-turca-multa-fenerbahce-em-115-mil-euros-por-abandonar-final?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Depois de sofrerem um golo, no primeiro minuto de jogo, os jogadores do clube de Istambul retomaram de imediato ao balneário, obrigando a partida a acabar.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-11T19:24:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Futebol, Fenerbahçe,  | Depois de sofrerem um golo, no primeiro minuto de jogo, os jogadores do clube de Istambul retomaram de imediato ao balneário, obrigando a partida a acabar.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812421</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/11/865286.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
