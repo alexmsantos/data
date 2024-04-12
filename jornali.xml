@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-12T13:17:37+01:00</dc:date>
+        <dc:date>2024-04-12T13:27:04+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Liga dos Campeões: O futebol espetáculo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812442/liga-dos-campeoes-o-futebol-espetaculo?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+Nos quartos de final da liga milionária foram marcados 18 golos em quatro jogos de grande emoção.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-12T13:27:04+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Futebol, Liga dos Campeões,  | Nos quartos de final da liga milionária foram marcados 18 golos em quatro jogos de grande emoção.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812442</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/12/865306.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Incêndio num prédio em Lisboa faz 18 feridos, três deles polícias ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812441/inc-ndio-num-predio-em-lisboa-faz-18-feridos-tr-s-deles-policias?seccao=Portugal_i</link>
@@ -411,25 +432,6 @@ Os mandatários admitem puder levar o caso a Tribunal Europeu.
                 <guid>812422</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/11/865287.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Green Lawfare ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812423/green-lawfare?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Algum activismo ambiental sempre apostou na espectacularidade, no hapenning facilmente fotografável, capaz de comunicar de forma eficaz e, via redes sociais, instantânea.
-				]]>
-                
-                </description>
-                <dc:creator>M&#225;rio Jo&#227;o Fernandes</dc:creator>
-                <dc:date>2024-04-11T20:30:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Algum activismo ambiental sempre apostou na espectacularidade, no hapenning facilmente fotografável, capaz de comunicar de forma eficaz e, via redes sociais, instantânea.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812423</guid>
            </item>
     </channel>
 
