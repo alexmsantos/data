@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-13T20:47:10+01:00</dc:date>
+        <dc:date>2024-04-13T21:30:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ 1874: A invenção do impressionismo ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812473/1874-a-invencao-do-impressionismo?seccao=Mais_i</link>
+                <description>
+                <![CDATA[
+Há precisamente 150 anos, um grupo de pintores malcomportados deu o corpo às balas e fez uma exposição que marcou um ponto de rotura na forma de fazer, mostrar e ver a arte.
+				]]>
+                
+                </description>
+                <dc:creator>Jos&#233; Cabrita Saraiva</dc:creator>
+                <dc:date>2024-04-13T21:30:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Arte, pintura, impressionismo,  | Há precisamente 150 anos, um grupo de pintores malcomportados deu o corpo às balas e fez uma exposição que marcou um ponto de rotura na forma de fazer, mostrar e ver a arte.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812473</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/13/865337.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ FC Porto empata com Famalicão ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812472/fc-porto-empata-com-famalicao?seccao=Desporto_i</link>
@@ -415,27 +436,6 @@ Governo, primeiro-ministro, Luís Montenegro, Aborto, Parlamento Europeu, União
                 <guid>812454</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/12/865318.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Papa planeia reunir-se "todos os que fazem a estrutura da sociedade e o povo" durante visita a Timor Leste ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812452/papa-planeia-reunir-se-todos-os-que-fazem-a-estrutura-da-sociedade-e-o-povo-durante-visita-a-timor-leste?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-O líder da Igreja Católica estará no país nos dias 09, 10 e 11 de setembro. 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-12T18:32:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Timor-Leste, Papa Francisco,  | O líder da Igreja Católica estará no país nos dias 09, 10 e 11 de setembro. 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812452</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/12/865316.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
