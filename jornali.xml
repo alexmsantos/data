@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-12T22:07:00+01:00</dc:date>
+        <dc:date>2024-04-13T11:20:23+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Sydney. Pelo menos cinco mortos em ataque num centro comercial ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812458/sydney-pelo-menos-cinco-mortos-em-ataque-num-centro-comercial?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Entre os feridos graves estão uma mãe e um bebé.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-13T11:20:23+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Ataque, Austrália, Esfaqueamento, sydney,  | Entre os feridos graves estão uma mãe e um bebé.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812458</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/13/865322.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Morreu o estilista italiano Roberto Cavalli ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812457/morreu-o-estilista-italiano-roberto-cavalli?seccao=Mundo_i</link>
@@ -410,27 +431,6 @@ Parlamento Europeu, Bélgica, Rússia, Desinformação, Corrupção,  | O chefe 
                 </content:encoded>
                 <guid>812439</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/12/865303.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ PJ detém oito suspeitos de raptar duas crianças e agredir avó que tinha guarda das menores ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812438/pj-detem-oito-suspeitos-de-raptar-duas-criancas-e-agredir-avo-que-tinha-guarda-das-menores?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Avó das crianças foi agredida e raparam-lhe o cabelo.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-12T12:27:52+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Detidos, Gondomar, PJ, Rapto,  | Avó das crianças foi agredida e raparam-lhe o cabelo.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812438</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/12/865302.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
