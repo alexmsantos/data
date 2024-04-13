@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-13T14:04:09+01:00</dc:date>
+        <dc:date>2024-04-13T15:00:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Vítor Bandeira. As aventuras de um português curioso ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812466/vitor-bandeira-as-aventuras-de-um-portugu-s-curioso?seccao=Mais_i</link>
+                <description>
+                <![CDATA[
+1931-2024  Trapezista, antiquário, viajante.
+				]]>
+                
+                </description>
+                <dc:creator>Jos&#233; Cabrita Saraiva</dc:creator>
+                <dc:date>2024-04-13T15:00:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+óbito, vítor bandeira,  | 1931-2024  Trapezista, antiquário, viajante.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812466</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/13/865330.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Miguel Silva</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Católicos contra acusações de 'radicalismo de direita' ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812465/catolicos-contra-acusacoes-de-radicalismo-de-direita?seccao=Portugal_i</link>
@@ -411,27 +432,6 @@ IVA Zero, Banco de Portugal, Alimentos,  | Vários países, incluindo Portugal, 
                 <guid>812447</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/12/865311.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Legionella detetada em pavilhão escolar em Reguengos de Monsaraz ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812445/legionella-detetada-em-pavilhao-escolar-em-reguengos-de-monsaraz?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-A bactéria foi detetada quinta-feira depois de análises à água dos balneários.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-12T15:54:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Évora, Reguengos de Monsaraz, Saúde, Legionella, escolas,  | A bactéria foi detetada quinta-feira depois de análises à água dos balneários.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812445</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/12/865309.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
