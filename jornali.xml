@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-14T13:32:46+01:00</dc:date>
+        <dc:date>2024-04-14T15:18:34+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Sismo de 3,6 sentido na Terceira ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812483/sismo-de-3-6-sentido-na-terceira?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Abalo foi registado pelas 13h00 locais (14h00, em Lisboa).
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-04-14T15:18:34+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Sismo, Ilha Terceira,  | Abalo foi registado pelas 13h00 locais (14h00, em Lisboa).
+					
+                   ]]>
+                </content:encoded>
+                <guid>812483</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/14/865346.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Oito em cada dez portugueses são a favor da União Europeia ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812482/oito-em-cada-dez-portugueses-sao-a-favor-da-uniao-europeia?seccao=Mundo_i</link>
@@ -426,27 +447,6 @@ cargueiro, Estreito de Ormuz, Irão, Israel, Médio Oriente, MSC Aries, video, m
                 </content:encoded>
                 <guid>812464</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/13/865328.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Encontrado cadáver de idosa que não era vista há três meses ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812462/encontrado-cadaver-de-idosa-que-nao-era-vista-ha-tr-s-meses?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Corpo foi encontrado em avançado estado de decomposição.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-13T12:09:42+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Cadáver, Corpo, moita,  | Corpo foi encontrado em avançado estado de decomposição.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812462</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/13/865326.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
