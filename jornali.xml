@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-16T10:10:00+01:00</dc:date>
+        <dc:date>2024-04-16T10:12:45+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Os atrasos do PPR e a crise na Habitação ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812521/os-atrasos-do-ppr-e-a-crise-na-habitacao?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Uma herança pesada para o novo governo.
+				]]>
+                
+                </description>
+                <dc:creator>&#193;lvaro Santos</dc:creator>
+                <dc:date>2024-04-16T10:12:45+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Uma herança pesada para o novo governo.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812521</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/16/865379.jpeg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Funcionários da Cimpor iniciam greve de quatro dias ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812515/funcionarios-da-cimpor-iniciam-greve-de-quatro-dias?seccao=Dinheiro_i</link>
@@ -410,27 +431,6 @@ Lisboa,  | Trinta e cinco dos 47 portugueses que decidiram deixar o Irão já pa
                 </content:encoded>
                 <guid>812502</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/15/865366.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Automóvel. Produção em Portugal aumenta 4,7% até março  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812501/automovel-producao-em-portugal-aumenta-4-7-ate-marco-?seccao=Dinheiro_i</link>
-                <description>
-                <![CDATA[
-A ACAP apontou que o estrangeiro foi o principal destino dos veículos automóveis fabricados nos primeiros três meses de 2024 em Portugal
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-15T17:31:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Portugal, Automóvel, Produção, ACAP | A ACAP apontou que o estrangeiro foi o principal destino dos veículos automóveis fabricados nos primeiros três meses de 2024 em Portugal
-					
-                   ]]>
-                </content:encoded>
-                <guid>812501</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/15/865365.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
