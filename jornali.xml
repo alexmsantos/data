@@ -6,7 +6,7 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-16T11:23:00+01:00</dc:date>
+        <dc:date>2024-04-16T11:29:34+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
@@ -14,8 +14,29 @@
             <link>https://ionline.sapo.pt</link>
         </image>
             <item>
-               <title><![CDATA[ Bola de Valores da Dinamarca está a arder ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812522/bola-de-valores-da-dinamarca-esta-a-arder?seccao=Mundo_i</link>
+               <title><![CDATA[ Açores. registado sismo de 2,4 na escala de Richter na ilha Terceira ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812523/acores-registado-sismo-de-2-4-na-escala-de-richter-na-ilha-terceira?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Epicentro localizado a cerca de quatro quilómetros a sul-sudoeste de Altares.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-16T11:29:34+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Açores, Ilha Terceira, Sismo,  | Epicentro localizado a cerca de quatro quilómetros a sul-sudoeste de Altares.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812523</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/16/865381.png?type=artigo">
+                                                            </media:content>
+           </item>
+            <item>
+               <title><![CDATA[ Bolsa de Valores da Dinamarca está a arder ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812522/bolsa-de-valores-da-dinamarca-esta-a-arder?seccao=Mundo_i</link>
                 <description>
                 <![CDATA[
 O edifício foi construído no séc XVII.
@@ -406,27 +427,6 @@ PSP, Viaturas, furtos,  | Numa nota enviada às redações, esta segunda-feira, 
                 </content:encoded>
                 <guid>812504</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/15/865368.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Programa de Estabilidade. Excedente de 0,3% e economia a crescer 1,5%  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812503/programa-de-estabilidade-excedente-de-0-3-e-economia-a-crescer-1-5-?seccao=Dinheiro_i</link>
-                <description>
-                <![CDATA[
-Conselho das Finanças Públicas (CFP)  diz ter deliberado que “não é suscetível de parecer para efeitos de endosso, por se basear num cenário em políticas invariantes”.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-15T19:13:25+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | Conselho das Finanças Públicas (CFP)  diz ter deliberado que “não é suscetível de parecer para efeitos de endosso, por se basear num cenário em políticas invariantes”.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812503</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/15/865367.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
