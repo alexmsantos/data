@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-16T16:00:31+01:00</dc:date>
+        <dc:date>2024-04-16T16:22:45+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ FMI revê em alta crescimento da economia para 1,7% em 2024 ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812537/fmi-rev-em-alta-crescimento-da-economia-para-1-7-em-2024?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+E cortou a taxa de inflação para 2,2%.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-16T16:22:45+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ | E cortou a taxa de inflação para 2,2%.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812537</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/16/865395.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ AHP questiona aumento da taxa turística de Lisboa de 2 para 4 euros ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812536/ahp-questiona-aumento-da-taxa-turistica-de-lisboa-de-2-para-4-euros?seccao=Dinheiro_i</link>
@@ -413,25 +434,6 @@ Opinião,  | Não é impeditivo de se ser jovem, não alinhar, alegre e despreoc
                    ]]>
                 </content:encoded>
                 <guid>812519</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Língua envergonhada ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812518/lingua-envergonhada?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-As grandes empresas, aplicações e sites oferecem na sua grande maioria conteúdos dobrados para português do Brasil e não conforme a nossa utilização, sobretudo porque o público deles é muito mais vasto e abrangente.
-				]]>
-                
-                </description>
-                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
-                <dc:date>2024-04-16T09:57:27+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | As grandes empresas, aplicações e sites oferecem na sua grande maioria conteúdos dobrados para português do Brasil e não conforme a nossa utilização, sobretudo porque o público deles é muito mais vasto e abrangente.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812518</guid>
            </item>
     </channel>
 
