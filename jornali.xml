@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-18T10:23:15+01:00</dc:date>
+        <dc:date>2024-04-18T10:26:21+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ A morada da corrupção ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812591/a-morada-da-corrupcao?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+A corrupção mora nas relações, nas delegações e nos abusos possíveis, bem como na insuficiência de mecanismos que possam inibir a sua ocorrência: a capacidade de detecção, de prevenção e de repressão
+				]]>
+                
+                </description>
+                <dc:creator>Marcus Vinicius de Azevedo Braga</dc:creator>
+                <dc:date>2024-04-18T10:26:21+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião, Crónica do Observatório da Fraude | A corrupção mora nas relações, nas delegações e nos abusos possíveis, bem como na insuficiência de mecanismos que possam inibir a sua ocorrência: a capacidade de detecção, de prevenção e de repressão
+					
+                   ]]>
+                </content:encoded>
+                <guid>812591</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/18/865449.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ PME: o que não as derruba, fortalece ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812590/pme-o-que-nao-as-derruba-fortalece?seccao=Opiniao_i</link>
@@ -434,27 +455,6 @@ António Costa, Diogo Lacerda Machado, medidas de coação, Ministério Público
                 </content:encoded>
                 <guid>812572</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/17/865429.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Desmantelada em Portugal e Espanha rede de narcotráfico e branqueamento ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812571/desmantelada-em-portugal-e-espanha-rede-de-narcotrafico-e-branqueamento?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-A ‘Operação Montana’ resultou na apreensão de 156 mil euros em dinheiro, barras de ouro avaliadas em 35 mil euros, 50 veículos, jóias e relógios de luxo, e no bloqueio de mais de 100 contas bancárias e 10 imóveis com valor superior a três milhões de euros.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-17T14:54:35+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Portugal, Espanha, Polícia Judiciária, tráfico de droga, branqueamento de capitais,  | A ‘Operação Montana’ resultou na apreensão de 156 mil euros em dinheiro, barras de ouro avaliadas em 35 mil euros, 50 veículos, jóias e relógios de luxo, e no bloqueio de mais de 100 contas bancárias e 10 imóveis com valor superior a três milhões de euros.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812571</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/17/865428.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
