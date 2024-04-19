@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-19T09:20:00+01:00</dc:date>
+        <dc:date>2024-04-19T09:45:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Drones abatidos perto de instalações nucleares no Irão ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812622/drones-abatidos-perto-de-instalacoes-nucleares-no-irao?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+O ataque aconteceu durante a madruga e ainda não foi reivindicado. 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-19T09:45:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+ | O ataque aconteceu durante a madruga e ainda não foi reivindicado. 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812622</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/19/865476.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Montenegro exige mais coordenação entre Sarmento, Amaro e Soares  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812621/montenegro-exige-mais-coordenacao-entre-sarmento-amaro-e-soares-?seccao=Portugal_i</link>
@@ -437,27 +458,6 @@ FMI, Economia, Mundial,  | Krisalina Georgieva alertou: "Num mundo em que as cri
                 <guid>812599</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/18/865456.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Turismo. Afeganistão é país-surpresa  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812598/turismo-afeganistao-e-pais-surpresa-?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-O turismo no Afeganistão tem um potencial significativo devido à sua rica História, paisagens deslumbrantes e cultura diversificada. No entanto, devido à instabilidade política e aos conflitos, o setor do turismo tem sido severamente prejudicado ao longo das décadas. Contudo, agora, o regime talibã diz que chegam cada vez mais turistas ao país
-				]]>
-                
-                </description>
-                <dc:creator>Maria Moreira Rato, </dc:creator>
-                <dc:date>2024-04-18T14:49:43+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Afeganistão, Turismo,  | O turismo no Afeganistão tem um potencial significativo devido à sua rica História, paisagens deslumbrantes e cultura diversificada. No entanto, devido à instabilidade política e aos conflitos, o setor do turismo tem sido severamente prejudicado ao longo das décadas. Contudo, agora, o regime talibã diz que chegam cada vez mais turistas ao país
-					
-                   ]]>
-                </content:encoded>
-                <guid>812598</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/18/865455.png?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
