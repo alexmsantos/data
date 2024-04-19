@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-19T09:45:00+01:00</dc:date>
+        <dc:date>2024-04-19T10:35:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Presidente do Parlamento Europeu em Lisboa em visita oficial ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812623/presidente-do-parlamento-europeu-em-lisboa-em-visita-oficial?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Roberta Metsola está em Lisboa para apelar ao voto nas eleições europeias.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-19T10:35:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+PSD, Luís Montenegro, Roberta Metsola, Lisboa,  | Roberta Metsola está em Lisboa para apelar ao voto nas eleições europeias.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812623</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/19/865477.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Drones abatidos perto de instalações nucleares no Irão ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812622/drones-abatidos-perto-de-instalacoes-nucleares-no-irao?seccao=Mundo_i</link>
@@ -437,27 +458,6 @@ Opinião,  | A liberdade de opinião é um valor estimável mas nenhum de nós a
                    ]]>
                 </content:encoded>
                 <guid>812600</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Diretora-geral do FMI deixa alertas para economia mundial ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812599/diretora-geral-do-fmi-deixa-alertas-para-economia-mundial?seccao=Dinheiro_i</link>
-                <description>
-                <![CDATA[
-Krisalina Georgieva alertou: "Num mundo em que as crises não param de surgir, os países precisam urgentemente de desenvolver a sua capacidade de resistência à crise".
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-18T15:50:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-FMI, Economia, Mundial,  | Krisalina Georgieva alertou: "Num mundo em que as crises não param de surgir, os países precisam urgentemente de desenvolver a sua capacidade de resistência à crise".
-					
-                   ]]>
-                </content:encoded>
-                <guid>812599</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/18/865456.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
