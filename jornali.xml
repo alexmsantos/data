@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-21T14:35:13+01:00</dc:date>
+        <dc:date>2024-04-21T14:42:31+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ ‘Só quero sair desta tenda’ ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812660/-so-quero-sair-desta-tenda-?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Chegam a Portugal e aquilo que encontram não é o que lhes pintaram. Não têm documentos, vivem na rua e estão à mercê da ajuda das pessoas. Querem uma casa, seja ela onde for, mas os ativistas parecem querer interferir em demasia
+				]]>
+                
+                </description>
+                <dc:creator>Sara Porto, </dc:creator>
+                <dc:date>2024-04-21T14:42:31+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+sem-abrigo, Lisboa,  | Chegam a Portugal e aquilo que encontram não é o que lhes pintaram. Não têm documentos, vivem na rua e estão à mercê da ajuda das pessoas. Querem uma casa, seja ela onde for, mas os ativistas parecem querer interferir em demasia
+					
+                   ]]>
+                </content:encoded>
+                <guid>812660</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/21/865516.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Morreu Pedro Cruz, jornalista e antigo diretor da TSF ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812659/morreu-pedro-cruz-jornalista-e-antigo-diretor-da-tsf?seccao=Portugal_i</link>
@@ -410,31 +431,6 @@ CP, Linha do Norte, Comboio, Atropelamento, vítima,  | Ainda não há previsão
                 </content:encoded>
                 <guid>812642</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/20/865495.jpg?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Lisboa. Padre Mário Rui aponta dedo a Comissão Diocesana ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812639/lisboa-padre-mario-rui-aponta-dedo-a-comissao-diocesana?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Pároco de S. Nicolau culpa Comissão Diocesana pelo processo ‘calunioso’ a que foi sujeito.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>In&#234;s Teot&#243;nio Pereira</dc:creator>
-                <dc:date>2024-04-19T22:15:32+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-igreja, lisboa, padre Mário Rui,  | Pároco de S. Nicolau culpa Comissão Diocesana pelo processo ‘calunioso’ a que foi sujeito.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812639</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/19/865493.jpg?type=artigo">
                                                             </media:content>
            </item>
     </channel>
