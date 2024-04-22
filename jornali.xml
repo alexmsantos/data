@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-22T23:09:46+01:00</dc:date>
+        <dc:date>2024-04-22T23:12:28+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Benfica mantém distância para o Sporting ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812696/benfica-mantem-dist-ncia-para-o-sporting?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+Com esta vitória, o Benfica soma 73 pontos, e continua no segundo lugar, a sete do Sporting
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-22T23:12:28+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Benfica, Liga Portuguesa de Futebol Profissional,  | Com esta vitória, o Benfica soma 73 pontos, e continua no segundo lugar, a sete do Sporting
+					
+                   ]]>
+                </content:encoded>
+                <guid>812696</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865554.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Inter de Milão sagra-se campeão italiano  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812695/inter-de-milao-sagra-se-campeao-italiano-?seccao=Desporto_i</link>
@@ -427,27 +448,6 @@ Bombeiros, Incêndio, Seixal,  | Uma das vítimas tem 93 anos.
                 <guid>812676</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865535.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Beijo a Jenni Hermoso vai mesmo levar Rubiales a julgamento ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812675/beijo-a-jenni-hermoso-vai-mesmo-levar-rubiales-a-julgamento?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-Tribunal rejeitou recurso do antigo dirigente Federação Espanhola de Futebol.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-22T12:21:30+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Espanha, Jenni Hermoso, Julgamento, Luis Rubiales,  | Tribunal rejeitou recurso do antigo dirigente Federação Espanhola de Futebol.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812675</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865534.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
