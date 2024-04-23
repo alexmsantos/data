@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T16:15:51+01:00</dc:date>
+        <dc:date>2024-04-23T16:19:10+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Novo pacote de ajuda militar do Reino Unido à Ucrânia ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812723/novo-pacote-de-ajuda-militar-do-reino-unido-a-ucr-nia?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Presidente ucraniano também discutiu com o primeiro-ministro britânico “a necessidade de criar um mecanismo para a apreensão de ativos russos” no Reino Unido.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-23T16:19:10+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Ucrânia, Reino Unido, Guerra, Rússia, EUA,  | Presidente ucraniano também discutiu com o primeiro-ministro britânico “a necessidade de criar um mecanismo para a apreensão de ativos russos” no Reino Unido.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812723</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865576.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Cairo. 48 horas numa cidade fora de controlo (parte II) ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812722/cairo-48-horas-numa-cidade-fora-de-controlo-parte-ii-?seccao=vida_i</link>
@@ -429,27 +450,6 @@ Opinião,  | Independentemente do contexto associado ou da cor política, do que
                    ]]>
                 </content:encoded>
                 <guid>812703</guid>
-           </item>
-            <item>
-               <title><![CDATA[ Dança das Cadeiras ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812702/danca-das-cadeiras?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Ao longo dos últimos 50 anos a democracia em Portugal foi sofrendo várias evoluções que tiveram sempre por objetivo contribuir para uma maior transparência e responsabilidade no exercício dos cargos eleitos. A desconfiança crescente promove o aparecimento dos fenómenos radicais de soluções radicais e aparentemente milagrosas.
-				]]>
-                
-                </description>
-                <dc:creator>Eduardo Baptista Correia</dc:creator>
-                <dc:date>2024-04-23T08:51:03+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Ao longo dos últimos 50 anos a democracia em Portugal foi sofrendo várias evoluções que tiveram sempre por objetivo contribuir para uma maior transparência e responsabilidade no exercício dos cargos eleitos. A desconfiança crescente promove o aparecimento dos fenómenos radicais de soluções radicais e aparentemente milagrosas.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812702</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865558.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
