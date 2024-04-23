@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T08:45:41+01:00</dc:date>
+        <dc:date>2024-04-23T08:51:03+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Dança das Cadeiras ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812702/danca-das-cadeiras?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Ao longo dos últimos 50 anos a democracia em Portugal foi sofrendo várias evoluções que tiveram sempre por objetivo contribuir para uma maior transparência e responsabilidade no exercício dos cargos eleitos. A desconfiança crescente promove o aparecimento dos fenómenos radicais de soluções radicais e aparentemente milagrosas.
+				]]>
+                
+                </description>
+                <dc:creator>Eduardo Baptista Correia</dc:creator>
+                <dc:date>2024-04-23T08:51:03+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Ao longo dos últimos 50 anos a democracia em Portugal foi sofrendo várias evoluções que tiveram sempre por objetivo contribuir para uma maior transparência e responsabilidade no exercício dos cargos eleitos. A desconfiança crescente promove o aparecimento dos fenómenos radicais de soluções radicais e aparentemente milagrosas.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812702</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865558.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ 50 anos e tanta coisa por fazer  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812701/50-anos-e-tanta-coisa-por-fazer-?seccao=Opiniao_i</link>
@@ -415,27 +436,6 @@ Israel, Hamas, Gaza, Guerra,  | “Com a autoridade vem uma grande responsabilid
                 <guid>812681</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865541.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Médio Oriente. O que esperar? ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812680/medio-oriente-o-que-esperar-?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-O forte ataque lançado contra Israel pelo Irão não foi bem-sucedido. Temeu-se o pior, mas os israelitas conseguiram intercetar 99% dos ataques. Netanyahu pode reagir, mais uma vez contra a vontade dos EUA, e um conflito em grande escala é possível, mas não provável.
-				]]>
-                
-                </description>
-                <dc:creator>Gon&#231;alo Nabeiro</dc:creator>
-                <dc:date>2024-04-22T15:42:22+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Faixa de Gaza, Hamas, Hezbollah, Irão, Iraque, Israel, Líbano, Médio Oriente, Síria, | O forte ataque lançado contra Israel pelo Irão não foi bem-sucedido. Temeu-se o pior, mas os israelitas conseguiram intercetar 99% dos ataques. Netanyahu pode reagir, mais uma vez contra a vontade dos EUA, e um conflito em grande escala é possível, mas não provável.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812680</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865539.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
