@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T08:37:44+01:00</dc:date>
+        <dc:date>2024-04-23T08:45:41+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ 50 anos e tanta coisa por fazer  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812701/50-anos-e-tanta-coisa-por-fazer-?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+O balanço da madrugada que tanto exaltamos não é propriamente glorioso, apesar dos milhares de milhões de ajudas que já recebemos.
+				]]>
+                
+                </description>
+                <dc:creator>Eduardo Oliveira e Silva </dc:creator>
+                <dc:date>2024-04-23T08:45:41+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | O balanço da madrugada que tanto exaltamos não é propriamente glorioso, apesar dos milhares de milhões de ajudas que já recebemos.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812701</guid>
+           </item>
             <item>
                <title><![CDATA[ A "magia" da eletrotecnia ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812700/a-magia-da-eletrotecnia?seccao=Opiniao_i</link>
@@ -417,27 +436,6 @@ Faixa de Gaza, Hamas, Hezbollah, Irão, Iraque, Israel, Líbano, Médio Oriente,
                 <guid>812680</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865539.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Certificados de Aforro. Investimento volta a cair em março ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812682/certificados-de-aforro-investimento-volta-a-cair-em-marco?seccao=Dinheiro_i</link>
-                <description>
-                <![CDATA[
-O investimento neste produto de poupança foi de 33 995 milhões de euros, de acordo com os dados do Banco de Portugal (BdP). No mês anterior tinha rondado os 34.016 milhões de euros. 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-22T15:41:33+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
- | O investimento neste produto de poupança foi de 33 995 milhões de euros, de acordo com os dados do Banco de Portugal (BdP). No mês anterior tinha rondado os 34.016 milhões de euros. 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812682</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865540.jpg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
