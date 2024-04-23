@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T13:19:34+01:00</dc:date>
+        <dc:date>2024-04-23T13:26:20+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ As vozes de abril. Os artistas que o regime queria calar ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812717/as-vozes-de-abril-os-artistas-que-o-regime-queria-calar?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Em Portugal, as músicas foram senhas. Durante o Estado Novo o país abriu-se ao rock, nascendo bandas icónicas como Os Sheiks e o Quarteto 1111. Fernando Tordo recorda o ambiente da época e como foi ser artista nessa altura.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Sara Porto</dc:creator>
+                <dc:date>2024-04-23T13:26:20+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Revolução, 25 de Abril, 50 Anos 25 Abril,  | Em Portugal, as músicas foram senhas. Durante o Estado Novo o país abriu-se ao rock, nascendo bandas icónicas como Os Sheiks e o Quarteto 1111. Fernando Tordo recorda o ambiente da época e como foi ser artista nessa altura.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812717</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865570.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ NBA. A emoção anda no ar ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812716/nba-a-emocao-anda-no-ar?seccao=Desporto_i</link>
@@ -417,27 +442,6 @@ UEFA, Mundial, Futebol,  | Benfica e FC Porto têm lugar garantido, Liverpool, B
                 <guid>812698</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865556.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Antes da Revolução. O prazer estava todo na rua ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812697/antes-da-revolucao-o-prazer-estava-todo-na-rua?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Meninos para um lado, meninas para outro. Era assim a vida nas escolas públicas onde a régua era o maior pesadelo das crianças. Nos transportes públicos fumava-se à vontade.
-				]]>
-                
-                </description>
-                <dc:creator>V&#237;tor Rainho </dc:creator>
-                <dc:date>2024-04-23T08:13:24+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-50 anos 25 Abril | Meninos para um lado, meninas para outro. Era assim a vida nas escolas públicas onde a régua era o maior pesadelo das crianças. Nos transportes públicos fumava-se à vontade.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812697</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865555.png?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: DR</media:credit>                                                              </media:content>
            </item>
     </channel>
 
