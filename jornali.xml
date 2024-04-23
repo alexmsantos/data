@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T15:43:00+01:00</dc:date>
+        <dc:date>2024-04-23T16:15:51+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Cairo. 48 horas numa cidade fora de controlo (parte II) ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812722/cairo-48-horas-numa-cidade-fora-de-controlo-parte-ii-?seccao=vida_i</link>
+                <description>
+                <![CDATA[
+Exploramos as coleções do velho Museu Egípcio, vemos o buraco desolado onde vai nascer o ‘Novo Cairo’ e mergulhamos no caos do trânsito num Fiat fabricado na Polónia há 40 anos. 48 horas na maior cidade de África ainda dão para ver qualquer coisa.
+				]]>
+                
+                </description>
+                <dc:creator>Jos&#233; Cabrita Saraiva</dc:creator>
+                <dc:date>2024-04-23T16:15:51+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Cairo, Egito, viagem,  | Exploramos as coleções do velho Museu Egípcio, vemos o buraco desolado onde vai nascer o ‘Novo Cairo’ e mergulhamos no caos do trânsito num Fiat fabricado na Polónia há 40 anos. 48 horas na maior cidade de África ainda dão para ver qualquer coisa.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812722</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865575.jpg?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Irão. Novas sanções da UE são "lamentáveis"  ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812721/irao-novas-sancoes-da-ue-sao-lamentaveis-?seccao=Mundo_i</link>
@@ -429,25 +450,6 @@ Opinião,  | Ao longo dos últimos 50 anos a democracia em Portugal foi sofrendo
                 <guid>812702</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865558.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ 50 anos e tanta coisa por fazer  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812701/50-anos-e-tanta-coisa-por-fazer-?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-O balanço da madrugada que tanto exaltamos não é propriamente glorioso, apesar dos milhares de milhões de ajudas que já recebemos.
-				]]>
-                
-                </description>
-                <dc:creator>Eduardo Oliveira e Silva </dc:creator>
-                <dc:date>2024-04-23T08:45:41+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | O balanço da madrugada que tanto exaltamos não é propriamente glorioso, apesar dos milhares de milhões de ajudas que já recebemos.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812701</guid>
            </item>
     </channel>
 
