@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T17:00:07+01:00</dc:date>
+        <dc:date>2024-04-23T17:05:08+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Desemprego. Número volta a valores da pandemia   ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812725/desemprego-n-mero-volta-a-valores-da-pandemia-?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+Ofertas de empregos das empresas estão a diminuir.
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-23T17:05:08+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Desemprego, IEFP,  | Ofertas de empregos das empresas estão a diminuir.
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812725</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865578.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Rui Soares</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Colocação da Luz Saúde em bolsa suspensa pela Fidelidade ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812724/colocacao-da-luz-sa-de-em-bolsa-suspensa-pela-fidelidade?seccao=Dinheiro_i</link>
@@ -433,25 +458,6 @@ Ruanda, Reino Unido,  | Plano deverá ser colocado em prática após a ratifica�
                 <guid>812705</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865559.PNG?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Tempos de guerra e as guerras dos nossos tempos nos 50 anos do 25 de Abril  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812704/tempos-de-guerra-e-as-guerras-dos-nossos-tempos-nos-50-anos-do-25-de-abril-?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Nesse espírito guerreiro – deveria dizer antes guerrilheiro – assumem, para o bem e para o mal, papel decisivo os media.
-				]]>
-                
-                </description>
-                <dc:creator>Ant&#243;nio Cluny</dc:creator>
-                <dc:date>2024-04-23T09:02:19+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Nesse espírito guerreiro – deveria dizer antes guerrilheiro – assumem, para o bem e para o mal, papel decisivo os media.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812704</guid>
            </item>
     </channel>
 
