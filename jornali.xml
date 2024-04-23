@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T15:41:11+01:00</dc:date>
+        <dc:date>2024-04-23T15:43:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Irão. Novas sanções da UE são "lamentáveis"  ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812721/irao-novas-sancoes-da-ue-sao-lamentaveis-?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+“É lamentável ver a União Europeia decidir rapidamente aplicar mais restrições ilegais contra o Irão, simplesmente porque este país exerceu o seu direito de autodefesa face à agressão irresponsável de Israel”, afirmou o chefe da diplomacia iraniana, Hossein Amir-Abdollahian.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-04-23T15:43:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Irão, União Europeia, Israel, Guerra,  | “É lamentável ver a União Europeia decidir rapidamente aplicar mais restrições ilegais contra o Irão, simplesmente porque este país exerceu o seu direito de autodefesa face à agressão irresponsável de Israel”, afirmou o chefe da diplomacia iraniana, Hossein Amir-Abdollahian.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812721</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865574.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Diretora-geral da Saúde diz que Portugal tem 20 casos confirmados de sarampo ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812720/diretora-geral-da-sa-de-diz-que-portugal-tem-20-casos-confirmados-de-sarampo?seccao=Portugal_i</link>
@@ -427,27 +448,6 @@ Opinião,  | O balanço da madrugada que tanto exaltamos não é propriamente gl
                    ]]>
                 </content:encoded>
                 <guid>812701</guid>
-           </item>
-            <item>
-               <title><![CDATA[ A "magia" da eletrotecnia ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812700/a-magia-da-eletrotecnia?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Atualmente os desafios da eletrotecnia são outros, mas a “magia” mantém-se viva e o fascínio impele novas ondas de descoberta. A sustentabilidade do planeta requer novas formas de produção, armazenamento e de integração das energias renováveis na rede elétrica. 
-				]]>
-                
-                </description>
-                <dc:creator>Alexandre Bernardino </dc:creator>
-                <dc:date>2024-04-23T08:37:44+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Atualmente os desafios da eletrotecnia são outros, mas a “magia” mantém-se viva e o fascínio impele novas ondas de descoberta. A sustentabilidade do planeta requer novas formas de produção, armazenamento e de integração das energias renováveis na rede elétrica. 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812700</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865557.jpeg?type=artigo">
-                                                            </media:content>
            </item>
     </channel>
 
