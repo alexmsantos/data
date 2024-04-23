@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T08:51:03+01:00</dc:date>
+        <dc:date>2024-04-23T08:56:39+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ O poder da música como mensagem ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812703/o-poder-da-m-sica-como-mensagem?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Independentemente do contexto associado ou da cor política, do que uns defendem ou outros contestam, há uma verdade incontestável, o poder da arte e particularmente da música, como veículo de comunicação, desde sempre.
+				]]>
+                
+                </description>
+                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
+                <dc:date>2024-04-23T08:56:39+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Independentemente do contexto associado ou da cor política, do que uns defendem ou outros contestam, há uma verdade incontestável, o poder da arte e particularmente da música, como veículo de comunicação, desde sempre.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812703</guid>
+           </item>
             <item>
                <title><![CDATA[ Dança das Cadeiras ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812702/danca-das-cadeiras?seccao=Opiniao_i</link>
@@ -410,31 +429,6 @@ A Europa manteve-se o principal mercado emissor de passageiros com o Reino Unido
                 </content:encoded>
                 <guid>812683</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865542.png?type=artigo">
-                                                            </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Israel. Líder da oposição pede demissão de Netanyahu ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812681/israel-lider-da-oposicao-pede-demissao-de-netanyahu?seccao=Mundo_i</link>
-                <description>
-                <![CDATA[
-“Com a autoridade vem uma grande responsabilidade”, escreveu Yair Lapid, através das redes sociais. A sua posição acontece depois de Aharon Haliva, chefe dos serviços secretos militares de Israel, se ter demitido.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i </dc:creator>
-                <dc:date>2024-04-22T15:48:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Israel, Hamas, Gaza, Guerra,  | “Com a autoridade vem uma grande responsabilidade”, escreveu Yair Lapid, através das redes sociais. A sua posição acontece depois de Aharon Haliva, chefe dos serviços secretos militares de Israel, se ter demitido.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812681</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/22/865541.png?type=artigo">
                                                             </media:content>
            </item>
     </channel>
