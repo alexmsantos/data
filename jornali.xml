@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T21:01:08+01:00</dc:date>
+        <dc:date>2024-04-23T21:12:12+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ A história dos filmes censurados ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812734/a-historia-dos-filmes-censurados?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Durante o Estado Novo, o cinema foi utilizado como uma ferramenta de propaganda do regime para promover a sua ideologia e controlar a narrativa pública. A realizadora e investigadora Leonor Areal explica aquilo que está em causa.
+				]]>
+                
+                </description>
+                <dc:creator>Maria Moreira Rato, </dc:creator>
+                <dc:date>2024-04-23T21:12:12+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+25 de Abril, Cinema, Censura, Filmes | Durante o Estado Novo, o cinema foi utilizado como uma ferramenta de propaganda do regime para promover a sua ideologia e controlar a narrativa pública. A realizadora e investigadora Leonor Areal explica aquilo que está em causa.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812734</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865587.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Campeões da liberdade ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812733/campeoes-da-liberdade?seccao=Desporto_i</link>
@@ -439,27 +460,6 @@ Pandemia, covid-19, crianças,  | Estudo analisou famílias de 17 países europe
                 <guid>812714</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865567.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Açores. Ilha Terceira regista mais um sismo ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812713/acores-ilha-terceira-regista-mais-um-sismo?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O abalo insere-se na crise sismovulcânica em curso na ilha Terceira desde junho de 2022.
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-23T12:15:06+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-sismo, açores, ilha terceira, civisa,  | O abalo insere-se na crise sismovulcânica em curso na ilha Terceira desde junho de 2022.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812713</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865566.png?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
            </item>
     </channel>
 
