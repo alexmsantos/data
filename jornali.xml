@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-23T16:19:10+01:00</dc:date>
+        <dc:date>2024-04-23T17:00:07+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Colocação da Luz Saúde em bolsa suspensa pela Fidelidade ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812724/colocacao-da-luz-sa-de-em-bolsa-suspensa-pela-fidelidade?seccao=Dinheiro_i</link>
+                <description>
+                <![CDATA[
+A Luz Saúde opera 29 unidades, incluindo hospitais, clínicas ambulatórias e uma residência sénior
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i, </dc:creator>
+                <dc:date>2024-04-23T17:00:07+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Bolsa, Fidelidade, Luz Saúde | A Luz Saúde opera 29 unidades, incluindo hospitais, clínicas ambulatórias e uma residência sénior
+					
+                   ]]>
+                </content:encoded>
+                <guid>812724</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/23/865577.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Novo pacote de ajuda militar do Reino Unido à Ucrânia ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812723/novo-pacote-de-ajuda-militar-do-reino-unido-a-ucr-nia?seccao=Mundo_i</link>
@@ -431,25 +452,6 @@ Opinião,  | Nesse espírito guerreiro – deveria dizer antes guerrilheiro – 
                    ]]>
                 </content:encoded>
                 <guid>812704</guid>
-           </item>
-            <item>
-               <title><![CDATA[ O poder da música como mensagem ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812703/o-poder-da-m-sica-como-mensagem?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Independentemente do contexto associado ou da cor política, do que uns defendem ou outros contestam, há uma verdade incontestável, o poder da arte e particularmente da música, como veículo de comunicação, desde sempre.
-				]]>
-                
-                </description>
-                <dc:creator>Jos&#233; Paulo do Carmo</dc:creator>
-                <dc:date>2024-04-23T08:56:39+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Independentemente do contexto associado ou da cor política, do que uns defendem ou outros contestam, há uma verdade incontestável, o poder da arte e particularmente da música, como veículo de comunicação, desde sempre.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812703</guid>
            </item>
     </channel>
 
