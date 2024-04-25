@@ -6,13 +6,32 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-25T22:54:41+01:00</dc:date>
+        <dc:date>2024-04-25T22:56:55+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Liberdade ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812784/liberdade?seccao=Opiniao_i</link>
+                <description>
+                <![CDATA[
+Liberdade de preservar a nossa história. Liberdade de moldar o nosso futuro. Liberdade de ser diferentes e únicos. Liberdade de unir forças. Liberdade de estar só.
+				]]>
+                
+                </description>
+                <dc:creator>Carlos Gouveia Martins</dc:creator>
+                <dc:date>2024-04-25T22:56:55+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Opinião,  | Liberdade de preservar a nossa história. Liberdade de moldar o nosso futuro. Liberdade de ser diferentes e únicos. Liberdade de unir forças. Liberdade de estar só.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812784</guid>
+           </item>
             <item>
                <title><![CDATA[ Se a resposta é Bugalho, qual era a pergunta? ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812783/se-a-resposta-e-bugalho-qual-era-a-pergunta-?seccao=Opiniao_i</link>
@@ -409,27 +428,6 @@ O Presidente da República, Marcelo Rebelo de Sousa, atribuiu as insígnias, ao
                 <guid>812765</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/25/865620.png?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Cerimónia militar no Terreiro do Paço já começou  ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812764/cerimonia-militar-no-terreiro-do-paco-ja-comecou-?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-O Presidente da República, Marcelo Rebelo de Sousa, já se encontra no local para acompanhar a cerimónia militar.
-				]]>
-                
-                </description>
-                <dc:creator></dc:creator>
-                <dc:date>2024-04-25T09:53:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-50 anos 25 de Abril, Marcelo Rebelo de Sousa, Presidente da República,  | O Presidente da República, Marcelo Rebelo de Sousa, já se encontra no local para acompanhar a cerimónia militar.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812764</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/25/865619.png?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Bruno Gon&#231;alves</media:credit>                                                              </media:content>
            </item>
     </channel>
 
