@@ -6,13 +6,38 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-26T20:23:38+01:00</dc:date>
+        <dc:date>2024-04-26T20:26:31+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Atropelamento mortal ferroviário na Azambuja ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812806/atropelamento-mortal-ferroviario-na-azambuja?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+Linha está cortada no sentido Norte-Sul
+
+ 
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-26T20:26:31+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Atropelamento, azambuja, Comboio,  | Linha está cortada no sentido Norte-Sul
+
+ 
+					
+                   ]]>
+                </content:encoded>
+                <guid>812806</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/26/865659.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Conheça a combinação vencedora do Euromilhões ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812805/conheca-a-combinacao-vencedora-do-euromilhoes?seccao=Portugal_i</link>
@@ -439,25 +464,6 @@ Opinião,  | <em>A adjetivação de alguém como bufo ou chibo sempre teve uma c
                 <guid>812785</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/25/865638.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Liberdade ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812784/liberdade?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-Liberdade de preservar a nossa história. Liberdade de moldar o nosso futuro. Liberdade de ser diferentes e únicos. Liberdade de unir forças. Liberdade de estar só.
-				]]>
-                
-                </description>
-                <dc:creator>Carlos Gouveia Martins</dc:creator>
-                <dc:date>2024-04-25T22:56:55+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | Liberdade de preservar a nossa história. Liberdade de moldar o nosso futuro. Liberdade de ser diferentes e únicos. Liberdade de unir forças. Liberdade de estar só.
-					
-                   ]]>
-                </content:encoded>
-                <guid>812784</guid>
            </item>
     </channel>
 
