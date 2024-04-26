@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-26T21:14:48+01:00</dc:date>
+        <dc:date>2024-04-26T22:15:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ IPMA. Oito distritos do Norte e Centro sob aviso amarelo por queda de neve ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812809/ipma-oito-distritos-do-norte-e-centro-sob-aviso-amarelo-por-queda-de-neve?seccao=Portugal_i</link>
+                <description>
+                <![CDATA[
+IPMA alerta para previsões de queda de neve acima dos 1.100 metros.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-26T22:15:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Aviso Amarelo, IPMA, Neve,  | IPMA alerta para previsões de queda de neve acima dos 1.100 metros.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812809</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/26/865661.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: Dreamstime</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ Democracia. O que é imperativo mudar ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812808/democracia-o-que-e-imperativo-mudar?seccao=Portugal_i</link>
@@ -441,27 +462,6 @@ EUA, Níger, Rússia, Militares,  | O Governo de Niamey, que resultou de um golp
                 <guid>812788</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/26/865641.jpg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Sporting pode ser campeão no Dragão ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812787/sporting-pode-ser-campeao-no-dragao?seccao=Desporto_i</link>
-                <description>
-                <![CDATA[
-O título nacional pode ficar entregue este fim de semana, mas há mais campeões a caminho. 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i, </dc:creator>
-                <dc:date>2024-04-26T08:29:00+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Sporting, Porto, Campeão,  | O título nacional pode ficar entregue este fim de semana, mas há mais campeões a caminho. 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812787</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/26/865640.jpg?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
            </item>
     </channel>
 
