@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-27T22:48:06+01:00</dc:date>
+        <dc:date>2024-04-27T23:08:20+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ FC Porto tem um novo presidente após 42 anos ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812831/fc-porto-tem-um-novo-presidente-apos-42-anos?seccao=Desporto_i</link>
+                <description>
+                <![CDATA[
+André Villas-Boas terá vencido em todas as mesas de votos.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i</dc:creator>
+                <dc:date>2024-04-27T23:08:20+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+André Villas-Boas, Eleições, FC Porto, Pinto da Costa,  | André Villas-Boas terá vencido em todas as mesas de votos.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812831</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/27/865680.jpg?type=artigo">
+  <media:credit scheme="urn:ebu">Photograph: AFP</media:credit>                                                              </media:content>
+           </item>
             <item>
                <title><![CDATA[ EUA e o futuro ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812830/eua-e-o-futuro?seccao=Mundo_i</link>
@@ -431,29 +452,6 @@ O Instituto Adelino Amaro da Costa desafiou várias personalidades a analisar o 
                 <guid>812808</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/26/865660.jpg?type=artigo">
   <media:credit scheme="urn:ebu">Photograph: Sara Matos</media:credit>                                                              </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Conselho Nacional de Educação ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812807/conselho-nacional-de-educacao?seccao=Opiniao_i</link>
-                <description>
-                <![CDATA[
-É que o maior problema do desenvolvimento, não é só o crescimento, é sobretudo uma questão de Educação, ou melhor, de “inteligência”.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>M&#225;rio Bacelar Begonha</dc:creator>
-                <dc:date>2024-04-26T20:53:50+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-Opinião,  | É que o maior problema do desenvolvimento, não é só o crescimento, é sobretudo uma questão de Educação, ou melhor, de “inteligência”.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812807</guid>
            </item>
     </channel>
 
