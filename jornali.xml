@@ -6,13 +6,34 @@
         <description>Jornal i - Notícias de Portugal e do Mundo. Desporto, Boa Vida, iTv, Opinião e muito mais.</description>
         <language>pt-pt</language>
         
-        <dc:date>2024-04-28T12:53:56+01:00</dc:date>
+        <dc:date>2024-04-28T14:13:00+01:00</dc:date>
         <dc:rights>Jornal i. All rights reserved. 2015</dc:rights>
         <image>
             <title>Jornal i</title>
             <url>https://ionline.sapo.pt/images/Jornal-i-logo.png</url>
             <link>https://ionline.sapo.pt</link>
         </image>
+            <item>
+               <title><![CDATA[ Sismo de magnitude 6,1 atinge Indonésia ]]></title>
+                <link>https://ionline.sapo.pt/artigo/812837/sismo-de-magnitude-6-1-atinge-indonesia?seccao=Mundo_i</link>
+                <description>
+                <![CDATA[
+Mais de 100 habitações foram danificadas.
+				]]>
+                
+                </description>
+                <dc:creator>Jornal i </dc:creator>
+                <dc:date>2024-04-28T14:13:00+01:00</dc:date>
+                <content:encoded>
+                   <![CDATA[
+Indonesia, sismo,  | Mais de 100 habitações foram danificadas.
+					
+                   ]]>
+                </content:encoded>
+                <guid>812837</guid>
+                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/28/865686.png?type=artigo">
+                                                            </media:content>
+           </item>
             <item>
                <title><![CDATA[ Castelo Branco. Pessoa morre carbonizada após despiste de carro ]]></title>
                 <link>https://ionline.sapo.pt/artigo/812836/castelo-branco-pessoa-morre-carbonizada-apos-despiste-de-carro?seccao=Portugal_i</link>
@@ -431,31 +452,6 @@ Opinião,  | Foi com emoção que participei nas comemorações dos 50 anos do 2
                 <guid>812815</guid>
                             <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/27/865667.jpeg?type=artigo">
                                                             </media:content>
-           </item>
-            <item>
-               <title><![CDATA[ Já estão abertas as urnas para as eleições do FC Porto no Estádio do Dragão ]]></title>
-                <link>https://ionline.sapo.pt/artigo/812814/ja-estao-abertas-as-urnas-para-as-eleicoes-do-fc-porto-no-estadio-do-dragao?seccao=Portugal_i</link>
-                <description>
-                <![CDATA[
-Resultados serão conhecidos a partir das 22h00.
-
- 
-				]]>
-                
-                </description>
-                <dc:creator>Jornal i</dc:creator>
-                <dc:date>2024-04-27T11:03:03+01:00</dc:date>
-                <content:encoded>
-                   <![CDATA[
-André Villas-Boas, Eleições, FC Porto, Nuno Lobo, Pinto da Costa,  | Resultados serão conhecidos a partir das 22h00.
-
- 
-					
-                   ]]>
-                </content:encoded>
-                <guid>812814</guid>
-                            <media:content width="760" url="https://cdn1.newsplex.pt/media/2024/4/27/865666.JPG?type=artigo">
-  <media:credit scheme="urn:ebu">Photograph: Instagram fcporto</media:credit>                                                              </media:content>
            </item>
     </channel>
 
