@@ -180,7 +180,43 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 <meta name='msapplication-TileColor' content='#ffffff' />
 <meta name='msapplication-TileImage' content='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/ms-icon-144x144.png' />
 <link rel='manifest' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/manifest.json'
-><script id="wp-load-polyfill-importmap">
+>		<meta name="google-site-verification" content="uarzJO4jJXs8EB4nYl9TSCHO6Z1JIcxS_Jah9ihsPSI" />
+           <script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-46039314-1']);
+			_gaq.push(['_setDomainName', 'ionline.pt']);
+			_gaq.push(['_trackPageview']);
+
+			(function () {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
+			(function (i, s, o, g, r, a, m) {
+				i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+					(i[r].q = i[r].q || []).push(arguments)
+				}, i[r].l = 1 * new Date(); a = s.createElement(o),
+				m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+			})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+			ga('create', 'UA-8711431-1', 'ionline.pt');
+			ga('create', 'UA-34456715-27', 'auto', 'SAPOiOnLine');
+			ga('send', 'pageview');
+			ga('SAPOiOnLine.send', 'pageview');
+		</script>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-7XKCJ5GD1W"></script>
+
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-7XKCJ5GD1W');
+		</script>
+    <script id="wp-load-polyfill-importmap">
 ( HTMLScriptElement.supports && HTMLScriptElement.supports("importmap") ) || document.write( '<script src="https://ionline.sapo.pt/wp-includes/js/dist/vendor/wp-polyfill-importmap.min.js?ver=1.8.2"></scr' + 'ipt>' );
 </script>
 <script type="importmap" id="wp-importmap">
@@ -674,5 +710,5 @@ var advadsCfpInfo = {"cfpExpHours":"3","cfpClickLimit":"3","cfpBan":"7","cfpPath
 <script src="https://ionline.sapo.pt/wp-content/plugins/advanced-ads-pro/assets/js/advanced-ads-pro.min.js?ver=2.22.1" id="advanced-ads-pro/front-js"></script>
 <script src="https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/js/navigation-highlight.js?ver=0.1.64" id="ionline-navigation-highlight-js"></script>
 <script src="https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/js/inmobi.js?ver=0.1.64" id="newsplex-inmobi-script-js" async data-wp-strategy="async"></script>
-<div class="ionli-footer" id="ionli-956229168"><div data-pub="appNexus" data-pub-siteid="NEWSPLEX_Ionline" data-pub-pageid="" data-pub-formatid="Floorad" data-pub-target="cpid=;category=;slug=;slugid=20240429123950617722"></div></div><script>window.advads_admin_bar_items = [{"title":"FloorAd","type":"ad"},{"title":"Footer","type":"placement"}];</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script></body>
+<div class="ionli-footer" id="ionli-561115147"><div data-pub="appNexus" data-pub-siteid="NEWSPLEX_Ionline" data-pub-pageid="" data-pub-formatid="Floorad" data-pub-target="cpid=;category=;slug=;slugid=20240429124250047482"></div></div><script>window.advads_admin_bar_items = [{"title":"FloorAd","type":"ad"},{"title":"Footer","type":"placement"}];</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script></body>
 </html>
