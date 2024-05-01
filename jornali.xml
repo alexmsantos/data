@@ -26,14 +26,14 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 		<style id='wp-block-spacer-inline-css'>
 .wp-block-spacer{clear:both}
 </style>
-<link rel='stylesheet' id='wp-block-image-css' href='https://ionline.sapo.pt/wp-includes/blocks/image/style.min.css?x60283&amp;ver=6.4.3' media='all' />
+<link rel='stylesheet' id='wp-block-image-css' href='https://ionline.sapo.pt/wp-includes/blocks/image/style.min.css?ver=6.4.3' media='all' />
 <style id='wp-block-image-theme-inline-css'>
 .wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}
 </style>
 <style id='wp-block-navigation-link-inline-css'>
 .wp-block-navigation .wp-block-navigation-item__label{overflow-wrap:break-word}.wp-block-navigation .wp-block-navigation-item__description{display:none}
 </style>
-<link rel='stylesheet' id='wp-block-navigation-css' href='https://ionline.sapo.pt/wp-includes/blocks/navigation/style.min.css?x60283&amp;ver=6.4.3' media='all' />
+<link rel='stylesheet' id='wp-block-navigation-css' href='https://ionline.sapo.pt/wp-includes/blocks/navigation/style.min.css?ver=6.4.3' media='all' />
 <style id='wp-block-navigation-inline-css'>
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 </style>
@@ -43,15 +43,15 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 <style id='wp-block-group-theme-inline-css'>
 :where(.wp-block-group.has-background){padding:1.25em 2.375em}
 </style>
-<link rel='stylesheet' id='kadence-blocks-column-css' href='https://ionline.sapo.pt/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css?x60283&amp;ver=3.1.15' media='all' />
-<link rel='stylesheet' id='kadence-blocks-rowlayout-css' href='https://ionline.sapo.pt/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css?x60283&amp;ver=3.1.15' media='all' />
+<link rel='stylesheet' id='kadence-blocks-column-css' href='https://ionline.sapo.pt/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css?ver=3.1.15' media='all' />
+<link rel='stylesheet' id='kadence-blocks-rowlayout-css' href='https://ionline.sapo.pt/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css?ver=3.1.15' media='all' />
 <style id='wp-block-search-inline-css'>
 .wp-block-search__button{margin-left:10px;word-break:normal}.wp-block-search__button.has-icon{line-height:0}.wp-block-search__button svg{fill:currentColor;min-height:24px;min-width:24px;vertical-align:text-bottom}:where(.wp-block-search__button){border:1px solid #ccc;padding:6px 10px}.wp-block-search__inside-wrapper{display:flex;flex:auto;flex-wrap:nowrap;max-width:100%}.wp-block-search__label{width:100%}.wp-block-search__input{-webkit-appearance:initial;appearance:none;border:1px solid #949494;flex-grow:1;margin-left:0;margin-right:0;min-width:3rem;padding:8px;text-decoration:unset!important}.wp-block-search.wp-block-search__button-only .wp-block-search__button{flex-shrink:0;margin-left:0;max-width:calc(100% - 100px)}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){border:1px solid #949494;box-sizing:border-box;padding:4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input{border:none;border-radius:0;padding:0 4px}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) .wp-block-search__input:focus{outline:none}:where(.wp-block-search__button-inside .wp-block-search__inside-wrapper) :where(.wp-block-search__button){padding:4px 8px}.wp-block-search.aligncenter .wp-block-search__inside-wrapper{margin:auto}.wp-block-search__button-behavior-expand .wp-block-search__inside-wrapper{min-width:0!important;transition-property:width}.wp-block-search__button-behavior-expand .wp-block-search__input{flex-basis:100%;transition-duration:.3s}.wp-block-search__button-behavior-expand.wp-block-search__searchfield-hidden,.wp-block-search__button-behavior-expand.wp-block-search__searchfield-hidden .wp-block-search__inside-wrapper{overflow:hidden}.wp-block-search__button-behavior-expand.wp-block-search__searchfield-hidden .wp-block-search__input{border-left-width:0!important;border-right-width:0!important;flex-basis:0;flex-grow:0;margin:0;min-width:0!important;padding-left:0!important;padding-right:0!important;width:0!important}.wp-block[data-align=right] .wp-block-search__button-behavior-expand .wp-block-search__inside-wrapper{float:right}
 </style>
 <style id='wp-block-search-theme-inline-css'>
 .wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}
 </style>
-<link rel='stylesheet' id='wp-block-social-links-css' href='https://ionline.sapo.pt/wp-includes/blocks/social-links/style.min.css?x60283&amp;ver=6.4.3' media='all' />
+<link rel='stylesheet' id='wp-block-social-links-css' href='https://ionline.sapo.pt/wp-includes/blocks/social-links/style.min.css?ver=6.4.3' media='all' />
 <style id='wp-block-template-part-theme-inline-css'>
 .wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
 </style>
@@ -139,23 +139,23 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			z-index: 100000;
 		}
 </style>
-<link rel='stylesheet' id='ionline-style-css' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/style.css?x60283&amp;ver=0.1.65' media='all' />
-<link rel='stylesheet' id='ionline-main-css' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/css/main.css?x60283&amp;ver=0.1.65' media='all' />
+<link rel='stylesheet' id='ionline-style-css' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/style.css?ver=0.1.65' media='all' />
+<link rel='stylesheet' id='ionline-main-css' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/css/main.css?ver=0.1.65' media='all' />
 <style id='kadence-blocks-global-variables-inline-css'>
 :root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
 </style>
 <style id='kadence_blocks_css-inline-css'>
 .kadence-column800959_b6ae86-ee > .kt-inside-inner-col,.kadence-column800959_b6ae86-ee > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column800959_b6ae86-ee > .kt-inside-inner-col{justify-content:flex-end;flex-direction:column;display:flex;}.kadence-column800959_b6ae86-ee > .kt-inside-inner-col > .aligncenter{width:100%;}.kt-row-column-wrap > .kadence-column800959_b6ae86-ee{align-self:flex-end;}.kt-inner-column-height-full:not(.kt-has-1-columns) > .wp-block-kadence-column.kadence-column800959_b6ae86-ee{align-self:auto;}.kt-inner-column-height-full:not(.kt-has-1-columns) > .wp-block-kadence-column.kadence-column800959_b6ae86-ee > .kt-inside-inner-col{display:flex;flex-direction:column;justify-content:flex-end;}.kadence-column800959_b6ae86-ee > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column800959_b6ae86-ee{position:relative;}.kb-row-layout-id800959_50a63d-c0 > .kt-row-column-wrap{align-content:end;}:where(.kb-row-layout-id800959_50a63d-c0 > .kt-row-column-wrap) > .wp-block-kadence-column{justify-content:end;}.kb-row-layout-id800959_50a63d-c0 > .kt-row-column-wrap{column-gap:var(--global-kb-gap-md, 2rem);row-gap:var(--global-kb-gap-md, 2rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-sm, 1.5rem);grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id800959_50a63d-c0 > .kt-row-layout-overlay{opacity:0.30;}@media all and (max-width: 1024px){.kb-row-layout-id800959_50a63d-c0 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}@media all and (max-width: 767px){.kb-row-layout-id800959_50a63d-c0 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}.kadence-column800959_8523b6-6c > .kt-inside-inner-col,.kadence-column800959_8523b6-6c > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column800959_8523b6-6c > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column800959_8523b6-6c{position:relative;}.kb-row-layout-id800959_33d9ba-52 > .kt-row-column-wrap{align-content:start;}:where(.kb-row-layout-id800959_33d9ba-52 > .kt-row-column-wrap) > .wp-block-kadence-column{justify-content:start;}.kb-row-layout-id800959_33d9ba-52 > .kt-row-column-wrap{column-gap:var(--global-kb-gap-md, 2rem);row-gap:var(--global-kb-gap-md, 2rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-sm, 1.5rem);grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id800959_33d9ba-52 > .kt-row-layout-overlay{opacity:0.30;}@media all and (min-width: 1025px){.kb-row-layout-id800959_33d9ba-52{display:none !important;}}@media all and (max-width: 1024px){.kb-row-layout-id800959_33d9ba-52 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}@media all and (min-width: 768px) and (max-width: 1024px){.kb-row-layout-id800959_33d9ba-52{display:none !important;}}@media all and (max-width: 767px){.kb-row-layout-id800959_33d9ba-52 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}.kadence-column800959_d9b69f-ac > .kt-inside-inner-col,.kadence-column800959_d9b69f-ac > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column800959_d9b69f-ac > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column800959_d9b69f-ac{position:relative;}.kadence-column800959_7a8e15-56 > .kt-inside-inner-col,.kadence-column800959_7a8e15-56 > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column800959_7a8e15-56 > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column800959_7a8e15-56{position:relative;}.kb-row-layout-id800959_272629-e0 > .kt-row-column-wrap{align-content:end;}:where(.kb-row-layout-id800959_272629-e0 > .kt-row-column-wrap) > .wp-block-kadence-column{justify-content:end;}.kb-row-layout-id800959_272629-e0 > .kt-row-column-wrap{column-gap:var(--global-kb-gap-none, 0 );row-gap:var(--global-kb-gap-md, 2rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-sm, 1.5rem);grid-template-columns:minmax(0, 40%) minmax(0, 60%);}.kb-row-layout-id800959_272629-e0 > .kt-row-layout-overlay{opacity:0.30;}@media all and (max-width: 1024px){.kb-row-layout-id800959_272629-e0 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr) minmax(0, 2fr);}}@media all and (max-width: 767px){.kb-row-layout-id800959_272629-e0 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr) minmax(0, 2fr);}}.kadence-column800959_ce0c48-90 > .kt-inside-inner-col,.kadence-column800959_ce0c48-90 > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column800959_ce0c48-90 > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column800959_ce0c48-90{position:relative;}.kb-row-layout-id800959_0ee430-2c > .kt-row-column-wrap{align-content:start;}:where(.kb-row-layout-id800959_0ee430-2c > .kt-row-column-wrap) > .wp-block-kadence-column{justify-content:start;}.kb-row-layout-id800959_0ee430-2c > .kt-row-column-wrap{column-gap:var(--global-kb-gap-md, 2rem);row-gap:var(--global-kb-gap-md, 2rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-sm, 1.5rem);grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id800959_0ee430-2c > .kt-row-layout-overlay{opacity:0.30;}@media all and (min-width: 1025px){.kb-row-layout-id800959_0ee430-2c{display:none !important;}}@media all and (max-width: 1024px){.kb-row-layout-id800959_0ee430-2c > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}@media all and (max-width: 767px){.kb-row-layout-id800959_0ee430-2c > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id800959_0ee430-2c{display:none !important;}}.kadence-column800959_a75dba-4b > .kt-inside-inner-col,.kadence-column800959_a75dba-4b > .kt-inside-inner-col:before{border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.kadence-column800959_a75dba-4b > .kt-inside-inner-col:before{opacity:0.3;}.kadence-column800959_a75dba-4b{position:relative;}.kb-row-layout-id800959_3b9b3a-f6 > .kt-row-column-wrap{align-content:start;}:where(.kb-row-layout-id800959_3b9b3a-f6 > .kt-row-column-wrap) > .wp-block-kadence-column{justify-content:start;}.kb-row-layout-id800959_3b9b3a-f6 > .kt-row-column-wrap{column-gap:var(--global-kb-gap-md, 2rem);row-gap:var(--global-kb-gap-md, 2rem);padding-top:var(--global-kb-spacing-sm, 1.5rem);padding-bottom:var(--global-kb-spacing-sm, 1.5rem);grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id800959_3b9b3a-f6 > .kt-row-layout-overlay{opacity:0.30;}@media all and (max-width: 1024px){.kb-row-layout-id800959_3b9b3a-f6 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}}@media all and (min-width: 768px) and (max-width: 1024px){.kb-row-layout-id800959_3b9b3a-f6{display:none !important;}}@media all and (max-width: 767px){.kb-row-layout-id800959_3b9b3a-f6 > .kt-row-column-wrap{grid-template-columns:minmax(0, 1fr);}.kb-row-layout-id800959_3b9b3a-f6{display:none !important;}}
 </style>
-<script src="https://ionline.sapo.pt/wp-includes/js/dist/interactivity.min.js?x60283&amp;ver=6.4.3" id="wp-interactivity-js" defer data-wp-strategy="defer"></script>
-<script src="https://ionline.sapo.pt/wp-includes/blocks/navigation/view.min.js?x60283&amp;ver=e3d6f3216904b5b42831" id="wp-block-navigation-view-js" defer data-wp-strategy="defer"></script>
-<script src="https://ionline.sapo.pt/wp-includes/js/jquery/jquery.min.js?x60283&amp;ver=3.7.1" id="jquery-core-js"></script>
-<script src="https://ionline.sapo.pt/wp-includes/js/jquery/jquery-migrate.min.js?x60283&amp;ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://ionline.sapo.pt/wp-includes/js/dist/interactivity.min.js?ver=6.4.3" id="wp-interactivity-js" defer data-wp-strategy="defer"></script>
+<script src="https://ionline.sapo.pt/wp-includes/blocks/navigation/view.min.js?ver=e3d6f3216904b5b42831" id="wp-block-navigation-view-js" defer data-wp-strategy="defer"></script>
+<script src="https://ionline.sapo.pt/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://ionline.sapo.pt/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 <script id="advanced-ads-advanced-js-js-extra">
 var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_needed"}};
 </script>
-<script src="https://ionline.sapo.pt/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?x60283&amp;ver=1.49.0" id="advanced-ads-advanced-js-js"></script>
-<script src="https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/js/header.js?x60283&amp;ver=1.0" id="header-js"></script>
+<script src="https://ionline.sapo.pt/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js?ver=1.49.0" id="advanced-ads-advanced-js-js"></script>
+<script src="https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/js/header.js?ver=1.0" id="header-js"></script>
 <link rel="https://api.w.org/" href="https://ionline.sapo.pt/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ionline.sapo.pt/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.4.3" />
 <script type="text/javascript" src="//js.sapo.pt/Projects/CPU/latest/lazypub.min.js" defer></script>
@@ -165,25 +165,25 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 			if ( 'undefined' == typeof advadsProCfp ) { advadsCfpQueue.push( adID ) } else { advadsProCfp.addElement( adID ) }
 		};
 		</script>
-		<link rel='shortcut icon' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/favicon.ico?x60283'>
-<link rel='apple-touch-icon' sizes='57x57' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-57x57.png?x60283'/>
-<link rel='apple-touch-icon' sizes='60x60' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-60x60.png?x60283'/>
-<link rel='apple-touch-icon' sizes='72x72' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-72x72.png?x60283'/>
-<link rel='apple-touch-icon' sizes='76x76' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-76x76.png?x60283'/>
-<link rel='apple-touch-icon' sizes='114x114' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-114x114.png?x60283'/>
-<link rel='apple-touch-icon' sizes='120x120' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-120x120.png?x60283'/>
-<link rel='apple-touch-icon' sizes='144x144' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-144x144.png?x60283'/>
-<link rel='apple-touch-icon' sizes='152x152' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-152x152.png?x60283'/>
-<link rel='apple-touch-icon' sizes='180x180' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-180x180.png?x60283'/> 
-<link rel='icon' type='image/png' sizes='16x16' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/favicon-16x16.png?x60283'/>
-<link rel='icon' type='image/png' sizes='32x32' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/favicon-32x32.png?x60283'/>
-<link rel='icon' type='image/png' sizes='96x96' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/favicon-96x96.png?x60283'/>
-<link rel='icon' type='image/png' sizes='192x192' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/android-icon-192x192.png?x60283'/>
+		<link rel='shortcut icon' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/favicon.ico'>
+<link rel='apple-touch-icon' sizes='57x57' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-57x57.png'/>
+<link rel='apple-touch-icon' sizes='60x60' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-60x60.png'/>
+<link rel='apple-touch-icon' sizes='72x72' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-72x72.png'/>
+<link rel='apple-touch-icon' sizes='76x76' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-76x76.png'/>
+<link rel='apple-touch-icon' sizes='114x114' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-114x114.png'/>
+<link rel='apple-touch-icon' sizes='120x120' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-120x120.png'/>
+<link rel='apple-touch-icon' sizes='144x144' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-144x144.png'/>
+<link rel='apple-touch-icon' sizes='152x152' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-152x152.png'/>
+<link rel='apple-touch-icon' sizes='180x180' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/apple-icon-180x180.png'/> 
+<link rel='icon' type='image/png' sizes='16x16' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/favicon-16x16.png'/>
+<link rel='icon' type='image/png' sizes='32x32' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/favicon-32x32.png'/>
+<link rel='icon' type='image/png' sizes='96x96' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/favicon-96x96.png'/>
+<link rel='icon' type='image/png' sizes='192x192' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/android-icon-192x192.png'/>
 <meta name='apple-mobile-web-app-title' content='iOnline'/>
 <meta name='application-name' content='iOnline' />
 <meta name='msapplication-TileColor' content='#ffffff' />
 <meta name='msapplication-TileImage' content='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/favicons/ms-icon-144x144.png' />
-<link rel='manifest' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/manifest.json?x60283'
+<link rel='manifest' href='https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/manifest.json'
 >		<meta name="google-site-verification" content="uarzJO4jJXs8EB4nYl9TSCHO6Z1JIcxS_Jah9ihsPSI" />
            <script type="text/javascript">
 			var _gaq = _gaq || [];
@@ -236,7 +236,7 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 
 <div class="wp-block-kadence-column kadence-column800959_b6ae86-ee"><div class="kt-inside-inner-col">
 <div class="wp-block-group is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized wp-container-content-1"><a href="/"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/logo.png?x60283" alt="logotipo Jornal i" class="wp-image-259472" style="object-fit:cover;width:140px;height:46px"/></a></figure>
+<figure class="wp-block-image size-full is-resized wp-container-content-1"><a href="/"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/logo.png" alt="logotipo Jornal i" class="wp-image-259472" style="object-fit:cover;width:140px;height:46px"/></a></figure>
 
 
 <nav class="is-responsive items-justified-left wp-block-navigation is-content-justification-left is-layout-flex wp-container-core-navigation-layout-1 wp-block-navigation-is-layout-flex" aria-label="Navegação 2" 
@@ -289,7 +289,7 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 <div class="wp-block-kadence-column kadence-column800959_d9b69f-ac"><div class="kt-inside-inner-col">
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-layout-3 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized wp-container-content-3"><a href="/"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/logo.png?x60283" alt="logotipo Jornal i" class="wp-image-259472" style="object-fit:cover;width:140px;height:46px"/></a></figure>
+<figure class="wp-block-image size-full is-resized wp-container-content-3"><a href="/"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/logo.png" alt="logotipo Jornal i" class="wp-image-259472" style="object-fit:cover;width:140px;height:46px"/></a></figure>
 
 
   <span class="wp-block-simple-date">01/05/2024</span>
@@ -317,7 +317,7 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 
 
 
-<figure class="wp-block-image size-full is-resized"><a href="/feed" target="_blank" rel="noreferrer noopener"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/rss.png?x60283" alt="" class="wp-image-260354" style="width:26px"/></a></figure>
+<figure class="wp-block-image size-full is-resized"><a href="/feed" target="_blank" rel="noreferrer noopener"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/rss.png" alt="" class="wp-image-260354" style="width:26px"/></a></figure>
 </div>
 </div>
 </div></div>
@@ -382,7 +382,7 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 
 
 
-<figure class="wp-block-image size-full is-resized"><a href="/feed" target="_blank" rel="noreferrer noopener"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/rss.png?x60283" alt="" class="wp-image-260354" style="width:26px"/></a></figure>
+<figure class="wp-block-image size-full is-resized"><a href="/feed" target="_blank" rel="noreferrer noopener"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/rss.png" alt="" class="wp-image-260354" style="width:26px"/></a></figure>
 </div>
 
 
@@ -390,7 +390,7 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 <div class="wp-block-group is-horizontal is-content-justification-space-between is-nowrap is-layout-flex wp-container-core-group-layout-11 wp-block-group-is-layout-flex">
 <div class="wp-block-group is-layout-constrained wp-block-group-is-layout-constrained">
 <div class="wp-block-group is-nowrap is-layout-flex wp-container-core-group-layout-9 wp-block-group-is-layout-flex">
-<figure class="wp-block-image size-full is-resized wp-container-content-7"><a href="/"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/logo.png?x60283" alt="logotipo Jornal i" class="wp-image-259472" style="object-fit:cover;width:140px;height:46px"/></a></figure>
+<figure class="wp-block-image size-full is-resized wp-container-content-7"><a href="/"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/logo.png" alt="logotipo Jornal i" class="wp-image-259472" style="object-fit:cover;width:140px;height:46px"/></a></figure>
 
 
   <span class="wp-block-simple-date">01/05/2024</span>
@@ -615,11 +615,11 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 
 
 
-<figure class="wp-block-image size-full"><a href="https://apps.apple.com/pt/app/newsplex-digital/id461729321"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/AppleStore.png?x60283" alt="" class="wp-image-2245"/></a></figure>
+<figure class="wp-block-image size-full"><a href="https://apps.apple.com/pt/app/newsplex-digital/id461729321"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/AppleStore.png" alt="" class="wp-image-2245"/></a></figure>
 
 
 
-<figure class="wp-block-image size-full"><a href="https://play.google.com/store/apps/details?id=pt.newsplex.android.stdviewer&amp;hl=pt_PT"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/AndroidStore.png?x60283" alt="" class="wp-image-2244"/></a></figure>
+<figure class="wp-block-image size-full"><a href="https://play.google.com/store/apps/details?id=pt.newsplex.android.stdviewer&amp;hl=pt_PT"><img decoding="async" src="/wp-content/themes/newsplex-ionline/assets/images/AndroidStore.png" alt="" class="wp-image-2244"/></a></figure>
 
 
 
@@ -701,18 +701,18 @@ var advads_options = {"blog_id":"1","privacy":{"enabled":false,"state":"not_need
 <script id="advanced-ads-pro/front-js-extra">
 var advadsCfpInfo = {"cfpExpHours":"3","cfpClickLimit":"3","cfpBan":"7","cfpPath":"","cfpDomain":"ionline.sapo.pt"};
 </script>
-<script src="https://ionline.sapo.pt/wp-content/plugins/advanced-ads-pro/assets/js/advanced-ads-pro.min.js?x60283&amp;ver=2.22.1" id="advanced-ads-pro/front-js"></script>
-<script src="https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/js/navigation-highlight.js?x60283&amp;ver=0.1.65" id="ionline-navigation-highlight-js"></script>
-<script src="https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/js/inmobi.js?x60283&amp;ver=0.1.65" id="newsplex-inmobi-script-js" async data-wp-strategy="async"></script>
-<div class="ionli-footer" id="ionli-1312372483"><div data-pub="appNexus" data-pub-siteid="NEWSPLEX_Ionline" data-pub-pageid="" data-pub-formatid="Floorad" data-pub-target="cpid=;category=;slug=;slugid=20240501094302216170"></div></div><script>window.advads_admin_bar_items = [{"title":"FloorAd","type":"ad"},{"title":"Footer","type":"placement"}];</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script></body>
+<script src="https://ionline.sapo.pt/wp-content/plugins/advanced-ads-pro/assets/js/advanced-ads-pro.min.js?ver=2.22.1" id="advanced-ads-pro/front-js"></script>
+<script src="https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/js/navigation-highlight.js?ver=0.1.65" id="ionline-navigation-highlight-js"></script>
+<script src="https://ionline.sapo.pt/wp-content/themes/newsplex-ionline/assets/js/inmobi.js?ver=0.1.65" id="newsplex-inmobi-script-js" async data-wp-strategy="async"></script>
+<div class="ionli-footer" id="ionli-2123158464"><div data-pub="appNexus" data-pub-siteid="NEWSPLEX_Ionline" data-pub-pageid="" data-pub-formatid="Floorad" data-pub-target="cpid=;category=;slug=;slugid=20240501094550287599"></div></div><script>window.advads_admin_bar_items = [{"title":"FloorAd","type":"ad"},{"title":"Footer","type":"placement"}];</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script></body>
 </html>
 
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Object Caching 260/285 objects using Disk
+Object Caching 259/285 objects using Disk
 Page Caching using Disk: Enhanced (SSL caching disabled) 
-Database Caching 11/29 queries in 0.009 seconds using Disk
+Database Caching 5/28 queries in 0.009 seconds using Disk
 
-Served from: ionline.sapo.pt @ 2024-05-01 09:43:02 by W3 Total Cache
+Served from: ionline.sapo.pt @ 2024-05-01 09:45:50 by W3 Total Cache
 -->
