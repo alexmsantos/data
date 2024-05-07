@@ -155,7 +155,11 @@
          "title": "José Castelo Branco detido por violência doméstica",
          "description": "Socialite é suspeito de ter agredido a mulher, Betty Grafstein, que está internada no hospital CUF de Cascais e queixou-se de violência “física e psíquica” reiterada",
          "link": "https://expresso.pt/sociedade/justica/2024-05-07-jose-castelo-branco-detido-por-violencia-domestica-98fc276d",
-         "author": "Rui Gustavo",
+         "author": [
+            "Rui Gustavo",
+            "Marta Gonçalves",
+            "Hugo Franco"
+         ],
          "published": 1715077156000,
          "created": 1715077156000,
          "category": "Justiça",
@@ -180,10 +184,39 @@
          }
       },
       {
+         "id": "47e678b1-f9e3-4855-b123-051134d263b7",
+         "title": "Lucros da BP caem para €2,1 mil milhões no primeiro trimestre",
+         "description": "Os lucros do primeiro trimestre da petrolífera BP caíram 72% em termos homólogos e 45% numa base ajustada",
+         "link": "https://expresso.pt/economia/economia_energia/2024-05-07-lucros-da-bp-caem-para-21-mil-milhoes-no-primeiro-trimestre-a63ab88e",
+         "author": "Lusa",
+         "published": 1715076881000,
+         "created": 1715076881000,
+         "category": "Energia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-02-27-bp/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-02-27-bp/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-02-27-bp/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "5db3f0e9-899a-467f-87b4-e7cbee9503f2",
-         "title": "Buscas na Madeira por suspeitas de burlas com subsídios sociais do Estado",
+         "title": "Buscas na Madeira por suspeitas de burlas com o subsídio social de mobilidade que lesou o Estado em centenas de milhares de euros",
          "description": "Uma vasta equipa de inspetores está a realizar buscas na Madeira por suspeitas de crimes económicos que lesaram o Estado português em centenas de milhares de euros",
-         "link": "https://expresso.pt/sociedade/seguranca/2024-05-07-buscas-na-madeira-por-suspeitas-de-burlas-com-subsidios-sociais-do-estado-fc985186",
+         "link": "https://expresso.pt/sociedade/seguranca/2024-05-07-buscas-na-madeira-por-suspeitas-de-burlas-com-o-subsidio-social-de-mobilidade-que-lesou-o-estado-em-centenas-de-milhares-de-euros-fc985186",
          "author": "Hugo Franco",
          "published": 1715076826000,
          "created": 1715076826000,
@@ -261,35 +294,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-05-07-joao-nielsen-sebastian-8e85da20/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "892f121f-56e9-4b98-9f01-4bfe5c202f07",
-         "title": "Sombra russa eleva estado de alerta na Geórgia e Moldova, mantém Ucrânia em estado de guerra e compromete sonho europeu",
-         "description": "Um projeto de lei de inspiração russa, que “sufoca a dissidência e pode esmagar vozes críticas”, motiva protestos em massa na Geórgia. Partidos da oposição formam um bloco antieuropeísta na Moldova. E agravam-se as dificuldades da Ucrânia em travar os avanços russos. Os processos de adesão do trio de antigas repúblicas soviéticas já foram abertos, mas será que “a UE se preocupa suficientemente para ajudar o povo a fazer frente à tirania”?",
-         "link": "https://expresso.pt/internacional/europa/2024-05-07-sombra-russa-eleva-estado-de-alerta-na-georgia-e-moldova-mantem-ucrania-em-estado-de-guerra-e-compromete-sonho-europeu-d278c574",
-         "author": "Hélder Gomes",
-         "published": 1715075165000,
-         "created": 1715075165000,
-         "category": "Europa",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-05-06-tbilissi-georgia-manifestacao-2fda0666/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-05-06-tbilissi-georgia-manifestacao-2fda0666/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-05-06-tbilissi-georgia-manifestacao-2fda0666/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }

@@ -98,10 +98,10 @@ jobs:
     #  run: |-
     #    curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.rtp.pt%2Fnoticias%2Frss?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "RTP Notícias"})' | jq -r tostring > digest/latest--rtp.json
     #  continue-on-error: true
-    - name: Download Económico Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Económico"})' | jq -r tostring > digest/latest--economico.json
-      continue-on-error: true
+    #- name: Download Económico Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fjornaleconomico.sapo.pt%2Ffeed?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Económico"})' | jq -r tostring > digest/latest--economico.json
+    #  continue-on-error: true
     #- name: Download Dinheiro Vivo Feed
     #  run: |-
     #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dinheirovivo.pt%2FDV-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Dinheiro Vivo"})' | jq -r tostring > digest/latest--dinheirovivo.json
@@ -166,6 +166,10 @@ jobs:
     - name: Edit rtp.json
       run: |-
         jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "RTP Notícias"})' rtp.json >digest/latest--rtp.json
+      continue-on-error: true
+    - name: Edit ecnomico.json
+      run: |-
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Económico"})' economico.json >digest/latest--economico.json
       continue-on-error: true
     #- name: Download Jornal i Feed
     #  run: |-
