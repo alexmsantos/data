@@ -179,7 +179,7 @@ jobs:
       continue-on-error: true
     - name: Edit renascenca.json
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Renascença"})' renascenca.json >digest/latest--renascenca.json
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Renascença"})' renascenca.json >digest/latest--rr.json
       continue-on-error: true
     - name: Edit novo.json
       run: |-
