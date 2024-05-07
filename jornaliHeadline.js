@@ -14,7 +14,7 @@ rp(url)
 
     const jsonString = JSON.stringify(Object.assign({}, {
       title: articleTitle.text().trim(),
-      url: 'https://ionline.sapo.pt' + articleUrl[0].attribs.href,
+      url: articleUrl[0].attribs.href,
       fetchDate: dateIso,
       media: "Jornal i"
     }));
