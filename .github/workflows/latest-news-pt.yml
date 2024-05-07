@@ -34,14 +34,17 @@ jobs:
     - name: RSS to JSON RTP Notícas
       run: node rss-to-json--rtp.js
       continue-on-error: true
+    - name: RSS to JSON Jornal i
+      run: node rss-to-json--i.js
+      continue-on-error: true
     - name: Download RR xml
       run: |-
         curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
       continue-on-error: true
-    - name: Download Jornal i xml
-      run: |-
-        curl -o jornali.xml https://ionline.sapo.pt/rss.xml
-      continue-on-error: true
+    #- name: Download Jornal i xml
+    #  run: |-
+    #    curl -o jornali.xml https://ionline.sapo.pt/rss.xml
+    #  continue-on-error: true
     #- name: Download CM xml
     #  run: |-
     #    curl -o cm.xml https://www.cmjornal.pt/rss?$(date +%s)
@@ -138,6 +141,10 @@ jobs:
       run: |-
         jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "CNN Portugal"})' cnnportugal.json >digest/latest--cnnportugal.json
       continue-on-error: true
+    - name: Edit jornali.json
+      run: |-
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Jornal i"})' jornali.json >digest/latest--jornali.json
+      continue-on-error: true
     - name: Edit noticiasaominuto.json
       run: |-
         jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Notícias ao Minuto"})' noticiasaominuto.json >digest/latest--noticiasaominuto.json
@@ -146,10 +153,10 @@ jobs:
       run: |-
         jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "RTP Notícias"})' rtp.json >digest/latest--rtp.json
       continue-on-error: true
-    - name: Download Jornal i Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/jornali.xml?v=$(date +%s)" | jq '.items[:10] | map({title, url, date_published, media: "Jornal i"})' | jq -r tostring > digest/latest--jornali.json
-      continue-on-error: true
+    #- name: Download Jornal i Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https://raw.githubusercontent.com/alexmsantos/data/main/jornali.xml?v=$(date +%s)" | jq '.items[:10] | map({title, url, date_published, media: "Jornal i"})' | jq -r tostring > digest/latest--jornali.json
+    #  continue-on-error: true
     #- name: Change Yes to No in google-trends.xml
     #  run: |-
     #    sed -i 's/yes/no/g' google-trends.xml
