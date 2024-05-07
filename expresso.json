@@ -6,6 +6,64 @@
    "category": [],
    "items": [
       {
+         "id": "fc2074d6-ce04-4b24-bfd8-6a6bcf436e19",
+         "title": "Um percurso a fazer lembrar Mimicat? Antes da música, Iolanda “vendia contratos de luz”, agora está na Eurovisão",
+         "description": "A representante de Portugal está quase a subir ao palco do Festival da Eurovisão! Antes disso, veio até à SIC Radical para falar no podcast do Curto Circuito",
+         "link": "https://expresso.pt/podcasts/curto-circuito/2024-05-07-um-percurso-a-fazer-lembrar-mimicat--antes-da-musica-iolanda-vendia-contratos-de-luz-agora-esta-na-eurovisao-55d3e898",
+         "author": "SIC",
+         "published": 1715088600000,
+         "created": 1715088600000,
+         "category": "Curto Circuito",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-03-iolanda-cc-podcast.jpeg-9908f1ea/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-03-iolanda-cc-podcast.jpeg-9908f1ea/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-05-03-iolanda-cc-podcast.jpeg-9908f1ea/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "e73d6bd4-ef18-47db-91f5-5e5abd851be4",
+         "title": "Jurista pede punição agravada de atacantes de imigrantes no Porto",
+         "description": "A investigadora considera que estes crimes \"poderão ter, como causa incentivadora, o aumento do discurso de extrema-direita em Portugal",
+         "link": "https://expresso.pt/sociedade/justica/2024-05-07-jurista-pede-punicao-agravada-de-atacantes-de-imigrantes-no-porto-502cd8d1",
+         "author": "Lusa",
+         "published": 1715088426000,
+         "created": 1715088426000,
+         "category": "Justiça",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-06-ataque-emigrantes-porto-83cce442/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-06-ataque-emigrantes-porto-83cce442/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-05-06-ataque-emigrantes-porto-83cce442/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "0e4896f4-adf0-44bf-86e5-46fdf4f6819e",
          "title": "À tarde, Daniel tocava no bar do hotel: horas depois cantou para 14 mil pessoas na primeira parte dos Take That",
          "description": "Olly Murs, artista que tem feito as primeiras partes dos concertos dos Take That, não conseguiu chegar a tempo: a solução passou por chamar um cantor anónimo que, horas antes, cantava e tocava guitarra num bar de hotel. “Tem sido uma loucura”, confessa Daniel Rooney",
@@ -180,6 +238,35 @@
          }
       },
       {
+         "id": "bd51d8b2-523a-4f6c-b0e7-c8552dcbcd7e",
+         "title": "Tribunal europeu condena a Rússia por demissão ligada à orientação sexual",
+         "description": "O TEDH considerou o seu despedimento manifestamente desproporcionado e concluiu que a professora havia sido vítima de discriminação com base na orientação sexual",
+         "link": "https://expresso.pt/internacional/uniao-europeia/2024-05-07-tribunal-europeu-condena-a-russia-por-demissao-ligada-a-orientacao-sexual-728b5b23",
+         "author": "Lusa",
+         "published": 1715083205000,
+         "created": 1715083205000,
+         "category": "União Europeia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2019-09-24-tribunal-europeu-dos-direitos-humanos-9d0a63aa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2019-09-24-tribunal-europeu-dos-direitos-humanos-9d0a63aa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2019-09-24-tribunal-europeu-dos-direitos-humanos-9d0a63aa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "b1a4f020-61bd-4960-bd2f-0de9ad2fcffa",
          "title": "Banco de Portugal aplica coimas de €1,4 milhões no primeiro trimestre",
          "description": "No primeiro trimestre de 2024 foram concluídos 156 processos sancionatórios pelo Banco de Portugal, contra os 126 concluídos no mesmo período do ano passado",
@@ -203,93 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2021-08-05-jcc-banco-portugal-01_T-_IDP.jpg-f21149df/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "eb0dfa10-837a-4047-93d7-2e2895ef2cff",
-         "title": "Processos de insolvência sobem 14% até abril com forte contributo da indústria têxtil e da moda",
-         "description": "Informa D&amp;B dá conta de que as atividades de fabricação de calçado e a confeção de outro vestuário exterior em série lideram os processos de insolvência nas empresas do setor têxtil e moda nos primeiros quatro meses do ano",
-         "link": "https://expresso.pt/economia/empresas/2024-05-07-processos-de-insolvencia-sobem-14-ate-abril-com-forte-contributo-da-industria-textil-e-da-moda-38c32633",
-         "author": "Lusa",
-         "published": 1715081019000,
-         "created": 1715081019000,
-         "category": "Empresas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2018-01-08-RTX3K49Q.jpg/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2018-01-08-RTX3K49Q.jpg/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2018-01-08-RTX3K49Q.jpg/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "fbb1d4e0-cab8-4a65-891f-1be7d40af946",
-         "title": "As excentricidades da Met Gala: Doja Cat e a t-shirt molhada, Lana Del Rey e a rede, Zendaya e os pássaros",
-         "description": "O tema era “Belas Adormecidas: Reacordar a Moda” e celebridades, cantores e atores vestiram-se a rigor na Met Gala deste ano. Veja e avalie as escolhas de indumentária de Jennifer Lopez, Bad Bunny, Lana Del Rey, Zendaya, Chris Hemsworth ou Kim Kardashian na fotogaleria com alguns dos convidados mais excêntricos",
-         "link": "https://expresso.pt/blitz/2024-05-07-as-excentricidades-da-met-gala-doja-cat-e-a-t-shirt-molhada-lana-del-rey-e-a-rede-zendaya-e-os-passaros-7faef03b",
-         "author": "BLITZ",
-         "published": 1715080395000,
-         "created": 1715080395000,
-         "category": "Blitz",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-05-07-zendaya-bad-bunny-kim-kardashian.jpg-3611a083/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-05-07-zendaya-bad-bunny-kim-kardashian.jpg-3611a083/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-05-07-zendaya-bad-bunny-kim-kardashian.jpg-3611a083/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "c8fbb857-1711-4f4a-9c6a-67825c9b504f",
-         "title": "Liberdade é o tema do festival Livros a Oeste deste ano: podcasts e música juntam-se à programação",
-         "description": "Além das conversas com autores, apresentações de livros e oficinas, a edição deste ano conta com momentos interativos e multidisciplinares. A edição deste ano do festival Livros a Oeste realiza-se na Lourinhã, entre os dias 14 e 18",
-         "link": "https://expresso.pt/cultura/Livros/2024-05-07-liberdade-e-o-tema-do-festival-livros-a-oeste-deste-ano-podcasts-e-musica-juntam-se-a-programacao-ba7ee022",
-         "author": "Expresso",
-         "published": 1715080137000,
-         "created": 1715080137000,
-         "category": "Livros",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2023-01-02-afonso-cruz--c--paulo-sousa-coelho.jpg-c758f82c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2023-01-02-afonso-cruz--c--paulo-sousa-coelho.jpg-c758f82c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2023-01-02-afonso-cruz--c--paulo-sousa-coelho.jpg-c758f82c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
