@@ -25,6 +25,12 @@ jobs:
     - name: Scrape CM
       run: node cmScraper.js
       continue-on-error: true
+    - name: RSS to JSON Expresso
+      run: node rss-to-json--expresso.js
+      continue-on-error: true
+    - name: RSS to JSON SIC Notícias
+      run: node rss-to-json--sicn.js
+      continue-on-error: true
     - name: RSS to JSON CNN Portugal
       run: node rss-to-json--cnn.js
       continue-on-error: true
@@ -74,14 +80,14 @@ jobs:
       run: |-
         curl "https://api.observador.pt/wp/lists/latest/?$(date +%s)" | jq '.[:10] | map(.date_published = .pubDate | del(.pubDate)) | map({title, links, date_published, media: "Observador"})' | jq -r tostring > digest/latest--observador.json
       continue-on-error: true
-    - name: Download Expresso Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fexpresso.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Expresso"})' | jq -r tostring > digest/latest--expresso.json
-      continue-on-error: true
-    - name: Download SIC Notícias Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fsicnot.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "SIC Notícias"})' | jq -r tostring > digest/latest--sicnoticias.json
-      continue-on-error: true
+    #- name: Download Expresso Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fexpresso.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Expresso"})' | jq -r tostring > digest/latest--expresso.json
+    #  continue-on-error: true
+    #- name: Download SIC Notícias Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Frss.impresa.pt%2Ffeed%2Flatest%2Fsicnot.rss%3F$(date +%s)%26type%3DARTICLE%2CVIDEO%2CGALLERY%2CSTREAM%2CPLAYLIST%2CEVENT%26limit%3D20%26pubsubhub%3Dtrue&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "SIC Notícias"})' | jq -r tostring > digest/latest--sicnoticias.json
+    #  continue-on-error: true
     #- name: Download DN Feed
     #  run: |-
     #    curl "https://www.toptal.com/developers/feed2json/convert?url=http%3A%2F%2Ffeeds.dn.pt%2FDN-Ultimas?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "DN"})' | jq -r tostring > digest/latest--dn.json
@@ -136,6 +142,14 @@ jobs:
     - name: Edit cm.json
       run: |-
         jq '[{title: ."0", url: ."1", date_published: ."2", media: "Correio da Manhã"},{title: ."3", url: ."4", date_published: ."5", media: "Correio da Manhã"},{title: ."6", url: ."7", date_published: ."8", media: "Correio da Manhã"},{title: ."9", url: ."10", date_published: ."11", media: "Correio da Manhã"},{title: ."12", url: ."13", date_published: ."14", media: "Correio da Manhã"},{title: ."15", url: ."16", date_published: ."17", media: "Correio da Manhã"},{title: ."18", url: ."19", date_published: ."20", media: "Correio da Manhã"},{title: ."21", url: ."22", date_published: ."23", media: "Correio da Manhã"},{title: ."24", url: ."25", date_published: ."26", media: "Correio da Manhã"},{title: ."27", url: ."28", date_published: ."29", media: "Correio da Manhã"}]' cm.json >digest/latest--cm.json
+      continue-on-error: true
+    - name: Edit expresso.json
+      run: |-
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Expresso"})' expresso.json >digest/latest--expresso.json
+      continue-on-error: true
+    - name: Edit sicnoticias.json
+      run: |-
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "SIC Notícias"})' sicnoticias.json >digest/latest--sicnoticias.json
       continue-on-error: true
     - name: Edit cnnportugal.json
       run: |-
