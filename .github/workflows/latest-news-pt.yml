@@ -40,7 +40,7 @@ jobs:
       continue-on-error: true
     - name: Download Jornal i xml
       run: |-
-        curl -o jornali.xml https://ionline.sapo.pt/rss.xml?v=$(date +%s)
+        curl -o jornali.xml https://ionline.sapo.pt/rss.xml
       continue-on-error: true
     #- name: Download CM xml
     #  run: |-
