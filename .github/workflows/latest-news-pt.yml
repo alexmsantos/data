@@ -46,6 +46,9 @@ jobs:
     - name: RSS to JSON Renascença
       run: node rss-to-json--renascenca.js
       continue-on-error: true
+    - name: RSS to JSON Novo
+      run: node rss-to-json--novo.js
+      continue-on-error: true
     #- name: Download RR xml
     #  run: |-
     #    curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
@@ -131,10 +134,10 @@ jobs:
     #  run: |-
     #    curl "https://www.toptal.com/developers/feed2json/convert?url=https%3A%2F%2Fwww.noticiasaominuto.com%2Frss%2Fultima-hora?v=$(date +%s)&minify=on" | jq '.items[:10] | map({title, url, date_published, media: "Notícias ao Minuto"})' | jq -r tostring > digest/latest--noticiasaominuto.json
     #  continue-on-error: true
-    - name: Download Novo Feed
-      run: |-
-        curl "https://www.toptal.com/developers/feed2json/convert?url=https://onovo.sapo.pt/feed/?v=$(date +%s)" | jq '.items[:10] | map({title, url, date_published, media: "Novo"})' | jq -r tostring > digest/latest--novo.json    
-      continue-on-error: true
+    #- name: Download Novo Feed
+    #  run: |-
+    #    curl "https://www.toptal.com/developers/feed2json/convert?url=https://onovo.sapo.pt/feed/?v=$(date +%s)" | jq '.items[:10] | map({title, url, date_published, media: "Novo"})' | jq -r tostring > digest/latest--novo.json    
+    #  continue-on-error: true
     #- name: Download TSF Feed
     #  run: |-
     #    curl "https://www.toptal.com/developers/feed2json/convert?url=http://feeds.tsf.pt/TSF-Ultimas?v=$(date +%s)" | jq '.items[:10] | map({title, url, date_published, media: "TSF"})' | jq -r tostring > digest/latest--tsf.json
@@ -177,6 +180,10 @@ jobs:
     - name: Edit renascenca.json
       run: |-
         jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Renascença"})' renascenca.json >digest/latest--renascenca.json
+      continue-on-error: true
+    - name: Edit novo.json
+      run: |-
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Novo"})' novo.json >digest/latest--novo.json
       continue-on-error: true
     #- name: Download Jornal i Feed
     #  run: |-
