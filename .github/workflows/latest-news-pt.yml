@@ -49,6 +49,9 @@ jobs:
     - name: RSS to JSON Novo
       run: node rss-to-json--novo.js
       continue-on-error: true
+    - name: RSS to JSON Económico
+      run: node rss-to-json--economico.js
+      continue-on-error: true
     #- name: Download RR xml
     #  run: |-
     #    curl -o rr.xml https://rr.sapo.pt/rss/rssfeed.aspx?section=section_noticias
