@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "419c4da9-aa69-4aa2-81d6-523b3050362c",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/Capas/2024-05-09-a-primeira-pagina-do-expresso-9e65c0c9",
+         "author": "Expresso",
+         "published": 1715292051000,
+         "created": 1715292051000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-09-pc_2689.jpg-bc901fe7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-09-pc_2689.jpg-bc901fe7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-05-09-pc_2689.jpg-bc901fe7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "b050e360-c3b1-4f0d-a27f-db1dc37be65f",
          "title": "Os novos senhores do Norte, na revista E",
          "description": "",
@@ -196,35 +225,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-05-07-texto-1---mattel-inc_t-_idp.jpg-f2d56b93/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "726f7b93-d9f6-48b3-b609-f224578e40e7",
-         "title": "Focaccia: uma surpresa em duas horas, com sabor a alecrim",
-         "description": "Tempo de preparação 1h30 minutos | Tempo de confeção 45 minutos",
-         "link": "https://expresso.pt/revista/vicios/receita/2024-05-09-focaccia-uma-surpresa-em-duas-horas-com-sabor-a-alecrim-1c304879",
-         "author": "João Rodrigues",
-         "published": 1715291820000,
-         "created": 1715291820000,
-         "category": "Receita",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-05-07-tm3c2a3450-copy_t-_idp.jpg-ba2245f6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-05-07-tm3c2a3450-copy_t-_idp.jpg-ba2245f6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-05-07-tm3c2a3450-copy_t-_idp.jpg-ba2245f6/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
