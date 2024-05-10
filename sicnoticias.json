@@ -14,8 +14,25 @@
          "published": 1715332732000,
          "created": 1715332732000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-06-12-francisco-j-marques.jpg-3c7216e4-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-06-12-francisco-j-marques.jpg-3c7216e4-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2023-06-12-francisco-j-marques.jpg-3c7216e4-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "33405b91-fcf6-42eb-936c-f22d443b9b87",
@@ -106,7 +123,7 @@
       },
       {
          "id": "964029a5-8b96-4599-86bc-4af75e8d5331",
-         "title": "Avião da United Airlines faz aterragem de emergência no Japão",
+         "title": "Avião da United Airlines faz aterragem de emergência no Japão devido a anomalia na asa",
          "description": "As autoridades japonesas estão a investigar o incidente, após terem sido detetadas irregularidades num 'flap' de uma das asas do avião da Boeing 737.",
          "link": "https://sicnoticias.pt/mundo/2024-05-10-aviao-da-united-airlines-faz-aterragem-de-emergencia-no-japao-590754bb",
          "author": "Lusa",
