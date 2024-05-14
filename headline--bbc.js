@@ -28,7 +28,7 @@ puppeteer
 
     const jsonString = JSON.stringify(Object.assign({}, {
       title: articleTitle.first().text().trim(),
-      url: 'https://www.bbc.com' + articleUrl[0].attribs.href,
+      url: articleUrl[0].attribs.href,
       fetchDate: dateIso,
       media: "BBC News",
     }));
