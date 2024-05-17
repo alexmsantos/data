@@ -6,18 +6,6 @@
    "category": [],
    "items": [
       {
-         "id": "9f762d6b-048f-4fdf-a31a-5eb15dc39ace",
-         "title": "Artigo com direto alternativo",
-         "description": "",
-         "link": "https://expresso.pt/recursos/2024-05-17-artigo-com-direto-alternativo-ce6b7fbd",
-         "author": "Expresso",
-         "published": 1715953416000,
-         "created": 1715953416000,
-         "category": "Recursos",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "b046a2f1-5fd0-4a63-9120-ed574286525d",
          "title": "\"Não há estudo\" ambiental para a decisão de Alcochete, admite ministro das Infraestruturas no Parlamento",
          "description": "“Onde é que estão os estudos de impacto ambiental?\" em relação à Alcochete, perguntou a deputada Marisa Matias. A resposta do ministro que tutela as Infraestruturas e a Habitação foi simples: “não há estudo”",
@@ -277,6 +265,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-02-27-unnamed.jpg-00e6261f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "51ca5c36-87c7-4f63-ae4e-8eb689808ead",
+         "title": "Construção: os problemas atuais e as soluções possíveis",
+         "description": "O grupo Transfor organiza, esta terça-feira no edifício da Impresa, em Paço de Arcos, a conferência “Construção em Movimento” à qual o Expresso se associa como <i>media partner</i>",
+         "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2024-05-17-construcao-os-problemas-atuais-e-as-solucoes-possiveis-ccca420e",
+         "author": "Ana Baptista",
+         "published": 1715946327000,
+         "created": 1715946327000,
+         "category": "Projetos Expresso",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-06-16-construcao-obras-e03baaf7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-06-16-construcao-obras-e03baaf7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-06-16-construcao-obras-e03baaf7/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
