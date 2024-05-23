@@ -62,7 +62,7 @@ jobs:
       continue-on-error: true
     - name: Merge files
       run: |-
-        jq -s . headlines-world/headline--bbc.json headlines-world/headline--cnn.json headlines-world/headline--corriere.json headlines-world/headline--economist.json headlines-world/headline--ft.json headlines-world/headline--folha.json headlines-world/headline--guardian.json headlines-world/headline--aljazeera.json headlines-world/headline--lemonde.json headlines-world/headline--nytimes.json headlines-world/headline--elpais.json headlines-world/headline--reuters.json headlines-world/headline--derspiegel.json headlines-world/headline--telegraph.json headlines-world/headline--wapo.json | jq -r tostring > headlines-world/headlinesworld.json
+        jq -s . headlines-world/headline--bbc.json headlines-world/headline--cnn.json headlines-world/headline--corriere.json headlines-world/headline--economist.json headlines-world/headline--ft.json headlines-world/headline--folha.json headlines-world/headline--guardian.json headlines-world/headline--aljazeera.json headlines-world/headline--lemonde.json headlines-world/headline--nytimes.json headlines-world/headline--elpais.json headlines-world/headline--derspiegel.json headlines-world/headline--telegraph.json headlines-world/headline--wapo.json | jq -r tostring > headlines-world/headlinesworld.json
     - name: Commit and push changes
       run: |-
         git diff
