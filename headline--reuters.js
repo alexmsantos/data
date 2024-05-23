@@ -13,7 +13,7 @@ puppeteer
     page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36');
     return page.goto(url, { timeout: 90000 }).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('#main-content ul > li > div > a > span', '#main-content ul > li > div > a', { timeout: 20000 });
+      return page.waitForSelector('#main-content ul > li > div > a > h3', '#main-content ul > li > div > a', { timeout: 20000 });
     })
     .then(function() {
       return page.content();
@@ -21,7 +21,7 @@ puppeteer
   })
   .then(function(html) {
     const $ = cheerio.load(html);
-    const articleTitle = $('#main-content ul > li > div > a > span');
+    const articleTitle = $('#main-content ul > li > div > a > h3');
     const articleUrl = $('#main-content ul > li > div > a');
     let ms = new Date();
     const dateIso = ms.toISOString()
