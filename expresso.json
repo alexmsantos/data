@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "c4e96550-b6f3-4b5f-b70c-e684e6675c4c",
+         "title": "Trump condenado no caso Stormy Daniels",
+         "description": "A leitura da sentença está marcada para 11 de julho. Entretanto, é esperado recurso. Findo o primeiro julgamento, os três seguintes deverão ocorrer após as presidenciais de 5 de novembro",
+         "link": "https://expresso.pt/internacional/eua/2024-05-30-trump-condenado-no-caso-stormy-daniels-f1ca6349",
+         "author": "Ricardo Lourenço",
+         "published": 1717107990000,
+         "created": 1717107990000,
+         "category": "EUA",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-30-donald-trump-f968d646/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-30-donald-trump-f968d646/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-05-30-donald-trump-f968d646/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "cfbdc10e-6638-40fb-9d3f-f907a3ae6fe4",
          "title": "Saída de 100 funcionários adensa problemas da AIMA, os grandes projetos na Comporta e a fé de Marcelo: há novo Expresso nas bancas",
          "description": "O tema da centena de funcionários da AIMA que pediu para mudar de serviço faz manchete no Expresso desta semana, numa edição onde contamos tudo sobre “A Grande Invasão\" da Comporta — com investimentos turísticos de €4 mil milhões. Na Revista, é a fé de Marcelo que faz capa",
@@ -251,35 +280,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "480814f7-1341-429d-943d-ed45ae279417",
-         "title": "Livros: A omnipresença de Al Berto",
-         "description": "Em “Notícia para uma Carta de Al Berto”, Joaquim Cardoso Dias parte de uma missiva de Al Berto, de 1990, para recuperar a luz de um diálogo interrompido há muito, e agora impossível, ou só possível enquanto exercício poético",
-         "link": "https://expresso.pt/revista/culturas/livros/2024-05-30-livros-a-omnipresenca-de-al-berto-aa09326e",
-         "author": "José Mário Silva",
-         "published": 1717106220000,
-         "created": 1717106220000,
-         "category": "Livros",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-05-28-livros-corrido-3-al-berto__.jpg-12f48c25-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-05-28-livros-corrido-3-al-berto__.jpg-12f48c25-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-05-28-livros-corrido-3-al-berto__.jpg-12f48c25-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
