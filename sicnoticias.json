@@ -14,8 +14,25 @@
          "published": 1717257461000,
          "created": 1717257461000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-09-03-Ambulacia-INEM.jpeg-de566632/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-09-03-Ambulacia-INEM.jpeg-de566632/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2023-09-03-Ambulacia-INEM.jpeg-de566632/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "6a49a7df-7f43-4fa7-aad0-959d889c945f",
