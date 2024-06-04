@@ -174,8 +174,25 @@
          "published": 1717520400000,
          "created": 1717520400000,
          "category": "Imobiliário",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-04-alta-538855334_t.jpg-3e0a139b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-04-alta-538855334_t.jpg-3e0a139b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-04-alta-538855334_t.jpg-3e0a139b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "a7be9bf3-50c0-4f89-b76d-dd2546d058ce",
