@@ -14,8 +14,25 @@
          "published": 1717524042000,
          "created": 1717524042000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-04-artur-patuleia_site.png-93a349a4-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-04-artur-patuleia_site.png-93a349a4-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-04-artur-patuleia_site.png-93a349a4-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "2ac186cb-3d8e-4ce4-94d4-b5ffddf32ae6",
@@ -41,6 +58,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2022-08-02-toyota-670d2f39-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "4084d92c-0d4c-4806-a5bb-ce8e83e111ef",
+         "title": "Incêndios: Montenegro apela para condutas que diminuam os riscos",
+         "description": "O primeiro-ministro esteve esta terça-feira em Mação, distrito de Santarém, para presidir à reunião do Conselho de Coordenação da Agência para a Gestão Integrada de Fogos Rurais",
+         "link": "https://expresso.pt/politica/2024-06-04-incendios-montenegro-apela-para-condutas-que-diminuam-os-riscos-d815d818",
+         "author": "Lusa",
+         "published": 1717523474000,
+         "created": 1717523474000,
+         "category": "Política",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-10-12-incendio-madeira-3709dd3b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-10-12-incendio-madeira-3709dd3b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-10-12-incendio-madeira-3709dd3b/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -230,35 +276,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-06-04-alta-538855334_t.jpg-3e0a139b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "a7be9bf3-50c0-4f89-b76d-dd2546d058ce",
-         "title": "Medidas contra a corrupção já foram a Conselho de Ministros, mas só serão apresentadas depois das europeias",
-         "description": "Montenegro prometeu uma agenda anti-corrupção em dois meses. Os ministros já a conhecem, mas a apresentação será feita primeiro aos partidos, já depois das europeias deste domingo. Ministra quer procurar consensos",
-         "link": "https://expresso.pt/politica/governo/2024-06-04-medidas-contra-a-corrupcao-ja-foram-a-conselho-de-ministros-mas-so-serao-apresentadas-depois-das-europeias-65382e9f",
-         "author": "David Dinis",
-         "published": 1717520154000,
-         "created": 1717520154000,
-         "category": "Governo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-04-03-Tomada-de-Posse-XXIV-Governo-Constitucional-8034e2fe/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-04-03-Tomada-de-Posse-XXIV-Governo-Constitucional-8034e2fe/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-04-03-Tomada-de-Posse-XXIV-Governo-Constitucional-8034e2fe/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
