@@ -133,8 +133,25 @@
          "published": 1717604333000,
          "created": 1717604333000,
          "category": "Projetos Expresso",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-ambicao-europeia-eliminar-hpv_____-24.jpg-6d7ff8a1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-ambicao-europeia-eliminar-hpv_____-24.jpg-6d7ff8a1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-ambicao-europeia-eliminar-hpv_____-24.jpg-6d7ff8a1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "ad543c65-8833-4714-8f48-bf9c22e412ea",
