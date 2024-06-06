@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "aee54620-687d-46d8-85f4-f80295b33a3e",
+         "title": "Inscrições já abriram para o maior evento desportivo corporate nacional",
+         "description": "A prova arranca no dia 21 de junho no Norte e vai visitar oito regiões de todo o país",
+         "link": "https://expresso.pt/economia/2024-06-06-inscricoes-ja-abriram-para-o-maior-evento-desportivo-corporate-nacional-b8deaf58",
+         "author": "Rodrigo Cordoeiro",
+         "published": 1717714620000,
+         "created": 1717714620000,
+         "category": "Economia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-batalha_expresso_t-_idp.jpg-788a9e5b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-batalha_expresso_t-_idp.jpg-788a9e5b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-batalha_expresso_t-_idp.jpg-788a9e5b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "b37dda38-2759-403e-83af-bb3097bc879c",
          "title": "PJ Harvey no Primavera Sound Porto: a deusa dos alternativos de ontem sabe reclamar o respeito que merece hoje",
          "description": "Confortável entre um passado de bota alta e guitarra rasgada e um presente de canções seriamente intransponíveis, PJ Harvey reconquistou um Primavera Sound Porto que soube estar ao seu lado, mesmo quando a sua guitarra teimou em não se deixar ouvir",
@@ -128,35 +157,6 @@
          }
       },
       {
-         "id": "6156b908-51a8-48da-859a-7407fdaab4d7",
-         "title": "Sines precisa de 60% da eletricidade do país",
-         "description": "Transição. Projetos de descarbonização para a região vão consumir 30 TWh de eletricidade, mais de metade dos 50 TWh consumidos em 2023, diz o ex-presidente da AICEP, Filipe Costa. O desafio: como vão as redes acompanhar estes aumentos?",
-         "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2024-06-06-sines-precisa-de-60-da-eletricidade-do-pais-0da5a7c0",
-         "author": "Ana Baptista",
-         "published": 1717711020000,
-         "created": 1717711020000,
-         "category": "Projetos Expresso",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "ecd6178d-8834-42a8-8c65-41172e448453",
          "title": "Porquê “fazer um seguro de vida” se sabemos quando morremos?",
          "description": "Antecipação. As capacidades de previsão da inteligência artificial colocam desafios à banca e seguros que implicam  uma reflexão profunda sobre o seu modelo de negócio. As oportunidades são grandes se as decisões forem certeiras",
@@ -189,16 +189,33 @@
          }
       },
       {
-         "id": "45f75183-7208-4019-9364-dac49b66ebe6",
-         "title": "Que política industrial para a União Europeia?",
-         "description": "É necessário reforçar o investimento na inovação e na investigação na Europa",
-         "link": "https://expresso.pt/opiniao/2024-06-06-que-politica-industrial-para-a-uniao-europeia--e431d0e3",
-         "author": "José Rijo",
+         "id": "6156b908-51a8-48da-859a-7407fdaab4d7",
+         "title": "Sines precisa de 60% da eletricidade do país",
+         "description": "Transição. Projetos de descarbonização para a região vão consumir 30 TWh de eletricidade, mais de metade dos 50 TWh consumidos em 2023, diz o ex-presidente da AICEP, Filipe Costa. O desafio: como vão as redes acompanhar estes aumentos?",
+         "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2024-06-06-sines-precisa-de-60-da-eletricidade-do-pais-0da5a7c0",
+         "author": "Ana Baptista",
          "published": 1717711020000,
          "created": 1717711020000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "category": "Projetos Expresso",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "9eca7842-ead5-45a3-b186-919a5f7926d3",
@@ -213,62 +230,28 @@
          "media": {}
       },
       {
-         "id": "642a51e6-1e4b-4349-a44b-5d5c818eefad",
-         "title": "Música: Filigrana e labaredas à Richard Thompson",
-         "description": "Se todos os seus álbuns se chamassem “Watching the Dark”, como a compilação de 1993, não seria escândalo. “Ship To Shore”, o novo álbum de Richard Thompson, não é exceção",
-         "link": "https://expresso.pt/revista/culturas/musica/2024-06-06-musica-filigrana-e-labaredas-a-richard-thompson-35ebf0fe",
-         "author": "João Lisboa",
+         "id": "45f75183-7208-4019-9364-dac49b66ebe6",
+         "title": "Que política industrial para a União Europeia?",
+         "description": "É necessário reforçar o investimento na inovação e na investigação na Europa",
+         "link": "https://expresso.pt/opiniao/2024-06-06-que-politica-industrial-para-a-uniao-europeia--e431d0e3",
+         "author": "José Rijo",
          "published": 1717711020000,
          "created": 1717711020000,
-         "category": "Música",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-03-231028richardthompson0015-foto-david-kaptein_t-_idp.jpg-5c845d3a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-03-231028richardthompson0015-foto-david-kaptein_t-_idp.jpg-5c845d3a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-06-03-231028richardthompson0015-foto-david-kaptein_t-_idp.jpg-5c845d3a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
       },
       {
-         "id": "ea4f337a-439d-436d-aba3-083ea8b53d59",
-         "title": "Teatro: O que é um regresso a casa? “Blooming”, a nova peça de Marco Martins",
-         "description": "A partir de “Ulisses”, de Joyce, e da “Odisseia”, de Homero, Marco Martins constrói em “Blooming” uma reflexão sobre a procura de um lugar de abrigo. No Teatro São Luiz, em Lisboa, de 8 a 16",
-         "link": "https://expresso.pt/revista/culturas/teatro--danca/2024-06-06-teatro-o-que-e-um-regresso-a-casa--blooming-a-nova-peca-de-marco-martins-2382e30a",
-         "author": "João Carneiro",
+         "id": "adc12c3c-7c0d-4cdd-b1e7-840e3b348ac5",
+         "title": "Plano nacional de leituras",
+         "description": "Governo e oposição dependerão mais da nova paisagem europeia do que dos ares da pátria",
+         "link": "https://expresso.pt/opiniao/2024-06-06-plano-nacional-de-leituras-595399aa",
+         "author": "Ricardo Costa",
          "published": 1717711020000,
          "created": 1717711020000,
-         "category": "Teatro & Dança",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-03-ac---teatro-sao-luiz-estelle-valente-ent_id-_0001-_idp.jpg-53fbce15-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-03-ac---teatro-sao-luiz-estelle-valente-ent_id-_0001-_idp.jpg-53fbce15-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-06-03-ac---teatro-sao-luiz-estelle-valente-ent_id-_0001-_idp.jpg-53fbce15-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
       }
    ]
 }
