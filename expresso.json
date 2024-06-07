@@ -71,7 +71,10 @@
          "title": "“Estou disposta a debater com qualquer um”: Joana Amaral Dias e os laboratórios de armas abertos com a facilidade de estaminés de croquetes",
          "description": "“Nas nossas casas, só entra quem nós convidamos.\" A ideia da imigração seletiva defendida por Joana Amaral Dias ajuda a explicar por que foi para a rua debater com as pessoas que passavam. Afastada dos debates com os partidos com assento parlamentar, a candidata não se coibiu de transmitir as suas ideias na Praça do Rossio, em Lisboa. Da defesa do pacifismo à sexualização excessiva das crianças, da gestão “criminosa” da covid-19 às críticas às instituições europeias, todas as ideias encontraram (um número limitado de) simpatizantes",
          "link": "https://expresso.pt/politica/eleicoes/europeias-2024/2024-06-06-estou-disposta-a-debater-com-qualquer-um-joana-amaral-dias-e-os-laboratorios-de-armas-abertos-com-a-facilidade-de-estamines-de-croquetes-7d688058",
-         "author": "Catarina Maldonado Vasconcelos",
+         "author": [
+            "Catarina Maldonado Vasconcelos",
+            "Francisco Romão Pereira"
+         ],
          "published": 1717714812000,
          "created": 1717714812000,
          "category": "Europeias 2024",
@@ -247,35 +250,6 @@
          }
       },
       {
-         "id": "6156b908-51a8-48da-859a-7407fdaab4d7",
-         "title": "Sines precisa de 60% da eletricidade do país",
-         "description": "Transição. Projetos de descarbonização para a região vão consumir 30 TWh de eletricidade, mais de metade dos 50 TWh consumidos em 2023, diz o ex-presidente da AICEP, Filipe Costa. O desafio: como vão as redes acompanhar estes aumentos?",
-         "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2024-06-06-sines-precisa-de-60-da-eletricidade-do-pais-0da5a7c0",
-         "author": "Ana Baptista",
-         "published": 1717711020000,
-         "created": 1717711020000,
-         "category": "Projetos Expresso",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "ecd6178d-8834-42a8-8c65-41172e448453",
          "title": "Porquê “fazer um seguro de vida” se sabemos quando morremos?",
          "description": "Antecipação. As capacidades de previsão da inteligência artificial colocam desafios à banca e seguros que implicam  uma reflexão profunda sobre o seu modelo de negócio. As oportunidades são grandes se as decisões forem certeiras",
@@ -302,6 +276,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-06-05-jpg_6893_t-_idp.jpg-b8a2826e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "6156b908-51a8-48da-859a-7407fdaab4d7",
+         "title": "Sines precisa de 60% da eletricidade do país",
+         "description": "Transição. Projetos de descarbonização para a região vão consumir 30 TWh de eletricidade, mais de metade dos 50 TWh consumidos em 2023, diz o ex-presidente da AICEP, Filipe Costa. O desafio: como vão as redes acompanhar estes aumentos?",
+         "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2024-06-06-sines-precisa-de-60-da-eletricidade-do-pais-0da5a7c0",
+         "author": "Ana Baptista",
+         "published": 1717711020000,
+         "created": 1717711020000,
+         "category": "Projetos Expresso",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-alta-1800854084_t-_idp.jpg-e3687d51/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
