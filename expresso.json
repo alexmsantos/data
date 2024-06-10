@@ -72,8 +72,25 @@
          "published": 1718009162000,
          "created": 1718009162000,
          "category": "Europeias 2024",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-01-voto-antecipado-europeias-4e710e5c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-01-voto-antecipado-europeias-4e710e5c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-01-voto-antecipado-europeias-4e710e5c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "657285be-a326-438c-99d9-527f9ff30c29",
