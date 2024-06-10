@@ -6,18 +6,6 @@
    "category": [],
    "items": [
       {
-         "id": "64cb0ca4-5de1-418d-bd13-289d06a8a269",
-         "title": "Manifestações antifascista e nacionalista encontram-se no Padrão dos Descobrimentos",
-         "description": "Uma manifestação de vários movimentos antifascistas, intitulada Não Passarão, e outra de cariz nacionalista, associada ao Grupo 1143, estão este domingo a decorrer em simultâneo junto ao Padrão dos Descobrimentos, em Lisboa",
-         "link": "https://expresso.pt/sociedade/2024-06-10-manifestacoes-antifascista-e-nacionalista-encontram-se-no-padrao-dos-descobrimentos-236ef7b6",
-         "author": "Lusa",
-         "published": 1718038460000,
-         "created": 1718038460000,
-         "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "e98d4526-ad86-4401-b5c0-73c4d8f5e1c9",
          "title": "Um balanço europeu das eleições",
          "description": "Contrariamente aos títulos alarmistas, muitas vezes distópicos, dos principais meios de comunicação social, estas eleições europeias não entregaram a UE à extrema-direita. Mas em termos globais, podemos esperar uma transformação sem paralelo e regressiva do que se pode realisticamente esperar do projeto europeu",
@@ -256,6 +244,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-06-10-sudao.jpg-f50c758a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "c8ab2e86-88fe-4211-ae8d-94f6f38bd378",
+         "title": "Fotos de crianças brasileiras usadas indevidamente por ferramentas de Inteligência Artificial",
+         "description": "Fotografias de crianças e adolescentes brasileiros estão a ser usadas para criar poderosas ferramentas de inteligência artificial (IA) sem o conhecimento ou consentimento dos visados, denunciou hoje a Human Rights Watch (HRW)",
+         "link": "https://expresso.pt/sociedade/2024-06-10-fotos-de-criancas-brasileiras-usadas-indevidamente-por-ferramentas-de-inteligencia-artificial-9505dbac",
+         "author": "Lusa",
+         "published": 1718025777000,
+         "created": 1718025777000,
+         "category": "Sociedade",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-11-15-Computador.jpg-55d3d78d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-11-15-Computador.jpg-55d3d78d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-11-15-Computador.jpg-55d3d78d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
