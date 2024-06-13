@@ -43,8 +43,25 @@
          "published": 1718262095000,
          "created": 1718262095000,
          "category": "Cultura",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-13-site-marcha-de-alcantaraegeac-jose-frade-1024x669.jpg-bda9040f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-13-site-marcha-de-alcantaraegeac-jose-frade-1024x669.jpg-bda9040f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-13-site-marcha-de-alcantaraegeac-jose-frade-1024x669.jpg-bda9040f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "92bfbe4e-731f-4bf3-8de3-4870e6afd1e2",
