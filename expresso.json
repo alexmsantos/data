@@ -9,7 +9,7 @@
          "id": "ce19f60b-feaa-416a-b9a5-703f002281b0",
          "title": "A 1ª página do Expresso Economia",
          "description": "",
-         "link": "https://expresso.pt/Capas/2024-06-13-a-1-pagina-do-expresso-economia-3bbe3933",
+         "link": "https://expresso.pt/semanario/economia",
          "author": "Expresso",
          "published": 1718316139000,
          "created": 1718316139000,
@@ -38,7 +38,7 @@
          "id": "76a8d9bb-3fb6-4170-9e17-26498ad722d8",
          "title": "O que vai na cabeça de Roberto Martínez, na revista E",
          "description": "",
-         "link": "https://expresso.pt/Capas/2024-06-13-o-que-vai-na-cabeca-de-roberto-martinez-na-revista-e-0f9bdd15",
+         "link": "https://expresso.pt/semanario/revista-e",
          "author": "Expresso",
          "published": 1718316081000,
          "created": 1718316081000,
@@ -67,7 +67,7 @@
          "id": "a70b6b11-d8a9-4c78-b005-692f2615d91b",
          "title": "A primeira página do Expresso",
          "description": "",
-         "link": "https://expresso.pt/Capas/2024-06-13-a-primeira-pagina-do-expresso-171ecb72",
+         "link": "https://expresso.pt/semanario/primeiro",
          "author": "Expresso",
          "published": 1718316022000,
          "created": 1718316022000,
@@ -134,18 +134,6 @@
          "media": {}
       },
       {
-         "id": "ceff611d-babf-4c55-b070-d558a0121c54",
-         "title": "Eleições com alhos com bugalhos",
-         "description": "",
-         "link": "https://expresso.pt/semanario/primeiro/cartas/2024-06-13-eleicoes-com-alhos-com-bugalhos-54ae97b0",
-         "author": "Expresso",
-         "published": 1718315820000,
-         "created": 1718315820000,
-         "category": "Cartas",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "fc48c48c-7e7f-4281-9130-673248cc17df",
          "title": "Receita. Batatas com um toque de magia",
          "description": "Com sobrasada (linguiça crua curada), queijo e mel, aprenda a preparar um petisco simples e saboroso",
@@ -175,33 +163,16 @@
          }
       },
       {
-         "id": "93fa2437-edc5-4bba-a959-d13f5d9bfc2e",
-         "title": "Construção aumentou 9,5% no início do ano",
-         "description": "O primeiro trimestre de 2024 foi aquele em que mais casas ficaram concluídas desde 2011",
-         "link": "https://expresso.pt/economia/economia_imobiliario/2024-06-13-construcao-aumentou-95-no-inicio-do-ano-148744b9",
-         "author": "Rita Robalo Rosa",
+         "id": "ceff611d-babf-4c55-b070-d558a0121c54",
+         "title": "Eleições com alhos com bugalhos",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro/cartas/2024-06-13-eleicoes-com-alhos-com-bugalhos-54ae97b0",
+         "author": "Expresso",
          "published": 1718315820000,
          "created": 1718315820000,
-         "category": "Imobiliário",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-12-effbwrnhj_t-_idp.jpg-fcdbe6ea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-12-effbwrnhj_t-_idp.jpg-fcdbe6ea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-06-12-effbwrnhj_t-_idp.jpg-fcdbe6ea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
+         "category": "Cartas",
+         "enclosures": [],
+         "media": {}
       },
       {
          "id": "0c0fcb0d-3bd5-4b24-ab2d-2a7f860cc7bc",
@@ -221,6 +192,18 @@
          "description": "Agora, há cada vez menos incentivos para que os mais competentes da classe média trabalhem mais, o que para o Chega é, afinal, indiferente",
          "link": "https://expresso.pt/opiniao/2024-06-13-chega-de-que--e7dfa090",
          "author": "João Duque",
+         "published": 1718315820000,
+         "created": 1718315820000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "7fd1fbd5-2be6-432c-9744-3ddf6a9a46d0",
+         "title": "Temos Orçamento!",
+         "description": "O combate ao populismo, de esquerda e de direita, é o grande desafio dos próximos anos. Da imigração à transição ecológica, dos nacionalismos ao federalismo europeu, do egoísmo à solidariedade",
+         "link": "https://expresso.pt/opiniao/2024-06-13-temos-orcamento-ba722404",
+         "author": "Luís Marques",
          "published": 1718315820000,
          "created": 1718315820000,
          "category": "Opinião",
