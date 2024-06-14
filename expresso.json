@@ -6,6 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "14549aff-6e80-4e84-8b8a-173d4987ec27",
+         "title": "Santa Casa negociou com a máfia brasileira, Costa e a presidência do Conselho Europeu e as escolhas de Martínez rumo ao Euro 2024",
+         "description": "Em semana de pós-europeias e pré-europeu, o semanário olha para os impactos das eleições de domingo passado e para as possibilidades da seleção nacional no Euro 2024, mas a manchete fala da investigação aos negócios entre a Santa Casa e a máfia brasileira. No caderno de Economia, falamos dos 'pais-helicóptero' - perceba o que são nesta edição. Em semana de Santo António, conte ainda com um suplemento especial dedicado às Marchas Populares",
+         "link": "https://expresso.pt/arquivo/Expresso/Multimdia/2024-06-14-video-santa-casa-negociou-com-a-mafia-brasileira-costa-e-a-presidencia-do-conselho-europeu-e-as-escolhas-de-martinez-rumo-ao-euro-2024-338adcac",
+         "author": [
+            "Martim Silva",
+            "Gonçalo Taborda",
+            "José Cedovim Pinto"
+         ],
+         "published": 1718346331000,
+         "created": 1718346331000,
+         "category": "Multimédia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-13-img_2184.jpg-de4d8a54/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-13-img_2184.jpg-de4d8a54/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-13-img_2184.jpg-de4d8a54/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "8ab331a9-6a2a-4db3-9e6a-75bbfad01db8",
          "title": "Top job for the Boy: António Costa está quase lá",
          "description": "Na segunda-feira, os lideres europeus reunem-se num jantar informal e a distribuição dos top jobs, que resulta das negociações feitas pelos representantes das principais famílias europeias, fará parte do menu. António Costa é um dos nomes. Ouça a análise de Susana Frexes, correspondente da SIC e do Expresso em Bruxelas",
@@ -195,18 +228,6 @@
          "media": {}
       },
       {
-         "id": "ceff611d-babf-4c55-b070-d558a0121c54",
-         "title": "Eleições com alhos com bugalhos",
-         "description": "",
-         "link": "https://expresso.pt/semanario/primeiro/cartas/2024-06-13-eleicoes-com-alhos-com-bugalhos-54ae97b0",
-         "author": "Expresso",
-         "published": 1718315820000,
-         "created": 1718315820000,
-         "category": "Cartas",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "fc48c48c-7e7f-4281-9130-673248cc17df",
          "title": "Receita. Batatas com um toque de magia",
          "description": "Com sobrasada (linguiça crua curada), queijo e mel, aprenda a preparar um petisco simples e saboroso",
@@ -236,33 +257,16 @@
          }
       },
       {
-         "id": "93fa2437-edc5-4bba-a959-d13f5d9bfc2e",
-         "title": "Construção aumentou 9,5% no início do ano",
-         "description": "O primeiro trimestre de 2024 foi aquele em que mais casas ficaram concluídas desde 2011",
-         "link": "https://expresso.pt/economia/economia_imobiliario/2024-06-13-construcao-aumentou-95-no-inicio-do-ano-148744b9",
-         "author": "Rita Robalo Rosa",
+         "id": "ceff611d-babf-4c55-b070-d558a0121c54",
+         "title": "Eleições com alhos com bugalhos",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro/cartas/2024-06-13-eleicoes-com-alhos-com-bugalhos-54ae97b0",
+         "author": "Expresso",
          "published": 1718315820000,
          "created": 1718315820000,
-         "category": "Imobiliário",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-12-effbwrnhj_t-_idp.jpg-fcdbe6ea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-12-effbwrnhj_t-_idp.jpg-fcdbe6ea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-06-12-effbwrnhj_t-_idp.jpg-fcdbe6ea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
+         "category": "Cartas",
+         "enclosures": [],
+         "media": {}
       }
    ]
 }
