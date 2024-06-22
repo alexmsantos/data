@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "b34a08ae-ffae-4137-a35e-e7a81b1b4658",
+         "title": "Bombardeamento russo provoca três mortos em Kharkiv: 849º dia de guerra",
+         "description": "Durante a tarde deste sábado, um bombardeamento russo acabou por vitimar três pessoas e ferir outras 52 na cidade de Kharkiv",
+         "link": "https://expresso.pt/internacional/guerra-na-ucrania/2024-06-22-bombardeamento-russo-provoca-tres-mortos-em-kharkiv-849-dia-de-guerra-fd32f822",
+         "author": "Expresso",
+         "published": 1719095856000,
+         "created": 1719095856000,
+         "category": "Guerra na Ucrânia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-13-kharkiv-ucrania-guerra-e7675119/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-13-kharkiv-ucrania-guerra-e7675119/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-05-13-kharkiv-ucrania-guerra-e7675119/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "c9ffe568-f6e5-4ea8-8b4f-28c9af4eaf97",
          "title": "Tropas israelitas levam a cabo mais um massacre na Faixa de Gaza: 262 dias de guerra",
          "description": "As forças israelitas bombardearam várias zonas de Gaza, provocando a morte de, pelo menos, 42 palestinianos. Em 24 horas, Israel vitimou mais de 100 pessoas residentes em Gaza",
@@ -251,35 +280,6 @@
          "category": "Sociedade",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "2a93b721-06ec-420f-aaad-3cadddc5254d",
-         "title": "Bernardo Silva: “É triste ver malta nova a querer emigrar, à procura de melhores salários e empregos, mas não consigo dizer mal de Portugal”",
-         "description": "\"Inglaterra e França podem fazer três equipas, mas nós temos a obrigação de olhar para esta competição com a máxima ambição.\" No dia em que Portugal defronta a Turquia na fase de grupos do Europeu masculino de futebol, Daniel Oliveira recebe no Alta Definição em podcast o icónico número 10 da seleção nacional, Bernardo Silva",
-         "link": "https://expresso.pt/podcasts/alta-definicao/2024-06-22-bernardo-silva-e-triste-ver-malta-nova-a-querer-emigrar-a-procura-de-melhores-salarios-e-empregos-mas-nao-consigo-dizer-mal-de-portugal-780b2803",
-         "author": "SIC",
-         "published": 1719065700000,
-         "created": 1719065700000,
-         "category": "Alta Definição",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/olimpia/2022-06-09-Bernardo-Silva-Selecao.jpg-180c4dce/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/olimpia/2022-06-09-Bernardo-Silva-Selecao.jpg-180c4dce/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/olimpia/2022-06-09-Bernardo-Silva-Selecao.jpg-180c4dce/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
