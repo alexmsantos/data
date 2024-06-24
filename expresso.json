@@ -246,8 +246,25 @@
          "published": 1719213038000,
          "created": 1719213038000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-24-aguiar-branco-marcelo-moreira-montenegro-da39b186/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-24-aguiar-branco-marcelo-moreira-montenegro-da39b186/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-24-aguiar-branco-marcelo-moreira-montenegro-da39b186/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "e7503626-e66b-4714-ab93-7a133ddc6b0f",
