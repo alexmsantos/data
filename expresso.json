@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "c58cd522-9b13-485f-a3f7-0d7efbf7e15c",
+         "title": "Depressão traz chuva, granizo e trovoada ao continente desde quarta-feira até domingo",
+         "description": "A partir da tarde de esta quarta-feira está prevista a ocorrência de aguaceiros no interior norte, que poderão ser acompanhados de trovoada",
+         "link": "https://expresso.pt/sociedade/meteorologia/2024-06-26-depressao-traz-chuva-granizo-e-trovoada-ao-continente-desde-quarta-feira-ate-domingo-6684e2ea",
+         "author": "Lusa",
+         "published": 1719417360000,
+         "created": 1719417360000,
+         "category": "Meteorologia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-10-29-chuva-999e1b05/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-10-29-chuva-999e1b05/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-10-29-chuva-999e1b05/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "9f4014a5-f7c9-4724-860b-44e16f584479",
          "title": "Ana Arrebetinha: “Quem vê reality-shows consegue ser muito duro; já cheguei a mandar o Twitter abaixo. Mas também me trouxe público”",
          "description": "A humorista vem falar sobre a sua profissão e sobre o que mais a caracteriza, neste mais recente episódio do Curto Circuito versão podcast",
@@ -93,35 +122,6 @@
          }
       },
       {
-         "id": "9f9194e0-1f99-448b-9b77-7a8341ac7edf",
-         "title": "José Miguel Júdice: “Com a queda que tiveram ao longo dos anos, o PCP e o BE parecem dois náufragos a bracejar para não se afogarem”",
-         "description": "O que justifica a crise à esquerda em Portugal e na Europa? A análise de José Miguel Júdice em As Causas, em podcast",
-         "link": "https://expresso.pt/podcasts/as-causas-de-jose-miguel-judice/2024-06-26-jose-miguel-judice-com-a-queda-que-tiveram-ao-longo-dos-anos-o-pcp-e-o-be-parecem-dois-naufragos-a-bracejar-para-nao-se-afogarem-aab687a1",
-         "author": "SIC Notícias",
-         "published": 1719414000000,
-         "created": 1719414000000,
-         "category": "As Causas de José Miguel Júdice",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-03-13-Judice-97756dac/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-03-13-Judice-97756dac/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-03-13-Judice-97756dac/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "28520d55-d8f9-4c2a-a2fe-a0940becdfb6",
          "title": "De Espinho para o mundo: como nasceu 'De Portugal Eu Sou', o hino não oficial de Portugal no Euro 2024",
          "description": "Começou a soar baixinho em Espinho e em meses tornou-se presença habitual em estádios e pavilhões um pouco por todo o Portugal. Letra mais simples não haverá e o Euro 2024 já se rendeu ao lusitano lá lá lá. Segunda-feira, há novo concerto na digressão pela Alemanha e é certa a animação na bancada, a fazer tudo para garantir que Portugal ganha",
@@ -145,6 +145,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-06-25-pag012_2696_v1.jpg-49ac4c81/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "9f9194e0-1f99-448b-9b77-7a8341ac7edf",
+         "title": "José Miguel Júdice: “Com a queda que tiveram ao longo dos anos, o PCP e o BE parecem dois náufragos a bracejar para não se afogarem”",
+         "description": "O que justifica a crise à esquerda em Portugal e na Europa? A análise de José Miguel Júdice em As Causas, em podcast",
+         "link": "https://expresso.pt/podcasts/as-causas-de-jose-miguel-judice/2024-06-26-jose-miguel-judice-com-a-queda-que-tiveram-ao-longo-dos-anos-o-pcp-e-o-be-parecem-dois-naufragos-a-bracejar-para-nao-se-afogarem-aab687a1",
+         "author": "SIC Notícias",
+         "published": 1719414000000,
+         "created": 1719414000000,
+         "category": "As Causas de José Miguel Júdice",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-03-13-Judice-97756dac/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-03-13-Judice-97756dac/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-03-13-Judice-97756dac/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-04-23-joao-cotrim-de-figueiredo-83e987f7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "a0d9b95d-25a2-41e5-a17a-a4a3e0d01590",
-         "title": "Os Pearl Jam já estão na Europa: isto é o que eles andam a fazer (e a tocar) a duas semanas do NOS Alive",
-         "description": "Faltam poucos dias para que os Pearl Jam voltem a pisar um palco português: o dia do regresso da banda de Seattle ao festival NOS Alive, a Algés, está há muito esgotado. O grupo já aterrou na Europa, deu concertos na Irlanda e no Reino Unido com alinhamentos diferentes e um Eddie Vedder a braços com um vírus que não o mandou abaixo. Parece haver margem para surpresas e, pelo menos, uma certeza: “um espetáculo baseado na crença do rock and roll enquanto força do bem”",
-         "link": "https://expresso.pt/blitz/2024-06-26-os-pearl-jam-ja-estao-na-europa-isto-e-o-que-eles-andam-a-fazer--e-a-tocar--a-duas-semanas-do-nos-alive-173cd1b4",
-         "author": "Paulo André Cecílio",
-         "published": 1719413008000,
-         "created": 1719413008000,
-         "category": "Blitz",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-26-pearl-jam-87b16f11/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-26-pearl-jam-87b16f11/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-06-26-pearl-jam-87b16f11/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
