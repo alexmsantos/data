@@ -6,6 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "333d5d96-b844-41e9-91be-0cea9b5e563b",
+         "title": "Lena d’Água: “Fiz imensas amizades em fóruns da internet por causa do Big Brother, algumas malandras, outras que mantenho até hoje”",
+         "description": "“Tinha achado muito interessante o primeiro ‘Big Brother’ e quando chega o primeiro Famosos, pensei: ‘espera aí, da próxima vez...’ Puseram-me na rua logo ao fim de duas semanas.” No Posto Emissor, Lena d’Água recorda como decidiu participar no “Big Brother Famosos”, há 22 anos, e a sua experiência no <i>reality show </i>com Cláudio Ramos e Ruth Marlene",
+         "link": "https://expresso.pt/blitz/2024-06-26-lena-dagua-fiz-imensas-amizades-em-foruns-da-internet-por-causa-do-big-brother-algumas-malandras-outras-que-mantenho-ate-hoje-85c1cefc",
+         "author": [
+            "Mário Rui Vieira",
+            "João Luís Amorim",
+            "Rita Carmo"
+         ],
+         "published": 1719417541000,
+         "created": 1719417541000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-19-_rc05336_ritacarmo.jpg-00cf6a99/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-19-_rc05336_ritacarmo.jpg-00cf6a99/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-19-_rc05336_ritacarmo.jpg-00cf6a99/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "c58cd522-9b13-485f-a3f7-0d7efbf7e15c",
          "title": "Depressão traz chuva, granizo e trovoada ao continente desde quarta-feira até domingo",
          "description": "A partir da tarde de esta quarta-feira está prevista a ocorrência de aguaceiros no interior norte, que poderão ser acompanhados de trovoada",
@@ -122,35 +155,6 @@
          }
       },
       {
-         "id": "28520d55-d8f9-4c2a-a2fe-a0940becdfb6",
-         "title": "De Espinho para o mundo: como nasceu 'De Portugal Eu Sou', o hino não oficial de Portugal no Euro 2024",
-         "description": "Começou a soar baixinho em Espinho e em meses tornou-se presença habitual em estádios e pavilhões um pouco por todo o Portugal. Letra mais simples não haverá e o Euro 2024 já se rendeu ao lusitano lá lá lá. Segunda-feira, há novo concerto na digressão pela Alemanha e é certa a animação na bancada, a fazer tudo para garantir que Portugal ganha",
-         "link": "https://expresso.pt/revista/fisga/2024-06-26-de-espinho-para-o-mundo-como-nasceu-de-portugal-eu-sou-o-hino-nao-oficial-de-portugal-no-euro-2024-46c314c2",
-         "author": "Luciana Leiderfarb",
-         "published": 1719414000000,
-         "created": 1719414000000,
-         "category": "Fisga",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-25-pag012_2696_v1.jpg-49ac4c81/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-06-25-pag012_2696_v1.jpg-49ac4c81/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-06-25-pag012_2696_v1.jpg-49ac4c81/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "9f9194e0-1f99-448b-9b77-7a8341ac7edf",
          "title": "José Miguel Júdice: “Com a queda que tiveram ao longo dos anos, o PCP e o BE parecem dois náufragos a bracejar para não se afogarem”",
          "description": "O que justifica a crise à esquerda em Portugal e na Europa? A análise de José Miguel Júdice em As Causas, em podcast",
@@ -174,6 +178,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-03-13-Judice-97756dac/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "28520d55-d8f9-4c2a-a2fe-a0940becdfb6",
+         "title": "De Espinho para o mundo: como nasceu 'De Portugal Eu Sou', o hino não oficial de Portugal no Euro 2024",
+         "description": "Começou a soar baixinho em Espinho e em meses tornou-se presença habitual em estádios e pavilhões um pouco por todo o Portugal. Letra mais simples não haverá e o Euro 2024 já se rendeu ao lusitano lá lá lá. Segunda-feira, há novo concerto na digressão pela Alemanha e é certa a animação na bancada, a fazer tudo para garantir que Portugal ganha",
+         "link": "https://expresso.pt/revista/fisga/2024-06-26-de-espinho-para-o-mundo-como-nasceu-de-portugal-eu-sou-o-hino-nao-oficial-de-portugal-no-euro-2024-46c314c2",
+         "author": "Luciana Leiderfarb",
+         "published": 1719414000000,
+         "created": 1719414000000,
+         "category": "Fisga",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-25-pag012_2696_v1.jpg-49ac4c81/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-25-pag012_2696_v1.jpg-49ac4c81/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-25-pag012_2696_v1.jpg-49ac4c81/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +294,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-06-21-pixel-8a_partbreakdown.png-3b7898bc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "77a409b8-9b0d-4ae3-a416-5586e7a51329",
-         "title": "Cotrim em “aprendizagem rápida” nos corredores de Bruxelas: “Há uma maneira de fazer política que implica muito mais do que ter razão”",
-         "description": "Uma vitória e um amargo de boca para o eurodeputado português. João Cotrim de Figueiredo conquistou uma das vice-presidências da bancada liberal do Parlamento Europeu (PE). Mas viu os liberais contribuírem para o acordo que abre caminho para António Costa no Conselho Europeu (CE)",
-         "link": "https://expresso.pt/politica/2024-06-26-cotrim-em-aprendizagem-rapida-nos-corredores-de-bruxelas-ha-uma-maneira-de-fazer-politica-que-implica-muito-mais-do-que-ter-razao-eccd4592",
-         "author": "Liliana Coelho",
-         "published": 1719413209000,
-         "created": 1719413209000,
-         "category": "Política",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-04-23-joao-cotrim-de-figueiredo-83e987f7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-04-23-joao-cotrim-de-figueiredo-83e987f7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-04-23-joao-cotrim-de-figueiredo-83e987f7/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
