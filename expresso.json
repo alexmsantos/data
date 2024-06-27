@@ -7,9 +7,9 @@
    "items": [
       {
          "id": "3f6e79d0-b4a5-4afa-9716-a9daff32a441",
-         "title": "Inimigo Público: Portugal inteiro está eufórico e esquece Europeu para vitoriar Costa",
+         "title": "Manchete Inimigo Público: Portugal inteiro está eufórico e esquece Europeu para vitoriar Costa",
          "description": "O interesse dos portugueses no Europeu de futebol esmoreceu completamente, esta semana, com um novo foco do orgulho nacional que levou as pessoas à rua a buzinar, cantar o hino, atirar rosas às estátuas dos poetas ou ir a Fátima de trotinete para agradecer à Virgem: a eleição de António Costa para presidente do Conselho Europeu. Leia tudo n'O Inimigo Público",
-         "link": "https://expresso.pt/inimigo-publico/2024-06-27-inimigo-publico-portugal-inteiro-esta-euforico-e-esquece-europeu-para-vitoriar-costa-f61bf819",
+         "link": "https://expresso.pt/inimigo-publico/2024-06-27-manchete-inimigo-publico-portugal-inteiro-esta-euforico-e-esquece-europeu-para-vitoriar-costa-f61bf819",
          "author": "Inimigo Público",
          "published": 1719527400000,
          "created": 1719527400000,
@@ -87,6 +87,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2023-11-17-Isaltino-Morais-1493b48a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "86ce3d6a-f82c-4102-888d-2a5bf4cffde9",
+         "title": "Inimigo Público: Guterres diz que invasões de campo no Euro 2024 “não aconteceram no vácuo”",
+         "description": "O secretário-geral das Nações Unidas fez um discurso duro sobre a onda de invasões de campo que tem acontecido nos jogos do Euro 2024. Leia tudo n'O Inimigo Público",
+         "link": "https://expresso.pt/inimigo-publico/2024-06-27-inimigo-publico-guterres-diz-que-invasoes-de-campo-no-euro-2024-nao-aconteceram-no-vacuo-9fff6236",
+         "author": "Inimigo Público",
+         "published": 1719527400000,
+         "created": 1719527400000,
+         "category": "Inimigo Público",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-antonio-guterres-6c8122c0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-antonio-guterres-6c8122c0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-05-antonio-guterres-6c8122c0/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -265,18 +294,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "a5f77715-d845-4c84-b48b-447b73c8ee66",
-         "title": "Guston ao vivo",
-         "description": "A violência na História, e na história da arte, era-lhe familiar, das cenas de flagelação medieval às tensões americanas da década de 1960, dos pogroms ao Holocausto",
-         "link": "https://expresso.pt/opiniao/2024-06-27-guston-ao-vivo-2839e5f6",
-         "author": "Pedro Mexia",
-         "published": 1719525420000,
-         "created": 1719525420000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
