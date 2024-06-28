@@ -75,8 +75,25 @@
          "published": 1719601200000,
          "created": 1719601200000,
          "category": "Guerra na Ucrânia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-20-volodymyr-zelensky-ao-lado-de-um-sistema-de-defesa-patriot-34b867d6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-20-volodymyr-zelensky-ao-lado-de-um-sistema-de-defesa-patriot-34b867d6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-20-volodymyr-zelensky-ao-lado-de-um-sistema-de-defesa-patriot-34b867d6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "ca01341a-2f8e-4067-a377-1752518e0ac7",
