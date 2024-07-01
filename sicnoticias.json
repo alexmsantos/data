@@ -14,8 +14,25 @@
          "published": 1719828458000,
          "created": 1719828458000,
          "category": "Cultura",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-07-01-fausto-bordalo-dias-c73f6345/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-07-01-fausto-bordalo-dias-c73f6345/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-07-01-fausto-bordalo-dias-c73f6345/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "dd1d8e31-d3f1-42d7-97e8-64fd14f68fff",
