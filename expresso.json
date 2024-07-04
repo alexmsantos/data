@@ -6,6 +6,47 @@
    "category": [],
    "items": [
       {
+         "id": "9eb3778d-2589-4274-b757-04684c8bf6f9",
+         "title": "Quando há ideologia a menos",
+         "description": "É comum falar-se de ideologia a mais. Mas o contrário encerra muitos perigos, como nos mostra França",
+         "link": "https://expresso.pt/opiniao/2024-07-04-quando-ha-ideologia-a-menos-8613721a",
+         "author": "Ricardo Costa",
+         "published": 1720126800000,
+         "created": 1720126800000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "5c2b4ea0-4502-4781-9d8f-7de417257471",
+         "title": "Apoio ao 7 de outubro diminuiu e Hamas enfrenta cada vez mais dissidência em Gaza (dia 274 da guerra no Médio Oriente)",
+         "description": "Alguns funcionários do Hamas admitem mesmo à “BBC” que o ataque de 7 de outubro foi um passo mal calculado. Ao longo da fronteira libanesa, aumentam as retaliações entre o Hezbollah e Israel. Eis os destaques do 274º. dia de guerra no Médio Oriente",
+         "link": "https://expresso.pt/internacional/medio-oriente/guerra-israel-hamas/2024-07-04-apoio-ao-7-de-outubro-diminuiu-e-hamas-enfrenta-cada-vez-mais-dissidencia-em-gaza--dia-274-da-guerra-no-medio-oriente--8b1cc88d",
+         "author": "Catarina Maldonado Vasconcelos",
+         "published": 1720126760000,
+         "created": 1720126760000,
+         "category": "Guerra no Médio Oriente",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-04-khan-yunis-265e3168/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-04-khan-yunis-265e3168/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-07-04-khan-yunis-265e3168/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "f79f7cf8-c794-49cc-98d5-2241ab7193bc",
          "title": "Centeno tem razão \"na teoria\", diz Lagarde. \"Podemos descer os juros em todas as reuniões deste ano. Mas só com dados fortes\"",
          "description": "Em entrevista à RTP, a líder da autoridade financeira elogiou o estado das finanças públicas de Portugal, mas deixou alertas sobre o nível de desemprego jovem",
@@ -249,71 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-07-04-viktor-orban-b1af7d90/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "dc0e47c2-d9f5-42a3-b054-a0fd21c4790a",
-         "title": "Entrevista de vida a Maria do Rosário Carneiro: “Ninguém cede poder. O poder conquista-se”",
-         "description": "Nascida em 1948, Maria do Rosário Carneiro teve nove filhos, sem nunca deixar de trabalhar. O pai participou em governos da ditadura, a mãe incentivou-a a ser autónoma. Professora universitária e deputada independente nas listas do Partido Socialista, certo dia ajudou a mudar uma lei trocando uma palavra.  Aos 75 anos, abre o livro de uma vida admirável",
-         "link": "https://expresso.pt/semanario/revista-e/-e/2024-07-04-entrevista-de-vida-a-maria-do-rosario-carneiro-ninguem-cede-poder.-o-poder-conquista-se-cdca2f97",
-         "author": [
-            "João Pacheco",
-            "António Pedro Ferreira"
-         ],
-         "published": 1720116000000,
-         "created": 1720116000000,
-         "category": "+E",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-07-01-_apf9736_t-_idp.jpg-7cd85e3d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-07-01-_apf9736_t-_idp.jpg-7cd85e3d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-07-01-_apf9736_t-_idp.jpg-7cd85e3d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "7253503e-8f97-4a9e-94a9-78dca23364f2",
-         "title": "Baixar o IRS este ano era um \"compromisso\" que \"já não está de pé\", assume Castro Almeida",
-         "description": "Em entrevista ao Expresso, o ministro Adjunto e da Coesão diz que é preciso esperar pela decisão do Presidente da República sobre a constitucionalidade da descida de IRS que acabou aprovada pelo Parlamento, mas defende que se as regras mudaram, o compromisso do Governo de baixar o IRS este ano “já não está de pé”",
-         "link": "https://expresso.pt/politica/governo/2024-07-04-baixar-o-irs-este-ano-era-um-compromisso-que-ja-nao-esta-de-pe-assume-castro-almeida-70f2a929",
-         "author": [
-            "Liliana Valente",
-            "Mariana Coelho Dias",
-            "Tiago Miranda"
-         ],
-         "published": 1720115296000,
-         "created": 1720115296000,
-         "category": "Governo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-07-01-ministro-castro-almeida-c27beb82/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-07-01-ministro-castro-almeida-c27beb82/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-07-01-ministro-castro-almeida-c27beb82/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
