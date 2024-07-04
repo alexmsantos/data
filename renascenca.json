@@ -353,7 +353,13 @@
          "published": 1720070419000,
          "created": 1720070419000,
          "category": [],
-         "enclosures": [],
+         "enclosures": [
+            {
+               "url": "https://d1gifpnctlcmg5.cloudfront.net/be03b976-08ec-46ac-b8a1-8cd7b89206b0/sources/f26cdfcb-c677-4443-80e8-c1044296e245.mp3",
+               "length": "40665",
+               "type": "audio/mp3"
+            }
+         ],
          "media": {}
       },
       {
