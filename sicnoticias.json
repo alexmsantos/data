@@ -72,8 +72,25 @@
          "published": 1720253183000,
          "created": 1720253183000,
          "category": "UEFA Euro 2024",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-06-30-treino-selecao-nacional-8117c830-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-06-30-treino-selecao-nacional-8117c830-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-06-30-treino-selecao-nacional-8117c830-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "8481d95b-1a54-420d-a983-ec4af01a2fec",
