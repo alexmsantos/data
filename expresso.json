@@ -46,8 +46,25 @@
          "published": 1720339918000,
          "created": 1720339918000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-07-istsat1-150x150.jpg-3ff5ac5f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-07-istsat1-150x150.jpg-3ff5ac5f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-07-07-istsat1-150x150.jpg-3ff5ac5f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "27481f0f-d111-4b17-ad91-8e8fcae0cacd",
