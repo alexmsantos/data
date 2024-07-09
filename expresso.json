@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2024 em Portugal",
+         "description": "Tudo o que precisa de saber sobre os concertos e festivais marcados para o novo ano: uma agenda sempre em atualização",
+         "link": "https://expresso.pt/blitz/2024-07-09-todos-os-concertos-marcados-para-2024-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1720513740000,
+         "created": 1720513740000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-_rc01084_ritacarmo.jpg-7e6f63c7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-_rc01084_ritacarmo.jpg-7e6f63c7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-_rc01084_ritacarmo.jpg-7e6f63c7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "fe3ffe41-3f6c-44f0-b335-e1ff4ba2c831",
          "title": "Óleo de fígado de bacalhau",
          "description": "Jordan Bardella não será primeiro-ministro, o que é bom. Para a UE, o melhor que a Nova Frente Popular tem é não ser a extrema-direita. Mas o seu programa e as posições da França Insubmissa não sossegam",
@@ -124,9 +153,12 @@
       {
          "id": "936a0af2-0d2d-46f8-a224-c6aeb74f47f8",
          "title": "Estações desenhadas por Siza Vieira para o metrobus do Porto são \"matacões\" feitos \"pelo Obélix\", critica Rui Moreira",
-         "description": "Autarca portuense garante que “não gostou” das estações da autoria do premiado arquiteto e, entre críticas duras, conclui: \"É a questão das vacas sagradas”",
+         "description": "Autarca portuense garante que “não gostou” das estações da autoria do premiado arquiteto 91 anos e, entre críticas duras, conclui: \"É a questão das vacas sagradas”",
          "link": "https://expresso.pt/sociedade/2024-07-09-estacoes-desenhadas-por-siza-vieira-para-o-metrobus-do-porto-sao-matacoes-feitos-pelo-obelix-critica-rui-moreira-4b477ccf",
-         "author": "Lusa",
+         "author": [
+            "Lusa",
+            "Expresso"
+         ],
          "published": 1720512000000,
          "created": 1720512000000,
          "category": "Sociedade",
@@ -265,35 +297,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-07-08-palavras-cruzadas--002-.jpg-b95d7619/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f3c136e1-9fbd-4bdf-80a0-a7ca207c08de",
-         "title": "GuestReady prevê mais do que duplicar o portefólio de alojamento local em Portugal",
-         "description": "Atualmente a gerir 1300 propriedades no país, com destaque para Lisboa e Porto, a plataforma tecnológica quer atingir até 3 mil unidades nos próximos anos, apostando também em cidades como Aveiro, Coimbra, Guimarães ou Braga",
-         "link": "https://expresso.pt/economia/economia_turismo/2024-07-09-guestready-preve-mais-do-que-duplicar-o-portefolio-de-alojamento-local-em-portugal-22b5d347",
-         "author": "Conceição Antunes",
-         "published": 1720507894000,
-         "created": 1720507894000,
-         "category": "Turismo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2020-11-26-Alojamento-Local-05_T-_IDP.jpg/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2020-11-26-Alojamento-Local-05_T-_IDP.jpg/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2020-11-26-Alojamento-Local-05_T-_IDP.jpg/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
