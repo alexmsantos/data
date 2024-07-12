@@ -14,8 +14,25 @@
          "published": 1720806895000,
          "created": 1720806895000,
          "category": "Blitz",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-12-_rc08181_ritacarmo.jpg-3964a1e8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-12-_rc08181_ritacarmo.jpg-3964a1e8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-07-12-_rc08181_ritacarmo.jpg-3964a1e8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "01bdd3e4-7128-43d3-af28-f41fc16f0110",
