@@ -7,9 +7,9 @@
    "items": [
       {
          "id": "63728a7a-5437-468c-87c7-a5dfaf244d6a",
-         "title": "Mapa interativo: sabe quantos radares de velocidade há em Portugal? E onde estão? E quais os limites que impõem?",
+         "title": "Mapa interativo: quantos radares de velocidade há em Portugal? E onde estão? E quais os limites que impõem?",
          "description": "Fique a conhecer onde estão instalados todos os radares de velocidade média e velocidade instantânea, de forma a evitar ser apanhado desprevenido na estrada",
-         "link": "https://expresso.pt/sociedade/2024-07-13-mapa-interativo-sabe-quantos-radares-de-velocidade-ha-em-portugal--e-onde-estao--e-quais-os-limites-que-impoem--165f5270",
+         "link": "https://expresso.pt/sociedade/2024-07-13-mapa-interativo-quantos-radares-de-velocidade-ha-em-portugal--e-onde-estao--e-quais-os-limites-que-impoem--165f5270",
          "author": "Jaime Figueiredo",
          "published": 1720865517000,
          "created": 1720865517000,
@@ -29,6 +29,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-07-11-radar-2.jpg-afec8c5a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "8b22e3fc-bd88-4585-ad3c-ac4e62515c27",
+         "title": "Zuckerberg levanta restrições às contas de Trump no Facebook e Instagram. A equipa de Biden fala num “ataque à democracia”",
+         "description": "Donald Trump, \"como candidato do Partido Republicano, não estará sujeito a sanções de suspensão reforçadas\", informou a Meta Platforms Inc.",
+         "link": "https://expresso.pt/internacional/2024-07-13-zuckerberg-levanta-restricoes-as-contas-de-trump-no-facebook-e-instagram.-a-equipa-de-biden-fala-num-ataque-a-democracia-e97531d9",
+         "author": "Lusa",
+         "published": 1720865279000,
+         "created": 1720865279000,
+         "category": "Internacional",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-27-donald-trump-eua-75250b24/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-05-27-donald-trump-eua-75250b24/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-05-27-donald-trump-eua-75250b24/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -265,39 +294,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-07-13-_rc09867_ritacarmo.jpg-27e3681b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "ebd1416d-87ac-438f-98fb-4c83ef040877",
-         "title": "Quatro anos depois do Luanda Leaks, o Eurobic é comprado: o que está em causa?",
-         "description": "O Abanca assinou com os acionistas do Eurobic a conclusão da operação de aquisição de 100% do capital da instituição financeira portuguesa. O que é que esta compra significa para ambos os bancos e onde fica Isabel dos Santos, a empresária angola que controlava 42,5% do Eurobic, no meio disto tudo? Ouça o novo episódio doEconomia dia a dia, podcast diário do Expresso, conduzido por Juliana Simões",
-         "link": "https://expresso.pt/podcasts/economia-dia-a-dia/2024-07-13-quatro-anos-depois-do-luanda-leaks-o-eurobic-e-comprado-o-que-esta-em-causa--095f0037",
-         "author": [
-            "Juliana Simões",
-            "João Martins",
-            "Gustavo Carvalho"
-         ],
-         "published": 1720855200000,
-         "created": 1720855200000,
-         "category": "Economia dia a dia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-04-02-EDAD---16x9-Juliana-Simoes-economia-dia-a-dia.jpg-2dca0046/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-04-02-EDAD---16x9-Juliana-Simoes-economia-dia-a-dia.jpg-2dca0046/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-04-02-EDAD---16x9-Juliana-Simoes-economia-dia-a-dia.jpg-2dca0046/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
