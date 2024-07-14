@@ -7,15 +7,32 @@
    "items": [
       {
          "id": "ff3c7db1-6aee-4681-a23d-afbd676ba751",
-         "title": "Ataque numa cidade alemã provoca vários mortos e feridos",
+         "title": "Ataque em cidade alemã provoca vários mortos e feridos",
          "description": "A informação está a ser avançada pelo jornal “Bild” que cita fontes policiais a confirmar as vítimas",
-         "link": "https://expresso.pt/internacional/2024-07-14-ataque-numa-cidade-alema-provoca-varios-mortos-e-feridos-aa97956a",
+         "link": "https://expresso.pt/internacional/2024-07-14-ataque-em-cidade-alema-provoca-varios-mortos-e-feridos-aa97956a",
          "author": "Expresso",
          "published": 1720961744000,
          "created": 1720961744000,
          "category": "Internacional",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-ultima-hora-2afc64a4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-ultima-hora-2afc64a4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-ultima-hora-2afc64a4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "e3897792-c6b6-4fbf-8307-334c0d59fd4a",
