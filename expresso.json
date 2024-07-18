@@ -14,8 +14,25 @@
          "published": 1721293095000,
          "created": 1721293095000,
          "category": "Revista de imprensa",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-18-ax_cunha_e_souto_91000_preview--2-.jpg-a0706f89/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-18-ax_cunha_e_souto_91000_preview--2-.jpg-a0706f89/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-07-18-ax_cunha_e_souto_91000_preview--2-.jpg-a0706f89/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "8a10863f-b5ad-4b08-bd08-df73e657e513",
