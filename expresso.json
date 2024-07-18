@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "ccfde37e-844d-442f-8b9e-69ea64216eac",
+         "title": "Ensaio sobre a emigração portuguesa",
+         "description": "Talvez esteja Portugal a assumir a verdadeira Europa. Quando nos concederam uma pertença comum, nos abriram fronteiras e nos equipararam certificações académicas, o que fizeram foi implodir a palavra emigração, estando os portugueses a viver hoje um novo tempo de liberdade sem estigmas",
+         "link": "https://expresso.pt/opiniao/2024-07-18-ensaio-sobre-a-emigracao-portuguesa-ca71a452",
+         "author": "Ascenso Simões",
+         "published": 1721282851000,
+         "created": 1721282851000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-02-22-Ascenso-Simoes.png-3436c806-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-02-22-Ascenso-Simoes.png-3436c806-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-02-22-Ascenso-Simoes.png-3436c806-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "08660344-61e4-4f39-ac98-0ba545453846",
          "title": "Tem mais de 18 anos? É barato comprar armas em Portugal",
          "description": "Atentado contra Donald Trump foi facilitado pela cultura de armas de fogo nos EUA. Mas Portugal tem um dos índices mais altos de porte civil de armas na Europa. E continua a ser possível comprar armas para defesa pessoal",
@@ -248,35 +277,6 @@
          "category": "Internacional",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "9b912382-9c3f-4a14-b85c-9337533e94d1",
-         "title": "“As pessoas nos EUA estão com medo da queda da República, e não estão erradas”: entrevista ao autor de “A Próxima Guerra Civil”",
-         "description": "O ambiente favorece a criação de uma “autocracia” nos Estados Unidos. Hoje cada um tem “direito aos seus factos”, seja qual for a história (inclusive a do ataque a Donald Trump). Há entre os americanos ideias divergentes até sobre o próprio significado de “pessoa” e de “sociedade”. Se, nos anos 90, se generalizou a ideia de globalização e fronteiras abertas, hoje só quem defende o contrário consegue ganhar eleições. E quem não compreende o entretenimento, os <i>reality shows </i>e a luta livre “não deve estar na política americana”. Estas são algumas das ideias de Stephen Marche, defendidas em entrevista ao Expresso",
-         "link": "https://expresso.pt/internacional/eua/presidenciais-eua-2024/2024-07-17-as-pessoas-nos-eua-estao-com-medo-da-queda-da-republica-e-nao-estao-erradas-entrevista-ao-autor-de-a-proxima-guerra-civil-95d0d98f",
-         "author": "Catarina Maldonado Vasconcelos",
-         "published": 1721247303000,
-         "created": 1721247303000,
-         "category": "Presidenciais EUA 2024",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-07-17-stephen-marche-082fd9b7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-07-17-stephen-marche-082fd9b7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-07-17-stephen-marche-082fd9b7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
