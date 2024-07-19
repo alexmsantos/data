@@ -217,7 +217,11 @@
          "title": "Falha informática global afeta bancos, companhias aéreas e comunicação social, ANA admite constrangimentos nas aeroportos portugueses",
          "description": "A causa ainda é desconhecida, mas muitos dos setores afetados relacionam o problema com sistemas da Microsoft que utilizam a plataforma de cibersegurança Crowdstrike. Em Portugal, há falhas nas telecomunicações e a ANA admite constrangimentos nas operações dos aeroportos",
          "link": "https://expresso.pt/economia/economia_tecnologia/2024-07-19-falha-informatica-global-afeta-bancos-companhias-aereas-e-comunicacao-social-ana-admite-constrangimentos-nas-aeroportos-portugueses-eca8b631",
-         "author": "Maria Monteiro",
+         "author": [
+            "Maria Monteiro",
+            "Isabel Vicente",
+            "Hugo Séneca"
+         ],
          "published": 1721374107000,
          "created": 1721374107000,
          "category": "Tecnologia",
