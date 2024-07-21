@@ -17,8 +17,25 @@
          "published": 1721549700000,
          "created": 1721549700000,
          "category": "Olhares pelo Mundo",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-07-21-bike-polo.jpg-d474810e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-07-21-bike-polo.jpg-d474810e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-07-21-bike-polo.jpg-d474810e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "7656e5f5-4fcf-46c5-8cdd-cbff034619bb",
