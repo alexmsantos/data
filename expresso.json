@@ -43,8 +43,25 @@
          "published": 1722362376000,
          "created": 1722362376000,
          "category": "Guerra no Médio Oriente",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-30-rc2p59anmlug.jpg-80214bea/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-30-rc2p59anmlug.jpg-80214bea/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-07-30-rc2p59anmlug.jpg-80214bea/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b271b318-794e-4eb7-a6c4-59c526622c5c",
