@@ -64,18 +64,6 @@
          }
       },
       {
-         "id": "c8698a43-a194-4db2-ba13-ad4389efbbd4",
-         "title": "Parai de fazer isto em memória de mim",
-         "description": "O contexto em que uma coisa é dita muda o que é dito. Coisas que não são polémicas se ditas na cama podem causar problemas na Loja do Cidadão",
-         "link": "https://expresso.pt/opiniao/2024-08-01-parai-de-fazer-isto-em-memoria-de-mim-f168c33c",
-         "author": "Ricardo Araújo Pereira",
-         "published": 1722512580000,
-         "created": 1722512580000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "84c9e868-fe48-4280-b8d8-2a40a587d657",
          "title": "Conheça as novas regras de acesso ao Algar de Benagil em Lagoa",
          "description": "Preservar o local que é uma das maiores atrações naturais e postal ilustrado do Algarve é o objetivo das restrições. Conheça as novas regras publicadas pelo Turismo do Algarve para acesso às Grutas de Benagil, em Lagoa, que entram em vigor em agosto",
@@ -273,6 +261,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-08-01-shawnmendes_1722443438_3424426222929921299_212742998.jpg-97bd96b1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2024 em Portugal",
+         "description": "Tudo o que precisa de saber sobre os concertos e festivais marcados para o novo ano: uma agenda sempre em atualização",
+         "link": "https://expresso.pt/blitz/2024-08-01-todos-os-concertos-marcados-para-2024-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1722506100000,
+         "created": 1722506100000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-_rc01084_ritacarmo.jpg-7e6f63c7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-_rc01084_ritacarmo.jpg-7e6f63c7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-06-_rc01084_ritacarmo.jpg-7e6f63c7/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
