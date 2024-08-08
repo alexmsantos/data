@@ -7,8 +7,8 @@
    "items": [
       {
          "id": "a49cbe04-2914-4a6a-bc3f-5d0990eaa59a",
-         "title": "Cinco urgências de ginecologia e obstetrícia estão encerradas esta quinta-feira",
-         "description": "<p><span>O Centro é a região do país mais afetada pelo encerramento dos serviços de urgência de obstetrícia e ginecologia. </span><span>As maternidades Bissaya Barreto e Daniel de Matos, em Coimbra, por exemplo, têm recebido grávidas </span><span>oriundas da região de Leiria, mas também da Área Metropolitana de Lisboa.</span></p>",
+         "title": "Cinco urgências de ginecologia e obstetrícia encerradas esta quinta-feira",
+         "description": "O Centro é a região do país mais afetada pelo encerramento dos serviços de urgência de obstetrícia e ginecologia. As maternidades Bissaya Barreto e Daniel de Matos, em Coimbra, por exemplo, têm recebido grávidas oriundas da região de Leiria, mas também da Área Metropolitana de Lisboa.",
          "link": "https://sicnoticias.pt/pais/2024-08-08-video-cinco-urgencias-de-ginecologia-e-obstetricia-estao-encerradas-esta-quinta-feira-cd627fd1",
          "author": "SIC Notícias",
          "published": 1723105183000,
@@ -37,7 +37,7 @@
       {
          "id": "c41619a4-e453-4a75-b178-be624fa57fcc",
          "title": "Sismo de magnitude 6,9 atinge oeste do Japão",
-         "description": "Na sequência do abalo sísmico, foi emitido um alerta de tsunami para várias regiões nas ilhas de Kyushu e Shikoku, no sudoeste do Japão",
+         "description": "Na sequência do abalo sísmico, foi emitido um alerta de tsunami para várias regiões nas ilhas de Kyushu e Shikoku, no sudoeste do Japão.",
          "link": "https://sicnoticias.pt/mundo/2024-08-08-sismo-de-magnitude-69-atinge-oeste-do-japao-5d708269",
          "author": "SIC Notícias",
          "published": 1723104405000,
@@ -183,6 +183,35 @@
          }
       },
       {
+         "id": "037f9b4a-520b-46c3-a159-88eb15fbe64f",
+         "title": "Dois mortos e três feridos graves em acidente entre o Carvalhal e Tróia",
+         "description": "A colisão, que envolveu dois veículos ligeiros de passageiros, ocorreu na Estrada Nacional 261, e cortou o trânsito em ambos os sentidos.",
+         "link": "https://sicnoticias.pt/pais/2024-08-08-dois-mortos-e-tres-feridos-graves-em-acidente-entre-o-carvalhal-e-troia-1765758b",
+         "author": "Lusa",
+         "published": 1723101594000,
+         "created": 1723101594000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-08-acidente-troia-615446ec/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-08-acidente-troia-615446ec/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-08-08-acidente-troia-615446ec/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "ccb592e7-c2f1-490f-b667-3d66594b43d5",
          "title": "Apoio à renda: um quarto dos beneficiários recebe o valor máximo de 200 euros",
          "description": "Este apoio é atribuído oficiosamente, até um máximo de 60 meses (cinco anos), abrangendo inquilinos cujo contrato de arrendamento foi efetuado até 15 de março de 2023.",
@@ -264,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-07-30-o-homem-que-comia-tudo-3x2-70366cd2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "11233fb0-1e30-464d-a673-cea4468a0566",
-         "title": "Urgências de obstetrícia: “Podia não resolver, mas era possível não ter feito pior”",
-         "description": "Para perceber o que se passa com as urgências de obstetrícia do SNS, conversamos com a jornalista Vera Lúcia Arreigoso, no Expresso da Manhã",
-         "link": "https://sicnoticias.pt/podcasts/expresso-da-manha/2024-08-08-urgencias-de-obstetricia-podia-nao-resolver-mas-era-possivel-nao-ter-feito-pior-ee556f1a",
-         "author": "Expresso da Manhã",
-         "published": 1723098600000,
-         "created": 1723098600000,
-         "category": "Expresso da Manhã",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-08-07-expresso-da-manha-16x9-2021-1-b62ac351/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-08-07-expresso-da-manha-16x9-2021-1-b62ac351/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-08-07-expresso-da-manha-16x9-2021-1-b62ac351/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
