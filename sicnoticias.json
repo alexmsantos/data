@@ -14,8 +14,25 @@
          "published": 1723277725000,
          "created": 1723277725000,
          "category": "Mundo",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-10-aviao-brasil-7a1f65f1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-10-aviao-brasil-7a1f65f1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-08-10-aviao-brasil-7a1f65f1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b8443663-4f2a-4c14-8e35-ae39b03a1af1",
