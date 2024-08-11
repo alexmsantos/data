@@ -68,7 +68,10 @@
          "title": "Sismo de magnitude 3,4 registado no Algarve",
          "description": "Abalo com o epicentro a cerca de 30 quilómetros a sul de Albufeira foi registado às 05:48.",
          "link": "https://sicnoticias.pt/pais/2024-08-11-sismo-de-magnitude-34-registado-no-algarve-d4b51e89",
-         "author": "Lusa",
+         "author": [
+            "Lusa",
+            "SIC Notícias"
+         ],
          "published": 1723361112000,
          "created": 1723361112000,
          "category": "País",
