@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "b104c280-e1e1-464d-8a2a-3630f0865038",
+         "title": "Campeão olímpico Iúri Leitão em entrevista à SIC",
+         "description": "O ciclista português de 26 anos terminou a sua participação nos Jogos Olímpicos de Paris com uma medalha de prata e uma de ouro. De regresso a Portugal, o novo herói nacional está, esta terça-feira, em direto no Primeiro Jornal da SIC.",
+         "link": "https://sicnoticias.pt/especiais/jogos-olimpicos/2024-08-13-video-campeao-olimpico-iuri-leitao-em-entrevista-a-sic-2a18f99b",
+         "author": "SIC Notícias",
+         "published": 1723554419000,
+         "created": 1723554419000,
+         "category": "Jogos Olímpicos",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-13-iuri-leitao-paris-2024-f67536c0-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-13-iuri-leitao-paris-2024-f67536c0-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-08-13-iuri-leitao-paris-2024-f67536c0-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "1163f4ab-44a8-458b-8162-a0ef03fc18c4",
          "title": "Kiev garante que não quer anexar território russo",
          "description": "A informação foi avançada pelo porta-voz do Ministério dos Negócios Estrangeiros ucraniano, Georgii Tykhii.",
@@ -97,7 +126,11 @@
          "title": "Acidente com carro de bombeiros que seguia para um incêndio",
          "description": "Três bombeiros ficaram feridos, um em estado grave, uma bombeira de cerca de 40 anos.",
          "link": "https://sicnoticias.pt/pais/2024-08-13-acidente-com-carro-de-bombeiros-que-seguia-para-um-incendio-05bd9345",
-         "author": "SIC Notícias",
+         "author": [
+            "Frederico Correia",
+            "Frederico Pinto",
+            "Ana Lemos"
+         ],
          "published": 1723551235000,
          "created": 1723551235000,
          "category": "País",
@@ -261,35 +294,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2022-11-11-Bruxelas-Bandeiras-UE.JPG-8b81e639-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "79dc40db-069f-4ae0-be42-3dc476a5056d",
-         "title": "Três detenções na 1.ª jornada das competições profissionais de futebol",
-         "description": "Durante o União de Leiria - Vizela, no domingo, um adepto foi detido por incumprimento da medida cautelar de interdição de acesso a recintos desportivos. Cerca de meia hora após a sua libertação, voltou a ser intercetado no interior do estádio.",
-         "link": "https://sicnoticias.pt/desporto/2024-08-13-psp-efetua-tres-detencoes-na-1.-jornada-das-competicoes-profissionais-de-futebol-d832d839",
-         "author": "SIC Notícias",
-         "published": 1723545670000,
-         "created": 1723545670000,
-         "category": "Desporto",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2022-03-25-algemas/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2022-03-25-algemas/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2022-03-25-algemas/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
