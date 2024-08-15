@@ -6,6 +6,50 @@
    "category": [],
    "items": [
       {
+         "id": "6a38c01c-1297-458c-9491-17dab3ecdf5b",
+         "title": "Palavra da semana: Monstro",
+         "description": "<p><span>Os monstros não existem? Existem, só que geralmente ninguém dá por eles até ao dia em que aparecem nas primeiras páginas já com o monstruoso estatuto atrelado</span></p>",
+         "link": "https://expresso.pt/opiniao/2024-08-15-palavra-da-semana-monstro-638abaf4",
+         "author": "Bruno Vieira Amaral",
+         "published": 1723705200000,
+         "created": 1723705200000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "c77b2dd5-2bca-4fdc-b8b4-3fbe81fb09dc",
+         "title": "Qual o ingrediente secreto de um bom caril, uma boa feijoada ou um bom refogado? Muita cebola",
+         "description": "<p>Nesta altura do ano elas estão sumarentas e doces, uma maravilha. Mas nem isso faz com que o ingrediente com mais peso na cozinha portuguesa seja acarinhado, entendido e bem picado. Oiça a crónica de Ricardo Dias Felner em podcast</p>",
+         "link": "https://expresso.pt/podcasts/o-homem-que-comia-tudo/2024-08-15-qual-o-ingrediente-secreto-de-um-bom-caril-uma-boa-feijoada-ou-um-bom-refogado--muita-cebola-f4f2c0eb",
+         "author": [
+            "Ricardo Dias Felner",
+            "João Luís Amorim"
+         ],
+         "published": 1723705200000,
+         "created": 1723705200000,
+         "category": "O Homem Que Comia Tudo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-16-o-homem-que-comia-tudo-3x2-5751ec70-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-16-o-homem-que-comia-tudo-3x2-5751ec70-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-07-16-o-homem-que-comia-tudo-3x2-5751ec70-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "848feade-d455-4184-89d1-0de5204db2f0",
          "title": "A glória de Killer Mike no Vodafone Paredes de Coura: “Qualquer dia passo férias em Portugal”",
          "description": "<p>No seu regresso ao país, o rapper Killer Mike trouxe consigo um coro ‘gospel’, canções sobre dor e perda, mensagens de apoio e juras de amor várias por um Portugal com “boa erva” e “bom público”. A agressividade dos Run the Jewels ficou momentaneamente no passado; esta foi uma paz que nos caiu bem</p>",
@@ -202,47 +246,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "87c8d15b-8447-464e-b161-5f7b23742f85",
-         "title": "The age of tarifs",
-         "description": "<p>A dependência da China no fornecimento de energia limpa replica problemas da era dos combustíveis fósseis: “Um planeta dependente de Estados autocráticos”</p>",
-         "link": "https://expresso.pt/opiniao/2024-08-14-the-age-of-tarifs-fbfbd3e0",
-         "author": "Pedro Carvalho",
-         "published": 1723672620000,
-         "created": 1723672620000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "66f24039-4c6b-4d50-9511-be6f4f4fdf5b",
-         "title": "Sucessão tranquila no grupo Semapa, seis anos depois",
-         "description": "<p>Herdeiras de Pedro Queiroz Pereira entregaram a condução do grupo Semapa a gestores profissionais. E a decisão tem-se revelado acertada</p>",
-         "link": "https://expresso.pt/economia/empresas/2024-08-14-sucessao-tranquila-no-grupo-semapa-seis-anos-depois-a4a0fec8",
-         "author": "Pedro Lima",
-         "published": 1723672620000,
-         "created": 1723672620000,
-         "category": "Empresas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-13-irmasqp_t-_idp.jpg-2d129532/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-13-irmasqp_t-_idp.jpg-2d129532/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-08-13-irmasqp_t-_idp.jpg-2d129532/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
