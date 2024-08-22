@@ -14,8 +14,25 @@
          "published": 1724329095000,
          "created": 1724329095000,
          "category": "Guerra Rússia-Ucrânia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-22-zelensky-ucrania-80de2baa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-22-zelensky-ucrania-80de2baa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-08-22-zelensky-ucrania-80de2baa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "316de8fa-b4ae-4288-b343-c39b778dfa28",
@@ -200,7 +217,7 @@
       {
          "id": "d224df75-10af-4ddb-b48c-5b0757ea3596",
          "title": "Ataque a carrinha escolar no Paquistão mata duas crianças",
-         "description": "",
+         "description": "Homens armados abriram fogo contra uma carrinha escolar matando “duas raparigas que estavam sentadas ao lado do condutor”.",
          "link": "https://sicnoticias.pt/mundo/2024-08-22-ataque-a-carrinha-escolar-no-paquistao-mata-duas-criancas-a81d0202",
          "author": "Lusa",
          "published": 1724323797000,
