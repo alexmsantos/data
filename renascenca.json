@@ -7,13 +7,19 @@
    "items": [
       {
          "id": "a6e026a9-b060-ef11-bdfd-002248811a49",
-         "title": "AIMA alerta para emails fraudulentos",
+         "title": "AIMA alerta para email falso",
          "description": "Os emails fraudulentos informam sobre a existência de um agendamento marcado nas Lojas AIMA, “instruindo os destinatários a comparecerem em datas e horários especificados”.",
-         "link": "https://rr.sapo.pt/noticia/pais/2024/08/22/aima-alerta-para-emails-fraudulentos/390865/?utm_medium=rss",
+         "link": "https://rr.sapo.pt/noticia/pais/2024/08/22/aima-alerta-para-email-falso/390865/?utm_medium=rss",
          "published": 1724349734000,
          "created": 1724349734000,
          "category": [],
-         "enclosures": [],
+         "enclosures": [
+            {
+               "url": "https://images.rr.sapo.pt/email-falso-portal1930a4c9_standard.jpeg",
+               "length": "40665",
+               "type": "image/jpeg"
+            }
+         ],
          "media": {}
       },
       {
