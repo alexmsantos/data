@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "2093418a-6a97-46d9-b1de-736b60b891e0",
+         "title": "Treze concelhos de Bragança, Guarda, Castelo Branco e Faro em perigo máximo de incêndio",
+         "description": "<p>O perigo de incêndio vai manter-se elevado em alguns distritos pelo menos até terça-feira. Na Madeira, o perigo de incêndio é mais reduzido do que na quinta-feira, mais ainda há algumas regiões em perigo elevado e moderado</p>",
+         "link": "https://expresso.pt/sociedade/incendios/2024-08-23-treze-concelhos-de-braganca-guarda-castelo-branco-e-faro-em-perigo-maximo-de-incendio-0dca28e7",
+         "author": "Lusa",
+         "published": 1724394184000,
+         "created": 1724394184000,
+         "category": "Incêndios",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-17-incendio-madeia-19fffed5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-17-incendio-madeia-19fffed5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-08-17-incendio-madeia-19fffed5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "62964cdc-f808-46bf-8a8e-40eafe80e80d",
          "title": "Ventura pressiona na rentrée: “Não há quem à direita possa dizer que viabilizará o Orçamento”",
          "description": "<p>O líder do Chega deu sinais de que não vai viabilizar o Orçamento, e não insistiu nas últimas medidas que apresentou como moeda de troca. Enumerou as desilusões com o Governo e disse estar “pronto” para ir a eleições</p>",
@@ -122,35 +151,6 @@
          }
       },
       {
-         "id": "ba1ef8fc-a23d-4c3e-b233-6367db462d72",
-         "title": "Como estão os preços nos sites de imobliário?",
-         "description": "<p>Os estudantes deslocados enfrentam dificuldades na procura de alojamento, que difere em cada região</p>",
-         "link": "https://expresso.pt/economia/economia_imobiliario/2024-08-22-como-estao-os-precos-nos-sites-de-imobliario--6c5eb9e8",
-         "author": "Inês de Barros Miranda",
-         "published": 1724363820000,
-         "created": 1724363820000,
-         "category": "Imobiliário",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-af5_2988-_idp.jpg-bf234fdd/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-af5_2988-_idp.jpg-bf234fdd/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-af5_2988-_idp.jpg-bf234fdd/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "a578246f-d784-4415-a853-efb260c96289",
          "title": "“O desporto é um veículo da coesão territorial”",
          "description": "<p>Nuno Sepúlveda, 47 anos, presidente do Conselho Nacional da Indústria do Golfe</p>",
@@ -192,6 +192,35 @@
          "media": {}
       },
       {
+         "id": "ba1ef8fc-a23d-4c3e-b233-6367db462d72",
+         "title": "Como estão os preços nos sites de imobliário?",
+         "description": "<p>Os estudantes deslocados enfrentam dificuldades na procura de alojamento, que difere em cada região</p>",
+         "link": "https://expresso.pt/economia/economia_imobiliario/2024-08-22-como-estao-os-precos-nos-sites-de-imobliario--6c5eb9e8",
+         "author": "Inês de Barros Miranda",
+         "published": 1724363820000,
+         "created": 1724363820000,
+         "category": "Imobiliário",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-21-af5_2988-_idp.jpg-bf234fdd/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-21-af5_2988-_idp.jpg-bf234fdd/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-08-21-af5_2988-_idp.jpg-bf234fdd/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "a0aecbb2-271d-4abe-8718-8690aa533060",
          "title": "Quando mais não é a mais",
          "description": "<p>Quando se afirma que o rácio de médicos por habitante em Portugal é alto, está-se a cair num velho erro</p>",
@@ -214,39 +243,6 @@
          "category": "Cartas",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "d42bd1d4-5a31-4130-97c4-0e6744ac8ae0",
-         "title": "Leonor Beleza na lista de candidatos a Belém, mais hotéis em Lisboa e a nova vida de António Costa: há Expresso nas bancas",
-         "description": "<p>O semanário chega às bancas esta sexta-feira, com a entrevista a Hugo Soares a receber destaque na manchete do jornal. No caderno de Economia, o foco está na construção de novos hotéis na capital - Lisboa é a terceira cidade europeia a abrir mais unidades hoteleiras - e no verdadeiro custo das bolas de Berlim. Na revista, é tempo de conhecer a nova vida de António Costa</p>",
-         "link": "https://expresso.pt/multimedia/2024-08-22-video-leonor-beleza-na-lista-de-candidatos-a-belem-mais-hoteis-em-lisboa-e-a-nova-vida-de-antonio-costa-ha-expresso-nas-bancas-efb56f7e",
-         "author": [
-            "João Miguel Salvador",
-            "David Dinis",
-            "Rúben Tiago Pereira"
-         ],
-         "published": 1724363820000,
-         "created": 1724363820000,
-         "category": "Multimédia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-22-img_7951.jpeg-17bd672e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-22-img_7951.jpeg-17bd672e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-08-22-img_7951.jpeg-17bd672e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
