@@ -6,6 +6,67 @@
    "category": [],
    "items": [
       {
+         "id": "1e8b21d0-ff34-4ca9-a21d-ef518d4c5226",
+         "title": "Caça ao homem na Alemanha para encontrar autor de ataque com faca",
+         "description": "<p>Um homem esfaqueou aleatoriamente transeuntes, por volta das 21h35 locais de sexta-feira, em Solingen, oeste da Alemanha. Três pessoas foram mortas e oito ficaram feridas</p>",
+         "link": "https://expresso.pt/internacional/2024-08-24-caca-ao-homem-na-alemanha-para-encontrar-autor-de-ataque-com-faca-254182f6",
+         "author": [
+            "Expresso",
+            "SIC Notícias"
+         ],
+         "published": 1724487451000,
+         "created": 1724487451000,
+         "category": "Internacional",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-23-solingen-alemanha-ataque-7208b031/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-23-solingen-alemanha-ataque-7208b031/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-08-23-solingen-alemanha-ataque-7208b031/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "18d01906-c07c-4ffb-9187-9dadff1b9536",
+         "title": "Sapador florestal suspeito de atear seis fogos em Viseu fica em prisão preventiva",
+         "description": "<p>Jovem de 30 anos é suspeito de ser o autor de mais cinco incêndios em agosto. Já tinha antecedentes criminais e foi contratado para sapador florestal</p>",
+         "link": "https://expresso.pt/sociedade/justica/2024-08-24-sapador-florestal-suspeito-de-atear-seis-fogos-em-viseu-fica-em-prisao-preventiva-d0df7588",
+         "author": "Lusa",
+         "published": 1724487371000,
+         "created": 1724487371000,
+         "category": "Justiça",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2017-10-17-incendiario/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2017-10-17-incendiario/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2017-10-17-incendiario/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "6cec14c1-ec60-45af-84dd-6d8224f7a259",
          "title": "Onda Choc e Ministars marcaram gerações nos anos 80 e 90: quem eram os melhores?",
          "description": "<p>Em meados da década de 80, as crianças passaram a ‘mandar’ em alguma da música feita em Portugal. Ministars, oriundos do Coro de Santo Amaro de Oeiras, e Onda Choc, criados pelo casal Heduíno Gomes e Ana Faria, recentemente falecida, fizeram as delícias de pré-adolescentes, obtendo um enorme sucesso com versões de sucessos internacionais, mas não só. Entre “o rei lá do liceu”, biquínis, parabólicas e até um “rap português”, puxamos a cassete atrás rumo às memórias de quem foi criança nos anos 80 e 90</p>",
@@ -216,38 +277,6 @@
          }
       },
       {
-         "id": "1e8b21d0-ff34-4ca9-a21d-ef518d4c5226",
-         "title": "Caça ao homem na Alemanha para encontrar autor de ataque com faca",
-         "description": "<p>Um homem esfaqueou aleatoriamente transeuntes, por volta das 21h35 locais de sexta-feira, em Solingen, oeste da Alemanha. Três pessoas foram mortas e oito ficaram feridas</p>",
-         "link": "https://expresso.pt/internacional/2024-08-23-caca-ao-homem-na-alemanha-para-encontrar-autor-de-ataque-com-faca-254182f6",
-         "author": [
-            "Expresso",
-            "SIC Notícias"
-         ],
-         "published": 1724447551000,
-         "created": 1724447551000,
-         "category": "Internacional",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-23-solingen-alemanha-ataque-7208b031/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-23-solingen-alemanha-ataque-7208b031/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-08-23-solingen-alemanha-ataque-7208b031/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "4184b31f-b06e-4772-98cf-919834400ce8",
          "title": "Presidente não quer ser uma \"fonte de complicação\": Marcelo não vai à Madeira enquanto o fogo estiver ativo",
          "description": "<p>Chefe de Estado explicou que, enquanto está em curso o fogo, “não faz sentido ir lá”</p>",
@@ -271,35 +300,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-08-23-marcelo-rebelo-de-sousa-presidente--7d2c0f65/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "b9c19624-5c90-4129-9f1d-183c54f65e3b",
-         "title": "Incêndio na Madeira: área ardida ultrapassa 5.045 hectares",
-         "description": "<p>Autoridades deram indicação a perto de 200 pessoas para saírem das suas habitações por precaução e disponibilizaram equipamentos públicos de acolhimento, mas muitos moradores já regressaram</p>",
-         "link": "https://expresso.pt/sociedade/2024-08-23-incendio-na-madeira-area-ardida-ultrapassa-5.045-hectares-a75a59b7",
-         "author": "Lusa",
-         "published": 1724446283000,
-         "created": 1724446283000,
-         "category": "Sociedade",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-23-incendio-madeira-7f3404bb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-23-incendio-madeira-7f3404bb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-08-23-incendio-madeira-7f3404bb/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
