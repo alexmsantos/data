@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "6b567328-4651-4f77-aa62-99574a33a81f",
+         "title": "Fique a par das notícias mais lidas da semana",
+         "description": "Recorde o essencial das notícias da última semana, marcada por um sismo e pelo acidente do helicóptero no Douro.",
+         "link": "https://sicnoticias.pt/webstories/os-artigos-mais-lidos-da-semana-agosto/",
+         "author": "SIC Notícias",
+         "published": 1725197938000,
+         "created": 1725197938000,
+         "category": "Webstories",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-09-01-sismo-liabo.webp-9b1ed0cc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-09-01-sismo-liabo.webp-9b1ed0cc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-09-01-sismo-liabo.webp-9b1ed0cc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "94e52e29-2ddb-450e-a6ab-3fbb4c6cb3bb",
          "title": "Queda de helicóptero: funerais de 4 vítimas mortais realizam-se esta tarde",
          "description": "Um helicóptero de combate a incêndios da GNR caiu na sexta-feira no rio Douro, na região da Lamego. Seis pessoas seguiam a bordo da aeronave. O único sobrevivente é o piloto, que já foi ouvido. O funeral de quatro das cinco vítimas mortais decorre este domingo.",
@@ -265,38 +294,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-09-01-fatman-scoop-3372f27d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "eae8da5d-51b2-4b91-9f3e-c29efba2b44e",
-         "title": "Leoa resgatada de zona de guerra na Ucrânia pisa relva pela primeira vez",
-         "description": "Yuna tem três anos e viveu a vida toda num pequeno espaço de cimento, na Ucrânia, numa região que sofria bombardeamentos de forma frequente. Agora, tem uma nova casa, noutro país, e parece já estar a habituar-se à mudança de vida.",
-         "link": "https://sicnoticias.pt/especiais/mundo-dos-animais/2024-09-01-video-leoa-resgatada-de-zona-de-guerra-na-ucrania-pisa-relva-pela-primeira-vez-332dfa00",
-         "author": [
-            "Ana Isabel Pinto",
-            "Gabriel Mota Figueiredo"
-         ],
-         "published": 1725183009000,
-         "created": 1725183009000,
-         "category": "Mundo dos Animais",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-08-30-leoa-yuna-guerra-ucrania-23d5bcf9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-08-30-leoa-yuna-guerra-ucrania-23d5bcf9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-08-30-leoa-yuna-guerra-ucrania-23d5bcf9/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
