@@ -43,8 +43,25 @@
          "published": 1725487964000,
          "created": 1725487964000,
          "category": "Mundo",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-12-2024-08-09t181619z_1464319329_rc2129adkip2_rtrmadp_3_usa-saudi-arms.jpg-4f92bdf7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-08-12-2024-08-09t181619z_1464319329_rc2129adkip2_rtrmadp_3_usa-saudi-arms.jpg-4f92bdf7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-08-12-2024-08-09t181619z_1464319329_rc2129adkip2_rtrmadp_3_usa-saudi-arms.jpg-4f92bdf7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "0446d4b8-3595-4883-90fc-ff5b71148a27",
