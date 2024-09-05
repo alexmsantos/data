@@ -6,16 +6,33 @@
    "category": [],
    "items": [
       {
-         "id": "a9ef9ba1-7d10-41bb-9002-53d51f9f0024",
-         "title": "<i>Dates</i> bué bons",
-         "description": "<p>A escritora inaugura a colaboração com o Expresso escrevendo sobre um dos temas recentes mais virais. Envolve ananases</p>",
-         "link": "https://expresso.pt/politica/2024-09-05-idates-i-bue-bons-43d9cb40",
-         "author": "Isabela Figueiredo",
-         "published": 1725541171000,
-         "created": 1725541171000,
-         "category": "Política",
-         "enclosures": [],
-         "media": {}
+         "id": "cee5c293-788d-4d01-9cb4-1d3bde4ae158",
+         "title": "Fecho de fábricas da Volkswagen fere orgulho germânico",
+         "description": "<p>O anúncio, feito esta semana, caiu como uma ‘bomba’ e os sindicatos já falam numa ‘segunda-feira negra’</p>",
+         "link": "https://expresso.pt/semanario/economia/2024-09-05-fecho-de-fabricas-da-volkswagen-fere-orgulho-germanico-4b0d76c6",
+         "author": "Vítor Andrade",
+         "published": 1725541440000,
+         "created": 1725541440000,
+         "category": "Economia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-04-gettyimages-1241341452_t-_idp.jpg-002d74f7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-04-gettyimages-1241341452_t-_idp.jpg-002d74f7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-09-04-gettyimages-1241341452_t-_idp.jpg-002d74f7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "32fb8239-c4cc-4a53-96eb-814214b60269",
