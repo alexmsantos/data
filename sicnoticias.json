@@ -6,13 +6,42 @@
    "category": [],
    "items": [
       {
+         "id": "319dac19-a42c-4a93-b13a-c7711ec3b36a",
+         "title": "Princesa Kate termina tratamentos de quimioterapia",
+         "description": "O anúncio foi feito pela própria, numa mensagem publicada nas redes sociais.",
+         "link": "https://sicnoticias.pt/mundo/2024-09-09-princesa-kate-termina-tratamentos-de-quimioterapia-53aeba6a",
+         "author": "SIC Notícias",
+         "published": 1725896730000,
+         "created": 1725896730000,
+         "category": "Mundo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-03-18-kate-middleton-.jpg-800fa08a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-03-18-kate-middleton-.jpg-800fa08a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-03-18-kate-middleton-.jpg-800fa08a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "e55f2218-350b-4dbc-9b54-382f6df06b07",
          "title": "Ministra da Justiça quebra o silêncio sobre fuga de reclusos",
          "description": "<p><span>Rita Júdice marcou uma conferência para amanhã à tarde a acontecer no Ministério da Justiça, em Lisboa. </span></p>",
          "link": "https://sicnoticias.pt/pais/2024-09-09-ministra-da-justica-quebra-o-silencio-sobre-fuga-de-reclusos--4a7008bd",
          "author": [
-            "SIC Notícias",
-            "Rita de Sousa"
+            "Rita de Sousa",
+            "SIC Notícias"
          ],
          "published": 1725895546000,
          "created": 1725895546000,
@@ -264,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-04-16-irao-bandeira-0a9a735f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "1deb0ea4-9fe5-48c6-a515-47cf8a5d39ed",
-         "title": "Champions feminina: Benfica e Sporting já conhecem as próximas adversárias",
-         "description": "<p><span>Os 12 vencedores da segunda ronda de qualificação qualificam-se para a fase de grupos</span><span>, a disputar entre outubro e dezembro, juntando-se a FC Barcelona, bicampeão europeu, Bayern Munique, Chelsea e Lyon, recordista de triunfos, com oito, no sorteio marcado para 27 de setembro.</span></p>",
-         "link": "https://sicnoticias.pt/desporto/2024-09-09-champions-feminina-benfica-e-sporting-ja-conhecem-as-proximas-adversarias-36fad1fb",
-         "author": "SIC Notícias",
-         "published": 1725883620000,
-         "created": 1725883620000,
-         "category": "Desporto",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-09-09-champions-league-feminina-bb8aa6ea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-09-09-champions-league-feminina-bb8aa6ea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-09-09-champions-league-feminina-bb8aa6ea/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
