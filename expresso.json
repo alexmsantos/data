@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "bf506e7f-850a-4fc1-9a23-746e83a82fb8",
+         "title": "Prison Breakfast",
+         "description": "<p>Não se pode dizer que a justiça portuguesa tenha facilitado a vida aos fugitivos: afinal de contas, só tiveram 80 horas para chegar a Espanha</p>",
+         "link": "https://expresso.pt/geracao-e/2024-09-11-prison-breakfast-d993b306",
+         "author": "Manuel Cardoso",
+         "published": 1726034136000,
+         "created": 1726034136000,
+         "category": "Geração E",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "8ff28f41-bb72-4eae-b69f-7245ae4d3a58",
          "title": "Quantos votos rendem as prisões?",
          "description": "<p>Temos uma taxa de fuga cinco vezes inferior à da UE e um rácio entre guardas e reclusos melhor do que a Europa. O problema é a gestão de meios e o excesso de reclusos. Como é que um dos países mais seguros da UE tem uma taxa de reclusão e uma média de pena efetiva superior à europeia? Há um debate político sobre as deploráveis condições prisionais. Mas, tirando quando reclusos fogem, alguém quer saber?</p>",
@@ -252,38 +281,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "f45857f3-aed6-4c24-bdee-fafa047c2343",
-         "title": "Há novas sanções ocidentais, mas Moscovo firma novo acordo de cooperação com o Irão: o 930.º dia de guerra",
-         "description": "<p>A Rússia e o Irão estão prestes a assinar um novo acordo de cooperação, enquanto o Irão enfrenta uma nova ronda de sanções ocidentais devido ao fornecimento de mísseis balísticos a Moscovo para uso na Ucrânia. Em resposta, Estados Unidos, Alemanha, França e Reino Unido condenaram o apoio iraniano à Rússia e implementaram sanções adicionais contra ambos os países</p>",
-         "link": "https://expresso.pt/internacional/guerra-na-ucrania/2024-09-10-ha-novas-sancoes-ocidentais-mas-moscovo-firma-novo-acordo-de-cooperacao-com-o-irao-o-930.-dia-de-guerra-4fc29363",
-         "author": [
-            "Lusa",
-            "Expresso"
-         ],
-         "published": 1725997943000,
-         "created": 1725997943000,
-         "category": "Guerra na Ucrânia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-drone-ucraniano-perto-de-territorio-russo---guerra-na-ucrania-ea2de6fb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-drone-ucraniano-perto-de-territorio-russo---guerra-na-ucrania-ea2de6fb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-drone-ucraniano-perto-de-territorio-russo---guerra-na-ucrania-ea2de6fb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
