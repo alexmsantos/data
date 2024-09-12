@@ -218,18 +218,6 @@
          }
       },
       {
-         "id": "9fc4eb69-993d-40d4-a41b-30d31b185d89",
-         "title": "Quando o gato serve de lebre",
-         "description": "<p>Quando a mentira chega aos media, a desinformação já bombardeou a bolha polarizada com “factos” sem contraditório. Enquanto nos rimos, a derrota de Trump no debate compete com memes sobre gatos comidos por imigrantes e o foco volta a estar na imigração</p>",
-         "link": "https://expresso.pt/opiniao/2024-09-12-quando-o-gato-serve-de-lebre-bd1cf084",
-         "author": "Daniel Oliveira",
-         "published": 1726178220000,
-         "created": 1726178220000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "3b94b942-a0d7-4e5f-9d07-a34eef96d592",
          "title": "Posto Emissor #206: BLITZ convida Fernando Ribeiro (Moonspell). Da ternura dos 50 às viagens pela Europa",
          "description": "<p>Fernando Ribeiro, dos Moonspell, é o convidado desta semana do podcast da BLITZ. O concerto com orquestra na Meo Arena, em Lisboa, em outubro; as viagens pela Europa; o facto de ter celebrado há poucas semanas o 50º aniversário e o sismo que nesse dia se fez sentir foram temas da conversa. O regresso dos Linkin Park, o concerto-festa dos Xutos &amp; Pontapés e as revelações de Dave Grohl completam esta edição</p>",
@@ -286,6 +274,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2017-01-11-almaraz/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "f083c729-0c63-472f-810b-d0282bc0a4b7",
+         "title": "Harvey Weinstein indiciado por mais crimes sexuais em Nova Iorque",
+         "description": "<p>Procuradores apresentaram alegações de agressões sexuais a três mulheres, que terão ocorrido em 2005, 2006 e 2016. Antigo produtor não compareceu na audiência, depois de ter sido submetido de emergência a uma cirurgia cardíaca</p>",
+         "link": "https://expresso.pt/internacional/eua/2024-09-12-harvey-weinstein-indiciado-por-mais-crimes-sexuais-em-nova-iorque-44954f23",
+         "author": "Expresso",
+         "published": 1726157420000,
+         "created": 1726157420000,
+         "category": "EUA",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-12-harvey-weinstein.jpg-26e059b2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-12-harvey-weinstein.jpg-26e059b2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-09-12-harvey-weinstein.jpg-26e059b2/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
