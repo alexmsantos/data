@@ -172,8 +172,25 @@
          "published": 1726641770000,
          "created": 1726641770000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-18-tiago-de-magalhaes-60911640/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-18-tiago-de-magalhaes-60911640/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-09-18-tiago-de-magalhaes-60911640/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "ad78e9cc-5e98-456a-b581-55797570996d",
