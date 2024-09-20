@@ -6,18 +6,6 @@
    "category": [],
    "items": [
       {
-         "id": "a548aab2-b896-4710-b5f2-30a2f749b18c",
-         "title": "Música nova para o fim de semana:",
-         "description": "",
-         "link": "https://expresso.pt/blitz/2024-09-20-musica-nova-para-o-fim-de-semana-14ce66ff",
-         "author": "Lia Pereira",
-         "published": 1726822121000,
-         "created": 1726822121000,
-         "category": "Blitz",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "70fc22b1-ddee-4de4-a5d9-3caf9fd6171e",
          "title": "Rússia reclama ter abatido oito drones ucranianos sobre Belgorod",
          "description": "<p>\"Durante a noite foi neutralizada a tentativa de ataque terrorista do regime de Kiev que utilizou aparelhos aéreos não tripulados (drones) contra alvos na Federação da Rússia\", indica o Ministério da Defesa de Moscovo em comunicado</p>",
@@ -279,6 +267,38 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2022-10-05-ursula-von-der-lyen-61734f05/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "f6911901-a0f7-410b-bdd4-915701df9e5e",
+         "title": "Expresso da Manhã: os milhões de Mexia numa conta offshore esquecida nos Pandora Papers",
+         "description": "<p>Já se sabe quem é o beneficiário da empresa Miamex Ventures. Neste episódio do podcast Expresso da Manhã, Paulo Baldaia conversa com Micael Pereira</p>",
+         "link": "https://expresso.pt/podcasts/expresso-da-manha/2024-09-20-os-milhoes-de-mexia-numa-conta-offshore-esquecida-nos-pandora-papers-f27f31bc",
+         "author": [
+            "Paulo Baldaia",
+            "João Luís Amorim"
+         ],
+         "published": 1726813800000,
+         "created": 1726813800000,
+         "category": "Expresso da Manhã",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-10-11-Expresso-da-manha-imagem-artigo-3f5bd999/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-10-11-Expresso-da-manha-imagem-artigo-3f5bd999/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-10-11-Expresso-da-manha-imagem-artigo-3f5bd999/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
