@@ -8,9 +8,12 @@
       {
          "id": "83145532-2124-42b8-93eb-89a110a59aa0",
          "title": "França já tem novo Governo",
-         "description": "<p>Foi anunciada no Palácio do Eliseu a lista integral de ministros, secretários de Estado e vice-ministros de Michel Barnier — sobretudo nomes da ala macronista e republicana</p>",
+         "description": "<p>Foi anunciada no Palácio do Eliseu a lista integral de ministros, secretários de Estado e vice-ministros de Michel Barnier — sobretudo nomes à direita, da ala macronista e republicana</p>",
          "link": "https://expresso.pt/internacional/europa/franca/2024-09-21-franca-ja-tem-novo-governo-67ec508b",
-         "author": "Expresso",
+         "author": [
+            "Expresso",
+            "Lusa"
+         ],
          "published": 1726942485000,
          "created": 1726942485000,
          "category": "França",
@@ -58,6 +61,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-09-21-beirute-ataque-israelita.jpg-18ad0a98/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "296577cb-7293-429b-a652-013a2290e03a",
+         "title": "Rússia garante que não participará em cimeira de paz planeada por Kiev",
+         "description": "<p>O Presidente ucraniano admitiu este sábado que a nova proposta de plano de paz para a Ucrânia deveria permitir negociações diretas com a Federação Russa</p>",
+         "link": "https://expresso.pt/internacional/guerra-na-ucrania/2024-09-21-russia-garante-que-nao-participara-em-cimeira-de-paz-planeada-por-kiev-2c894e39",
+         "author": "Lusa",
+         "published": 1726941484000,
+         "created": 1726941484000,
+         "category": "Guerra na Ucrânia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-01-putin-2be94046/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-01-putin-2be94046/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-07-01-putin-2be94046/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-09-18-20220924_goncalo-villaverde_0453.jpg-9a6dcf39/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "ac71c420-bb74-4a57-9116-2f517adb067f",
-         "title": "Zelensky crítico: plano de paz da China e Brasil \"não é concreto\"",
-         "description": "<p>“Não vejo quaisquer ações ou fases específicas, apenas uma certa generalização de procedimentos”, afirmou o Presidente ucraniano, que tenciona propor o seu próprio plano para acabar com a guerra ao Presidente norte-americano, durante uma visita aos Estados Unidos na próxima semana</p>",
-         "link": "https://expresso.pt/internacional/guerra-na-ucrania/2024-09-21-zelensky-critico-plano-de-paz-da-china-e-brasil-nao-e-concreto-982d8994",
-         "author": "Lusa",
-         "published": 1726927680000,
-         "created": 1726927680000,
-         "category": "Guerra na Ucrânia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-26-zelensky-ed997d37/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-26-zelensky-ed997d37/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-08-26-zelensky-ed997d37/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
