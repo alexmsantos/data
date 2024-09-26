@@ -6,39 +6,10 @@
    "category": [],
    "items": [
       {
-         "id": "29e14b23-492d-4a05-87a7-508396be52c5",
-         "title": "A primeira página do Expresso",
-         "description": "",
-         "link": "https://expresso.pt/Capas/2024-09-26-a-primeira-pagina-do-expresso-76d02789",
-         "author": "Expresso",
-         "published": 1727388279000,
-         "created": 1727388279000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-09-26-pc_2709.jpg-48f0a28d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-09-26-pc_2709.jpg-48f0a28d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-09-26-pc_2709.jpg-48f0a28d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "22bc2110-f46c-4089-858c-cca8986b5197",
          "title": "O sínodo, no Ideias",
          "description": "",
-         "link": "https://expresso.pt/Capas/2024-09-26-o-sinodo-no-ideias-99e6be1e",
+         "link": "https://expresso.pt/semanario/ideias",
          "author": "Expresso",
          "published": 1727388046000,
          "created": 1727388046000,
@@ -64,10 +35,39 @@
          }
       },
       {
+         "id": "29e14b23-492d-4a05-87a7-508396be52c5",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro",
+         "author": "Expresso",
+         "published": 1727388039000,
+         "created": 1727388039000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-26-pc_2709.jpg-48f0a28d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-26-pc_2709.jpg-48f0a28d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-09-26-pc_2709.jpg-48f0a28d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "8f5b55b0-c907-4c4c-84ce-d316411fbdd9",
          "title": "A 1ª página do Expresso Economia",
          "description": "",
-         "link": "https://expresso.pt/Capas/2024-09-26-a-1-pagina-do-expresso-economia-c3c3f5ee",
+         "link": "https://expresso.pt/semanario/economia",
          "author": "Expresso",
          "published": 1727388030000,
          "created": 1727388030000,
@@ -96,7 +96,7 @@
          "id": "8de573ca-fcb7-4ab8-816f-4e0bfbfce75a",
          "title": "Eleições nos EUA: tudo ou nada, na revista E",
          "description": "",
-         "link": "https://expresso.pt/Capas/2024-09-26-eleicoes-nos-eua-tudo-ou-nada-na-revista-e-096c2880",
+         "link": "https://expresso.pt/semanario/revista-e",
          "author": "Expresso",
          "published": 1727388009000,
          "created": 1727388009000,
@@ -221,6 +221,35 @@
          }
       },
       {
+         "id": "5ebd592d-45f4-4f75-8775-d387387cee55",
+         "title": "Cinema: a dança sem fim de Patric Chiha",
+         "description": "<p>“A Fera na Selva”, que agora chega às salas, adapta a homónima novela de Henry James que também originou “A Besta”, de Bertrand Bonello, estreado entre nós em junho. Mas os dois filmes nada mais têm em comum</p>",
+         "link": "https://expresso.pt/revista/culturas/cinema/2024-09-26-cinema-a-danca-sem-fim-de-patric-chiha-cace7c1b",
+         "author": "Francisco Ferreira",
+         "published": 1727387820000,
+         "created": 1727387820000,
+         "category": "Cinema",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-23-a-fera-selva_t-_idp.jpg-1d6a6b4a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-23-a-fera-selva_t-_idp.jpg-1d6a6b4a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-09-23-a-fera-selva_t-_idp.jpg-1d6a6b4a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "241c7299-a9dd-44da-965d-ad7ad2a4ed75",
          "title": "Restaurantes: novos mandamentos, fora das grandes cidades",
          "description": "<p>A busca de boas mesas não deve ser centralista, e por isso se destaca em Alverca a Taberna Sakra</p>",
@@ -244,35 +273,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-09-24-fox_sakra_0002_t-_idp.jpg-e1096d4e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "50058b5e-7590-4722-adb5-98a71e9b389e",
-         "title": "“Vão surgir novas profissões”",
-         "description": "<p>O mundo do trabalho está em vias de entrar em mutação devido à chegada de bots, robôs e assistentes digitais. A boa notícia é que vêm aí muitos empregos. A má notícia é o desemprego</p>",
-         "link": "https://expresso.pt/semanario/inteligencia-artificial/2024-09-26-vao-surgir-novas-profissoes-3b4b8d73",
-         "author": "Hugo Séneca",
-         "published": 1727387820000,
-         "created": 1727387820000,
-         "category": "Inteligência Artificial",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-09-24-gettyimages-1481133084_t-_idp.jpg-cfb7b7ee/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-09-24-gettyimages-1481133084_t-_idp.jpg-cfb7b7ee/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-09-24-gettyimages-1481133084_t-_idp.jpg-cfb7b7ee/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
