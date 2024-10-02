@@ -150,15 +150,15 @@
       {
          "id": "https://jornaleconomico.sapo.pt/?p=1219293",
          "title": "Teste",
-         "description": "&#160;",
+         "description": "ddd dddd &#160;",
          "link": "https://jornaleconomico.sapo.pt/noticias/testes/",
          "author": "Wanderley Pereira",
          "published": 1727866655000,
          "created": 1727866655000,
          "category": "Mundo",
-         "content": "<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<th style=\"width: 50%;\"></th>\n<td style=\"width: 50%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n",
+         "content": "<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\">ddd</td>\n<td style=\"width: 50%;\">dddd</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n",
          "enclosures": [],
-         "content_encoded": "<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<th style=\"width: 50%;\"></th>\n<td style=\"width: 50%;\"></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n",
+         "content_encoded": "<table style=\"border-collapse: collapse; width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 50%;\">ddd</td>\n<td style=\"width: 50%;\">dddd</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n",
          "media": {}
       },
       {
