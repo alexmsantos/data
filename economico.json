@@ -76,9 +76,9 @@
          "published": 1727881094000,
          "created": 1727881094000,
          "category": "Economia",
-         "content": "<table style=\"height: 46px; width: 100%; border-collapse: collapse;\" border=\"1\">\n<tbody>\n<tr style=\"border-style: solid; border-color: #611717;\">\n<td style=\"width: 33.3333%; height: 23px;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px;\">ola</td>\n<td style=\"width: 33.3333%; height: 23px;\">ola</td>\n</tr>\n<tr style=\"border-style: solid; border-color: #611717;\">\n<td style=\"width: 33.3333%; height: 23px;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px;\">ola</td>\n<td style=\"width: 33.3333%; height: 23px;\">ola</td>\n</tr>\n</tbody>\n</table>\n",
+         "content": "<table style=\"height: 46px; width: 100%; border-collapse: collapse;\" border=\"1\">\n<thead>\n<tr style=\"height: 1px;\">\n<th style=\"width: 33.3333%; height: 23px; text-align: center;\" scope=\"row\">ola</th>\n<td style=\"width: 16.6667%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 33.3333%; height: 23px; text-align: center;\">ola</td>\n</tr>\n<tr style=\"height: 1px;\">\n<td style=\"width: 33.3333%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 33.3333%; height: 23px; text-align: center;\">ola</td>\n</tr>\n</thead>\n</table>\n",
          "enclosures": [],
-         "content_encoded": "<table style=\"height: 46px; width: 100%; border-collapse: collapse;\" border=\"1\">\n<tbody>\n<tr style=\"border-style: solid; border-color: #611717;\">\n<td style=\"width: 33.3333%; height: 23px;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px;\">ola</td>\n<td style=\"width: 33.3333%; height: 23px;\">ola</td>\n</tr>\n<tr style=\"border-style: solid; border-color: #611717;\">\n<td style=\"width: 33.3333%; height: 23px;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px;\">ola</td>\n<td style=\"width: 33.3333%; height: 23px;\">ola</td>\n</tr>\n</tbody>\n</table>\n",
+         "content_encoded": "<table style=\"height: 46px; width: 100%; border-collapse: collapse;\" border=\"1\">\n<thead>\n<tr style=\"height: 1px;\">\n<th style=\"width: 33.3333%; height: 23px; text-align: center;\" scope=\"row\">ola</th>\n<td style=\"width: 16.6667%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 33.3333%; height: 23px; text-align: center;\">ola</td>\n</tr>\n<tr style=\"height: 1px;\">\n<td style=\"width: 33.3333%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 16.6667%; height: 23px; text-align: center;\">ola</td>\n<td style=\"width: 33.3333%; height: 23px; text-align: center;\">ola</td>\n</tr>\n</thead>\n</table>\n",
          "media": {}
       },
       {
@@ -90,8 +90,6 @@
          "published": 1727880417000,
          "created": 1727880417000,
          "category": [
-            "Atualidade",
-            "Política",
             "Sapo Atualidade",
             "Sociedade",
             "governo",
@@ -134,9 +132,8 @@
          "published": 1727879182000,
          "created": 1727879182000,
          "category": [
-            "Atualidade",
-            "Política",
             "Sapo Atualidade",
+            "Sociedade",
             "Assembleia da República",
             "Bombeiros",
             "manifestação"
@@ -155,9 +152,8 @@
          "published": 1727878257000,
          "created": 1727878257000,
          "category": [
-            "Actualidade",
-            "Política",
             "Sapo Atualidade",
+            "Sociedade",
             "Atualidade",
             "Bombeiros Sapadores",
             "manifestações",
@@ -179,6 +175,7 @@
          "category": [
             "Mundo",
             "Sapo Atualidade",
+            "Sociedade",
             "comissão europeia",
             "DiscoverEU",
             "europa",
