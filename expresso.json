@@ -14,8 +14,25 @@
          "published": 1728317701000,
          "created": 1728317701000,
          "category": "Guerra no Médio Oriente",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-10-07-israel-palestina-f901aef6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-10-07-israel-palestina-f901aef6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-10-07-israel-palestina-f901aef6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "604a2179-3a24-4031-b432-4564115c51f6",
@@ -78,7 +95,7 @@
       {
          "id": "1c6ccfb5-e9dc-4223-82ad-4114c55dc519",
          "title": "Um farol de esperança israelo-palestiniano: ex-PM israelita e ex-MNE palestiniano propõem plano de paz para dois Estados",
-         "description": "<p>Ehud Olmert foi primeiro-ministro de Israel entre 2006 e 2009, pelo partido centrista Kadima (Avançar). Nasser Al-Kidwa chefiou a diplomacia palestiniana entre de 2005 a 2006, antes de ser embaixador do futuro Estado nas Nações Unidas. Juntos, subscrevem uma proposta para pôr fim à guerra no Médio Oriente</p>",
+         "description": "<p>Ehud Olmert foi primeiro-ministro de Israel entre 2006 e 2009, pelo partido centrista Kadima (Avançar). Nasser Al-Kidwa chefiou a diplomacia palestiniana de 2005 a 2006, antes de ser embaixador do futuro Estado nas Nações Unidas. Juntos, subscrevem uma proposta para pôr fim à guerra no Médio Oriente</p>",
          "link": "https://expresso.pt/internacional/medio-oriente/guerra-israel-hamas/2024-10-07-um-farol-de-esperanca-israelo-palestiniano-ex-pm-israelita-e-ex-mne-palestiniano-propoem-plano-de-paz-para-dois-estados-b9778a06",
          "author": "Ehud Olmert e Nasser Alkidwa",
          "published": 1728316800000,
