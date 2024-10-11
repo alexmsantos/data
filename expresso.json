@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "e04879d6-8dfb-4925-aaf3-4f363e66eed5",
+         "title": "Dos impostos à habitação: conheça o essencial do Orçamento do Estado em 10 ideias-chave",
+         "description": "<p>A proposta de Orçamento do Estado foi entregue e apresentada esta quinta-feira, dia 10 de outubro. Começando pelos escalões do IRS e passando pelo alívio fiscal para os jovens e pelas projeções para a economia, aqui fica um resumo de dez pontos principais que deve ter em conta</p>",
+         "link": "https://expresso.pt/orcamento-do-estado/2024-10-11-dos-impostos-a-habitacao-conheca-o-essencial-do-orcamento-do-estado-em-10-ideias-chave-79a61df5",
+         "author": [
+            "Gonçalo Almeida",
+            "Pedro Carreira Garcia"
+         ],
+         "published": 1728627051000,
+         "created": 1728627051000,
+         "category": "Orçamento do Estado",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-10-10-apres-orc-estado-64650f40/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-10-10-apres-orc-estado-64650f40/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-10-10-apres-orc-estado-64650f40/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "9736af34-660f-41fb-959d-c5795be30449",
          "title": "Aumentos salariais abaixo dos 4,6% poupam no IRS: veja as simulações",
          "description": "<p>Tabela de IRS atualiza escalões em 4,6%, o dobro da inflação esperada para 2025. Quem tiver aumentos salariais e de pensões inferiores poupará uns trocos no IRS, mostram simulações da Deloitte</p>",
@@ -248,18 +280,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "cc468b81-7d68-49b9-9e54-ee8df45d5ef1",
-         "title": "Ir além do orçamento",
-         "description": "<p>O orçamento deve refletir uma leitura precisa da realidade, incluindo níveis de inflação, taxas de desemprego e necessidades de infraestrutura</p>",
-         "link": "https://expresso.pt/opiniao/2024-10-10-ir-alem-do-orcamento-df4bd715",
-         "author": "Agostinho Abrunhosa",
-         "published": 1728597420000,
-         "created": 1728597420000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
