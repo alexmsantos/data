@@ -217,8 +217,25 @@
          "published": 1728720720000,
          "created": 1728720720000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-10-05-marcelo-806a2b2a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-10-05-marcelo-806a2b2a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-10-05-marcelo-806a2b2a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b817a4b5-a3e0-4065-a7a7-45cfc99f41fb",
