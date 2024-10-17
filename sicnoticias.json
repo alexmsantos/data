@@ -8,7 +8,7 @@
       {
          "id": "b0ed2dc3-9ce4-487d-b43d-32f124f81209",
          "title": "Explosão em prédio devoluto no Porto provoca um ferido grave",
-         "description": "O ferido foi transportado para o hospital de São João, no Porto.",
+         "description": "O ferido foi transportado para o Hospital de São João, no Porto.",
          "link": "https://sicnoticias.pt/pais/2024-10-17-explosao-em-predio-devoluto-no-porto-provoca-um-ferido-grave-f886d603",
          "author": "SIC Notícias",
          "published": 1729174165000,
@@ -68,7 +68,10 @@
          "title": "Israel diz que líder do Hamas pode estar morto",
          "description": "<p><span>A informação está a ser avançada pelo exército israelita, que diz estar a avaliar se a morte se confirma.</span></p>",
          "link": "https://sicnoticias.pt/especiais/guerra-no-medio-oriente/2024-10-17-israel-diz-que-lider-do-hamas-pode-estar-morto-e5bd10c0",
-         "author": "Rita Rogado",
+         "author": [
+            "Rita Rogado",
+            "Lusa"
+         ],
          "published": 1729172553000,
          "created": 1729172553000,
          "category": "Guerra no Médio Oriente",
