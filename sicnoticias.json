@@ -188,8 +188,25 @@
          "published": 1729250918000,
          "created": 1729250918000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2019-10-04-GNR-geral.jpg-b448dccc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2019-10-04-GNR-geral.jpg-b448dccc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2019-10-04-GNR-geral.jpg-b448dccc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "51cbf2aa-28d1-46d8-9eed-3a94ebaa4692",
