@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "e8714b58-ee58-4b6c-a861-b71c58c12ac0",
+         "title": "Sismo de magnitude 3,1 com epicentro a 10 quilómetros a sul de Porto de Mós",
+         "description": "<p>Registado à 1h55, não causou danos pessoais ou materiais, de acordo com o Instituto Português do Mar e da Atmosfera</p>",
+         "link": "https://expresso.pt/sociedade/2024-10-18-sismo-de-magnitude-31-com-epicentro-a-10-quilometros-a-sul-de-porto-de-mos-d10a69f4",
+         "author": "Lusa",
+         "published": 1729234020000,
+         "created": 1729234020000,
+         "category": "Sociedade",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-10-12-Castelo-de-Porto-de-Mos-FOTO-Turismo-Centro-de-Portugal.jpg-3d746b0f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-10-12-Castelo-de-Porto-de-Mos-FOTO-Turismo-Centro-de-Portugal.jpg-3d746b0f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-10-12-Castelo-de-Porto-de-Mos-FOTO-Turismo-Centro-de-Portugal.jpg-3d746b0f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "2058a949-9675-43c8-b327-758a6ea2c78f",
          "title": "Estará a Inteligência Artificial a viciar o mercado de trabalho? Acabar com o preconceito nas contratações pode não ser assim tão simples",
          "description": "<p>Já ouviu falar de práticas de contratação com recurso a IA? Será que esta prática comum está a reduzir a desigualdade ou a reforçar a discriminação? Alguns especialistas em tecnologia argumentam que a IA pode também ser uma oportunidade para superar todas as formas de preconceito, incluindo aquelas presentes na humanidade. Oiça aqui mais um episódio de ‘A IA e Tu’</p>",
@@ -277,18 +306,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "d0db4ef0-2671-47a7-bb44-cb33b46ee4e8",
-         "title": "Pedro Nuno Santos não disse que viabiliza o Orçamento",
-         "description": "<p>O que Pedro Nuno Santos anunciou foi que o voto do PS na generalidade será a abstenção. É verdade que isso, à primeira vista, permite a leitura da promessa de viabilização. Mas, tratando-se do PS e de Pedro Nuno, talvez valha a pena olhar com atenção para as palavras e para o momento e o contexto em que aparecem no seu discurso</p>",
-         "link": "https://expresso.pt/opiniao/2024-10-17-pedro-nuno-santos-nao-disse-que-viabiliza-o-orcamento-5214dbfd",
-         "author": "Pedro Gomes Sanches",
-         "published": 1729203233000,
-         "created": 1729203233000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
