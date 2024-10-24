@@ -10,7 +10,10 @@
          "title": "Cabe ao MP \"averiguar se cidadão baleado pela PSP tinha (ou não) alguma arma\"",
          "description": "O esclarecimento foi feito pelo procurador-geral da República, Amadeu Guerra, que condenou os tumultos registados nas últimas noites em diversas zonas da área metropolitana de Lisboa e manifestou receio de que os desacatos possam continuar a alastrar.",
          "link": "https://sicnoticias.pt/pais/2024-10-24-pgr-esclarece-que-cabe-ao-ministerio-publico-averiguar-se-cidadao-baleado-pela-psp-tinha--ou-nao--alguma-arma-3e65d4f8",
-         "author": "Lusa",
+         "author": [
+            "Lusa",
+            "Ana Lemos"
+         ],
          "published": 1729769814000,
          "created": 1729769814000,
          "category": "País",
@@ -29,6 +32,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-10-24-pgr-amadeu-guerra-d0c2969b-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "a1f2f2e7-0400-49ad-aa69-fe840f0f0737",
+         "title": "Polícia espanhola detém autores de campanha de ódio contra Vinicius nas redes sociais",
+         "description": "O futebolista foi alvo de uma campanha de ódio nas redes sociais, com insultos racistas, dias antes de um dérbi madrileno.",
+         "link": "https://sicnoticias.pt/desporto/2024-10-24-policia-espanhola-detem-autores-de-campanha-de-odio-contra-vinicius-nas-redes-sociais-a1f419c5",
+         "author": "Lusa",
+         "published": 1729769434000,
+         "created": 1729769434000,
+         "category": "Desporto",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-04-30-vinicius-jr-2dd098b8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-04-30-vinicius-jr-2dd098b8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-04-30-vinicius-jr-2dd098b8/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-10-24-doc.20241024.43787068.11679393.jpg-e6b2dea9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "61bdbef1-b22d-4fd9-b309-f3e14f808707",
-         "title": "Portugal sobe ao sétimo lugar do ranking FIFA",
-         "description": "Desde a última atualização, em meados de setembro, Portugal venceu na Polónia (3-1) e empatou na Escócia (0-0), em dois encontros da fase de grupos da Liga das Nações.",
-         "link": "https://sicnoticias.pt/desporto/2024-10-24-portugal-sobe-ao-setimo-lugar-do-ranking-fifa-9a0d3fec",
-         "author": "Lusa",
-         "published": 1729762364000,
-         "created": 1729762364000,
-         "category": "Desporto",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-09-09-portugal-ronaldo-selecao-liga-das-nacoes-8b183f9f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-09-09-portugal-ronaldo-selecao-liga-das-nacoes-8b183f9f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-09-09-portugal-ronaldo-selecao-liga-das-nacoes-8b183f9f/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
