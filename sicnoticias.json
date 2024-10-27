@@ -43,8 +43,25 @@
          "published": 1730022681000,
          "created": 1730022681000,
          "category": "Guerra no Médio Oriente",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-10-20-ataque-de-israel-no-libano.jpg-b4e8019b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-10-20-ataque-de-israel-no-libano.jpg-b4e8019b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-10-20-ataque-de-israel-no-libano.jpg-b4e8019b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "55749751-140d-445d-bde4-4e6c5c3a2623",
