@@ -8,10 +8,10 @@ rp(url)
     const $ = cheerio.load(html);
 
     const articles = [];
-    for (let i = 0; i < 10; i++) {
-      const articleTitle = $('.aominutoMain h2 > a').eq(i);
-      const articleUrl = $('.aominutoMain h2 > a', html)[i];
-      const articleDate = $('.aominutoMain .dateTime', html).eq(i);
+    for (let i = 0; i < 8; i++) {
+      const articleTitle = $('.bloco_noticia a.destaque_titulo > h2').eq(i);
+      const articleUrl = $('.bloco_noticia a.destaque_titulo', html)[i];
+      const articleDate = $('.bloco_noticia .date_noticia', html).eq(i);
       articles.push(articleTitle.text().trim());
       if (!articleUrl.attribs.href.startsWith("https://")) {
         articles.push("https://www.cmjornal.pt" + articleUrl.attribs.href);
@@ -21,7 +21,7 @@ rp(url)
       const dateTrim = articleDate.text().trim();
       let thisYear = new Date();
       let dateArray = dateTrim.split(/[|,/, ]/);
-      let newDate = `${thisYear.getFullYear()}-${dateArray[4]}-${dateArray[3]}T${dateArray[0]}:00+00:00`;
+      let newDate = `${thisYear.getFullYear()}-${dateArray[1]}-${dateArray[0]}T${dateArray[2]}:00+00:00`;
       articles.push(newDate);
     }
     console.log(articles);
