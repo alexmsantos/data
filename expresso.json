@@ -162,8 +162,25 @@
          "published": 1730459943000,
          "created": 1730459943000,
          "category": "Política",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-01-jcc-camilo-mortagua-46_preview.jpg-efcbdb26/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-01-jcc-camilo-mortagua-46_preview.jpg-efcbdb26/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-01-jcc-camilo-mortagua-46_preview.jpg-efcbdb26/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "825af350-dfa3-4b72-8bae-1d4b2d803899",
