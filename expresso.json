@@ -43,8 +43,25 @@
          "published": 1730723726000,
          "created": 1730723726000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-01-alice-gato_site.png-3e162ab6-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-01-alice-gato_site.png-3e162ab6-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-01-alice-gato_site.png-3e162ab6-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "d0261aad-f96c-44a9-850b-244479b88819",
@@ -77,9 +94,9 @@
       },
       {
          "id": "ab24a395-af4e-40c0-9800-7db4ab05050f",
-         "title": "De visita ao Bairro do Zambujal, Pedro Nuno 'segura' presidente da Câmara de Loures: polémica sobre despejos foi só “mau momento”",
+         "title": "Pedro Nuno Santos",
          "description": "<p>Depois de vários dias em silêncio, o secretário-geral socialista falou esta manhhã sobre as polémicas declarações de Ricardo Leão, que é também presidente da federação distrital do PS</p>",
-         "link": "https://expresso.pt/politica/partidos/2024-11-04-de-visita-ao-bairro-do-zambujal-pedro-nuno-segura-presidente-da-camara-de-loures-polemica-sobre-despejos-foi-so-mau-momento-722cac84",
+         "link": "https://expresso.pt/politica/partidos/2024-11-04-pedro-nuno-santos-722cac84",
          "author": "João Pedro Henriques",
          "published": 1730723655000,
          "created": 1730723655000,
