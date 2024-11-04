@@ -8,12 +8,14 @@
       {
          "title": " Linha Azul do Metropolitano de Lisboa interrompida devido a avaria na sinalização ",
          "description": {
-            "img": "",
+            "img": {
+               "src": "https://img.iol.pt/image/id/6183b5350cf290553bc14a50/200.jpg"
+            },
             "$text": " N&#xe3;o &#xe9; poss&#xed;vel prever a dura&#xe7;&#xe3;o da interrup&#xe7;&#xe3;o "
          },
          "link": "https://cnnportugal.iol.pt/metro-de-lisboa/metropolitano-de-lisboa/linha-azul-do-metropolitano-de-lisboa-interrompida-devido-a-avaria-na-sinalizacao/20241104/67287a7fd34e94b829070525",
-         "published": 1730706047000,
-         "created": 1730706047000,
+         "published": 1730706000000,
+         "created": 1730706000000,
          "category": [],
          "enclosures": [],
          "media": {}
