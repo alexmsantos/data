@@ -14,8 +14,25 @@
          "published": 1731320187000,
          "created": 1731320187000,
          "category": "Desporto",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-10-29-joao-pereira-sporting.jpeg-b1944835/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-10-29-joao-pereira-sporting.jpeg-b1944835/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-10-29-joao-pereira-sporting.jpeg-b1944835/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "f322ce35-37ae-462f-97e5-39e29577a61a",
