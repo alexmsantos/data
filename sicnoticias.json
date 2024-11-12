@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "c4fb2435-223c-42e2-bc8d-b24291f57ac0",
+         "title": "Quatro viaturas incendiadas em Cascais e Benfica",
+         "description": "Segundo a Polícia de Segurança Pública, as três ocorrências (duas em Cascais e uma em Benfica) ocorreram entre as 02:26 e as 04:24 desta terça-feira.",
+         "link": "https://sicnoticias.pt/pais/2024-11-12-quatro-viaturas-incendiadas-em-cascais-e-benfica-d1dfb3d6",
+         "author": "Lusa",
+         "published": 1731399725000,
+         "created": 1731399725000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-04-18-psp-policia-e1aac53d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-04-18-psp-policia-e1aac53d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-04-18-psp-policia-e1aac53d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "7c20c72f-c829-4e4b-9cba-69095eef48a4",
          "title": "Ivandro: “Nós fazemos música desde o tempo das cavernas, ela é tão importante como comer. Não perguntamos aos restaurantes se têm medo de ficar sem trabalho porque as pessoas vão ter sempre de comer. É como a música”",
          "description": "Veio de Angola com três anos e cresceu em Algueirão Mem Martins. Aos 14 anos trocou as brincadeiras de rua por horas fechado em estúdio a “gravar covers”. A primeira atuação foi na escola secundária e “não correu nada bem. Só tinha quatro pessoas a assistir\". E quem lhe “roubou” o público foi o amigo de infância, Julinho Ksd. Joaquim Paulo é hoje Ivandro, um dos nomes incontornáveis da música portuguesa. Ouça aqui o novo episódio do Geração 90 com Júlia Palha",
@@ -64,35 +93,6 @@
          }
       },
       {
-         "id": "605891a4-3a9f-4c69-a4ad-525161fd4f16",
-         "title": "Governo em estado de emergência política",
-         "description": "<p><span>A crise no Ministério da Saúde provocada agora pela forma como foi tratada uma greve no INEM é o tema da Comissão Política desta semana</span></p>",
-         "link": "https://sicnoticias.pt/podcasts/comissao-politica/2024-11-12-governo-em-estado-de-emergencia-politica-b0cae9aa",
-         "author": "SIC Notícias",
-         "published": 1731396600000,
-         "created": 1731396600000,
-         "category": "Comissão Política",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-11-11-comissao-politica-12-11-2024-06b48556/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-11-11-comissao-politica-12-11-2024-06b48556/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-11-11-comissao-politica-12-11-2024-06b48556/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "8a492554-7705-4141-afe5-4d0ccfc63713",
          "title": "Eleição de Trump condiciona a crise política alemã e já se discute se há papel. Qual papel?",
          "description": "A Alemanha vai ter eleições antecipadas, a partir do momento em que a moção de confiança apresentada pelo governo minoritário for chumbada. A oposição e o presidente têm pressa, Olaf Scholz quer adiar esse momento",
@@ -116,6 +116,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-11-11-expresso-da-manha-16x9-2021-1-b992956c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "605891a4-3a9f-4c69-a4ad-525161fd4f16",
+         "title": "Governo em estado de emergência política",
+         "description": "<p><span>A crise no Ministério da Saúde provocada agora pela forma como foi tratada uma greve no INEM é o tema da Comissão Política desta semana</span></p>",
+         "link": "https://sicnoticias.pt/podcasts/comissao-politica/2024-11-12-governo-em-estado-de-emergencia-politica-b0cae9aa",
+         "author": "SIC Notícias",
+         "published": 1731396600000,
+         "created": 1731396600000,
+         "category": "Comissão Política",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-11-comissao-politica-12-11-2024-06b48556/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-11-comissao-politica-12-11-2024-06b48556/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-11-comissao-politica-12-11-2024-06b48556/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-11-12-trump-e-rubio-65a267ca/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "505a7d98-6655-4823-aee0-4a7b9383e62c",
-         "title": "Coreia do Norte ratifica acordo histórico de defesa com a Rússia",
-         "description": "<p><span>Concluído durante a visita de Putin a Pyongyang, o </span><span>tratado entre os dois países</span><span> prevê uma \"assistência militar imediata\" recíproca em caso de ataque a um dos dois. </span><span>De acordo com Kiev, cerca de 11 mil soldados norte-coreanos já foram destacados para a Rússia e começaram a </span><span>combater os ucranianos</span><span>.</span></p>",
-         "link": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2024-11-12-coreia-do-norte-ratifica-acordo-historico-de-defesa-com-a-russia-e1608385",
-         "author": "Lusa",
-         "published": 1731392918000,
-         "created": 1731392918000,
-         "category": "Guerra Rússia-Ucrânia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-10-22-putin-e-kim-jung-un-eeb804f0/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-10-22-putin-e-kim-jung-un-eeb804f0/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-10-22-putin-e-kim-jung-un-eeb804f0/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
