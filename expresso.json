@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "953a6841-8db2-4a7d-87d7-01a6aac2fe89",
+         "title": "Exposições: Na Gulbenkian vê-se Veneza como obra de arte",
+         "description": "<p>A cidade italiana é protagonista de “Veneza em Festa — de Canaletto a Guardi”, exposição na Gulbenkian onde se celebra a sua natureza festiva através do olhar dos mestres da pintura veneziana do século XVIII</p>",
+         "link": "https://expresso.pt/revista/culturas/2024-11-14-exposicoes-na-gulbenkian-ve-se-veneza-como-obra-de-arte-0c7c32ee",
+         "author": [
+            "Maria João Bourbon",
+            "Tiago Miranda"
+         ],
+         "published": 1731596220000,
+         "created": 1731596220000,
+         "category": "Culturas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-08-tm7x3a0378-copy_t-_idp.jpg-92aa431c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-08-tm7x3a0378-copy_t-_idp.jpg-92aa431c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-08-tm7x3a0378-copy_t-_idp.jpg-92aa431c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "aa8de880-d91e-4f39-857f-c4435e10ce4d",
          "title": "Da euforia à encruzilhada: o 'efeito Trump' durou apenas uma sessão de bolsa",
          "description": "<p>Analistas discutem quem vai ganhar e perder com as políticas de Donald Trump</p>",
@@ -248,35 +280,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "7f85aa85-ca24-4e5e-b002-76f81bbef1ed",
-         "title": "Grupo de peritos quer alargar terapia inovadora a mais doentes em Portugal",
-         "description": "<p>Projeto SHARP, do NOVA Center for Global Health, vai produzir um relatório com recomendações para expandir a utilização de células CAR-T no tratamento de cancros de sangue. No futuro, a tecnologia poderá tratar outras doenças oncológicas e autoimunes. O Expresso é <i>media partner</i> deste grupo de reflexão</p>",
-         "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2024-11-14-grupo-de-peritos-quer-alargar-terapia-inovadora-a-mais-doentes-em-portugal-e3b62250",
-         "author": "Francisco de Almeida Fernandes",
-         "published": 1731587923000,
-         "created": 1731587923000,
-         "category": "Projetos Expresso",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2022-09-23-Cancro-d1e74337/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2022-09-23-Cancro-d1e74337/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2022-09-23-Cancro-d1e74337/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
