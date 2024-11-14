@@ -43,8 +43,25 @@
          "published": 1731604020000,
          "created": 1731604020000,
          "category": "África",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-14-mocambique-manifestacoes-570d4a76/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-14-mocambique-manifestacoes-570d4a76/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-14-mocambique-manifestacoes-570d4a76/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "d06470df-f2b4-44af-a6d3-0332c0ca035d",
