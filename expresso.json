@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "44a96037-d518-4454-b310-f56ddb493be4",
+         "title": "Pelo menos 43 mortos em ataques israelitas no Líbano",
+         "description": "<p>Em mais de um ano de conflito, pelo menos 3386 pessoas morreram no Líbano e outras 14.417 ficaram feridas, de acordo com o mais recente balanço do Governo libanês, feito antes dos ataques desta madrugada</p>",
+         "link": "https://expresso.pt/internacional/medio-oriente/guerra-israel-hamas/2024-11-15-pelo-menos-43-mortos-em-ataques-israelitas-no-libano-c7485932",
+         "author": "Lusa",
+         "published": 1731655860000,
+         "created": 1731655860000,
+         "category": "Guerra no Médio Oriente",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-15-libano.jpg-b91994d9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-15-libano.jpg-b91994d9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-15-libano.jpg-b91994d9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "eb546cd0-9578-4550-a7a5-d93e6aa68aa4",
          "title": "Trump, Musk, bitcoin, dogecoin e outras criptomoedas serão uma mistura explosiva?",
          "description": "<p>Após a vitória de Donald Trump, a bitcoin tocou nos 90 mil dólares e o mercado das criptomoedas acredita que vem aí menor regulação. No Expresso da Manhã, Paulo Baldaia conversa com o jornalista Gonçalo Almeida</p>",
@@ -243,35 +272,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "2a3fb44e-e8c9-435d-b382-f93f883e4932",
-         "title": "Dos lucros da Vodafone aos ganhos do Softbank: o que marcou a semana económica pelo mundo fora",
-         "description": "<p>Os últimos dias foram recheados de apresentações de resultados das empresas cotadas, mas também esteve em destaque a empresa de criptoativos FTX e a atualização de projeções da OPEP</p>",
-         "link": "https://expresso.pt/semanario/economia/mundo/2024-11-14-dos-lucros-da-vodafone-aos-ganhos-do-softbank-o-que-marcou-a-semana-economica-pelo-mundo-fora-27ff67c5",
-         "author": "Expresso",
-         "published": 1731625020000,
-         "created": 1731625020000,
-         "category": "Mundo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-11-13-alta-1040960702_t-_idp.jpg-41320a3a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-11-13-alta-1040960702_t-_idp.jpg-41320a3a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-11-13-alta-1040960702_t-_idp.jpg-41320a3a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
