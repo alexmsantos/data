@@ -43,8 +43,25 @@
          "published": 1731923100000,
          "created": 1731923100000,
          "category": "O CEO é o limite",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-15-o-ceo-e-o-limite-nelma-fernandes-15112024-03-mf.jpg-20a9e4b5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-15-o-ceo-e-o-limite-nelma-fernandes-15112024-03-mf.jpg-20a9e4b5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-15-o-ceo-e-o-limite-nelma-fernandes-15112024-03-mf.jpg-20a9e4b5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "7b6cb6e1-18cc-4336-bf6d-04464eab3a16",
