@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2673585/autarquicas-cds-pp-nao-e-custo-de-oportunidade-em-coligacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Autárquicas. CDS-PP não é \"custo de oportunidade\" em coligações",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2673585/autarquicas-cds-pp-nao-e-custo-de-oportunidade-em-coligacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732060014000,
+         "created": 1732060014000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_665ee519ad3d8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673582/primeiro-ministro-cabo-verdiano-dirige-se-a-zelensky-coragem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Primeiro-ministro cabo-verdiano dirige-se a Zelensky: \"Coragem\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43932834.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673427/starmer-condena-retorica-irresponsavel-da-russia-com-ameaca-nuclear?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Starmer condena \"retórica irresponsável\" da Rússia com ameaça nuclear",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673427/starmer-condena-retorica-irresponsavel-da-russia-com-ameaca-nuclear?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732041651000,
-         "created": 1732041651000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66cfa23a47e10.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
