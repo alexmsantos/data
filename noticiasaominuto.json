@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2673547/lembra-se-do-ex-benfica-paulo-lopes-tem-novo-desafio-como-treinador?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lembra-se do ex-Benfica Paulo Lopes? Tem novo desafio como treinador",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2673547/lembra-se-do-ex-benfica-paulo-lopes-tem-novo-desafio-como-treinador?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732055207000,
+         "created": 1732055207000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d108115f9a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673545/portugal-entre-dezenas-de-paises-que-reafirmam-apoio-a-kyiv-na-onu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Portugal entre dezenas de países que reafirmam apoio a Kyiv na ONU",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/42594143.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2673376/chega-espera-que-apoio-europeu-e-dos-eua-a-kyiv-se-mantenha-inflexivel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chega espera que apoio europeu e dos EUA a Kyiv \"se mantenha inflexível\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2673376/chega-espera-que-apoio-europeu-e-dos-eua-a-kyiv-se-mantenha-inflexivel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732038147000,
-         "created": 1732038147000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e385e33eec4e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
