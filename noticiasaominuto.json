@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2673564/wall-street-fecha-sem-rumo-mas-a-ignorar-tensoes-geopoliticas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Wall Street fecha sem rumo mas a ignorar tensões geopolíticas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2673564/wall-street-fecha-sem-rumo-mas-a-ignorar-tensoes-geopoliticas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732057560000,
+         "created": 1732057560000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67216afd2e914.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2673566/oficial-uniao-de-leiria-confirma-saida-de-filipe-candido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: União de Leiria confirma saída de Filipe Cândido",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2673566/oficial-uniao-de-leiria-confirma-saida-de-filipe-candido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732057555000,
+         "created": 1732057555000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d198026f64.jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673562/olaf-scholz-propos-a-xi-jinping-trabalhar-em-conjunto-para-a-paz-no-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Olaf Scholz propôs a Xi Jinping trabalhar em conjunto para a paz no mundo",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64dbb154044e4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2672983/mundial-de-ralis-muda-novamente-e-diz-adeus-a-motores-eletricos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mundial de Ralis muda novamente e diz adeus a motores elétricos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2672983/mundial-de-ralis-muda-novamente-e-diz-adeus-a-motores-eletricos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732039231000,
-         "created": 1732039231000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673c52a43d321.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2672585/anuncio-de-natal-da-coca-cola-sem-pessoas-reais-foi-todo-gerado-por-ia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Anúncio de Natal da Coca-Cola sem pessoas reais. Foi todo gerado por IA",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2672585/anuncio-de-natal-da-coca-cola-sem-pessoas-reais-foi-todo-gerado-por-ia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732039201000,
-         "created": 1732039201000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673b7088a10a6.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
