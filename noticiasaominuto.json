@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2673532/kokcu-e-akturkoglu-perdem-e-sao-ultrapassados-pelo-pais-de-gales?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Kokçu e Akturkoglu perdem e são ultrapassados pelo País de Gales",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2673532/kokcu-e-akturkoglu-perdem-e-sao-ultrapassados-pelo-pais-de-gales?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732052815000,
+         "created": 1732052815000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d07248ccae.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673530/diplomacia-de-kyiv-pede-cabeca-fria-face-a-chantagem-nuclear-russa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Diplomacia de Kyiv pede cabeça fria face a \"chantagem\" nuclear russa",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cc2ad4ae2b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673360/mocambique-pelo-menos-807-feridos-e-19-mortos-em-protestos-violentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moçambique. Pelo menos 807 feridos e 19 mortos em protestos \"violentos\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673360/mocambique-pelo-menos-807-feridos-e-19-mortos-em-protestos-violentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732037089000,
-         "created": 1732037089000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43849018.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
