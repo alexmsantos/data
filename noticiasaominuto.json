@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673499/franca-convoca-embaixadora-do-azerbaijao-por-comentarios-inaceitaveis?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "França convoca embaixadora do Azerbaijão por comentários \"inaceitáveis\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673499/franca-convoca-embaixadora-do-azerbaijao-por-comentarios-inaceitaveis?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732048258000,
+         "created": 1732048258000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cf53fa6d24.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673494/dia-de-sorte-eis-a-chave-do-euromilhoes-que-o-tornara-excentrico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dia de sorte? Eis a chave do Euromilhões que o tornará 'excêntrico'",
@@ -642,6 +665,29 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_645a3218c677c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673456/sentenca-de-donald-trump-adiada-ate-fim-do-novo-mandato-na-casa-branca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sentença de Donald Trump adiada até ao fim do novo mandato na Casa Branca",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673456/sentenca-de-donald-trump-adiada-ate-fim-do-novo-mandato-na-casa-branca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732043248000,
+         "created": 1732043248000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673ce2b50205d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cba6d0d231.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673311/quatro-detidos-por-ajudar-imigrantes-ilegais-a-entrar-no-espaco-schengen?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quatro detidos por ajudar imigrantes ilegais a entrar no Espaço Schengen",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673311/quatro-detidos-por-ajudar-imigrantes-ilegais-a-entrar-no-espaco-schengen?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732033978000,
-         "created": 1732033978000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5adf18d6a5660.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2673021/ha-um-truque-simples-para-remover-as-manchas-de-suor-da-roupa-tome-nota?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Há um truque simples para remover as manchas de suor da roupa. Tome nota!",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2673021/ha-um-truque-simples-para-remover-as-manchas-de-suor-da-roupa-tome-nota?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732033847000,
-         "created": 1732033847000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673c604892e1d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
