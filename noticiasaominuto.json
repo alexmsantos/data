@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2673515/governo-sao-tomense-sobe-taxas-aeroportuarias-a-partir-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Governo são-tomense sobe taxas aeroportuárias a partir de dezembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2673515/governo-sao-tomense-sobe-taxas-aeroportuarias-a-partir-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732050796000,
+         "created": 1732050796000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/33890780.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673514/venezuela-eua-reconhecem-edmundo-gonzalez-urrutia-como-presidente-eleito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Venezuela. EUA reconhecem Edmundo González Urrutia como presidente eleito",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43616693.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673332/nadal-ouve-o-hino-na-ultima-prova-da-carreira-e-mal-contem-as-lagrimas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nadal ouve o hino na última prova da carreira e mal contém as lágrimas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673332/nadal-ouve-o-hino-na-ultima-prova-da-carreira-e-mal-contem-as-lagrimas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732035374000,
-         "created": 1732035374000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cc3043ec11.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
