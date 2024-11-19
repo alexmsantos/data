@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2673392/detido-para-cumprir-pena-por-roubo-sequestro-e-violacao-no-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Detido para cumprir pena por roubo, sequestro e violação no Porto",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2673392/detido-para-cumprir-pena-por-roubo-sequestro-e-violacao-no-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732038859000,
+         "created": 1732038859000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_540471fcd2e06.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673378/acordo-aguardado-entre-ppe-e-s-d-para-aval-a-nova-comissao-europeia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Acordo aguardado entre PPE e S&D para aval à nova Comissão Europeia",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_58e89f34df948.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2673183/psicologa-alerta-para-frases-que-estragam-o-dia-de-alguem-com-ansiedade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Psicóloga alerta para frases que estragam o dia de alguém com ansiedade",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2673183/psicologa-alerta-para-frases-que-estragam-o-dia-de-alguem-com-ansiedade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732024500000,
-         "created": 1732024500000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_632c9e5e8dcd5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
