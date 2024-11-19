@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2673507/referendo-sobre-alojamento-local-lisboa-cria-comissao-para-analisar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Referendo sobre alojamento local? Lisboa cria comissão para analisar",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2673507/referendo-sobre-alojamento-local-lisboa-cria-comissao-para-analisar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732050047000,
+         "created": 1732050047000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_645224715a840.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2673511/pep-guardiola-ja-decidiu-o-futuro-no-city-e-hugo-viana-esfrega-as-maos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pep Guardiola já decidiu o futuro no City e Hugo Viana 'esfrega as mãos'",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2673511/pep-guardiola-ja-decidiu-o-futuro-no-city-e-hugo-viana-esfrega-as-maos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732049893000,
+         "created": 1732049893000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cfbd747cb1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673493/porco-fugitivo-na-pensilvania-autoridades-tentam-apanha-lo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Porco \"procurado por fugir à polícia\" no estado da Pensilvânia",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6730bc6760cc7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673314/cop29-apresentada-proposta-para-inverter-emissoes-de-metano-dos-residuos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "COP29. Apresentada proposta para inverter emissões de metano dos resíduos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673314/cop29-apresentada-proposta-para-inverter-emissoes-de-metano-dos-residuos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732034400000,
-         "created": 1732034400000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6735d8bd5dd36.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673318/klopp-quis-substituir-salah-por-flop-que-amorim-tenta-reabilitar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Klopp quis substituir Salah por 'flop'... que Amorim tenta reabilitar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673318/klopp-quis-substituir-salah-por-flop-que-amorim-tenta-reabilitar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732034376000,
-         "created": 1732034376000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64fdb6954feec.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
