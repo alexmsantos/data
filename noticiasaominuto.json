@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2673198/bryan-adams-vai-dar-autografos-a-fas-em-portugal-e-a-entrada-e-gratuita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bryan Adams vai dar autógrafos a fãs em Portugal e a entrada é gratuita",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2673198/bryan-adams-vai-dar-autografos-a-fas-em-portugal-e-a-entrada-e-gratuita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732046699000,
+         "created": 1732046699000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673c9adfecfba.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673492/aeroporto-de-beja-acolhia-ampla-estrutura-de-rede-de-trafico-de-droga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Aeroporto de Beja acolhia \"ampla estrutura\" de rede de tráfico de droga",
@@ -16,7 +39,7 @@
          },
          "published": 1732046597000,
          "created": 1732046597000,
-         "category": "Mundo",
+         "category": "País",
          "content": "undefined",
          "enclosures": [
             {
@@ -1994,7 +2017,7 @@
          },
          "published": 1732035077000,
          "created": 1732035077000,
-         "category": "Mundo",
+         "category": "País",
          "content": "undefined",
          "enclosures": [
             {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_563945ec0912b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673299/imigracao-ilegal-lousanense-e-dirigentes-absolvidos-de-acusacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Imigração ilegal. Lousanense e dirigentes absolvidos de acusações",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673299/imigracao-ilegal-lousanense-e-dirigentes-absolvidos-de-acusacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732033739000,
-         "created": 1732033739000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707aefbbebbc.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
