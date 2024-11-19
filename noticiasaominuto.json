@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673493/porco-fugitivo-na-pensilvania-autoridades-tentam-apanha-lo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Porco \"procurado por fugir à polícia\" no estado da Pensilvânia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673493/porco-fugitivo-na-pensilvania-autoridades-tentam-apanha-lo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732049677000,
+         "created": 1732049677000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cefe9ef5f7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2673506/pcp-diz-que-governo-nao-quer-taxar-super-ricos-mas-da-super-descontos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PCP diz que Governo não quer taxar super-ricos, mas dá \"super descontos\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64fdb6954feec.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2673316/banco-central-angolano-estima-crescimento-de-4-e-inflacao-de-27-em-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Banco Central angolano estima crescimento de 4% e inflação de 27% em 2024",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2673316/banco-central-angolano-estima-crescimento-de-4-e-inflacao-de-27-em-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732034254000,
-         "created": 1732034254000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/29156229.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
