@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2673459/apagamento-do-25-de-abril-pcp-falta-a-sessao-solene-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Apagamento do 25 de Abril\". PCP falta à sessão solene do 25 de Novembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2673459/apagamento-do-25-de-abril-pcp-falta-a-sessao-solene-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732044234000,
+         "created": 1732044234000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64e92cc4390f1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673457/ativistas-alegadamente-vigiadas-pelo-metro-de-lisboa-apresentaram-queixa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ativistas alegadamente vigiadas pelo metro de Lisboa apresentaram queixa",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/40835513.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673258/agressoes-entre-duas-alunas-em-loule-levam-a-queixa-na-gnr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Agressões entre duas alunas em Loulé levam a queixa na GNR",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673258/agressoes-entre-duas-alunas-em-loule-levam-a-queixa-na-gnr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732030785000,
-         "created": 1732030785000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62435907d4a90.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
