@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2673974/be-vai-estar-representado-por-uma-deputada-na-cerimonia-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "BE vai estar representado por uma deputada na cerimónia do 25 de Novembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2673974/be-vai-estar-representado-por-uma-deputada-na-cerimonia-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732113087000,
+         "created": 1732113087000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43832382.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673973/israel-assegura-que-inimigo-nao-e-o-exercito-libanes-mas-sim-o-hazbollah?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Israel assegura que inimigo não é o Exército libanês, mas sim o Hazbollah",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_63932abd8c5fc.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2673800/ana-carmo-e-a-candidata-do-ps-a-camara-de-almodovar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ana Carmo é a candidata do PS à Câmara de Almodôvar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2673800/ana-carmo-e-a-candidata-do-ps-a-camara-de-almodovar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732101525000,
-         "created": 1732101525000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5413271ccc586.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
