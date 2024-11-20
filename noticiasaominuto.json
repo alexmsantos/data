@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2673953/oposicao-sao-tomense-ve-no-aumento-de-taxas-um-atentado-a-economia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oposição são-tomense vê no aumento de taxas um \"atentado à economia\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2673953/oposicao-sao-tomense-ve-no-aumento-de-taxas-um-atentado-a-economia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732111639000,
+         "created": 1732111639000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61950562a6b69.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673950/camara-de-lisboa-repudia-abandono-do-projeto-de-residencia-universitaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Câmara de Lisboa repudia abandono do projeto de residência universitária",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672100394e45f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673775/sem-carta-despista-se-em-fuga-a-psp-e-faz-ferido-tinha-armas-de-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sem carta, despista-se em fuga à PSP e faz ferido. Tinha armas de fogo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673775/sem-carta-despista-se-em-fuga-a-psp-e-faz-ferido-tinha-armas-de-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732099678000,
-         "created": 1732099678000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67333ee1c2b48.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
