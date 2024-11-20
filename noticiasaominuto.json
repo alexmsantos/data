@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2673604/spacex-arrancou-sexto-teste-da-starship-com-musk-e-trump-na-plateia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "SpaceX arrancou sexto teste da Starship com Musk e Trump na plateia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2673604/spacex-arrancou-sexto-teste-da-starship-com-musk-e-trump-na-plateia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732084875000,
+         "created": 1732084875000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d839c26d30.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673602/moscovo-baixa-a-fasquia-e-levanta-duvidas-sobre-uso-de-armas-nucleares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Moscovo baixa a fasquia e levanta dúvidas sobre uso de armas nucleares",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43888390.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2673419/filme-de-animacao-nayola-vai-ser-exibido-no-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Filme de animação 'Nayola' vai ser exibido no Brasil",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/cultura/2673419/filme-de-animacao-nayola-vai-ser-exibido-no-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732044763000,
-         "created": 1732044763000,
-         "category": "Cultura",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/12763232.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
