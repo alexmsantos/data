@@ -7,8 +7,8 @@
    "items": [
       {
          "id": "93206a85-d50e-4da6-9ccf-d465df0f3bf4",
-         "title": "Lisboa e Faro com maior risco de transmissão da dengue devido ao aumento de mosquitos",
-         "description": "<p><span>O IHMT NOVA alerta para a crescente presença do mosquito da espécie </span><span>Aedes albopictus</span><span> em Lisboa e Faro, reforçando a importância de eliminar águas paradas e usar barreiras de proteção para reduzir o risco de doenças como a dengue.</span></p>",
+         "title": "Atenção Lisboa e Faro, aumentou risco de transmissão da dengue",
+         "description": "O IHMT NOVA alerta para a crescente presença do mosquito da espécie Aedes albopictus em Lisboa e Faro, reforçando a importância de eliminar águas paradas e usar barreiras de proteção para reduzir o risco de doenças como a dengue.",
          "link": "https://sicnoticias.pt/saude-e-bem-estar/2024-11-20-lisboa-e-faro-com-maior-risco-de-transmissao-da-dengue-devido-ao-aumento-de-mosquitos-b06ab14c",
          "author": "SIC Notícias",
          "published": 1732126164000,
@@ -37,14 +37,31 @@
       {
          "id": "cc2c1938-9db5-4ea0-9a63-ca89d3ea2c74",
          "title": "Incêndio deflagra em armazém em Campolide, Lisboa",
-         "description": "<p><span>Um incêndio está a consumir um armazém</span><span><strong> </strong></span><span>na zona de Campolide, em Lisboa. O alerta foi dado às 17.35 horas. </span></p>",
+         "description": "<p><span>Um incêndio está a consumir um armazém </span><span>na zona de Campolide, em Lisboa. O alerta foi dado às 17.35 horas.</span></p>",
          "link": "https://sicnoticias.pt/pais/2024-11-20-incendio-deflagra-em-armazem-em-campolide-lisboa--44fbffcc",
          "author": "SIC Notícias",
          "published": 1732126139000,
          "created": 1732126139000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-11-20-incendio-campolide.jpg-321ea3c3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-11-20-incendio-campolide.jpg-321ea3c3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-11-20-incendio-campolide.jpg-321ea3c3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "ed31b37e-9cf2-455e-8f4b-46175d90546d",
