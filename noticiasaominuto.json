@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2674123/dupla-ruben-amorim-bruno-fernandes-ja-carbura-no-manchester-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dupla Ruben Amorim-Bruno Fernandes já 'carbura' no Manchester United",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2674123/dupla-ruben-amorim-bruno-fernandes-ja-carbura-no-manchester-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732122856000,
+         "created": 1732122856000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673c67b486721.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2674120/tem-na-despensa-o-ingrediente-que-deixa-as-torneiras-do-wc-a-brilhar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tem na despensa o ingrediente que deixa as torneiras do WC a brilhar",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2674120/tem-na-despensa-o-ingrediente-que-deixa-as-torneiras-do-wc-a-brilhar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732122817000,
+         "created": 1732122817000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e17d68af53.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674119/governo-quer-aprofundar-ainda-mais-relacoes-bilaterais-com-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo quer \"aprofundar ainda mais\" relações bilaterais com Brasil",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_62cdf7c81e613.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673937/raphinha-esta-farto-das-criticas-o-brasil-joga-para-cara?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Raphinha está farto das críticas: \"O Brasil joga para cara***\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673937/raphinha-esta-farto-das-criticas-o-brasil-joga-para-cara?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732110155000,
-         "created": 1732110155000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673de72773823.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2673933/desemprego-registado-com-subida-homologa-de-3-em-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Desemprego registado com subida homóloga de 3% em outubro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2673933/desemprego-registado-com-subida-homologa-de-3-em-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732110134000,
-         "created": 1732110134000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_503513354ea50.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
