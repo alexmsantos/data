@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673816/ataque-das-rsf-faz-40-mortos-no-estado-de-al-jazira-no-sudao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ataque das RSF faz 40 mortos no estado de Al-Jazira no Sudão",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673816/ataque-das-rsf-faz-40-mortos-no-estado-de-al-jazira-no-sudao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732102157000,
+         "created": 1732102157000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5cf770c1b8aca.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673798/caso-de-jovem-morta-em-1969-sofre-avanco-e-55-anos-depois-ha-um-suspeito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Caso de jovem morta em 1969 sofre avanço e 55 anos depois há um suspeito",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673798/caso-de-jovem-morta-em-1969-sofre-avanco-e-55-anos-depois-ha-um-suspeito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732102111000,
+         "created": 1732102111000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dc2679e7c5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673808/risco-de-pobreza-em-criancas-portuguesas-aumenta-associacoes-preocupadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Risco de pobreza em crianças portuguesas aumenta. Associações preocupadas",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d282391850.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2672321/adriano-silva-martins?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Só tive um pequeno problema com a Luciana Abreu. Ameaçou processar-me\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/fama/2672321/adriano-silva-martins?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732089665000,
-         "created": 1732089665000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673b2517cd876.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2666547/nao-e-mourinho-ha-um-portugues-nos-treinadores-mais-premiados-na-premier?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Segue-se Ruben Amorim? NES 'papa prémios' e nem Mourinho o apanha",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2666547/nao-e-mourinho-ha-um-portugues-nos-treinadores-mais-premiados-na-premier?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732089634000,
-         "created": 1732089634000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e5c49b27d18.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
