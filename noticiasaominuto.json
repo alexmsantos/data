@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674194/incendio-consome-armazem-em-campolide-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio consome armazém em Campolide, Lisboa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674194/incendio-consome-armazem-em-campolide-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732127552000,
+         "created": 1732127552000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2673863/signos-que-sao-muito-toxicos-quando-estao-juntos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Signos que são (muito) tóxicos quando estão juntos",
@@ -549,7 +572,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d0148c47878.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e2b5f8d79d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673df7f416664.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2673986/pcp-em-lisboa-propoe-homenagem-a-celeste-dos-cravos-numa-rua-da-cidade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PCP em Lisboa propõe homenagem a Celeste dos Cravos numa rua da cidade",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2673986/pcp-em-lisboa-propoe-homenagem-a-celeste-dos-cravos-numa-rua-da-cidade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732114596000,
-         "created": 1732114596000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_571a3b2301c3e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
