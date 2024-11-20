@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2673760/psi-em-alta-com-edp-e-jeronimo-martins-a-subirem-1-08-e-1-03?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PSI em alta com EDP e Jerónimo Martins a subirem 1,08% e 1,03%",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2673760/psi-em-alta-com-edp-e-jeronimo-martins-a-subirem-1-08-e-1-03?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732097535000,
+         "created": 1732097535000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673db5d9df0a4.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2673500/mexer-em-ferias-e-baixas-o-que-o-governo-quer-mudar-na-funcao-publica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mexer em férias e baixas? O que o Governo quer mudar na Função Pública",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2673500/mexer-em-ferias-e-baixas-o-que-o-governo-quer-mudar-na-funcao-publica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732097529000,
+         "created": 1732097529000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_51691f1e18f95.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673758/oe2025-governo-com-265-1-milhoes-de-euros-para-novo-hospital-do-oeste?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2025. Governo com 265,1 milhões de euros para novo hospital do Oeste",
@@ -21,6 +67,29 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b237e2b38712.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2673731/colesterol-hereditario-com-os-dias-contados-ha-novo-farmaco-promissor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Colesterol hereditário com os dias contados. Há novo fármaco promissor",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2673731/colesterol-hereditario-com-os-dias-contados-ha-novo-farmaco-promissor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732097280000,
+         "created": 1732097280000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63565127a8d70.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -328,10 +397,10 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/mundo/2673732/ucrania-linhas-vermelhas-do-kremlin-contra-luzes-verdes-do-ocidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ucrânia. \"Linhas vermelhas\" do Kremlin contra \"luzes verdes\" do Ocidente",
+         "id": "https://www.noticiasaominuto.com/mundo/2673732/mil-dias-de-guerra-mil-ameacas-recorde-decisoes-que-marcaram-o-conflito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mil dias de guerra, mil ameaças. Recorde decisões que marcaram o conflito",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673732/ucrania-linhas-vermelhas-do-kremlin-contra-luzes-verdes-do-ocidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/mundo/2673732/mil-dias-de-guerra-mil-ameacas-recorde-decisoes-que-marcaram-o-conflito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2229,75 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_651b054087117.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673647/mocambique-entre-os-paises-onde-se-agravou-perseguicao-aos-cristaos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moçambique entre os países onde se agravou perseguição aos cristãos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673647/mocambique-entre-os-paises-onde-se-agravou-perseguicao-aos-cristaos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732085045000,
-         "created": 1732085045000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/25741771.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2673604/spacex-arrancou-sexto-teste-da-starship-com-musk-e-trump-na-plateia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "SpaceX arrancou sexto teste da Starship com Musk e Trump na plateia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2673604/spacex-arrancou-sexto-teste-da-starship-com-musk-e-trump-na-plateia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732084875000,
-         "created": 1732084875000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d839c26d30.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673602/moscovo-baixa-a-fasquia-e-levanta-duvidas-sobre-uso-de-armas-nucleares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moscovo baixa a fasquia e levanta dúvidas sobre uso de armas nucleares",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673602/moscovo-baixa-a-fasquia-e-levanta-duvidas-sobre-uso-de-armas-nucleares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732084791000,
-         "created": 1732084791000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d84489bffe.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
