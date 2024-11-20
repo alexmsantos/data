@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674056/nao-houve-reacao-do-governo-nem-contacto-sobre-situacao-nos-bairros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Não houve reação do Governo, nem contacto\" sobre situação nos bairros",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674056/nao-houve-reacao-do-governo-nem-contacto-sobre-situacao-nos-bairros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732120043000,
+         "created": 1732120043000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c4b68af67923.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674076/bellingham-no-arsenal-a-resposta-que-faz-os-adeptos-sonhar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bellingham... no Arsenal? A resposta que faz os adeptos sonhar",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dd8e317b1d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673883/cop29-25-paises-prometem-nao-abrir-mais-centrais-eletricas-a-carvao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "COP29. 25 países prometem não abrir mais centrais elétricas a carvão",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673883/cop29-25-paises-prometem-nao-abrir-mais-centrais-eletricas-a-carvao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732106443000,
-         "created": 1732106443000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dd8323bb4a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
