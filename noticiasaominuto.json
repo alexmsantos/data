@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2674097/sessao-na-ar-evocativa-de-mario-soares-segue-modelo-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sessão na AR evocativa de Mário Soares segue modelo do 25 de Novembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2674097/sessao-na-ar-evocativa-de-mario-soares-segue-modelo-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732121733000,
+         "created": 1732121733000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_543901909bcb6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674067/falsa-sms-de-agencia-de-meteorologia-espanhola-espalha-virus?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Falsa SMS de agência de meteorologia espanhola espalha vírus",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674067/falsa-sms-de-agencia-de-meteorologia-espanhola-espalha-virus?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732121709000,
+         "created": 1732121709000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66968de67f196.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2674086/beneficiarios-de-prestacoes-de-desemprego-sobem-5-7-em-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Beneficiários de prestações de desemprego sobem 5,7% em outubro",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43628397.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673905/cheias-em-espanha-candidata-a-comissaria-nega-falha-de-agencias-estatais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cheias em Espanha. Candidata a comissária nega falha de agências estatais",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673905/cheias-em-espanha-candidata-a-comissaria-nega-falha-de-agencias-estatais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732108643000,
-         "created": 1732108643000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673de17a882c3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2673904/incertezas-economicas-e-geopoliticas-fragilizam-estabilidade-financeira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Incertezas económicas e geopolíticas fragilizam estabilidade financeira",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2673904/incertezas-economicas-e-geopoliticas-fragilizam-estabilidade-financeira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732108472000,
-         "created": 1732108472000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673de0c1aafb3.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
