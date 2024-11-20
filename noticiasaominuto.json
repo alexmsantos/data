@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2673895/regra-desconhecida-obriga-barcelona-adiar-o-regresso-a-camp-nou?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Regra 'desconhecida' obriga Barcelona adiar o regresso a Camp Nou",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2673895/regra-desconhecida-obriga-barcelona-adiar-o-regresso-a-camp-nou?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732107367000,
+         "created": 1732107367000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673ddc4197d9e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2673892/divida-financeira-dos-acores-aumentou-em-2023?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dívida financeira dos Açores aumentou em 2023",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2673892/divida-financeira-dos-acores-aumentou-em-2023?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732107337000,
+         "created": 1732107337000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f4e19f9e463c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673887/jmj-entrega-dos-simbolos-a-seul-marca-fecho-da-jornada-de-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "JMJ. Entrega dos símbolos a Seul marca fecho da Jornada de Lisboa",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dadd62e2cf.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2673741/a-funcionalidade-mais-pedida-esta-a-caminho-do-instagram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "A funcionalidade mais pedida está a caminho do Instagram",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2673741/a-funcionalidade-mais-pedida-esta-a-caminho-do-instagram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732095454000,
-         "created": 1732095454000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_646b3e8388f84.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2673740/bolsas-europeias-em-alta-analisam-escalada-do-conflito-na-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolsas europeias em alta analisam escalada do conflito na Ucrânia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2673740/bolsas-europeias-em-alta-analisam-escalada-do-conflito-na-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732095266000,
-         "created": 1732095266000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5583feb91b828.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
