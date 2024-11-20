@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673753/nuclear-irao-promete-reagir-em-conformidade-a-resolucao-ocidental?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Nuclear? Irão promete reagir em conformidade a resolução ocidental",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673753/nuclear-irao-promete-reagir-em-conformidade-a-resolucao-ocidental?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732097075000,
+         "created": 1732097075000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673db3fea454b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2673744/obra-pioneira-de-jean-painleve-exposta-pela-primeira-vez-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Obra pioneira de Jean Painlevé exposta pela primeira vez em Portugal",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/40879060.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673629/transportes-devem-fazer-subir-emissoes-em-2024-diz-associacao-zero?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Transportes devem fazer subir emissões em 2024, diz associação Zero",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673629/transportes-devem-fazer-subir-emissoes-em-2024-diz-associacao-zero?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732084047000,
-         "created": 1732084047000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/37981770.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
