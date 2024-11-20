@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674322/supremo-italiano-confirma-pena-de-ex-militar-que-vendeu-dados-a-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Supremo italiano confirma pena de ex-militar que vendeu dados à Rússia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674322/supremo-italiano-confirma-pena-de-ex-militar-que-vendeu-dados-a-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732144547000,
+         "created": 1732144547000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707aee979ec3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674319/instituto-alerta-para-aumento-de-mosquitos-invasores-em-faro-e-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Instituto alerta para aumento de mosquitos invasores em Faro e Lisboa",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e20e7cd9af.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674150/homem-de-83-anos-resgatado-em-gaia-apos-queda-de-15-metros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Homem de 83 anos resgatado em Gaia após queda de 15 metros",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674150/homem-de-83-anos-resgatado-em-gaia-apos-queda-de-15-metros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732124859000,
-         "created": 1732124859000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61a3a2065c3b7.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
