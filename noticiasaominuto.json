@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2673736/escolas-de-mem-martins-fecham-por-greve-e-protesto-de-pessoal-nao-docente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Escolas de Mem Martins fecham por greve e protesto de pessoal não docente",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2673736/escolas-de-mem-martins-fecham-por-greve-e-protesto-de-pessoal-nao-docente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732094896000,
+         "created": 1732094896000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_60a76c333f7cf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673732/ucrania-linhas-vermelhas-do-kremlin-contra-luzes-verdes-do-ocidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ucrânia. \"Linhas vermelhas\" do Kremlin contra \"luzes verdes\" do Ocidente",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/36978249.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673638/montenegro-termina-visita-ao-brasil-com-agenda-centrada-em-portugueses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Montenegro termina visita ao Brasil com agenda centrada em portugueses",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673638/montenegro-termina-visita-ao-brasil-com-agenda-centrada-em-portugueses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732083133000,
-         "created": 1732083133000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43501779.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
