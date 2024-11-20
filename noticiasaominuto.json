@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674181/gnr-detem-17-pessoas-em-operacao-contra-trafico-de-droga-no-alentejo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "GNR detém 17 pessoas em operação contra tráfico de droga no Alentejo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674181/gnr-detem-17-pessoas-em-operacao-contra-trafico-de-droga-no-alentejo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732127923000,
+         "created": 1732127923000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707ae11e5045.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2674185/bce-da-luz-verde-a-incorporacao-da-taxagest-e-santander-sgps-pelo-totta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "BCE dá 'luz verde' à incorporação da TaxaGest e Santander SGPS pelo Totta",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_590985464b64e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673988/defesa-e-obvia-a-necessidadede-acordar-da-europa-alerta-marcelo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Defesa? \"É óbvia a necessidade de acordar da Europa\", alerta Marcelo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673988/defesa-e-obvia-a-necessidadede-acordar-da-europa-alerta-marcelo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732114719000,
-         "created": 1732114719000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43943880.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
