@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2673787/euribor-sobe-a-seis-e-a-12-meses-e-desce-a-tres-meses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Euribor sobe a seis e a 12 meses e desce a três meses",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2673787/euribor-sobe-a-seis-e-a-12-meses-e-desce-a-tres-meses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732100004000,
+         "created": 1732100004000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59ad366265e57.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2673788/bluesky-utilizacao-aumentou-mais-de-500-desde-eleicoes-nos-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bluesky. Utilização aumentou mais de 500% desde eleições nos EUA",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2673788/bluesky-utilizacao-aumentou-mais-de-500-desde-eleicoes-nos-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732099986000,
+         "created": 1732099986000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dbf3715a0e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673784/admissoes-nas-urgencias-da-uls-alto-minho-descem-12-em-tres-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Admissões nas urgências da ULS Alto Minho descem 12% em três dias",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_572c3b06215d7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673659/russia-detem-cidadao-alemao-acusado-de-sabotagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia detém cidadão alemão acusado de sabotagem",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673659/russia-detem-cidadao-alemao-acusado-de-sabotagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732087662000,
-         "created": 1732087662000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_629e11797bc40.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673662/villas-boas-visitou-angola-e-cantou-hino-do-fc-porto-com-muita-companhia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Villas-Boas visitou Angola e cantou hino do FC Porto com muita companhia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673662/villas-boas-visitou-angola-e-cantou-hino-do-fc-porto-com-muita-companhia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732087652000,
-         "created": 1732087652000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d8f163967f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
