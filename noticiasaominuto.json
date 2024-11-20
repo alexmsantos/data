@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2674086/beneficiarios-de-prestacoes-de-desemprego-sobem-5-7-em-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Beneficiários de prestações de desemprego sobem 5,7% em outubro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2674086/beneficiarios-de-prestacoes-de-desemprego-sobem-5-7-em-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732121477000,
+         "created": 1732121477000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f6af06e65fe8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2674094/advogados-de-gisele-pelicot-esperam-que-caso-seja-exemplo-historico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Advogados de Gisèle Pelicot esperam que caso seja exemplo histórico",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673de0c1aafb3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673907/renato-sanches-lesionado-outra-vez-compra-lo-seria-uma-loucura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Renato Sanches lesionado (outra vez): \"Comprá-lo seria uma loucura\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673907/renato-sanches-lesionado-outra-vez-compra-lo-seria-uma-loucura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732108433000,
-         "created": 1732108433000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673b845fbf95c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
