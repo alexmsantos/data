@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674243/canada-junta-se-a-outros-paises-ocidentais-e-fecha-embaixada-em-kyiv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Canadá junta-se a outros países ocidentais e fecha embaixada em Kyiv",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674243/canada-junta-se-a-outros-paises-ocidentais-e-fecha-embaixada-em-kyiv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732132395000,
+         "created": 1732132395000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_518d4a53a29a1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674244/oficial-silas-sucede-a-filipe-candido-como-treinador-da-uniao-de-leiria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oficial: Silas sucede a Filipe Cândido como treinador da União de Leiria",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e04108a531.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674048/ricardinho-e-o-caso-geovany-quenda-nao-entendo-todo-este-alvoroco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ricardinho e o 'caso Geovany Quenda': \"Não entendo todo este alvoroço\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674048/ricardinho-e-o-caso-geovany-quenda-nao-entendo-todo-este-alvoroco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732117498000,
-         "created": 1732117498000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673c95b0009c6.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
