@@ -1,15 +1,38 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
-         "id": "https://www.noticiasaominuto.com/desporto/2674176/tvi-assina-parceria-com-moreirense-e-vai-transmitir-jogos-da-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "TVI assina parceria com Moreirense e vai transmitir jogos da I Liga",
+         "id": "https://www.noticiasaominuto.com/mundo/2674175/cop29-ambientalistas-atribuem-a-ue-premio-satirico-fossil-do-dia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "COP29. Ambientalistas atribuem à UE prémio satírico \"fóssil do dia\"",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674176/tvi-assina-parceria-com-moreirense-e-vai-transmitir-jogos-da-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/mundo/2674175/cop29-ambientalistas-atribuem-a-ue-premio-satirico-fossil-do-dia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732127024000,
+         "created": 1732127024000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e27ede3c46.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2674176/tvi-assina-parceria-com-moreirense-e-vai-transmitir-jogos-do-campeonato?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "TVI assina parceria com Moreirense e vai transmitir jogos do campeonato",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2674176/tvi-assina-parceria-com-moreirense-e-vai-transmitir-jogos-do-campeonato?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_63a44e1de6580.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673981/ministro-defende-reforco-do-pilar-europeu-da-nato-por-causa-de-putin?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ministro defende reforço do pilar europeu da NATO \"por causa de Putin\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673981/ministro-defende-reforco-do-pilar-europeu-da-nato-por-causa-de-putin?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732114202000,
-         "created": 1732114202000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ea8766e6310.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
