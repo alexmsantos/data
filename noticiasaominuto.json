@@ -1,15 +1,38 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
-         "id": "https://www.noticiasaominuto.com/pais/2674258/fogo-em-armazem-de-lisboa-extinto-2-animais-morreram-e-ha-um-desalojado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fogo em armazém de Lisboa extinto: 2 animais morreram e há um desalojado",
+         "id": "https://www.noticiasaominuto.com/mundo/2674204/casal-acusado-de-racismo-por-imitar-macaco-em-danca-no-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Casal acusado de racismo por imitar macaco em dança. Veja o vídeo",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674258/fogo-em-armazem-de-lisboa-extinto-2-animais-morreram-e-ha-um-desalojado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/mundo/2674204/casal-acusado-de-racismo-por-imitar-macaco-em-danca-no-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732134262000,
+         "created": 1732134262000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e2e5db5f45.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674258/fogo-em-armazem-de-lisboa-extinto-ha-um-desalojado-e-2-animais-morreram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fogo em armazém de Lisboa extinto: Há um desalojado e 2 animais morreram",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674258/fogo-em-armazem-de-lisboa-extinto-ha-um-desalojado-e-2-animais-morreram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c4b68af67923.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674076/bellingham-no-arsenal-a-resposta-que-faz-os-adeptos-sonhar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bellingham... no Arsenal? A resposta que faz os adeptos sonhar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674076/bellingham-no-arsenal-a-resposta-que-faz-os-adeptos-sonhar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732119871000,
-         "created": 1732119871000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e0d1770572.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
