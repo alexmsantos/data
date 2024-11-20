@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674089/misseis-britanicos-de-longo-alcance-disparados-por-kyiv-contra-a-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mísseis britânicos de longo alcance disparados por Kyiv contra a Rússia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674089/misseis-britanicos-de-longo-alcance-disparados-por-kyiv-contra-a-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732121069000,
+         "created": 1732121069000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e11cd97cbf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2674084/pcp-questiona-governo-sobre-monitorizacao-de-ativistas-pelo-metro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PCP questiona Governo sobre monitorização de ativistas pelo metro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2674084/pcp-questiona-governo-sobre-monitorizacao-de-ativistas-pelo-metro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732120756000,
+         "created": 1732120756000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_54045ad1447fa.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674050/loures-preventiva-para-dois-homens-detidos-por-trafico-de-estupefaciente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Preventiva para dois homens detidos por tráfico de droga em Loures",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5cb8c44b32bad.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673898/cm-de-lisboa-quer-que-governo-suspenda-campanha-portugal-sempre-seguro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "CM de Lisboa quer que Governo suspenda campanha 'Portugal Sempre Seguro'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673898/cm-de-lisboa-quer-que-governo-suspenda-campanha-portugal-sempre-seguro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732107770000,
-         "created": 1732107770000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a8b610d0493d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673895/regra-desconhecida-obriga-barcelona-adiar-o-regresso-a-camp-nou?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Regra 'desconhecida' obriga Barcelona adiar o regresso a Camp Nou",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673895/regra-desconhecida-obriga-barcelona-adiar-o-regresso-a-camp-nou?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732107367000,
-         "created": 1732107367000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673ddc4197d9e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
