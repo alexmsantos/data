@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2673770/voto-a-favor-de-mocao-na-madeira-e-inegociavel-para-maiores-partidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Voto a favor de moção na Madeira é \"inegociável\" para maiores partidos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2673770/voto-a-favor-de-mocao-na-madeira-e-inegociavel-para-maiores-partidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732098913000,
+         "created": 1732098913000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_582f53b03997c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673768/eua-estao-totalmente-empenhados-em-prolongar-guerra-na-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"EUA estão totalmente empenhados em prolongar guerra na Ucrânia\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_648032d49fbc1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673653/por-ca-antonio-silva-seguro-no-benfica-e-gyokeres-so-sabe-dar-show?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Por cá: António Silva seguro no Benfica e Gyokeres só sabe dar 'show'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673653/por-ca-antonio-silva-seguro-no-benfica-e-gyokeres-so-sabe-dar-show?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732085809000,
-         "created": 1732085809000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d86e3737a1.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
