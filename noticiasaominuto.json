@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674208/tres-maiores-forcas-partidarias-do-pe-acordam-uma-abordagem-construtiva?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Três maiores forças partidárias do PE acordam uma \"abordagem construtiva\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674208/tres-maiores-forcas-partidarias-do-pe-acordam-uma-abordagem-construtiva?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732129540000,
+         "created": 1732129540000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b0ff4e2f2d63.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674213/seca-consorcio-quer-criar-projeto-de-gestao-sustentavel-de-recursos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Seca. Consórcio quer criar projeto de gestão sustentável de recursos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_624d3414673e5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673998/gnr-sofre-tentativa-de-atropelamento-em-almada-suspeitos-estao-em-fuga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "GNR sofre tentativa de atropelamento em Almada. Suspeitos estão em fuga",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673998/gnr-sofre-tentativa-de-atropelamento-em-almada-suspeitos-estao-em-fuga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732115662000,
-         "created": 1732115662000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63bd6113c8482.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
