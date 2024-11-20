@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2673630/portugal-piora-em-desempenho-climatico-mas-mantem-se-entre-os-melhores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal piora em desempenho climático (mas mantém-se entre os melhores)",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2673630/portugal-piora-em-desempenho-climatico-mas-mantem-se-entre-os-melhores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732083036000,
+         "created": 1732083036000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43930005.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2673607/bolsa-de-toquio-abre-em-terreno-misto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bolsa de Tóquio abre em terreno misto",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cc807c6d6b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2673264/exclusao-do-teletrabalho-da-negociacao-coletiva-potencia-vazios-legais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Exclusão do teletrabalho da negociação coletiva potencia \"vazios legais\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2673264/exclusao-do-teletrabalho-da-negociacao-coletiva-potencia-vazios-legais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732042860000,
-         "created": 1732042860000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f087c96c057d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
