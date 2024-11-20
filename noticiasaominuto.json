@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674090/umar-ha-um-estado-negligente-em-relacao-as-mulheres-assassinadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "UMAR. Há um \"Estado negligente\" em relação às mulheres assassinadas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674090/umar-ha-um-estado-negligente-em-relacao-as-mulheres-assassinadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732121252000,
+         "created": 1732121252000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_604718477c297.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2674099/mourinho-puseram-lhe-uma-camara-no-escritorio-e-eu-nao-sabia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Mourinho? Puseram-lhe uma câmara no escritório e eu não sabia...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2674099/mourinho-puseram-lhe-uma-camara-no-escritorio-e-eu-nao-sabia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732121248000,
+         "created": 1732121248000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e12787ceba.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2674089/misseis-britanicos-de-longo-alcance-disparados-por-kyiv-contra-a-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mísseis britânicos de longo alcance disparados por Kyiv contra a Rússia",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fa3ad340552c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673901/familias-de-acolhimento-as-vezes-o-desconhecimento-afasta-as-pessoas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Famílias de acolhimento? \"Às vezes o desconhecimento afasta as pessoas\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673901/familias-de-acolhimento-as-vezes-o-desconhecimento-afasta-as-pessoas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732108139000,
-         "created": 1732108139000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43942917.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673899/clubes-portugueses-entre-os-que-mais-pagam-de-compensacoes-por-formacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Clubes portugueses entre os que mais pagam de compensações por formação",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673899/clubes-portugueses-entre-os-que-mais-pagam-de-compensacoes-por-formacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732107807000,
-         "created": 1732107807000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5cb8c44b32bad.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
