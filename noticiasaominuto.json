@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674218/bitcoin-marca-novo-maximo-historico-perto-de-95-mil-dolares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bitcoin marca novo máximo histórico perto de 95 mil dólares",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674218/bitcoin-marca-novo-maximo-historico-perto-de-95-mil-dolares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732130478000,
+         "created": 1732130478000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6731fad148c42.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2674224/a-uniao-europeia-nao-pode-existir-se-for-liderada-de-cima-para-baixo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"A União Europeia não pode existir se for liderada de cima para baixo\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673b124398315.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674023/lider-do-hezbollah-rejeita-tregua-que-viole-soberania-do-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Líder do Hezbollah rejeita trégua que viole soberania do Líbano",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674023/lider-do-hezbollah-rejeita-tregua-que-viole-soberania-do-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732116510000,
-         "created": 1732116510000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67210dad207f8.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
