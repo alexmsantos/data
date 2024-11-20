@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2674176/tvi-assina-parceria-com-moreirense-e-vai-transmitir-jogos-da-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "TVI assina parceria com Moreirense e vai transmitir jogos da I Liga",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2674176/tvi-assina-parceria-com-moreirense-e-vai-transmitir-jogos-da-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732126506000,
+         "created": 1732126506000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b2a2a02a9ee.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674164/policia-maritima-de-leixoes-apreende-8664-kg-de-pescado-em-matosinhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Polícia Marítima de Leixões apreende 8.664 kg de pescado em Matosinhos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ea8766e6310.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673979/diogo-leite-pisca-o-olho-a-selecao-quando-fazes-um-bom-trabalho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Diogo Leite 'pisca o olho' à seleção: \"Quando fazes um bom trabalho...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673979/diogo-leite-pisca-o-olho-a-selecao-quando-fazes-um-bom-trabalho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732113968000,
-         "created": 1732113968000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6685868352598.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
