@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2673683/clubes-insulares-lideram-em-longevidade-nos-bancos-da-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Clubes insulares lideram em longevidade nos bancos da I Liga",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2673683/clubes-insulares-lideram-em-longevidade-nos-bancos-da-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732090076000,
+         "created": 1732090076000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66bf5cfbd40f5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673681/mais-de-40-da-populacao-dos-paises-da-cplp-sem-cuidados-de-saude-primarios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mais de 40% da população dos países da CPLP sem cuidados de saúde primários",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673681/mais-de-40-da-populacao-dos-paises-da-cplp-sem-cuidados-de-saude-primarios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732089851000,
+         "created": 1732089851000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/21587792.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673680/paises-europeus-e-eua-submetem-resolucao-contra-irao-junto-da-aiea?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Países europeus e EUA submetem resolução contra Irão junto da AIEA",
@@ -375,7 +421,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2673664/juntos-ucrania-marcou-e-assinalou-mil-dias-de-guerra-desta-forma?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Juntos.\" Ucrânia marcou e assinalou mil dias de guerra desta forma",
+         "title": "\"Juntos\". Ucrânia marcou e assinalou mil dias de guerra desta forma",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2673664/juntos-ucrania-marcou-e-assinalou-mil-dias-de-guerra-desta-forma?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6592dee4bc392.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673547/lembra-se-do-ex-benfica-paulo-lopes-tem-novo-desafio-como-treinador?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lembra-se do ex-Benfica Paulo Lopes? Tem novo desafio como treinador",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673547/lembra-se-do-ex-benfica-paulo-lopes-tem-novo-desafio-como-treinador?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732055207000,
-         "created": 1732055207000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d108115f9a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673545/portugal-entre-dezenas-de-paises-que-reafirmam-apoio-a-kyiv-na-onu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal entre dezenas de países que reafirmam apoio a Kyiv na ONU",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673545/portugal-entre-dezenas-de-paises-que-reafirmam-apoio-a-kyiv-na-onu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732055082000,
-         "created": 1732055082000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43934358.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
