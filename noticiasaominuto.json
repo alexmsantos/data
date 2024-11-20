@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673680/paises-europeus-e-eua-submetem-resolucao-contra-irao-junto-da-aiea?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Países europeus e EUA submetem resolução contra Irão junto da AIEA",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673680/paises-europeus-e-eua-submetem-resolucao-contra-irao-junto-da-aiea?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732089809000,
+         "created": 1732089809000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6315bd0a1e023.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2673679/rafa-nadal-em-lagrimas-na-despedida-nao-estou-cansado-mas-o-corpo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rafa Nadal em lágrimas na despedida: \"Não estou cansado, mas o corpo...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2673679/rafa-nadal-em-lagrimas-na-despedida-nao-estou-cansado-mas-o-corpo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732089784000,
+         "created": 1732089784000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d282391850.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2672321/adriano-silva-martins?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Só tive um pequeno problema com a Luciana Abreu. Ameaçou processar-me\"",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43934358.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673541/quem-sobe-quem-desce-e-quem-vai-a-luta-as-contas-da-liga-das-nacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quem sobe, quem desce e quem vai à 'luta'. As contas da Liga das Nações",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673541/quem-sobe-quem-desce-e-quem-vai-a-luta-as-contas-da-liga-das-nacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732054322000,
-         "created": 1732054322000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d0aed9ef2d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2673277/tem-animais-de-estimacao-este-portal-da-camara-de-lisboa-e-para-si?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tem animais de estimação? Este portal da Câmara de Lisboa é para si",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2673277/tem-animais-de-estimacao-este-portal-da-camara-de-lisboa-e-para-si?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732053746000,
-         "created": 1732053746000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66996681592c3.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
