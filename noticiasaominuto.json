@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673732/ucrania-linhas-vermelhas-do-kremlin-contra-luzes-verdes-do-ocidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ucrânia. \"Linhas vermelhas\" do Kremlin contra \"luzes verdes\" do Ocidente",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673732/ucrania-linhas-vermelhas-do-kremlin-contra-luzes-verdes-do-ocidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732094825000,
+         "created": 1732094825000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673daafc79bc4.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673734/atropelamento-seguido-de-fuga-provoca-um-morto-em-montemor-o-velho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Atropelamento seguido de fuga provoca um morto em Montemor-o-Velho",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43501779.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673630/portugal-piora-em-desempenho-climatico-mas-mantem-se-entre-os-melhores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal piora em desempenho climático (mas mantém-se entre os melhores)",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673630/portugal-piora-em-desempenho-climatico-mas-mantem-se-entre-os-melhores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732083036000,
-         "created": 1732083036000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43930005.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
