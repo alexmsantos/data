@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673973/israel-assegura-que-inimigo-nao-e-o-exercito-libanes-mas-sim-o-hazbollah?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel assegura que inimigo não é o Exército libanês, mas sim o Hazbollah",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673973/israel-assegura-que-inimigo-nao-e-o-exercito-libanes-mas-sim-o-hazbollah?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732113004000,
+         "created": 1732113004000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6523c44570dc6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673971/uls-de-santa-maria-cria-unidade-de-asma-grave-pioneira-no-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "ULS de Santa Maria cria Unidade de Asma Grave pioneira no país",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5413271ccc586.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2673765/dinheiro-e-sucesso-estrondoso-para-quatro-signos-a-partir-de-sexta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dinheiro e sucesso estrondoso para quatro signos a partir de sexta-feira",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2673765/dinheiro-e-sucesso-estrondoso-para-quatro-signos-a-partir-de-sexta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732101420000,
-         "created": 1732101420000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dbc4e334f7.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
