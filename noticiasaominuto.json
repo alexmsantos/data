@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674094/advogados-de-gisele-pelicot-esperam-que-caso-seja-exemplo-historico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Advogados de Gisèle Pelicot esperam que caso seja exemplo histórico",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674094/advogados-de-gisele-pelicot-esperam-que-caso-seja-exemplo-historico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732121307000,
+         "created": 1732121307000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e93b570f73e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674090/umar-ha-um-estado-negligente-em-relacao-as-mulheres-assassinadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "UMAR. Há um \"Estado negligente\" em relação às mulheres assassinadas",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673b845fbf95c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673902/ue-adota-diretrizes-para-reforcar-direitos-de-pessoas-com-deficiencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "UE adota diretrizes para reforçar direitos de pessoas com deficiência",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673902/ue-adota-diretrizes-para-reforcar-direitos-de-pessoas-com-deficiencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732108221000,
-         "created": 1732108221000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fa3ad340552c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
