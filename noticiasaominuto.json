@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674296/lipetsk-vai-construir-abrigos-antiaereos-face-a-possiveis-ataques-de-kyiv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lipetsk vai construir abrigos antiaéreos face a possíveis ataques de Kyiv",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674296/lipetsk-vai-construir-abrigos-antiaereos-face-a-possiveis-ataques-de-kyiv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732139643000,
+         "created": 1732139643000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e5a6718fa6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674295/villas-boas-assume-vontade-de-criar-equipas-femininas-de-andebol-e-hoquei?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Villas-Boas assume vontade de criar equipas femininas de andebol e hóquei",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e1a716f668.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674113/uganda-lider-historico-da-oposicao-acusado-de-ameacar-seguranca-nacional?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Uganda. Líder histórico da oposição acusado de ameaçar segurança nacional",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674113/uganda-lider-historico-da-oposicao-acusado-de-ameacar-seguranca-nacional?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732123224000,
-         "created": 1732123224000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56caf7c9a4191.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
