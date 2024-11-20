@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2673678/combustiveis-baixaram-como-previsto-noticias-nao-sao-assim-tao-boas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Combustíveis baixaram como previsto? Notícias não são assim tão boas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2673678/combustiveis-baixaram-como-previsto-noticias-nao-sao-assim-tao-boas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732091645000,
+         "created": 1732091645000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_624edf70a65e9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2673699/oficial-fc-porto-amarra-jovem-internacional-portugues?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oficial: FC Porto 'amarra' jovem internacional português",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d198026f64.jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673562/olaf-scholz-propos-a-xi-jinping-trabalhar-em-conjunto-para-a-paz-no-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Olaf Scholz propôs a Xi Jinping trabalhar em conjunto para a paz no mundo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673562/olaf-scholz-propos-a-xi-jinping-trabalhar-em-conjunto-para-a-paz-no-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732057331000,
-         "created": 1732057331000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d187646ed9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
