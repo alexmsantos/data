@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2674337/lucro-da-nvidia-supera-expectativa-mas-titulo-cai-no-pos-fecho-de-mercado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lucro da Nvidia supera expectativa mas título cai no pós-fecho de mercado",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2674337/lucro-da-nvidia-supera-expectativa-mas-titulo-cai-no-pos-fecho-de-mercado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732146980000,
+         "created": 1732146980000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6704d793c829f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2674334/abrandar-esforco-dos-russos-eua-explicam-envio-de-minas-antipessoais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Abrandar esforço dos russos\". EUA explicam envio de minas antipessoais",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b2a2a02a9ee.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674164/policia-maritima-de-leixoes-apreende-8664-kg-de-pescado-em-matosinhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Polícia Marítima de Leixões apreende 8.664 kg de pescado em Matosinhos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674164/policia-maritima-de-leixoes-apreende-8664-kg-de-pescado-em-matosinhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732126445000,
-         "created": 1732126445000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e268ac635c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
