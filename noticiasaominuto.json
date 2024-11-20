@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2673827/microsoft-anunciou-o-que-pode-vir-a-ser-uma-revolucao-nos-computadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Microsoft anunciou o que pode vir a ser uma 'revolução' nos computadores",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2673827/microsoft-anunciou-o-que-pode-vir-a-ser-uma-revolucao-nos-computadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732102546000,
+         "created": 1732102546000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dc8f75db18.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2673821/psmadeira-criticado-por-permitir-adiamento-de-mocao-de-censura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PS/Madeira criticado por permitir adiamento de moção de censura",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2673821/psmadeira-criticado-por-permitir-adiamento-de-mocao-de-censura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732102541000,
+         "created": 1732102541000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c178bf0bf692.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2673826/prisao-efetiva-para-homem-por-assalto-e-fogo-a-infantario-na-murtosa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Prisão efetiva para homem por assalto e fogo a infantário na Murtosa",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d9aac17e5f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673687/paragens-das-selecoes-acomodam-mudancas-de-treinador-na-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Paragens das seleções acomodam mudanças de treinador na I Liga",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673687/paragens-das-selecoes-acomodam-mudancas-de-treinador-na-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732090390000,
-         "created": 1732090390000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_643064474e0f0.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2673686/bolsa-de-lisboa-abre-a-subir-0-52?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolsa de Lisboa abre a subir 0,52%",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2673686/bolsa-de-lisboa-abre-a-subir-0-52?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732090371000,
-         "created": 1732090371000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/42594143.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
