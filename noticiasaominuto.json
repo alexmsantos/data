@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674023/lider-do-hezbollah-rejeita-tregua-que-viole-soberania-do-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Líder do Hezbollah rejeita trégua que viole soberania do Líbano",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674023/lider-do-hezbollah-rejeita-tregua-que-viole-soberania-do-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732116510000,
+         "created": 1732116510000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67210dad207f8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674020/governo-esta-bem-ciente-das-necessidades-da-psp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo \"está bem ciente\" das necessidades da PSP",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dca26d3db2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2673842/bolo-de-micro-ondas-para-comer-sem-culpa-fica-pronto-em-tres-minutos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolo de micro-ondas para comer sem culpa. Fica pronto em três minutos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2673842/bolo-de-micro-ondas-para-comer-sem-culpa-fica-pronto-em-tres-minutos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732103880000,
-         "created": 1732103880000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63fe816409a41.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
