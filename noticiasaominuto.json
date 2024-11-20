@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673659/russia-detem-cidadao-alemao-acusado-de-sabotagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rússia detém cidadão alemão acusado de sabotagem",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673659/russia-detem-cidadao-alemao-acusado-de-sabotagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732087662000,
+         "created": 1732087662000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_629e11797bc40.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2673662/villas-boas-visitou-angola-e-cantou-hino-do-fc-porto-com-muita-companhia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Villas-Boas visitou Angola e cantou hino do FC Porto com muita companhia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2673662/villas-boas-visitou-angola-e-cantou-hino-do-fc-porto-com-muita-companhia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732087652000,
+         "created": 1732087652000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d8f163967f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2673354/benfica-em-estado-de-alerta-lesoes-obrigam-lage-a-revolucionar-defesa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Seleções rimam com lesões e 'devastam' a defesa do Benfica",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_645224715a840.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2673511/pep-guardiola-ja-decidiu-o-futuro-no-city-e-hugo-viana-esfrega-as-maos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pep Guardiola já decidiu o futuro no City e Hugo Viana 'esfrega as mãos'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2673511/pep-guardiola-ja-decidiu-o-futuro-no-city-e-hugo-viana-esfrega-as-maos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732049893000,
-         "created": 1732049893000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cfbd747cb1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673493/porco-fugitivo-na-pensilvania-autoridades-tentam-apanha-lo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Porco \"procurado por fugir à polícia\" no estado da Pensilvânia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673493/porco-fugitivo-na-pensilvania-autoridades-tentam-apanha-lo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732049677000,
-         "created": 1732049677000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cefe9ef5f7.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
