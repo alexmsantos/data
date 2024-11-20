@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2673658/morreu-o-rapper-saafir-tinha-54-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Morreu o rapper Saafir. Tinha 54 anos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/fama/2673658/morreu-o-rapper-saafir-tinha-54-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732087995000,
+         "created": 1732087995000,
+         "category": "Fama",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673d8d30c2324.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2673660/producao-da-industria-de-tabaco-mocambicana-cresce-8-8-ate-setembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Produção da indústria de tabaco moçambicana cresce 8,8% até setembro",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ad55ace2735.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673512/onu-denuncia-pilhagem-sistematica-de-ajuda-humanitaria-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ONU denuncia pilhagem \"sistemática\" de ajuda humanitária em Gaza",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673512/onu-denuncia-pilhagem-sistematica-de-ajuda-humanitaria-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732050604000,
-         "created": 1732050604000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64133bf0e4b3b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
