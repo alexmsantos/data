@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2674077/cip-defende-alteracoes-a-lei-do-trabalho-para-facilitar-subcontratacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "CIP defende alterações à lei do trabalho para facilitar subcontratação",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2674077/cip-defende-alteracoes-a-lei-do-trabalho-para-facilitar-subcontratacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732120108000,
+         "created": 1732120108000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6735b2cf71128.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674056/nao-houve-reacao-do-governo-nem-contacto-sobre-situacao-nos-bairros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Não houve reação do Governo, nem contacto\" sobre situação nos bairros",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ecec6537c805.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673884/lider-historico-ugandes-kizza-besigye-levado-a-tribunal-em-kampala?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Líder histórico ugandês Kizza Besigye levado a tribunal em Kampala",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673884/lider-historico-ugandes-kizza-besigye-levado-a-tribunal-em-kampala?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732106489000,
-         "created": 1732106489000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dd8e317b1d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
