@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674213/seca-consorcio-quer-criar-projeto-de-gestao-sustentavel-de-recursos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Seca. Consórcio quer criar projeto de gestão sustentável de recursos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674213/seca-consorcio-quer-criar-projeto-de-gestao-sustentavel-de-recursos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732129208000,
+         "created": 1732129208000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/42039996.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2674202/taxas-aeroportuarias-subida-contradiz-objetivo-de-desenvolver-turismo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Taxas aeroportuárias? Subida \"contradiz\" objetivo de desenvolver turismo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_63bd6113c8482.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674006/sabe-quantos-jogadores-recebem-verba-do-fundo-da-fifa-eis-a-resposta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sabe quantos jogadores recebem verba do fundo da FIFA? Eis a resposta",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674006/sabe-quantos-jogadores-recebem-verba-do-fundo-da-fifa-eis-a-resposta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732115652000,
-         "created": 1732115652000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5cb8c44b32bad.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
