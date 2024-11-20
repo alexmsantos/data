@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2674025/sporting-agenda-a-1-conferencia-da-era-joao-pereira-sem-joao-pereira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sporting agenda a 1.ª conferência da 'era João Pereira'… sem João Pereira",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2674025/sporting-agenda-a-1-conferencia-da-era-joao-pereira-sem-joao-pereira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732119644000,
+         "created": 1732119644000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673214243f6bb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674066/embaixada-de-portugal-em-kyiv-encerrou-temporariamente-por-alguns-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Embaixada de Portugal em Kyiv encerrou \"temporariamente por alguns dias\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dd73095a2c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673878/carrosel-para-durante-mais-de-duas-horas-no-ar-com-22-pessoas-a-bordo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Carrossel para durante mais de duas horas no ar com 22 pessoas a bordo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673878/carrosel-para-durante-mais-de-duas-horas-no-ar-com-22-pessoas-a-bordo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732106145000,
-         "created": 1732106145000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dd5fe94013.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
