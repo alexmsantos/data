@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674267/estados-unidos-planeiam-reabrir-embaixada-em-kyiv-na-quinta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Estados Unidos planeiam reabrir embaixada em Kyiv na quinta-feira",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674267/estados-unidos-planeiam-reabrir-embaixada-em-kyiv-na-quinta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732135059000,
+         "created": 1732135059000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e4897d6ee3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674263/dez-anos-apos-detencao-de-socrates-processo-ainda-nao-foi-julgado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dez anos após detenção de Sócrates processo ainda não foi julgado",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e0f1016b25.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2674080/serralves-abre-portas-a-1-exposicao-em-portugal-de-devendra-banhart?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Serralves abre portas à 1.ª exposição em Portugal de Devendra Banhart",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/cultura/2674080/serralves-abre-portas-a-1-exposicao-em-portugal-de-devendra-banhart?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732120282000,
-         "created": 1732120282000,
-         "category": "Cultura",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43944715.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
