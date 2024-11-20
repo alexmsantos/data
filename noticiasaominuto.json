@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674138/operacao-matriarca-desmantela-rede-de-trafico-de-droga-em-braganca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Operação 'Matriarca' desmantela rede de tráfico de droga em Bragança",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674138/operacao-matriarca-desmantela-rede-de-trafico-de-droga-em-braganca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732124026000,
+         "created": 1732124026000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_57fea14abda5b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2673801/o-ingrediente-saudavel-que-pode-descontrolar-o-colesterol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O ingrediente 'saudável' que pode descontrolar o colesterol",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2673801/o-ingrediente-saudavel-que-pode-descontrolar-o-colesterol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732123908000,
+         "created": 1732123908000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dc2e7de087.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674082/estudo-sustenta-que-futebol-falha-dever-de-aplicar-normas-de-seguranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Estudo sustenta que futebol falha dever de aplicar normas de segurança",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_621f953fc4f3f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2673927/ciclo-as-guitarras-nao-tem-saudade-vai-animar-coimbra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ciclo 'As Guitarras Não Têm Saudade' vai animar Coimbra",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/cultura/2673927/ciclo-as-guitarras-nao-tem-saudade-vai-animar-coimbra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732111375000,
-         "created": 1732111375000,
-         "category": "Cultura",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5bbb1e34b0794.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673952/kyiv-acusa-moscovo-de-guerra-psicologica-e-critica-fecho-de-embaixadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Kyiv acusa Moscovo de guerra psicológica e critica fecho de embaixadas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673952/kyiv-acusa-moscovo-de-guerra-psicologica-e-critica-fecho-de-embaixadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732111283000,
-         "created": 1732111283000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673deb8634690.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
