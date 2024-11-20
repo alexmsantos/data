@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2673927/ciclo-as-guitarras-nao-tem-saudade-vai-animar-coimbra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ciclo 'As Guitarras Não Têm Saudade' vai animar Coimbra",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2673927/ciclo-as-guitarras-nao-tem-saudade-vai-animar-coimbra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732111375000,
+         "created": 1732111375000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5bbb1e34b0794.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2673952/kyiv-acusa-moscovo-de-guerra-psicologica-e-critica-fecho-de-embaixadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Kyiv acusa Moscovo de guerra psicológica e critica fecho de embaixadas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2673952/kyiv-acusa-moscovo-de-guerra-psicologica-e-critica-fecho-de-embaixadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732111283000,
+         "created": 1732111283000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673deb8634690.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2673949/aiea-congratula-se-com-compromisso-concreto-iraniano-sobre-progama-nuclear?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "AIEA congratula-se com compromisso concreto iraniano sobre progama nuclear",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dbc1e42a3f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2673774/alemanha-estabelece-plano-para-se-preparar-para-possivel-guerra-mundial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alemanha estabelece plano para se preparar para possível guerra mundial",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2673774/alemanha-estabelece-plano-para-se-preparar-para-possivel-guerra-mundial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732099502000,
-         "created": 1732099502000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63e3f9986205c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2673777/processo-de-classificacao-do-campo-da-batalha-do-bucaco-foi-retomado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Processo de classificação do Campo da Batalha do Buçaco foi retomado",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2673777/processo-de-classificacao-do-campo-da-batalha-do-bucaco-foi-retomado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732099494000,
-         "created": 1732099494000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_586f42eea4ae8.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
