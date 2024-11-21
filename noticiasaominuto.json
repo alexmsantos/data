@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674927/servicos-de-eliminacao-de-termitas-podem-ter-taxa-reduzida-de-iva?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Serviços de eliminação de térmitas podem ter taxa reduzida de IVA",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674927/servicos-de-eliminacao-de-termitas-podem-ter-taxa-reduzida-de-iva?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732211096000,
+         "created": 1732211096000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f71c14589c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2674936/livre-vai-votar-a-favor-das-propostas-de-aumento-de-pensoes-da-esquerda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Livre vai votar a favor das propostas de aumento de pensões da esquerda",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5594cf95a0d00.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2674737/astronomos-captam-primeira-fotografia-de-estrela-fora-da-via-lactea?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Astrónomos captam primeira fotografia de estrela fora da Via Láctea",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2674737/astronomos-captam-primeira-fotografia-de-estrela-fora-da-via-lactea?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732198318000,
-         "created": 1732198318000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f3f2759bd9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
