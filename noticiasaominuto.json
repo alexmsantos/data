@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2675028/chef-revela-as-entradas-que-evita-pedir-quando-vai-a-um-restaurante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Chef revela as entradas que evita pedir quando vai a um restaurante",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2675028/chef-revela-as-entradas-que-evita-pedir-quando-vai-a-um-restaurante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732216997000,
+         "created": 1732216997000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f84a9bf0ef.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675026/pedro-goncalves-considera-grande-estimulo-defrontar-argentina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pedro Gonçalves considera \"grande estímulo\" defrontar Argentina",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/14716561.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674805/inacreditavel-clube-italiano-contrata-e-demite-treinador-no-mesmo-dia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Inacreditável. Clube italiano contrata e demite treinador... no mesmo dia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674805/inacreditavel-clube-italiano-contrata-e-demite-treinador-no-mesmo-dia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732203967000,
-         "created": 1732203967000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f55af7f0d2.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
