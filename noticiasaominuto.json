@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674742/hamas-sauda-mandados-de-captura-do-tpi-contra-netanyahu-e-gallant?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Hamas saúda mandados de captura do TPI contra Netanyahu e Gallant",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674742/hamas-sauda-mandados-de-captura-do-tpi-contra-netanyahu-e-gallant?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732198514000,
+         "created": 1732198514000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_646f117a71211.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674738/nova-reuniao-entre-tecnicos-de-emergencia-pre-hospitalar-e-governo-em-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nova reunião entre Técnicos de Emergência Pré-Hospitalar e Governo em dezembro",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_58501577d1874.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2674545/st-vicente-confirmada-no-alive-para-apresentar-7-album?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "St. Vicente confirmada no Alive para apresentar 7.º álbum",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/cultura/2674545/st-vicente-confirmada-no-alive-para-apresentar-7-album?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732186058000,
-         "created": 1732186058000,
-         "category": "Cultura",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f0b5be517c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
