@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2674949/altri-mais-do-que-triplica-lucro-para-89-6-milhoes-de-euros-ate-setembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Altri mais do que triplica lucro para 89,6 milhões de euros até setembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2674949/altri-mais-do-que-triplica-lucro-para-89-6-milhoes-de-euros-ate-setembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732212165000,
+         "created": 1732212165000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d41c31da078b.jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674965/mai-contexto-internacional-coloca-pressao-as-forcas-de-seguranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "MAI. \"Contexto internacional coloca pressão\" às forças de segurança",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674965/mai-contexto-internacional-coloca-pressao-as-forcas-de-seguranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732212066000,
+         "created": 1732212066000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43700277.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674931/inem-presidente-confirmou-que-recebeu-pre-aviso-de-greve-dos-tecnicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "INEM. Presidente confirmou que recebeu pré-aviso de greve dos técnicos",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64c2a89b58451.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2674749/carga-fiscal-em-portugal-recua-para-35-8-do-pib-mas-supera-media-da-ocde?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Carga fiscal em Portugal recua para 35,8% do PIB mas supera média da OCDE",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2674749/carga-fiscal-em-portugal-recua-para-35-8-do-pib-mas-supera-media-da-ocde?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732198990000,
-         "created": 1732198990000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/42585608.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674701/comissao-do-parlamento-europeu-aprova-fim-de-isencao-de-vistos-para-vanuatu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Comissão do Parlamento Europeu aprova fim de isenção de vistos para Vanuatu",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674701/comissao-do-parlamento-europeu-aprova-fim-de-isencao-de-vistos-para-vanuatu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732198916000,
-         "created": 1732198916000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56f1a94fc9441.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
