@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674472/sobe-para-68-numero-de-mortes-em-ataque-israelita-a-cidade-siria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sobe para 68 número de mortes em ataque israelita a cidade síria",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674472/sobe-para-68-numero-de-mortes-em-ataque-israelita-a-cidade-siria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732180745000,
+         "created": 1732180745000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6739f13f9140b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2674422/hyundai-ioniq-9-e-apresentado-e-espaco-nao-falta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Hyundai IONIQ 9 é apresentado e espaço não falta",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2674422/hyundai-ioniq-9-e-apresentado-e-espaco-nao-falta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732180586000,
+         "created": 1732180586000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673ee265bfffa.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674486/ciencias-da-computacao-pode-entrar-no-ensino-obrigatorio-em-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ciências da Computação pode entrar no ensino obrigatório em 2025",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6038f60b4ab0d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2674323/wall-street-fecha-sem-rumo-na-expectativa-dos-resultados-da-nvidia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Wall Street fecha sem rumo na expectativa dos resultados da Nvidia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2674323/wall-street-fecha-sem-rumo-na-expectativa-dos-resultados-da-nvidia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732144841000,
-         "created": 1732144841000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f0c6e9969084.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674324/novo-sismo-de-magnitude-2-1-na-escala-de-richter-sentido-na-ilha-terceira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Novo sismo de magnitude 2,1 na escala de Richter sentido na ilha Terceira",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674324/novo-sismo-de-magnitude-2-1-na-escala-de-richter-sentido-na-ilha-terceira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732144742000,
-         "created": 1732144742000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56b2022d2285e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
