@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675039/liga-responsabiliza-presidente-guineense-por-ataques-a-jornalistas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Liga responsabiliza presidente guineense por ataques a jornalistas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675039/liga-responsabiliza-presidente-guineense-por-ataques-a-jornalistas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732218597000,
+         "created": 1732218597000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43073762.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675043/conselho-de-justica-mantem-exclusao-de-carlos-marta-as-eleicoes-da-fpf?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Conselho de Justiça mantém exclusão de Carlos Marta às eleições da FPF",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672ddc65dc1d2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674824/franca-neve-causa-atrasos-no-aeroporto-e-autoridades-pedem-cancelamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "França. Neve causa atrasos no aeroporto e autoridades pedem cancelamentos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674824/franca-neve-causa-atrasos-no-aeroporto-e-autoridades-pedem-cancelamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732204789000,
-         "created": 1732204789000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f58f9d898d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
