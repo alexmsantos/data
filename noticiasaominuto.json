@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674722/venda-de-pescado-fora-de-lota-carece-de-autorizacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Venda de pescado fora de lota carece de autorização",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674722/venda-de-pescado-fora-de-lota-carece-de-autorizacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732196934000,
+         "created": 1732196934000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d5175b9500c9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674725/cristiano-ronaldo-entre-manchester-united-e-wrexham-tudo-e-possivel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Cristiano Ronaldo entre Manchester United... e Wrexham? \"Tudo é possível\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6712341c9522e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2674540/messenger-sera-capaz-de-abafar-ruido-em-videochamadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Messenger será capaz de abafar ruído em videochamadas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2674540/messenger-sera-capaz-de-abafar-ruido-em-videochamadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732184724000,
-         "created": 1732184724000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f0a4e27513.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
