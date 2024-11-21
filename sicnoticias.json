@@ -95,7 +95,7 @@
       {
          "id": "a13976d4-1694-4013-8f37-58f5ea0c49b4",
          "title": "INEM com mais 100 ambulâncias para reforçar resposta durante pico da gripe",
-         "description": "<p><span>O Dispositivo Especial de Emergência Pré-Hospitalar deverá estar em funcionamento entre 1 de dezembro e 28 de fevereiro.</span></p>",
+         "description": "O Dispositivo Especial de Emergência Pré-Hospitalar deverá estar em funcionamento entre 1 de dezembro e 28 de fevereiro.",
          "link": "https://sicnoticias.pt/pais/2024-11-21-inem-com-mais-100-ambulancias-para-reforcar-resposta-durante-pico-da-gripe-9577292f",
          "author": "SIC Notícias",
          "published": 1732180244000,
@@ -145,6 +145,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-09-03-ucrania.jpg-f8723837/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "0b3b0904-a1bd-4466-b3a2-f72b4a449b84",
+         "title": "Ataque israelita a cidade síria de Palmira faz pelo menos 68 mortos",
+         "description": "Segundo as forças israelitas, os ataques, que já causaram dezenas de vítimas, incluindo civis, visaram paióis do Hezbollah e dirigentes de grupos palestinianos. Contudo, as autoridades locais afirmam que muitos dos bombardeamentos realizados atingiram diretamente zonas residenciais sírias.",
+         "link": "https://sicnoticias.pt/especiais/guerra-no-medio-oriente/2024-11-21-ataque-israelita-a-cidade-siria-de-palmira-faz-pelo-menos-68-mortos-3a0f5bdf",
+         "author": "Lusa",
+         "published": 1732179245000,
+         "created": 1732179245000,
+         "category": "Guerra no Médio Oriente",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-11-21-palmira.jpg-97a83fba/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-11-21-palmira.jpg-97a83fba/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-11-21-palmira.jpg-97a83fba/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-08-26-paulo-rangel-56b06e61/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "500465e4-b474-4cfe-b7ef-bd2c752f0949",
-         "title": "Trabalhadores da Saúde marcam greve para 6 dezembro",
-         "description": "Os serviços mínimos serão assegurados nos serviços que funcionem ininterruptamente 24 horas por dia, nos sete dias da semana.",
-         "link": "https://sicnoticias.pt/pais/2024-11-21-trabalhadores-da-saude-marcam-greve-para-6-dezembro-d9abd3c6",
-         "author": "Lusa",
-         "published": 1732176233000,
-         "created": 1732176233000,
-         "category": "País",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-09-25-greve-saude-c2117c27/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-09-25-greve-saude-c2117c27/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-09-25-greve-saude-c2117c27/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
