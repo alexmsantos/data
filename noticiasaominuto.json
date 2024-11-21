@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675013/onu-diz-que-novo-missil-russo-e-desenvolvimento-preocupante-na-guerra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "ONU diz que novo míssil russo é \"desenvolvimento preocupante\" na guerra",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675013/onu-diz-que-novo-missil-russo-e-desenvolvimento-preocupante-na-guerra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732215602000,
+         "created": 1732215602000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f0711c076e6c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2675002/susana-videira-e-a-nova-diretora-geral-da-politica-da-justica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Susana Videira é a nova diretora-geral da Política da Justiça",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_663d035546660.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674793/hrw-sauda-mandado-de-captura-contra-lideres-israelitas-e-do-hamas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "HRW saúda mandado de captura contra líderes israelitas e do Hamas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674793/hrw-sauda-mandado-de-captura-contra-lideres-israelitas-e-do-hamas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732202723000,
-         "created": 1732202723000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f50e7b57aa.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
