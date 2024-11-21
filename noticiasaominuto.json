@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2674663/cientistas-do-tecnico-colaboram-na-1-observacao-de-novo-efeito-fisico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cientistas do Técnico colaboram na \"1.ª observação de novo efeito físico\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2674663/cientistas-do-tecnico-colaboram-na-1-observacao-de-novo-efeito-fisico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732194754000,
+         "created": 1732194754000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_560e1c4038f35.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674682/associacao-alerta-que-e-preciso-reduzir-tempo-de-resposta-de-socorro-no-terreno?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Associação alerta que é preciso reduzir tempo de resposta de socorro no terreno",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b0833dec70f2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674503/preventiva-para-homem-que-tentou-matar-mulher-com-tres-tiros-em-penafiel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Preventiva para homem que tentou matar mulher com três tiros em Penafiel",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674503/preventiva-para-homem-que-tentou-matar-mulher-com-tres-tiros-em-penafiel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732183523000,
-         "created": 1732183523000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5965c686d1933.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
