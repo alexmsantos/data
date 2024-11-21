@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674701/comissao-do-parlamento-europeu-aprova-fim-de-isencao-de-vistos-para-vanuatu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Comissão do Parlamento Europeu aprova fim de isenção de vistos para Vanuatu",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674701/comissao-do-parlamento-europeu-aprova-fim-de-isencao-de-vistos-para-vanuatu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732198916000,
+         "created": 1732198916000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56f1a94fc9441.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674739/incendio-que-destruiu-pensao-no-porto-deixou-sete-pessoas-desalojadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Incêndio que destruiu pensão no Porto deixou sete pessoas desalojadas",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6734b8443243b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2674563/serie-de-alien-da-disney-ja-tem-chegada-marcada-a-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Série de 'Alien' da Disney+ já tem chegada marcada a Portugal",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2674563/serie-de-alien-da-disney-ja-tem-chegada-marcada-a-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732186274000,
-         "created": 1732186274000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f0ffa938e5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
