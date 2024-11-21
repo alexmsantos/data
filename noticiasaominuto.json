@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674866/amnistia-sauda-mandados-de-captura-contra-netanyahu-gallant-e-deif?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Amnistia saúda mandados de captura contra Netanyahu, Gallant e Deif",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674866/amnistia-sauda-mandados-de-captura-contra-netanyahu-gallant-e-deif?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732208287000,
+         "created": 1732208287000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67372487c03b1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674884/isabel-dos-santos-diz-que-vai-recorrer-das-sancoes-e-provar-mentiras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Isabel dos Santos diz que vai recorrer das sanções e provar \"mentiras\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674884/isabel-dos-santos-diz-que-vai-recorrer-das-sancoes-e-provar-mentiras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732208263000,
+         "created": 1732208263000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/27920970.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674874/relacao-de-coimbra-reduz-pena-de-ex-educadora-das-caldas-da-rainha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Relação de Coimbra reduz pena de ex-educadora das Caldas da Rainha",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6141bb03a91d2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674685/francisco-cabral-nas-meias-finais-de-pares-de-challenger-de-rovereto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Francisco Cabral nas meias-finais de pares de 'challenger' de Rovereto",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674685/francisco-cabral-nas-meias-finais-de-pares-de-challenger-de-rovereto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732194466000,
-         "created": 1732194466000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43305435.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674683/regularizacao-de-contratos-covid-19-concluida-ate-final-do-ano-nos-acores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Regularização de contratos covid-19 concluída até final do ano nos Açores",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674683/regularizacao-de-contratos-covid-19-concluida-ate-final-do-ano-nos-acores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732194224000,
-         "created": 1732194224000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707772ab8f73.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
