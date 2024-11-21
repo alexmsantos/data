@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675073/casa-branca-confirma-viagem-de-biden-a-angola-na-1-semana-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Casa Branca confirma viagem de Biden a Angola na 1.ª semana de dezembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675073/casa-branca-confirma-viagem-de-biden-a-angola-na-1-semana-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732221987000,
+         "created": 1732221987000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673a34cfe0eb2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2675067/manifesto-dos-50-declaracoes-do-pgr-reforcam-a-sua-legitimidade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Manifesto dos 50. Declarações do PGR reforçam a sua legitimidade",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/27920970.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674874/relacao-de-coimbra-reduz-pena-de-ex-educadora-das-caldas-da-rainha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Relação de Coimbra reduz pena de ex-educadora das Caldas da Rainha",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674874/relacao-de-coimbra-reduz-pena-de-ex-educadora-das-caldas-da-rainha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732207805000,
-         "created": 1732207805000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_609d3d26a9d4d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
