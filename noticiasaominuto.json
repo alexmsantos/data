@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674669/medio-oriente-oitenta-por-cento-de-gaza-e-zona-de-alto-risco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Médio Oriente: Oitenta por cento de Gaza é zona de alto risco",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674669/medio-oriente-oitenta-por-cento-de-gaza-e-zona-de-alto-risco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732193316000,
+         "created": 1732193316000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65c7f4474752c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2674659/ministerio-do-ambiente-alvo-de-acao-judicial-por-falta-de-documentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministério do Ambiente alvo de ação judicial por falta de documentos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6739f13f9140b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2674422/hyundai-ioniq-9-e-apresentado-e-espaco-nao-falta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Hyundai IONIQ 9 é apresentado e espaço não falta",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2674422/hyundai-ioniq-9-e-apresentado-e-espaco-nao-falta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732180586000,
-         "created": 1732180586000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673ee265bfffa.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
