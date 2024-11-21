@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2674680/il-contra-aumento-de-pensoes-e-acusa-ps-e-chega-de-criarem-dificuldades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "IL contra aumento de pensões e acusa PS e Chega de criarem dificuldades",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2674680/il-contra-aumento-de-pensoes-e-acusa-ps-e-chega-de-criarem-dificuldades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732194147000,
+         "created": 1732194147000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6602d7b12614c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2674484/george-russell-fala-de-diretor-portugues-tem-uma-enorme-pressao-agora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "George Russell fala de diretor português: \"Tem uma enorme pressão agora\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43507324.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674509/chocado-ruben-amorim-faz-as-primeiras-vitimas-no-manchester-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Chocado\". Ruben Amorim faz as primeiras 'vítimas' no Manchester United",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674509/chocado-ruben-amorim-faz-as-primeiras-vitimas-no-manchester-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732182529000,
-         "created": 1732182529000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6737ba31b9c22.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
