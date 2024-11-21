@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674775/violencia-domestica-psp-detem-suspeito-de-agredir-a-mae-em-braganca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Violência doméstica. PSP detém suspeito de agredir a mãe em Bragança",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674775/violencia-domestica-psp-detem-suspeito-de-agredir-a-mae-em-braganca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732201306000,
+         "created": 1732201306000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_577125a739580.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2674766/liga-responsabiliza-pr-guineense-pela-vida-e-integridade-de-opositores-detidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Liga responsabiliza PR guineense \"pela vida e integridade\" de opositores detidos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_671cb7104c107.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674583/sinal-de-apoio-e-carinho-putin-oferece-70-animais-a-coreia-do-norte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Sinal de apoio e carinho\". Putin oferece 70 animais à Coreia do Norte",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674583/sinal-de-apoio-e-carinho-putin-oferece-70-animais-a-coreia-do-norte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732188283000,
-         "created": 1732188283000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f14770f588.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
