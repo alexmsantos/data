@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675081/conselho-da-magistratura-elege-duas-professoras-para-conselho-de-etica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Conselho da Magistratura elege duas professoras para Conselho de Ética",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675081/conselho-da-magistratura-elege-duas-professoras-para-conselho-de-etica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732225352000,
+         "created": 1732225352000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63fe79280443a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2675089/problemas-cardiacos-o-melhor-e-dormir-nesta-posicao-diz-fisioterapeuta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Problemas cardíacos? O melhor é dormir nesta posição, diz fisioterapeuta",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/21862212.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674911/ha-medidas-de-reducao-de-alunos-sem-aulas-ilegais-ou-com-fraco-impacto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Há medidas de redução de alunos sem aulas ilegais ou com \"fraco impacto\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674911/ha-medidas-de-reducao-de-alunos-sem-aulas-ilegais-ou-com-fraco-impacto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732209578000,
-         "created": 1732209578000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/29735261.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
