@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675113/israel-lanca-quatro-ataques-a-sul-de-beirute-hezbollah-responde-com-sete?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel lança quatro ataques a sul de Beirute. Hezbollah responde com sete",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675113/israel-lanca-quatro-ataques-a-sul-de-beirute-hezbollah-responde-com-sete?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732229312000,
+         "created": 1732229312000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673fb8c3d68d6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675111/ganhar-a-liga-dos-campeoes-esta-epoca-nao-e-um-objetivo-no-paris-sg?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Ganhar a Liga dos Campeões esta época não é um objetivo no Paris SG\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675111/ganhar-a-liga-dos-campeoes-esta-epoca-nao-e-um-objetivo-no-paris-sg?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732229065000,
+         "created": 1732229065000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673fb68c6dfa1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675110/oficial-estrela-da-amadora-renova-contrato-com-kikas-ate-2026?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oficial: Estrela da Amadora renova contrato com Kikas até 2026",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f71c14589c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2674936/livre-vai-votar-a-favor-das-propostas-de-aumento-de-pensoes-da-esquerda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Livre vai votar a favor das propostas de aumento de pensões da esquerda",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2674936/livre-vai-votar-a-favor-das-propostas-de-aumento-de-pensoes-da-esquerda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732210766000,
-         "created": 1732210766000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65ef00f9d99af.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674940/o-negocio-que-teria-mudado-a-vida-de-gyokeres-parece-estranho-mas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O negócio que teria mudado a vida de Gyokeres: \"Parece estranho, mas...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674940/o-negocio-que-teria-mudado-a-vida-de-gyokeres-parece-estranho-mas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732210753000,
-         "created": 1732210753000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672b6b469c503.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
