@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2674553/rumor-google-quer-lancar-rival-do-macbook-pro-da-apple?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rumor. Google quer lançar rival do MacBook Pro da Apple",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2674553/rumor-google-quer-lancar-rival-do-macbook-pro-da-apple?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732185477000,
+         "created": 1732185477000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f0d4115cb7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674552/diretor-geral-da-oms-hospitalizado-no-rio-de-janeiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Diretor-geral da OMS hospitalizado no Rio de Janeiro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674552/diretor-geral-da-oms-hospitalizado-no-rio-de-janeiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732185328000,
+         "created": 1732185328000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fbcfc96d789f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674541/ingleses-revelam-que-amorim-ja-escolheu-um-titular-para-o-jogo-de-estreia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ingleses revelam que Amorim já escolheu um titular para o jogo de estreia",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672ae7478bf13.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674356/cada-centimo-para-protecao-civil-e-forcas-armadas-e-investimento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Cada cêntimo\" para Proteção Civil e Forças Armadas é \"investimento\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674356/cada-centimo-para-protecao-civil-e-forcas-armadas-e-investimento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732170102000,
-         "created": 1732170102000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_662c2a4654ffe.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674391/bastonario-lamenta-retirada-da-vacinacao-dos-mais-idosos-das-farmacias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bastonário lamenta retirada da vacinação dos mais idosos das farmácias",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674391/bastonario-lamenta-retirada-da-vacinacao-dos-mais-idosos-das-farmacias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732170000000,
-         "created": 1732170000000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_630dedd01bbdb.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
