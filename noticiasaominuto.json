@@ -1,13 +1,36 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/desporto/2674672/enzo-maresca-deixa-aviso-a-joao-felix-esta-bem-mas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Enzo Maresca deixa aviso a João Félix: \"Está bem, mas...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2674672/enzo-maresca-deixa-aviso-a-joao-felix-esta-bem-mas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732193691000,
+         "created": 1732193691000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66f425cd3040a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/tech/2674671/departamento-de-justica-pode-prejudicar-lideranca-tecnologica-dos-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Departamento de Justiça pode prejudicar liderança tecnológica dos EUA",
+         "title": "Google considera que Departamento de Justiça pode prejudicar tecnologia",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/tech/2674671/departamento-de-justica-pode-prejudicar-lideranca-tecnologica-dos-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_671ca8b7f17b4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674485/imagens-mostram-rastro-de-destruicao-de-ciclone-bomba-nos-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Imagens mostram rasto de destruição de \"ciclone bomba\" nos EUA",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674485/imagens-mostram-rastro-de-destruicao-de-ciclone-bomba-nos-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732180822000,
-         "created": 1732180822000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673ef8a2514d2.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
