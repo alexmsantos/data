@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2675091/acores-obras-em-circuitos-logisticos-financiadas-pelo-prr-foram-lancadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Açores. Obras em circuitos logísticos financiadas pelo PRR foram lançadas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2675091/acores-obras-em-circuitos-logisticos-financiadas-pelo-prr-foram-lancadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732225846000,
+         "created": 1732225846000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_57ee2ab05cf2e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675092/pep-guardiola-renovou-com-o-manchester-city-e-atirou-estas-duas-palavras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pep Guardiola renovou com o Manchester City e atirou estas duas palavras",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675092/pep-guardiola-renovou-com-o-manchester-city-e-atirou-estas-duas-palavras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732225429000,
+         "created": 1732225429000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673fa89b52da0.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2675081/conselho-da-magistratura-elege-duas-professoras-para-conselho-de-etica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Conselho da Magistratura elege duas professoras para Conselho de Ética",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_57233b1528cf5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674880/steph-diz-estar-bastante-distante-da-tutela-sobre-salarios-dos-tecnicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "STEPH diz estar \"bastante distante\" da tutela sobre salários dos técnicos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674880/steph-diz-estar-bastante-distante-da-tutela-sobre-salarios-dos-tecnicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732209896000,
-         "created": 1732209896000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5424277fa7da2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2674915/sindicato-vai-convocar-greves-na-volkswagen-a-partir-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sindicato vai convocar greves na Volkswagen a partir de dezembro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2674915/sindicato-vai-convocar-greves-na-volkswagen-a-partir-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732209860000,
-         "created": 1732209860000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/21862212.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
