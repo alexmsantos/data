@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2674821/adeus-baratas-e-aranhas-precisa-de-usar-este-truque-o-quanto-antes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Adeus, baratas e aranhas. Precisa de usar este truque o quanto antes",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2674821/adeus-baratas-e-aranhas-precisa-de-usar-este-truque-o-quanto-antes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732204297000,
+         "created": 1732204297000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f558dd1bff.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674828/festejo-de-pulisic-desata-a-polemica-imitar-donald-trump-e-estupido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Festejo de Pulisic 'desata' a polémica: \"Imitar Donald Trump é estúpido\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_647455c447ed9.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674631/carla-tavares-acredita-que-pe-se-opora-a-centralizacao-de-fundos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Carla Tavares acredita que PE se oporá à centralização de fundos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674631/carla-tavares-acredita-que-pe-se-opora-a-centralizacao-de-fundos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732190917000,
-         "created": 1732190917000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58f72ef742616.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
