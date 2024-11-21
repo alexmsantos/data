@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674652/casal-detido-na-ilha-de-sao-miguel-com-47-mil-doses-de-haxixe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Casal detido na ilha de São Miguel com 47 mil doses de haxixe",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674652/casal-detido-na-ilha-de-sao-miguel-com-47-mil-doses-de-haxixe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732192238000,
+         "created": 1732192238000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59b96ceeb05e0.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2674650/adjunto-de-joao-pereira-e-a-saida-de-gyokeres-queremos-contar-com-ele?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Adjunto de João Pereira e a saída de Gyokeres: \"Queremos contar com ele\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2674650/adjunto-de-joao-pereira-e-a-saida-de-gyokeres-queremos-contar-com-ele?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732192169000,
+         "created": 1732192169000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67254fc5c1387.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2674649/guterres-pede-mais-esforcos-apos-desapontamento-com-projeto-de-acordo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Guterres pede mais esforços após desapontamento com projeto de acordo",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_660ad680a9dac.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674471/artur-jorge-arrasa-arbitragem-e-atletico-mineiro-nao-quiseram-jogar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Artur Jorge arrasa arbitragem e Atlético Mineiro: \"Não quiseram jogar\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674471/artur-jorge-arrasa-arbitragem-e-atletico-mineiro-nao-quiseram-jogar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732179439000,
-         "created": 1732179439000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672fd3fc96c57.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674467/socrates-reitera-que-operacao-marques-quis-impedir-candidatura-a-pr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sócrates reitera que Operação Marquês quis impedir candidatura a PR",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674467/socrates-reitera-que-operacao-marques-quis-impedir-candidatura-a-pr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732179438000,
-         "created": 1732179438000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6581a09808430.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
