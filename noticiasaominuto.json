@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2675097/nao-lhes-escapa-nada-os-signos-que-querem-sempre-a-perfeicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Não lhes escapa nada. Os signos que querem sempre a perfeição em tudo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2675097/nao-lhes-escapa-nada-os-signos-que-querem-sempre-a-perfeicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732228059000,
+         "created": 1732228059000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673facb73e57b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675105/zelensky-pede-reacao-da-comunidade-internacional-a-missil-balistico-russo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Zelensky pede reação da comunidade internacional a míssil balístico russo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/42594142.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674893/aml-envia-ao-mp-processo-de-aluguer-da-sede-a-grupo-ultranacionalista?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AML envia ao MP processo de aluguer da sede a grupo ultranacionalista",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674893/aml-envia-ao-mp-processo-de-aluguer-da-sede-a-grupo-ultranacionalista?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732210099000,
-         "created": 1732210099000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66158a22bd0ae.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
