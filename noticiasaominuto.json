@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674649/guterres-pede-mais-esforcos-apos-desapontamento-com-projeto-de-acordo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guterres pede mais esforços após desapontamento com projeto de acordo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674649/guterres-pede-mais-esforcos-apos-desapontamento-com-projeto-de-acordo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732192038000,
+         "created": 1732192038000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f273d52c5c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674646/imprensa-e-adeptos-ingleses-atentos-a-discurso-e-personalidade-de-amorim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Imprensa e adeptos ingleses atentos a discurso e personalidade de Amorim",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6581a09808430.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674429/chefe-da-defesa-dos-eua-lamenta-nega-do-homologo-chines-a-reuniao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chefe da Defesa dos EUA lamenta nega do homólogo chinês a reunião",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674429/chefe-da-defesa-dos-eua-lamenta-nega-do-homologo-chines-a-reuniao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732179214000,
-         "created": 1732179214000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b7d8c99e6d6.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
