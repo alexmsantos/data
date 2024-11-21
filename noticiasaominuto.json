@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675105/zelensky-pede-reacao-da-comunidade-internacional-a-missil-balistico-russo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zelensky pede reação da comunidade internacional a míssil balístico russo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675105/zelensky-pede-reacao-da-comunidade-internacional-a-missil-balistico-russo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732227831000,
+         "created": 1732227831000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6644695c361b9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675103/oc-barcelos-goleia-fc-porto-no-arranque-da-liga-dos-campeoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OC Barcelos goleia FC Porto no arranque da Liga dos Campeões",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66158a22bd0ae.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2674914/moreira-da-silva-discutiu-com-papa-dificuldades-da-onu-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moreira da Silva discutiu com Papa dificuldades da ONU em Gaza",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2674914/moreira-da-silva-discutiu-com-papa-dificuldades-da-onu-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732210066000,
-         "created": 1732210066000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6733dd430af12.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
