@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674966/marcelo-poe-criancas-a-exclamar-soares-e-fixe-e-fala-lhes-do-seu-legado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Marcelo põe crianças a exclamar \"Soares é fixe\" e fala-lhes do seu legado",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674966/marcelo-poe-criancas-a-exclamar-soares-e-fixe-e-fala-lhes-do-seu-legado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732213164000,
+         "created": 1732213164000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_651f283181941.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2674935/inem-chega-diz-que-governo-esta-a-adotar-medidas-redundantes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "INEM? Chega diz que Governo está a adotar medidas redundantes",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f4826118ad.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674757/este-e-talvez-o-melhor-sporting-desde-que-eu-vejo-futebol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Este é, Talvez, o melhor Sporting desde que eu vejo futebol\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674757/este-e-talvez-o-melhor-sporting-desde-que-eu-vejo-futebol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732200412000,
-         "created": 1732200412000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f47af4d389.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
