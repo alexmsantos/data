@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2674816/be-envia-queixa-a-cne-sobre-legalidade-de-propaganda-de-moedas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "BE envia queixa à CNE sobre legalidade de \"propaganda\" de Moedas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2674816/be-envia-queixa-a-cne-sobre-legalidade-de-propaganda-de-moedas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732206489000,
+         "created": 1732206489000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6660ccd76f0da.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674860/ex-benfica-fora-da-lista-de-abel-nao-usara-o-palmeiras-como-trampolim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ex-Benfica fora da lista de Abel: \"Não usará o Palmeiras como trampolim\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65c7f4474752c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2674670/economia-da-ocde-cresce-0-5-do-segundo-para-o-terceiro-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Economia da OCDE cresce 0,5% do segundo para o terceiro trimestre",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2674670/economia-da-ocde-cresce-0-5-do-segundo-para-o-terceiro-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732193138000,
-         "created": 1732193138000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_619627b555d77.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
