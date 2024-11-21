@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2674987/guerra-na-ucrania-washington-sanciona-cerca-de-50-bancos-russos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guerra na Ucrânia. Washington sanciona cerca de 50 bancos russos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2674987/guerra-na-ucrania-washington-sanciona-cerca-de-50-bancos-russos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732214583000,
+         "created": 1732214583000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6388d0f5a1652.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675001/portugal-entre-os-quatro-melhores-da-ocde-na-vacinacao-contra-o-hpv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal entre os quatro melhores da OCDE na vacinação contra o HPV",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675001/portugal-entre-os-quatro-melhores-da-ocde-na-vacinacao-contra-o-hpv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732214530000,
+         "created": 1732214530000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/41406626.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2674997/oe-2025-madeira-da-parecer-positivo-as-propostas-com-impacto-na-regiao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE 2025. Madeira dá parecer positivo às propostas com impacto na região",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43867887.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674786/viktor-gyokeres-e-sem-surpresa-futebolista-do-ano-nos-premios-stromp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Viktor Gyokeres é, sem surpresa, futebolista do ano nos Prémios Stromp",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674786/viktor-gyokeres-e-sem-surpresa-futebolista-do-ano-nos-premios-stromp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732201861000,
-         "created": 1732201861000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6706dbb19b681.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674777/pinto-da-costa-lanca-mais-um-livro-mas-nao-e-para-gente-grande?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pinto da Costa lança mais um livro, mas... não é para gente grande",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674777/pinto-da-costa-lanca-mais-um-livro-mas-nao-e-para-gente-grande?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732201601000,
-         "created": 1732201601000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_671f446dec0c3.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
