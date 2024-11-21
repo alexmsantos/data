@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675093/kika-nazareth-bisa-e-barcelona-ja-mira-quartos-da-liga-dos-campeoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Kika Nazareth bisa e Barcelona já mira 'quartos' da Liga dos Campeões",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675093/kika-nazareth-bisa-e-barcelona-ja-mira-quartos-da-liga-dos-campeoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732225941000,
+         "created": 1732225941000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673faa73b16c7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2675091/acores-obras-em-circuitos-logisticos-financiadas-pelo-prr-foram-lancadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Açores. Obras em circuitos logísticos financiadas pelo PRR foram lançadas",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672cc9de8bcd1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674895/taxista-detido-por-especulacao-no-aeroporto-de-lisboa-cobrou-13-a-mais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Taxista detido por especulação no aeroporto de Lisboa. Cobrou 13€ a mais",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674895/taxista-detido-por-especulacao-no-aeroporto-de-lisboa-cobrou-13-a-mais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732209918000,
-         "created": 1732209918000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_57233b1528cf5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
