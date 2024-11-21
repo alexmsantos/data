@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2674595/goncalo-ramos-tranquiliza-luis-enrique-e-nuno-mendes-preocupa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Gonçalo Ramos tranquiliza Luis Enrique (e Nuno Mendes preocupa)",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2674595/goncalo-ramos-tranquiliza-luis-enrique-e-nuno-mendes-preocupa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732187837000,
+         "created": 1732187837000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65faff9b180d7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2674589/concorrencia-da-luz-verde-a-compra-da-ritmos-blues-e-arena-atlantico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Concorrência dá 'luz verde' à compra da Ritmos&Blues e Arena Atlântico",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673edf140116b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2674390/sns-ganha-primeiros-farmaceuticos-com-competencia-em-oncologia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "SNS ganha primeiros farmacêuticos com competência em oncologia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2674390/sns-ganha-primeiros-farmaceuticos-com-competencia-em-oncologia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732174097000,
-         "created": 1732174097000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b87d48809b9e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
