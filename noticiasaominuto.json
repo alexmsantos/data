@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675515/historico-governo-enfrentou-problema-dos-alunos-sem-aulas-e-resolveu-o?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Histórico\". Governo enfrentou problema dos alunos sem aulas e resolveu-o",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675515/historico-governo-enfrentou-problema-dos-alunos-sem-aulas-e-resolveu-o?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732284538000,
+         "created": 1732284538000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_545746f898f58.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2675503/chega-vota-contra-fim-do-corte-dos-salarios-dos-politicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Chega vota contra fim do corte dos salários dos políticos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67403ef8c24fd.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2675330/serie-de-divertida-mente-ja-tem-data-de-estreia-eis-o-trailer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Série de 'Divertida-Mente' já tem data de estreia. Eis o trailer",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2675330/serie-de-divertida-mente-ja-tem-data-de-estreia-eis-o-trailer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732271001000,
-         "created": 1732271001000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67405ac6e88c3.jpeg",
                "type": "image/jpeg",
                "length": "0"
             }
