@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675149/paris-insta-moscovo-a-reconsiderar-escalada-com-uso-de-tropas-norte-coreanas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Paris insta Moscovo a reconsiderar escalada com uso de tropas norte-coreanas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675149/paris-insta-moscovo-a-reconsiderar-escalada-com-uso-de-tropas-norte-coreanas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732258526000,
+         "created": 1732258526000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62a493553c5e1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675199/por-ca-otamendi-decide-e-novo-sporting-entra-em-acao-na-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Por cá: Otamendi \"decide\" e novo Sporting entra em ação na Taça",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5cb8c44b32bad.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675035/serie-sobre-tony-carreira-estreia-a-7-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Série sobre Tony Carreira estreia a 7 de dezembro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675035/serie-sobre-tony-carreira-estreia-a-7-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732218514000,
-         "created": 1732218514000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f8defa8455.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
