@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675866/ucrania-denuncia-execucao-de-cinco-soldados-na-linha-de-frente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ucrânia denuncia execução de cinco soldados na linha de frente",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675866/ucrania-denuncia-execucao-de-cinco-soldados-na-linha-de-frente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732310071000,
+         "created": 1732310071000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_648c078619bdb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2675875/afinal-proposta-do-chega-sobre-preco-dos-genericos-foi-chumbada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Afinal, proposta do Chega sobre preço dos genéricos foi chumbada",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e2b5f8d79d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2675729/aprovada-proposta-para-integrar-tecnicos-na-carreira-cientifica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aprovada proposta para integrar técnicos na carreira científica",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2675729/aprovada-proposta-para-integrar-tecnicos-na-carreira-cientifica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732297472000,
-         "created": 1732297472000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d015c5046eb7.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
