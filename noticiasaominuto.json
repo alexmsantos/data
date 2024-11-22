@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675308/amorim-pede-seis-jogadores-ao-manchester-united-e-tres-sao-do-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Amorim pede seis jogadores ao Manchester United... e três são do Sporting",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675308/amorim-pede-seis-jogadores-ao-manchester-united-e-tres-sao-do-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732268829000,
+         "created": 1732268829000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67362417155fe.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675294/irao-diz-que-decisao-do-tpi-e-a-morte-politica-de-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Irão diz que decisão do TPI é a \"morte política\" de Israel",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66f24f56f3daf.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675137/mediador-dos-estados-unidos-para-o-libano-reuniu-se-com-netanyahu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mediador dos Estados Unidos para o Líbano reuniu-se com Netanyahu",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675137/mediador-dos-estados-unidos-para-o-libano-reuniu-se-com-netanyahu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732232940000,
-         "created": 1732232940000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66bca3a0852ac.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
