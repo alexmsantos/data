@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675952/eua-interditam-importacoes-de-empresas-chinesas-por-explorarem-uigures?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EUA interditam importações de empresas chinesas por explorarem uigures",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675952/eua-interditam-importacoes-de-empresas-chinesas-por-explorarem-uigures?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732319427000,
+         "created": 1732319427000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fc9e4d3e346f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675938/lado-a-lado-tarja-de-apoio-para-joao-pereira-na-estreia-pelo-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Lado a lado\". Tarja de apoio para João Pereira na estreia pelo Sporting",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6684842b4fc2b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675818/foco-e-entrega-fc-porto-prepara-encontro-da-taca-com-maximo-afinco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Foco e entrega\". FC Porto prepara encontro da Taça com máximo afinco",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675818/foco-e-entrega-fc-porto-prepara-encontro-da-taca-com-maximo-afinco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732302727000,
-         "created": 1732302727000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740d75578e4c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
