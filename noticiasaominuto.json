@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675511/instituto-e-sociologo-defendem-formacao-para-reduzir-desigualdade-salarial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Instituto e sociólogo defendem formação para reduzir desigualdade salarial",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675511/instituto-e-sociologo-defendem-formacao-para-reduzir-desigualdade-salarial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732283938000,
+         "created": 1732283938000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/6843076.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2675489/governo-destaca-trabalho-das-policias-na-recaptura-de-evadido-de-vale-dos-judeus?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo destaca trabalho das polícias na recaptura de evadido de Vale dos Judeus",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66f4729b1b9d7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675176/os-bairros-que-fazem-funcionar-o-centro-da-cidade-querem-ser-ouvidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Os bairros que \"fazem funcionar o centro da cidade\" querem ser ouvidos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675176/os-bairros-que-fazem-funcionar-o-centro-da-cidade-querem-ser-ouvidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732270304000,
-         "created": 1732270304000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5eeb19c0230b2.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
