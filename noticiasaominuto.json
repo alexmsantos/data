@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675187/xuxas-e-restantes-acusados-de-trafico-de-cocaina-conhecem-hoje-decisao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Xuxas\" e restantes acusados de tráfico de cocaína conhecem hoje decisão",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675187/xuxas-e-restantes-acusados-de-trafico-de-cocaina-conhecem-hoje-decisao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732256411000,
+         "created": 1732256411000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d180ab8b021.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675181/cinco-turistas-morrem-no-laos-alegadamente-devido-a-alcool-com-metanol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Cinco turistas morrem no Laos alegadamente devido a álcool com metanol",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5730724a57801.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675008/washington-e-londres-confirmam-uso-de-novo-missil-balistico-pela-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Washington e Londres confirmam uso de novo míssil balístico pela Rússia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675008/washington-e-londres-confirmam-uso-de-novo-missil-balistico-pela-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732214991000,
-         "created": 1732214991000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43949920.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
