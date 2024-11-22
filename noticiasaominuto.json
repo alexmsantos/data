@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675225/pyongyang-recebeu-misseis-antiaereos-russos-em-troca-de-tropas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pyongyang recebeu mísseis antiaéreos russos em troca de tropas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675225/pyongyang-recebeu-misseis-antiaereos-russos-em-troca-de-tropas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732262116000,
+         "created": 1732262116000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43915884.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2675222/xxx?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Junte isto ao café para acelerar o metabolismo (e queimar mais gordura!)",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f9d3a9d829.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2675068/dois-bancos-brasileiro-solicitaram-licenca-para-operarem-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dois bancos brasileiro solicitaram \"licença para operarem em Portugal\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2675068/dois-bancos-brasileiro-solicitaram-licenca-para-operarem-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732222109000,
-         "created": 1732222109000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58793627dbc29.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
