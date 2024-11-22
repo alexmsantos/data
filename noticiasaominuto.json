@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675758/conor-mcgregor-condenado-a-pagar-indemnizacao-em-caso-de-violacao-sexual?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Conor McGregor condenado a pagar indemnização em caso de agressão sexual",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675758/conor-mcgregor-condenado-a-pagar-indemnizacao-em-caso-de-violacao-sexual?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732298391000,
+         "created": 1732298391000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c9ba73578b7a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2675735/stcp-planeia-investir-109-milhoes-de-euros-nos-proximos-10-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "STCP planeia investir 109 milhões de euros nos próximos 10 anos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a23004c93356.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675563/otamendi-reage-a-especulacao-noticias-mal-intencionadas-e-falsas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Otamendi reage à especulação: \"Notícias mal intencionadas e falsas\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675563/otamendi-reage-a-especulacao-noticias-mal-intencionadas-e-falsas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732287540000,
-         "created": 1732287540000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673991c547537.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
