@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2675412/alunos-sem-aulas-ps-acusa-ministerio-da-educacao-de-falta-de-seriedade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Alunos sem aulas? PS acusa Ministério da Educação de falta de seriedade",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2675412/alunos-sem-aulas-ps-acusa-ministerio-da-educacao-de-falta-de-seriedade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732278191000,
+         "created": 1732278191000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63ce555b04a77.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675410/pacote-suspeito-encontrado-junto-a-embaixada-dos-eua-em-londres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pacote suspeito encontrado junto a embaixada dos EUA em Londres",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675410/pacote-suspeito-encontrado-junto-a-embaixada-dos-eua-em-londres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732278058000,
+         "created": 1732278058000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674075bd4f9f6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2675414/orcamento-da-madeira-para-2025-ronda-os-2600-milhoes-de-euros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Orçamento da Madeira para 2025 ronda os 2.600 milhões de euros",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e97134a3da3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675251/la-fora-operacao-anfield-e-pep-guardiola-nao-abandona-manchester?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lá fora: Operação Anfield e Pep Guardiola não abandona Manchester",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675251/la-fora-operacao-anfield-e-pep-guardiola-nao-abandona-manchester?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732264321000,
-         "created": 1732264321000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67403f2e97e85.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675255/pj-detem-fugitivo-de-vale-de-judeus-em-tras-os-montes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fugitivo de Vale de Judeus recapturado pela PJ. Estava em Trás-os-Montes",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675255/pj-detem-fugitivo-de-vale-de-judeus-em-tras-os-montes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732264272000,
-         "created": 1732264272000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66dc80e4c7f24.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
