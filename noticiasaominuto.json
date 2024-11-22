@@ -1,10 +1,79 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2675210/todos-os-novos-carros-de-f1-vao-ter-miniaturas-da-lego?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Todos os novos carros de F1 vão ter miniaturas da LEGO",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2675210/todos-os-novos-carros-de-f1-vao-ter-miniaturas-da-lego?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732259799000,
+         "created": 1732259799000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67402e70cfe1b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2675208/arranca-maratona-de-votacoes-de-2100-propostas-de-alteracao-ao-oe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Arranca 'maratona' de votações de 2.100 propostas de alteração ao OE",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2675208/arranca-maratona-de-votacoes-de-2100-propostas-de-alteracao-ao-oe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732259797000,
+         "created": 1732259797000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65dca1a7af3fa.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2675057/traga-estes-alimentos-quando-for-as-compras-o-seu-metabolismo-agradece?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Traga estes alimentos quando for às compras. O seu metabolismo agradece",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2675057/traga-estes-alimentos-quando-for-as-compras-o-seu-metabolismo-agradece?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732259460000,
+         "created": 1732259460000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f9192aae59.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675207/irao-instala-mais-centrifugadoras-apos-criticas-de-agencia-da-onu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Irão instala mais centrifugadoras após críticas de agência da ONU",
@@ -2229,75 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43950274.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675050/tc-angolano-indefere-pedido-da-unita-para-anular-sessao-plenaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "TC angolano indefere pedido da UNITA para anular sessão plenária",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675050/tc-angolano-indefere-pedido-da-unita-para-anular-sessao-plenaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732220079000,
-         "created": 1732220079000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/38619428.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675034/novo-plastico-pode-acabar-com-microplasticos-no-oceano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Novo plástico pode acabar com microplásticos no oceano",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675034/novo-plastico-pode-acabar-com-microplasticos-no-oceano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732219902000,
-         "created": 1732219902000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/25241503.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675059/alojamento-de-estudantes-e-quase-valor-que-se-paga-em-hotel-5-estrelas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Habitação estudantil? Valor é quase o \"que se paga em hotel 5 estrelas\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675059/alojamento-de-estudantes-e-quase-valor-que-se-paga-em-hotel-5-estrelas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732219884000,
-         "created": 1732219884000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43952953.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
