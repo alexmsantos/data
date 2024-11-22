@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675577/secretario-geral-da-nato-desloca-se-a-florida-para-se-reunir-com-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Secretário-geral da NATO desloca-se à Florida para se reunir com Trump",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675577/secretario-geral-da-nato-desloca-se-a-florida-para-se-reunir-com-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732288770000,
+         "created": 1732288770000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67124606363bd.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675578/ate-aguero-fala-de-gyokeres-os-clubes-amontoam-se-por-jogadores-destes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Até Aguero fala de Gyokeres: \"Os clubes amontoam-se por jogadores destes\"",
@@ -779,7 +802,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673747a536e38.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740a09f4e2f1.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674070bfccb55.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2675354/ha-mais-tres-novas-marcas-chinesas-em-portugal-que-carros-vendem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Há mais três novas marcas chinesas em Portugal. Que carros vendem?",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2675354/ha-mais-tres-novas-marcas-chinesas-em-portugal-que-carros-vendem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732276747000,
-         "created": 1732276747000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674060e17f865.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
