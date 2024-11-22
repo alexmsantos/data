@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2675585/o-ps-tera-o-seu-tempo-para-tomar-decisoes-sobre-presidenciais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"O PS terá o seu tempo para tomar decisões\" sobre presidenciais",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2675585/o-ps-tera-o-seu-tempo-para-tomar-decisoes-sobre-presidenciais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732289189000,
+         "created": 1732289189000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6706dca0918bf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675583/primeira-conferencia-de-ruben-amorim-no-united-gerou-enchente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Primeira conferencia de Ruben Amorim no United gerou... enchente",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67407166b3c75.jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675327/ue-devia-apertar-ainda-mais-vistos-para-cidadaos-russos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "UE devia apertar \"ainda mais\" vistos para cidadãos russos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675327/ue-devia-apertar-ainda-mais-vistos-para-cidadaos-russos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732276843000,
-         "created": 1732276843000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67407205efd5a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
