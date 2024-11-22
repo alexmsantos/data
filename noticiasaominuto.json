@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2675385/ps-acusa-governo-de-manipular-numero-de-alunos-sem-aulas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PS acusa Governo de manipular número de alunos sem aulas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2675385/ps-acusa-governo-de-manipular-numero-de-alunos-sem-aulas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732275206000,
+         "created": 1732275206000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43955844.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2675382/astronauta-partilha-fotografia-imperdivel-do-lancamento-da-spacex?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Astronauta partilha fotografia (imperdível) do lançamento da SpaceX",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2675382/astronauta-partilha-fotografia-imperdivel-do-lancamento-da-spacex?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732275145000,
+         "created": 1732275145000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67406b6377042.jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675371/novo-recinto-do-sporting-de-braga-vai-chamar-se-estadio-amelia-morais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Novo recinto do Sporting de Braga vai chamar-se Estádio Amélia Morais",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_661782773399b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675213/gnr-sinaliza-mais-de-42-mil-idosos-isolados-ou-vulneraveis-em-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "GNR sinaliza mais de 42 mil idosos isolados ou vulneráveis em 2024",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675213/gnr-sinaliza-mais-de-42-mil-idosos-isolados-ou-vulneraveis-em-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732261224000,
-         "created": 1732261224000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e85902d0a38d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675200/netanyahu-e-gallant-alvos-de-mandados-de-captura-o-que-significa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Netanyahu alvo de mandado de captura internacional. O que significa?",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675200/netanyahu-e-gallant-alvos-de-mandados-de-captura-o-que-significa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732261056000,
-         "created": 1732261056000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66cdf488a9bdb.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
