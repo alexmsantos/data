@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2675751/sns-aprovada-criacao-de-um-codigo-deontologico-para-tecnicos-auxiliares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "SNS. Aprovada criação de um código deontológico para técnicos auxiliares",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2675751/sns-aprovada-criacao-de-um-codigo-deontologico-para-tecnicos-auxiliares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732298837000,
+         "created": 1732298837000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_587a470c7d702.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2675757/fenprof-acusa-governo-de-manipulacao-de-numeros-sobre-alunos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fenprof acusa Governo de manipulação de números sobre alunos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67409839334fa.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2675494/segurancas-de-aeroporto-nao-reconheceram-piloto-de-f1-e-quase-correu-mal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Seguranças de aeroporto não reconheceram piloto de F1 e quase correu mal",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2675494/segurancas-de-aeroporto-nao-reconheceram-piloto-de-f1-e-quase-correu-mal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732287968000,
-         "created": 1732287968000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67408a1f2e030.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
