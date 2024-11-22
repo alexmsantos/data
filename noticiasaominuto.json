@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675429/ruben-amorim-perdoa-casemiro-e-rashford-ninguem-lhes-disse?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ruben Amorim 'perdoa' Casemiro e Rashford: \"Ninguém lhes disse...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675429/ruben-amorim-perdoa-casemiro-e-rashford-ninguem-lhes-disse?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732278597000,
+         "created": 1732278597000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673238a934515.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2675422/dependencia-energetica-nacional-sobe-4-2-pontos-para-69-9-em-2022?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dependência energética nacional sobe 4,2 pontos para 69,9% em 2022",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2675422/dependencia-energetica-nacional-sobe-4-2-pontos-para-69-9-em-2022?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732278391000,
+         "created": 1732278391000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/26926026.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2675412/alunos-sem-aulas-ps-acusa-ministerio-da-educacao-de-falta-de-seriedade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Alunos sem aulas? PS acusa Ministério da Educação de falta de seriedade",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740426515621.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2675248/senhorio-que-arrende-casa-a-empresa-que-subarrenda-paga-irs-de-28?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Senhorio que arrende casa a empresa que subarrenda paga IRS de 28%",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2675248/senhorio-que-arrende-casa-a-empresa-que-subarrenda-paga-irs-de-28?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732264666000,
-         "created": 1732264666000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b91602492ec9.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675253/exercito-israelita-reclama-morte-de-cinco-combatentes-do-hamas-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Exército israelita reclama morte de cinco combatentes do Hamas em Gaza",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675253/exercito-israelita-reclama-morte-de-cinco-combatentes-do-hamas-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732264541000,
-         "created": 1732264541000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e97134a3da3.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
