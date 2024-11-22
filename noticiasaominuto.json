@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675278/russia-afirma-ter-frustrado-a-campanha-militar-da-ucrania-para-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rússia afirma ter frustrado a campanha militar da Ucrânia para 2025",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675278/russia-afirma-ter-frustrado-a-campanha-militar-da-ucrania-para-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732266859000,
+         "created": 1732266859000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6667f8ddd9ec2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2675232/mercedes-benz-190-num-estado-lastimavel-conseguiu-ser-recuperado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mercedes-Benz 190 num estado lastimável. Conseguiu ser recuperado?",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2675232/mercedes-benz-190-num-estado-lastimavel-conseguiu-ser-recuperado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732266801000,
+         "created": 1732266801000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67403a0a23e47.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2675277/votantes-do-chega-com-mais-emocoes-negativas-face-a-democracia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Votantes do Chega com mais emoções negativas face à democracia",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673845118ddeb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675102/marcelo-recebeu-a-segunda-figura-do-regime-chines-em-belem-e-ha-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Marcelo recebeu a segunda figura do regime chinês em Belém (e há imagens)",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675102/marcelo-recebeu-a-segunda-figura-do-regime-chines-em-belem-e-ha-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732230086000,
-         "created": 1732230086000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673fb000123d3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675114/porto-veste-se-a-altura-para-receber-o-natal-com-luzes-em-mais-ruas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Porto veste-se \"à altura\" para receber o Natal e há luzes em mais ruas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675114/porto-veste-se-a-altura-para-receber-o-natal-com-luzes-em-mais-ruas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732230042000,
-         "created": 1732230042000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58416e48dcc60.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
