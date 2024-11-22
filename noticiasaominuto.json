@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675798/queixa-contra-cm-de-famalicao-por-publicidade-em-periodo-eleitoral-no-mp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Queixa contra CM de Famalicão por publicidade em período eleitoral no MP",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675798/queixa-contra-cm-de-famalicao-por-publicidade-em-periodo-eleitoral-no-mp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732313230000,
+         "created": 1732313230000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6637919b0a248.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675900/funeraria-deixou-190-corpos-em-decomposicao-donos-declararam-se-culpados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Funerária deixou 190 corpos em decomposição. Donos declararam-se culpados",
@@ -297,29 +320,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43295290.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675885/oposicao-quer-sabotar-governo-ao-aprovar-publicidade-na-rtp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oposição quer \"sabotar\" Governo ao aprovar publicidade na RTP",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675885/oposicao-quer-sabotar-governo-ao-aprovar-publicidade-na-rtp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732311395000,
-         "created": 1732311395000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43930851.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
