@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2675650/oe2025-aprovado-guia-de-protecao-contra-o-assedio-proposto-pelo-pan?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OE2025. Aprovado guia de proteção contra o assédio proposto pelo PAN",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2675650/oe2025-aprovado-guia-de-protecao-contra-o-assedio-proposto-pelo-pan?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732292307000,
+         "created": 1732292307000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56df40dc73f7e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675645/novo-processo-exige-indemnizacao-a-mondlane-por-prejuizos-em-maputo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Novo processo exige indemnização a Mondlane por prejuízos em Maputo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43823069.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2675445/consorcio-acusa-atlanticoline-de-nao-ter-cumprido-com-o-prometido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Consórcio acusa Atlânticoline de não ter cumprido com o prometido",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2675445/consorcio-acusa-atlanticoline-de-nao-ter-cumprido-com-o-prometido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732281797000,
-         "created": 1732281797000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b018c68e79de.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
