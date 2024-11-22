@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675578/ate-aguero-fala-de-gyokeres-os-clubes-amontoam-se-por-jogadores-destes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Até Aguero fala de Gyokeres: \"Os clubes amontoam-se por jogadores destes\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675578/ate-aguero-fala-de-gyokeres-os-clubes-amontoam-se-por-jogadores-destes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732288735000,
+         "created": 1732288735000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6725d0eac8352.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675571/policia-dispersa-manifestantes-em-maputo-com-gas-lacrimogeneo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Polícia dispersa manifestantes em Maputo com gás lacrimogéneo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674060e17f865.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675384/ocidente-compreendeu-a-mensagem-do-novo-missil-russo-diz-moscovo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ocidente compreendeu a mensagem do novo míssil russo, diz Moscovo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675384/ocidente-compreendeu-a-mensagem-do-novo-missil-russo-diz-moscovo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732276130000,
-         "created": 1732276130000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dba73ae354.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
