@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675645/novo-processo-exige-indemnizacao-a-mondlane-por-prejuizos-em-maputo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novo processo exige indemnização a Mondlane por prejuízos em Maputo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675645/novo-processo-exige-indemnizacao-a-mondlane-por-prejuizos-em-maputo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732292036000,
+         "created": 1732292036000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/41780629.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675643/lisboa-porto-e-faro-cancelam-voos-apos-evacuacao-de-terminal-em-gatwick?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lisboa, Porto e Faro cancelam voos após evacuação de terminal em Gatwick",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675643/lisboa-porto-e-faro-cancelam-voos-apos-evacuacao-de-terminal-em-gatwick?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732291938000,
+         "created": 1732291938000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740ad3ab2005.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675567/al-nassr-al-qadisiya-acompanhe-mais-um-jogo-de-cristiano-ronaldo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Al Nassr-Al-Qadisiya: Acompanhe mais um jogo de Cristiano Ronaldo",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b018c68e79de.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675455/alemanha-e-franca-prudentes-em-relacao-a-mandados-do-tpi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alemanha e França prudentes em relação a mandados do TPI",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675455/alemanha-e-franca-prudentes-em-relacao-a-mandados-do-tpi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732281545000,
-         "created": 1732281545000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_621fe4b752931.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675459/inem-e-liga-dos-bombeiros-vao-assinar-novo-protocolo-de-cooperacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "INEM e Liga dos Bombeiros vão assinar novo protocolo de cooperação",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675459/inem-e-liga-dos-bombeiros-vao-assinar-novo-protocolo-de-cooperacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732281356000,
-         "created": 1732281356000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43951791.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
