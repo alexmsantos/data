@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2675185/festival-portopostdoc-arranca-hoje-para-questionar-que-futuro-tem-a-europa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Festival Porto/Post/Doc arranca hoje para questionar que futuro tem a Europa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2675185/festival-portopostdoc-arranca-hoje-para-questionar-que-futuro-tem-a-europa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732257983000,
+         "created": 1732257983000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fa1681277b33.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675184/liga-nacoes-portugal-conhece-esta-sexta-feira-adversario-nos-quartos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Liga Nações: Portugal conhece esta sexta-feira adversário nos 'quartos'",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/30641424.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675033/quatro-dedos-e-uma-bola-viktor-gyokeres-reage-a-semana-perfeita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quatro dedos e uma bola. Viktor Gyokeres reage a \"semana perfeita\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675033/quatro-dedos-e-uma-bola-viktor-gyokeres-reage-a-semana-perfeita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732217907000,
-         "created": 1732217907000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f8a82747a9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
