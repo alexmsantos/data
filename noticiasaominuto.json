@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675678/lusa-aprovada-proposta-que-condiciona-media-com-desconto-no-servico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lusa. \"Qualquer benefício\" aos media que contratem serviços condicionado",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675678/lusa-aprovada-proposta-que-condiciona-media-com-desconto-no-servico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732295417000,
+         "created": 1732295417000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5df82322670e5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675691/eua-alternativa-a-gaetz-e-procuradora-com-agenda-politica-conservadora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EUA. Alternativa a Gaetz é procuradora com agenda política conservadora",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675691/eua-alternativa-a-gaetz-e-procuradora-com-agenda-politica-conservadora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732295263000,
+         "created": 1732295263000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740ba4514c26.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675684/vitor-pereira-falha-ultrapassagem-a-cristiano-ronaldo-e-otavio-na-arabia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vítor Pereira falha ultrapassagem a Cristiano Ronaldo e Otávio na Arábia",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_668ed80ebe340.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675529/aldeia-surpreendida-com-detencao-de-recluso-simpatico-mas-falou-pouco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aldeia surpreendida com captura de recluso. \"Simpático, mas falou pouco\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675529/aldeia-surpreendida-com-detencao-de-recluso-simpatico-mas-falou-pouco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732285693000,
-         "created": 1732285693000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6703bfa6f21d1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2675493/economia-acoriana-cresce-de-forma-consecutiva-ha-40-meses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Economia açoriana \"cresce de forma consecutiva há 40 meses\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2675493/economia-acoriana-cresce-de-forma-consecutiva-ha-40-meses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732285692000,
-         "created": 1732285692000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b916d8b5efa.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
