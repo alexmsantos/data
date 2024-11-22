@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2673468/mesma-equipa-desde-1-dia-ajudam-a-ter-postura-independente-e-humilde?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Mesma equipa desde 1.º dia. Ajudam a ter postura independente e humilde\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2673468/mesma-equipa-desde-1-dia-ajudam-a-ter-postura-independente-e-humilde?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732262571000,
+         "created": 1732262571000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673dbe1e85d3a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675231/barcelona-prestes-a-roubar-imprescindivel-de-xabi-alonso-em-leverkusen?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Barcelona prestes a 'roubar' imprescindível de Xabi Alonso em Leverkusen",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f9ea23e3b6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675074/netanyahu-comunidade-internacional-apoia-mandado-do-tpi-eua-repudiam-no?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Netanyahu. Comunidade internacional apoia mandado do TPI, EUA repudiam-no",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675074/netanyahu-comunidade-internacional-apoia-mandado-do-tpi-eua-repudiam-no?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732222665000,
-         "created": 1732222665000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_652fd00cac568.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
