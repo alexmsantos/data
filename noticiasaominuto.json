@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675500/aguiar-branco-recebeu-no-parlamento-o-seu-homologo-chines-zhao-leji?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Aguiar-Branco recebeu no Parlamento o seu homólogo chinês Zhao Leji",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675500/aguiar-branco-recebeu-no-parlamento-o-seu-homologo-chines-zhao-leji?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732285155000,
+         "created": 1732285155000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66058fa2d32cc.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675522/bielorrussia-ameaca-restringir-internet-em-caso-de-protestos-contra-eleicoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bielorrússia ameaça restringir internet em caso de protestos contra eleições",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_624d3414673e5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2675343/telemoveis-da-samsung-vao-receber-grande-atualizacao-eis-os-planos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Telemóveis da Samsung vão receber grande atualização. Eis os planos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2675343/telemoveis-da-samsung-vao-receber-grande-atualizacao-eis-os-planos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732271854000,
-         "created": 1732271854000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5eb5b1246614f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
