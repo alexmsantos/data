@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2675702/tem-fome-mesmo-depois-de-comer-esta-pode-ser-a-explicacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tem fome mesmo depois de comer? Esta pode ser a explicação",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2675702/tem-fome-mesmo-depois-de-comer-esta-pode-ser-a-explicacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732316636000,
+         "created": 1732316636000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e3e62fce4cf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2675918/dois-arguidos-acusados-de-fraude-fiscal-lesaram-o-estado-em-600-mil-?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dois arguidos acusados de fraude fiscal: Lesaram o Estado em 600 mil €",
@@ -121,10 +144,10 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/desporto/2675576/sporting-amarante-quarta-eliminatoria-da-taca-arranca-com-estreia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Com a benção de Amorim e à meia dúzia. Sporting goleia rumo aos 'oitavos'",
+         "id": "https://www.noticiasaominuto.com/desporto/2675576/com-a-bencao-de-amorim-e-a-meia-duzia-sporting-goleia-rumo-aos-oitavos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Com a bênção de Amorim e à meia dúzia. Sporting goleia rumo aos 'oitavos'",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675576/sporting-amarante-quarta-eliminatoria-da-taca-arranca-com-estreia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/desporto/2675576/com-a-bencao-de-amorim-e-a-meia-duzia-sporting-goleia-rumo-aos-oitavos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65fa1012c1ef8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675794/zelensky-pede-aos-aliados-sistemas-de-defesa-contra-novo-missil-russo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Zelensky pede aos aliados sistemas de defesa contra novo míssil russo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675794/zelensky-pede-aos-aliados-sistemas-de-defesa-contra-novo-missil-russo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732300976000,
-         "created": 1732300976000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43940024.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
