@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675549/israel-e-hezbollah-travam-combates-intensos-no-sul-do-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel e Hezbollah travam combates intensos no sul do Líbano",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675549/israel-e-hezbollah-travam-combates-intensos-no-sul-do-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732286836000,
+         "created": 1732286836000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67331dd8763f8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2675547/prr-quase-5700-milhoes-pagos-aos-beneficiarios-ate-quarta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PRR: Quase 5.700 milhões pagos aos beneficiários até quarta-feira",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2675547/prr-quase-5700-milhoes-pagos-aos-beneficiarios-ate-quarta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732286726000,
+         "created": 1732286726000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56b10a41740a9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675541/selecionador-finlandes-markku-kanerva-despedido-apos-pleno-de-derrotas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Selecionador finlandês Markku Kanerva despedido após pleno de derrotas",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f2284a5f3e31.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2675324/precisa-de-atestar-combustiveis-ficam-mais-caros-na-proxima-semana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Precisa de atestar? Combustíveis ficam mais caros na próxima semana",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2675324/precisa-de-atestar-combustiveis-ficam-mais-caros-na-proxima-semana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732273624000,
-         "created": 1732273624000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d5fba6725ae4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2675367/nova-siri-da-apple-tera-capacidade-de-conversar-e-entender-contexto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nova Siri da Apple terá capacidade de conversar e entender contexto",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2675367/nova-siri-da-apple-tera-capacidade-de-conversar-e-entender-contexto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732273355000,
-         "created": 1732273355000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e16d9f6ad59.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
