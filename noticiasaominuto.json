@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675353/iniciadas-buscas-por-desaparecidos-em-incendio-numa-pensao-no-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Iniciadas buscas por desaparecidos em incêndio numa pensão no Porto",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675353/iniciadas-buscas-por-desaparecidos-em-incendio-numa-pensao-no-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732272802000,
+         "created": 1732272802000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b6c61876ebac.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2675337/psi-em-alta-com-edp-renovaveis-e-edp-a-liderarem-ganhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PSI em alta com EDP Renováveis e EDP a liderarem ganhos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f7749e51f5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2674641/no-meio-esta-a-virtude-e-os-problemas-fc-porto-com-duvidas-na-defesa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "No meio está... a dúvida. Taça é 'teste de fogo' para Otávio e Zé Pedro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2674641/no-meio-esta-a-virtude-e-os-problemas-fc-porto-com-duvidas-na-defesa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732258912000,
-         "created": 1732258912000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f2b337e74c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
