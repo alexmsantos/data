@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675850/atencao-benfica-as-monaco-despacha-equipa-sensacao-da-champions?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Atenção, Benfica: AS Monaco 'despacha' equipa sensação da Champions",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675850/atencao-benfica-as-monaco-despacha-equipa-sensacao-da-champions?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732306386000,
+         "created": 1732306386000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740e33508f64.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2675846/oe2025-aprovada-atualizacao-dos-escaloes-do-irs-em-4-6?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2025. Aprovada atualização dos escalões do IRS em 4,6%",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5df82322670e5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675691/eua-alternativa-a-gaetz-e-procuradora-com-agenda-politica-conservadora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EUA. Alternativa a Gaetz é procuradora com agenda política conservadora",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675691/eua-alternativa-a-gaetz-e-procuradora-com-agenda-politica-conservadora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732295263000,
-         "created": 1732295263000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740ba4514c26.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
