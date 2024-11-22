@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675455/alemanha-e-franca-prudentes-em-relacao-a-mandados-do-tpi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Alemanha e França prudentes em relação a mandados do TPI",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675455/alemanha-e-franca-prudentes-em-relacao-a-mandados-do-tpi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732281545000,
+         "created": 1732281545000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_621fe4b752931.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675459/inem-e-liga-dos-bombeiros-vao-assinar-novo-protocolo-de-cooperacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "INEM e Liga dos Bombeiros vão assinar novo protocolo de cooperação",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675459/inem-e-liga-dos-bombeiros-vao-assinar-novo-protocolo-de-cooperacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732281356000,
+         "created": 1732281356000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43951791.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675287/em-direto-bruno-lage-anteve-o-benfica-estrela-da-amadora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Bruno Lage antevê o Benfica-Estrela da Amadora",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67404e5bc9689.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2675290/greenvolt-sai-de-bolsa-apos-registo-da-aquisicao-potestativa-pela-kkr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Greenvolt sai de bolsa após registo da aquisição potestativa pela KKR",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2675290/greenvolt-sai-de-bolsa-apos-registo-da-aquisicao-potestativa-pela-kkr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732267704000,
-         "created": 1732267704000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_621df27ec9df3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675151/forte-tempestade-deixa-dois-mortos-no-norte-da-california?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Forte tempestade deixa dois mortos no norte da Califórnia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675151/forte-tempestade-deixa-dois-mortos-no-norte-da-california?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732267626000,
-         "created": 1732267626000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67404811bb706.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
