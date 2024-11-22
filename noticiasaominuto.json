@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2675922/os-tres-signos-que-vao-tomar-uma-decisao-importante-ate-ao-final-do-mes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Os três signos que vão tomar uma decisão importante até ao final do mês",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2675922/os-tres-signos-que-vao-tomar-uma-decisao-importante-ate-ao-final-do-mes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732315897000,
+         "created": 1732315897000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66decf132637b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675600/em-direto-sporting-e-o-primeiro-grande-a-entrar-na-quarta-ronda-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Sporting abre ronda com goleada... e vem aí o resto",
@@ -743,7 +766,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/2675871/parece-haver-uma-oposicao-que-quer-que-o-pais-ande-para-tras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pedro Duarte acusa oposição de querer \"que o país ande para trás\"",
+         "title": "RTP. Pedro Duarte acusa oposição de querer \"que o país ande para trás\"",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/pais/2675871/parece-haver-uma-oposicao-que-quer-que-o-pais-ande-para-tras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b2c381907b5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675785/paulo-fonseca-protagoniza-campanha-de-combate-a-violencia-contra-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Paulo Fonseca protagoniza campanha de combate à violência contra mulheres",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675785/paulo-fonseca-protagoniza-campanha-de-combate-a-violencia-contra-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732300576000,
-         "created": 1732300576000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740cf0e03b15.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
