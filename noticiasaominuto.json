@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675294/irao-diz-que-decisao-do-tpi-e-a-morte-politica-de-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Irão diz que decisão do TPI é a \"morte política\" de Israel",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675294/irao-diz-que-decisao-do-tpi-e-a-morte-politica-de-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732268785000,
+         "created": 1732268785000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ce154591f91e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2675306/pedro-neto-aprova-chegada-de-amorim-ao-united-como-e-obvio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pedro Neto aprova chegada de Amorim ao United: \"País pequeno, mas...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2675306/pedro-neto-aprova-chegada-de-amorim-ao-united-como-e-obvio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732268728000,
+         "created": 1732268728000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674050b32a151.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2675305/nova-teoria-procura-explicar-origem-misteriosa-de-duas-luas-de-marte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nova teoria procura explicar origem misteriosa de duas luas de Marte",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66bca3a0852ac.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675139/bruma-e-a-camisola-7-de-cristiano-ronaldo-na-selecao-e-muita-pressao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bruma e a camisola 7 de Cristiano Ronaldo: \"Na seleção é muita pressão\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675139/bruma-e-a-camisola-7-de-cristiano-ronaldo-na-selecao-e-muita-pressao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732232870000,
-         "created": 1732232870000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673fc54ef3a5a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675134/asae-psp-e-at-suspendem-atividade-de-dois-estabelecimentos-em-loures?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ASAE, PSP e AT suspendem atividade de dois estabelecimentos em Loures",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675134/asae-psp-e-at-suspendem-atividade-de-dois-estabelecimentos-em-loures?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732232789000,
-         "created": 1732232789000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a8c09ed7cd4e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
