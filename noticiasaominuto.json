@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675886/46-russos-de-kursk-regressaram-a-russia-apos-duras-negociacoes-com-kyiv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "46 russos de Kursk regressaram à Rússia após duras negociações com Kyiv",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675886/46-russos-de-kursk-regressaram-a-russia-apos-duras-negociacoes-com-kyiv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732311775000,
+         "created": 1732311775000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66bbbce77f937.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675889/as-imagens-da-estreia-de-joao-pereira-na-equipa-principal-do-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "As imagens da estreia de João Pereira na equipa principal do Sporting",
@@ -766,7 +789,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675570/paris-sg-toulouse?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[1-0] Paris SG-Toulouse: Golo anulado a Zaire-Emery",
+         "title": "[2-0] Paris SG-Toulouse: Beraldo amplia a vantagem",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2675570/paris-sg-toulouse?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43899675.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2675751/sns-aprovada-criacao-de-um-codigo-deontologico-para-tecnicos-auxiliares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "SNS. Aprovada criação de um código deontológico para técnicos auxiliares",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2675751/sns-aprovada-criacao-de-um-codigo-deontologico-para-tecnicos-auxiliares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732298837000,
-         "created": 1732298837000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_587a470c7d702.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
