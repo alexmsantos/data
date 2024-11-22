@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675900/funeraria-deixou-190-corpos-em-decomposicao-donos-declararam-se-culpados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Funerária deixou 190 corpos em decomposição. Donos declararam-se culpados",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675900/funeraria-deixou-190-corpos-em-decomposicao-donos-declararam-se-culpados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732313050000,
+         "created": 1732313050000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_654debbfa4b9b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675901/lei-do-mecenato-revista-para-apoiar-areas-subfinanciadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lei do Mecenato revista para apoiar \"áreas subfinanciadas\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675901/lei-do-mecenato-revista-para-apoiar-areas-subfinanciadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732312954000,
+         "created": 1732312954000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6668cc003c4df.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2675899/oe2025-aprovada-proposta-para-acomodar-concessao-de-garantias-a-madeira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2025. Aprovada proposta para acomodar concessão de garantias à Madeira",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740c9310a018.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675766/franca-e-reino-unido-colaboram-contra-a-putinizacao-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "França e Reino Unido colaboram contra a \"Putinização\" do mundo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675766/franca-e-reino-unido-colaboram-contra-a-putinizacao-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732299440000,
-         "created": 1732299440000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740cab22ba8b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675747/velhos-sao-os-trapos-cristiano-ronaldo-abriu-assim-a-contagem-em-riade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Velhos são os trapos'. Cristiano Ronaldo abriu assim a contagem em Riade",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675747/velhos-sao-os-trapos-cristiano-ronaldo-abriu-assim-a-contagem-em-riade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732299413000,
-         "created": 1732299413000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740ca828d7e5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
