@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675476/governo-autoriza-reforco-excecional-de-profissionais-no-sns24-para-inverno?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Governo autoriza reforço excecional de profissionais no SNS24 para inverno",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675476/governo-autoriza-reforco-excecional-de-profissionais-no-sns24-para-inverno?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732283296000,
+         "created": 1732283296000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63c92388cdcfa.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675488/costa-toma-posse-no-conselho-europeu-com-cerimonia-na-proxima-6-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Costa toma posse no Conselho Europeu com cerimónia na próxima 6.ª-feira",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f61ca690043f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675314/orgulhosos-ministra-enaltece-autoridades-apos-captura-de-fugitivo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Orgulhosos\". Ministra enaltece autoridades após captura de fugitivo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675314/orgulhosos-ministra-enaltece-autoridades-apos-captura-de-fugitivo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732269556000,
-         "created": 1732269556000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6716af1803c2a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
