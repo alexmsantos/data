@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675487/moscovitas-dizem-confiar-na-vitoria-russa-mas-muitos-preferem-nao-falar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Moscovitas dizem confiar na vitória russa mas muitos preferem não falar",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675487/moscovitas-dizem-confiar-na-vitoria-russa-mas-muitos-preferem-nao-falar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732285538000,
+         "created": 1732285538000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d562c107cac.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2675523/grupo-de-cidadaos-exige-reposicao-de-bancos-das-paragens-de-autocarro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Grupo de cidadãos exige reposição de bancos das paragens de autocarro",
@@ -250,7 +273,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62d035280ccc0.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/34052691.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67405f7f17f4d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675331/migracoesandavamos-a-falhar-isso-era-combustivel-para-extrema-direita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Migrações?\"Andávamos a falhar, isso era combustível para extrema-direita\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675331/migracoesandavamos-a-falhar-isso-era-combustivel-para-extrema-direita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732272016000,
-         "created": 1732272016000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43706551.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
