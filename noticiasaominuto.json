@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676009/apav-regista-15-mil-crimes-de-violencia-domestica-no-1-semestre-do-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "APAV regista 15 mil crimes de violência doméstica no 1.º semestre do ano",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676009/apav-regista-15-mil-crimes-de-violencia-domestica-no-1-semestre-do-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732345745000,
+         "created": 1732345745000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/21763996.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2676010/programa-de-cinema-portugues-em-lille-promove-50-anos-do-25-de-abril?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Programa de cinema português em Lille promove 50 anos do 25 de abril",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67313d22ddc95.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675859/portugal-doou-2300-vacinas-contra-a-mpox-a-rd-congo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal doou 2.300 vacinas contra a mpox à RD Congo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675859/portugal-doou-2300-vacinas-contra-a-mpox-a-rd-congo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732308623000,
-         "created": 1732308623000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d32bae41052.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
