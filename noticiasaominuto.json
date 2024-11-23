@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676151/metsola-defende-uso-de-misseis-alemaes-taurus-contra-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Metsola defende uso de mísseis alemães Taurus contra Rússia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676151/metsola-defende-uso-de-misseis-alemaes-taurus-contra-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732370709000,
+         "created": 1732370709000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61e69aca0fbf9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2676148/albuquerque-pede-a-oposicao-para-votar-orcamento-mas-admite-eleicoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Albuquerque pede à oposição para votar orçamento, mas admite eleições",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f7c7e76920.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676030/benfica-tenho-a-certeza-que-akturkoglu-quer-sair-para-um-clube-maior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Benfica? Tenho a certeza que Akturkoglu quer sair para um clube maior\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676030/benfica-tenho-a-certeza-que-akturkoglu-quer-sair-para-um-clube-maior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732349239000,
-         "created": 1732349239000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67418accab298.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
