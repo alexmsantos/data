@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676316/cop29-projeto-final-preve-300-mil-milhoes-ano-dos-paises-desenvolvidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "COP29. Projeto final prevê 300 mil milhões ano dos países desenvolvidos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676316/cop29-projeto-final-preve-300-mil-milhoes-ano-dos-paises-desenvolvidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732402166000,
+         "created": 1732402166000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67425bf7d8540.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676311/fez-se-luz-em-lisboa-iluminacoes-de-natal-ja-brilham-e-ha-video?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fez-se luz em Lisboa. Iluminações de Natal já 'brilham' (e há vídeo)",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741a98d00382.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676174/cinco-crias-de-urso-regressam-a-natureza-apos-reabilitacao-ha-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cinco crias de urso regressam à natureza após reabilitação. Há imagens",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676174/cinco-crias-de-urso-regressam-a-natureza-apos-reabilitacao-ha-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732376490000,
-         "created": 1732376490000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741f39adf7b0.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
