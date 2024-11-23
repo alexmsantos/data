@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676114/coreia-do-sul-ausente-de-homenagem-no-japao-a-vitimas-de-trabalho-forcado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Coreia do Sul ausente de homenagem no Japão a vítimas de trabalho forçado",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676114/coreia-do-sul-ausente-de-homenagem-no-japao-a-vitimas-de-trabalho-forcado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732364219000,
+         "created": 1732364219000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65d30589cf451.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676099/programa-housing-first-retirou-dois-sem-abrigo-da-rua-em-ponta-delgada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Programa 'Housing First' retirou dois sem-abrigo da rua em Ponta Delgada",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43953543.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676003/ong-pedem-a-paises-em-desenvolvimento-para-abandonar-negociacoes-na-cop29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ONG pedem a países em desenvolvimento para abandonar negociações na COP29",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676003/ong-pedem-a-paises-em-desenvolvimento-para-abandonar-negociacoes-na-cop29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732343072000,
-         "created": 1732343072000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43958627.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
