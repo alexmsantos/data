@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2676333/ps-vai-votar-contra-todas-as-autorizacoes-legislativas-no-oe2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PS vai votar contra todas as autorizações legislativas no OE2025",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2676333/ps-vai-votar-contra-todas-as-autorizacoes-legislativas-no-oe2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732405851000,
+         "created": 1732405851000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65d6403b5e589.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676330/milhares-saem-a-rua-devido-ao-fecho-de-escolas-em-valencia-apos-dana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Milhares saem à rua devido ao fecho de escolas em Valência após a DANA",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43962663.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676191/mantem-se-juntas-anta-adota-capivara-em-parque-da-colombia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Mantêm-se juntas\". Anta adota capivara em parque da Colômbia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676191/mantem-se-juntas-anta-adota-capivara-em-parque-da-colombia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732380695000,
-         "created": 1732380695000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741fd0020b79.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
