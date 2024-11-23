@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2675993/novo-centro-de-investigacao-e-torre-de-babel-com-40-nacionalidades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novo centro de investigação é \"Torre de Babel\" com 40 nacionalidades",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2675993/novo-centro-de-investigacao-e-torre-de-babel-com-40-nacionalidades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732346249000,
+         "created": 1732346249000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_624df4011657a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2675967/trair-conjuge-deixou-de-ser-crime-em-nova-iorque-com-revogacao-de-lei?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Trair cônjuge deixou de ser crime em Nova Iorque com revogação de lei",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740ef656f7ae.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2675874/processo-de-xuxas-com-oito-arguidos-condenados-a-pelo-menos-10-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Processo de 'Xuxas' com oito arguidos condenados a pelo menos 10 anos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2675874/processo-de-xuxas-com-oito-arguidos-condenados-a-pelo-menos-10-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732308837000,
-         "created": 1732308837000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59f2035518a96.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
