@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676104/madeira-premiada-como-melhor-destino-de-golfe-emergente-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Madeira premiada como \"Melhor Destino de Golfe Emergente do Mundo\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676104/madeira-premiada-como-melhor-destino-de-golfe-emergente-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732363328000,
+         "created": 1732363328000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/23872337.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676110/italia-reduz-funcionarios-nos-centros-de-migrantes-na-albania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Itália reduz funcionários nos centros de migrantes na Albânia",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43908748.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675980/quase-dois-mil-mineiros-informais-manifestam-se-pelo-terceiro-dia-no-peru?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quase dois mil mineiros informais manifestam-se pelo terceiro dia no Peru",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675980/quase-dois-mil-mineiros-informais-manifestam-se-pelo-terceiro-dia-no-peru?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732342142000,
-         "created": 1732342142000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/38683165.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
