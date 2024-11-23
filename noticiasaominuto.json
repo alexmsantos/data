@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676221/goncalo-guedes-trama-marco-silva-e-ja-marca-na-premier-league?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Gonçalo Guedes 'trama' Marco Silva e já marca na Premier League",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676221/goncalo-guedes-trama-marco-silva-e-ja-marca-na-premier-league?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732383546000,
+         "created": 1732383546000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674211e2c9565.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676220/bert-cinco-criancas-salvas-apos-deslizamento-de-terra-no-pais-de-gales?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bert. Cinco crianças salvas após deslizamento de terras no País de Gales",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741b87719a1a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676056/democracia-tem-mais-problemas-que-os-causados-pela-ia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Democracia \"tem mais problemas\" que os causados pela IA",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676056/democracia-tem-mais-problemas-que-os-causados-pela-ia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732360154000,
-         "created": 1732360154000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64b7cb9c91da5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
