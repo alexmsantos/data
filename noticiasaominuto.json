@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676236/milhares-de-roxo-nas-ruas-de-paris-contra-a-violencia-contra-as-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Milhares de roxo nas ruas de Paris contra a violência contra as mulheres",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676236/milhares-de-roxo-nas-ruas-de-paris-contra-a-violencia-contra-as-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732386699000,
+         "created": 1732386699000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67421f9083331.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2676239/ventura-diz-que-imigracao-cresceu-95-em-portugal-nos-dois-ultimos-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ventura diz que imigração cresceu 95% em Portugal nos dois últimos anos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_650dfef727e4f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2676108/ott-tanak-chega-ao-ultimo-dia-do-rali-do-japao-na-lideranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ott Tänak chega ao último dia do Rali do Japão na liderança",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2676108/ott-tanak-chega-ao-ultimo-dia-do-rali-do-japao-na-lideranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732363465000,
-         "created": 1732363465000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741c482ade94.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
