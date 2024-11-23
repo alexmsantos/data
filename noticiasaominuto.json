@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676083/senador-luso-americano-alerta-portugueses-para-riscos-de-deportacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Senador luso-americano alerta portugueses para riscos de deportação",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676083/senador-luso-americano-alerta-portugueses-para-riscos-de-deportacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732358595000,
+         "created": 1732358595000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43906063.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676082/jovem-ingles-auxiliado-apos-embarcacao-encalhar-na-ilha-deserta-em-faro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jovem inglês auxiliado durante a madrugada na ilha deserta em Faro",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674111ae9e753.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675925/orgulho-francisco-conceicao-reage-a-nomeacao-para-dragao-de-ouro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Orgulho\". Francisco Conceição reage à nomeação para Dragão de Ouro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675925/orgulho-francisco-conceicao-reage-a-nomeacao-para-dragao-de-ouro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732317541000,
-         "created": 1732317541000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_671f4c37da9fa.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
