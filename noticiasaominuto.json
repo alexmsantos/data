@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676112/inaugurado-quartel-provisorio-dos-bombeiros-do-beato-e-penha-de-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Inaugurado quartel provisório dos Bombeiros do Beato e Penha de França",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676112/inaugurado-quartel-provisorio-dos-bombeiros-do-beato-e-penha-de-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732369579000,
+         "created": 1732369579000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d0148c47878.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676089/pelo-menos-dez-pessoas-morreram-em-mesquita-no-afeganistao-apos-ataque?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos dez pessoas morreram em mesquita no Afeganistão após ataque",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676089/pelo-menos-dez-pessoas-morreram-em-mesquita-no-afeganistao-apos-ataque?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732369417000,
+         "created": 1732369417000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_618b8df54d2be.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2676141/jessica-athayde-e-diogo-amaral-casam-se-pelo-civil-o-look-da-atriz?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jessica Athayde e Diogo Amaral casam-se pelo civil. O look da atriz",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f54cf201d0.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675971/juiz-rejeita-iniciativa-para-fechar-fabrica-de-criptomoedas-nos-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Juiz rejeita iniciativa para fechar fábrica de criptomoedas nos EUA",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675971/juiz-rejeita-iniciativa-para-fechar-fabrica-de-criptomoedas-nos-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732346879000,
-         "created": 1732346879000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674184053ce7b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2676018/katia-aveiro-poso-com-amigos-e-familia-em-paris?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Katia Aveiro posa com amigos e família em Paris",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/fama/2676018/katia-aveiro-poso-com-amigos-e-familia-em-paris?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732346875000,
-         "created": 1732346875000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674183c1c94fc.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
