@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2676291/cne-identifica-irregularidades-que-anularam-votos-postais-de-emigrantes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "CNE identifica irregularidades que anularam votos postais de emigrantes",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2676291/cne-identifica-irregularidades-que-anularam-votos-postais-de-emigrantes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732396260000,
+         "created": 1732396260000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/42272889.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676279/encontrada-2-vitima-mortal-nos-escombros-de-pensao-que-ardeu-no-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Encontrada 2.ª vítima mortal nos escombros de pensão que ardeu no Porto",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ce91019e0b2b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676145/peru-diz-que-nao-reconhecera-maduro-como-presidente-eleito-da-venezuela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Peru diz que não reconhecerá Maduro como presidente eleito da Venezuela",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676145/peru-diz-que-nao-reconhecera-maduro-como-presidente-eleito-da-venezuela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732370261000,
-         "created": 1732370261000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6721681318426.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
