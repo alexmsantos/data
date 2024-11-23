@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676229/depressao-bert-ja-se-faz-sentir-no-reino-unido-e-na-irlanda-as-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Depressão Bert já se faz sentir no Reino Unido e na Irlanda. As imagens",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676229/depressao-bert-ja-se-faz-sentir-no-reino-unido-e-na-irlanda-as-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732385464000,
+         "created": 1732385464000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67421950b99ec.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676230/bayern-coloca-golaco-de-kane-ao-nivel-do-simbolo-da-bundesliga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bayern coloca golaço de Kane ao nível... do logotipo da Bundesliga",
@@ -66,7 +89,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742183745932.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43961118.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_660d621bc1485.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676063/quem-trump-ja-escolheu-para-cargos-importantes-conheca-os-postos-chave?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quem é que Trump já escolheu para 'cargos-chave'? Conheça-os",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676063/quem-trump-ja-escolheu-para-cargos-importantes-conheca-os-postos-chave?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732361934000,
-         "created": 1732361934000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67337b3541374.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
