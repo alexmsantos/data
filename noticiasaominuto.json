@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676022/al-nassr-de-cr7-foi-derrotado-em-casa-e-pioli-ja-encontrou-culpado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Al Nassr de CR7 foi derrotado em casa e Pioli já encontrou 'culpado'",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676022/al-nassr-de-cr7-foi-derrotado-em-casa-e-pioli-ja-encontrou-culpado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732347705000,
+         "created": 1732347705000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674185a47dd6a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2676020/luis-aleluia-continua-a-ser-recordado-com-carinho-pela-mulher?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Luís Aleluia continua a ser recordado com carinho pela mulher",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65d85cb0aeb7a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675878/sem-palhinha-bayern-socorre-se-de-arma-letal-para-vencer-augsburgo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sem Palhinha, Bayern socorre-se de arma 'letal' para vencer Augsburgo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675878/sem-palhinha-bayern-socorre-se-de-arma-letal-para-vencer-augsburgo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732310831000,
-         "created": 1732310831000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740f37fafa67.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
