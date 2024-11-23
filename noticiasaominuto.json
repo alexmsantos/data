@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2675967/trair-conjuge-deixou-de-ser-crime-em-nova-iorque-com-revogacao-de-lei?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trair cônjuge deixou de ser crime em Nova Iorque com revogação de lei",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2675967/trair-conjuge-deixou-de-ser-crime-em-nova-iorque-com-revogacao-de-lei?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732346074000,
+         "created": 1732346074000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_576a5227e5a41.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676009/apav-regista-15-mil-crimes-de-violencia-domestica-no-1-semestre-do-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "APAV regista 15 mil crimes de violência doméstica no 1.º semestre do ano",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_59f2035518a96.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2675852/equipa-de-trump-sauda-vitoria-decisiva-apos-adiamento-da-sentenca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Equipa de Trump saúda \"vitória decisiva\" após adiamento da sentença",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2675852/equipa-de-trump-sauda-vitoria-decisiva-apos-adiamento-da-sentenca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732308695000,
-         "created": 1732308695000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67313d22ddc95.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
