@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2676050/portugueses-na-fabrica-da-volkswagen-em-wolfsburgo-preparam-plano-b?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugueses na fábrica da Volkswagen em Wolfsburgo preparam Plano B",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2676050/portugueses-na-fabrica-da-volkswagen-em-wolfsburgo-preparam-plano-b?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732359060000,
+         "created": 1732359060000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ef9cf5b3c45b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676048/pelo-menos-19-mortos-na-faixa-de-gaza-em-ataques-israelitas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pelo menos 19 mortos na Faixa de Gaza em ataques israelitas",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674114225cb15.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2675941/ricardo-esgaio-voltou-a-marcar-pelo-sporting-e-sempre-importante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ricardo Esgaio voltou a marcar pelo Sporting: \"É sempre importante...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2675941/ricardo-esgaio-voltou-a-marcar-pelo-sporting-e-sempre-importante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732318136000,
-         "created": 1732318136000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674112cc93a22.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
