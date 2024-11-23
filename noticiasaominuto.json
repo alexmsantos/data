@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676320/miguel-lopes-hoje-nao-tivemos-a-equipa-coesa-e-unida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Miguel Lopes: \"Hoje não tivemos a equipa coesa e unida\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676320/miguel-lopes-hoje-nao-tivemos-a-equipa-coesa-e-unida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732402664000,
+         "created": 1732402664000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674259e8b9642.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676319/di-maria-marcou-hattrick-estou-muito-feliz-o-futuro-logo-se-ve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Di María marcou hattrick: \"Estou muito feliz, o futuro logo se vê\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676319/di-maria-marcou-hattrick-estou-muito-feliz-o-futuro-logo-se-ve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732402339000,
+         "created": 1732402339000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674259d625d53.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676316/cop29-projeto-final-preve-300-mil-milhoes-ano-dos-paises-desenvolvidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "COP29. Projeto final prevê 300 mil milhões ano dos países desenvolvidos",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741fa9edaffa.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676180/ex-vitoria-sc-marca-e-inter-recupera-trono-provisorio-com-goleada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ex-Vitória SC marca e Inter recupera trono provisório com goleada",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676180/ex-vitoria-sc-marca-e-inter-recupera-trono-provisorio-com-goleada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732377085000,
-         "created": 1732377085000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741f7599dbd1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2676073/jay-leno-visto-em-los-angeles-com-o-rosto-magoado-e-o-pulso-fraturado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jay Leno visto em Los Angeles com o rosto magoado e o pulso fraturado",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/fama/2676073/jay-leno-visto-em-los-angeles-com-o-rosto-magoado-e-o-pulso-fraturado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732376995000,
-         "created": 1732376995000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741a98d00382.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
