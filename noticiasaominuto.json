@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676175/ac-milan-juventus-milao-vai-ferver-com-duelo-entre-portugueses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AC Milan-Juventus: Milão vai 'ferver' com duelo entre portugueses",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676175/ac-milan-juventus-milao-vai-ferver-com-duelo-entre-portugueses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732377445000,
+         "created": 1732377445000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65182d494a216.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676172/eua-reiteram-compromisso-de-uma-solucao-diplomatica-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EUA reiteram compromisso de uma solução diplomática no Líbano",
@@ -582,7 +605,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2675600/em-direto-sporting-e-o-primeiro-grande-a-entrar-na-quarta-ronda-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Rio Ave em apuros no Ribatejo pode cair da Taça",
+         "title": "EM DIRETO: Rio Ave evita tropeção com dois golos em seis minutos",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2675600/em-direto-sporting-e-o-primeiro-grande-a-entrar-na-quarta-ronda-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/40430357.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2676069/verstappen-volta-a-bater-norris-em-las-vegas-em-dia-de-pole-de-russell?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Verstappen volta a bater Norris em Las Vegas em dia de pole de Russell",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2676069/verstappen-volta-a-bater-norris-em-las-vegas-em-dia-de-pole-de-russell?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732355488000,
-         "created": 1732355488000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43960437.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
