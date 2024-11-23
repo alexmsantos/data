@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676314/morreu-juan-arias-jornalista-e-escritor-espanhol-aos-92-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Morreu Juan Arias, jornalista e escritor espanhol, aos 92 anos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676314/morreu-juan-arias-jornalista-e-escritor-espanhol-aos-92-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732403932000,
+         "created": 1732403932000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_52b13f7f2ade8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676325/lage-fala-de-arthur-cabral-um-bom-tempo-comigo-no-meu-gabinete?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lage fala de Arthur Cabral: \"Um bom tempo comigo no meu gabinete...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676325/lage-fala-de-arthur-cabral-um-bom-tempo-comigo-no-meu-gabinete?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732403698000,
+         "created": 1732403698000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67425a1eb0e60.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676324/arthur-cabral-emocionado-apos-bis-os-meus-companheiros-levantaram-me?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Arthur Cabral emocionado após bis: \"Os meus companheiros levantaram-me\"",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ec609a21668.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676172/eua-reiteram-compromisso-de-uma-solucao-diplomatica-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EUA reiteram compromisso de uma solução diplomática no Líbano",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676172/eua-reiteram-compromisso-de-uma-solucao-diplomatica-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732377345000,
-         "created": 1732377345000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65f9ddb3e6dce.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676185/sao-joao-de-ver-vence-lusitania-por-2-0-e-esta-nos-oitavos-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "São João de Ver vence Lusitânia por 2-0 e está nos 'oitavos' da Taça",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676185/sao-joao-de-ver-vence-lusitania-por-2-0-e-esta-nos-oitavos-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732377292000,
-         "created": 1732377292000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741face524b5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
