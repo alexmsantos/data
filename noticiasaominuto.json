@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2676026/uniao-europeia-apoia-aumento-do-financiamento-dos-paises-mais-pobres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "União Europeia apoia aumento do financiamento dos países mais pobres",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2676026/uniao-europeia-apoia-aumento-do-financiamento-dos-paises-mais-pobres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732352778000,
+         "created": 1732352778000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67419aeedd8bb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676041/po-e-destruicao-as-imagens-do-ataque-israelita-que-atingiu-beirute?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Pó e destruição\". As imagens do ataque israelita que atingiu Beirute",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a151c5febce4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2675704/apimprensa-pede-rapidez-nos-incentivos-do-estado-a-comunicacao-social?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "APImprensa pede rapidez nos incentivos do Estado à comunicação social",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2675704/apimprensa-pede-rapidez-nos-incentivos-do-estado-a-comunicacao-social?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732313726000,
-         "created": 1732313726000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5899ad5e88f16.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
