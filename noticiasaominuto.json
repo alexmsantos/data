@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676284/ministra-da-saude-promete-revisao-dos-estatutos-da-ordem-dos-medicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ministra da Saúde promete revisão dos estatutos da Ordem dos Médicos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676284/ministra-da-saude-promete-revisao-dos-estatutos-da-ordem-dos-medicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732395929000,
+         "created": 1732395929000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43963419.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676286/quem-ganhou-foram-os-socios-este-e-o-adn-do-fc-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Quem ganhou foram os sócios. Este é o ADN do FC Porto\"",
@@ -53,7 +76,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676283/gouveia-e-melo-devera-anunciar-candidatura-as-presidenciais-em-marco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Gouveia e Melo deverá anunciar candidatura às presidenciais em março",
+         "title": "Presidenciais? Gouveia e Melo deve anunciar candidatura em março",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/pais/2676283/gouveia-e-melo-devera-anunciar-candidatura-as-presidenciais-em-marco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -76,7 +99,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676169/benfica-estrela-luz-recebe-um-dos-jogos-de-cartaz-de-nova-ronda-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[2-0] Benfica-Estrela: O que é isto, Di María? Golaço na hora do bis",
+         "title": "[3-0] Benfica-Estrela: Aí está o hattrick do imparável Di María",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2676169/benfica-estrela-luz-recebe-um-dos-jogos-de-cartaz-de-nova-ronda-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -89,7 +112,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64fa06c8b6619.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67424367f33aa.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f079f7e95837.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2676143/pcpacores-diz-que-orcamento-regional-para-2025-esquece-o-essencial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PCP/Açores diz que Orçamento Regional para 2025 \"esquece o essencial\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2676143/pcpacores-diz-que-orcamento-regional-para-2025-esquece-o-essencial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732370142000,
-         "created": 1732370142000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f8dd782cda64.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
