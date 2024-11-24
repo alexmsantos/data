@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676345/paises-pobres-resignados-a-acordo-financeiro-dececionante-na-cop29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Países pobres resignados a acordo financeiro dececionante na COP29",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676345/paises-pobres-resignados-a-acordo-financeiro-dececionante-na-cop29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732430904000,
+         "created": 1732430904000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742cc28049dc.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676383/por-ca-angel-na-terra-e-vitor-bruno-deixa-aviso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Por cá: \"Angel na terra\" e Vítor Bruno deixa aviso",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742158a6ac37.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676221/goncalo-guedes-trama-marco-silva-e-ja-marca-na-premier-league?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Gonçalo Guedes 'trama' Marco Silva e já marca na Premier League",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676221/goncalo-guedes-trama-marco-silva-e-ja-marca-na-premier-league?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732383546000,
-         "created": 1732383546000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674211e2c9565.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
