@@ -1,10 +1,102 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676341/trump-escolhe-para-a-agricultura-uma-mulher-que-define-como-patriota-leal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trump escolhe para a Agricultura uma mulher que define como \"patriota leal\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676341/trump-escolhe-para-a-agricultura-uma-mulher-que-define-como-patriota-leal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732430339000,
+         "created": 1732430339000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742c9d6be2e8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676379/greenpeace-dececionada-com-acordo-sobre-financiamento-climatico-na-cop29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Greenpeace dececionada com acordo sobre financiamento climático na COP29",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676379/greenpeace-dececionada-com-acordo-sobre-financiamento-climatico-na-cop29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732430331000,
+         "created": 1732430331000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43964183.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676351/palmeiras-aproveita-deslize-do-botafogo-e-deixa-brasileirao-ao-rubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Palmeiras aproveita deslize do Botafogo e deixa Brasileirão ao rubro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676351/palmeiras-aproveita-deslize-do-botafogo-e-deixa-brasileirao-ao-rubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732430177000,
+         "created": 1732430177000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43432751.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2676358/thierry-neuville-campeao-do-mundo-de-ralis-pela-primeira-vez?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Thierry Neuville campeão do mundo de ralis pela primeira vez",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2676358/thierry-neuville-campeao-do-mundo-de-ralis-pela-primeira-vez?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732430135000,
+         "created": 1732430135000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43525108.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2676366/filme-chines-sobre-a-covid-19-vence-premio-de-melhor-filme-de-taiwan?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Filme chinês sobre a Covid-19 vence prémio de melhor filme de Taiwan",
@@ -2206,98 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674210dd47dda.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676218/joao-pedro-sousa-soma-quarto-tropecao-seguido-e-fica-em-apuros-nos-eau?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "João Pedro Sousa soma quarto 'tropeção' seguido e fica em apuros nos EAU",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676218/joao-pedro-sousa-soma-quarto-tropecao-seguido-e-fica-em-apuros-nos-eau?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732382780000,
-         "created": 1732382780000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61dca365c8387.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2676166/irmao-do-namorado-de-taylor-swift-vai-ser-pai-pela-4-vez-cantora-reage?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Irmão do namorado de Taylor Swift vai ser pai pela 4.ª vez. Cantora reage",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/fama/2676166/irmao-do-namorado-de-taylor-swift-vai-ser-pai-pela-4-vez-cantora-reage?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732381697000,
-         "created": 1732381697000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e1ae9c5bd38.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2672525/luxo-e-mais-luxo-os-automoveis-do-homem-que-derrotou-mike-tyson?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Luxo e mais luxo. Os automóveis do homem que derrotou Mike Tyson",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2672525/luxo-e-mais-luxo-os-automoveis-do-homem-que-derrotou-mike-tyson?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732381684000,
-         "created": 1732381684000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673858376bbb5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2676199/novo-regime-juridico-da-ciberseguranca-em-consulta-ate-12-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Novo regime jurídico da Cibersegurança em consulta até 12 de dezembro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2676199/novo-regime-juridico-da-ciberseguranca-em-consulta-ate-12-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732381532000,
-         "created": 1732381532000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_628ea02a65ca8.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
