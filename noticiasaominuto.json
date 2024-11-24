@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676432/vice-das-filipinas-quer-matar-presidente-questao-de-maior-seriedade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "'Vice' das Filipinas quer matar presidente? Questão de \"maior seriedade\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676432/vice-das-filipinas-quer-matar-presidente-questao-de-maior-seriedade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732442314000,
+         "created": 1732442314000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742f8b2c49b1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2676431/thierry-neuville-quebrou-o-enguico-aos-36-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Thierry Neuville quebrou o enguiço aos 36 anos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742406c18257.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676277/eintracht-frankfurt-sobe-a-segundo-na-alemanha-com-gotze-em-destaque?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Eintracht Frankfurt sobe a segundo na Alemanha com Gotze em destaque",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676277/eintracht-frankfurt-sobe-a-segundo-na-alemanha-com-gotze-em-destaque?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732394105000,
-         "created": 1732394105000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67423c42530fd.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
