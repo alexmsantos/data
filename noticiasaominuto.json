@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2676517/sujou-as-maos-com-tinta-ha-uma-forma-simples-de-resolver-o-problema?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sujou as mãos com tinta? Há uma forma simples de resolver o problema",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2676517/sujou-as-maos-com-tinta-ha-uma-forma-simples-de-resolver-o-problema?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732469402000,
+         "created": 1732469402000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61248e6da7358.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676581/fc-porto-derrubou-benfica-no-classico-com-euforia-total-nos-festejos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "FC Porto 'derrubou' Benfica no Clássico com euforia total nos festejos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676581/fc-porto-derrubou-benfica-no-classico-com-euforia-total-nos-festejos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732469299000,
+         "created": 1732469299000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674360f1d8c6a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676576/registadas-303-ocorrencias-ate-as-16h00-devido-ao-vento-forte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Registadas 303 ocorrências até às 16h00 devido ao vento forte",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_543901909bcb6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676451/russia-avisa-seul-matar-russos-destruira-relacoes-entre-paises?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia avisa Seul: \"Matar russos destruirá relações\" entre países",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676451/russia-avisa-seul-matar-russos-destruira-relacoes-entre-paises?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732444783000,
-         "created": 1732444783000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43958994.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676450/estrela-da-nba-imita-celebracao-de-gyokeres-sporting-ja-reagiu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estrela da NBA imitou celebração de Gyokeres? Sporting já reagiu",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676450/estrela-da-nba-imita-celebracao-de-gyokeres-sporting-ja-reagiu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732444291000,
-         "created": 1732444291000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742fec69f069.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
