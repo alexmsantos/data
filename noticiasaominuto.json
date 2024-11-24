@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676455/queima-namorada-com-gasolina-na-galiza-pensei-nisso-toda-a-noite?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Queima namorada com gasolina na Galiza. \"Pensei nisso toda a noite\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676455/queima-namorada-com-gasolina-na-galiza-pensei-nisso-toda-a-noite?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732446285000,
+         "created": 1732446285000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_603772426994a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2676460/andy-murray-de-coracao-partida-apos-morte-de-amigo-de-quatro-patas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Andy Murray de coração partido após morte de amigo de quatro patas",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43963416.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676302/lewandowski-volta-a-marcar-mas-e-o-passe-de-raphinha-que-da-que-falar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lewandowski volta a marcar, mas é o passe de Raphinha que dá que falar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676302/lewandowski-volta-a-marcar-mas-e-o-passe-de-raphinha-que-da-que-falar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732398140000,
-         "created": 1732398140000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67424be4f1141.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
