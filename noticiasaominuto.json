@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676472/onu-defendeser-importante-evitar-que-a-siria-seja-arrastada-para-conflito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "ONU defende ser importante evitar que a Síria seja arrastada para conflito",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676472/onu-defendeser-importante-evitar-que-a-siria-seja-arrastada-para-conflito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732447878000,
+         "created": 1732447878000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67430e889b0dd.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676469/burger-king-portugal-condenado-por-humilhar-funcionario-incompetente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Burger King Portugal condenado por humilhar funcionário. \"Incompetente\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67425bf7d8540.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676311/fez-se-luz-em-lisboa-iluminacoes-de-natal-ja-brilham-e-ha-video?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fez-se luz em Lisboa. Iluminações de Natal já 'brilham' (e há vídeo)",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676311/fez-se-luz-em-lisboa-iluminacoes-de-natal-ja-brilham-e-ha-video?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732401598000,
-         "created": 1732401598000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67425884c6708.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
