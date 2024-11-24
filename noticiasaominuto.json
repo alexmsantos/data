@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676501/pelo-menos-13-mortos-em-ataque-paramilitar-a-campo-de-deslocados-no-sudao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos 13 mortos em ataque paramilitar a campo de deslocados no Sudão",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676501/pelo-menos-13-mortos-em-ataque-paramilitar-a-campo-de-deslocados-no-sudao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732453746000,
+         "created": 1732453746000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_654b4306bb7ac.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676499/real-madrid-ja-escolheu-sucessor-de-ancelotti-e-nao-e-xabi-alonso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Real Madrid já escolheu sucessor de Ancelotti (e não é Xabi Alonso)",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676499/real-madrid-ja-escolheu-sucessor-de-ancelotti-e-nao-e-xabi-alonso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732453564000,
+         "created": 1732453564000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674321b4ae422.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676500/governo-congratula-se-com-acordo-da-cop29-mas-queria-mais-ambicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo congratula-se com acordo da COP29, mas queria \"mais ambição\"",
@@ -16,7 +62,7 @@
          },
          "published": 1732453513000,
          "created": 1732453513000,
-         "category": "País",
+         "category": "Economia",
          "content": "undefined",
          "enclosures": [
             {
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742c9d6be2e8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676379/greenpeace-dececionada-com-acordo-sobre-financiamento-climatico-na-cop29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Greenpeace dececionada com acordo sobre financiamento climático na COP29",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676379/greenpeace-dececionada-com-acordo-sobre-financiamento-climatico-na-cop29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732430331000,
-         "created": 1732430331000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43964183.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676351/palmeiras-aproveita-deslize-do-botafogo-e-deixa-brasileirao-ao-rubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Palmeiras aproveita deslize do Botafogo e deixa Brasileirão ao rubro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676351/palmeiras-aproveita-deslize-do-botafogo-e-deixa-brasileirao-ao-rubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732430177000,
-         "created": 1732430177000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43432751.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
