@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676695/milhares-manifestam-se-na-georgia-para-impedir-sessao-da-nova-legislatura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Milhares manifestam-se na Geórgia para impedir sessão da nova legislatura",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676695/milhares-manifestam-se-na-georgia-para-impedir-sessao-da-nova-legislatura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732489423000,
+         "created": 1732489423000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43968373.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676693/reeleita-presidente-do-palmeiras-leila-quer-manter-abel-ferreira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Reeleita presidente do Palmeiras, Leila quer manter Abel Ferreira",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67434a07d2b2a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676546/muita-animacao-na-preparacao-do-sporting-para-defrontar-o-arsenal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Muita animação na preparação do Sporting para defrontar o Arsenal",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676546/muita-animacao-na-preparacao-do-sporting-para-defrontar-o-arsenal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732464530000,
-         "created": 1732464530000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67434e9ed0fc1.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
