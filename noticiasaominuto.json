@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2676366/filme-chines-sobre-a-covid-19-vence-premio-de-melhor-filme-de-taiwan?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Filme chinês sobre a Covid-19 vence prémio de melhor filme de Taiwan",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2676366/filme-chines-sobre-a-covid-19-vence-premio-de-melhor-filme-de-taiwan?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732429789000,
+         "created": 1732429789000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/42873088.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676364/um-morto-em-tiroteio-perto-da-embaixada-de-israel-na-jordania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Um morto em tiroteio perto da embaixada de Israel na Jordânia",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_628ea02a65ca8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676211/abandona-carro-com-mais-de-135-quilos-de-haxixe-apos-fugir-da-gnr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Abandona carro com mais de 135 quilos de haxixe após fugir da GNR",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676211/abandona-carro-com-mais-de-135-quilos-de-haxixe-apos-fugir-da-gnr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732381430000,
-         "created": 1732381430000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67420a3dae26e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
