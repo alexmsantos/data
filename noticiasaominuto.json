@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676507/irao-vai-dialogar-com-alemanha-franca-e-reino-unido-na-sexta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Irão vai dialogar com Alemanha, França e Reino Unido na sexta-feira",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676507/irao-vai-dialogar-com-alemanha-franca-e-reino-unido-na-sexta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732455142000,
+         "created": 1732455142000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_60e2ad61420a8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676509/fc-porto-opera-reviravolta-no-classico-e-rouba-lideranca-ao-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "FC Porto opera reviravolta no Clássico e 'rouba' liderança ao Benfica",
@@ -283,7 +306,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676495/zelensky-pede-mais-sistemas-de-defesa-antiaerea?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Zelensky pede mais sistemas de defesa antiaérea",
+         "title": "Zelensky critica Rússia e diz que Ucrânia \"não é um campo de testes\"",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/mundo/2676495/zelensky-pede-mais-sistemas-de-defesa-antiaerea?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742cce5d0cb1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676382/votacao-para-eleicoes-presidenciais-arranca-na-romenia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Votação para eleições presidenciais arranca na Roménia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676382/votacao-para-eleicoes-presidenciais-arranca-na-romenia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732431003000,
-         "created": 1732431003000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43952357.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
