@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2676460/andy-murray-de-coracao-partida-apos-morte-de-amigo-de-quatro-patas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Andy Murray de coração partido após morte de amigo de quatro patas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/fama/2676460/andy-murray-de-coracao-partida-apos-morte-de-amigo-de-quatro-patas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732446036000,
+         "created": 1732446036000,
+         "category": "Fama",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_669f5d28cbed1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676454/oposicao-em-taiwan-reivindica-raizes-chinesas-durante-congresso-nacional?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oposição em Taiwan reivindica raízes chinesas durante congresso nacional",
@@ -135,7 +158,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6722c67d0c291.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43958994.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67424be4f1141.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676299/raphinha-bailou-e-o-barcelona-inaugurou-o-marcador-neste-lance?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Raphinha 'bailou' e o Barcelona inaugurou o marcador neste lance",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676299/raphinha-bailou-e-o-barcelona-inaugurou-o-marcador-neste-lance?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732397793000,
-         "created": 1732397793000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67424a999b6fb.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
