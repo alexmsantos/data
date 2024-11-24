@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2676490/modelo-processa-kanye-west-por-alegada-agressao-em-videoclipe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Modelo processa Kanye West por alegada agressão em videoclipe",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/fama/2676490/modelo-processa-kanye-west-por-alegada-agressao-em-videoclipe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732450640000,
+         "created": 1732450640000,
+         "category": "Fama",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f5f99ab19970.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676487/anafre-aprova-plano-de-atividades-e-orcamento-para-2025-por-unanimidade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Anafre aprova Plano de Atividades e Orçamento para 2025 por unanimidade",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/41022792.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676332/zelensky-favoravel-a-reforma-da-estrutura-militar-para-reduzir-burocracia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Zelensky favorável a reforma da estrutura militar para \"reduzir burocracia\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676332/zelensky-favoravel-a-reforma-da-estrutura-militar-para-reduzir-burocracia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732406183000,
-         "created": 1732406183000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ed68880871b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
