@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2676447/soares-foi-um-grande-vencedor-mas-recusaria-sessao-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Soares foi \"um grande vencedor\", mas recusaria sessão do 25 de Novembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2676447/soares-foi-um-grande-vencedor-mas-recusaria-sessao-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732444264000,
+         "created": 1732444264000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_587149859007d.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676446/pcp-ficou-isolado-no-rescaldo-das-horas-dramaticas-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PCP ficou isolado no rescaldo das \"horas dramáticas\" do 25 de Novembro",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742461749ecc.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676289/casa-pia-encontra-as-chaves-do-apuramento-e-esta-nos-oitavos-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Casa Pia encontra as 'Chaves' do apuramento e está nos 'oitavos' da Taça",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676289/casa-pia-encontra-as-chaves-do-apuramento-e-esta-nos-oitavos-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732396374000,
-         "created": 1732396374000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742443be1fe0.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
