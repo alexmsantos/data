@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2676506/manuel-luis-goucha-e-a-sugestao-de-bolo-de-frutos-secos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Manuel Luís Goucha e a sugestão de bolo de frutos secos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/fama/2676506/manuel-luis-goucha-e-a-sugestao-de-bolo-de-frutos-secos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732458571000,
+         "created": 1732458571000,
+         "category": "Fama",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743298f86f17.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676519/a-maldade-de-joao-felix-que-deixou-os-adeptos-do-chelsea-em-delirio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "João Félix fez esta 'maldade' no Leicester-Chelsea e acabou 'varrido'",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742d50d83869.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2676391/russel-vence-gp-de-las-vegas-verstappen-sagra-se-tetracampeao-mundial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Russel vence GP de Las Vegas. Verstappen sagra-se tetracampeão mundial",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2676391/russel-vence-gp-de-las-vegas-verstappen-sagra-se-tetracampeao-mundial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732433160000,
-         "created": 1732433160000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742da7e10c0e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
