@@ -1,26 +1,118 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/auto/2676431/thierry-neuville-quebrou-o-enguico-aos-36-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Thierry Neuville quebrou o enguiço aos 36 anos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2676431/thierry-neuville-quebrou-o-enguico-aos-36-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732441976000,
+         "created": 1732441976000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742f75e90cf6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2676435/tenho-tropecado-em-cartas-e-acabo-me-sempre-de-tanto-chorar-de-saudades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Tenho tropeçado em cartas e acabo-me sempre de tanto chorar de saudades\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/fama/2676435/tenho-tropecado-em-cartas-e-acabo-me-sempre-de-tanto-chorar-de-saudades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732441915000,
+         "created": 1732441915000,
+         "category": "Fama",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6262922e06290.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676438/nova-era-presidente-da-comissao-europeia-sauda-acordo-de-baku?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Nova era\". Presidente da Comissão Europeia saúda acordo de Baku",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676438/nova-era-presidente-da-comissao-europeia-sauda-acordo-de-baku?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732441836000,
+         "created": 1732441836000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742f6f0208c3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676437/acidente-em-menorca-mata-familia-de-seis-quatro-menores-entre-as-vitimas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Acidente em Menorca mata família de seis. Quatro menores entre as vítimas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676437/acidente-em-menorca-mata-familia-de-seis-quatro-menores-entre-as-vitimas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732441727000,
+         "created": 1732441727000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_57987c416241f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/pais/2676433/encontrada-2-vitima-mortal-nos-escombros-de-pensao-que-ardeu-no-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Encontrada 2.ª vítima mortal nos escombros de pensão que ardeu no Porto",
+         "title": "Encontrada 3.ª vítima mortal nos escombros de pensão que ardeu no Porto",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/pais/2676433/encontrada-2-vitima-mortal-nos-escombros-de-pensao-que-ardeu-no-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
-         "published": 1732440719000,
-         "created": 1732440719000,
+         "published": 1732440833000,
+         "created": 1732440833000,
          "category": "País",
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64dbb154044e4.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2206,98 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67423c42530fd.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676275/arbitro-e-a-decisao-polemica-no-vitoria-leiria-todos-tinham-decisao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Árbitro e a decisão polémica no Vitória-Leiria: \"Todos tinham decisão...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676275/arbitro-e-a-decisao-polemica-no-vitoria-leiria-todos-tinham-decisao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732393984000,
-         "created": 1732393984000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67423bc774050.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676272/feirantes-portugueses-detidos-em-navarra-escravizaram-homem-por-17-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Feirantes portugueses detidos em Navarra. Escravizaram homem por 17 anos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676272/feirantes-portugueses-detidos-em-navarra-escravizaram-homem-por-17-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732393801000,
-         "created": 1732393801000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_624c7495be1d8.jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676273/sporting-regressa-aos-triunfos-e-vence-pela-margem-minima-em-tomar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sporting regressa aos triunfos e vence pela margem mínima em Tomar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676273/sporting-regressa-aos-triunfos-e-vence-pela-margem-minima-em-tomar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732393498000,
-         "created": 1732393498000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67423a1a50eff.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676270/bruma-faz-surf-no-mar-em-matosinhos-e-sp-braga-garante-oitavos-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bruma faz surf no mar em Matosinhos e Sp. Braga garante 'oitavos' da Taça",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676270/bruma-faz-surf-no-mar-em-matosinhos-e-sp-braga-garante-oitavos-da-taca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732393223000,
-         "created": 1732393223000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742349ca3115.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
