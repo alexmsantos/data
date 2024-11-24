@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676665/paquistao-350-detidos-em-marcha-da-oposicao-proibida-por-autoridades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Paquistão. 350 detidos em marcha da oposição proibida por autoridades",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676665/paquistao-350-detidos-em-marcha-da-oposicao-proibida-por-autoridades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732481314000,
+         "created": 1732481314000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43966860.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676664/alta-tensao-no-dragao-autocarro-do-fc-porto-atacado-com-petardos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Alta tensão no Dragão. Autocarro do FC Porto atacado com petardos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674331a0eeec1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676516/franca-recusa-linhas-vermelhas-no-apoio-a-kyiv-e-admite-ceder-armas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "França recusa \"linhas vermelhas\" no apoio a Kyiv e admite ceder armas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676516/franca-recusa-linhas-vermelhas-no-apoio-a-kyiv-e-admite-ceder-armas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732456740000,
-         "created": 1732456740000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674330f2231b9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
