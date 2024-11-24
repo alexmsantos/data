@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676633/sim-avisa-que-hospitais-das-forcas-armadas-podem-fazer-greve-em-janeiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "SIM avisa que hospitais das Forças Armadas podem fazer greve em janeiro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676633/sim-avisa-que-hospitais-das-forcas-armadas-podem-fazer-greve-em-janeiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732477006000,
+         "created": 1732477006000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b0c012cc9342.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2676533/e-preciso-manter-financiamento-adequado-da-rtp-diz-ct?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "É preciso manter financiamento adequado da RTP, diz CT",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2676533/e-preciso-manter-financiamento-adequado-da-rtp-diz-ct?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732476737000,
+         "created": 1732476737000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/15658909.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676640/alanzinho-apos-ajudar-moreirense-a-eliminar-fc-porto-caprichei?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Alanzinho após ajudar Moreirense a eliminar FC Porto: \"Caprichei...\"",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674320a600e0c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2676415/somos-fas-de-receitas-de-forno-e-esta-de-arroz-e-super-facil-e-deliciosa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Somos fãs de receitas de forno e esta de arroz é super fácil e deliciosa",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2676415/somos-fas-de-receitas-de-forno-e-esta-de-arroz-e-super-facil-e-deliciosa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732453200000,
-         "created": 1732453200000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742e61f897b7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676496/ue-aponta-como-prioridade-acabar-com-violencia-contra-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "UE aponta como \"prioridade\" acabar com violência contra mulheres",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676496/ue-aponta-como-prioridade-acabar-com-violencia-contra-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732452971000,
-         "created": 1732452971000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743158e8990e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
