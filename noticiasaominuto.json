@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676921/rosas-brancas-mas-tambem-cravos-vermelhos-em-sessao-solene-inedita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rosas brancas mas também cravos vermelhos em sessão solene inédita",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676921/rosas-brancas-mas-tambem-cravos-vermelhos-em-sessao-solene-inedita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732535819000,
+         "created": 1732535819000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58fdcfafab42c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2676907/presidente-do-parlamento-da-madeira-alerta-para-dias-turbulentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Presidente do parlamento da Madeira alerta para \"dias turbulentos\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67442de1eade3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676764/von-der-leyen-recorda-mulheres-vitimas-de-violencia-e-pede-justica-na-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Von der Leyen recorda mulheres vítimas de violência e pede justiça na UE",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676764/von-der-leyen-recorda-mulheres-vitimas-de-violencia-e-pede-justica-na-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732520808000,
-         "created": 1732520808000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_622f578a2d734.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
