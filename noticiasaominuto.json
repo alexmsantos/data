@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677067/biologo-torna-se-primeiro-cabo-verdiano-a-nadar-entre-duas-ilhas-do-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Biólogo torna-se primeiro cabo-verdiano a nadar entre duas ilhas do país",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677067/biologo-torna-se-primeiro-cabo-verdiano-a-nadar-entre-duas-ilhas-do-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732548218000,
+         "created": 1732548218000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/9336601.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2677072/jsd-lanca-campanha-que-apela-a-denuncia-de-violencia-contra-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "JSD lança campanha que apela à denúncia de violência contra mulheres",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707b1a9eabf1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676880/vespa-mais-perigosa-que-a-asiatica-foi-identificada-mesmo-aqui-ao-lado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vespa mais perigosa que a asiática foi identificada mesmo aqui ao lado",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676880/vespa-mais-perigosa-que-a-asiatica-foi-identificada-mesmo-aqui-ao-lado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732533580000,
-         "created": 1732533580000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744642532888.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
