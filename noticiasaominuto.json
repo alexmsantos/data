@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676819/presidente-do-parlamento-de-timor-pede-contribuicao-para-desenvolvimento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Presidente do parlamento de Timor pede contribuição para desenvolvimento",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676819/presidente-do-parlamento-de-timor-pede-contribuicao-para-desenvolvimento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732526173000,
+         "created": 1732526173000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43474855.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676820/detido-suspeito-de-pornografia-sexual-de-menores-em-tondela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Detido suspeito de pornografia sexual de menores em Tondela",
@@ -205,29 +228,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66cdf488a9bdb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676796/insolito-alarme-de-incendio-tirou-var-do-ipswich-manchester-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Insólito: Alarme de incêndio 'tirou' VAR do Ipswich-Manchester United",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676796/insolito-alarme-de-incendio-tirou-var-do-ipswich-manchester-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732524631000,
-         "created": 1732524631000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744377975bdc.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
