@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677359/pepa-e-a-promocao-do-sport-ao-brasileirao-tres-meses-intensos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pepa e a promoção do Sport ao Brasileirão: \"Três meses intensos\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677359/pepa-e-a-promocao-do-sport-ao-brasileirao-tres-meses-intensos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732570788000,
+         "created": 1732570788000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744ee8fe087b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677358/um-ferido-e-um-deslocado-apos-incendio-num-armazem-em-loule?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Um ferido e um deslocado após incêndio num armazém em Loulé",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f54cf201d0.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2677100/rapper-bispo-anuncia-mais-uma-data-no-coliseu-de-lisboa-em-marco-de-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Rapper' Bispo anuncia mais uma data no Coliseu de Lisboa em 2025",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/cultura/2677100/rapper-bispo-anuncia-mais-uma-data-no-coliseu-de-lisboa-em-marco-de-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732558100000,
-         "created": 1732558100000,
-         "category": "Cultura",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/41361155.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
