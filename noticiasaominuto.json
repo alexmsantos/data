@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677132/sindicato-alerta-para-atrasos-na-carreira-de-tecnico-auxiliar-de-saude?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sindicato alerta para atrasos na carreira de técnico auxiliar de saúde",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677132/sindicato-alerta-para-atrasos-na-carreira-de-tecnico-auxiliar-de-saude?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732554078000,
+         "created": 1732554078000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673fb7bfbe9d3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677150/ruben-amorim-pode-estar-a-beira-de-garantir-o-primeiro-reforco-no-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ruben Amorim pode estar à beira de garantir o primeiro reforço no United",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_604f5d0e00126.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2676855/hackeado-a-estranha-publicacao-de-miguel-oliveira-nas-redes-sociais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Hackeado'? A estranha publicação de Miguel Oliveira nas redes sociais",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2676855/hackeado-a-estranha-publicacao-de-miguel-oliveira-nas-redes-sociais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732539931000,
-         "created": 1732539931000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673ca133269d4.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
