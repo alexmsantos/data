@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676720/candidato-da-oposicao-de-esquerda-vence-eleicoes-presidenciais-no-uruguai?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Candidato da oposição de esquerda vence eleições presidenciais no Uruguai",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676720/candidato-da-oposicao-de-esquerda-vence-eleicoes-presidenciais-no-uruguai?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732515338000,
+         "created": 1732515338000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43966844.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676731/lisboa-faro-e-porto-sao-os-distritos-com-mais-mulheres-vitimas-de-violencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lisboa, Faro e Porto são os distritos com mais mulheres vítimas de violência",
@@ -99,7 +122,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676719/domingo-com-566-ocorrencias-devido-a-vento-forte-e-chuva?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Domingo com 566 ocorrências devido a vento forte e chuva",
+         "title": "Domingo com 566 ocorrências devido a vento forte e chuva (sem vítimas)",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/pais/2676719/domingo-com-566-ocorrencias-devido-a-vento-forte-e-chuva?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -113,6 +136,29 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43850807.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676716/colisao-entre-ligeiros-provoca-tres-feridos-e-corta-faixa-da-a6?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Colisão entre ligeiros provoca três feridos e corta faixa da A6",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676716/colisao-entre-ligeiros-provoca-tres-feridos-e-corta-faixa-da-a6?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732501065000,
+         "created": 1732501065000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63315c4892c09.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67435fc165a76.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676570/conservadores-polacos-escolhem-historiador-para-manter-presidencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Conservadores polacos escolhem historiador para manter presidência",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676570/conservadores-polacos-escolhem-historiador-para-manter-presidencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732468915000,
-         "created": 1732468915000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43943854.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676574/preso-politico-luso-venezuelano-hospitalizado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Preso político luso-venezuelano hospitalizado",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676574/preso-politico-luso-venezuelano-hospitalizado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732468814000,
-         "created": 1732468814000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/41730120.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
