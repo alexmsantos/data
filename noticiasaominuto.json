@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677222/embaixador-de-israel-na-onu-confirma-avancos-para-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Embaixador de Israel na ONU confirma avanços para cessar-fogo no Líbano",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677222/embaixador-de-israel-na-onu-confirma-avancos-para-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732559582000,
+         "created": 1732559582000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c3a21f929f7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677220/crimes-de-violencia-domestica-sao-tantos-que-juizes-marcam-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Crimes de violência doméstica \"são tantos\" que juízes \"marcam dias\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6730682ecdfc1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2677030/alfa-romeo-confirma-os-astronomicos-numeros-do-33-stradale?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alfa Romeo confirma os (astronómicos) números do 33 Stradale",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2677030/alfa-romeo-confirma-os-astronomicos-numeros-do-33-stradale?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732547520000,
-         "created": 1732547520000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744877cdfd91.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
