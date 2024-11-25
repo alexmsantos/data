@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676749/ed-sheeran-interrompe-flash-interview-e-ruben-amorim-nao-gostou-nada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ed Sheeran interrompe flash interview e Ruben Amorim... não gostou nada",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676749/ed-sheeran-interrompe-flash-interview-e-ruben-amorim-nao-gostou-nada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732518252000,
+         "created": 1732518252000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67441f1b1c091.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676747/sete-distritos-do-continente-a-amarelo-por-causa-da-agitacao-maritima?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sete distritos do continente a amarelo (por causa da agitação marítima)",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_533bfeeeb3486.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676599/atencao-sporting-santa-clara-afasta-famalicao-rumo-aos-oitavos-de-final?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Atenção, Sporting: Santa Clara afasta Famalicão rumo aos oitavos de final",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676599/atencao-sporting-santa-clara-afasta-famalicao-rumo-aos-oitavos-de-final?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732471180000,
-         "created": 1732471180000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743676947d69.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
