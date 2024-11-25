@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676909/portugal-sem-registo-de-presenca-da-vespa-soror-diz-incf?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal sem registo de presença da vespa soror, diz INCF",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676909/portugal-sem-registo-de-presenca-da-vespa-soror-diz-incf?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732535032000,
+         "created": 1732535032000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_649357f999063.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676908/revelados-os-valores-do-salario-que-o-fenerbahce-oferece-a-talisca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Revelados os valores do salário que o Fenerbahçe oferece a Talisca",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_645915608d79a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2676543/subsidio-de-desemprego-parcial-quem-tem-direito-e-como-pedir?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Subsídio de desemprego parcial: Quem tem direito e como pedir?",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2676543/subsidio-de-desemprego-parcial-quem-tem-direito-e-como-pedir?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732519968000,
-         "created": 1732519968000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62a98fe8a5306.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
