@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677000/antigo-craque-do-arsenal-alvo-de-ataque-com-faca-em-nova-iorque?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Antigo craque do Arsenal alvo de ataque com faca em Nova Iorque",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677000/antigo-craque-do-arsenal-alvo-de-ataque-com-faca-em-nova-iorque?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732542101000,
+         "created": 1732542101000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67447b9f6472c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676985/bombeiros-nao-vao-aceitar-migalhas-e-prometem-novas-formas-de-luta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bombeiros \"não vão aceitar migalhas\" e prometem novas formas de luta",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6504663455890.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676823/israel-volta-a-bombardear-o-sul-de-beirute?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Israel volta a bombardear o sul de Beirute",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676823/israel-volta-a-bombardear-o-sul-de-beirute?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732527189000,
-         "created": 1732527189000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742499d508a4.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
