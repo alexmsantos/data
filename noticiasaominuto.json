@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677058/joao-pereira-revela-teor-da-mensagem-enviada-por-ruben-amorim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "João Pereira revela teor da mensagem enviada por Ruben Amorim",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677058/joao-pereira-revela-teor-da-mensagem-enviada-por-ruben-amorim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732546638000,
+         "created": 1732546638000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67448088c27b8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2677048/acores-governo-destaca-credibilidade-nos-mercados-externos-ps-critica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Açores. Governo destaca \"credibilidade\" nos mercados externos. PS critica",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6409f492ab359.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676875/newcastle-quer-tomas-araujo-mas-assusta-se-com-clausula?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Newcastle quer Tomás Araújo, mas 'assusta-se' com cláusula",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676875/newcastle-quer-tomas-araujo-mas-assusta-se-com-clausula?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732532646000,
-         "created": 1732532646000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67445952a285f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
