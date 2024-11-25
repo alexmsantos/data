@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677365/centenas-exigiram-na-rua-fim-da-violencia-de-genero?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Centenas exigiram na rua fim da violência de género",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677365/centenas-exigiram-na-rua-fim-da-violencia-de-genero?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732571352000,
+         "created": 1732571352000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43973705.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677359/pepa-e-a-promocao-do-sport-ao-brasileirao-tres-meses-intensos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pepa e a promoção do Sport ao Brasileirão: \"Três meses intensos\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672924b09f1ae.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2677205/comissao-maxima-de-0-5-na-amortizacao-de-creditos-e-justa-e-adequada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Comissão máxima de 0,5% na amortização de créditos é \"justa e adequada\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2677205/comissao-maxima-de-0-5-na-amortizacao-de-creditos-e-justa-e-adequada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732558244000,
-         "created": 1732558244000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f54cf201d0.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
