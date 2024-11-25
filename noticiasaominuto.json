@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677381/lisboa-aguarda-resposta-para-edificios-na-fontes-pereira-de-melo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lisboa aguarda resposta para edifícios na Fontes Pereira de Melo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677381/lisboa-aguarda-resposta-para-edificios-na-fontes-pereira-de-melo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732574393000,
+         "created": 1732574393000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5722104a4833a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677382/o-lamento-de-paulo-fonseca-algumas-criticas-nao-sao-justas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O lamento de Paulo Fonseca: \"Algumas críticas não são justas\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_545d239f758aa.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677217/tensao-pos-eleitoral-em-mocambique-e-hipotese-para-refundar-o-estado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tensão pós-eleitoral em Moçambique é hipótese para \"refundar o Estado\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677217/tensao-pos-eleitoral-em-mocambique-e-hipotese-para-refundar-o-estado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732560032000,
-         "created": 1732560032000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43879764.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
