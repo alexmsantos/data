@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676994/spd-escolhe-olaf-scholz-para-candidato-a-chanceler-nas-eleicoes-alemas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "SPD escolhe Olaf Scholz para candidato a chanceler nas eleições alemãs",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676994/spd-escolhe-olaf-scholz-para-candidato-a-chanceler-nas-eleicoes-alemas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732541543000,
+         "created": 1732541543000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43913819.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676983/violencia-sobre-mulheres-e-mais-sexual-fora-de-casa-e-psicologica-em-casa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Violência sobre mulheres é mais sexual fora de casa e psicológica em casa",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744423e023c1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2676817/reservas-obrigatorias-feitas-pelos-bancos-mocambicanos-atingem-historico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Reservas obrigatórias feitas pelos bancos moçambicanos atingem histórico",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2676817/reservas-obrigatorias-feitas-pelos-bancos-mocambicanos-atingem-historico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732526856000,
-         "created": 1732526856000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/25259822.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
