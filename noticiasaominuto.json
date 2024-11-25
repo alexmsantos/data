@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676724/africa-continua-a-registar-as-mais-elevadas-taxas-de-femicidio-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "África continua a registar as mais elevadas taxas de femicídio do mundo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676724/africa-continua-a-registar-as-mais-elevadas-taxas-de-femicidio-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732517535000,
+         "created": 1732517535000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_53b5b0c75374b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2674846/ivanildo-fernandes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Se me tivesse mostrado a Amorim, a carreira poderia ter sido diferente\"",
@@ -53,7 +76,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676744/marcelo-pede-acao-vigorosa-no-combate-a-violencia-domestica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Marcelo pede \"ação vigorosa\" no combate à violência doméstica",
+         "title": "Marcelo \"apela à ação vigorosa de todos no combate\" à violência doméstica",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/pais/2676744/marcelo-pede-acao-vigorosa-no-combate-a-violencia-domestica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -66,7 +89,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_662cf91589be9.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43881014.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/42964923.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2676603/ps-considera-que-acordo-na-cop29-ficou-aquem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PS considera que acordo na COP29 \"ficou aquém\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2676603/ps-considera-que-acordo-na-cop29-ficou-aquem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732471073000,
-         "created": 1732471073000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43923938.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
