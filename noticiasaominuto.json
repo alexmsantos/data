@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2676822/bolsas-europeias-em-alta-animadas-com-maximos-de-wall-street?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bolsas europeias em alta animadas com máximos de Wall Street",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2676822/bolsas-europeias-em-alta-animadas-com-maximos-de-wall-street?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732526711000,
+         "created": 1732526711000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67216afd2e914.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676821/ruben-amorim-puxa-as-orelhas-a-zirkzee-tem-de-perceber?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ruben Amorim 'puxa as orelhas' a Zirkzee: \"Tem de perceber...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676821/ruben-amorim-puxa-as-orelhas-a-zirkzee-tem-de-perceber?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732526647000,
+         "created": 1732526647000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67443fd99c59f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676819/presidente-do-parlamento-de-timor-pede-contribuicao-para-desenvolvimento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Presidente do parlamento de Timor pede contribuição para desenvolvimento",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67439a084e031.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676676/e-este-lance-ensaiado-real-madrid-fez-isto-na-perseguicao-ao-barcelona?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "E este lance ensaiado? Real Madrid fez isto na 'perseguição' ao Barcelona",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676676/e-este-lance-ensaiado-real-madrid-fez-isto-na-perseguicao-ao-barcelona?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732483856000,
-         "created": 1732483856000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67439a0ae3706.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676675/sporting-aproveita-embalo-do-derbi-e-finta-benfica-na-lideranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sporting aproveita embalo do dérbi e 'finta' Benfica na liderança",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676675/sporting-aproveita-embalo-do-derbi-e-finta-benfica-na-lideranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732483492000,
-         "created": 1732483492000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_660075e1b4e98.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
