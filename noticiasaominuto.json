@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677348/cotacao-do-brent-para-janeiro-desce-2-87-por-eventual-cessar-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cotação do Brent para janeiro desce 2,87% por eventual cessar-fogo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677348/cotacao-do-brent-para-janeiro-desce-2-87-por-eventual-cessar-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732569369000,
+         "created": 1732569369000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67180605a8230.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677226/apb-diz-que-comissao-de-0-5-nas-amortizacoes-antecipadas-nao-tera-efeito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "APB diz que comissão de 0,5% nas amortizações antecipadas não terá efeito",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677226/apb-diz-que-comissao-de-0-5-nas-amortizacoes-antecipadas-nao-tera-efeito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732569258000,
+         "created": 1732569258000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59ad3690a96c7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677336/governo-acoriano-garante-aumento-de-verbas-para-educacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo açoriano garante aumento de verbas para educação",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744b1a13912c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677175/relacao-de-lisboa-considera-descabida-alegacao-de-uso-de-ia-em-acordao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Relação de Lisboa considera \"descabida\" alegação de uso de IA em acórdão",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677175/relacao-de-lisboa-considera-descabida-alegacao-de-uso-de-ia-em-acordao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732557565000,
-         "created": 1732557565000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5877c13b78a5a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677196/tribunal-russo-condena-jovem-por-traicao-a-favor-da-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tribunal russo condena jovem por traição a favor da Ucrânia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677196/tribunal-russo-condena-jovem-por-traicao-a-favor-da-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732557368000,
-         "created": 1732557368000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66fa7d0a004a6.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
