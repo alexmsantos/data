@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676923/homem-mata-sete-pessoas-a-tiro-na-turquia-incluindo-mulher-e-filho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Homem mata sete pessoas a tiro na Turquia, incluindo mulher e filho",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676923/homem-mata-sete-pessoas-a-tiro-na-turquia-incluindo-mulher-e-filho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732536004000,
+         "created": 1732536004000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67190d33a6c84.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676921/rosas-brancas-mas-tambem-cravos-vermelhos-em-sessao-solene-inedita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rosas brancas mas também cravos vermelhos em sessão solene inédita",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c58db8c7a71.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2676769/depois-do-twitter-elon-musk-pode-estar-a-considerar-uma-nova-aquisicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Depois do Twitter, Elon Musk pode estar a considerar uma nova aquisição",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2676769/depois-do-twitter-elon-musk-pode-estar-a-considerar-uma-nova-aquisicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732521511000,
-         "created": 1732521511000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67442de1eade3.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
