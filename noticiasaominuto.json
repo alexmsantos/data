@@ -1,10 +1,79 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677267/barragem-que-garante-energia-a-zambia-e-zimbabue-esta-a-secar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Barragem que garante energia à Zâmbia e Zimbabué está a secar",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677267/barragem-que-garante-energia-a-zambia-e-zimbabue-esta-a-secar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732564112000,
+         "created": 1732564112000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744d4972bd1d.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677306/a-reacao-de-cristiano-ronaldo-apos-exibicao-de-luxo-pelo-al-nassr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "A reação de Cristiano Ronaldo após exibição de luxo pelo Al Nassr",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677306/a-reacao-de-cristiano-ronaldo-apos-exibicao-de-luxo-pelo-al-nassr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732563982000,
+         "created": 1732563982000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744d34713975.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677299/mocambique-registou-9250-casos-de-violencia-entre-janeiro-e-julho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Moçambique registou 9.250 casos de violência entre janeiro e julho",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677299/mocambique-registou-9250-casos-de-violencia-entre-janeiro-e-julho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732563926000,
+         "created": 1732563926000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/40305007.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677304/dois-detidos-por-furto-em-estabelecimento-comercial-em-grandola?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dois detidos por furto em estabelecimento comercial em Grândola",
@@ -2229,75 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_645954dc28636.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2677107/25-de-novembro-desfile-de-concecoes-reacionarias-e-fascizantes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "25 de Novembro? Desfile de \"conceções reacionárias e fascizantes\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2677107/25-de-novembro-desfile-de-concecoes-reacionarias-e-fascizantes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732551840000,
-         "created": 1732551840000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67312bfdd7a44.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677124/mocambique-com-defice-de-134-milhoes-de-euros-para-atual-epoca-chuvosa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moçambique com défice de 134 milhões de euros para atual época chuvosa",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677124/mocambique-com-defice-de-134-milhoes-de-euros-para-atual-epoca-chuvosa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732551564000,
-         "created": 1732551564000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/40283791.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677117/fernando-gomes-ve-futuro-brilhante-se-sucessor-mantiver-valores-e-paixao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fernando Gomes vê futuro brilhante se sucessor mantiver valores e paixão",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677117/fernando-gomes-ve-futuro-brilhante-se-sucessor-mantiver-valores-e-paixao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732551472000,
-         "created": 1732551472000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66676d1eb5527.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
