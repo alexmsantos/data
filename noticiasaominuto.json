@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676086/em-direto-jornada-de-estreia-para-amorim-arranca-no-king-power-stadium?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Julen Lopetegui no 'fio da navalha'",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676086/em-direto-jornada-de-estreia-para-amorim-arranca-no-king-power-stadium?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732562051000,
+         "created": 1732562051000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65143c1a83272.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677248/berlim-levanta-a-hipotese-de-intervencao-em-acidente-aereo-em-vilnius?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Berlim levanta a hipótese de intervenção em acidente aéreo em Vílnius",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677248/berlim-levanta-a-hipotese-de-intervencao-em-acidente-aereo-em-vilnius?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732562031000,
+         "created": 1732562031000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744cc74e6d2c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677245/oposicao-chumba-novo-pedido-de-emprestimo-da-camara-da-guarda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oposição chumba novo pedido de empréstimo da Câmara da Guarda",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67351061c1a1f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2677089/psd-acusa-esquerda-de-aproveitamento-politico-apos-expulsao-da-am-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PSD acusa esquerda de \"aproveitamento político\" após expulsão da AM Porto",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2677089/psd-acusa-esquerda-de-aproveitamento-politico-apos-expulsao-da-am-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732549794000,
-         "created": 1732549794000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_53eb99fc99ca6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2677104/ja-experimentou-esta-receita-de-banana-no-micro-ondas-olhe-que-devia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Já experimentou esta receita de banana no micro-ondas? Olhe que devia!",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2677104/ja-experimentou-esta-receita-de-banana-no-micro-ondas-olhe-que-devia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732549740000,
-         "created": 1732549740000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65705d0968433.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
