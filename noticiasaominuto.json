@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2676891/conselho-da-ue-da-luz-verde-a-orcamento-anual-de-193-mil-milhoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Conselho da UE dá 'luz verde' a orçamento anual de 193 mil milhões",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2676891/conselho-da-ue-da-luz-verde-a-orcamento-anual-de-193-mil-milhoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732533727000,
+         "created": 1732533727000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707b1a9eabf1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676880/vespa-mais-perigosa-que-a-asiatica-foi-identificada-mesmo-aqui-ao-lado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vespa mais perigosa que a asiática foi identificada mesmo aqui ao lado",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d947ebfc4cd4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676724/africa-continua-a-registar-as-mais-elevadas-taxas-de-femicidio-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "África continua a registar as mais elevadas taxas de femicídio do mundo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676724/africa-continua-a-registar-as-mais-elevadas-taxas-de-femicidio-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732517535000,
-         "created": 1732517535000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_53b5b0c75374b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
