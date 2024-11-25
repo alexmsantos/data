@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677093/ce-diz-ter-exposicao-de-313-milhoes-de-dolares-a-emprestimos-a-northvolt?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "CE diz ter exposição de 313 milhões de dólares a empréstimos à Northvolt",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677093/ce-diz-ter-exposicao-de-313-milhoes-de-dolares-a-emprestimos-a-northvolt?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732551302000,
+         "created": 1732551302000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f44e60b92792.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677114/papa-critica-arrogancia-do-invasor-na-ucrania-e-na-palestina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Papa critica \"arrogância do invasor\" na Ucrânia e na Palestina",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677114/papa-critica-arrogancia-do-invasor-na-ucrania-e-na-palestina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732551113000,
+         "created": 1732551113000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43966234.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677113/homem-detido-por-trafico-de-estupefaciente-e-posse-de-arma-proibida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Foi mandado parar pela GNR e acabou detido por tráfico de estupefaciente",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67446a6c82411.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676932/vice-das-filipinas-acusada-de-planear-assassinato-de-presidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vice das Filipinas acusada de planear assassinato de Presidente",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676932/vice-das-filipinas-acusada-de-planear-assassinato-de-presidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732536557000,
-         "created": 1732536557000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6672ca2e48460.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2676927/nao-confio-na-apple-criador-de-wolfs-diz-que-cancelou-continuacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Não confio na Apple\". Criador de 'Wolfs' diz que cancelou continuação",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2676927/nao-confio-na-apple-criador-de-wolfs-diz-que-cancelou-continuacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732536270000,
-         "created": 1732536270000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66b489da08fd9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
