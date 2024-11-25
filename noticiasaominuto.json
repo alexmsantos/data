@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676955/o-pormenor-delicioso-de-trincao-que-roubou-as-atencoes-no-treino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O pormenor (delicioso) de Trincão que roubou as atenções no treino",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676955/o-pormenor-delicioso-de-trincao-que-roubou-as-atencoes-no-treino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732538431000,
+         "created": 1732538431000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744702608aac.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676950/liberdade-e-o-maior-legado-politico-de-mario-soares-e-do-ps?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Liberdade é o maior legado político de Mário Soares e do PS\"",
@@ -490,7 +513,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676912/violencia-domestica-atendimento-a-vitimas-ja-aumentou-50-face-a-2023?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Violência Doméstica: Atendimento a vítimas já aumentou 50% face a 2023",
+         "title": "Violência Doméstica: Atendimento a vítimas aumentou para o dobro",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/pais/2676912/violencia-domestica-atendimento-a-vitimas-ja-aumentou-50-face-a-2023?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -1249,7 +1272,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/politica/2676824/ao-minuto-comemoracoes-dos-49-anos-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: Novembro não é contra Abril; 25 de Abril \"não é substituível\"",
+         "title": "AO MINUTO: 25 de Abril \"não é substituível\"; \"O maior legado de Soares\"",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/politica/2676824/ao-minuto-comemoracoes-dos-49-anos-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744363c563a7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676777/jovem-de-15-anos-esfaqueada-ate-a-morte-por-outro-menor-na-rua-em-espanha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jovem de 15 anos esfaqueada até à morte por outro menor na rua em Espanha",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676777/jovem-de-15-anos-esfaqueada-ate-a-morte-por-outro-menor-na-rua-em-espanha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732523212000,
-         "created": 1732523212000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c5c13a6a237.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
