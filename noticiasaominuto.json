@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676950/liberdade-e-o-maior-legado-politico-de-mario-soares-e-do-ps?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Liberdade é o maior legado político de Mário Soares e do PS\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676950/liberdade-e-o-maior-legado-politico-de-mario-soares-e-do-ps?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732538195000,
+         "created": 1732538195000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66058fa2d32cc.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676947/maradona-morreu-ha-quatro-anos-a-homenagem-do-napoli?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Maradona morreu há quatro anos. A homenagem do Napoli",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676947/maradona-morreu-ha-quatro-anos-a-homenagem-do-napoli?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732537726000,
+         "created": 1732537726000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67446d087ecd9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2676941/tiktok-e-poligrafo-vao-ajuda-lo-a-detetar-noticias-falsas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "TikTok e Polígrafo vão ajudá-lo a detetar notícias falsas",
@@ -1203,7 +1249,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/politica/2676824/ao-minuto-comemoracoes-dos-49-anos-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: \"Preciso combater radicalismos\"; Alguns deputados saem da AR",
+         "title": "AO MINUTO: Novembro não é contra Abril; 25 de Abril \"não é substituível\"",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/politica/2676824/ao-minuto-comemoracoes-dos-49-anos-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c5c13a6a237.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2676784/os-dois-melhores-exercicios-para-um-rabo-firme-nenhum-e-o-agachamento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Os dois melhores exercícios para um rabo firme (nenhum é o agachamento)",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2676784/os-dois-melhores-exercicios-para-um-rabo-firme-nenhum-e-o-agachamento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732523160000,
-         "created": 1732523160000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64373833de7a6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676782/apos-domingo-infernal-fc-porto-regressa-aos-treinos-esta-segunda-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Após domingo 'infernal', FC Porto regressa aos treinos esta segunda-feira",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676782/apos-domingo-infernal-fc-porto-regressa-aos-treinos-esta-segunda-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732522883000,
-         "created": 1732522883000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_669283614ceb1.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
