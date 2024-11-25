@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676992/tecnico-prolonga-dispensa-de-dar-aulas-depois-de-licenca-de-parentalidade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Técnico prolonga dispensa de dar aulas depois de licença de parentalidade",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676992/tecnico-prolonga-dispensa-de-dar-aulas-depois-de-licenca-de-parentalidade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732544473000,
+         "created": 1732544473000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_560e1c4038f35.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677027/ministro-israelita-defende-que-cessar-fogo-no-libano-seria-grande-erro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministro israelita defende que cessar-fogo no Líbano seria \"grande erro\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_660d108125fdd.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676846/china-considera-ue-parceiro-nao-rival-e-pede-independencia-de-bruxelas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "China considera UE \"parceiro, não rival\" e pede independência de Bruxelas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676846/china-considera-ue-parceiro-nao-rival-e-pede-independencia-de-bruxelas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732529991000,
-         "created": 1732529991000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5dae10149dbe5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
