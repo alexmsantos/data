@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676833/colisao-entre-dois-ligeiros-provocou-sete-feridos-em-lousada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Colisão entre dois ligeiros provocou sete feridos, em Lousada",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676833/colisao-entre-dois-ligeiros-provocou-sete-feridos-em-lousada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732528267000,
+         "created": 1732528267000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_55c756c26a7a7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2676816/receita-de-bolo-de-laranja-saudavel-que-vai-deixar-as-avos-orgulhosas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Receita de bolo de laranja (saudável) que vai deixar as avós orgulhosas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2676816/receita-de-bolo-de-laranja-saudavel-que-vai-deixar-as-avos-orgulhosas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732527960000,
+         "created": 1732527960000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6540bf6675e13.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676828/aviao-de-carga-que-se-despenhou-na-lituania-fazia-aterragem-de-emergencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Avião de carga que se despenhou na Lituânia fazia aterragem de emergência",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d0e860cb60f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676688/da-tarja-a-festa-sporting-mostra-bastidores-da-estreia-de-joao-pereira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Da tarja à festa. Sporting mostra bastidores da estreia de João Pereira",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676688/da-tarja-a-festa-sporting-mostra-bastidores-da-estreia-de-joao-pereira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732487823000,
-         "created": 1732487823000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743a8ed59978.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676685/longa-vida-ao-rei-fc-porto-deixa-mensagem-a-pinto-da-costa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Longa vida ao rei\". FC Porto deixa mensagem a Pinto da Costa",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676685/longa-vida-ao-rei-fc-porto-deixa-mensagem-a-pinto-da-costa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732487015000,
-         "created": 1732487015000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743a5c4e4dc1.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
