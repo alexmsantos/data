@@ -1,10 +1,79 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2676958/beacores-acusa-governo-de-so-beneficiar-uma-elite-e-a-sua-clientela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "BE/Açores acusa Governo de \"só beneficiar uma elite e a sua clientela\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2676958/beacores-acusa-governo-de-so-beneficiar-uma-elite-e-a-sua-clientela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732540078000,
+         "created": 1732540078000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_57ee2ab05cf2e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2676855/hackeado-a-estranha-publicacao-de-miguel-oliveira-nas-redes-sociais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "'Hackeado'? A estranha publicação de Miguel Oliveira nas redes sociais",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2676855/hackeado-a-estranha-publicacao-de-miguel-oliveira-nas-redes-sociais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732539931000,
+         "created": 1732539931000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673ca133269d4.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676974/oficial-ruben-de-la-barrera-nao-resiste-a-novo-desaire-e-deixa-vizela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: Rubén de la Barrera não resiste a novo desaire e deixa Vizela",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676974/oficial-ruben-de-la-barrera-nao-resiste-a-novo-desaire-e-deixa-vizela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732539840000,
+         "created": 1732539840000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65cba2f1d958c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676963/pe-avisa-que-27-tem-obrigacao-de-cumprir-mandados-de-detencao-do-tpi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PE avisa que 27 têm obrigação de cumprir mandados de detenção do TPI",
@@ -52,6 +121,29 @@
          "media": {}
       },
       {
+         "id": "https://www.noticiasaominuto.com/pais/2676971/homem-acusado-de-matar-namorada-na-figueira-da-foz-e-julgado-na-terca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Homem acusado de matar namorada na Figueira da Foz é julgado na terça",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676971/homem-acusado-de-matar-namorada-na-figueira-da-foz-e-julgado-na-terca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732539363000,
+         "created": 1732539363000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707aeec95ecf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/desporto/2676966/compatriota-de-gyokeres-pode-ajudar-sporting-a-manter-a-sua-perola?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Compatriota de Gyokeres pode ajudar Sporting a manter a sua 'pérola'",
          "description": "undefined",
@@ -90,6 +182,29 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/42222774.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2676964/ps-avisa-para-reabertura-de-feridas-ha-muito-saradas-be-em-disparate?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PS avisa para \"reabertura de feridas há muito saradas\", BE em \"disparate\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2676964/ps-avisa-para-reabertura-de-feridas-ha-muito-saradas-be-em-disparate?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732538959000,
+         "created": 1732538959000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43970791.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -1387,7 +1502,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/politica/2676824/ao-minuto-comemoracoes-dos-49-anos-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: 25 de Abril \"não é substituível\"; \"O maior legado de Soares\"",
+         "title": "AO MINUTO: \"25 de Abril é mais marcante\"; \"Não é substituível\"",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/politica/2676824/ao-minuto-comemoracoes-dos-49-anos-do-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -1400,7 +1515,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43970436.JPG",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43970981.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2183,121 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67443c1ba800b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676813/sara-aagensen-nomeada-vice-primeira-ministra-de-espanha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sara Aagensen nomeada vice-primeira-ministra de Espanha",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676813/sara-aagensen-nomeada-vice-primeira-ministra-de-espanha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732525634000,
-         "created": 1732525634000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58b80de7e7cdd.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676815/pelo-menos-dez-criancas-mortas-e-centenas-detidas-em-mocambique?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pelo menos dez crianças mortas e \"centenas\" detidas em Moçambique",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676815/pelo-menos-dez-criancas-mortas-e-centenas-detidas-em-mocambique?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732525574000,
-         "created": 1732525574000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43958288.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2676805/auscultadores-da-apple-sem-novo-modelo-no-horizonte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Auscultadores da Apple sem novo modelo no 'horizonte'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2676805/auscultadores-da-apple-sem-novo-modelo-no-horizonte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732525106000,
-         "created": 1732525106000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_627a2ba7189e6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676798/imprensa-indica-que-netanyahu-pondera-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Imprensa indica que Netanyahu pondera cessar-fogo no Líbano",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676798/imprensa-indica-que-netanyahu-pondera-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732524882000,
-         "created": 1732524882000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66cdf488a9bdb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676793/pacto-climatico-quer-agricultura-e-alimentacao-no-planeamento-territorial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pacto Climático quer agricultura e alimentação no planeamento territorial",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676793/pacto-climatico-quer-agricultura-e-alimentacao-no-planeamento-territorial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732524557000,
-         "created": 1732524557000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a1c4a68c0500.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
