@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676747/sete-distritos-do-continente-a-amarelo-por-causa-da-agitacao-maritima?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sete distritos do continente a amarelo (por causa da agitação marítima)",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676747/sete-distritos-do-continente-a-amarelo-por-causa-da-agitacao-maritima?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732517971000,
+         "created": 1732517971000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d947ebfc4cd4.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676724/africa-continua-a-registar-as-mais-elevadas-taxas-de-femicidio-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "África continua a registar as mais elevadas taxas de femicídio do mundo",
@@ -182,6 +205,29 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66154f86118f2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2676743/bolsa-de-toquio-fecha-a-ganhar-1-3?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bolsa de Tóquio fecha a ganhar 1,3%",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2676743/bolsa-de-toquio-fecha-a-ganhar-1-3?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732517030000,
+         "created": 1732517030000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/19484472.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743676947d69.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676571/detido-apos-agredir-parceira-e-fugir-com-bebe-de-7-meses-em-cadis?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Detido após agredir parceira e fugir com bebé de 7 meses em Cádis",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676571/detido-apos-agredir-parceira-e-fugir-com-bebe-de-7-meses-em-cadis?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732471116000,
-         "created": 1732471116000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66faab33c476e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676602/diana-silva-cre-em-selecao-feminina-mais-evoluida-para-bater-chequia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Diana Silva crê em seleção feminina \"mais evoluída\" para bater Chéquia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676602/diana-silva-cre-em-selecao-feminina-mais-evoluida-para-bater-chequia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732471077000,
-         "created": 1732471077000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/42964923.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
