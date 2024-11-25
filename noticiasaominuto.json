@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677245/oposicao-chumba-novo-pedido-de-emprestimo-da-camara-da-guarda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oposição chumba novo pedido de empréstimo da Câmara da Guarda",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677245/oposicao-chumba-novo-pedido-de-emprestimo-da-camara-da-guarda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732561861000,
+         "created": 1732561861000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744cbcc1d4ff.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677269/ouro-e-petroleo-caem-cerca-de-3-devido-a-possivel-cessar-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ouro e petróleo caem cerca de 3% devido a possível cessar-fogo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65705d0968433.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677091/cinco-pessoas-identificadas-por-furto-de-castanhas-em-alfandega-da-fe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cinco pessoas identificadas por furto de castanhas em Alfândega da Fé",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677091/cinco-pessoas-identificadas-por-furto-de-castanhas-em-alfandega-da-fe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732549303000,
-         "created": 1732549303000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62cca23bd3384.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
