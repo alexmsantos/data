@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677208/melo-enaltece-papel-de-comandos-que-estiveram-do-lado-certo-da-historia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Melo enaltece papel de comandos que estiveram \"do lado certo da História\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677208/melo-enaltece-papel-de-comandos-que-estiveram-do-lado-certo-da-historia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732558005000,
+         "created": 1732558005000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c8966c67bf03.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677186/missao-da-onu-condena-ataques-israelitas-a-tropas-libanesas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Missão da ONU condena ataques israelitas a tropas libanesas",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_636aaad8232fa.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677038/embaixador-israelita-nos-eua-admite-acordo-de-treguas-dentro-de-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Embaixador israelita nos EUA admite acordo de tréguas \"dentro de dias\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677038/embaixador-israelita-nos-eua-admite-acordo-de-treguas-dentro-de-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732545559000,
-         "created": 1732545559000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67448c1abe73f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
