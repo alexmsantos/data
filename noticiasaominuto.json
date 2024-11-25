@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677247/politecnico-de-portalegre-com-mais-de-50-projetos-de-inovacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Politécnico de Portalegre com mais de 50 projetos de inovação",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677247/politecnico-de-portalegre-com-mais-de-50-projetos-de-inovacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732562279000,
+         "created": 1732562279000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e677c1a3878f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676086/em-direto-jornada-de-estreia-para-amorim-arranca-no-king-power-stadium?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Julen Lopetegui no 'fio da navalha'",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67449e672e34d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677098/fc-porto-regressa-aos-treinos-depois-de-tarde-negra-na-taca-de-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "FC Porto regressa aos treinos depois de tarde 'negra' na Taça de Portugal",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677098/fc-porto-regressa-aos-treinos-depois-de-tarde-negra-na-taca-de-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732550001000,
-         "created": 1732550001000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67351061c1a1f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
