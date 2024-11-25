@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676820/detido-suspeito-de-pornografia-sexual-de-menores-em-tondela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Detido suspeito de pornografia sexual de menores em Tondela",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676820/detido-suspeito-de-pornografia-sexual-de-menores-em-tondela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732526080000,
+         "created": 1732526080000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59f39b98080e5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2676818/al-nassr-reforca-esports-com-ajuda-de-cristiano-ronaldo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Al-Nassr reforça Esports com 'ajuda' de Cristiano Ronaldo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2676818/al-nassr-reforca-esports-com-ajuda-de-cristiano-ronaldo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732525925000,
+         "created": 1732525925000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67443f146d58a.jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2676758/este-eletrico-deteta-mesmo-carros-da-policia-descaracterizados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Este elétrico deteta mesmo carros da polícia descaracterizados?",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_660075e1b4e98.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676674/roy-keane-pega-se-com-adepto-apos-estreia-de-amorim-espero-por-ti?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Roy Keane 'pega-se' com adepto após estreia de Amorim: \"Espero por ti...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676674/roy-keane-pega-se-com-adepto-apos-estreia-de-amorim-espero-por-ti?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732483407000,
-         "created": 1732483407000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743974974bd0.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676673/gelson-martins-marca-e-olympiacos-rouba-lideranca-grega-a-rui-vitoria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Gelson Martins marca e Olympiacos 'rouba' liderança grega a Rui Vitória",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676673/gelson-martins-marca-e-olympiacos-rouba-lideranca-grega-a-rui-vitoria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732483161000,
-         "created": 1732483161000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743975523430.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
