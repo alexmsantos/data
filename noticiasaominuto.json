@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676931/herpes-zoster-leva-ao-internamento-de-uma-pessoa-a-cada-dois-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Herpes zóster leva ao internamento de uma pessoa a cada dois dias",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676931/herpes-zoster-leva-ao-internamento-de-uma-pessoa-a-cada-dois-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732536724000,
+         "created": 1732536724000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_625ff115d5311.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676932/vice-das-filipinas-acusada-de-planear-assassinato-de-presidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Vice das Filipinas acusada de planear assassinato de Presidente",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676932/vice-das-filipinas-acusada-de-planear-assassinato-de-presidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732536557000,
+         "created": 1732536557000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6672ca2e48460.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2676927/nao-confio-na-apple-criador-de-wolfs-diz-que-cancelou-continuacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Não confio na Apple\". Criador de 'Wolfs' diz que cancelou continuação",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/25028418.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2676765/por-que-e-que-a-ford-ja-nao-faz-carros-como-o-puma-coupe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Por que é que a Ford já não faz carros como o Puma coupé?",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2676765/por-que-e-que-a-ford-ja-nao-faz-carros-como-o-puma-coupe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732521905000,
-         "created": 1732521905000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_618a38d1eb766.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676771/espanha-mae-salta-para-o-relvado-e-agride-arbitro-em-jogo-de-sub-11?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Espanha: Mãe salta para o relvado e agride árbitro em jogo de sub-11",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676771/espanha-mae-salta-para-o-relvado-e-agride-arbitro-em-jogo-de-sub-11?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732521903000,
-         "created": 1732521903000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_517fb535a1051.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
