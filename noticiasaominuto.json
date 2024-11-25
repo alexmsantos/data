@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676952/mau-tempo-provoca-16-mortos-e-sete-desaparecidos-em-ilha-da-indonesia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mau tempo provoca 16 mortos e sete desaparecidos em ilha da Indonésia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676952/mau-tempo-provoca-16-mortos-e-sete-desaparecidos-em-ilha-da-indonesia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732538542000,
+         "created": 1732538542000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674470b51128c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676955/o-pormenor-delicioso-de-trincao-que-roubou-as-atencoes-no-treino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O pormenor (delicioso) de Trincão que roubou as atenções no treino",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67443711a5c7e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676787/amorim-destaca-jogador-do-united-apos-empate-quando-foi-preciso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Amorim destaca jogador do United após empate: \"Quando foi preciso...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676787/amorim-destaca-jogador-do-united-apos-empate-quando-foi-preciso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732523603000,
-         "created": 1732523603000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744363c563a7.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
