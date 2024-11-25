@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677229/guarda-diz-que-nao-faz-sentido-ter-meia-linha-da-beira-alta-a-funcionar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guarda diz que não faz sentido ter \"meia Linha da Beira Alta\" a funcionar",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677229/guarda-diz-que-nao-faz-sentido-ter-meia-linha-da-beira-alta-a-funcionar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732561166000,
+         "created": 1732561166000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ab2343859f29.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2677228/as-mudancas-acontecem-mario-centeno-nao-fecha-porta-a-belem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"As mudanças acontecem\". Mário Centeno não fecha porta a Belém",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2677228/as-mudancas-acontecem-mario-centeno-nao-fecha-porta-a-belem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732561038000,
+         "created": 1732561038000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744c4f9161ee.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677218/euro-sobe-mas-sem-conseguir-superar-1-05-dolares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Euro sobe, mas sem conseguir superar 1,05 dólares",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f2284a5f3e31.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2677074/brasil-com-defice-de-5-6-mil-milhoes-de-euros-nas-transacoes-correntes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Brasil com défice de 5,6 mil milhões de euros nas transações correntes",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2677074/brasil-com-defice-de-5-6-mil-milhoes-de-euros-nas-transacoes-correntes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732548578000,
-         "created": 1732548578000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5526a65271cf6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677069/presidente-cabo-verdiano-visitou-familia-de-odair-moniz?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Presidente cabo-verdiano visitou família de Odair Moniz",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677069/presidente-cabo-verdiano-visitou-familia-de-odair-moniz?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732548379000,
-         "created": 1732548379000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/42739198.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
