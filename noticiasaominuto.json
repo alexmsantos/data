@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676934/japao-vai-repatriar-corpos-de-soldados-mortos-no-bangladesh-ha-80-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Japão vai repatriar corpos de soldados mortos no Bangladesh há 80 anos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676934/japao-vai-repatriar-corpos-de-soldados-mortos-no-bangladesh-ha-80-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732536977000,
+         "created": 1732536977000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58ca41d595697.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676931/herpes-zoster-leva-ao-internamento-de-uma-pessoa-a-cada-dois-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Herpes zóster leva ao internamento de uma pessoa a cada dois dias",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a534fe0c9824.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676776/jose-peseiro-alerta-para-jogadores-a-serem-tratados-como-maquinas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "José Peseiro alerta para jogadores a serem \"tratados como máquinas\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676776/jose-peseiro-alerta-para-jogadores-a-serem-tratados-como-maquinas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732522158000,
-         "created": 1732522158000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/25028418.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
