@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677127/israel-bombardeia-25-alvos-no-libano-apesar-de-negociacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel bombardeia 25 \"alvos\" no Líbano apesar de negociações",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677127/israel-bombardeia-25-alvos-no-libano-apesar-de-negociacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732552849000,
+         "created": 1732552849000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744a8a732c06.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677140/ninguem-deve-estar-excluido-das-presidenciais-por-ser-militar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Ninguém deve estar excluído\" das presidenciais por ser militar",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67447381cace4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2676957/il-alerta-que-governo-dos-acores-vai-ter-de-pedir-a-bancos-200-milhoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "IL alerta que Governo dos Açores \"vai ter de pedir a bancos\" 200 milhões",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2676957/il-alerta-que-governo-dos-acores-vai-ter-de-pedir-a-bancos-200-milhoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732539214000,
-         "created": 1732539214000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/42222774.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
