@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676742/por-ca-dragoes-em-furia-e-di-maria-admite-mais-um-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Por cá: Dragões em fúria e Di María admite mais um ano",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676742/por-ca-dragoes-em-furia-e-di-maria-admite-mais-um-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732517139000,
+         "created": 1732517139000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67441bb22bdd1.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2676736/parlamento-dos-acores-inicia-hoje-debate-de-plano-e-orcamento-para-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Parlamento dos Açores inicia hoje debate de Plano e Orçamento para 2025",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2676736/parlamento-dos-acores-inicia-hoje-debate-de-plano-e-orcamento-para-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732517067000,
+         "created": 1732517067000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66154f86118f2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2676737/reino-unido-cria-infracao-penal-para-reforcar-combate-a-submissoes-quimicas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Reino Unido cria infração penal para reforçar combate a submissões químicas",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67436415774da.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676588/pormenor-saltou-a-vista-no-golaco-que-castigou-ruben-amorim-no-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pormenor saltou à vista no golaço que 'castigou' Ruben Amorim no United",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676588/pormenor-saltou-a-vista-no-golaco-que-castigou-ruben-amorim-no-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732469996000,
-         "created": 1732469996000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674363390e44d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2676577/numero-de-mortos-em-ataque-israelita-no-centro-de-beirute-sobe-para-29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Número de mortos em ataque israelita no centro de Beirute sobe para 29",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2676577/numero-de-mortos-em-ataque-israelita-no-centro-de-beirute-sobe-para-29?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732469787000,
-         "created": 1732469787000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674364210cef5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
