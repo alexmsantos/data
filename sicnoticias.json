@@ -159,9 +159,12 @@
       {
          "id": "405f2035-6165-401b-ae1e-32642a9006b8",
          "title": "Problemas no Outlook ou no Teams? É mundial e está quase resolvido",
-         "description": "<p><span>A Microsoft está a investigar o problema que afeta o Outlook e Teams e garante já ter corrigido 90% dos casos. </span><span>Há relatos de problemas nos Países Baixos, Polónia, França, Suécia e Portugal.</span></p>",
+         "description": "A Microsoft está a investigar o problema que afeta o Outlook e Teams e garante já ter corrigido 90% dos casos. Há relatos de problemas nos Países Baixos, Polónia, França, Suécia e Portugal.",
          "link": "https://sicnoticias.pt/mundo/2024-11-25-microsoft-esta-a-investigar-problema-que-afeta-outlook-e-teams-3a62734b",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1732544577000,
          "created": 1732544577000,
          "category": "Mundo",
