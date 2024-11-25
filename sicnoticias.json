@@ -72,8 +72,25 @@
          "published": 1732524210000,
          "created": 1732524210000,
          "category": "Economia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-11-17-casas.jpg-4b51ac44/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-11-17-casas.jpg-4b51ac44/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2023-11-17-casas.jpg-4b51ac44/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "a999c5c0-8c54-421d-b1f6-11edca01484d",
