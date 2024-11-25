@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677068/operacoes-em-coimbra-e-figueira-da-foz-levam-a-apreensao-de-27-viaturas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Operações em Coimbra e Figueira da Foz levam à apreensão de 27 viaturas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677068/operacoes-em-coimbra-e-figueira-da-foz-levam-a-apreensao-de-27-viaturas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732548592000,
+         "created": 1732548592000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f2284a5f3e31.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677074/brasil-com-defice-de-5-6-mil-milhoes-de-euros-nas-transacoes-correntes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Brasil com défice de 5,6 mil milhões de euros nas transações correntes",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677074/brasil-com-defice-de-5-6-mil-milhoes-de-euros-nas-transacoes-correntes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732548578000,
+         "created": 1732548578000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5526a65271cf6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677069/presidente-cabo-verdiano-visitou-familia-de-odair-moniz?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Presidente cabo-verdiano visitou família de Odair Moniz",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67445f045754c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2676896/threads-confirma-lancamento-de-melhorias-ha-muito-esperadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Threads confirma lançamento de \"melhorias há muito esperadas\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2676896/threads-confirma-lancamento-de-melhorias-ha-muito-esperadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732534033000,
-         "created": 1732534033000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64a6bd76b1ed4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2676893/e-preciso-fazer-mais-para-travar-violencia-contra-as-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "É  preciso \"fazer mais\" para travar violência contra as mulheres",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2676893/e-preciso-fazer-mais-para-travar-violencia-contra-as-mulheres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732533972000,
-         "created": 1732533972000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66a2aaf663880.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
