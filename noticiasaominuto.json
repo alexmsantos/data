@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677148/julgamento-do-caso-pelicot-marcara-um-antes-e-um-depois?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Julgamento do caso Pelicot \"marcará um antes e um depois\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677148/julgamento-do-caso-pelicot-marcara-um-antes-e-um-depois?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732556054000,
+         "created": 1732556054000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_671fbf50e6b46.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2677190/nunca-desperdice-a-agua-do-desumidificador-saiba-como-reaproveita-la?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nunca desperdice a água do desumidificador. Saiba como (re)aproveitá-la",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67447ec348970.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677011/joao-pereira-atento-e-muitos-sorrisos-as-imagens-do-treino-do-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "João Pereira atento e muitos sorrisos: As imagens do treino do Sporting",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677011/joao-pereira-atento-e-muitos-sorrisos-as-imagens-do-treino-do-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732542842000,
-         "created": 1732542842000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744802404f07.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
