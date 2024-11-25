@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677372/trump-celebra-fim-de-sequestro-politico-com-encerramento-de-caso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trump celebra fim de \"sequestro político\" com encerramento de caso",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677372/trump-celebra-fim-de-sequestro-politico-com-encerramento-de-caso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732572790000,
+         "created": 1732572790000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744f64985f72.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677367/benfica-finta-entrada-em-falso-e-apanha-sporting-no-trono-do-campeonato?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Benfica 'espeta' 10 (!) e apanha Sporting no trono do campeonato",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ce91019e0b2b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2677225/problemas-no-outlook-e-teams-microsoft-ja-resolveu-quase-tudo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Problemas no Outlook e Teams? Microsoft já resolveu quase tudo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2677225/problemas-no-outlook-e-teams-microsoft-ja-resolveu-quase-tudo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732559113000,
-         "created": 1732559113000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66a9eb179b4f4.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
