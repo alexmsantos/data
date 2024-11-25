@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2677030/alfa-romeo-confirma-os-astronomicos-numeros-do-33-stradale?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Alfa Romeo confirma os (astronómicos) números do 33 Stradale",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2677030/alfa-romeo-confirma-os-astronomicos-numeros-do-33-stradale?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732547520000,
+         "created": 1732547520000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744877cdfd91.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677060/camara-da-mealhada-aprova-orcamento-para-2025-de-25-3-milhoes-de-euros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Câmara da Mealhada aprova orçamento para 2025 de 25,3 milhões de euros",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677060/camara-da-mealhada-aprova-orcamento-para-2025-de-25-3-milhoes-de-euros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732547355000,
+         "created": 1732547355000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_608c1fd63faa9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677064/alcobaca-assinala-os-125-anos-do-nascimento-de-joaquim-vieira-natividade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Alcobaça assinala os 125 anos do nascimento de Joaquim Vieira Natividade",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744529de7719.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2676884/euribor-a-tres-meses-desce-para-menos-de-3?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Euribor a três meses desce para menos de 3%",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2676884/euribor-a-tres-meses-desce-para-menos-de-3?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732533103000,
-         "created": 1732533103000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59ad366265e57.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676879/associacao-alerta-para-risco-de-invasao-de-vespa-pior-que-a-asiatica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Associação alerta para risco de invasão de vespa pior que a asiática",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676879/associacao-alerta-para-risco-de-invasao-de-vespa-pior-que-a-asiatica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732533049000,
-         "created": 1732533049000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/19843730.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
