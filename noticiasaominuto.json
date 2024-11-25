@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677015/adeptos-do-united-nao-perdem-tempo-e-ja-tem-cantico-para-ruben-amorim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Adeptos do United não perdem tempo e já têm cântico para Ruben Amorim",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677015/adeptos-do-united-nao-perdem-tempo-e-ja-tem-cantico-para-ruben-amorim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732543293000,
+         "created": 1732543293000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744831b8fa4b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2677009/microsoft-esta-a-investigar-problema-que-afeta-outlook-e-teams?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Microsoft está a investigar problema que afeta Outlook e Teams",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2677009/microsoft-esta-a-investigar-problema-que-afeta-outlook-e-teams?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732542967000,
+         "created": 1732542967000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64ccd8fde1a55.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2677005/novo-carro-da-xiaomi-vai-chegar-mais-rapido-do-que-se-poderia-imaginar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Novo carro da Xiaomi vai chegar mais rápido do que se poderia imaginar",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67444825ef882.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676833/colisao-entre-dois-ligeiros-provocou-sete-feridos-em-lousada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Colisão entre dois ligeiros provocou sete feridos em Lousada",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676833/colisao-entre-dois-ligeiros-provocou-sete-feridos-em-lousada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732528267000,
-         "created": 1732528267000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_55c756c26a7a7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2676834/psi-em-alta-com-mota-engil-a-liderar-os-ganhos-e-a-subir-quase-3?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PSI em alta com Mota-Engil a liderar os ganhos e a subir quase 3%",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2676834/psi-em-alta-com-mota-engil-a-liderar-os-ganhos-e-a-subir-quase-3?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732528175000,
-         "created": 1732528175000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_644156d1db4a5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
