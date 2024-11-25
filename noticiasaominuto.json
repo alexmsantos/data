@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2677122/concerto-de-sam-the-kid-dedicado-a-beats-vol1-amor-com-data-extra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Concerto de Sam The Kid dedicado a \"Beats Vol.1: Amor\" com data extra",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2677122/concerto-de-sam-the-kid-dedicado-a-beats-vol1-amor-com-data-extra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732566903000,
+         "created": 1732566903000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5be05ac70d702.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677314/turismo-desvaloriza-fecho-de-museus-e-diz-que-pais-e-mais-do-que-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Turismo desvaloriza fecho de museus e diz que país \"é mais do que\" Lisboa",
@@ -366,6 +389,29 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6592e6592fdd5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677318/retirada-licenca-a-jornal-russo-que-publicou-navalny-na-capa-apos-a-morte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Retirada licença a jornal russo que publicou Navalny na capa após a morte",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677318/retirada-licenca-a-jornal-russo-que-publicou-navalny-na-capa-apos-a-morte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732564703000,
+         "created": 1732564703000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5682ddc7f4052.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744b0e750574.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677169/eleicoes-em-mocambique-verdade-eleitoral-alcancada-ate-23-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Eleições em Moçambique? \"Verdade eleitoral\" alcançada até 23 de dezembro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677169/eleicoes-em-mocambique-verdade-eleitoral-alcancada-ate-23-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732555253000,
-         "created": 1732555253000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43657828.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2677173/centeno-diz-que-taxas-de-juro-em-2-ou-perto-e-cenario-preferido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Centeno diz que taxas de juro em 2% ou perto é \"cenário preferido\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2677173/centeno-diz-que-taxas-de-juro-em-2-ou-perto-e-cenario-preferido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732554998000,
-         "created": 1732554998000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58dbb7dc29750.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
