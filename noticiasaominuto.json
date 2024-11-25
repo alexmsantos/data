@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2676706/pelo-menos-23-mortos-em-acidente-de-autocarro-no-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos 23 mortos em acidente de autocarro no Brasil",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2676706/pelo-menos-23-mortos-em-acidente-de-autocarro-no-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732492502000,
+         "created": 1732492502000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743bf25d8702.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2676705/descartado-por-amorim-no-united-nistelrooy-pode-voltar-a-antigo-clube?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Descartado por Amorim no United, Nistelrooy pode voltar a antigo clube",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6743577b5816d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2676555/jovens-entregam-simbolos-da-jmj-a-seul-e-fecham-capitulo-das-jornadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jovens entregam símbolos da JMJ a Seul e fecham capítulo das jornadas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2676555/jovens-entregam-simbolos-da-jmj-a-seul-e-fecham-capitulo-das-jornadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732466469000,
-         "created": 1732466469000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64cf6cafd7f8b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
