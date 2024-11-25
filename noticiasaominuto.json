@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677219/mp-arquiva-inquerito-sobre-alegado-atropelamento-mortal-intencional?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "MP arquiva inquérito sobre alegado atropelamento mortal intencional",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677219/mp-arquiva-inquerito-sobre-alegado-atropelamento-mortal-intencional?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732558649000,
+         "created": 1732558649000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6637919b0a248.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677211/pai-de-neymar-reage-aos-rumores-de-regresso-ao-brasil-nunca-fomos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pai de Neymar reage aos rumores de regresso ao Brasil: \"Nunca fomos...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677211/pai-de-neymar-reage-aos-rumores-de-regresso-ao-brasil-nunca-fomos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732558516000,
+         "created": 1732558516000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672924b09f1ae.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677205/comissao-maxima-de-0-5-na-amortizacao-de-creditos-e-justa-e-adequada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Comissão máxima de 0,5% na amortização de créditos é \"justa e adequada\"",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67448b73b014c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677049/ex-liverpool-aponta-primeiro-fracasso-de-amorim-ficaria-surpreso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ex-Liverpool aponta primeiro fracasso de Amorim: \"Ficaria surpreso...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677049/ex-liverpool-aponta-primeiro-fracasso-de-amorim-ficaria-surpreso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732546284000,
-         "created": 1732546284000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67448a00a818d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677042/presidente-eleito-do-uruguai-defende-bom-relacionamento-com-a-argentina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Presidente eleito do Uruguai defende bom relacionamento com a Argentina",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677042/presidente-eleito-do-uruguai-defende-bom-relacionamento-com-a-argentina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732545978000,
-         "created": 1732545978000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67448dbd9ce70.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
