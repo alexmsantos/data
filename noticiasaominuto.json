@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2676983/violencia-sobre-mulheres-e-mais-sexual-fora-de-casa-e-psicologica-em-casa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Violência sobre mulheres é mais sexual fora de casa e psicológica em casa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2676983/violencia-sobre-mulheres-e-mais-sexual-fora-de-casa-e-psicologica-em-casa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732541522000,
+         "created": 1732541522000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58a2a40b41761.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2676981/marcelo-diz-que-25-de-novembro-foi-passo-muito-importante-na-democracia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Marcelo diz que 25 de Novembro foi \"passo muito importante\" na democracia",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/25259822.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2676812/edp-apoia-projetos-de-energia-renovavel-em-mocambique-e-mais-4-paises?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EDP apoia projetos de energia renovável em Moçambique e mais 4 países",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2676812/edp-apoia-projetos-de-energia-renovavel-em-mocambique-e-mais-4-paises?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732526818000,
-         "created": 1732526818000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/38680385.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
