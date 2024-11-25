@@ -1,10 +1,79 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677367/benfica-finta-entrada-em-falso-e-apanha-sporting-no-trono-do-campeonato?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Benfica 'espeta' 10 (!) e apanha Sporting no trono do campeonato",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677367/benfica-finta-entrada-em-falso-e-apanha-sporting-no-trono-do-campeonato?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732572517000,
+         "created": 1732572517000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744f14314efb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2677181/melhore-a-frequencia-cardiaca-com-dois-exercicios-bem-simples?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Melhore a frequência cardíaca com dois exercícios bem simples",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2677181/melhore-a-frequencia-cardiaca-com-dois-exercicios-bem-simples?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732572408000,
+         "created": 1732572408000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ffe8e1bd291.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2676086/ruben-amorim-empata-na-estreia-e-man-city-sofre-derrota-humilhante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ruben Amorim empata na estreia e Man. City sofre derrota humilhante",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2676086/ruben-amorim-empata-na-estreia-e-man-city-sofre-derrota-humilhante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732572121000,
+         "created": 1732572121000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744e6d4f0276.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2677369/fica-com-o-pingo-no-nariz-quando-come-alimentos-picantes-eis-o-motivo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fica com o 'pingo no nariz' quando come alimentos picantes? Eis o motivo",
@@ -1731,29 +1800,6 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/desporto/2676086/em-direto-jornada-de-estreia-para-amorim-arranca-no-king-power-stadium?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Julen Lopetegui no 'fio da navalha'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676086/em-direto-jornada-de-estreia-para-amorim-arranca-no-king-power-stadium?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732562051000,
-         "created": 1732562051000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744e6d4f0276.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
          "id": "https://www.noticiasaominuto.com/mundo/2677248/berlim-levanta-a-hipotese-de-intervencao-em-acidente-aereo-em-vilnius?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Berlim levanta a hipótese de intervenção em acidente aéreo em Vílnius",
          "description": "undefined",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66a9eb179b4f4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677210/passa-pela-ic20-a-noite-transito-vai-estar-cortado-ate-sabado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Passa pelo IC20 à noite? Trânsito vai estar cortado até sábado",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677210/passa-pela-ic20-a-noite-transito-vai-estar-cortado-ate-sabado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732559096000,
-         "created": 1732559096000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6655aca63cb8d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2677216/o-erro-que-muitos-cometem-durante-a-rotina-de-skincare?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O erro que muitos cometem durante a rotina de 'skincare'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2677216/o-erro-que-muitos-cometem-durante-a-rotina-de-skincare?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732559073000,
-         "created": 1732559073000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64f20d6f94613.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
