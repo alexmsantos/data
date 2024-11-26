@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677712/conflito-na-regiao-etiope-de-amhara-com-impacto-catastrofico-na-saude?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Conflito na região etíope de Amhara com impacto \"catastrófico\" na saúde",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677712/conflito-na-regiao-etiope-de-amhara-com-impacto-catastrofico-na-saude?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732631394000,
+         "created": 1732631394000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745db694ec50.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677713/aguiar-branco-afasta-candidatura-a-camara-municipal-do-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Aguiar-Branco afasta candidatura à Câmara Municipal do Porto",
@@ -145,7 +168,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677702/egito-recupera-4-cadaveres-e-3-sobreviventes-de-naufragio-no-mar-vermelho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Egito recupera 4 cadáveres e 3 sobreviventes de naufrágio no Mar Vermelho",
+         "title": "Egito recupera 4 cadáveres e 4 sobreviventes de naufrágio no Mar Vermelho",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/mundo/2677702/egito-recupera-4-cadaveres-e-3-sobreviventes-de-naufragio-no-mar-vermelho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/33991187.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677551/barcelona-discute-salah-apos-declaracao-de-guerra-ao-liverpool?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Barcelona discute Salah após 'declaração de guerra' ao Liverpool",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677551/barcelona-discute-salah-apos-declaracao-de-guerra-ao-liverpool?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732617500000,
-         "created": 1732617500000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66533a86bc951.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
