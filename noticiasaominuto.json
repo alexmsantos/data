@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2677819/alergia-intolerancia-ou-sensibilidade-alimentar-aprenda-a-distinguir?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Alergia, intolerância ou sensibilidade alimentar? Aprenda a distinguir",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2677819/alergia-intolerancia-ou-sensibilidade-alimentar-aprenda-a-distinguir?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732636320000,
+         "created": 1732636320000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_670cd483a818f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2677777/hamilton-e-verstappen-que-numeros-tinham-ao-chegar-ao-tetracampeonato?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Hamilton e Verstappen. Que números tinham ao chegar ao tetracampeonato?",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2677777/hamilton-e-verstappen-que-numeros-tinham-ao-chegar-ao-tetracampeonato?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732636219000,
+         "created": 1732636219000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745e5d565073.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677812/bruxelas-insiste-em-fim-de-apoios-no-isp-que-pesam-ate-0-5-do-pib?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bruxelas insiste em fim de apoios no ISP que pesam até 0,5% do PIB",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_59db4eb9b58e2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2677628/empresa-de-elon-musk-vai-tentar-controlar-braco-robotico-com-pensamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Empresa de Elon Musk vai tentar controlar braço robótico com pensamentos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2677628/empresa-de-elon-musk-vai-tentar-controlar-braco-robotico-com-pensamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732623183000,
-         "created": 1732623183000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65c201d76cdc1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677627/falso-gnr-envolvido-em-burlas-e-furtos-em-torres-vedras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Falso' GNR envolvido em burlas e furtos em Torres Vedras",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677627/falso-gnr-envolvido-em-burlas-e-furtos-em-torres-vedras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732623165000,
-         "created": 1732623165000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745baa4e9176.jpeg",
                "type": "image/jpeg",
                "length": "0"
             }
