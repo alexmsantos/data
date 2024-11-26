@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677695/temos-razoes-para-dizer-alto-e-bom-som-que-portugal-e-um-pais-seguro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Temos razões para dizer alto e bom som que Portugal é um país seguro\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677695/temos-razoes-para-dizer-alto-e-bom-som-que-portugal-e-um-pais-seguro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732629468000,
+         "created": 1732629468000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66fbf2e48dbad.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677691/atividade-economica-hesitante-tem-dificultado-previsao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Atividade económica hesitante\" tem dificultado previsão",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d9d840100811.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677526/mae-conta-como-filhos-de-12-anos-poupam-10-mil-e-pagam-renda-de-casa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mãe conta como filhos de 12 anos poupam 10 mil € (e pagam renda de casa)",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677526/mae-conta-como-filhos-de-12-anos-poupam-10-mil-e-pagam-renda-de-casa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732615917000,
-         "created": 1732615917000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745961d5b81a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
