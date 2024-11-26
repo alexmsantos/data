@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2677601/trabalhadores-da-egeac-vao-cumprir-greve-de-24-horas-na-quarta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trabalhadores da EGEAC vão cumprir greve de 24 horas na quarta-feira",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2677601/trabalhadores-da-egeac-vao-cumprir-greve-de-24-horas-na-quarta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732621998000,
+         "created": 1732621998000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6536a379381cf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677607/israel-ameaca-reagir-se-eventual-tregua-no-libano-for-violada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Israel ameaça reagir se eventual trégua no Líbano for violada",
@@ -444,7 +467,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677571/taxa-turistica-do-porto-passa-a-3-euros-por-pessoa-no-domingo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Taxa Turística do Porto passa a 3 euros, por pessoa, no domingo",
+         "title": "Taxa turística no Porto passa para 3 euros por pessoa a partir de domingo",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/economia/2677571/taxa-turistica-do-porto-passa-a-3-euros-por-pessoa-no-domingo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/35236756.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677471/por-ca-joao-pereira-na-verdadeira-estreia-e-vitor-bruno-no-tribunal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Por cá: João Pereira na \"verdadeira estreia\" e Vítor Bruno no \"tribunal\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677471/por-ca-joao-pereira-na-verdadeira-estreia-e-vitor-bruno-no-tribunal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732606865000,
-         "created": 1732606865000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67457b5aa1ab6.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
