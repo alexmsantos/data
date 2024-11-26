@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677570/maguire-confirma-o-diagnostico-de-ruben-amorim-pensamos-demasiado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Maguire confirma o diagnóstico de Ruben Amorim: \"Pensámos demasiado\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677570/maguire-confirma-o-diagnostico-de-ruben-amorim-pensamos-demasiado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732618925000,
+         "created": 1732618925000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744377975bdc.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677567/kyiv-admite-que-nao-destruira-as-quase-6-milhoes-de-minas-terrestres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Kyiv admite que não destruirá as quase 6 milhões de minas terrestres",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67456866e50b3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677425/eua-celebram-dia-de-acao-de-gracas-mais-caro-devido-a-escassez-de-ovos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EUA celebram Dia de Ação de Graças mais caro devido à escassez de ovos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677425/eua-celebram-dia-de-acao-de-gracas-mais-caro-devido-a-escassez-de-ovos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732601794000,
-         "created": 1732601794000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6338a9d043047.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
