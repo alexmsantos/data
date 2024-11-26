@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677446/china-avisa-ninguem-ganha-em-guerra-comercial-face-as-ameacas-de-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "China avisa \"ninguém ganha em guerra comercial\" face às ameaças de Trump",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677446/china-avisa-ninguem-ganha-em-guerra-comercial-face-as-ameacas-de-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732603164000,
+         "created": 1732603164000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a425c141a09b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677448/governo-e-sindicatos-da-funcao-publica-voltam-hoje-a-reunir-se?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo e sindicatos da Função Pública voltam hoje a reunir-se",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_58723878bff48.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677273/lisboa-quer-alterar-regulamento-dos-horarios-dos-estabelecimentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lisboa quer alterar regulamento dos horários dos estabelecimentos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677273/lisboa-quer-alterar-regulamento-dos-horarios-dos-estabelecimentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732564451000,
-         "created": 1732564451000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673f4b1fd2a32.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
