@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2677683/aumento-das-pensoes-governo-pede-razoabilidade-sensatez-e-precaucao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Aumento das pensões? Governo pede \"razoabilidade, sensatez e precaução\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2677683/aumento-das-pensoes-governo-pede-razoabilidade-sensatez-e-precaucao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732628696000,
+         "created": 1732628696000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d23062d8a9c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677682/operacao-jaera-seis-arguidos-e-148-mil-euros-apreendidos-em-aveiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Operação 'JAERA'. Seis arguidos e 148 mil euros apreendidos em Aveiro",
@@ -53,7 +76,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677674/oe2025-reducao-do-iva-das-touradas-custaria-no-maximo-115-mil-euros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "OE2025. Redução do IVA das touradas custaria no máximo 115 mil euros",
+         "title": "UTAO: Redução do IVA das touradas custaria no máximo 115 mil euros",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/economia/2677674/oe2025-reducao-do-iva-das-touradas-custaria-no-maximo-115-mil-euros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64d271dd1f047.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2677527/bolsas-europeias-em-baixa-apos-anuncio-de-trump-sobre-novas-tarifas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolsas europeias em baixa após anúncio de Trump sobre novas tarifas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2677527/bolsas-europeias-em-baixa-apos-anuncio-de-trump-sobre-novas-tarifas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732614640000,
-         "created": 1732614640000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f61ca690043f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
