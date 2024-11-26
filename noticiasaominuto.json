@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677739/sporting-passa-fatura-ao-arsenal-e-mira-oitavos-da-uefa-youth-league?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sporting passa fatura ao Arsenal e mira 'oitavos' da UEFA Youth League",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677739/sporting-passa-fatura-ao-arsenal-e-mira-oitavos-da-uefa-youth-league?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732633138000,
+         "created": 1732633138000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745dd8517d9f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677749/operacao-pretoriano-mp-pede-julgamento-dos-12-arguidos-nos-mesmos-termos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Operação Pretoriano. MP pede julgamento dos 12 arguidos nos mesmos termos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745ac1426f0a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2677571/taxa-turistica-do-porto-passa-a-3-euros-por-pessoa-no-domingo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Taxa turística no Porto passa para 3 euros por pessoa a partir de domingo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2677571/taxa-turistica-do-porto-passa-a-3-euros-por-pessoa-no-domingo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732619167000,
-         "created": 1732619167000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43057156.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
