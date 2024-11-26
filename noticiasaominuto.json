@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677987/polonia-nao-aceitara-acordo-ue-mercosul-na-sua-forma-atual?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Polónia \"não aceitará\" acordo UE-Mercosul na sua forma atual",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677987/polonia-nao-aceitara-acordo-ue-mercosul-na-sua-forma-atual?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732647049000,
+         "created": 1732647049000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_634f2130efd75.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677807/os-onzes-do-sporting-arsenal-para-a-estreia-de-joao-pereira-na-europa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Os onzes do Sporting-Arsenal para a estreia de João Pereira na Europa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677807/os-onzes-do-sporting-arsenal-para-a-estreia-de-joao-pereira-na-europa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732646841000,
+         "created": 1732646841000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740f84a841f8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677981/textil-com-quebra-de-5-nas-exportacoes-em-2024-por-causa-da-guerra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Têxtil com quebra de 5% nas exportações em 2024 por causa da guerra",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_604f5d0e00126.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677801/instalacao-de-inibidores-de-sinal-nas-prisoes-e-para-avancar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Instalação de inibidores de sinal nas prisões é para avançar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677801/instalacao-de-inibidores-de-sinal-nas-prisoes-e-para-avancar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732635349000,
-         "created": 1732635349000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43977352.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677725/familia-com-menores-despejada-camara-de-sintra-fala-em-ocupacao-ilegal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Família com menores despejada. Câmara de Sintra fala em ocupação ilegal",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677725/familia-com-menores-despejada-camara-de-sintra-fala-em-ocupacao-ilegal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732635259000,
-         "created": 1732635259000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c0241eed4410.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
