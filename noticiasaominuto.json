@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678133/guterres-pede-que-cessar-fogo-no-libano-seja-respeitado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guterres pede que cessar-fogo no Líbano seja respeitado",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678133/guterres-pede-que-cessar-fogo-no-libano-seja-respeitado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732663081000,
+         "created": 1732663081000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b68b43f209a3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2678132/belenenses-de-luto-preparador-morre-vitima-de-cancro-aos-27-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Belenenses de luto. Preparador morre vítima de cancro aos 27 anos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66029589931a2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677968/guterres-pede-apoio-a-alianca-das-civilizacoes-face-a-tsunami-de-odio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Guterres pede apoio a Aliança das Civilizações face a \"tsunami de ódio\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677968/guterres-pede-apoio-a-alianca-das-civilizacoes-face-a-tsunami-de-odio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732646313000,
-         "created": 1732646313000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673a65c057853.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
