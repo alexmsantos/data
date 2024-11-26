@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2677742/aprofundamento-do-conhecimento-os-500-anos-da-morte-de-vasco-da-gama?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Aprofundamento do conhecimento\". Os 500 anos da morte de Vasco da Gama",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2677742/aprofundamento-do-conhecimento-os-500-anos-da-morte-de-vasco-da-gama?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732632934000,
+         "created": 1732632934000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43865838.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2677748/receita-fit-de-croquetes-de-banana-sim-leu-bem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Receita 'fit' de croquetes de banana. Sim, leu bem!",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2677748/receita-fit-de-croquetes-de-banana-sim-leu-bem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732632780000,
+         "created": 1732632780000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6227a1e1cfd5a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677732/funcao-publica-trabalhadores-enviam-postais-reivindicativos-a-montenegro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Função Pública. Trabalhadores enviam postais reivindicativos a Montenegro",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_652fd3040be8a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677570/maguire-confirma-o-diagnostico-de-ruben-amorim-pensamos-demasiado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Maguire confirma o diagnóstico de Ruben Amorim: \"Pensámos demasiado\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677570/maguire-confirma-o-diagnostico-de-ruben-amorim-pensamos-demasiado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732618925000,
-         "created": 1732618925000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744377975bdc.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677567/kyiv-admite-que-nao-destruira-as-quase-6-milhoes-de-minas-terrestres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Kyiv admite que não destruirá as quase 6 milhões de minas terrestres",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677567/kyiv-admite-que-nao-destruira-as-quase-6-milhoes-de-minas-terrestres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732618846000,
-         "created": 1732618846000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673c6cddcca72.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
