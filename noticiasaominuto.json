@@ -1,15 +1,38 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
-         "id": "https://www.noticiasaominuto.com/pais/2677478/nao-tem-tempo-de-esperar-medicamentos-para-cancro-de-dificil-acesso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Não têm tempo de esperar\". Medicamentos para cancro de difícil acesso",
+         "id": "https://www.noticiasaominuto.com/desporto/2677496/o-problema-de-vinicius-nao-e-de-racismo-diz-que-e-porque-lhe-interessa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"O problema de Vinícius não é de racismo. Diz que é porque lhe interessa\"",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677478/nao-tem-tempo-de-esperar-medicamentos-para-cancro-de-dificil-acesso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/desporto/2677496/o-problema-de-vinicius-nao-e-de-racismo-diz-que-e-porque-lhe-interessa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732610594000,
+         "created": 1732610594000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65a9c1c1a85ed.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677478/nao-tem-tempo-para-esperar-medicamentos-para-cancro-de-dificil-acesso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Não têm tempo para esperar\". Medicamentos para cancro de difícil acesso",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677478/nao-tem-tempo-para-esperar-medicamentos-para-cancro-de-dificil-acesso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744e99be6b06.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677349/eurodreams-sem-totalistas-mas-segundo-premio-saiu-la-fora-e-por-ca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EuroDreams sem totalistas, mas segundo prémio saiu lá fora. E por cá?",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677349/eurodreams-sem-totalistas-mas-segundo-premio-saiu-la-fora-e-por-ca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732569390000,
-         "created": 1732569390000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_657187b59fb93.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
