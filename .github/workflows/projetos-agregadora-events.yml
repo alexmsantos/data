@@ -1,0 +1,30 @@
+name: Agregadora Projetos (Events)
+
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron:  '0 4 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Convert google sheet to csv
+      run: |-
+        wget -O iniciativas/agregadora-events.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9LjTEg9SCfRLe7XWVCvfqv12qnHfDYid8PA9ZNHDxVQ3NDuGi9ImEQoZBC5g5GwNjlYkYrPlxCTep/pub?gid=213178022&single=true&output=csv"
+    - name: CSV to JSON
+      run: ./dasel -r csv -w json < iniciativas/agregadora-events.csv > iniciativas/agregadora-events.json
+    - name: Minify JSON
+      run: |-
+        jq -r tostring iniciativas/agregadora-events.json > iniciativas/agregadora-events.min.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated Agregadora Projetos - Events")
+        git push
