@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678009/leao-salta-do-banco-para-tomar-bratislava-de-assalto-e-ac-milan-vence?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Leão salta do banco para 'tomar Bratislava de assalto' (e AC Milan vence)",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678009/leao-salta-do-banco-para-tomar-bratislava-de-assalto-e-ac-milan-vence?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732649814000,
+         "created": 1732649814000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67461fd49edf5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2678015/aprovada-proposta-do-ps-para-concretizacao-de-recuperacao-de-escolas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Aprovada proposta do PS para concretização de recuperação de escolas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2678015/aprovada-proposta-do-ps-para-concretizacao-de-recuperacao-de-escolas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732649759000,
+         "created": 1732649759000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_588a27a681529.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678007/acidente-com-varios-carros-faz-dois-feridos-na-a5-transito-cortado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Acidente com vários carros faz dois feridos na A5. Trânsito cortado",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d80b365f2961.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2677828/votacao-das-propostas-sobre-aumento-das-pensoes-adiada-para-5-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Votação das propostas sobre aumento das pensões adiada para 5ª. feira",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2677828/votacao-das-propostas-sobre-aumento-das-pensoes-adiada-para-5-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732637219000,
-         "created": 1732637219000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6697c5f3aff51.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2677826/margrethe-vestager-diz-que-podia-ter-sido-mais-dura-com-tecnologicas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Margrethe Vestager diz que podia ter sido mais 'dura' com tecnológicas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2677826/margrethe-vestager-diz-que-podia-ter-sido-mais-dura-com-tecnologicas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732637193000,
-         "created": 1732637193000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745f17c4a3a7.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
