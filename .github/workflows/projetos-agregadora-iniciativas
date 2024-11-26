@@ -1,0 +1,30 @@
+name: Agregadora Projetos (Iniciativas)
+
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron:  '0 4 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Convert google sheet to csv
+      run: |-
+        wget -O iniciativas/agregadora-iniciativas.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9LjTEg9SCfRLe7XWVCvfqv12qnHfDYid8PA9ZNHDxVQ3NDuGi9ImEQoZBC5g5GwNjlYkYrPlxCTep/pub?gid=0&single=true&output=csv"
+    - name: CSV to JSON
+      run: ./dasel -r csv -w json < iniciativas/agregadora-iniciativas.csv > iniciativas/agregadora-iniciativas.json
+    - name: Minify JSON
+      run: |-
+        jq -r tostring iniciativas/agregadora-iniciativas.json > iniciativas/agregadora-iniciativas.min.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated Agregadora Projetos - Iniciativas")
+        git push
