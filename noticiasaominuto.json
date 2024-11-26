@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677917/casa-desocupada-no-1-de-maio-foi-arrombada-e-psp-foi-chamada-ao-local?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Casa desocupada no 1.º de Maio foi arrombada e PSP foi chamada ao local",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677917/casa-desocupada-no-1-de-maio-foi-arrombada-e-psp-foi-chamada-ao-local?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732643016000,
+         "created": 1732643016000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6706335d161a9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677914/bolsa-de-lisboa-acompanha-descidas-da-europa-e-cede-0-36?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bolsa de Lisboa acompanha descidas da Europa e cede 0,36%",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677914/bolsa-de-lisboa-acompanha-descidas-da-europa-e-cede-0-36?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732642934000,
+         "created": 1732642934000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/42594143.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677906/netanyahu-reunido-com-gabinete-de-seguranca-fara-declaracao-as-18h?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Netanyahu reunido com gabinete de segurança fará declaração às 18h",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64ca27b6b1962.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677712/conflito-na-regiao-etiope-de-amhara-com-impacto-catastrofico-na-saude?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Conflito na região etíope de Amhara com impacto \"catastrófico\" na saúde",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677712/conflito-na-regiao-etiope-de-amhara-com-impacto-catastrofico-na-saude?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732631394000,
-         "created": 1732631394000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745db694ec50.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677713/aguiar-branco-afasta-candidatura-a-camara-municipal-do-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aguiar-Branco afasta candidatura à Câmara Municipal do Porto",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677713/aguiar-branco-afasta-candidatura-a-camara-municipal-do-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732631211000,
-         "created": 1732631211000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66191079c3e35.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
