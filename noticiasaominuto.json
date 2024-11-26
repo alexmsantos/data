@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2678046/aprovadas-proposta-do-pcp-para-erradicacao-de-especies-invasoras-em-rios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Aprovadas proposta do PCP para erradicação de espécies invasoras em rios",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2678046/aprovadas-proposta-do-pcp-para-erradicacao-de-especies-invasoras-em-rios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732653309000,
+         "created": 1732653309000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6574fa79609e3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2678049/ex-benfica-afia-as-chuteiras-e-marca-golaco-de-livre-em-leverkusen?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ex-Benfica marca golaço em Leverkusen... e guarda-redes nem se mexeu",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/23802453.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677871/venancio-mondlane-pede-carros-abandonados-nas-ruas-de-mocambique?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Venâncio Mondlane pede carros abandonados nas ruas de Moçambique",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677871/venancio-mondlane-pede-carros-abandonados-nas-ruas-de-mocambique?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732640041000,
-         "created": 1732640041000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43943544.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
