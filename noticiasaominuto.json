@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677761/bdp-pede-prudencia-a-banca-para-reforcar-resiliencia-em-cenario-adverso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "BdP pede \"prudência\" à banca para reforçar resiliência em cenário adverso",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677761/bdp-pede-prudencia-a-banca-para-reforcar-resiliencia-em-cenario-adverso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732633582000,
+         "created": 1732633582000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/14716561.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677750/detetados-drones-a-sobrevoar-bases-no-leste-de-inglaterra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Detetados 'drones' a sobrevoar bases no leste de Inglaterra",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_577604b70f95a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677563/gripe-das-aves-detetada-em-leite-nao-pasteurizado-na-california?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Gripe das aves detetada em leite não pasteurizado na Califórnia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677563/gripe-das-aves-detetada-em-leite-nao-pasteurizado-na-california?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732619577000,
-         "created": 1732619577000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745a8416f1b9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
