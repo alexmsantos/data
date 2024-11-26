@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677851/sem-abrigo-retirados-dos-anjos-com-consentimento-e-solucoes-diz-moedas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sem-abrigo retirados dos Anjos com consentimento e soluções, diz Moedas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677851/sem-abrigo-retirados-dos-anjos-com-consentimento-e-solucoes-diz-moedas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732638945000,
+         "created": 1732638945000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64c50fc904ec9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677813/em-direto-emocoes-da-champions-estao-de-volta-na-estreia-de-joao-pereira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Emoções da Champions estão de volta na estreia de João Pereira",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43975969.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677657/russia-expulsa-diplomata-britanico-por-alegada-espionagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia expulsa diplomata britânico por alegada espionagem",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677657/russia-expulsa-diplomata-britanico-por-alegada-espionagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732626351000,
-         "created": 1732626351000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_604f5d0e00126.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
