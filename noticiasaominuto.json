@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677674/oe2025-reducao-do-iva-das-touradas-custaria-no-maximo-115-mil-euros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OE2025. Redução do IVA das touradas custaria no máximo 115 mil euros",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677674/oe2025-reducao-do-iva-das-touradas-custaria-no-maximo-115-mil-euros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732628142000,
+         "created": 1732628142000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_516ef6dadc890.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677679/bastaram-7-minutos-belo-golo-adianta-sporting-frente-ao-arsenal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bastaram 7 minutos. Belo golo adianta Sporting frente ao Arsenal",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677679/bastaram-7-minutos-belo-golo-adianta-sporting-frente-ao-arsenal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732628000000,
+         "created": 1732628000000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745cdefe47d4.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677668/georgia-vai-eleger-presidente-pela-primeira-vez-por-comissao-eleitoral?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Geórgia vai eleger presidente pela primeira vez por comissão eleitoral",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674597a98594c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2677524/terra-despediu-se-da-sua-pequena-lua-esta-segunda-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Terra despediu-se da sua 'pequena Lua' esta segunda-feira",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2677524/terra-despediu-se-da-sua-pequena-lua-esta-segunda-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732613783000,
-         "created": 1732613783000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674595e4b9647.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2677523/o-ps-e-um-vencedor-do-25-de-novembro-a-direita-foi-a-grande-derrotada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"O PS é um vencedor do 25 de Novembro. A Direita foi a grande derrotada\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2677523/o-ps-e-um-vencedor-do-25-de-novembro-a-direita-foi-a-grande-derrotada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732613460000,
-         "created": 1732613460000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5bdb91d3c5d1d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
