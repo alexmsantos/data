@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677708/proposta-do-oe-nao-esta-em-linha-com-recomendacoes-da-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Proposta do OE não está em linha com recomendações da UE",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677708/proposta-do-oe-nao-esta-em-linha-com-recomendacoes-da-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732630479000,
+         "created": 1732630479000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f44e68cc528a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677711/plano-de-portugal-ate-2028-garante-situacao-orcamental-solida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Plano de Portugal até 2028 garante situação orçamental sólida",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677711/plano-de-portugal-ate-2028-garante-situacao-orcamental-solida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732630310000,
+         "created": 1732630310000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43949264.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677705/fransergio-rescinde-contrato-com-o-maritimo-por-motivos-familiares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fransérgio rescinde contrato com o Marítimo por \"motivos familiares\"",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b7777eca8fe.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677545/carragher-ja-detetou-fraqueza-de-amorim-diz-que-nao-importa-mas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Carragher já detetou \"fraqueza\" de Amorim: \"Diz que não importa, mas...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677545/carragher-ja-detetou-fraqueza-de-amorim-diz-que-nao-importa-mas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732616894000,
-         "created": 1732616894000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67435fb8dab97.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2677536/grupo-chines-huawei-lanca-telemovel-com-sistema-operativo-proprio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Grupo chinês Huawei lança telemóvel com sistema operativo próprio",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2677536/grupo-chines-huawei-lanca-telemovel-com-sistema-operativo-proprio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732616717000,
-         "created": 1732616717000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745a0139b73d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
