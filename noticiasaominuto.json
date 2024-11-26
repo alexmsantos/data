@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678061/provocacao-monumental-em-alvalade-gabriel-marca-e-festeja-a-gyokeres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Provocação monumental em Alvalade. Gabriel marca e festeja... à Gyokeres",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678061/provocacao-monumental-em-alvalade-gabriel-marca-e-festeja-a-gyokeres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732654507000,
+         "created": 1732654507000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67463461b21e8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2678057/aprovadas-propostas-do-pcp-e-be-sobre-ferrovia-e-rodovia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Aprovadas propostas do PCP e BE sobre ferrovia e rodovia",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745d0d88b4a8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677880/oficial-fc-porto-amarra-jovem-promessa-com-passado-ligado-ao-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oficial: FC Porto 'amarra' jovem promessa com passado ligado ao Benfica",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677880/oficial-fc-porto-amarra-jovem-promessa-com-passado-ligado-ao-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732640973000,
-         "created": 1732640973000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67460049310c0.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
