@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677713/aguiar-branco-afasta-candidatura-a-camara-municipal-do-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Aguiar-Branco afasta candidatura à Câmara Municipal do Porto",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677713/aguiar-branco-afasta-candidatura-a-camara-municipal-do-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732631211000,
+         "created": 1732631211000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66191079c3e35.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677714/rui-costa-a-partida-para-o-monaco-espero-um-jogo-a-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rui Costa à partida para o Mónaco: \"Espero um jogo à Benfica\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677714/rui-costa-a-partida-para-o-monaco-espero-um-jogo-a-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732630834000,
+         "created": 1732630834000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d9c3798c495.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677698/oe2025-banca-diz-que-comissoes-nas-amortizacoes-sao-necessarias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2025. Banca diz que comissões nas amortizações são necessárias",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66533a86bc951.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677544/menino-lusodescendente-morre-na-suica-vitima-de-uma-meningite?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lusodescendente morre na Suíça vítima de meningite. Kevin tinha 12 anos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677544/menino-lusodescendente-morre-na-suica-vitima-de-uma-meningite?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732617499000,
-         "created": 1732617499000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_587a470c7d702.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677542/russia-confirma-detencao-de-britanico-acusado-de-combater-por-kyiv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia confirma detenção de britânico acusado de combater por Kyiv",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677542/russia-confirma-detencao-de-britanico-acusado-de-combater-por-kyiv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732616925000,
-         "created": 1732616925000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63f87fa8bb911.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
