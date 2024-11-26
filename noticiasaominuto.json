@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677812/bruxelas-insiste-em-fim-de-apoios-no-isp-que-pesam-ate-0-5-do-pib?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bruxelas insiste em fim de apoios no ISP que pesam até 0,5% do PIB",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677812/bruxelas-insiste-em-fim-de-apoios-no-isp-que-pesam-ate-0-5-do-pib?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732636165000,
+         "created": 1732636165000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_573c4cf3ae928.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677795/aumento-do-credito-malparado-contido-apesar-das-taxas-de-juro-altas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Aumento do crédito malparado contido apesar das taxas de juro altas",
@@ -135,7 +158,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6436b30008b0e.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43200967.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745baa4e9176.jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677599/china-apoia-cooperacao-comercial-com-o-mexico-e-critica-a-politizacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "China apoia cooperação comercial com o México e critica a \"politização\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677599/china-apoia-cooperacao-comercial-com-o-mexico-e-critica-a-politizacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732623077000,
-         "created": 1732623077000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745bae92ef3c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
