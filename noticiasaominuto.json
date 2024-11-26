@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2677501/ha-queixas-de-cheiro-inesperado-na-estacao-espacial-internacional?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Há queixas de \"cheiro inesperado\" na Estação Espacial Internacional",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2677501/ha-queixas-de-cheiro-inesperado-na-estacao-espacial-internacional?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732611109000,
+         "created": 1732611109000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61aa3ab029843.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2677499/o-que-muitos-desconhecem-sobre-o-prazo-de-validade-dos-medicamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O que muitos desconhecem sobre o prazo de validade dos medicamentos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2677499/o-que-muitos-desconhecem-sobre-o-prazo-de-validade-dos-medicamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732610940000,
+         "created": 1732610940000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d018468ba58.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677494/fc-porto-e-sp-braga-jogam-futuro-na-estreia-europeia-de-ruben-amorim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "FC Porto e Sp. Braga jogam futuro na estreia europeia de Ruben Amorim",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6426c47c1ea6e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677352/cristiano-ronaldo-e-mourinho-juntos-revelados-novos-dados-sobre-o-rumor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cristiano Ronaldo e Mourinho juntos? Revelados novos dados sobre o rumor",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677352/cristiano-ronaldo-e-mourinho-juntos-revelados-novos-dados-sobre-o-rumor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732569804000,
-         "created": 1732569804000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62b62aeb064ec.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677353/lisboa-sem-fios-contabiliza-remocao-de-20-quilometros-de-cabos-mortos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lisboa Sem Fios contabiliza remoção de 20 quilómetros de cabos mortos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677353/lisboa-sem-fios-contabiliza-remocao-de-20-quilometros-de-cabos-mortos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732569769000,
-         "created": 1732569769000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_662220707104a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
