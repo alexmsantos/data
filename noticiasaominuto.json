@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677831/restos-humanos-em-carro-podem-ser-de-casal-desaparecido-ha-44-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Restos humanos em carro podem ser de casal desaparecido há 44 anos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677831/restos-humanos-em-carro-podem-ser-de-casal-desaparecido-ha-44-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732637896000,
+         "created": 1732637896000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d80b365f2961.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2677828/votacao-das-propostas-sobre-aumento-das-pensoes-adiada-para-5-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Votação das propostas sobre aumento das pensões adiada para 5ª. feira",
@@ -76,7 +99,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677721/al-sadd-al-hilal-ja-ha-onzes-no-dubai-em-mais-um-jogo-de-jj?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[0-0] Al Sadd-Al Hilal: Arranca mais um jogo de JJ na Champions asiática",
+         "title": "[0-1] Al Sadd-Al Hilal: Está desfeito o nulo",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2677721/al-sadd-al-hilal-ja-ha-onzes-no-dubai-em-mais-um-jogo-de-jj?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_58deaa244f664.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677637/dois-portugueses-mortos-em-espanha-num-acidente-com-um-comboio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Acidente com comboio em Espanha faz dois mortos. Um é português",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677637/dois-portugueses-mortos-em-espanha-num-acidente-com-um-comboio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732624138000,
-         "created": 1732624138000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43976764.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
