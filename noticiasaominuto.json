@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677794/presidente-mexicana-avisa-trump-taxas-nao-vao-travar-droga-nem-imigracao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Presidente mexicana avisa Trump: taxas não vão travar droga nem imigração",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677794/presidente-mexicana-avisa-trump-taxas-nao-vao-travar-droga-nem-imigracao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732635639000,
+         "created": 1732635639000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672b8dde8fc3b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2677780/especialistas-defendem-alternativa-aos-farmacos-para-tratar-depressao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Especialistas defendem alternativa aos fármacos para tratar depressão",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672100394e45f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677612/gnr-apreende-mais-de-2400-quilos-de-bivalves-em-alcochete?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "GNR apreende mais de 2.400 quilos de bivalves em Alcochete",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677612/gnr-apreende-mais-de-2400-quilos-de-bivalves-em-alcochete?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732622421000,
-         "created": 1732622421000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/14873184.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
