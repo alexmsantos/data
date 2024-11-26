@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677615/acores-avisos-amarelos-devido-a-agitacao-maritima-vento-e-precipitacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Açores. Avisos amarelos devido a agitação marítima, vento e precipitação",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677615/acores-avisos-amarelos-devido-a-agitacao-maritima-vento-e-precipitacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732622358000,
+         "created": 1732622358000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_60a25d8002e67.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2677582/para-uns-labios-a-prova-de-frio-eis-batons-para-ter-sempre-na-mala?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "À prova de frio. 15 batons e bálsamos obrigatórios em qualquer carteira",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2677582/para-uns-labios-a-prova-de-frio-eis-batons-para-ter-sempre-na-mala?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732622280000,
+         "created": 1732622280000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745b7c70cecf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677610/comercio-externo-dos-paises-do-g20-cresce-globalmente-no-3-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Comércio externo dos países do G20 cresce globalmente no 3.º trimestre",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64ba3e53e509e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2676845/amorim-e-um-tipo-carismatico-mas-o-ego-de-mourinho-e-muito-maior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Ruben Amorim é um tipo carismático, mas o ego de Mourinho é muito maior\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2676845/amorim-e-um-tipo-carismatico-mas-o-ego-de-mourinho-e-muito-maior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732607405000,
-         "created": 1732607405000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744570642d37.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677071/cabral-baralha-contas-de-lage-para-a-missao-sobrevivencia-no-monaco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cabral 'baralha' contas de Lage para a 'missão sobrevivência' no Mónaco",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677071/cabral-baralha-contas-de-lage-para-a-missao-sobrevivencia-no-monaco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732607373000,
-         "created": 1732607373000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744944d3193f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
