@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677653/investimento-direto-do-exterior-em-portugal-subiu-para-5600-milhoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Investimento Direto do Exterior em Portugal subiu para 5.600 milhões",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677653/investimento-direto-do-exterior-em-portugal-subiu-para-5600-milhoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732626150000,
+         "created": 1732626150000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62a9b63fe43ae.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677655/guterres-pede-paz-contra-a-erosao-da-confianca-no-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Guterres pede paz contra a \"erosão da confiança\" no mundo",
@@ -559,7 +582,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2677617/gyokeres-ja-supera-messi-e-vai-atras-do-recorde-europeu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Gyokeres já supera Messi e vai atrás do recorde europeu",
+         "title": "Gyokeres já supera o melhor Messi e vai atrás do recorde europeu",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2677617/gyokeres-ja-supera-messi-e-vai-atras-do-recorde-europeu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ef1bc94c1be.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677506/amorim-ja-e-questionado-aquele-3x4x3-tera-de-evoluir-para-outra-coisa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Amorim já é questionado: \"Aquele 3x4x3 terá de evoluir para outra coisa\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677506/amorim-ja-e-questionado-aquele-3x4x3-tera-de-evoluir-para-outra-coisa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732611571000,
-         "created": 1732611571000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67435fa1dc2df.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
