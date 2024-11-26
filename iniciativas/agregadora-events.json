@@ -1,1 +1,22 @@
-
+[
+  {
+    "city": "Lisboa",
+    "date": "19/3/2025",
+    "hour": "14:30",
+    "iniciativa": "PSuperior",
+    "link": "https://example.com/",
+    "local": "Auditório do Público",
+    "name": "Dia da Literacia",
+    "type": "event"
+  },
+  {
+    "city": "Porto",
+    "date": "30/4/2025",
+    "hour": "10:00",
+    "iniciativa": "Escola do Gosto",
+    "link": "https://example.com/",
+    "local": "Auditório do Público",
+    "name": "Degustar chocolate",
+    "type": "course"
+  }
+]
