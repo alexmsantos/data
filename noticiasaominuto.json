@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677591/avaliacao-bancaria-na-habitacao-foi-de-1721-euros-por-m2-em-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Avaliação bancária na habitação foi de 1.721 euros por m2 em outubro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677591/avaliacao-bancaria-na-habitacao-foi-de-1721-euros-por-m2-em-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732620664000,
+         "created": 1732620664000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/33852461.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2677584/russia-vai-votar-projeto-de-lei-que-possibilita-reconhecimento-de-talibas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rússia vai votar projeto de lei que possibilita reconhecimento de talibãs",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745779f06230.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677461/celtics-arrasam-clippers-com-neemias-queta-em-destaque?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Celtics arrasam Clippers com Neemias Queta em destaque",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677461/celtics-arrasam-clippers-com-neemias-queta-em-destaque?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732605948000,
-         "created": 1732605948000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674577cf75a12.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
