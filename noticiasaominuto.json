@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2677966/ex-ministra-israelita-lamenta-reacoes-de-ativistas-em-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ex-ministra israelita lamenta reações de ativistas em Lisboa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2677966/ex-ministra-israelita-lamenta-reacoes-de-ativistas-em-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732659284000,
+         "created": 1732659284000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674648570a6b4.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2678099/goncalo-inacio-assume-derrota-pesada-e-diz-o-mister-deu-nos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Gonçalo Inácio assume \"derrota pesada\" e diz: \"O míster deu-nos...\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66a95d47c6671.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677930/almeirim-aberto-processo-a-professor-denunciado-por-linguagem-impropria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Almeirim. Aberto processo a professor denunciado por linguagem imprópria",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677930/almeirim-aberto-processo-a-professor-denunciado-por-linguagem-impropria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732643984000,
-         "created": 1732643984000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_54560ae64ad79.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
