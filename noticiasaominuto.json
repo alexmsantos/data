@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678007/acidente-com-varios-carros-faz-dois-feridos-na-a5-transito-cortado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Acidente com vários carros faz dois feridos na A5. Trânsito cortado",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678007/acidente-com-varios-carros-faz-dois-feridos-na-a5-transito-cortado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732649228000,
+         "created": 1732649228000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_53a158d078839.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678006/primeiro-ministro-libanes-pede-apoio-para-cessar-fogo-imediato?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Primeiro-ministro libanês pede apoio para cessar-fogo imediato",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745f17c4a3a7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677820/despiste-no-ic16-faz-um-ferido-e-condiciona-transito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Despiste no IC16 faz um ferido e condiciona trânsito",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677820/despiste-no-ic16-faz-um-ferido-e-condiciona-transito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732637139000,
-         "created": 1732637139000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6133e94aa1414.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
