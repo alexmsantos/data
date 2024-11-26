@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2677610/comercio-externo-dos-paises-do-g20-cresce-globalmente-no-3-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Comércio externo dos países do G20 cresce globalmente no 3.º trimestre",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2677610/comercio-externo-dos-paises-do-g20-cresce-globalmente-no-3-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732622130000,
+         "created": 1732622130000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65670cf76b389.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2677613/zoom-muda-o-nome-decisao-reflete-novo-foco-da-empresa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zoom 'muda' o nome. Decisão reflete novo foco da empresa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2677613/zoom-muda-o-nome-decisao-reflete-novo-foco-da-empresa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732622123000,
+         "created": 1732622123000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e95a2f8c9bb2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2677601/trabalhadores-da-egeac-vao-cumprir-greve-de-24-horas-na-quarta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Trabalhadores da EGEAC vão cumprir greve de 24 horas na quarta-feira",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744944d3193f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677475/la-fora-paulo-fonseca-sobre-brasas-e-vinicius-junior-ao-tapete?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lá fora: Paulo Fonseca 'sobre brasas' e Vinícius Júnior 'ao tapete'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677475/la-fora-paulo-fonseca-sobre-brasas-e-vinicius-junior-ao-tapete?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732607340000,
-         "created": 1732607340000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67457cc48f650.jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2677462/bolsa-de-toquio-fecha-a-perder-0-87?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolsa de Tóquio fecha a perder 0,87%",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2677462/bolsa-de-toquio-fecha-a-perder-0-87?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732606901000,
-         "created": 1732606901000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/35236756.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
