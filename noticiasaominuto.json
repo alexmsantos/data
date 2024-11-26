@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677765/onze-mortos-em-bombardeamento-israelita-contra-escola-de-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Onze mortos em bombardeamento israelita contra escola de Gaza",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677765/onze-mortos-em-bombardeamento-israelita-contra-escola-de-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732633784000,
+         "created": 1732633784000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673e508ecbb68.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2677761/bdp-pede-prudencia-a-banca-para-reforcar-resiliencia-em-cenario-adverso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "BdP pede \"prudência\" à banca para reforçar resiliência em cenário adverso",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65955574a538b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2677577/mais-de-metade-dos-portugueses-nunca-realizaram-um-teste-para-o-vih?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mais de metade dos portugueses nunca realizaram um teste para o VIH",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2677577/mais-de-metade-dos-portugueses-nunca-realizaram-um-teste-para-o-vih?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732619859000,
-         "created": 1732619859000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_577604b70f95a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
