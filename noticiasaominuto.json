@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2677705/fransergio-rescinde-contrato-com-o-maritimo-por-motivos-familiares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fransérgio rescinde contrato com o Marítimo por \"motivos familiares\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2677705/fransergio-rescinde-contrato-com-o-maritimo-por-motivos-familiares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732629984000,
+         "created": 1732629984000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66bbabb0d0eb8.jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2677702/egito-recupera-4-cadaveres-e-3-sobreviventes-de-naufragio-no-mar-vermelho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Egito recupera 4 cadáveres e 3 sobreviventes de naufrágio no Mar Vermelho",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2677702/egito-recupera-4-cadaveres-e-3-sobreviventes-de-naufragio-no-mar-vermelho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732629828000,
+         "created": 1732629828000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43972235.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2677699/marcelo-lembra-tempos-de-compromissos-com-guterres-e-sampaio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Marcelo lembra tempos de compromissos com Guterres e Sampaio",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6745a0139b73d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2677535/estuda-alerta-para-revisao-dos-ods-devido-a-alteracoes-climaticas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estudo alerta para revisão dos ODS devido a alterações climáticas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2677535/estuda-alerta-para-revisao-dos-ods-devido-a-alteracoes-climaticas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732616464000,
-         "created": 1732616464000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ceccb56a3473.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2677539/dos-cheques-as-prendas-como-solidariedade-de-pogba-descambou-em-extorsao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dos cheques às prendas. Como solidariedade de Pogba descambou em extorsão",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2677539/dos-cheques-as-prendas-como-solidariedade-de-pogba-descambou-em-extorsao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732616326000,
-         "created": 1732616326000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b7555ed656b0.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
