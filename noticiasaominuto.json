@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678925/pslisboa-acusa-moedas-de-uso-abusivo-dos-recursos-para-propaganda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PS/Lisboa acusa Moedas de \"uso abusivo\" dos recursos para propaganda",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678925/pslisboa-acusa-moedas-de-uso-abusivo-dos-recursos-para-propaganda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732742896000,
+         "created": 1732742896000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6418d0171e51a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2678914/historias-de-110-anos-do-academico-de-viseu-contadas-por-rui-miguel-tovar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Histórias de 110 anos do Académico de Viseu contadas por Rui Miguel Tovar",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/10158344.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678746/mocambique-montenegro-fala-a-guterres-em-empenho-para-travar-violencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moçambique. Montenegro fala a Guterres em empenho para \"travar violência\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678746/mocambique-montenegro-fala-a-guterres-em-empenho-para-travar-violencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732729129000,
-         "created": 1732729129000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43985272.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
