@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678803/portugal-vai-manter-se-na-linha-da-frente-em-missoes-da-onu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal vai manter-se \"na linha da frente\" em missões da ONU",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678803/portugal-vai-manter-se-na-linha-da-frente-em-missoes-da-onu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732748255000,
+         "created": 1732748255000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_660c84347d897.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678970/hezbollah-proclama-vitoria-sobre-israel-depois-de-comecar-cessar-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Hezbollah proclama vitória sobre Israel depois de começar cessar-fogo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/34311663.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678810/explosao-numa-fabrica-em-alicante-teve-origem-numa-caldeira-as-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Explosão numa fábrica em Alicante teve origem numa caldeira. As imagens",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678810/explosao-numa-fabrica-em-alicante-teve-origem-numa-caldeira-as-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732732221000,
-         "created": 1732732221000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674767139cc45.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
