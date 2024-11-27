@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678310/menina-encontra-mensagem-numa-garrafa-escrita-pela-mae-ha-26-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Menina encontra mensagem numa garrafa... escrita pela mãe há 26 anos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678310/menina-encontra-mensagem-numa-garrafa-escrita-pela-mae-ha-26-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732703401000,
+         "created": 1732703401000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c9913f6044de.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2678318/carolina-mendes-alerta-para-chequia-e-recorda-que-nao-ha-jogos-iguais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Carolina Mendes alerta para Chéquia e recorda que \"não há jogos iguais\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746bcc378475.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2677856/sony-pode-estar-prestes-a-fazer-uma-grande-aquisicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sony pode estar prestes a fazer uma grande aquisição",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2677856/sony-pode-estar-prestes-a-fazer-uma-grande-aquisicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732689098000,
-         "created": 1732689098000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61640df529f74.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
