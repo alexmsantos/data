@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678205/portugal-registou-mais-120-casos-de-vih-em-2023-do-que-no-ano-anterior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal registou mais 120 casos de VIH em 2023 do que no ano anterior",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678205/portugal-registou-mais-120-casos-de-vih-em-2023-do-que-no-ano-anterior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732690982000,
+         "created": 1732690982000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/16987103.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2678204/mbemba-faz-juras-de-amor-ao-fc-porto-serei-sempre-um-dragao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mbemba faz 'juras de amor' ao FC Porto: \"Serei sempre um dragão\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6720d6dcea428.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678053/varios-detidos-e-2-policias-feridos-em-protesto-contra-governo-na-albania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vários detidos e 2 polícias feridos em protesto contra governo na Albânia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678053/varios-detidos-e-2-policias-feridos-em-protesto-contra-governo-na-albania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732653705000,
-         "created": 1732653705000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746328be50fc.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
