@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678810/tres-mortos-e-sete-feridos-em-explosao-em-fabrica-na-cidade-de-alicante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Três mortos e sete feridos em explosão em fábrica na cidade de Alicante",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678810/tres-mortos-e-sete-feridos-em-explosao-em-fabrica-na-cidade-de-alicante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732732221000,
+         "created": 1732732221000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2678783/oe2025-governo-estuda-via-rapida-para-transportes-colectivos-na-a5?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2025. Governo estuda via rápida para transportes colectivos na A5",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67473a1b73926.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678631/portugal-nao-pode-levantar-o-pe-do-acelerador-na-area-do-vih?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal não pode \"levantar o pé do acelerador\" na área do VIH",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678631/portugal-nao-pode-levantar-o-pe-do-acelerador-na-area-do-vih?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732722326000,
-         "created": 1732722326000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43674081.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
