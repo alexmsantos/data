@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678276/pj-monta-operacao-para-deter-suspeitos-de-ataque-a-motorista-de-autocarro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PJ monta operação para deter suspeitos de ataque a motorista de autocarro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678276/pj-monta-operacao-para-deter-suspeitos-de-ataque-a-motorista-de-autocarro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732699680000,
+         "created": 1732699680000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_671a1acc60e24.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2678272/estacao-espacial-obrigada-a-evitar-colisao-e-a-2-vez-numa-semana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Estação Espacial obrigada a evitar colisão. É a 2.ª vez numa semana",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2678272/estacao-espacial-obrigada-a-evitar-colisao-e-a-2-vez-numa-semana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732699436000,
+         "created": 1732699436000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63107212cc4ea.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2678267/bussola-de-competitividade-e-grande-iniciativa-de-von-der-leyen?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Bússola de competitividade\" é grande iniciativa de von der Leyen",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67465b6292d12.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678136/ciclista-de-28-anos-em-estado-grave-apos-colisao-com-carro-em-faro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ciclista de 28 anos em estado grave após colisão com carro em Faro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678136/ciclista-de-28-anos-em-estado-grave-apos-colisao-com-carro-em-faro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732664000000,
-         "created": 1732664000000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6542779055031.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2678127/especialistas-partilham-as-suas-melhores-dicas-para-combater-a-febre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Especialistas partilham as suas melhores dicas para combater a febre",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2678127/especialistas-partilham-as-suas-melhores-dicas-para-combater-a-febre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732663868000,
-         "created": 1732663868000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65aa8cbe7613f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
