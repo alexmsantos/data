@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678698/legionella-fecha-instalacoes-nas-estacoes-ferroviarias-de-beja-e-cuba?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Legionella fecha instalações nas estações ferroviárias de Beja e Cuba",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678698/legionella-fecha-instalacoes-nas-estacoes-ferroviarias-de-beja-e-cuba?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732726496000,
+         "created": 1732726496000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a019ef556b59.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678653/russia-expulsa-jornalistas-alemaes-em-retaliacao-por-decisao-negada-por-berlim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rússia expulsa jornalistas alemães em retaliação por decisão negada por Berlim",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43906061.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2678515/tribunal-de-contas-de-angola-advoga-controlo-para-prevenir-corrupcao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tribunal de Contas de Angola advoga controlo para prevenir corrupção",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2678515/tribunal-de-contas-de-angola-advoga-controlo-para-prevenir-corrupcao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732715887000,
-         "created": 1732715887000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/30928526.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
