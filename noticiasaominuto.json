@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678427/o-funeral-de-um-carro-aconteceu-na-india-ora-veja?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O funeral de um carro? Aconteceu na Índia e custou mais de 4 mil euros",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678427/o-funeral-de-um-carro-aconteceu-na-india-ora-veja?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732712961000,
+         "created": 1732712961000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67470f572854a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678466/um-bom-benfica-e-melhor-do-que-um-bom-monaco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Um bom Benfica é melhor do que um bom Monaco\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678466/um-bom-benfica-e-melhor-do-que-um-bom-monaco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732712953000,
+         "created": 1732712953000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67444c0109070.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678440/libano-vai-reforcar-presenca-do-exercito-no-sul-apos-tregua-com-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Líbano vai reforçar presença do exército no sul após trégua com Israel",
@@ -1824,7 +1870,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678299/mulher-escondeu-crianca-durante-tres-anos-em-gaveta-no-quarto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mãe escondeu criança em gaveta para escondê-la de pai abusivo",
+         "title": "Mãe manteve criança em gaveta para escondê-la de pai abusivo",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/mundo/2678299/mulher-escondeu-crianca-durante-tres-anos-em-gaveta-no-quarto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_58fa01aa3c1a0.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678295/promessa-do-ciclismo-belga-morre-subitamente-no-dia-do-19-aniversario?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Promessa do ciclismo belga morre \"subitamente\" no dia do 19.º aniversário",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678295/promessa-do-ciclismo-belga-morre-subitamente-no-dia-do-19-aniversario?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732701287000,
-         "created": 1732701287000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746ec3fdd053.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2678293/esta-modalidade-queima-muitas-calorias-e-ajuda-a-combater-o-stress?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Esta modalidade queima muitas calorias e ajuda a combater o stress",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2678293/esta-modalidade-queima-muitas-calorias-e-ajuda-a-combater-o-stress?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732701060000,
-         "created": 1732701060000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_650200c0c4960.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
