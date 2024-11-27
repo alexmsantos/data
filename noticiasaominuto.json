@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2678329/nos-consegue-patente-no-canada-para-sistema-que-usa-padroes-de-zapping?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "NOS consegue patente no Canadá para sistema que usa padrões de 'zapping'",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2678329/nos-consegue-patente-no-canada-para-sistema-que-usa-padroes-de-zapping?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732704151000,
+         "created": 1732704151000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_566fdfa42f98c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678299/mulher-escondeu-crianca-durante-tres-anos-em-gaveta-no-quarto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mãe escondeu criança em gaveta para escondê-la de pai abusivo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6064c1dcd1d51.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678169/artur-jorge-bate-abel-e-botafogo-fica-a-quatro-pontos-do-titulo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Artur Jorge bate Abel e Botafogo fica a quatro pontos do título",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678169/artur-jorge-bate-abel-e-botafogo-fica-a-quatro-pontos-do-titulo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732689240000,
-         "created": 1732689240000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746bd1d48a2c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
