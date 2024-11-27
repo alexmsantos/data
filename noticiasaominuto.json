@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678545/burro-o-abel-nao-e-um-burro-ganha-um-titulo-de-vez-em-quando?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Burro, o Abel não é. Um burro ganha um título de vez em quando\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678545/burro-o-abel-nao-e-um-burro-ganha-um-titulo-de-vez-em-quando?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732717633000,
+         "created": 1732717633000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c6f7df8bac2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2678361/mg-atinge-os-2000-automoveis-vendidos-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "MG atinge os 2.000 automóveis vendidos em Portugal",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2678361/mg-atinge-os-2000-automoveis-vendidos-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732717585000,
+         "created": 1732717585000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66308e5bb6604.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678507/sabotagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Avião sabotado? \"Improvável\" mas Lituânia admite \"mudar de opinião\"",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fa27350c49fa.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2678339/perfumar-a-casa-so-requer-quatro-aliados-simples-comece-a-poupar-ja-hoje?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Perfumar a casa só requer quatro aliados simples. Comece a poupar já hoje",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2678339/perfumar-a-casa-so-requer-quatro-aliados-simples-comece-a-poupar-ja-hoje?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732705680000,
-         "created": 1732705680000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_660d7a3c210f4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2678355/psd-pede-ambicao-no-orcamento-da-ue-ps-critica-extrema-direita-na-ce?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PSD pede ambição no orçamento da UE, PS critica extrema-direita na CE",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2678355/psd-pede-ambicao-no-orcamento-da-ue-ps-critica-extrema-direita-na-ce?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732705644000,
-         "created": 1732705644000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f3a3b1d70638.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
