@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678656/sorriso-de-ruben-amorim-contagia-treino-do-manchester-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sorriso de Ruben Amorim 'contagia' treino do Manchester United",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678656/sorriso-de-ruben-amorim-contagia-treino-do-manchester-united?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732724247000,
+         "created": 1732724247000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67474486c5781.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678640/homem-encontra-envelope-com-5-mil-euros-em-autocarro-e-devolve-o?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Homem encontra envelope com cinco mil euros em autocarro e devolve-o",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746f0bfdf604.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678464/calor-e-chuva-regressam-em-breve-apos-varios-dias-de-sol-e-frio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Calor e chuva regressam em breve após vários dias de sol e frio",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678464/calor-e-chuva-regressam-em-breve-apos-varios-dias-de-sol-e-frio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732713626000,
-         "created": 1732713626000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_670f78af4184c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
