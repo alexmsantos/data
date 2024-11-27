@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678984/goleada-deixa-sporting-a-um-passo-da-final-four-da-liga-dos-campeoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Goleada deixa Sporting a um passo da final four da Liga dos Campeões",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678984/goleada-deixa-sporting-a-um-passo-da-final-four-da-liga-dos-campeoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732749639000,
+         "created": 1732749639000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747a8c661daa.jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678982/pslisboa-vai-viabilizar-orcamento-municipal-para-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PS/Lisboa vai viabilizar Orçamento Municipal para 2025",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c8d0ff44ddc.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678772/confrontos-violentos-entre-exercito-e-jihadistas-na-siria-provocam-57-mortes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Confrontos violentos entre Exército e 'jihadistas' na Síria provocam 57 mortes",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678772/confrontos-violentos-entre-exercito-e-jihadistas-na-siria-provocam-57-mortes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732734000000,
-         "created": 1732734000000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747680f849d3.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
