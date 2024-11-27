@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678564/om-pede-discriminacao-positiva-para-plano-de-cirurgias-fora-do-tempo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OM pede discriminação positiva para plano de cirurgias fora do tempo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678564/om-pede-discriminacao-positiva-para-plano-de-cirurgias-fora-do-tempo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732718937000,
+         "created": 1732718937000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6435ce91dbab5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678560/junta-militar-no-myanmar-diz-que-nunca-reconheceu-autoridade-do-tpi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Junta militar no Myanmar diz que \"nunca reconheceu\" autoridade do TPI",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67470032e8d34.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2678375/operacao-policial-na-europa-desmantelou-rede-de-pirataria-audiovisual?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Operação policial na Europa desmantelou rede de pirataria audiovisual",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2678375/operacao-policial-na-europa-desmantelou-rede-de-pirataria-audiovisual?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732707211000,
-         "created": 1732707211000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63bd334cb68c7.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
