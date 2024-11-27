@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678323/partiu-vidros-da-casa-e-do-carro-do-ex-que-agrediu-foi-detida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Partiu vidros da casa e do carro do 'ex', que \"agrediu\". Foi detida",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678323/partiu-vidros-da-casa-e-do-carro-do-ex-que-agrediu-foi-detida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732703576000,
+         "created": 1732703576000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_577284937dfde.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678310/menina-encontra-mensagem-numa-garrafa-escrita-pela-mae-ha-26-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Menina encontra mensagem numa garrafa... escrita pela mãe há 26 anos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43972794.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678160/apos-20-anos-em-fuga-terrorista-procurado-nos-eua-detido-no-reino-unido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Após 20 anos em fuga, terrorista procurado nos EUA detido no Reino Unido",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678160/apos-20-anos-em-fuga-terrorista-procurado-nos-eua-detido-no-reino-unido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732689142000,
-         "created": 1732689142000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746bcc378475.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
