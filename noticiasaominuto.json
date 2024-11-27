@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678980/francisco-conceicao-vence-premio-de-melhor-em-campo-e-deixa-mensagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Francisco Conceição vence prémio de melhor em campo e deixa mensagem",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678980/francisco-conceicao-vence-premio-de-melhor-em-campo-e-deixa-mensagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732748769000,
+         "created": 1732748769000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747a5a0793be.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678974/testemunhas-dao-retratos-diferentes-de-envolvido-em-morte-de-professor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Testemunhas dão retratos diferentes de envolvido em morte de professor",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43985516.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678807/libertados-mais-13-detidos-acusados-de-tentativa-de-golpe-na-guine-bissau?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Libertados mais 13 detidos acusados de tentativa de golpe na Guiné-Bissau",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678807/libertados-mais-13-detidos-acusados-de-tentativa-de-golpe-na-guine-bissau?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732733381000,
-         "created": 1732733381000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/10160638.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
