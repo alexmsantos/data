@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2678227/luxo-e-mais-luxo-huawei-lanca-o-carro-mais-caro-da-china?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Luxo e mais luxo. Huawei lança o carro elétrico mais caro da China",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2678227/luxo-e-mais-luxo-huawei-lanca-o-carro-mais-caro-da-china?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732702992000,
+         "created": 1732702992000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746d1f921965.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678309/cplp-defende-pluralismo-como-instrumento-para-construir-aliancas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "CPLP defende pluralismo como instrumento para construir alianças",
@@ -16,7 +39,7 @@
          },
          "published": 1732702734000,
          "created": 1732702734000,
-         "category": "Mundo",
+         "category": "País",
          "content": "undefined",
          "enclosures": [
             {
@@ -1479,7 +1502,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/fama/2678218/estou-a-passar-fome-sara-norte-recebe-carta-da-mae-depois-de-morrer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Estou a passar fome.\" Sara Norte recebe carta da mãe depois de morrer",
+         "title": "\"Estou a passar fome.\" Sara Norte recebeu carta da mãe depois de morrer",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/fama/2678218/estou-a-passar-fome-sara-norte-recebe-carta-da-mae-depois-de-morrer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43949737.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678155/decisoes-de-merkel-visaram-evitar-invasao-russa-da-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Decisões de Merkel visaram \"evitar\" invasão russa da Ucrânia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678155/decisoes-de-merkel-visaram-evitar-invasao-russa-da-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732688696000,
-         "created": 1732688696000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_633c0610d05e9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
