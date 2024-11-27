@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678963/milhares-de-libaneses-regressam-a-casa-apos-cessar-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Milhares de libaneses regressam a casa após cessar-fogo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678963/milhares-de-libaneses-regressam-a-casa-apos-cessar-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732747079000,
+         "created": 1732747079000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746ff48d846b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678953/foi-uma-vitoria-de-toda-a-equipa-todos-eles-sao-decisivos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Foi uma vitória de toda a equipa. Todos eles são decisivos\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678953/foi-uma-vitoria-de-toda-a-equipa-todos-eles-sao-decisivos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732746989000,
+         "created": 1732746989000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747986b5f260.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2678945/premio-salavisa-contraria-onda-de-reducao-mundial-do-apoio-as-artes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Prémio Salavisa contraria onda de redução mundial do apoio às artes",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_63a58b4970a52.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678769/odair-da-1-chamada-ate-chegar-ao-local-inem-demorou-16-minutos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Odair. INEM demorou 16 minutos desde a 1.ª chamada até chegar ao local",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678769/odair-da-1-chamada-ate-chegar-ao-local-inem-demorou-16-minutos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732730944000,
-         "created": 1732730944000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_671d1abc60f93.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2678346/conhece-alguem-da-lista-dos-signos-mais-arrogantes-do-zodiaco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Conhece alguém da lista dos signos mais arrogantes do zodíaco?",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2678346/conhece-alguem-da-lista-dos-signos-mais-arrogantes-do-zodiaco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732730471000,
-         "created": 1732730471000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64efabaca6f1a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
