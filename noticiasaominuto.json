@@ -1,26 +1,95 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
-         "id": "https://www.noticiasaominuto.com/economia/2678457/isencao-de-premios-de-desempenho-em-risco-nem-queria-acreditar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "id": "https://www.noticiasaominuto.com/mundo/2678440/libano-vai-reforcar-presenca-do-exercito-no-sul-apos-tregua-com-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Líbano vai reforçar presença do exército no sul após trégua com Israel",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678440/libano-vai-reforcar-presenca-do-exercito-no-sul-apos-tregua-com-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732712778000,
+         "created": 1732712778000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674715f508d75.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678446/metsola-realca-que-pe-cumpriu-o-seu-papel-na-aprovacao-da-comissao-europeia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Metsola realça que PE cumpriu o seu papel na aprovação da Comissão Europeia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678446/metsola-realca-que-pe-cumpriu-o-seu-papel-na-aprovacao-da-comissao-europeia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732712718000,
+         "created": 1732712718000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67471910e9a56.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678457/isencao-de-premios-de-desempenho-em-risco-nem-queria-acreditar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Isenção de prémios de desempenho em risco? \"Nem queria acreditar\"",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2678457/isencao-de-premios-de-desempenho-em-risco-nem-queria-acreditar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/pais/2678457/isencao-de-premios-de-desempenho-em-risco-nem-queria-acreditar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
          "published": 1732712489000,
          "created": 1732712489000,
-         "category": "Economia",
+         "category": "País",
          "content": "undefined",
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6638d5d379ea2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2678392/oitava-edicao-do-festival-literario-internacional-do-interior-em-junho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oitava edição do Festival Literário Internacional do Interior em junho",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2678392/oitava-edicao-do-festival-literario-internacional-do-interior-em-junho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732712459000,
+         "created": 1732712459000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5753d5dc33ea6.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -605,7 +674,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/economia/2678403/ucrania-italia-e-romenia-aderem-a-alianca-europeia-de-nacoes-startup?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ucrânia, Itália e Roménia aderem à Aliança Europeia de Nações Startup",
+         "title": "Ucrânia, Itália e Roménia aderem à Europe Startup Nations Alliance",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/economia/2678403/ucrania-italia-e-romenia-aderem-a-alianca-europeia-de-nacoes-startup?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2229,75 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_650200c0c4960.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678292/iraque-e-huthis-do-iemen-saudam-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Iraque e Huthis do Iémen saúdam cessar-fogo no Líbano",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678292/iraque-e-huthis-do-iemen-saudam-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732701040000,
-         "created": 1732701040000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5693f2de0f66e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678291/psicologo-do-botafogo-posa-com-artur-jorge-e-envia-recado-palhacada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Psicólogo do Botafogo posa com Artur Jorge e envia recado: \"Palhaçada\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678291/psicologo-do-botafogo-posa-com-artur-jorge-e-envia-recado-palhacada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732700784000,
-         "created": 1732700784000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746ea48316a8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678288/agricultura-e-pescas-merecem-que-trabalho-arduo-seja-recompensado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Agricultura e pescas merecem que \"trabalho árduo seja recompensado\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678288/agricultura-e-pescas-merecem-que-trabalho-arduo-seja-recompensado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732700766000,
-         "created": 1732700766000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672cfebe1ad12.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
