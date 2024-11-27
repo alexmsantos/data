@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678498/nacoes-unidas-avisam-que-fome-em-gaza-atingiu-niveis-criticos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Nações Unidas avisam que fome em Gaza atingiu \"níveis críticos\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678498/nacoes-unidas-avisam-que-fome-em-gaza-atingiu-niveis-criticos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732714688000,
+         "created": 1732714688000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67430b680f5f3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678479/alentejo-e-a-regiao-com-maior-consumo-de-alcool-e-tabaco-entre-os-jovens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Alentejo é a região com maior consumo de álcool e tabaco entre os jovens",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746f2ad2db7d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678309/cplp-defende-pluralismo-como-instrumento-para-construir-aliancas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "CPLP defende pluralismo como instrumento para construir alianças",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678309/cplp-defende-pluralismo-como-instrumento-para-construir-aliancas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732702734000,
-         "created": 1732702734000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64e7cc9ac27fd.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
