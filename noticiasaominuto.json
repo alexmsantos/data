@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678775/pepe-comenta-crise-no-fc-porto-sei-aquilo-que-os-adeptos-querem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pepe comenta crise no FC Porto: \"Sei aquilo que os adeptos querem...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678775/pepe-comenta-crise-no-fc-porto-sei-aquilo-que-os-adeptos-querem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732730364000,
+         "created": 1732730364000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65ca9b72a2e25.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678767/pr-israelita-espera-que-tregua-no-libano-permita-libertar-refens-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PR israelita espera que trégua no Líbano permita libertar reféns em Gaza",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678767/pr-israelita-espera-que-tregua-no-libano-permita-libertar-refens-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732730222000,
+         "created": 1732730222000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61f7ef396d10b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678761/funchal-faz-atualizacao-profunda-ao-plano-municipal-de-emergencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Funchal faz atualização \"profunda\" ao Plano Municipal de Emergência",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_556c62bd26293.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678589/montegro-felicita-von-der-leyen-vamos-executar-as-nossas-prioridades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Montegro felicita Von der Leyen. \"Vamos executar as nossas prioridades\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678589/montegro-felicita-von-der-leyen-vamos-executar-as-nossas-prioridades?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732721413000,
-         "created": 1732721413000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6626bcd1001e2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678580/mercadona-despede-funcionario-por-comer-croquete-que-ia-para-o-lixo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mercadona despediu funcionário por comer croquete... que ia para o lixo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678580/mercadona-despede-funcionario-por-comer-croquete-que-ia-para-o-lixo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732721360000,
-         "created": 1732721360000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d0faa15bb32.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
