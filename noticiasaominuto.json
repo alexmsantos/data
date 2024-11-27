@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678553/fim-de-refinaria-de-litio-em-setubal-e-preocupante-e-triste?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fim de refinaria de lítio em Setúbal é \"preocupante e triste\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678553/fim-de-refinaria-de-litio-em-setubal-e-preocupante-e-triste?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732718404000,
+         "created": 1732718404000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6615292bdcfce.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2678548/il-esperava-que-prioridades-da-comissao-europeia-fossem-mais-detalhadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "IL esperava que prioridades da Comissão Europeia fossem mais detalhadas",
@@ -145,7 +168,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2678507/sabotagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Avião sabotado? \"Improvável\" mas Lituânia admite \"mudar de opinião\"",
+         "title": "Avião sabotado? \"Improvável\", mas Lituânia admite \"mudar de opinião\"",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/mundo/2678507/sabotagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_657f0f8a0125f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678353/opositora-bielorrussa-insta-cidadaos-a-nao-contestarem-eleicoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Não se sacrifiquem\". Antes de eleições, opositora bielorrussa faz apelo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678353/opositora-bielorrussa-insta-cidadaos-a-nao-contestarem-eleicoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732706257000,
-         "created": 1732706257000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746fc3774102.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
