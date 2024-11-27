@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2678573/pcp-votou-contra-em-rejeicao-do-programa-politico-da-comissao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PCP votou contra em \"rejeição do programa político\" da Comissão",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2678573/pcp-votou-contra-em-rejeicao-do-programa-politico-da-comissao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732719631000,
+         "created": 1732719631000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6626c378d5463.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2678572/meo-tem-ativos-muito-fortes-e-diferenciadores-para-combater-digi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Meo tem \"ativos muito fortes\" e \"diferenciadores\" para combater Digi",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_655efea1b9170.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2678343/o-ritual-que-claudio-ramos-faz-todas-as-noites-antes-de-se-deitar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O ritual que Cláudio Ramos faz \"todas as noites\" antes de se deitar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/fama/2678343/o-ritual-que-claudio-ramos-faz-todas-as-noites-antes-de-se-deitar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732708150000,
-         "created": 1732708150000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64dcd9d63b469.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
