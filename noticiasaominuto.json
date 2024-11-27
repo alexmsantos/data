@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2678448/espanha-tem-um-novo-tres-estrelas-michelin-quanto-custa-uma-refeicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Espanha tem um novo três estrelas Michelin. Quanto custa uma refeição?",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2678448/espanha-tem-um-novo-tres-estrelas-michelin-quanto-custa-uma-refeicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732712292000,
+         "created": 1732712292000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674714525c37b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678447/producao-de-residuos-por-turistas-tem-impacto-significativo-no-algarve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Produção de resíduos por turistas tem impacto significativo no Algarve",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_559fbc6e6bd5c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678281/circulacao-retomada-em-duas-vias-na-ponte-vasco-da-gama-apos-acidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Circulação retomada em duas vias na Ponte Vasco da Gama após acidente",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678281/circulacao-retomada-em-duas-vias-na-ponte-vasco-da-gama-apos-acidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732700616000,
-         "created": 1732700616000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62deff96b3720.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
