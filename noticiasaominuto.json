@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678856/suspensa-juiza-que-alegou-falta-de-condicoes-no-gabinete-para-adiar-julgamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Suspensa juíza que alegou falta de condições no gabinete para adiar julgamentos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678856/suspensa-juiza-que-alegou-falta-de-condicoes-no-gabinete-para-adiar-julgamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732735843000,
+         "created": 1732735843000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_557fcc83f1d99.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2678858/receita-saborosa-de-camarao-panado-na-air-fryer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Receita saborosa de camarão panado (na 'air fryer')",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674747e3c07f1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678658/investigadores-criam-mapa-sobre-especies-vulneraveis-no-parque-de-montesinho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Investigadores criam mapa sobre espécies vulneráveis no Parque de Montesinho",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678658/investigadores-criam-mapa-sobre-especies-vulneraveis-no-parque-de-montesinho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732724651000,
-         "created": 1732724651000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/23152888.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
