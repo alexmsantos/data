@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2678457/isencao-de-premios-de-desempenho-em-risco-nem-queria-acreditar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Isenção de prémios de desempenho em risco? \"Nem queria acreditar\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2678457/isencao-de-premios-de-desempenho-em-risco-nem-queria-acreditar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732712489000,
+         "created": 1732712489000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6638d5d379ea2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2678448/espanha-tem-um-novo-tres-estrelas-michelin-quanto-custa-uma-refeicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Espanha tem um novo três estrelas Michelin. Quanto custa uma refeição?",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672cfebe1ad12.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2678283/bolsas-europeias-em-baixa-pendentes-dos-eua-e-da-situacao-geopolitica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolsas europeias em baixa, pendentes dos EUA e da situação geopolítica",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2678283/bolsas-europeias-em-baixa-pendentes-dos-eua-e-da-situacao-geopolitica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732700640000,
-         "created": 1732700640000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_559fbc6e6bd5c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
