@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2678469/pcp-questiona-sobre-violacao-da-liberdade-de-acao-sindical-pelo-publico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PCP questiona sobre \"violação da liberdade de ação sindical\" pelo Público",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2678469/pcp-questiona-sobre-violacao-da-liberdade-de-acao-sindical-pelo-publico?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732716254000,
+         "created": 1732716254000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5842c71bb3766.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2678485/governo-elimina-limites-para-teor-de-cinzas-em-vinhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo elimina limites para teor de cinzas em vinhos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746f9d25c163.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678334/eua-padre-acusado-de-abusos-pode-ter-tido-filhos-com-as-suas-vitimas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EUA. Padre acusado de abusos pode ter tido filhos com as suas vítimas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678334/eua-padre-acusado-de-abusos-pode-ter-tido-filhos-com-as-suas-vitimas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732704552000,
-         "created": 1732704552000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746f8063fb05.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
