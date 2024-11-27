@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678258/ministro-da-defesa-chines-investigado-estao-a-perseguir-sombras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ministro da Defesa chinês investigado? \"Estão a perseguir sombras\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678258/ministro-da-defesa-chines-investigado-estao-a-perseguir-sombras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732698730000,
+         "created": 1732698730000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65dc6333d4511.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2678236/dentes-de-dragao-sao-aposta-em-espanha-portugal-devia-adotar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "'Dentes de dragão' são aposta em Espanha. Portugal devia adotar?",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2678236/dentes-de-dragao-sao-aposta-em-espanha-portugal-devia-adotar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732698628000,
+         "created": 1732698628000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_655e19a3a35fd.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2678262/romeno-e-a-solucao-low-cost-do-barcelona-para-a-ala-direita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Romeno é a solução 'low cost' do Barcelona para a ala direita",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b68b43f209a3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678132/belenenses-de-luto-preparador-morre-vitima-de-cancro-aos-27-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Belenenses de luto. Preparador morre vítima de cancro aos 27 anos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678132/belenenses-de-luto-preparador-morre-vitima-de-cancro-aos-27-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732662857000,
-         "created": 1732662857000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674656294d804.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678131/homem-que-sequestrou-e-agrediu-em-negocio-de-droga-condenado-a-7-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Homem que sequestrou e agrediu em negócio de droga condenado a 7 anos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678131/homem-que-sequestrou-e-agrediu-em-negocio-de-droga-condenado-a-7-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732662851000,
-         "created": 1732662851000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_670652c02e72f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
