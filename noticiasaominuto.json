@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2678232/china-garante-proxima-colheita-de-soja-brasileira-face-a-tensoes-com-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "China garante próxima colheita de soja brasileira face a tensões com EUA",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2678232/china-garante-proxima-colheita-de-soja-brasileira-face-a-tensoes-com-eua?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732695970000,
+         "created": 1732695970000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_556d4d74e0f9a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678235/transito-na-vasco-da-gama-reabriu-numa-via-apos-acidente-com-12-veiculos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Trânsito na Vasco da Gama reabriu numa via após acidente com 12 veículos",
@@ -20,7 +43,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6424a3efbbb8f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6467853a51455.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2678090/aprovado-reforco-de-meios-humanos-para-o-combate-a-corrupcao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aprovado reforço de meios humanos para o combate à corrupção",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2678090/aprovado-reforco-de-meios-humanos-para-o-combate-a-corrupcao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732658567000,
-         "created": 1732658567000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65747eb16207d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
