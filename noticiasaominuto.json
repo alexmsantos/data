@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2678926/rui-garrido-pereira-garante-ter-solucoes-para-problemas-do-boavista?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rui Garrido Pereira garante ter soluções para problemas do Boavista",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2678926/rui-garrido-pereira-garante-ter-solucoes-para-problemas-do-boavista?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732742613000,
+         "created": 1732742613000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64d8e67e55b5c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2678927/ventura-diz-que-finalmente-montenegro-percebeu-que-policia-precisa-de-meios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ventura diz que \"finalmente\" Montenegro percebeu que polícia precisa de meios",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fa3ad340552c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678754/nani-pronto-para-pendurar-as-chuteiras-quando-me-veem-tocar-na-bola?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nani pronto para pendurar as chuteiras? \"Quando me veem tocar na bola...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678754/nani-pronto-para-pendurar-as-chuteiras-quando-me-veem-tocar-na-bola?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732729040000,
-         "created": 1732729040000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747588db9053.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
