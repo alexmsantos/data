@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678918/portugal-nao-pode-viver-a-sombra-da-bananeira-em-materia-de-seguranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal não pode \"viver à sombra da bananeira\" em matéria de segurança",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678918/portugal-nao-pode-viver-a-sombra-da-bananeira-em-materia-de-seguranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732741062000,
+         "created": 1732741062000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43986797.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2678916/nao-me-passa-pela-cabeca-governo-contra-aumento-das-pensoes-do-ps?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Não me passa pela cabeça\" Governo contra aumento das pensões do PS",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_60a76c333f7cf.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2678737/propostas-para-estudo-da-saude-mental-dos-profissionais-de-saude-aprovada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Propostas para estudo da saúde mental dos profissionais de saúde aprovada",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2678737/propostas-para-estudo-da-saude-mental-dos-profissionais-de-saude-aprovada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732728354000,
-         "created": 1732728354000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fe33da93dc61.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
