@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678424/burundi-liberta-cerca-de-4-mil-detidos-para-aliviar-prisoes-sobrelotadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Burundi liberta cerca de 4 mil detidos para aliviar prisões sobrelotadas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678424/burundi-liberta-cerca-de-4-mil-detidos-para-aliviar-prisoes-sobrelotadas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732710680000,
+         "created": 1732710680000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d9e66c768e5e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678423/economia-mocambicana-com-crescimento-de-3-68-no-terceiro-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Economia moçambicana com crescimento de 3,68% no terceiro trimestre",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678423/economia-mocambicana-com-crescimento-de-3-68-no-terceiro-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732710513000,
+         "created": 1732710513000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/23939076.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2678421/receitas-da-altice-portugal-sobem-4-6-ate-setembro-para-2049-milhoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Receitas da Altice Portugal sobem 4,6% até setembro para 2.049 milhões",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6453d740a2a27.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2678268/ferramenta-da-openai-lancada-sem-autorizacao-artistas-em-protesto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ferramenta da OpenAI lançada sem autorização. Artistas em protesto",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2678268/ferramenta-da-openai-lancada-sem-autorizacao-artistas-em-protesto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732698838000,
-         "created": 1732698838000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67067d949f9f9.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678258/ministro-da-defesa-chines-investigado-estao-a-perseguir-sombras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ministro da Defesa chinês investigado? \"Estão a perseguir sombras\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678258/ministro-da-defesa-chines-investigado-estao-a-perseguir-sombras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732698730000,
-         "created": 1732698730000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65dc6333d4511.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
