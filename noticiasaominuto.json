@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678350/cerca-de-44-mil-pessoas-morreram-em-2023-vitimas-de-vih-em-mocambique?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cerca de 44 mil pessoas morreram em 2023 vítimas de VIH em Moçambique",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678350/cerca-de-44-mil-pessoas-morreram-em-2023-vitimas-de-vih-em-mocambique?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732705438000,
+         "created": 1732705438000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/23454460.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2678348/oe2025-bruxelas-avisa-que-vai-supervisionar-se-governo-retrocede-no-isp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2025. Bruxelas avisa que vai supervisionar se Governo retrocede no ISP",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/38749549.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2678162/cerca-de-62-dos-influencers-nao-verificam-conteudo-antes-de-partilhar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cerca de 62% dos 'influencers' não verificam conteúdo antes de partilhar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2678162/cerca-de-62-dos-influencers-nao-verificam-conteudo-antes-de-partilhar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732691888000,
-         "created": 1732691888000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_633e9507d60f2.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
