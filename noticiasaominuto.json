@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678845/guterres-expressa-gratidao-pela-contribuicao-exemplar-de-portugal-a-onu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guterres expressa \"gratidão pela contribuição exemplar\" de Portugal à ONU",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678845/guterres-expressa-gratidao-pela-contribuicao-exemplar-de-portugal-a-onu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732736048000,
+         "created": 1732736048000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672171d48d5cc.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678856/suspensa-juiza-que-alegou-falta-de-condicoes-no-gabinete-para-adiar-julgamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Suspensa juíza que alegou falta de condições no gabinete para adiar julgamentos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_56202d9e7c397.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678668/o-que-passou-na-cabeca-de-neuer-lance-no-bayern-psg-tornou-se-viral?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O que passou na cabeça de Neuer? Lance no Bayern-PSG tornou-se viral",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678668/o-que-passou-na-cabeca-de-neuer-lance-no-bayern-psg-tornou-se-viral?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732724705000,
-         "created": 1732724705000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674747e3c07f1.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
