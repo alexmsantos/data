@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678299/mulher-escondeu-crianca-durante-tres-anos-em-gaveta-no-quarto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mãe escondeu criança em gaveta para escondê-la de pai abusivo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678299/mulher-escondeu-crianca-durante-tres-anos-em-gaveta-no-quarto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732703833000,
+         "created": 1732703833000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_571a9542bf550.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678323/partiu-vidros-da-casa-e-do-carro-do-ex-que-agrediu-foi-detida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Partiu vidros da casa e do carro do 'ex', que \"agrediu\". Foi detida",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6746bd1d48a2c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678179/atletismo-quer-imitar-futebol-mesmo-que-hino-so-toque-para-o-vencedor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Atletismo quer 'imitar' futebol, mesmo que hino só toque para o vencedor",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678179/atletismo-quer-imitar-futebol-mesmo-que-hino-so-toque-para-o-vencedor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732689159000,
-         "created": 1732689159000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43972794.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
