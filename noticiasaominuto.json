@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678628/oposicao-a-independencia-na-catalunha-no-valor-mais-alto-dos-ultimos-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oposição à independência na Catalunha no valor mais alto dos últimos anos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678628/oposicao-a-independencia-na-catalunha-no-valor-mais-alto-dos-ultimos-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732750287000,
+         "created": 1732750287000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6519e85ac091a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678770/primeiro-ministro-sauda-noticias-encorajadoras-de-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Primeiro-ministro saúda \"notícias encorajadoras\" de cessar-fogo no Líbano",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747664fda106.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678831/londres-vai-reforcar-apoio-ao-exercito-libanes-para-proteger-cessar-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Londres vai reforçar apoio ao exército libanês para proteger cessar-fogo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678831/londres-vai-reforcar-apoio-ao-exercito-libanes-para-proteger-cessar-fogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732734260000,
-         "created": 1732734260000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66b7795a63fda.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
