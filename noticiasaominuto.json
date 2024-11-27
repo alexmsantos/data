@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2678559/foi-preciso-engolir-um-travo-amargo-para-aprovar-nova-comissao-europeia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Foi preciso \"engolir um travo amargo\" para aprovar nova Comissão Europeia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2678559/foi-preciso-engolir-um-travo-amargo-para-aprovar-nova-comissao-europeia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732718525000,
+         "created": 1732718525000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5be1fadf5cb5c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2678553/fim-de-refinaria-de-litio-em-setubal-e-preocupante-e-triste?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fim de refinaria de lítio em Setúbal é \"preocupante e triste\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_661064c8b6be3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678365/asae-apreende-43-toneladas-de-aditivos-enologicos-a-base-de-acucar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ASAE apreende 43 toneladas de aditivos enológicos à base de açúcar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678365/asae-apreende-43-toneladas-de-aditivos-enologicos-a-base-de-acucar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732706297000,
-         "created": 1732706297000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_657f0f8a0125f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
