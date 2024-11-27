@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678702/sindicato-convoca-greve-dos-trabalhadores-das-santas-casas-para-sabado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sindicato convoca greve dos trabalhadores das Santas Casas para sábado",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678702/sindicato-convoca-greve-dos-trabalhadores-das-santas-casas-para-sabado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732727245000,
+         "created": 1732727245000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_562baaeb9e5a2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2678717/inflacao-acelera-em-outubro-para-2-3-nos-estados-unidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Inflação acelera em outubro para 2,3% nos Estados Unidos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2678717/inflacao-acelera-em-outubro-para-2-3-nos-estados-unidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732727159000,
+         "created": 1732727159000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43428289.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2678704/governo-devera-avaliar-alargamento-da-acao-social-aos-alunos-dos-privados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo deverá avaliar alargamento da ação social aos alunos dos privados",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67192226934ab.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678523/pe-aprova-orcamento-da-ue-para-2025-que-cresce-6-face-ao-ano-anterior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PE aprova orçamento da UE para 2025 que cresce 6% face ao ano anterior",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678523/pe-aprova-orcamento-da-ue-para-2025-que-cresce-6-face-ao-ano-anterior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732716697000,
-         "created": 1732716697000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6141bb03a91d2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678524/procurador-pede-mandado-do-tpi-contra-lider-de-junta-militar-de-myanmar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Procurador pede mandado do TPI contra líder de junta militar de Myanmar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678524/procurador-pede-mandado-do-tpi-contra-lider-de-junta-militar-de-myanmar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732716625000,
-         "created": 1732716625000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672a06e9c2e8f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
