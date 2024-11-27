@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2678549/eua-homem-desapareceu-em-1999-e-foi-encontrado-agora-pela-irma?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EUA. Homem desapareceu em 1999 e foi encontrado agora pela irmã",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2678549/eua-homem-desapareceu-em-1999-e-foi-encontrado-agora-pela-irma?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732721272000,
+         "created": 1732721272000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67472d1d19ae2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2678605/tutela-admite-recurso-ao-privado-e-social-para-recuperar-cirurgias-em-atraso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tutela admite recurso ao privado e social para recuperar cirurgias em atraso",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2678605/tutela-admite-recurso-ao-privado-e-social-para-recuperar-cirurgias-em-atraso?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732721191000,
+         "created": 1732721191000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43931281.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2678585/andre-villas-boas-perentorio-a-confianca-em-vitor-bruno-mantem-se?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "André Villas-Boas perentório: \"A confiança em Vítor Bruno mantém-se\"",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747091ac9641.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678406/assim-foi-a-desesperante-viagem-do-vitoria-sc-rumo-a-astana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Assim foi a 'desesperante' viagem do Vitória SC rumo a Astana",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678406/assim-foi-a-desesperante-viagem-do-vitoria-sc-rumo-a-astana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732709031000,
-         "created": 1732709031000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67470a83d1496.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2678401/cirurgia-fora-do-tempo-maximo-hospitais-poderao-definir-lista-de-doentes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cirurgia fora do tempo máximo? Hospitais poderão definir lista de doentes",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2678401/cirurgia-fora-do-tempo-maximo-hospitais-poderao-definir-lista-de-doentes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732708985000,
-         "created": 1732708985000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b0fc710155eb.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
