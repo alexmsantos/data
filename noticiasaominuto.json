@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679298/jose-faria-retirou-coisas-positivas-na-goleada-com-o-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "José Faria retirou coisas positivas na goleada com o Benfica",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679298/jose-faria-retirou-coisas-positivas-na-goleada-com-o-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732798144000,
+         "created": 1732798144000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672e5139356d5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2679296/franz-ferdinand-entre-as-primeiras-confirmacoes-do-paredes-de-coura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Franz Ferdinand entre as primeiras confirmações do Paredes de Coura",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/24230287.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679139/carlo-ancelotti-aponta-remedio-para-kylian-mbappe-apos-penalti-falhado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Carlo Ancelotti aponta \"remédio\" para Kylian Mbappé após penálti falhado",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679139/carlo-ancelotti-aponta-remedio-para-kylian-mbappe-apos-penalti-falhado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732787199000,
-         "created": 1732787199000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67483a90e45cf.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
