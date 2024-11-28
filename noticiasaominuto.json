@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2679376/chega-abdica-de-reposicao-do-salario-be-opoe-se-nesta-materia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Chega abdica de reposição do salário, BE opõe-se nesta matéria",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2679376/chega-abdica-de-reposicao-do-salario-be-opoe-se-nesta-materia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732802762000,
+         "created": 1732802762000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56df40dc73f7e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679368/faturacao-da-empresa-jysk-aumentou-27-2-em-portugal-para-44-9-milhoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Faturação da empresa Jysk aumentou 27,2% em Portugal para 44,9 milhões",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43685075.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2679194/o-viciante-jogo-de-cartas-que-fez-4-milhoes-de-euros-em-dois-meses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O (viciante) jogo de cartas que fez 4 milhões de euros em dois meses",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2679194/o-viciante-jogo-de-cartas-que-fez-4-milhoes-de-euros-em-dois-meses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732791504000,
-         "created": 1732791504000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67484c9be3612.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
