@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2679364/be-acusa-governo-de-abrir-leilao-de-doentes-do-sns-para-privados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "BE acusa Governo de abrir \"leilão de doentes\" do SNS para privados",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2679364/be-acusa-governo-de-abrir-leilao-de-doentes-do-sns-para-privados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732802000000,
+         "created": 1732802000000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6697c8141acaf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679310/aceitou-700-de-amiga-para-matar-ex-mas-arrependeu-se-foram-detidas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Aceitou 700€ de amiga para matar 'ex', mas arrependeu-se. Foram detidas",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fbe64818fa6e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679161/a-sufocar-sobrevivente-de-naufragio-no-egito-conta-como-se-salvou?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"A sufocar\". Sobrevivente de naufrágio no Egito conta como se salvou",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679161/a-sufocar-sobrevivente-de-naufragio-no-egito-conta-como-se-salvou?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732790631000,
-         "created": 1732790631000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674844a58a681.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
