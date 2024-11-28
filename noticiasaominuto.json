@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2679067/jogadores-do-atl-madrid-conseguiram-escrever-num-carro-de-650-cv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Jogadores do Atl. Madrid conseguiram escrever num carro de 650 cv?",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/auto/2679067/jogadores-do-atl-madrid-conseguiram-escrever-num-carro-de-650-cv?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732785305000,
+         "created": 1732785305000,
+         "category": "Auto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748253f942fd.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679104/luta-renhida-entre-tres-forcas-faz-antecipar-nova-coligacao-na-irlanda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Luta renhida entre três forças faz antecipar nova coligação na Irlanda",
@@ -44,6 +67,29 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748312f307c3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2679108/edicao-especial-da-blitz-com-tiragem-de-10000-exemplares-na-6-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Edição especial da Blitz com tiragem de 10.000 exemplares na 6.ª feira",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2679108/edicao-especial-da-blitz-com-tiragem-de-10000-exemplares-na-6-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732785060000,
+         "created": 1732785060000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58b6c4cd35d19.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6686e7188ff2a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2678962/ladrao-tentou-assaltar-banco-com-ajuda-de-chave-inglesa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ladrão tentou assaltar banco com ajuda de... chave inglesa",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2678962/ladrao-tentou-assaltar-banco-com-ajuda-de-chave-inglesa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732748425000,
-         "created": 1732748425000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c5c13a6a237.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2678569/telemovel-espiado-ronan-farrow-deixa-conselho-banal-para-o-evitar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Telemóvel espiado? Ronan Farrow deixa conselho \"banal\" para o evitar",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2678569/telemovel-espiado-ronan-farrow-deixa-conselho-banal-para-o-evitar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732748400000,
-         "created": 1732748400000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67473140aff38.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
