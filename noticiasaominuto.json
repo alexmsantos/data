@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679709/navio-de-ong-resgata-70-migrantes-apos-incidente-com-guardas-libios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Navio de ONG resgata 70 migrantes após incidente com guardas líbios",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679709/navio-de-ong-resgata-70-migrantes-apos-incidente-com-guardas-libios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732823332000,
+         "created": 1732823332000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5407304e4b5b3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679713/passe-gratuito-para-jovens-ate-23-anos-pode-ser-pedido-a-partir-de-domingo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Passe gratuito para jovens até 23 anos pode ser pedido a partir de domingo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67489cdc44852.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679496/dois-bulgaros-admitem-ter-espiado-em-beneficio-da-russia-no-reino-unido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dois búlgaros admitem ter espiado \"em benefício da Rússia\" no Reino Unido",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679496/dois-bulgaros-admitem-ter-espiado-em-beneficio-da-russia-no-reino-unido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732811967000,
-         "created": 1732811967000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67489654c65d1.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
