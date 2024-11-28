@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2679308/declaracao-de-pm-caricata-para-o-chega-e-inusitado-para-o-pan?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Declaração de PM? \"Caricata\" para o Chega e \"inusitado\" para o PAN",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2679308/declaracao-de-pm-caricata-para-o-chega-e-inusitado-para-o-pan?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732798982000,
+         "created": 1732798982000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6614181651c23.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2679303/ex-mai-diz-que-investimentos-anunciados-por-montenegro-estavam-planeados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ex-MAI diz que investimentos anunciados por Montenegro estavam planeados",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_59a514ea3b6e8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2679122/mark-ambor-e-nos-alive-belong-together-na-estreia-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mark Ambor e NOS Alive \"belong together\" na estreia em Portugal",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/cultura/2679122/mark-ambor-e-nos-alive-belong-together-na-estreia-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732787838000,
-         "created": 1732787838000,
-         "category": "Cultura",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748383e10e4d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
