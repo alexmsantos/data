@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2679751/oe-ultimo-dia-de-votacoes-com-38-propostas-aprovadas-ad-e-chega-lideram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OE. Último dia de votações com 38 propostas aprovadas, AD e Chega lideram",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2679751/oe-ultimo-dia-de-votacoes-com-38-propostas-aprovadas-ad-e-chega-lideram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732827720000,
+         "created": 1732827720000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65dca1a31dd54.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2679753/circulacao-na-linha-azul-do-metro-de-lisboa-interrompida-por-avaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Circulação na linha Azul do metro de Lisboa interrompida por avaria",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67489f8928fef.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679543/medico-suspeito-de-matar-oito-pacientes-e-incendiar-casas-na-alemanha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Médico suspeito de matar oito pacientes e incendiar casas na Alemanha",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679543/medico-suspeito-de-matar-oito-pacientes-e-incendiar-casas-na-alemanha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732814364000,
-         "created": 1732814364000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67489fe63a0f2.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
