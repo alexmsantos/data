@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679435/ucrania-alemanha-propoe-envio-de-unidades-de-defesa-aerea-para-a-polonia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ucrânia. Alemanha propõe envio de unidades de defesa aérea para a Polónia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679435/ucrania-alemanha-propoe-envio-de-unidades-de-defesa-aerea-para-a-polonia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732807742000,
+         "created": 1732807742000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6398e4309f1a9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2679440/oe2025-aprovado-aumento-extraordinario-e-permanente-das-pensoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2025. Aprovado aumento extraordinário e permanente das pensões",
@@ -39,7 +62,7 @@
          },
          "published": 1732807074000,
          "created": 1732807074000,
-         "category": "País",
+         "category": "Economia",
          "content": "undefined",
          "enclosures": [
             {
@@ -467,7 +490,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2679248/astana-vitoria-sc-ja-ha-onzes-para-a-aventura-minhota-no-cazaquistao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Astana-Vitória SC: Já há onzes para a 'aventura' minhota no Cazaquistão",
+         "title": "[0-0] Astana-Vitória SC: Rola a bola no Cazaquistão",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2679248/astana-vitoria-sc-ja-ha-onzes-para-a-aventura-minhota-no-cazaquistao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_60227174db7eb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679241/parlamento-angolano-aprova-lei-para-prevenir-financiamento-do-terrorismo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Parlamento angolano aprova lei para prevenir financiamento do terrorismo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679241/parlamento-angolano-aprova-lei-para-prevenir-financiamento-do-terrorismo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732795061000,
-         "created": 1732795061000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/19909956.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
