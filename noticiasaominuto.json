@@ -14,13 +14,36 @@
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
-         "published": 1732823108000,
-         "created": 1732823108000,
+         "published": 1732823259000,
+         "created": 1732823259000,
          "category": "Economia",
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5dd593b6710e6.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/42215209.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2662420/liga-europa-siga-em-direto-os-resultados-e-marcadores-da-5-jornada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Liga Europa: Siga em direto os resultados e marcadores da 5.ª jornada",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2662420/liga-europa-siga-em-direto-os-resultados-e-marcadores-da-5-jornada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732823208000,
+         "created": 1732823208000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672505b58225a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -44,29 +67,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66fd0d7daa649.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2662420/liga-europa-siga-em-direto-os-resultados-e-marcadores-da-5-jornada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Liga Europa: Siga em direto os resultados e marcadores da 5.ª jornada",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2662420/liga-europa-siga-em-direto-os-resultados-e-marcadores-da-5-jornada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732823015000,
-         "created": 1732823015000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672505b58225a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
