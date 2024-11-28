@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2679778/il-quer-ouvir-com-urgencia-ministro-da-educacao-apos-mea-culpa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "IL quer ouvir com urgência ministro da Educação após 'mea culpa'",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2679778/il-quer-ouvir-com-urgencia-ministro-da-educacao-apos-mea-culpa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732834018000,
+         "created": 1732834018000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_665b850585c07.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679788/senegal-diz-que-presenca-de-bases-francesas-e-incompativel-com-soberania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Senegal diz que presença de bases francesas é incompatível com soberania",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66f574099197c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2679628/bolieiro-admite-dialogo-com-ps-mas-rejeita-preconceitos-ideologicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolieiro admite diálogo com PS mas rejeita preconceitos ideológicos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2679628/bolieiro-admite-dialogo-com-ps-mas-rejeita-preconceitos-ideologicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732817132000,
-         "created": 1732817132000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b200867858d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
