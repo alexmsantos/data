@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2679116/portugal-tem-3-do-pescado-com-certificacao-sardinha-pode-dar-empurrao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal tem 3% do pescado com certificação. Sardinha pode dar \"empurrão\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2679116/portugal-tem-3-do-pescado-com-certificacao-sardinha-pode-dar-empurrao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732786072000,
+         "created": 1732786072000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ec39680387e6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679115/francisco-conceicao-brilhou-e-atirou-sou-muito-feliz-na-juventus?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Francisco Conceição brilhou e atirou: \"Sou muito feliz na Juventus\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679115/francisco-conceicao-brilhou-e-atirou-sou-muito-feliz-na-juventus?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732785873000,
+         "created": 1732785873000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674835ea884f9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679113/china-sauda-acordo-alcancado-com-eua-para-troca-de-prisioneiros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "China saúda acordo alcançado com EUA para troca de prisioneiros",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_53a2fc78eb39b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2678981/dias-frios-pedem-um-delicioso-chocolate-quente-com-cheirinho-concorda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dias frios pedem um delicioso chocolate quente com 'cheirinho'. Concorda?",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2678981/dias-frios-pedem-um-delicioso-chocolate-quente-com-cheirinho-concorda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732749133000,
-         "created": 1732749133000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63a1b86b8ac75.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2678980/francisco-conceicao-vence-premio-de-melhor-em-campo-e-deixa-mensagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Francisco Conceição vence prémio de melhor em campo e deixa mensagem",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2678980/francisco-conceicao-vence-premio-de-melhor-em-campo-e-deixa-mensagem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732748769000,
-         "created": 1732748769000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747a5a0793be.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
