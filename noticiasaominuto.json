@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2679817/candidato-presidencial-romeno-de-extrema-direita-favorecido-tiktok-nega?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Candidato presidencial romeno de extrema-direita favorecido? TikTok nega",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2679817/candidato-presidencial-romeno-de-extrema-direita-favorecido-tiktok-nega?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732837247000,
+         "created": 1732837247000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67478321b0cfb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2679547/deixe-esta-mascara-atuar-20-minutos-depois-veja-os-resultados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Deixe esta máscara atuar 20 minutos. Depois, veja os resultados",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a4ea5a776949.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679653/francisco-neto-alerta-para-dificuldades-que-republica-checa-pode-impor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Francisco Neto alerta para dificuldades que República Checa pode impor",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679653/francisco-neto-alerta-para-dificuldades-que-republica-checa-pode-impor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732818803000,
-         "created": 1732818803000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_650db48344088.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
