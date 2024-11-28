@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2679430/formalizada-subida-do-salario-minimo-nacional-para-870?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Governo aumenta salário mínimo nacional para 870 euros em 2025",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2679430/formalizada-subida-do-salario-minimo-nacional-para-870?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732807074000,
+         "created": 1732807074000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_665ee3a35dbb9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679433/carreras-nao-e-o-unico-amorim-quer-levar-mais-um-jogador-do-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Carreras não é o único. Amorim quer levar mais um jogador do Benfica",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679433/carreras-nao-e-o-unico-amorim-quer-levar-mais-um-jogador-do-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732807042000,
+         "created": 1732807042000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747447a32b6f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2679429/estugarda-denuncia-controlos-humanamente-degradantes-na-servia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Estugarda denuncia controlos \"humanamente degradantes\" na Sérvia",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_62c5343821d43.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2679237/ce-abre-processo-contra-portugal-por-atraso-na-diretiva-de-ciberseguranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "CE abre processo contra Portugal por atraso na diretiva de cibersegurança",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2679237/ce-abre-processo-contra-portugal-por-atraso-na-diretiva-de-ciberseguranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732794916000,
-         "created": 1732794916000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_628b4eed5c1b8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2679242/vila-real-presidente-de-junta-conhece-acordao-sobre-violencia-domestica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vila Real. Presidente de junta conhece acórdão sobre violência doméstica",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2679242/vila-real-presidente-de-junta-conhece-acordao-sobre-violencia-domestica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732794873000,
-         "created": 1732794873000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59f2035518a96.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
