@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2679206/pcp-questiona-comissao-europeia-sobre-fecho-da-coindu-de-valdevez?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PCP questiona Comissão Europeia sobre fecho da Coindu de Valdevez",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2679206/pcp-questiona-comissao-europeia-sobre-fecho-da-coindu-de-valdevez?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732793079000,
+         "created": 1732793079000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5614316b4cb9f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679210/bei-e-cgd-com-acordo-para-garantir-150-milhoes-para-empresas-portuguesas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "BEI e CGD com acordo para garantir 150 milhões para empresas portuguesas",
@@ -99,7 +122,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679178/jovem-esteve-50-dias-desaparecido-no-canada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jovem esteve desaparecido durante 50 dias no Canadá",
+         "title": "Jovem esteve desaparecido 50 dias no Canadá. Foi encontrado com vida",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/mundo/2679178/jovem-esteve-50-dias-desaparecido-no-canada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67123ca2eb40b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679066/tecnico-do-as-monaco-queixa-se-apos-jogo-com-benfica-arbitro-exagerou?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Técnico do AS Monaco queixa-se após jogo com Benfica: \"Árbitro exagerou\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679066/tecnico-do-as-monaco-queixa-se-apos-jogo-com-benfica-arbitro-exagerou?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732781372000,
-         "created": 1732781372000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674823fd276ba.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
