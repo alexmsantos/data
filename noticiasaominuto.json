@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679012/proibicao-de-redes-a-menores-de-16-anos-sera-debatido-na-australia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Proibição de redes a menores de 16 anos será debatido na Austrália",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679012/proibicao-de-redes-a-menores-de-16-anos-sera-debatido-na-australia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732777415000,
+         "created": 1732777415000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5dd26f1a457e2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679030/vitoria-sc-procura-decimo-triunfo-seguido-nas-provas-europeias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Vitória SC procura décimo triunfo seguido nas provas europeias",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679030/vitoria-sc-procura-decimo-triunfo-seguido-nas-provas-europeias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732777386000,
+         "created": 1732777386000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43963181.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2679043/la-fora-crua-realidade-para-o-real-madrid-faz-disparar-liverpool?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lá fora: \"Crua realidade\" para o Real Madrid faz 'disparar' Liverpool",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6735c128df5cb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2678846/oe2025-livre-faz-aprovar-novo-ciclo-da-estrategia-nacional-anticorrupcao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "OE2025. Livre faz aprovar novo ciclo da estratégia nacional anticorrupção",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2678846/oe2025-livre-faz-aprovar-novo-ciclo-da-estrategia-nacional-anticorrupcao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732737737000,
-         "created": 1732737737000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64f9e8bdd4953.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2678397/clientes-bugatti-pagam-personalizacoes-mais-caras-do-que-alguns-ferrari?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Clientes Bugatti pagam personalizações mais caras do que alguns Ferrari",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2678397/clientes-bugatti-pagam-personalizacoes-mais-caras-do-que-alguns-ferrari?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732737633000,
-         "created": 1732737633000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_657850ce10a48.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
