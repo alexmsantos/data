@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679587/primeiro-ministro-frances-cede-para-evitar-mocao-de-censura-e-crise?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Primeiro-ministro francês cede para evitar moção de censura e crise",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679587/primeiro-ministro-frances-cede-para-evitar-mocao-de-censura-e-crise?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732815773000,
+         "created": 1732815773000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e5550e1a06f9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2679588/gnr-deteta-mais-de-270-infracoes-em-fiscalizacao-de-mercadorias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "GNR deteta mais de 270 infrações em fiscalização de mercadorias",
@@ -227,7 +250,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748a772a04e9.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43991475.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43989398.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679400/putin-ameaca-atacar-kyiv-com-potente-missil-experimental-orechnik?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Putin ameaça atacar Kyiv com potente míssil experimental 'Orechnik'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679400/putin-ameaca-atacar-kyiv-com-potente-missil-experimental-orechnik?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732805250000,
-         "created": 1732805250000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674882875bba9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
