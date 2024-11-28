@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679826/guinness-brasileiro-de-112-anos-considerado-homem-mais-velho-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guinness. Brasileiro de 112 anos considerado homem mais velho do mundo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679826/guinness-brasileiro-de-112-anos-considerado-homem-mais-velho-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732838282000,
+         "created": 1732838282000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674902b56e84d.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679829/otamendi-e-um-portugues-nomeados-para-melhores-defesas-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Otamendi e um português nomeados para melhores defesas do mundo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679829/otamendi-e-um-portugues-nomeados-para-melhores-defesas-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732838152000,
+         "created": 1732838152000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674902ce7c210.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2679823/gyokeres-nomeado-para-melhor-avancado-do-mundo-com-cr7-e-messi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Gyokeres nomeado para melhor avançado do mundo (com CR7 e Messi)",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_57d17a213cc93.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2679654/ljubomir-stanisic-leva-famosos-a-sua-cozinha-numa-iniciativa-solidaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ljubomir Stanisic leva famosos à sua cozinha numa iniciativa solidária",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/fama/2679654/ljubomir-stanisic-leva-famosos-a-sua-cozinha-numa-iniciativa-solidaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732819569000,
-         "created": 1732819569000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f369cbaa9718.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2679667/ar-trava-pedido-para-mexer-na-lei-do-trabalho-em-funcoes-publicas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AR trava pedido para mexer na lei do trabalho em funções públicas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2679667/ar-trava-pedido-para-mexer-na-lei-do-trabalho-em-funcoes-publicas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732819496000,
-         "created": 1732819496000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65e76f374563b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
