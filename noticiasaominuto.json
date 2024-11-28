@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679620/israel-faz-lei-que-limita-participacao-de-candidatos-arabes-nas-eleicoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel faz lei que limita participação de candidatos árabes nas eleições",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679620/israel-faz-lei-que-limita-participacao-de-candidatos-arabes-nas-eleicoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732817242000,
+         "created": 1732817242000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66f574099197c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2679622/sporting-atinge-novo-feito-e-deixa-agradecimento-aos-adeptos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sporting atinge novo feito e deixa agradecimento aos adeptos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6595d86069e0d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2679399/empresas-nao-financeiras-criaram-mais-valor-e-diminuiram-risco-em-2023?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Empresas não financeiras criaram mais valor e diminuíram risco em 2023",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2679399/empresas-nao-financeiras-criaram-mais-valor-e-diminuiram-risco-em-2023?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732806302000,
-         "created": 1732806302000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59b108ba68a8a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
