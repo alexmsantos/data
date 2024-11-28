@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679657/ucrania-quer-que-lideres-europeus-tomem-posicao-antes-de-trump-assumir?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ucrânia quer que líderes europeus tomem posição antes de Trump assumir",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679657/ucrania-quer-que-lideres-europeus-tomem-posicao-antes-de-trump-assumir?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732820861000,
+         "created": 1732820861000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63bae9ba1a6b5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2662420/liga-europa-siga-em-direto-os-resultados-e-marcadores-da-5-jornada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Liga Europa: Siga em direto os resultados e marcadores da 5.ª jornada",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_58b0ac8d365a1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679505/protesto-historico-em-old-trafford-e-anfield-contra-o-preco-dos-bilhetes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Protesto histórico em Old Trafford e Anfield contra o preço dos bilhetes",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679505/protesto-historico-em-old-trafford-e-anfield-contra-o-preco-dos-bilhetes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732810546000,
-         "created": 1732810546000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748970f5d73b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
