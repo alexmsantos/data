@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2679588/gnr-deteta-mais-de-270-infracoes-em-fiscalizacao-de-mercadorias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "GNR deteta mais de 270 infrações em fiscalização de mercadorias",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2679588/gnr-deteta-mais-de-270-infracoes-em-fiscalizacao-de-mercadorias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732815546000,
+         "created": 1732815546000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748aae7641e8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679584/poluicao-atmosferica-por-incendios-ligada-a-1-5-milhoes-de-mortes-anuais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Poluição atmosférica por incêndios ligada a 1,5 milhões de mortes anuais",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674882875bba9.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679406/nem-a-chuva-estraga-o-desfile-de-acao-de-gracas-nos-eua-eis-a-prova?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nem a chuva estraga o desfile de Ação de Graças nos EUA. Eis a prova",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679406/nem-a-chuva-estraga-o-desfile-de-acao-de-gracas-nos-eua-eis-a-prova?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732805078000,
-         "created": 1732805078000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748806e45dd7.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
