@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2679165/lisboa-traficante-de-droga-e-imigrante-ilegal-detidos-durante-transacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lisboa. Traficante de droga e imigrante ilegal detidos durante transação",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2679165/lisboa-traficante-de-droga-e-imigrante-ilegal-detidos-durante-transacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732790490000,
+         "created": 1732790490000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6706335d161a9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679172/sentimento-economico-estabilizou-em-novembro-na-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sentimento económico estabilizou em novembro na UE",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_652d05c3234c1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2679001/governo-dos-eua-abre-investigacao-antimonopolio-a-microsoft?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo dos EUA abre investigação antimonopólio à Microsoft",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2679001/governo-dos-eua-abre-investigacao-antimonopolio-a-microsoft?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732777696000,
-         "created": 1732777696000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_658a8c8eddb33.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
