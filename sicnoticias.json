@@ -37,9 +37,12 @@
       {
          "id": "4bf4fd68-ad47-4451-9901-dd710c6ca093",
          "title": "Ataque russo deixa milhares de pessoas sem energia elétrica na Ucrânia",
-         "description": "<p><span>De acordo com as autoridades, as </span><span>infraestruturas&nbsp;de produção e distribuição de energia&nbsp;da região de Lviv, oeste da Ucrânia, foram atingidas durante o ataque</span><span>.</span></p>",
+         "description": "De acordo com as autoridades, as infraestruturas de produção e distribuição de energia da região de Lviv, oeste da Ucrânia, foram atingidas durante o ataque.",
          "link": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2024-11-28-ataque-russo-deixa-milhares-de-pessoas-sem-energia-eletrica-na-ucrania-67aa1440",
-         "author": "SIC Notícias",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1732784103000,
          "created": 1732784103000,
          "category": "Guerra Rússia-Ucrânia",
