@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679823/gyokeres-nomeado-para-melhor-avancado-do-mundo-com-cr7-e-messi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Gyokeres nomeado para melhor avançado do mundo (com CR7 e Messi)",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679823/gyokeres-nomeado-para-melhor-avancado-do-mundo-com-cr7-e-messi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732837614000,
+         "created": 1732837614000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674900d8d0690.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679819/programa-nuclear-diplomata-da-ue-garante-discussao-franca-com-irao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Programa nuclear. Diplomata da UE garante \"discussão franca\" com Irão",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65e76f374563b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2679618/apos-semanas-a-subir-cabaz-alimentar-ficou-mais-barato-eis-os-valores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Após semanas a subir, cabaz alimentar ficou mais barato. Eis os valores",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2679618/apos-semanas-a-subir-cabaz-alimentar-ficou-mais-barato-eis-os-valores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732819310000,
-         "created": 1732819310000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63243f655ed6d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
