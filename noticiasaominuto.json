@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2679504/supremo-decide-que-foi-licito-despedimento-coletivo-da-ryanair-em-faro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Supremo decide que foi lícito despedimento coletivo da Ryanair em Faro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2679504/supremo-decide-que-foi-licito-despedimento-coletivo-da-ryanair-em-faro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732810919000,
+         "created": 1732810919000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f6483daa1331.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679502/pensoes-solucao-desejada-era-suplemento-em-funcao-da-margem-orcamental?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pensões? Solução desejada era suplemento em função da margem orçamental",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67486603b4d91.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679292/pelo-menos-seis-feridos-em-confrontos-na-quarta-feira-em-maputo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pelo menos seis feridos em confrontos na quarta-feira em Maputo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679292/pelo-menos-seis-feridos-em-confrontos-na-quarta-feira-em-maputo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732797947000,
-         "created": 1732797947000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43989269.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
