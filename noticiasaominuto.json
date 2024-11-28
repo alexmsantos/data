@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679760/manifestacao-em-sao-tome-pede-justica-para-vitimas-do-caso-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Manifestação em São Tomé pede justiça para vítimas do caso 25 de novembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679760/manifestacao-em-sao-tome-pede-justica-para-vitimas-do-caso-25-de-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732827880000,
+         "created": 1732827880000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/10133608.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2679756/socrates-diz-que-juiz-conselheiro-estava-legalmente-impedido-de-decidir?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sócrates diz que juiz conselheiro estava legalmente impedido de decidir",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2679756/socrates-diz-que-juiz-conselheiro-estava-legalmente-impedido-de-decidir?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732827819000,
+         "created": 1732827819000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6581a08ea77b6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2679751/oe-ultimo-dia-de-votacoes-com-38-propostas-aprovadas-ad-e-chega-lideram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE. Último dia de votações com 38 propostas aprovadas, AD e Chega lideram",
@@ -1295,7 +1341,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2679270/manchester-united-bodoglimt-a-estreia-de-ruben-amorim-em-old-trafford?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[2-2] Manchester United-Bodo/Glimt: Hojlund repõe a igualdade",
+         "title": "[2-2] Manchester United-Bodo/Glimt: Amorim lança Diogo Dalot",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2679270/manchester-united-bodoglimt-a-estreia-de-ruben-amorim-em-old-trafford?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_663272b2361a5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2679571/mensagens-de-pinto-moreira-sobre-projetos-de-pessegueiro-eram-cortesia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mensagens de Pinto Moreira sobre projetos de Pessegueiro eram \"cortesia\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2679571/mensagens-de-pinto-moreira-sobre-projetos-de-pessegueiro-eram-cortesia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732814523000,
-         "created": 1732814523000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6470ac704d12e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2679540/pingo-doce-abre-nova-loja-na-grande-lisboa-e-cria-60-postos-de-trabalho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pingo Doce abre nova loja na Grande Lisboa e cria 60 postos de trabalho",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2679540/pingo-doce-abre-nova-loja-na-grande-lisboa-e-cria-60-postos-de-trabalho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732814514000,
-         "created": 1732814514000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67489f8928fef.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
