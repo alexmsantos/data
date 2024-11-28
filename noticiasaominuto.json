@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2679753/circulacao-na-linha-azul-do-metro-de-lisboa-interrompida-por-avaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Circulação na linha Azul do metro de Lisboa interrompida por avaria",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2679753/circulacao-na-linha-azul-do-metro-de-lisboa-interrompida-por-avaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732827450000,
+         "created": 1732827450000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a3d0d0d0e6b2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2662420/liga-europa-siga-em-direto-os-resultados-e-marcadores-da-5-jornada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Liga Europa: Siga em direto os resultados e marcadores da 5.ª jornada",
@@ -1262,7 +1285,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748d281b2a00.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748d88daf870.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67489fe63a0f2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679572/lenda-do-real-madrid-arrasa-mbappe-precisavam-dele-e-foi-fraco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lenda do Real Madrid 'arrasa' Mbappé: \"Precisavam dele e foi fraco\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679572/lenda-do-real-madrid-arrasa-mbappe-precisavam-dele-e-foi-fraco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732814358000,
-         "created": 1732814358000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748a574324fc.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
