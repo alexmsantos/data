@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2679610/fundos-europeus-tem-de-plasmar-que-agricultura-e-seguranca-e-defesa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fundos europeus têm de plasmar que agricultura é \"segurança e defesa\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2679610/fundos-europeus-tem-de-plasmar-que-agricultura-e-seguranca-e-defesa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732817420000,
+         "created": 1732817420000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_667498359a63a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679616/ai-recorda-a-russia-que-bombardear-infraestruturas-energeticas-e-crime?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AI recorda à Rússia que bombardear infraestruturas energéticas é crime",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679616/ai-recorda-a-russia-que-bombardear-infraestruturas-energeticas-e-crime?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732817300000,
+         "created": 1732817300000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_544f7d47d0e0f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679620/israel-faz-lei-que-limita-participacao-de-candidatos-arabes-nas-eleicoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Israel faz lei que limita participação de candidatos árabes nas eleições",
@@ -2146,7 +2192,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2679255/anderlecht-fc-porto-triunfo-precisa-se-para-afastar-crise-e-calculadora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[0-0] Anderlecht-FC Porto: Nico cabeceia para as mãos de Coosemans",
+         "title": "[0-1] Anderlecht-FC Porto: Galeno não perdoa de penálti",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2679255/anderlecht-fc-porto-triunfo-precisa-se-para-afastar-crise-e-calculadora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747447a32b6f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679429/estugarda-denuncia-controlos-humanamente-degradantes-na-servia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estugarda denuncia controlos \"humanamente degradantes\" na Sérvia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679429/estugarda-denuncia-controlos-humanamente-degradantes-na-servia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732806685000,
-         "created": 1732806685000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67476625ef8b2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2679422/beber-agua-estudo-identifica-cinco-novos-beneficios-para-a-saude?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Beber água. Estudo identifica cinco novos benefícios para a saúde",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2679422/beber-agua-estudo-identifica-cinco-novos-beneficios-para-a-saude?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732806540000,
-         "created": 1732806540000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6595d86069e0d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
