@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2680082/chega-retira-pendoes-da-fachada-da-ar-apos-chegada-de-bombeiros-sapadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Chega retira pendões da fachada da AR após chegada de Bombeiros Sapadores",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2680082/chega-retira-pendoes-da-fachada-da-ar-apos-chegada-de-bombeiros-sapadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732881117000,
+         "created": 1732881117000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67499c8041890.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680084/chama-se-maddli-e-e-um-sao-bernardo-eis-a-mascote-do-euro-feminino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Chama-se Maddli e é um São-bernardo. Eis a mascote do Euro feminino",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64b63d7a8701a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679906/sporting-subiu-no-podio-da-champions-de-andebol-e-esta-foi-a-festa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sporting subiu no pódio da Champions de andebol e esta foi a festa",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679906/sporting-subiu-no-podio-da-champions-de-andebol-e-esta-foi-a-festa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732866290000,
-         "created": 1732866290000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674970a322b32.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
