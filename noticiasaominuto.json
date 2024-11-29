@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680473/oficial-apos-ser-afastado-por-amorim-van-nistelrooy-ja-tem-novo-clube?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: Após ser 'afastado' por Amorim, Van Nistelrooy já tem novo clube",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680473/oficial-apos-ser-afastado-por-amorim-van-nistelrooy-ja-tem-novo-clube?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732907043000,
+         "created": 1732907043000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673257084fcda.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2680462/truques-para-desinfetar-a-roupa-em-segunda-mao-antes-de-usar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Truques para desinfetar a roupa em segunda mão antes de usar",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6672c084dff01.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2680254/educacao-governo-mais-preocupado-com-anuncios-e-propaganda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Educação? Governo \"mais preocupado com anúncios e propaganda\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2680254/educacao-governo-mais-preocupado-com-anuncios-e-propaganda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732892477000,
-         "created": 1732892477000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67312bfa23ff2.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
