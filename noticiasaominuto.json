@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2679961/cinco-plantas-que-ajudam-e-muito-a-absorver-a-humidade-no-wc?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cinco plantas purificadoras que ajudam a absorver a humidade do WC",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2679961/cinco-plantas-que-ajudam-e-muito-a-absorver-a-humidade-no-wc?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732873200000,
+         "created": 1732873200000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_658e8a26306f7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679963/inflacao-acelera-para-2-5-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Inflação acelera para 2,5% em novembro",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66b4b5b43a2d8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2679814/acaba-detido-em-operacao-stop-tinha-cocaina-heroina-e-canabis?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Acaba detido em operação 'stop'. Tinha cocaína, heroína e canábis",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2679814/acaba-detido-em-operacao-stop-tinha-cocaina-heroina-e-canabis?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732837085000,
-         "created": 1732837085000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_569ca654e723e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
