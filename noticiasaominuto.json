@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2679381/silvia-rizzo-um-ator-e-bom-ator-em-qualquer-parte-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sílvia Rizzo: \"Um ator quando é bom, é bom em qualquer parte do mundo\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/fama/2679381/silvia-rizzo-um-ator-e-bom-ator-em-qualquer-parte-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732872799000,
+         "created": 1732872799000,
+         "category": "Fama",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67487aba8c203.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679957/oe2025-aprovado-hoje-as-medidas-que-mais-mexem-com-a-sua-carteira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2025 aprovado hoje. As medidas que mais mexem com a sua carteira",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_59fa16e061c52.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679802/russia-reivindica-morte-de-50-especialistas-estrangeiros-em-ataques?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia reivindica morte de 50 especialistas estrangeiros em ataques",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679802/russia-reivindica-morte-de-50-especialistas-estrangeiros-em-ataques?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732836964000,
-         "created": 1732836964000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_604f5d0e00126.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
