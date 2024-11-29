@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2679995/inflacao-na-zona-euro-sobe-para-2-3-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Inflação na zona euro sobe para 2,3% em novembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2679995/inflacao-na-zona-euro-sobe-para-2-3-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732874951000,
+         "created": 1732874951000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/42343280.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2679988/vasco-matos-promete-santa-clara-fiel-a-sua-identidade-em-alvalade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vasco Matos promete Santa Clara fiel à sua identidade em Alvalade",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/38827343.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679866/china-renova-isencao-de-taxas-sobre-produtos-dos-eua-ate-fevereiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "China renova isenção de taxas sobre produtos dos EUA até fevereiro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679866/china-renova-isencao-de-taxas-sobre-produtos-dos-eua-ate-fevereiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732860322000,
-         "created": 1732860322000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/39312496.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
