@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680355/novo-ciclo-de-estabilidade-politica-deve-potenciar-crescimento-diz-ccp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Novo ciclo de estabilidade política\" deve potenciar crescimento, diz CCP",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680355/novo-ciclo-de-estabilidade-politica-deve-potenciar-crescimento-diz-ccp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732906289000,
+         "created": 1732906289000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674a0aaee9b80.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680420/filha-ilegitima-de-putin-trabalha-como-dj-em-paris-sob-pseudonimo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Filha ilegítima de Putin trabalha como DJ em Paris sob pseudónimo",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749d4db3c690.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2680253/pan-pondera-avancar-com-queixa-crime-contra-chega-por-faixas-na-ar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PAN pondera avançar com queixa-crime contra Chega por faixas na AR",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2680253/pan-pondera-avancar-com-queixa-crime-contra-chega-por-faixas-na-ar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732891975000,
-         "created": 1732891975000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_616d8d835da4d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
