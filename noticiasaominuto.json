@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2680142/il-acusa-governo-de-contrariar-o-seu-programa-e-mantem-voto-contra-oe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "IL acusa Governo de contrariar o seu programa e mantém voto contra OE",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2680142/il-acusa-governo-de-contrariar-o-seu-programa-e-mantem-voto-contra-oe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732885305000,
+         "created": 1732885305000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66b7f1ecce62b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2680135/expectativas-dos-consumidores-da-zona-euro-sobre-inflacao-pioram-em-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Expectativas dos consumidores da zona euro sobre inflação pioram em outubro",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/10957013.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2679925/afonso-sean-riley-rodrigues-revela-primeiro-tema-a-solo-e-em-portugues?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Afonso 'Sean Riley' Rodrigues revela primeiro tema a solo e em português",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/cultura/2679925/afonso-sean-riley-rodrigues-revela-primeiro-tema-a-solo-e-em-portugues?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732871276000,
-         "created": 1732871276000,
-         "category": "Cultura",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749846e20ddf.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
