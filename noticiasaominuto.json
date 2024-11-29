@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2679963/inflacao-acelera-para-2-5-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Inflação acelera para 2,5% em novembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2679963/inflacao-acelera-para-2-5-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732873084000,
+         "created": 1732873084000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_60cc4e38bd96d.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2679381/silvia-rizzo-um-ator-e-bom-ator-em-qualquer-parte-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sílvia Rizzo: \"Um ator quando é bom, é bom em qualquer parte do mundo\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_569ca654e723e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679808/jovem-foge-de-carro-da-policia-e-morre-atropelada-agentes-notificados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jovem foge de carro da polícia e morre atropelada. Agentes notificados",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679808/jovem-foge-de-carro-da-policia-e-morre-atropelada-agentes-notificados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732836972000,
-         "created": 1732836972000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59fa16e061c52.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
