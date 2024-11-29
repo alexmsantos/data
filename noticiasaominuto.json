@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680454/z?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zelenskyy sugere acabar com a guerra em troca de adesão à NATO",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680454/z?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732905363000,
+         "created": 1732905363000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680440/plataforma-de-cidadaos-preocupada-com-obras-no-aeroporto-humberto-delgado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Plataforma de cidadãos preocupada com obras no Aeroporto Humberto Delgado",
@@ -85,7 +108,7 @@
          },
          "published": 1732904740000,
          "created": 1732904740000,
-         "category": "País",
+         "category": "Mundo",
          "content": "undefined",
          "enclosures": [
             {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749d0730043f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2680250/meta-planeia-construir-cabo-submarino-que-de-a-volta-ao-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Meta planeia construir cabo submarino que dê a volta ao mundo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2680250/meta-planeia-construir-cabo-submarino-que-de-a-volta-ao-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732891436000,
-         "created": 1732891436000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_656d9409c0f81.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
