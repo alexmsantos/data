@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680544/portugal-nao-ata-nem-desata-e-passa-a-depender-de-triunfo-na-chequia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal 'não ata nem desata' e passa a depender de triunfo na Chéquia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680544/portugal-nao-ata-nem-desata-e-passa-a-depender-de-triunfo-na-chequia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732916292000,
+         "created": 1732916292000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674a3188db65f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680540/homem-de-60-anos-encontrado-morto-numa-quinta-em-vizela?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Homem de 60 anos encontrado morto numa quinta em Vizela",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43995696.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2680316/decora-gins-e-bolos-e-faz-maravilhas-pelos-seus-olhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Decora gins e bolos e faz maravilhas pelos seus olhos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2680316/decora-gins-e-bolos-e-faz-maravilhas-pelos-seus-olhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732898056000,
-         "created": 1732898056000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62ed2496b71ce.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
