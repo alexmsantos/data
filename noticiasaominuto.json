@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2680583/trabalhadores-do-ccb-lamentam-exoneracao-de-francisca-carneiro-fernandes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trabalhadores do CCB lamentam exoneração de Francisca Carneiro Fernandes",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2680583/trabalhadores-do-ccb-lamentam-exoneracao-de-francisca-carneiro-fernandes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732920982000,
+         "created": 1732920982000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5719beebd96f8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680579/s-p-mantem-nota-e-perspectiva-da-divida-soberana-da-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "S&P mantém nota e perspectiva da divida soberana da França",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680579/s-p-mantem-nota-e-perspectiva-da-divida-soberana-da-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732920933000,
+         "created": 1732920933000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_514196d89528f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680568/euromilhoes-sem-totalistas-mas-portugal-enche-bolsos-com-2s-premios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dois segundos prémios do Euromilhões 'enchem' bolsos em Portugal",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749a2b3c5985.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680294/russia-recupera-corpos-de-52-militares-mortos-em-combate?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia recupera corpos de 52 militares mortos em combate",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680294/russia-recupera-corpos-de-52-militares-mortos-em-combate?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732900137000,
-         "created": 1732900137000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6741b07c3467a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680379/detetado-novo-serotipo-da-doenca-da-lingua-azul-em-portugal-esta-semana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Detetado novo serotipo da doença da língua azul em Portugal esta semana",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680379/detetado-novo-serotipo-da-doenca-da-lingua-azul-em-portugal-esta-semana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732900096000,
-         "created": 1732900096000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a55099bbe906.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
