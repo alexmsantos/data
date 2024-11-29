@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680542/eanes-aplaudido-de-pe-por-marcelo-cavaco-montenegro-aguiar-branco-e-pns?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Eanes aplaudido de pé por Marcelo, Cavaco, Montenegro, Aguiar-Branco e PNS",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680542/eanes-aplaudido-de-pe-por-marcelo-cavaco-montenegro-aguiar-branco-e-pns?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732917123000,
+         "created": 1732917123000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_536d11778a148.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680544/portugal-nao-ata-nem-desata-e-passa-a-depender-de-triunfo-na-chequia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Portugal 'não ata nem desata' e passa a depender de triunfo na Chéquia",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749ed34e03e2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680344/confrontos-entre-policia-e-manifestantes-em-turim-em-dia-greve-geral?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Confrontos entre polícia e manifestantes em Turim em dia greve geral",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680344/confrontos-entre-policia-e-manifestantes-em-turim-em-dia-greve-geral?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732898063000,
-         "created": 1732898063000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43995696.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
