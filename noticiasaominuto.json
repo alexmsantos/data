@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680123/macron-apela-a-cumprimento-de-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Macron apela a cumprimento de cessar-fogo no Líbano",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680123/macron-apela-a-cumprimento-de-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732884190000,
+         "created": 1732884190000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749b6e02fe46.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2680129/pcp-acusa-ps-de-ser-cumplice-do-governo-e-ajudar-chega-e-il?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PCP acusa PS de ser cúmplice do Governo e ajudar Chega e IL",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2680129/pcp-acusa-ps-de-ser-cumplice-do-governo-e-ajudar-chega-e-il?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732884130000,
+         "created": 1732884130000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43995906.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680120/preventiva-para-suspeitos-de-trafico-de-droga-em-leiria-beja-e-faro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Preventiva para suspeitos de tráfico de droga em Leiria, Beja e Faro",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43817604.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679936/vem-ai-recorde-lotacao-esgotada-no-portugal-chequia-em-futebol-feminino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vem aí recorde. Lotação esgotada no Portugal-Chéquia em futebol feminino",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679936/vem-ai-recorde-lotacao-esgotada-no-portugal-chequia-em-futebol-feminino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732870069000,
-         "created": 1732870069000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67497e2d169cc.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2679937/precisamos-de-um-momento-como-o-android-para-a-ia-diz-ex-google?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Precisamos de um momento como o Android para a IA\", diz ex-Google",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2679937/precisamos-de-um-momento-como-o-android-para-a-ia-diz-ex-google?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732870018000,
-         "created": 1732870018000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_613f33a58169e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
