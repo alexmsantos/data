@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2679960/oe2025-aprovadas-oito-propostas-para-o-setor-da-cultura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OE2025. Aprovadas oito propostas para o setor da Cultura",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2679960/oe2025-aprovadas-oito-propostas-para-o-setor-da-cultura?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732873875000,
+         "created": 1732873875000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6697c5f3aff51.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679967/lampard-surpreende-no-coventry-vou-ao-chelsea-buscar-o-joao-felix?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lampard surpreende no Coventry \"Vou ao Chelsea buscar o João Félix\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679967/lampard-surpreende-no-coventry-vou-ao-chelsea-buscar-o-joao-felix?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732873828000,
+         "created": 1732873828000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67498dcdb5c02.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679962/bolsas-europeias-em-baixa-pendentes-de-mais-dados-da-inflacao-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bolsas europeias em baixa pendentes de mais dados da inflação em novembro",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674900d8d0690.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679819/programa-nuclear-diplomata-da-ue-garante-discussao-franca-com-irao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Programa nuclear. Diplomata da UE garante \"discussão franca\" com Irão",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679819/programa-nuclear-diplomata-da-ue-garante-discussao-franca-com-irao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732837477000,
-         "created": 1732837477000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f9fb9f58e8aa.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679820/os-jogadores-estao-mais-maduros-sem-expulsoes-palerminhas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Os jogadores estão mais maduros, sem expulsões palerminhas\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679820/os-jogadores-estao-mais-maduros-sem-expulsoes-palerminhas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732837397000,
-         "created": 1732837397000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748ff55f35a8.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
