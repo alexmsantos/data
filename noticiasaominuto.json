@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680459/milhares-de-georgianos-voltam-a-manifestar-se-em-tbilissi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Milhares de georgianos voltam a manifestar-se em Tbilissi",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680459/milhares-de-georgianos-voltam-a-manifestar-se-em-tbilissi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732919036000,
+         "created": 1732919036000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674a3d3aa1cbb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680561/farense-rouba-brilho-a-estrela-e-ilumina-via-de-saida-da-despromocao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Farense rouba brilho à 'Estrela' e ilumina via de saída da despromoção",
@@ -43,7 +66,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674a3c43f320a.jpeg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674a3efad2482.jpeg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66f27c28d7a02.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680352/psp-detem-dois-uber-da-droga-em-lisboa-pedidos-eram-feitos-nas-redes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PSP detém dois \"Uber de droga\" em Lisboa. Pedidos eram feitos nas redes",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680352/psp-detem-dois-uber-da-droga-em-lisboa-pedidos-eram-feitos-nas-redes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732899390000,
-         "created": 1732899390000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6706335d161a9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
