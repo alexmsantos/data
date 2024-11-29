@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680408/lider-do-hezbollah-libanes-reivindica-grande-vitoria-sobre-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Líder do Hezbollah libanês reivindica \"grande vitória\" sobre Israel",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680408/lider-do-hezbollah-libanes-reivindica-grande-vitoria-sobre-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732902045000,
+         "created": 1732902045000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672166592fa91.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2680271/associacao-critica-chumbo-de-autorizacao-para-mudar-iva-na-construcao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Associação critica chumbo de autorização para mudar IVA na construção",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_650da1bf9d3fc.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680186/antonio-costa-afirma-que-alargamento-da-ue-e-de-urgencia-geopolitica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "António Costa afirma que alargamento da UE é de \"urgência geopolítica\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680186/antonio-costa-afirma-que-alargamento-da-ue-e-de-urgencia-geopolitica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732888934000,
-         "created": 1732888934000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749c97c53bff.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
