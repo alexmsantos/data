@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680596/tres-maiores-partidos-com-votacao-praticamente-igual-nas-eleicoes-irlandesas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Três maiores partidos com votação praticamente igual nas eleições irlandesas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680596/tres-maiores-partidos-com-votacao-praticamente-igual-nas-eleicoes-irlandesas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732923666000,
+         "created": 1732923666000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e42dcc3a15ec.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680593/sofia-ramalho-eleita-nova-bastonaria-da-ordem-dos-psicologos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sofia Ramalho eleita nova bastonária da Ordem dos Psicólogos",
@@ -113,6 +136,29 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674a3d2d156bd.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680589/wall-street-fecha-dia-com-recordes-do-dow-e-s-p500-em-mes-dominado-por-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Wall Street fecha dia com recordes do Dow e S&P500 em mês dominado por Trump",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680589/wall-street-fecha-dia-com-recordes-do-dow-e-s-p500-em-mes-dominado-por-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732922062000,
+         "created": 1732922062000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f0c6e9969084.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749f8cfb40cf.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680307/parlamento-britanico-aprova-legislacao-para-morte-medicamente-assistida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Parlamento britânico aprova legislação para morte medicamente assistida",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680307/parlamento-britanico-aprova-legislacao-para-morte-medicamente-assistida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732901354000,
-         "created": 1732901354000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_57d13361e579a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680400/inverno-uls-com-centros-para-nao-urgentes-e-consultas-ao-fim-de-semana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Inverno? ULS com centros para não urgentes e consultas ao fim de semana",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680400/inverno-uls-com-centros-para-nao-urgentes-e-consultas-ao-fim-de-semana?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732900994000,
-         "created": 1732900994000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/27621179.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
