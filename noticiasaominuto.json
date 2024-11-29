@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680308/siria-exercito-promete-repelir-ataques-de-rebeldes-que-entraram-em-alepo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Síria. Exército promete repelir ataques de rebeldes que entraram em Alepo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680308/siria-exercito-promete-repelir-ataques-de-rebeldes-que-entraram-em-alepo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732897983000,
+         "created": 1732897983000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749ec88e5591.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2680350/prestacao-da-casa-desce-em-dezembro-em-todos-os-prazos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Prestação da casa desce em dezembro em todos os prazos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749b10e33ef8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680123/macron-apela-a-cumprimento-de-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Macron apela a cumprimento de cessar-fogo no Líbano",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680123/macron-apela-a-cumprimento-de-cessar-fogo-no-libano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732884190000,
-         "created": 1732884190000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749b6e02fe46.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
