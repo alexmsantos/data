@@ -1,10 +1,79 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680042/inflacao-homologa-em-franca-atinge-1-3-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Inflação homóloga em França atinge 1,3% em novembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680042/inflacao-homologa-em-franca-atinge-1-3-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732879403000,
+         "created": 1732879403000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64a3dd1e32adf.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2680057/ha-um-ingrediente-que-deve-adicionar-no-tambor-da-maquina-de-lavar-roupa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Há um ingrediente que deve adicionar no tambor da máquina de lavar roupa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2680057/ha-um-ingrediente-que-deve-adicionar-no-tambor-da-maquina-de-lavar-roupa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732879320000,
+         "created": 1732879320000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_668d9eb0a7465.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680061/ninguem-imaginava-que-guardiola-chegasse-ao-ponto-de-parecer-humano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Ninguém imaginava que Guardiola chegasse ao ponto de parecer humano\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680061/ninguem-imaginava-que-guardiola-chegasse-ao-ponto-de-parecer-humano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732879304000,
+         "created": 1732879304000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672fb5d3a5e91.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2680056/comprar-um-tablet-aqui-tem-cinco-motivos-para-o-fazer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Comprar um tablet? Aqui tem cinco motivos para o fazer",
@@ -2229,75 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674346b50da7b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679836/venezuela-ate-30-anos-de-prisao-para-quem-apoie-sancoes-internacionais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Venezuela. Até 30 anos de prisão para quem apoie sanções internacionais",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679836/venezuela-ate-30-anos-de-prisao-para-quem-apoie-sancoes-internacionais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732865139000,
-         "created": 1732865139000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ac73534b35c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2679889/mocambique-balanca-comercial-melhora-14-2-ate-junho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moçambique. Balança comercial melhora 14,2% até junho",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2679889/mocambique-balanca-comercial-melhora-14-2-ate-junho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732864933000,
-         "created": 1732864933000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_53cf99e714e81.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679897/vai-ja-daqui-o-golaco-de-vitor-carvalho-que-fechou-o-triunfo-do-braga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Vai já daqui'. O golaço de Vítor Carvalho que fechou o triunfo do Braga",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679897/vai-ja-daqui-o-golaco-de-vitor-carvalho-que-fechou-o-triunfo-do-braga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732864921000,
-         "created": 1732864921000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67496a7412984.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
