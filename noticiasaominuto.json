@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679836/nova-lei-preve-30-anos-de-prisao-para-quem-apoie-sancoes-internacionais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Nova lei prevê 30 anos de prisão para quem apoie sanções internacionais",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679836/nova-lei-preve-30-anos-de-prisao-para-quem-apoie-sancoes-internacionais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732865139000,
+         "created": 1732865139000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ac73534b35c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679889/mocambique-balanca-comercial-melhora-14-2-ate-junho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Moçambique. Balança comercial melhora 14,2% até junho",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_555a728f319fd.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679739/nico-desdramatiza-empate-do-fc-porto-e-um-bom-resultado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nico desdramatiza empate do FC Porto: \"É um bom resultado\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679739/nico-desdramatiza-empate-do-fc-porto-e-um-bom-resultado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732824908000,
-         "created": 1732824908000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748cf214fa8e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
