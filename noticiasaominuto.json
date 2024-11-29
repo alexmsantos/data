@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680272/petit-quer-rio-ave-a-aliar-exibicoes-a-resultados-frente-ao-moreirense?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Petit quer Rio Ave a aliar exibições a resultados frente ao Moreirense",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680272/petit-quer-rio-ave-a-aliar-exibicoes-a-resultados-frente-ao-moreirense?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732892971000,
+         "created": 1732892971000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672c975c5f4f3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2680263/bando-de-delinquentes-chega-desrespeitou-democracia-e-portugueses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Bando de delinquentes\". Chega desrespeitou \"democracia e portugueses\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/15115148.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2680042/inflacao-homologa-em-franca-atinge-1-3-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Inflação homóloga em França atinge 1,3% em novembro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2680042/inflacao-homologa-em-franca-atinge-1-3-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732879403000,
-         "created": 1732879403000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64a3dd1e32adf.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
