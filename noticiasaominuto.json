@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680244/bacci-desdramatiza-diferencas-do-boavista-dentro-e-fora-de-casa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bacci desdramatiza diferenças do Boavista dentro e fora de casa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680244/bacci-desdramatiza-diferencas-do-boavista-dentro-e-fora-de-casa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732892621000,
+         "created": 1732892621000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6672c084dff01.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2680254/educacao-governo-mais-preocupado-com-anuncios-e-propaganda?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Educação? Governo \"mais preocupado com anúncios e propaganda\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672fb5d3a5e91.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2680056/comprar-um-tablet-aqui-tem-cinco-motivos-para-o-fazer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Comprar um tablet? Aqui tem cinco motivos para o fazer",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2680056/comprar-um-tablet-aqui-tem-cinco-motivos-para-o-fazer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732879087000,
-         "created": 1732879087000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_60a277e610eda.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
