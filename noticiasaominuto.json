@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680234/exercito-israelita-dispara-contra-habitantes-libaneses-nao-ha-feridos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Exército israelita dispara contra habitantes libaneses. Não há feridos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680234/exercito-israelita-dispara-contra-habitantes-libaneses-nao-ha-feridos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732890934000,
+         "created": 1732890934000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749d13cb46ea.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2680240/em-nenhum-momento-o-ps-passa-a-ser-suporte-deste-governo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Em nenhum momento o PS passa a ser suporte deste Governo\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6446fdfb1ec8e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2680032/indexante-de-apoios-sociais-aumenta-para-522-5-euros-em-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Indexante de Apoios Sociais aumenta para 522,5 euros em 2025",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2680032/indexante-de-apoios-sociais-aumenta-para-522-5-euros-em-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732877608000,
-         "created": 1732877608000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56b10a41740a9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
