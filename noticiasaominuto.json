@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2680099/ha-menos-telemoveis-dobraveis-a-serem-vendidos-samsung-sofre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Há menos telemóveis dobráveis a serem vendidos. Samsung 'sofre'",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2680099/ha-menos-telemoveis-dobraveis-a-serem-vendidos-samsung-sofre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732882001000,
+         "created": 1732882001000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67162e3773a06.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680100/fifa-esquece-se-de-lautaro-e-inter-nao-perdoa-merece-mais-respeito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "FIFA 'esquece-se' de Lautaro e Inter não perdoa: \"Merece mais respeito\"",
@@ -158,7 +181,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67499c8041890.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43995528.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65bb6e30694ee.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679914/presidente-limpe-a-casa-nova-contestacao-dos-adeptos-do-fc-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Presidente, limpe a casa\". Nova contestação dos adeptos do FC Porto",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679914/presidente-limpe-a-casa-nova-contestacao-dos-adeptos-do-fc-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732867505000,
-         "created": 1732867505000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674972de8d0f2.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
