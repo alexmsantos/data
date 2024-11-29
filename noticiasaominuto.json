@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680185/mulher-de-35-anos-morre-afogada-apos-cair-ao-mar-na-zambujeira-do-mar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mulher de 35 anos morre afogada após cair ao mar na Zambujeira do Mar",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680185/mulher-de-35-anos-morre-afogada-apos-cair-ao-mar-na-zambujeira-do-mar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732887394000,
+         "created": 1732887394000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680182/antonio-costa-escrever-um-novo-capitulo-da-ue-enquanto-projeto-de-paz?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "António Costa. \"Escrever um novo capítulo da UE enquanto projeto de paz\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680182/antonio-costa-escrever-um-novo-capitulo-da-ue-enquanto-projeto-de-paz?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732887386000,
+         "created": 1732887386000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_667ea110e27c6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2680153/disfuncao-eretil-aos-30-anos-existe-e-cada-vez-mais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Disfunção erétil aos 30 anos? Existe (e cada vez mais!)",
@@ -296,7 +342,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749ba0f01be2.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43996021.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67498dcdb5c02.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2679962/bolsas-europeias-em-baixa-pendentes-de-mais-dados-da-inflacao-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolsas europeias em baixa pendentes de mais dados da inflação em novembro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2679962/bolsas-europeias-em-baixa-pendentes-de-mais-dados-da-inflacao-em-novembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732873584000,
-         "created": 1732873584000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_597ed923c4aa6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2679966/netflix-o-filme-de-natal-com-lindsay-lohan-ja-e-o-mais-visto-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Netflix. O filme de Natal com Lindsay Lohan já é o mais visto em Portugal",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2679966/netflix-o-filme-de-natal-com-lindsay-lohan-ja-e-o-mais-visto-em-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732873474000,
-         "created": 1732873474000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67498cb63ba07.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
