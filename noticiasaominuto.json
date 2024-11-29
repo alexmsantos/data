@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679988/vasco-matos-promete-santa-clara-fiel-a-sua-identidade-em-alvalade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Vasco Matos promete Santa Clara fiel à sua identidade em Alvalade",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679988/vasco-matos-promete-santa-clara-fiel-a-sua-identidade-em-alvalade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732874725000,
+         "created": 1732874725000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43888794.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2679991/universo-vasto-e-misterioso-rover-partilha-nova-fotografia-de-marte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Universo vasto e misterioso\". Rover partilha nova fotografia de Marte",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2679991/universo-vasto-e-misterioso-rover-partilha-nova-fotografia-de-marte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732874719000,
+         "created": 1732874719000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67499171080ea.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2679979/psi-em-baixa-com-edp-a-cair-1-10?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PSI em baixa com EDP a cair 1,10%",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/39312496.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679863/pelo-menos-oito-mortos-e-cinco-feridos-em-novos-ataques-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pelo menos oito mortos e cinco feridos em novos ataques em Gaza",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679863/pelo-menos-oito-mortos-e-cinco-feridos-em-novos-ataques-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732860178000,
-         "created": 1732860178000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43962108.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679855/policia-da-georgia-lanca-gas-lacrimogeneo-contra-manifestantes-pro-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Polícia da Geórgia lança gás lacrimogéneo contra manifestantes pró-UE",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679855/policia-da-georgia-lanca-gas-lacrimogeneo-contra-manifestantes-pro-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732860143000,
-         "created": 1732860143000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43993827.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
