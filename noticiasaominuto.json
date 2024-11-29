@@ -1,10 +1,79 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2679911/fim-do-recorde-europeu-do-vitoria-sc-fica-um-sabor-amargo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Fim do recorde europeu do Vitória SC? Fica um sabor amargo\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2679911/fim-do-recorde-europeu-do-vitoria-sc-fica-um-sabor-amargo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732866937000,
+         "created": 1732866937000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674972b4c34ff.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2679909/aiea-confirma-projeto-iraniano-de-instalar-milhares-de-centrifugadoras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AIEA confirma projeto iraniano de instalar milhares de centrifugadoras",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2679909/aiea-confirma-projeto-iraniano-de-instalar-milhares-de-centrifugadoras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732866934000,
+         "created": 1732866934000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67497379d5196.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2679908/amazon-e-a-black-friday-portugueses-preocupam-se-com-o-preco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Black Friday? \"Portugueses preocupam-se com preço e aproveitam promoções\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2679908/amazon-e-a-black-friday-portugueses-preocupam-se-com-o-preco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732866744000,
+         "created": 1732866744000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66ac99bc55c8e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2679879/hoje-e-noticia-dezenas-de-alunos-pobres-natal-portugueses-gastam-mais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Hoje é notícia: Escolas com maioria de alunos pobres; Natal? Mais gastos",
@@ -29,10 +98,10 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/desporto/2679907/o-que-passou-aqui-onana-o-lance-polemico-que-deixou-amorim-a-tremer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O que passou aqui, Onana? O lance polémico que deixou Amorim a 'tremer'",
+         "id": "https://www.noticiasaominuto.com/desporto/2679907/o-que-se-passou-onana-o-lance-polemico-que-deixou-amorim-a-tremer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O que se passou, Onana? O lance polémico que deixou Amorim a 'tremer'",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679907/o-que-passou-aqui-onana-o-lance-polemico-que-deixou-amorim-a-tremer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/desporto/2679907/o-que-se-passou-onana-o-lance-polemico-que-deixou-amorim-a-tremer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2229,75 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6581a08ea77b6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2679751/oe-ultimo-dia-de-votacoes-com-38-propostas-aprovadas-ad-e-chega-lideram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "OE. Último dia de votações com 38 propostas aprovadas, AD e Chega lideram",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2679751/oe-ultimo-dia-de-votacoes-com-38-propostas-aprovadas-ad-e-chega-lideram?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732827720000,
-         "created": 1732827720000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65dca1a31dd54.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2679753/circulacao-na-linha-azul-do-metro-de-lisboa-interrompida-por-avaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Circulação na linha Azul do metro de Lisboa interrompida por avaria",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2679753/circulacao-na-linha-azul-do-metro-de-lisboa-interrompida-por-avaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732827450000,
-         "created": 1732827450000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a3d0d0d0e6b2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679754/malacia-ficou-a-dormir-united-sofreu-o-2-e-amorim-nao-gostou-nada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Malacia ficou a 'dormir', United sofreu o 2.º e Amorim não gostou nada",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679754/malacia-ficou-a-dormir-united-sofreu-o-2-e-amorim-nao-gostou-nada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732826766000,
-         "created": 1732826766000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748d676e295e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
