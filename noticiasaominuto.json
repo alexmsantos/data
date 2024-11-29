@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680371/homem-rouba-taxista-sob-ameaca-de-arma-branca-na-amadora-e-e-detido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Homem detido após roubar taxista \"sob ameaça de arma branca\" na Amadora",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680371/homem-rouba-taxista-sob-ameaca-de-arma-branca-na-amadora-e-e-detido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732899610000,
+         "created": 1732899610000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_660d621bc1485.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680309/governo-frances-diz-se-preparado-para-um-confronto-com-reino-unido?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo francês diz-se preparado para \"um confronto\" com Reino Unido",
@@ -30,7 +53,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680352/psp-detem-dois-uber-da-droga-em-lisboa-pedidos-eram-feitos-nas-redes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PSP detém dois 'Uber da droga' em Lisboa. Pedidos eram feitos nas redes",
+         "title": "PSP detém dois \"Uber de droga\" em Lisboa. Pedidos eram feitos nas redes",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/pais/2680352/psp-detem-dois-uber-da-droga-em-lisboa-pedidos-eram-feitos-nas-redes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6697c599555eb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680131/ipo-lisboa-diz-que-tem-oito-elevadores-em-obras-de-substitucao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "IPO Lisboa diz que tem oito elevadores em obras de substitução",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680131/ipo-lisboa-diz-que-tem-oito-elevadores-em-obras-de-substitucao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732885614000,
-         "created": 1732885614000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5cd2d5e16f87c.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
