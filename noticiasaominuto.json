@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680370/coventry-atento-a-explosao-de-gyokeres-no-sporting-se-ele-sair?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Coventry atento à 'explosão' de Gyokeres no Sporting: \"Se ele sair...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680370/coventry-atento-a-explosao-de-gyokeres-no-sporting-se-ele-sair?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732898932000,
+         "created": 1732898932000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e9dc1e871b5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680347/urgencia-pediatrica-de-viana-em-contentores-a-partir-de-quarta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Urgência pediátrica de Viana em contentores a partir de quarta-feira",
@@ -89,7 +112,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6717be665ef61.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43932260.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b7176af14c4a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680138/servicos-de-informacoes-britanicos-acusam-russia-de-sabotagem-na-europa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Serviços de informações britânicos acusam Rússia de sabotagem na Europa",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680138/servicos-de-informacoes-britanicos-acusam-russia-de-sabotagem-na-europa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732885168000,
-         "created": 1732885168000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749bab27cf8b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
