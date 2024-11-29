@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680104/prisao-preventiva-para-suspeito-de-furtar-residencias-de-luxo-no-algarve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Prisão preventiva para suspeito de furtar residências de luxo no Algarve",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680104/prisao-preventiva-para-suspeito-de-furtar-residencias-de-luxo-no-algarve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732882448000,
+         "created": 1732882448000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62cca23bd3384.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680102/saara-ocidental-conferencia-reitera-apoio-a-autodeterminacao-de-saraui?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Saara Ocidental. Conferência reitera apoio à autodeterminação de sarauí",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749732823431.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2679896/a-maior-surpresa-de-2025-vai-ser-o-verstappen-nao-ser-campeao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"A maior surpresa de 2025 vai ser o Verstappen não ser campeão\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2679896/a-maior-surpresa-de-2025-vai-ser-o-verstappen-nao-ser-campeao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732867805000,
-         "created": 1732867805000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67496a55ee5c6.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
