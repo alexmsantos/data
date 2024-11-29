@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680350/prestacao-da-casa-desce-em-dezembro-em-todos-os-prazos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Prestação da casa desce em dezembro em todos os prazos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680350/prestacao-da-casa-desce-em-dezembro-em-todos-os-prazos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732897905000,
+         "created": 1732897905000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5cecdb95088b9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680348/excedente-da-seguranca-social-aumenta-para-4368-milhoes-ate-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Excedente da Segurança Social aumenta para 4.368 milhões até outubro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680348/excedente-da-seguranca-social-aumenta-para-4368-milhoes-ate-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732897736000,
+         "created": 1732897736000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/34587453.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680332/colisao-frontal-na-a22-faz-dois-feridos-graves-ha-ainda-um-morto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Colisão frontal na A22 faz um morto e dois feridos graves",
@@ -1492,7 +1538,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749da3c8db56.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749eb7e36596.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749b6e02fe46.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2680129/pcp-acusa-ps-de-ser-cumplice-do-governo-e-ajudar-chega-e-il?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PCP acusa PS de ser cúmplice do Governo e ajudar Chega e IL",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2680129/pcp-acusa-ps-de-ser-cumplice-do-governo-e-ajudar-chega-e-il?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732884130000,
-         "created": 1732884130000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43995906.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680120/preventiva-para-suspeitos-de-trafico-de-droga-em-leiria-beja-e-faro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Preventiva para suspeitos de tráfico de droga em Leiria, Beja e Faro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680120/preventiva-para-suspeitos-de-trafico-de-droga-em-leiria-beja-e-faro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732884062000,
-         "created": 1732884062000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_584fd092c135b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
