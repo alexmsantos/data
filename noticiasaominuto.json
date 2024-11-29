@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2680154/ventura-diz-que-orcamento-e-mau-e-que-primeiro-ministro-nao-serve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ventura diz que orçamento \"é mau\" e que primeiro-ministro \"não serve\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2680154/ventura-diz-que-orcamento-e-mau-e-que-primeiro-ministro-nao-serve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732885775000,
+         "created": 1732885775000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6697c599555eb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680131/ipo-lisboa-diz-que-tem-oito-elevadores-em-obras-de-substitucao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "IPO Lisboa diz que tem oito elevadores em obras de substitução",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680131/ipo-lisboa-diz-que-tem-oito-elevadores-em-obras-de-substitucao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732885614000,
+         "created": 1732885614000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5cd2d5e16f87c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2680147/despesas-de-consumo-final-das-familias-aceleram-para-4-3-no-3-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Despesas de consumo final das famílias aceleram para 4,3% no 3.º trimestre",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a5e17efb67e0.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679948/vitor-baia-luis-figo-e-quaresma-disputaram-o-barcelona-real-em-lendas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vítor Baía, Luís Figo e Quaresma disputaram o Barcelona-Real em lendas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679948/vitor-baia-luis-figo-e-quaresma-disputaram-o-barcelona-real-em-lendas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732871823000,
-         "created": 1732871823000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749847105f8c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2679910/porsche-nao-vai-abdicar-dos-automoveis-com-motor-a-combustao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Porsche não vai abdicar dos automóveis com motor a combustão",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2679910/porsche-nao-vai-abdicar-dos-automoveis-com-motor-a-combustao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732871548000,
-         "created": 1732871548000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6655e3590d890.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
