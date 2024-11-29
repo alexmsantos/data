@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680322/pagamentos-em-atraso-baixam-para-709-4-milhoes-ate-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pagamentos em atraso baixam para 709,4 milhões até outubro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680322/pagamentos-em-atraso-baixam-para-709-4-milhoes-ate-outubro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732896839000,
+         "created": 1732896839000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65491606bed4f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680329/fc-porto-de-volta-ao-olival-sob-forte-aparato-policial?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "FC Porto de volta ao Olival sob forte aparato policial",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43995805.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2680113/beetlejuice-beetlejuice-estreia-na-max-em-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Beetlejuice Beetlejuice' estreia na Max em dezembro",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2680113/beetlejuice-beetlejuice-estreia-na-max-em-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732883142000,
-         "created": 1732883142000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749b2982ea00.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
