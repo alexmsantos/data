@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680122/unidade-de-saude-alerta-para-surto-de-hepatite-a-no-baixo-alentejo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Unidade de Saúde alerta para surto de hepatite A no Baixo Alentejo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680122/unidade-de-saude-alerta-para-surto-de-hepatite-a-no-baixo-alentejo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732883961000,
+         "created": 1732883961000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_577f8deb0f012.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2680121/cds-pp-salienta-que-oe-avanca-no-combate-a-ditadura-do-gosto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "CDS-PP salienta que OE \"avança no combate à ditadura do gosto\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2680121/cds-pp-salienta-que-oe-avanca-no-combate-a-ditadura-do-gosto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732883857000,
+         "created": 1732883857000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749b59647692.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2680117/navegante-gratis-para-jovens-ate-aos-23-anos-ja-pode-ser-carregado-na-app?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Navegante grátis para jovens até aos 23 anos já pode ser carregado na 'app'",
@@ -43,7 +89,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6603393225eef.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/43995905.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43993674.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679928/medusa-rara-captada-por-fotografo-no-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Gigante\". Medusa \"muito rara\" captada por fotógrafo no Brasil",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679928/medusa-rara-captada-por-fotografo-no-brasil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732869571000,
-         "created": 1732869571000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67497b48c6f5d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2679920/ministro-da-defesa-da-russia-enaltece-alianca-com-a-coreia-do-norte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ministro da Defesa da Rússia enaltece aliança com a Coreia do Norte",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2679920/ministro-da-defesa-da-russia-enaltece-alianca-com-a-coreia-do-norte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732869566000,
-         "created": 1732869566000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67497cfd0c180.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
