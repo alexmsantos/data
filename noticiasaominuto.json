@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2680105/xiaomi-15-pode-estar-prestes-a-ser-lancado-fora-da-china?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Xiaomi 15 pode estar prestes a ser lançado fora da China",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2680105/xiaomi-15-pode-estar-prestes-a-ser-lancado-fora-da-china?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732882561000,
+         "created": 1732882561000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749b0443ddf8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680103/mocambique-presidente-pede-fim-de-mortes-e-vandalismo-durante-protestos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Moçambique. Presidente pede fim de mortes e vandalismo durante protestos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680103/mocambique-presidente-pede-fim-de-mortes-e-vandalismo-durante-protestos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732882551000,
+         "created": 1732882551000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43995453.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680104/prisao-preventiva-para-suspeito-de-furtar-residencias-de-luxo-no-algarve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Prisão preventiva para suspeito de furtar residências de luxo no Algarve",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674977dd7910d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2678991/falta-pouco-para-o-natal-12-sugestoes-para-se-entreter-enquanto-espera?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Falta pouco para o Natal! 12 sugestões para se entreter enquanto espera",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2678991/falta-pouco-para-o-natal-12-sugestoes-para-se-entreter-enquanto-espera?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732868100000,
-         "created": 1732868100000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747acb13b1bd.jpeg?1732750537",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2679912/o-meu-filho-nao-estava-bem-de-saude-mental-esta-preso-sem-se-defender?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"O meu filho não estava bem de saúde mental. Está preso sem se defender\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/fama/2679912/o-meu-filho-nao-estava-bem-de-saude-mental-esta-preso-sem-se-defender?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732867844000,
-         "created": 1732867844000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749732823431.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
