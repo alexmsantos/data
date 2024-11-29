@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680442/presidente-das-filipinas-tenta-evitar-destituicao-de-vice-apesar-de-ameacas-de-morte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Presidente das Filipinas tenta evitar destituição de vice apesar de ameaças de morte",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680442/presidente-das-filipinas-tenta-evitar-destituicao-de-vice-apesar-de-ameacas-de-morte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732904828000,
+         "created": 1732904828000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_628f94b1bf283.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680446/pr-guineense-avisa-que-pais-nao-vai-tolerar-desordens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PR guineense avisa que país não vai tolerar desordens",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680446/pr-guineense-avisa-que-pais-nao-vai-tolerar-desordens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732904740000,
+         "created": 1732904740000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/41874543.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680439/lenda-no-benfica-e-no-libertad-oscar-cardozo-conquista-novo-feito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lenda no Benfica e no Libertad. Óscar Cardozo conquista novo feito",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/14610863.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2680148/inem-confirma-projeto-piloto-para-avaliar-viabilidade-de-ia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "INEM confirma \"projeto piloto\" para avaliar viabilidade de IA",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2680148/inem-confirma-projeto-piloto-para-avaliar-viabilidade-de-ia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732890935000,
-         "created": 1732890935000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6735d71bcd7a2.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680234/exercito-israelita-dispara-contra-habitantes-libaneses-nao-ha-feridos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Exército israelita dispara contra habitantes libaneses. Não há feridos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680234/exercito-israelita-dispara-contra-habitantes-libaneses-nao-ha-feridos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732890934000,
-         "created": 1732890934000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749d220dca51.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
