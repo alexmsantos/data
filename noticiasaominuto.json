@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2680229/festival-de-musica-da-madeira-decorre-em-marco-de-2025-com-10-concertos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Festival de Música da Madeira decorre em março de 2025 com 10 concertos",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/cultura/2680229/festival-de-musica-da-madeira-decorre-em-marco-de-2025-com-10-concertos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732889978000,
+         "created": 1732889978000,
+         "category": "Cultura",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ae2bece4d2ee.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680222/cerca-de-150-denuncias-de-assedio-nas-artes-ha-40-alegados-agressores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Cerca de 150 denúncias de assédio nas Artes .Há 40 alegados agressores",
@@ -2228,7 +2251,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749ca13a39cb.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6749cd42ac9a3.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65dca1b01756c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2680020/euribor-desceu-a-tres-seis-e-12-meses-e-tem-media-mensal-mais-baixa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Euribor desceu a três, seis e 12 meses e tem média mensal mais baixa",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2680020/euribor-desceu-a-tres-seis-e-12-meses-e-tem-media-mensal-mais-baixa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732877014000,
-         "created": 1732877014000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/40908160.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
