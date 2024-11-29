@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2680004/psd-pede-audicao-sobre-encerramento-de-fabrica-de-arcos-de-valdevez?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PSD pede audição sobre encerramento de fábrica de Arcos de Valdevez",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2680004/psd-pede-audicao-sobre-encerramento-de-fabrica-de-arcos-de-valdevez?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732875793000,
+         "created": 1732875793000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6744e3e84e148.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680003/socrates-nao-vai-estar-presente-na-sessao-solene-sobre-mario-soares-na-ar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sócrates não vai estar presente na sessão solene sobre Mário Soares na AR",
@@ -52,10 +75,10 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/pais/2679992/pj-em-operacao-internacional-que-deteve-26-pessoas-por-trafico-de-pessoas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PJ em operação internacional que deteve 26 pessoas por tráfico de pessoas",
+         "id": "https://www.noticiasaominuto.com/pais/2679992/pj-em-operacao-internacional-que-deteve-26-pessoas-por-trafico-humano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PJ em operação internacional que deteve 26 pessoas por tráfico humano",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2679992/pj-em-operacao-internacional-que-deteve-26-pessoas-por-trafico-de-pessoas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/pais/2679992/pj-em-operacao-internacional-que-deteve-26-pessoas-por-trafico-humano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d8e132ec0438.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2679859/mexico-pede-calma-a-empresas-chinesas-face-a-ameaca-de-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "México pede calma a empresas chinesas face à ameaça de Trump",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2679859/mexico-pede-calma-a-empresas-chinesas-face-a-ameaca-de-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732861323000,
-         "created": 1732861323000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67495d8e1fc3f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
