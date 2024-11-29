@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2680024/ao-minuto-chega-protesta-na-ar-discussao-sobre-oe-prossegue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AO MINUTO: Chega protesta na AR; Discussão sobre OE prossegue",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2680024/ao-minuto-chega-protesta-na-ar-discussao-sobre-oe-prossegue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732877287000,
+         "created": 1732877287000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_654b3e35eb973.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680021/siria-jihadistas-lancam-vasta-ofensiva-e-chegam-as-portas-de-alepo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Síria. 'Jihadistas' lançam vasta ofensiva e chegam às portas de Alepo",
@@ -145,7 +168,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679993/vencedor-do-euromilhoes-reclama-premio-sera-mais-rico-que-harry-styles?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vencedor do Euromilhões reclama prémio. Será mais rico que Harry Styles",
+         "title": "Vencedor do Euromilhões reclama prémio. Será mais rico do que Styles",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/mundo/2679993/vencedor-do-euromilhoes-reclama-premio-sera-mais-rico-que-harry-styles?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -158,7 +181,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5564e9f61f6c7.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6469e2f7761d1.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6748d4eda6b94.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679865/farense-e-estrela-da-amadora-abrem-12-jornada-em-jogo-de-aflitos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Farense e Estrela da Amadora abrem 12.ª jornada em jogo de 'aflitos'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679865/farense-e-estrela-da-amadora-abrem-12-jornada-em-jogo-de-aflitos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732863563000,
-         "created": 1732863563000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64e52f5469cf8.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
