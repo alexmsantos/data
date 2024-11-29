@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2680056/comprar-um-tablet-aqui-tem-cinco-motivos-para-o-fazer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Comprar um tablet? Aqui tem cinco motivos para o fazer",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/tech/2680056/comprar-um-tablet-aqui-tem-cinco-motivos-para-o-fazer?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732879087000,
+         "created": 1732879087000,
+         "category": "Tech",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_60a277e610eda.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2680050/pib-cresce-1-9-em-termos-homologos-e-0-2-em-cadeia-no-3-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PIB cresce 1,9% em termos homólogos e 0,2% em cadeia no 3.º trimestre",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67496a7412984.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2679895/aplausos-gritos-e-videos-old-trafford-acarinhou-ruben-amorim-na-estreia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aplausos, gritos e vídeos. Old Trafford acarinhou Ruben Amorim na estreia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2679895/aplausos-gritos-e-videos-old-trafford-acarinhou-ruben-amorim-na-estreia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732864689000,
-         "created": 1732864689000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67496a6f60b53.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
