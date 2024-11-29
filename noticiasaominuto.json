@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2679871/queixas-em-vao-feitas-a-comissao-contra-racismo-nao-funciona-ha-um-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Queixas \"em vão\" feitas à comissão contra racismo. Não funciona há um ano",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2679871/queixas-em-vao-feitas-a-comissao-contra-racismo-nao-funciona-ha-um-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732861528000,
+         "created": 1732861528000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58b70651597b6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2679856/piloto-automatico-ativo-em-naufragio-de-navio-do-exercito-neozelandes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Piloto automático ativo em naufrágio de navio do exército neozelandês",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65dca1b952407.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2679694/parlamento-aprova-fim-do-corte-de-5-dos-vencimentos-dos-politicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Parlamento aprova fim do corte de 5% dos vencimentos dos políticos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2679694/parlamento-aprova-fim-do-corte-de-5-dos-vencimentos-dos-politicos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732821064000,
-         "created": 1732821064000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43833015.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
