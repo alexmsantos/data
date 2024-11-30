@@ -1,10 +1,102 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2679976/e-quem-ganha-a-coroa-do-careca-mais-sexy-edescubra-aqui?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "E quem ganha a coroa do careca mais sexy é... Descubra aqui",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/fama/2679976/e-quem-ganha-a-coroa-do-careca-mais-sexy-edescubra-aqui?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732966761000,
+         "created": 1732966761000,
+         "category": "Fama",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67498f26f1301.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680729/duas-lanchas-suspeitas-de-narcotrafico-apanhadas-a-sul-de-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Duas lanchas suspeitas de narcotráfico apanhadas a Sul de Portugal",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680729/duas-lanchas-suspeitas-de-narcotrafico-apanhadas-a-sul-de-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732966493000,
+         "created": 1732966493000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5bab3a1acd219.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680728/viktor-gyokeres-destacado-em-espanha-vai-fazer-rebentar-com-o-mercado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Gyokeres destacado em Espanha: \"Vai fazer explodir o próximo mercado\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680728/viktor-gyokeres-destacado-em-espanha-vai-fazer-rebentar-com-o-mercado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732966409000,
+         "created": 1732966409000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67254fc5c1387.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2680296/xxx?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Os alimentos que aliviam a tensão pré-menstrual (sem engordar)",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2680296/xxx?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732966310000,
+         "created": 1732966310000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6703974c8b627.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680727/siria-admite-que-rebeldes-controlam-grande-parte-dos-bairros-de-alepo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Síria admite que rebeldes controlam \"grande parte dos bairros de Alepo\"",
@@ -30,7 +122,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680725/polonia-ampliara-escudo-oriental-ate-a-fronteira-com-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Polónia ampliará \"Escudo Oriental\" até à fronteira com Ucrânia",
+         "title": "Polónia ampliará 'Escudo Oriental' até à fronteira com Ucrânia",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/mundo/2680725/polonia-ampliara-escudo-oriental-ate-a-fronteira-com-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2206,98 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f0c6e9969084.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2680315/x-quer-lidar-com-um-dos-grandes-problemas-na-rede-social?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "X quer lidar com um dos grandes problemas na rede social",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2680315/x-quer-lidar-com-um-dos-grandes-problemas-na-rede-social?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732921943000,
-         "created": 1732921943000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6548c8025e839.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2680566/chega-na-ar-perdemos-todos-demasiado-tempo-a-discutir-garotices?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chega na AR? \"Perdemos todos demasiado tempo a discutir garotices\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2680566/chega-na-ar-perdemos-todos-demasiado-tempo-a-discutir-garotices?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732921604000,
-         "created": 1732921604000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_670801bcbb840.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2680583/trabalhadores-do-ccb-lamentam-exoneracao-de-francisca-carneiro-fernandes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trabalhadores do CCB lamentam exoneração de Francisca Carneiro Fernandes",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/cultura/2680583/trabalhadores-do-ccb-lamentam-exoneracao-de-francisca-carneiro-fernandes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732920982000,
-         "created": 1732920982000,
-         "category": "Cultura",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5719beebd96f8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2680579/s-p-mantem-nota-e-perspectiva-da-divida-soberana-da-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "S&P mantém nota e perspectiva da divida soberana da França",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2680579/s-p-mantem-nota-e-perspectiva-da-divida-soberana-da-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732920933000,
-         "created": 1732920933000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_514196d89528f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
