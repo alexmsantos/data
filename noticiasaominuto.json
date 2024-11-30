@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680809/golo-aos-90-4-da-a-uniao-de-leiria-a-primeira-vitoria-da-era-silas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Golo aos 90+4' dá à União de Leiria a primeira vitória da 'era Silas'",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680809/golo-aos-90-4-da-a-uniao-de-leiria-a-primeira-vitoria-da-era-silas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732982406000,
+         "created": 1732982406000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6488f8c9129f7.jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680808/presidente-da-ump-diz-que-misericordias-nao-podem-pagar-mais-aos-trabalhadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Presidente da UMP diz que misericórdias não podem pagar mais aos trabalhadores",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674705d2e7f65.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680677/santana-na-corrida-a-belem-eu-sou-capaz-de-ganhar-ao-almirante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Santana Lopes na corrida a Belém? \"Eu sou capaz de ganhar ao Almirante\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680677/santana-na-corrida-a-belem-eu-sou-capaz-de-ganhar-ao-almirante?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732957437000,
-         "created": 1732957437000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65e4626f87bb3.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
