@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680877/governo-vai-classificar-caroco-de-azeitona-como-subproduto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Governo vai classificar caroço de azeitona como subproduto",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680877/governo-vai-classificar-caroco-de-azeitona-como-subproduto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732991861000,
+         "created": 1732991861000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6615292fe5d02.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680874/milhares-de-manifestantes-pro-ue-protestam-pelo-terceiro-dia-na-georgia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Milhares de manifestantes pró-UE protestam pelo terceiro dia na Geórgia",
@@ -14,8 +37,8 @@
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
-         "published": 1732991647000,
-         "created": 1732991647000,
+         "published": 1732991795000,
+         "created": 1732991795000,
          "category": "Mundo",
          "content": "undefined",
          "enclosures": [
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6717aa45cad2f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680733/esteve-a-beira-do-estrelato-e-acabou-na-prisao-vi-esfaqueamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Esteve à beira do estrelato e acabou na prisão: \"Vi esfaqueamentos...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680733/esteve-a-beira-do-estrelato-e-acabou-na-prisao-vi-esfaqueamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732969412000,
-         "created": 1732969412000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674af8aaac765.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
