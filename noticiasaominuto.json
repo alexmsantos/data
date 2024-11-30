@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680786/ataque-provavelmente-russo-mata-pelo-menos-16-civis-no-sul-de-alepo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ataque \"provavelmente\" russo mata pelo menos 16 civis no sul de Alepo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680786/ataque-provavelmente-russo-mata-pelo-menos-16-civis-no-sul-de-alepo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732979761000,
+         "created": 1732979761000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d5c0ee46b56.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680788/vasco-seabra-quer-arouca-a-jogar-nos-limites-frente-ao-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vasco Seabra quer Arouca \"a jogar nos limites\" frente ao Benfica",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5850461e6bd44.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2680656/garotices-em-forma-de-vandalismo-as-reacoes-as-tarjas-do-chega-na-ar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Garotices\" em forma de \"vandalismo\"? As reações às tarjas do Chega na AR",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2680656/garotices-em-forma-de-vandalismo-as-reacoes-as-tarjas-do-chega-na-ar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732954241000,
-         "created": 1732954241000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67499c8b8d480.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
