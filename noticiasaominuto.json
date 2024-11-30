@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680904/milhares-na-rua-em-valencia-para-pedir-demissao-de-mazon?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Milhares na rua em Valência para pedir demissão de Mazón",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680904/milhares-na-rua-em-valencia-para-pedir-demissao-de-mazon?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732996007000,
+         "created": 1732996007000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/44002805.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680902/solidariedade-para-com-palestinianos-juntou-centenas-de-pessoas-em-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Solidariedade para com palestinianos juntou centenas de pessoas em Lisboa",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65f0b08a13889.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2680770/incendio-na-madeira-ps-acusa-governo-regional-de-esconder-informacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Incêndio na Madeira. PS acusa Governo Regional de esconder informações",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2680770/incendio-na-madeira-ps-acusa-governo-regional-de-esconder-informacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732973796000,
-         "created": 1732973796000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b2ebef0b21e.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
