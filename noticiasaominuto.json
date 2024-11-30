@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680692/israel-ataca-transporte-de-armas-do-hezbollah-na-fronteira-entre-libano-e-siria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel ataca \"transporte de armas do Hezbollah\" na fronteira entre Líbano e Síria",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680692/israel-ataca-transporte-de-armas-do-hezbollah-na-fronteira-entre-libano-e-siria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732959475000,
+         "created": 1732959475000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6742499d508a4.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680686/cancelo-faz-tunel-a-marcos-leonardo-e-a-reacao-esta-a-dar-que-falar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Cancelo faz 'túnel' a Marcos Leonardo e a reação está a dar que falar",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_576986a3dc51c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680524/processo-do-alegado-golpe-de-bolsonaro-deve-ser-julgado-daqui-a-2-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Processo do alegado golpe de Bolsonaro deve ser julgado daqui a 2 anos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680524/processo-do-alegado-golpe-de-bolsonaro-deve-ser-julgado-daqui-a-2-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732912494000,
-         "created": 1732912494000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43974658.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
