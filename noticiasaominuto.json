@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680982/libertadores-fernando-gomes-e-pedro-proenca-dao-parabens-a-artur-jorge?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Libertadores: Fernando Gomes e Pedro Proença dão parabéns a Artur Jorge",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680982/libertadores-fernando-gomes-e-pedro-proenca-dao-parabens-a-artur-jorge?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733009499000,
+         "created": 1733009499000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b8db369845.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680981/sporting-salva-empate-em-braga-na-luta-pelo-apuramento-na-wse-cup?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sporting salva empate em Braga na luta pelo apuramento na WSE Cup",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680981/sporting-salva-empate-em-braga-na-luta-pelo-apuramento-na-wse-cup?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733009326000,
+         "created": 1733009326000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b9e8e62a8b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680979/assad-diz-que-siria-pode-derrotar-os-terroristas-apos-ofensiva-rebelde?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Assad diz que Síria pode \"derrotar os terroristas\" após ofensiva rebelde",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b4301b1114.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680832/poeiras-estao-de-volta-a-qualidade-do-ar-em-cada-zona-e-recomendacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Poeiras estão de volta: A qualidade do ar em cada zona (e recomendações)",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680832/poeiras-estao-de-volta-a-qualidade-do-ar-em-cada-zona-e-recomendacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732985567000,
-         "created": 1732985567000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62324b1b08692.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680835/centenas-de-manifestantes-pedem-em-lisboa-a-libertacao-da-palestina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Centenas de manifestantes pedem em Lisboa a libertação da Palestina",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680835/centenas-de-manifestantes-pedem-em-lisboa-a-libertacao-da-palestina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732985142000,
-         "created": 1732985142000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44001904.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
