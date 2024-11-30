@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680941/presidente-dos-eua-visita-cabo-verde-na-segunda-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Presidente dos EUA visita Cabo Verde na segunda-feira",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680941/presidente-dos-eua-visita-cabo-verde-na-segunda-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733003651000,
+         "created": 1733003651000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d5dddf4d4a0.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680939/tarjas-do-chega-tem-de-haver-bom-senso-nas-formas-de-luta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tarjas do Chega? \"Tem de haver bom senso nas formas de luta\"",
@@ -1157,7 +1180,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680741/sporting-santa-clara-nova-estreia-para-joao-pereira-apos-a-hecatombe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[0-1] Sporting-Santa Clara: 'Bicicleta' de Gyokeres sai fraca",
+         "title": "[0-1] Sporting-Santa Clara: Kovacevic nega o golo a Matheus Pereira",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2680741/sporting-santa-clara-nova-estreia-para-joao-pereira-apos-a-hecatombe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_672403d678897.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680801/o-pais-precisa-urgentemente-de-uma-politica-de-imigracao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"O país precisa urgentemente de uma política de imigração\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680801/o-pais-precisa-urgentemente-de-uma-politica-de-imigracao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732980972000,
-         "created": 1732980972000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/16996259.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
