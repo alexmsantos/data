@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680902/solidariedade-para-com-palestinianos-juntou-centenas-de-pessoas-em-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Solidariedade para com palestinianos juntou centenas de pessoas em Lisboa",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680902/solidariedade-para-com-palestinianos-juntou-centenas-de-pessoas-em-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732995876000,
+         "created": 1732995876000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/44001914.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680895/benfica-descola-se-no-trono-e-fica-a-espera-do-que-vai-fazer-o-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Benfica 'descola-se' no trono e fica à espera do que vai fazer o Sporting",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b2ebef0b21e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680768/vucic-nega-envolvimento-do-seu-pais-no-ataque-a-canal-de-agua-no-kosovo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vucic nega envolvimento do seu país no ataque a canal de água no Kosovo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680768/vucic-nega-envolvimento-do-seu-pais-no-ataque-a-canal-de-agua-no-kosovo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732973707000,
-         "created": 1732973707000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59d23cd0b71e2.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
