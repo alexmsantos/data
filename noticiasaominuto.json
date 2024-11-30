@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680742/policia-mocambicana-acusa-sociedade-civil-de-financiar-manifestacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Polícia moçambicana acusa sociedade civil de financiar manifestações",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680742/policia-mocambicana-acusa-sociedade-civil-de-financiar-manifestacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732969461000,
+         "created": 1732969461000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6717aa45cad2f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680733/esteve-a-beira-do-estrelato-e-acabou-na-prisao-vi-esfaqueamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Esteve à beira do estrelato e acabou na prisão: \"Vi esfaqueamentos...\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680733/esteve-a-beira-do-estrelato-e-acabou-na-prisao-vi-esfaqueamentos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732969412000,
+         "created": 1732969412000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674af8aaac765.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2680743/ps-quer-saber-se-governo-sabia-das-dificuldades-e-fecho-da-coindu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PS quer saber se Governo sabia das dificuldades e fecho da Coindu",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66fade0b84149.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680600/ferdinand-reage-de-forma-hilariante-a-novo-bis-de-cristiano-ronaldo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ferdinand reage de forma hilariante a novo bis de Cristiano Ronaldo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680600/ferdinand-reage-de-forma-hilariante-a-novo-bis-de-cristiano-ronaldo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732924384000,
-         "created": 1732924384000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_648c79b141773.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680582/socios-do-maritimo-aprovam-relatorio-de-gestao-e-contas-da-epoca-202324?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sócios do Marítimo aprovam relatório de gestão e contas da época 2023/24",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680582/socios-do-maritimo-aprovam-relatorio-de-gestao-e-contas-da-epoca-202324?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732924073000,
-         "created": 1732924073000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63badb9532448.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
