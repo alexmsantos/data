@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680889/toma-la-disto-o-golaco-de-milinkovic-savic-que-salvou-jorge-jesus?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "'Toma lá disto'. O golaço de Milinkovic-Savic que salvou Jorge Jesus",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680889/toma-la-disto-o-golaco-de-milinkovic-savic-que-salvou-jorge-jesus?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732993837000,
+         "created": 1732993837000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b623b54c3b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2680887/be-diz-que-uberizacao-traz-todos-os-riscos-e-custos-para-trabalhadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "BE diz que \"uberização\" traz \"todos os riscos e custos\" para trabalhadores",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c747e3b6af81.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680756/trabalhadores-querem-entregar-resolucao-a-uniao-das-misericordias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trabalhadores querem entregar resolução à União das Misericórdias",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680756/trabalhadores-querem-entregar-resolucao-a-uniao-das-misericordias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732971101000,
-         "created": 1732971101000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6675c90105d3b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
