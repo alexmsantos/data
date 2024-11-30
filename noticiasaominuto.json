@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680864/ue-manifesta-apoio-ao-kosovo-apos-ato-desprezivel-contra-canal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "UE manifesta apoio ao Kosovo após \"ato desprezível\" contra canal",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680864/ue-manifesta-apoio-ao-kosovo-apos-ato-desprezivel-contra-canal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732989522000,
+         "created": 1732989522000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_658da6d4df831.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680863/apos-sporting-west-ham-gabriel-volta-a-marcar-e-a-provocar-gyokeres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Após Sporting, West Ham. Gabriel volta a marcar... e a provocar Gyokeres",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680863/apos-sporting-west-ham-gabriel-volta-a-marcar-e-a-provocar-gyokeres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732989175000,
+         "created": 1732989175000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b501a90a60.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680861/joao-cancelo-voltou-as-assistencias-e-deixou-jorge-jesus-a-festejar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "João Cancelo voltou às assistências e deixou Jorge Jesus a festejar",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67331dd54fd4e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2679976/e-quem-ganha-a-coroa-do-careca-mais-sexy-edescubra-aqui?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "E quem ganha a coroa do careca mais sexy é... Descubra aqui",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/fama/2679976/e-quem-ganha-a-coroa-do-careca-mais-sexy-edescubra-aqui?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732966761000,
-         "created": 1732966761000,
-         "category": "Fama",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67498f26f1301.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680729/duas-lanchas-suspeitas-de-narcotrafico-apanhadas-a-sul-de-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Duas lanchas suspeitas de narcotráfico apanhadas a Sul de Portugal",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680729/duas-lanchas-suspeitas-de-narcotrafico-apanhadas-a-sul-de-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732966493000,
-         "created": 1732966493000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5bab3a1acd219.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
