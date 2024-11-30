@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2680256/eterno-solteiro-e-muito-provavel-que-seja-a-sina-deste-signo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Eterno solteiro? É muito provável que seja a sina deste signo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2680256/eterno-solteiro-e-muito-provavel-que-seja-a-sina-deste-signo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732960990000,
+         "created": 1732960990000,
+         "category": "Lifestyle",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63b2db266a57d.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680699/motociclista-de-33-anos-morre-em-despiste-na-batalha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Motociclista de 33 anos morre em despiste na Batalha",
@@ -20,7 +43,30 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65d4c10649bc4.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680693/mais-de-cem-manifestantes-detidos-na-georgia-em-manifestacoes-pro-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mais de cem manifestantes detidos na Geórgia em manifestações pró-UE",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680693/mais-de-cem-manifestantes-detidos-na-georgia-em-manifestacoes-pro-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732960627000,
+         "created": 1732960627000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674ae1d349e2a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43998941.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680535/futebol-e-isto-avo-e-neto-choram-abracados-conquista-do-racing?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Futebol é isto... Avô e neto choram abraçados conquista do Racing",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680535/futebol-e-isto-avo-e-neto-choram-abracados-conquista-do-racing?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732914188000,
-         "created": 1732914188000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674a2c0d401ac.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2680419/os-10-alimentos-que-ajudam-a-baixar-os-numeros-na-balanca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Os 10 alimentos que ajudam a baixar os números na balança",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2680419/os-10-alimentos-que-ajudam-a-baixar-os-numeros-na-balanca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732914175000,
-         "created": 1732914175000,
-         "category": "Lifestyle",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66a7428428022.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
