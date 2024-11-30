@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680931/ong-world-central-kitchen-suspende-atividade-apos-morte-de-colaboradores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "ONG World Central Kitchen suspende atividade após morte de colaboradores",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680931/ong-world-central-kitchen-suspende-atividade-apos-morte-de-colaboradores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733001332000,
+         "created": 1733001332000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b804c26e5a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2680929/a-cidade-e-os-mapas-vence-working-class-heroes-no-portopostdoc-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "'A cidade e os mapas' vence 'Working class heroes' no Porto/Post/Doc 2024",
@@ -214,7 +237,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680800/atl-mineiro-botafogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[0-2] Atl. Mineiro-Botafogo: Intervalo em Buenos Aires",
+         "title": "[1-2] Atl. Mineiro-Botafogo: Vargas reduz e dá esperança",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2680800/atl-mineiro-botafogo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -513,7 +536,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680792/psg-nantes-todos-os-portugueses-jogam-a-titulares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[1-1] PSG-Nantes: Tempo de descanso em Paris",
+         "title": "[1-1] PSG-Nantes: Recomeça o encontro em Paris",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2680792/psg-nantes-todos-os-portugueses-jogam-a-titulares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -927,7 +950,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680741/sporting-santa-clara-nova-estreia-para-joao-pereira-apos-a-hecatombe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[0-0] Sporting-Santa Clara: Geny Catamo cai e Alvalade pede penálti",
+         "title": "[0-1] Sporting-Santa Clara: Golaço de Vinícius 'gela' Alvalade",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2680741/sporting-santa-clara-nova-estreia-para-joao-pereira-apos-a-hecatombe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6475d24828d94.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680782/nova-atracao-turistica-da-china-e-escada-a-1500-metros-do-chao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nova atração turística da China é... escada a 1.500 metros do chão",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680782/nova-atracao-turistica-da-china-e-escada-a-1500-metros-do-chao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732978297000,
-         "created": 1732978297000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b242997100.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
