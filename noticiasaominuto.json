@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680979/assad-diz-que-siria-pode-derrotar-os-terroristas-apos-ofensiva-rebelde?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Assad diz que Síria pode \"derrotar os terroristas\" após ofensiva rebelde",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680979/assad-diz-que-siria-pode-derrotar-os-terroristas-apos-ofensiva-rebelde?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733009320000,
+         "created": 1733009320000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5efc74fb9e162.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680977/sp-braga-felicita-artur-jorge-e-diz-estar-orgulhoso-pela-libertadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sp. Braga felicita Artur Jorge e diz estar \"orgulhoso\" pela Libertadores",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/44001904.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680817/tiago-morais-estreou-se-a-marcar-pelo-rio-ave-neste-lance?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tiago Morais estreou-se a marcar pelo Rio Ave neste lance",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680817/tiago-morais-estreou-se-a-marcar-pelo-rio-ave-neste-lance?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732984560000,
-         "created": 1732984560000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b3eb950340.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
