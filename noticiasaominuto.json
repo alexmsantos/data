@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2680762/licenca-da-nova-plataforma-tvde-exclusiva-para-mulheres-suspensa-pelo-imt?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Licença da nova plataforma TVDE exclusiva para mulheres suspensa pelo IMT",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2680762/licenca-da-nova-plataforma-tvde-exclusiva-para-mulheres-suspensa-pelo-imt?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732971873000,
+         "created": 1732971873000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63ed677ca82de.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680758/torreense-nao-trava-no-vermelho-e-mergulha-felgueiras-em-crise?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Torreense não 'trava no vermelho' e mergulha Felgueiras em crise",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680758/torreense-nao-trava-no-vermelho-e-mergulha-felgueiras-em-crise?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732971634000,
+         "created": 1732971634000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c747e3b6af81.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2680756/trabalhadores-querem-entregar-resolucao-a-uniao-das-misericordias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Trabalhadores querem entregar resolução à União das Misericórdias",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/16660736.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2680632/um-ano-depois-passageiros-da-unir-continuam-a-achar-o-servico-pessimo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Um ano depois, passageiros da Unir continuam a achar o serviço \"péssimo\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2680632/um-ano-depois-passageiros-da-unir-continuam-a-achar-o-servico-pessimo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732947815000,
-         "created": 1732947815000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43990557.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680631/kim-jong-un-recebe-ministro-russo-e-reafirma-apoio-a-moscovo-na-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Kim Jong-un recebe ministro russo e reafirma apoio a Moscovo na Ucrânia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680631/kim-jong-un-recebe-ministro-russo-e-reafirma-apoio-a-moscovo-na-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732947777000,
-         "created": 1732947777000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43999768.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
