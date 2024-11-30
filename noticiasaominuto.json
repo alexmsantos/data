@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680756/trabalhadores-querem-entregar-resolucao-a-uniao-das-misericordias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trabalhadores querem entregar resolução à União das Misericórdias",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680756/trabalhadores-querem-entregar-resolucao-a-uniao-das-misericordias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732971101000,
+         "created": 1732971101000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6675c90105d3b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2680754/il-defende-modelo-hibrido-para-diminuir-numero-de-alunos-sem-professor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "IL defende modelo \"híbrido\" para diminuir número de alunos sem professor",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43999768.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680610/ministerio-quer-nao-docentes-dedicados-em-exclusivo-as-funcoes-educativas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ministério quer não docentes dedicados em exclusivo às funções educativas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680610/ministerio-quer-nao-docentes-dedicados-em-exclusivo-as-funcoes-educativas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732947744000,
-         "created": 1732947744000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/40183594.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
