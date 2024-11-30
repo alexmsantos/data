@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2680843/resgatadas-130-pessoas-a-deriva-a-cerca-de-30-milhas-de-tenerife?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Resgatadas 130 pessoas à deriva a cerca de 30 milhas de Tenerife",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2680843/resgatadas-130-pessoas-a-deriva-a-cerca-de-30-milhas-de-tenerife?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732986780000,
+         "created": 1732986780000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b476ae74ca.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2680269/tem-solucos-com-frequencia-cinco-conselhos-para-evita-los?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tem soluços com frequência? Cinco conselhos para evitá-los",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674aee483b5af.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680696/servia-condena-com-firmeza-ataque-a-canal-de-agua-do-kosovo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sérvia condena \"com firmeza\" ataque a canal de água do Kosovo",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680696/servia-condena-com-firmeza-ataque-a-canal-de-agua-do-kosovo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732963832000,
-         "created": 1732963832000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674aeedfa2468.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
