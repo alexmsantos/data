@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2680795/raimundo-diz-que-oe-serve-pequena-minoria-quando-falta-tanto-ao-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Raimundo diz que OE serve \"pequena minoria\" quando \"falta tanto ao país\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/politica/2680795/raimundo-diz-que-oe-serve-pequena-minoria-quando-falta-tanto-ao-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732980287000,
+         "created": 1732980287000,
+         "category": "Política",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/44001345.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680793/daniel-ramos-quer-avs-com-mais-coragem-e-energia-positiva-para-o-braga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Daniel Ramos quer AVS \"com mais coragem e energia positiva\" para o Braga",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_56cac5305ecb0.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680665/benfica-toma-posicao-sobre-tomas-araujo-e-define-plano-para-o-central?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Benfica toma posição sobre Tomás Araújo e define plano para o central",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680665/benfica-toma-posicao-sobre-tomas-araujo-e-define-plano-para-o-central?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732954577000,
-         "created": 1732954577000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673cc7ddad34d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
