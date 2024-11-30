@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680853/andre-villas-boas-da-a-receita-para-superar-o-mau-momento-do-fc-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "André Villas-Boas dá a \"receita\" para superar o mau momento do FC Porto",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680853/andre-villas-boas-da-a-receita-para-superar-o-mau-momento-do-fc-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732988065000,
+         "created": 1732988065000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67436140ef390.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680852/instituicoes-instam-parlamento-europeu-a-defender-liberdade-artistica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Instituições instam Parlamento Europeu a defender liberdade artística",
@@ -237,7 +260,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680789/al-shabab-al-hilal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[1-1] Al-Shabab-Al Hilal: Novo golo e Jorge Jesus 'suspira de alívio'",
+         "title": "[2-1] Al-Shabab-Al Hilal: VAR 'trama' Vítor Pereira e salva Jorge Jesus",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2680789/al-shabab-al-hilal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5808bf491aa6c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680725/polonia-ampliara-escudo-oriental-ate-a-fronteira-com-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Polónia ampliará 'Escudo Oriental' até à fronteira com Ucrânia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680725/polonia-ampliara-escudo-oriental-ate-a-fronteira-com-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732965715000,
-         "created": 1732965715000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66cf43f9a85bd.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
