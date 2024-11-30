@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2680846/o-mais-dificil-na-vida-e-amar-os-outros-e-recusar-a-indiferenca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"O mais difícil na vida é amar os outros\" e recusar a \"indiferença\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2680846/o-mais-dificil-na-vida-e-amar-os-outros-e-recusar-a-indiferenca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1732987327000,
+         "created": 1732987327000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43998946.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2680843/resgatadas-130-pessoas-a-deriva-a-cerca-de-30-milhas-de-tenerife?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Resgatadas 130 pessoas à deriva a cerca de 30 milhas de Tenerife",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_630ef84ca7b9e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680698/islandia-elege-novo-parlamento-apos-divergencias-na-coligacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Islândia elege novo parlamento após divergências na coligação",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680698/islandia-elege-novo-parlamento-apos-divergencias-na-coligacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732963961000,
-         "created": 1732963961000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674aee483b5af.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
