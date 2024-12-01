@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681107/exercito-sirio-reforca-presenca-em-torno-de-hama-face-ao-avanco-dos-rebeldes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Exército sírio reforça presença em torno de Hama face ao avanço dos rebeldes",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681107/exercito-sirio-reforca-presenca-em-torno-de-hama-face-ao-avanco-dos-rebeldes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733051802000,
+         "created": 1733051802000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67499b5684c44.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681117/barcelona-e-las-palmas-fizeram-seis-mexidas-o-motivo-da-excecao-insolita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Barcelona e Las Palmas fizeram seis mexidas. O motivo da exceção insólita",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43995804.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680953/maxi-araujo-caiu-na-area-e-sporting-voltou-a-pedir-penalti-eis-o-lance?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Maxi Araújo caiu na área e Sporting voltou a pedir penálti. Eis o lance",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680953/maxi-araujo-caiu-na-area-e-sporting-voltou-a-pedir-penalti-eis-o-lance?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733007798000,
-         "created": 1733007798000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b9960037cd.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
