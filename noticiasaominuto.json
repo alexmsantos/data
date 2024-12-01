@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2681198/zero-defende-avaliacao-do-programa-de-acao-de-combate-a-desertificacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zero defende avaliação do Programa de Ação de Combate à Desertificação",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2681198/zero-defende-avaliacao-do-programa-de-acao-de-combate-a-desertificacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733066350000,
+         "created": 1733066350000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5830282e70520.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2681200/sanchez-reeeleito-lider-do-psoe-afirma-se-com-mais-forca-do-que-nunca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sánchez reeeleito líder do PSOE afirma-se com \"mais força do que nunca\"",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c1bb5721d3.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2678519/carros-da-mercedes-benz-ja-estacionam-melhor-sozinhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Carros da Mercedes-Benz já estacionam melhor sozinhos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/auto/2678519/carros-da-mercedes-benz-ja-estacionam-melhor-sozinhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733040460000,
-         "created": 1733040460000,
-         "category": "Auto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747264a60af4.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
