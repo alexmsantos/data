@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681050/presidente-de-taiwan-a-paz-nao-tem-preco-e-a-guerra-nao-tem-vencedor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Presidente de Taiwan: \"A paz não tem preço e a guerra não tem vencedor\"",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681050/presidente-de-taiwan-a-paz-nao-tem-preco-e-a-guerra-nao-tem-vencedor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733041129000,
+         "created": 1733041129000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c1bb5721d3.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2678519/carros-da-mercedes-benz-ja-estacionam-melhor-sozinhos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Carros da Mercedes-Benz já estacionam melhor sozinhos",
@@ -351,10 +374,10 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/desporto/2680791/arouca-benfica-aguias-procuram-aproveitar-comboio-europeu-nas-beiras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Arouca-Benfica: Águias procuram aproveitar comboio europeu nas beiras",
+         "id": "https://www.noticiasaominuto.com/desporto/2680791/arouca-benfica-aguias-procuram-aproveitar-descalabro-do-rival-leonino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Arouca-Benfica: Águias procuram aproveitar descalabro do rival leonino",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680791/arouca-benfica-aguias-procuram-aproveitar-comboio-europeu-nas-beiras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/desporto/2680791/arouca-benfica-aguias-procuram-aproveitar-descalabro-do-rival-leonino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/44002805.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2680902/solidariedade-para-com-palestinianos-juntou-centenas-de-pessoas-em-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Solidariedade para com palestinianos juntou centenas de pessoas em Lisboa",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2680902/solidariedade-para-com-palestinianos-juntou-centenas-de-pessoas-em-lisboa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732995876000,
-         "created": 1732995876000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44001914.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
