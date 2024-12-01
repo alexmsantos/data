@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681290/numero-de-mortos-em-naufragio-na-nigeria-sobe-para-54?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Número de mortos em naufrágio na Nigéria sobe para 54",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681290/numero-de-mortos-em-naufragio-na-nigeria-sobe-para-54?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733079873000,
+         "created": 1733079873000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_670ff44b0de5b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681292/ruben-dias-aborda-crise-no-manchester-city-faz-parte-do-nosso-legado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rúben Dias aborda crise no Manchester City: \"Faz parte do nosso legado\"",
@@ -1111,7 +1134,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681127/arouca-benfica-onda-vermelha-faz-mira-ao-naufragio-verde-e-branco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[0-1] Arouca-Benfica: Autogolo de Fontán faz a diferença ao intervalo",
+         "title": "[0-1] Arouca-Benfica: Arranca o segundo tempo",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2681127/arouca-benfica-onda-vermelha-faz-mira-ao-naufragio-verde-e-branco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -1124,7 +1147,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674caecc7cf1a.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674cb30b590a5.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674ae1d349e2a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2681159/sida-prevalece-desafio-em-mocambique-apesar-resultados-encorajadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "SIDA prevalece desafio em Moçambique apesar de resultados \"encorajadores\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681159/sida-prevalece-desafio-em-mocambique-apesar-resultados-encorajadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733057852000,
-         "created": 1733057852000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43879763.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
