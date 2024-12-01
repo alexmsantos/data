@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681336/egito-propoe-a-movimentos-palestinianos-tregua-de-60-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Egito propõe a movimentos palestinianos trégua de 60 dias",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681336/egito-propoe-a-movimentos-palestinianos-tregua-de-60-dias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733087682000,
+         "created": 1733087682000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674cd227b2b9a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2681331/governo-quer-quadro-europeu-de-investigacao-e-inovacao-mais-simples?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo quer Quadro Europeu de Investigação e Inovação mais simples",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e5fa20ab4bd0.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2681190/jorge-batista-da-silva-reeleito-bastonario-da-ordem-dos-notarios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jorge Batista da Silva reeleito bastonário da Ordem dos Notários",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2681190/jorge-batista-da-silva-reeleito-bastonario-da-ordem-dos-notarios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733063512000,
-         "created": 1733063512000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a43944b85547.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
