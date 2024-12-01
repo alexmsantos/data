@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681343/antonio-costa-condena-violencia-contra-manifestantes-na-georgia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "António Costa condena violência contra manifestantes na Geórgia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681343/antonio-costa-condena-violencia-contra-manifestantes-na-georgia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733089379000,
+         "created": 1733089379000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674cd87c93f2f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2681344/francisco-conceicao-e-substituido-e-juventus-falha-zona-de-champions?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Francisco Conceição é substituído e Juventus falha zona de Champions",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2681344/francisco-conceicao-e-substituido-e-juventus-falha-zona-de-champions?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733089299000,
+         "created": 1733089299000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674cd602c5192.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681342/do-foco-aos-gritos-o-ultimo-treino-do-fc-porto-no-combate-a-crise?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Do foco aos gritos. O último treino do FC Porto no combate à crise",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_628001b06ee37.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2681194/emergencia-pre-hospitalar-reforcada-com-91-ambulancias-na-segunda-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Emergência pré-hospitalar reforçada com 91 ambulâncias na segunda-feira",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/pais/2681194/emergencia-pre-hospitalar-reforcada-com-91-ambulancias-na-segunda-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733064961000,
-         "created": 1733064961000,
-         "category": "País",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/38812517.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2681195/sporting-de-volta-a-alcochete-para-lamber-feridas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sporting de volta a Alcochete para 'lamber feridas'",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2681195/sporting-de-volta-a-alcochete-para-lamber-feridas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733064856000,
-         "created": 1733064856000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c7873b714d.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
