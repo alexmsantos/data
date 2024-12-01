@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2681326/rui-vitoria-mantem-panathinaikos-na-perseguicao-ao-olympiacos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Panathinaikos 'tomba' ao cair do pano e Rui Vitória deixa escapar o líder",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2681326/rui-vitoria-mantem-panathinaikos-na-perseguicao-ao-olympiacos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733084944000,
+         "created": 1733084944000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67435b6b70e9b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2681325/costa-espera-disponibilidade-de-lideres-da-ue-para-negociar-orcamento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Costa espera \"disponibilidade\" de líderes da UE para negociar orçamento",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65a0e10b1ba98.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2681183/convite-para-aderir-a-nato-e-necessario-para-a-nossa-sobrevivencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Convite para aderir à NATO é necessário para a nossa sobrevivência\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681183/convite-para-aderir-a-nato-e-necessario-para-a-nossa-sobrevivencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733062730000,
-         "created": 1733062730000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c6f02de037.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
