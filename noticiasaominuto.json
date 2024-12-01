@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681085/costa-destaca-coragem-de-povo-ucraniano-e-promete-futuro-comum-na-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Costa destaca coragem de povo ucraniano e promete \"futuro comum\" na UE",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681085/costa-destaca-coragem-de-povo-ucraniano-e-promete-futuro-comum-na-ue?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733044994000,
+         "created": 1733044994000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c0e053de5b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681073/artur-jorge-como-nunca-viu-tecnico-louco-apos-vitoria-na-libertadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Artur Jorge como nunca viu. Técnico 'louco' após vitória na Libertadores",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b7ddd32c95.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2680928/lider-do-psacores-diz-que-orcamento-regional-para-2025-e-mau?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Líder do PS/Açores diz que Orçamento regional para 2025 é mau",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2680928/lider-do-psacores-diz-que-orcamento-regional-para-2025-e-mau?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733000452000,
-         "created": 1733000452000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f95e73c69558.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
