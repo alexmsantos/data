@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681171/pelo-menos-44-hospitalizados-na-terceira-noite-de-protestos-na-georgia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos 44 hospitalizados na terceira noite de protestos na Geórgia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681171/pelo-menos-44-hospitalizados-na-terceira-noite-de-protestos-na-georgia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733060076000,
+         "created": 1733060076000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/44004064.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2681166/governo-elogia-papel-fundamental-da-marinha-no-combate-a-criminalidade?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo elogia \"papel fundamental\" da Marinha no combate à criminalidade",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6671ef9883beb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2681015/paulo-raimundo-renova-apelo-para-regresso-de-renovadores-ao-pcp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Paulo Raimundo renova apelo para regresso de renovadores ao PCP",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2681015/paulo-raimundo-renova-apelo-para-regresso-de-renovadores-ao-pcp?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733035088000,
-         "created": 1733035088000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63c5a3f44616a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
