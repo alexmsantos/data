@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681151/espiral-de-paz-papa-francisco-pede-que-tregua-no-libano-chegue-a-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Espiral de paz\". Papa Francisco pede que trégua no Líbano chegue a Gaza",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681151/espiral-de-paz-papa-francisco-pede-que-tregua-no-libano-chegue-a-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733057124000,
+         "created": 1733057124000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c5a3046351.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2681123/em-direto-vitor-bruno-anteve-o-fc-porto-casa-pia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Vítor Bruno antevê o FC Porto-Casa Pia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2681123/em-direto-vitor-bruno-anteve-o-fc-porto-casa-pia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733057027000,
+         "created": 1733057027000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c86cd5d4833.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681157/joana-marchao-lembra-que-apuramento-esta-em-aberto-e-pede-eficacia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Joana Marchão lembra que apuramento está em aberto e pede eficácia",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43724636.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2681006/primeiro-ministro-de-timor-leste-realiza-visita-oficial-a-malasia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Primeiro-ministro de Timor-Leste realiza visita oficial à Malásia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681006/primeiro-ministro-de-timor-leste-realiza-visita-oficial-a-malasia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733032980000,
-         "created": 1733032980000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43749831.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2681005/eua-dizem-que-tomada-de-aleppo-se-deve-a-dependencia-do-regime-sirio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EUA dizem que tomada de Aleppo se deve a \"dependência\" do regime sírio",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681005/eua-dizem-que-tomada-de-aleppo-se-deve-a-dependencia-do-regime-sirio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733032913000,
-         "created": 1733032913000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44003255.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
