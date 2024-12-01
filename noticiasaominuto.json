@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2681142/sindicato-convoca-trabalhadores-da-volkswagen-na-alemanha-para-a-greve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sindicato convoca trabalhadores da Volkswagen na Alemanha para a greve",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2681142/sindicato-convoca-trabalhadores-da-volkswagen-na-alemanha-para-a-greve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733055620000,
+         "created": 1733055620000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ef9cf5b3c45b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680449/em-direto-brighton-tenta-assaltar-podio-contra-southampton-em-risco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Ruben Amorim à prova e dérbi londrino para Marco Silva",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674ba573485c7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680988/loucura-estadio-do-botafogo-foi-abaixo-apos-vitoria-na-libertadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Loucura'. Estádio do Botafogo foi 'abaixo' após vitória na Libertadores",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680988/loucura-estadio-do-botafogo-foi-abaixo-apos-vitoria-na-libertadores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733010473000,
-         "created": 1733010473000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b997ebeaed.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
