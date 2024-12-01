@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2681215/metro-de-lisboa-preve-comecar-a-circular-as-10h30-a-3-e-10-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Metro de Lisboa prevê começar a circular às 10h30 a 3 e 10 de dezembro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2681215/metro-de-lisboa-preve-comecar-a-circular-as-10h30-a-3-e-10-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733068838000,
+         "created": 1733068838000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_59c9e706163b0.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2681213/sem-nuno-tavares-lazio-vacila-em-parma-napoli-segue-firme-no-trono?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sem Nuno Tavares, Lazio vacila em Parma. Napoli segue firme no trono",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2681213/sem-nuno-tavares-lazio-vacila-em-parma-napoli-segue-firme-no-trono?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733068805000,
+         "created": 1733068805000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c84c804e31.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681127/arouca-benfica-onda-vermelha-faz-mira-ao-naufragio-verde-e-branco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Arouca-Benfica: 'Onda vermelha' faz mira ao 'naufrágio verde e branco'",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_552cbcc3e5633.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2681083/empresarios-portugueses-otimistas-face-aos-planos-economicos-de-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Empresários portugueses otimistas face aos planos económicos de Trump",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2681083/empresarios-portugueses-otimistas-face-aos-planos-economicos-de-trump?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733045386000,
-         "created": 1733045386000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674769ab1e5d6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2681088/mais-dois-palestinianos-detidos-em-gaza-morrem-em-prisoes-israelitas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mais dois palestinianos detidos em Gaza morrem em prisões israelitas",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681088/mais-dois-palestinianos-detidos-em-gaza-morrem-em-prisoes-israelitas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733045340000,
-         "created": 1733045340000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6536117de3606.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
