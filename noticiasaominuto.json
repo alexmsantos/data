@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681030/gomes-cravinho-comeca-novo-cargo-de-representante-especial-para-sahel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Gomes Cravinho começa novo cargo de representante especial para Sahel",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681030/gomes-cravinho-comeca-novo-cargo-de-representante-especial-para-sahel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733035984000,
+         "created": 1733035984000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_663b75778ae0b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2681026/aumento-da-taxa-turistica-para-tres-euros-entra-em-vigor-no-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Aumento da Taxa Turística para três euros entra em vigor no Porto",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b5c6e1a254.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680879/benfica-despacha-vitoria-sc-ultrapassa-fc-porto-e-persegue-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Benfica 'despacha' Vitória SC, ultrapassa FC Porto e 'persegue' Sporting",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680879/benfica-despacha-vitoria-sc-ultrapassa-fc-porto-e-persegue-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732992048000,
-         "created": 1732992048000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66e1ec4196aae.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
