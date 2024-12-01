@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681283/sobe-para-412-o-numero-de-mortos-na-ofensiva-rebelde-na-siria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sobe para 412 o número de mortos na ofensiva rebelde na Síria",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681283/sobe-para-412-o-numero-de-mortos-na-ofensiva-rebelde-na-siria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733078442000,
+         "created": 1733078442000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674cad5a88fd9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2681284/um-minuto-e-o-suficiente-para-ver-o-resumo-do-estoril-famalicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Um minuto é o suficiente para ver o resumo do Estoril-Famalicão",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2681284/um-minuto-e-o-suficiente-para-ver-o-resumo-do-estoril-famalicao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733078067000,
+         "created": 1733078067000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674cabc0098ad.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681267/adeptos-do-liverpool-provocaram-pep-guardiola-e-este-gesto-foi-a-resposta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Adeptos do Liverpool provocaram Pep Guardiola e este gesto foi a resposta",
@@ -2252,52 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c564ee21cd.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2681139/cabo-verdianos-votam-para-as-autarquias-cumprindo-mais-um-capitulo-da-democracia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cabo-verdianos votam para as autarquias cumprindo mais um capitulo da democracia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681139/cabo-verdianos-votam-para-as-autarquias-cumprindo-mais-um-capitulo-da-democracia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733055675000,
-         "created": 1733055675000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44005365.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2681142/sindicato-convoca-trabalhadores-da-volkswagen-na-alemanha-para-a-greve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sindicato convoca trabalhadores da Volkswagen na Alemanha para a greve",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/economia/2681142/sindicato-convoca-trabalhadores-da-volkswagen-na-alemanha-para-a-greve?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733055620000,
-         "created": 1733055620000,
-         "category": "Economia",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ef9cf5b3c45b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
