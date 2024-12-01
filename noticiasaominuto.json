@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2681242/benfica-b-falha-assalto-ao-topo-e-fc-porto-b-desperta-do-pesadelo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Benfica B falha 'assalto' ao topo e FC Porto B desperta do 'pesadelo'",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2681242/benfica-b-falha-assalto-ao-topo-e-fc-porto-b-desperta-do-pesadelo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733074285000,
+         "created": 1733074285000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c98ad35f5a.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2681249/dois-feridos-graves-em-atropelamento-em-montemor-o-velho?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dois feridos graves em atropelamento em Montemor-o-Velho",
@@ -1180,7 +1203,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2680373/em-direto-sporting-encerra-sabado-com-a-primeira-derrota-na-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Estoril-Famalicão abre domingo de I Liga",
+         "title": "EM DIRETO: Estoril vence e Benfica tenta aproximar-se do Sporting",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2680373/em-direto-sporting-encerra-sabado-com-a-primeira-derrota-na-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -1193,7 +1216,7 @@
          "content": "undefined",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6325fd2fd3beb.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61eb0038eae98.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67499b5684c44.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2681117/barcelona-e-las-palmas-fizeram-seis-mexidas-o-motivo-da-excecao-insolita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Barcelona e Las Palmas fizeram seis mexidas. O motivo da exceção insólita",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2681117/barcelona-e-las-palmas-fizeram-seis-mexidas-o-motivo-da-excecao-insolita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733051543000,
-         "created": 1733051543000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c41fc7198f.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
