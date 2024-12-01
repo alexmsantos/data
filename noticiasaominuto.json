@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2681192/marcelo-promete-visita-ao-renovado-convento-de-jesus-no-proximo-domingo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Marcelo promete visita ao renovado Convento de Jesus no próximo domingo",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2681192/marcelo-promete-visita-ao-renovado-convento-de-jesus-no-proximo-domingo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733065349000,
+         "created": 1733065349000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_60689111a0477.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2681103/o-que-deve-fazer-todos-os-dias-para-melhorar-a-saude-do-cerebro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O que deve fazer todos os dias para melhorar a saúde do cérebro",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6740a80fbb520.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2681041/putin-promulga-orcamento-que-aumenta-24-4-gastos-em-defesa-em-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Putin promulga orçamento que aumenta 24,4% gastos em defesa em 2025",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681041/putin-promulga-orcamento-que-aumenta-24-4-gastos-em-defesa-em-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733040418000,
-         "created": 1733040418000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_672a38906c94b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
