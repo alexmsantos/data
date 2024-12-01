@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2681089/ambiente-ferveu-jose-sa-perdeu-estribeiras-e-teve-de-ser-segurado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ambiente 'ferveu'. José Sá perdeu estribeiras e teve de ser segurado",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2681089/ambiente-ferveu-jose-sa-perdeu-estribeiras-e-teve-de-ser-segurado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733045592000,
+         "created": 1733045592000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c2d3a7662c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2681082/ansiedade-com-exames-e-uma-das-queixas-dos-estudantes-aos-psicologos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ansiedade com exames é uma das queixas dos estudantes aos psicólogos",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b85d1d5bf5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680917/lenda-inglesa-revela-maior-preocupacao-em-torno-de-amorim-nao-podes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lenda inglesa revela maior preocupação em torno de Amorim: \"Não podes...\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680917/lenda-inglesa-revela-maior-preocupacao-em-torno-de-amorim-nao-podes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733002438000,
-         "created": 1733002438000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b7464524a9.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
