@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2680449/em-direto-brighton-tenta-assaltar-podio-contra-southampton-em-risco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Ruben Amorim à prova e dérbi londrino para Marco Silva",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2680449/em-direto-brighton-tenta-assaltar-podio-contra-southampton-em-risco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733055246000,
+         "created": 1733055246000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c529ede457.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2681140/melo-evoca-combatentes-e-ouve-olivenca-e-portuguesa-no-1-de-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Melo evoca combatentes e ouve \"Olivença é portuguesa\" no 1.º de Dezembro",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b997ebeaed.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2680985/frank-a-quem-deram-3-meses-sobre-eutanasia-agora-posso-morrer-em-paz?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Frank, a quem deram 3 meses, sobre eutanásia: \"Agora posso morrer em paz\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2680985/frank-a-quem-deram-3-meses-sobre-eutanasia-agora-posso-morrer-em-paz?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733010254000,
-         "created": 1733010254000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66879817935c0.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
