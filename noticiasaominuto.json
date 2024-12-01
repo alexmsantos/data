@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2681234/ex-benfica-volta-aos-golos-e-olympiacos-segue-lider-na-grecia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ex-Benfica volta aos golos e Olympiacos segue líder na Grécia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/desporto/2681234/ex-benfica-volta-aos-golos-e-olympiacos-segue-lider-na-grecia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733071984000,
+         "created": 1733071984000,
+         "category": "Desporto",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c91de8b076.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2681233/ainda-nao-foi-possivel-acordo-para-tregua-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Ainda não\" foi possível acordo para trégua em Gaza",
@@ -329,7 +352,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681127/arouca-benfica-onda-vermelha-faz-mira-ao-naufragio-verde-e-branco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Arouca-Benfica: 'Onda vermelha' faz mira ao 'naufrágio verde e branco'",
+         "title": "Arouca-Benfica: Bruno Lage repete a 'fórmula Champions'",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/desporto/2681127/arouca-benfica-onda-vermelha-faz-mira-ao-naufragio-verde-e-branco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_634cefbb1674f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2681100/rosa-mota-repete-triunfo-na-minimaratona-de-macau-aos-66-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rosa Mota repete triunfo na minimaratona de Macau... aos 66 anos",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2681100/rosa-mota-repete-triunfo-na-minimaratona-de-macau-aos-66-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733048369000,
-         "created": 1733048369000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c376bb2b5b.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
