@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2681012/em-ourique-ha-cante-alentejano-nas-escolas-e-ja-nasceu-um-grupo-infantil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Em Ourique há cante alentejano nas escolas e já nasceu um grupo infantil",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2681012/em-ourique-ha-cante-alentejano-nas-escolas-e-ja-nasceu-um-grupo-infantil?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733034413000,
+         "created": 1733034413000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_54775117ebdcd.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2681029/china-condena-firmemente-escala-de-lider-taiwanes-no-havai?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "China \"condena firmemente\" escala de líder taiwanês no Havai",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_658da6d4df831.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680863/apos-sporting-west-ham-gabriel-volta-a-marcar-e-a-provocar-gyokeres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Após Sporting, West Ham. Gabriel volta a marcar... e a provocar Gyokeres",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680863/apos-sporting-west-ham-gabriel-volta-a-marcar-e-a-provocar-gyokeres?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732989175000,
-         "created": 1732989175000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b501a90a60.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
