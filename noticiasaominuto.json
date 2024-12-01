@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2681011/mais-de-tres-toneladas-de-sal-e-700-figuras-em-presepio-de-castro-marim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mais de três toneladas de sal e 700 figuras em presépio de Castro Marim",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2681011/mais-de-tres-toneladas-de-sal-e-700-figuras-em-presepio-de-castro-marim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733034107000,
+         "created": 1733034107000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63053ba082016.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2681007/trump-escolhe-xerife-da-florida-para-liderar-agencia-antidrogas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Trump escolhe xerife da Florida para liderar agência antidrogas",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674b4e817b476.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2680854/francisco-cabral-vence-titulo-de-pares-do-challenger-da-maia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Francisco Cabral vence título de pares do challenger da Maia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2680854/francisco-cabral-vence-titulo-de-pares-do-challenger-da-maia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1732988287000,
-         "created": 1732988287000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43305436.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
