@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2681409/banco-central-de-mocambique-preve-precos-a-subir-ate-final-do-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Banco central de Moçambique prevê preços a subir até final do ano",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2681409/banco-central-de-mocambique-preve-precos-a-subir-ate-final-do-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733122737000,
+         "created": 1733122737000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b881dd573dcb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2681410/mne-alema-chega-a-china-para-discutir-guerra-na-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "MNE alemã chega à China para discutir guerra na Ucrânia",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5da4966dc8d7c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2681247/chega-desafia-pr-a-enviar-reposicao-de-salarios-dos-politicos-para-o-tc?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chega desafia PR a enviar reposição de salários dos políticos para o TC",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/politica/2681247/chega-desafia-pr-a-enviar-reposicao-de-salarios-dos-politicos-para-o-tc?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733074100000,
-         "created": 1733074100000,
-         "category": "Política",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/43938743.JPG",
                "type": "image/jpeg",
                "length": "0"
             }
