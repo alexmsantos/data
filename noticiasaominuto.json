@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681423/submarino-russo-detetado-perto-das-filipinas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Submarino russo detetado perto das Filipinas",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681423/submarino-russo-detetado-perto-das-filipinas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733125195000,
+         "created": 1733125195000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5991bc6620ea2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2681420/psp-inicia-hoje-operacao-para-defesa-de-pessoas-portadoras-de-deficiencia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PSP inicia hoje operação para defesa de pessoas portadoras de deficiência",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c8c4324fe6.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2681259/liverpool-sufoca-manchester-city-e-estende-a-passadeira-para-o-titulo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Liverpool 'sufoca' Manchester City e estende a passadeira para o título",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2681259/liverpool-sufoca-manchester-city-e-estende-a-passadeira-para-o-titulo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733075613000,
-         "created": 1733075613000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674ca029f30ac.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
