@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681618/medio-oriente-drones-israelitas-atacaram-postos-de-exercito-libanes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Médio Oriente. Drones israelitas atacaram postos de exército libanês",
+         "description": "Drones israelitas atacaram um posto do exército libanês no leste país e uma aldeia fronteiriça do sul, matando uma pessoa e ferindo outra, informou hoje a imprensa estatal libanesa.",
+         "link": "https://www.noticiasaominuto.com/mundo/2681618/medio-oriente-drones-israelitas-atacaram-postos-de-exercito-libanes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733143981000,
+         "created": 1733143981000,
+         "category": "Mundo",
+         "content": "<p>Desde o passado dia 27, quando entrou em vigor o cessar-fogo entre Israel e o Hezbollah, vários ataques israelitas têm visado o Líbano. O grupo pró-iraniano não anunciou qualquer retaliação.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo o Ministério da Saúde local, um homem morreu num ataque de um drone israelita na aldeia de Marjeyoun, perto da fronteira israelita, no sul do Líbano, com a agência noticiosa nacional oficial (Ani) a precisar que o homem estava a andar de mota.</p>\n<p>Pouco antes, um drone visou um posto do exército na região de Hermel, no leste do Líbano, ferindo um soldado, indicou o exército.</p>\n<p>\"Um drone inimigo atingiu um 'bulldozer' do exército que estava a trabalhar numa posição do exército\", ferindo um soldado, de acordo com a mesma fonte.</p>\n<p>No domingo, o exército israelita afirmou ter matado combatentes no sul do Líbano e localizado um túnel \"contendo armas\".</p>\n<p>A Ani indicou \"repetidas violações do cessar-fogo\" no sul do Líbano pelas forças israelitas desde a entrada em vigor da trégua, incluindo disparos contra aldeias fronteiriças.</p>\n<p>Patrocinado pelos Estados Unidos e pela França, o acordo de cessar-fogo prevê a retirada do exército israelita do Líbano no prazo de 60 dias.</p>\n<p>O Hezbollah, por seu lado, deve retirar-se para o norte do rio Litani, a cerca de 30 quilómetros da fronteira, e desmantelar as suas infraestruturas militares no sul do Líbano.</p>\n<p>Israel declarou que se reserva \"total liberdade de ação militar\" no Líbano \"se o Hezbollah violar o acordo e tentar rearmar-se\".</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2681606/israel-netanyahu-vai-testemunhar-numa-sala-subterranea-em-telavive\" target=\"_blank\" rel=\"noopener noreferrer\">Israel. Netanyahu vai testemunhar numa sala subterrânea em Telavive</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674dadb21ad21.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Desde o passado dia 27, quando entrou em vigor o cessar-fogo entre Israel e o Hezbollah, vários ataques israelitas têm visado o Líbano. O grupo pró-iraniano não anunciou qualquer retaliação.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo o Ministério da Saúde local, um homem morreu num ataque de um drone israelita na aldeia de Marjeyoun, perto da fronteira israelita, no sul do Líbano, com a agência noticiosa nacional oficial (Ani) a precisar que o homem estava a andar de mota.</p>\n<p>Pouco antes, um drone visou um posto do exército na região de Hermel, no leste do Líbano, ferindo um soldado, indicou o exército.</p>\n<p>\"Um drone inimigo atingiu um 'bulldozer' do exército que estava a trabalhar numa posição do exército\", ferindo um soldado, de acordo com a mesma fonte.</p>\n<p>No domingo, o exército israelita afirmou ter matado combatentes no sul do Líbano e localizado um túnel \"contendo armas\".</p>\n<p>A Ani indicou \"repetidas violações do cessar-fogo\" no sul do Líbano pelas forças israelitas desde a entrada em vigor da trégua, incluindo disparos contra aldeias fronteiriças.</p>\n<p>Patrocinado pelos Estados Unidos e pela França, o acordo de cessar-fogo prevê a retirada do exército israelita do Líbano no prazo de 60 dias.</p>\n<p>O Hezbollah, por seu lado, deve retirar-se para o norte do rio Litani, a cerca de 30 quilómetros da fronteira, e desmantelar as suas infraestruturas militares no sul do Líbano.</p>\n<p>Israel declarou que se reserva \"total liberdade de ação militar\" no Líbano \"se o Hezbollah violar o acordo e tentar rearmar-se\".</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2681606/israel-netanyahu-vai-testemunhar-numa-sala-subterranea-em-telavive\" target=\"_blank\" rel=\"noopener noreferrer\">Israel. Netanyahu vai testemunhar numa sala subterrânea em Telavive</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2681602/luzes-de-natal-acendem-se-no-porto-e-em-braga-veja-as-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Luzes de Natal acendem-se no Porto e em Braga. Veja as imagens",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p> \"Estamos a trabalhar ativamente com todas as partes relevantes na Síria para garantir a segurança do nosso povo e facilitar a sua transferência segura da região de Tal Rifaat e Al Shahba para as nossas áreas seguras no nordeste do país\", disse o líder curdo sírio.</p>\n<div class=\"dummyPub\"> </div>\n<p>Uma coligação de grupos rebeldes liderados pelos islamitas do Hayat Tahrir al-Sham (HTS), o antigo ramo sírio da organização terrorista al-Qaida, lançou na quarta-feira uma ofensiva relâmpago no norte da Síria e tomou controlo da maior parte de Alepo, a segunda maior cidade do país, e de várias outras cidades, nomeadamente na província de Hama.</p>\n<p>As fações islâmicas, lideradas pela Organização de Libertação do Levante, a antiga Frente Nusra, uma antiga afiliada da Al Qaeda, e outros grupos pró-Turquia, conseguiram expulsar o Exército de Al Assad de grande parte da cidade de Alepo e de outras zonas do nordeste da Síria.</p>\n<p>\"Confrontados com o colapso e a retirada do exército sírio e dos seus aliados, intervimos para abrir um corredor humanitário entre as nossas regiões orientais, Alepo e a região de Tal Rifaat para proteger o nosso povo dos massacres\", disse o líder do FSD na mensagem divulgada na rede social X em que acusa novamente a Turquia de apoiar a ofensiva dos islamistas.</p>\n<p>A ofensiva lançada pelos rebeldes 'jihadistas' no norte da Síria fez pelo menos 412 mortos, incluindo 61 civis, de acordo com um balanço fornecido por uma organização não-governamental (ONG).</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2681480/china-apoia-os-esforcos-da-siria-para-manter-a-sua-estabilidade\" target=\"_blank\" rel=\"noopener noreferrer\">China apoia os esforços da Síria para manter a sua estabilidade</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2681457/fa-enfrenta-cristiano-ronaldo-e-ganha-1-milhao-em-desafio-com-mrbeast?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fã enfrenta Cristiano Ronaldo e ganha 1 milhão em desafio com MrBeast",
-         "description": "O ‘embate’ teve lugar num dos mais recentes vídeos de MrBeast no YouTube.",
-         "link": "https://www.noticiasaominuto.com/tech/2681457/fa-enfrenta-cristiano-ronaldo-e-ganha-1-milhao-em-desafio-com-mrbeast?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733128989000,
-         "created": 1733128989000,
-         "category": "Tech",
-         "content": "<p>A carreira de Cristiano Ronaldo no YouTube pode ter começado neste verão, mas o internacional português já está praticamente entre a ‘elite’ de criadores de conteúdos na plataforma.</p>\n<div class=\"dummyPub\"> </div>\n<p>Depois de receber MrBeast <a href=\"https://www.youtube.com/watch?v=_ZsZ4-HyjCg\">no seu canal</a>, Ronaldo participou num dos mais recentes vídeos do canal do youtuber e acabou até batido por um fã que levou para 1 milhão de dólares (952 mil euros).</p>\n<p>O desafio consistiu em ser o primeiro a acertar em três de cinco alvos numa baliza, com o fã de Ronaldo a ter conseguido levar a melhor em relação ao atual jogador do Al-Nassr.</p>\n<p>Serve notar que, além de Ronaldo, houve outros atletas a participar neste vídeo com os seus próprios desafios, como é o caso do antigo ‘quarterback’ Tom Brady e do medalhista olímpico Noah Lyles.</p>\n<p><iframe src=\"https://www.youtube.com/embed/0BjlBnfHcHM?si=yXiHwe2LRj0deGG_\" style=\"width: 654px; height: 368px;\" width=\"654\" height=\"368\" frameborder=\"0\"></iframe></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2680869/cristiano-ronaldo-desvenda-o-caminho-para-chegar-aos-1000-golos\" target=\"_blank\" rel=\"noopener noreferrer\">Cristiano Ronaldo desvenda o caminho para chegar aos 1.000 golos</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674d72ee7bbdf.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>A carreira de Cristiano Ronaldo no YouTube pode ter começado neste verão, mas o internacional português já está praticamente entre a ‘elite’ de criadores de conteúdos na plataforma.</p>\n<div class=\"dummyPub\"> </div>\n<p>Depois de receber MrBeast <a href=\"https://www.youtube.com/watch?v=_ZsZ4-HyjCg\">no seu canal</a>, Ronaldo participou num dos mais recentes vídeos do canal do youtuber e acabou até batido por um fã que levou para 1 milhão de dólares (952 mil euros).</p>\n<p>O desafio consistiu em ser o primeiro a acertar em três de cinco alvos numa baliza, com o fã de Ronaldo a ter conseguido levar a melhor em relação ao atual jogador do Al-Nassr.</p>\n<p>Serve notar que, além de Ronaldo, houve outros atletas a participar neste vídeo com os seus próprios desafios, como é o caso do antigo ‘quarterback’ Tom Brady e do medalhista olímpico Noah Lyles.</p>\n<p><iframe src=\"https://www.youtube.com/embed/0BjlBnfHcHM?si=yXiHwe2LRj0deGG_\" style=\"width: 654px; height: 368px;\" width=\"654\" height=\"368\" frameborder=\"0\"></iframe></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2680869/cristiano-ronaldo-desvenda-o-caminho-para-chegar-aos-1000-golos\" target=\"_blank\" rel=\"noopener noreferrer\">Cristiano Ronaldo desvenda o caminho para chegar aos 1.000 golos</a></p>",
          "media": {}
       }
    ]
