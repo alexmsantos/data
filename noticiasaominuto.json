@@ -1,15 +1,38 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
-         "id": "https://www.noticiasaominuto.com/mundo/2681529/georgia-russia-diz-que-ha-tentativas-de-organizar-uma-revolucao-popular?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Geórgia. Rússia diz que há tentativas de organizar uma revolução popular",
+         "id": "https://www.noticiasaominuto.com/pais/2681531/portal-de-monitorizacao-dos-hospitais-do-sns-reativado-apos-um-ano-parado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portal de monitorização dos hospitais do SNS reativado após um ano parado",
          "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681529/georgia-russia-diz-que-ha-tentativas-de-organizar-uma-revolucao-popular?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/pais/2681531/portal-de-monitorizacao-dos-hospitais-do-sns-reativado-apos-um-ano-parado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733136953000,
+         "created": 1733136953000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_587a470c7d702.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681529/russia-diz-que-ha-tentativas-de-organizar-uma-revolucao-na-georgia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rússia diz que há tentativas de organizar uma revolução na Geórgia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681529/russia-diz-que-ha-tentativas-de-organizar-uma-revolucao-na-georgia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -53,7 +76,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/tech/2678667/a-wook-sera-o-seu-amigo-secreto-para-as-suas-prendas-de-natal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "A WOOK será o seu ‘amigo secreto’ para as suas prendas de Natal",
+         "title": "A WOOK será o seu 'amigo secreto' para as suas prendas de Natal",
          "description": "undefined",
          "link": "https://www.noticiasaominuto.com/tech/2678667/a-wook-sera-o-seu-amigo-secreto-para-as-suas-prendas-de-natal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a6ecc5b477d4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2681381/trubin-radiante-com-mais-uma-vitoria-do-benfica-a-luz-nunca-se-apaga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trubin radiante com mais uma vitória do Benfica: \"A luz nunca se apaga\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2681381/trubin-radiante-com-mais-uma-vitoria-do-benfica-a-luz-nunca-se-apaga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733097592000,
-         "created": 1733097592000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674cf83c5e3f6.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
