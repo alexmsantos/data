@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681410/mne-alema-chega-a-china-para-discutir-guerra-na-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "MNE alemã chega à China para discutir guerra na Ucrânia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681410/mne-alema-chega-a-china-para-discutir-guerra-na-ucrania?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733122581000,
+         "created": 1733122581000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6281163773552.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2681414/por-ca-aguia-chega-se-a-frente-e-confianca-total-em-joao-pereira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Por cá: Águia chega-se à frente e confiança total em João Pereira",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43938743.JPG",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2681244/midtjylland-vence-antes-da-visita-ao-dragao-e-isola-se-na-lideranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Midtjylland vence antes da visita ao Dragão e isola-se na liderança",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2681244/midtjylland-vence-antes-da-visita-ao-dragao-e-isola-se-na-lideranca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733074090000,
-         "created": 1733074090000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c9c986c02a.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
