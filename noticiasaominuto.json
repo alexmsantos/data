@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2681601/cct-desistencia-da-galp-do-projeto-aurora-e-falta-de-ideia-para-futuro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "CCT. Desistência da Galp do projeto Aurora é \"falta de ideia\" para futuro",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2681601/cct-desistencia-da-galp-do-projeto-aurora-e-falta-de-ideia-para-futuro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733143330000,
+         "created": 1733143330000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58fdf8c6c650e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2681609/presidente-da-siria-aponta-tentativa-de-redesenhar-o-mapa-da-regiao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Presidente da Síria aponta tentativa de \"redesenhar o mapa\" da região",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_55d041d25cefe.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2681439/donos-quiseram-fritar-peru-na-garagem-de-casa-mansao-acabou-destruida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Donos quiseram fritar peru na garagem de casa. Mansão acabou destruída",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/mundo/2681439/donos-quiseram-fritar-peru-na-garagem-de-casa-mansao-acabou-destruida?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733128565000,
-         "created": 1733128565000,
-         "category": "Mundo",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_595e4d4a5b9fc.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
