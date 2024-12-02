@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2681572/natal-encantado-com-varias-iniciativas-a-partir-de-hoje-em-gouveia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "'Natal Encantado' com várias iniciativas a partir de hoje em Gouveia",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/pais/2681572/natal-encantado-com-varias-iniciativas-a-partir-de-hoje-em-gouveia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733139589000,
+         "created": 1733139589000,
+         "category": "País",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fca3e8dab456.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2681568/mota-engil-celebra-novo-contrato-de-200-milhoes-de-euros-com-petrobras?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mota-Engil celebra novo contrato de 200 milhões de euros com Petrobras",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_674d588a27d4c.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2681427/openai-envolvida-em-nova-guerra-no-canada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "OpenAI envolvida em nova 'guerra' no Canadá",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/tech/2681427/openai-envolvida-em-nova-guerra-no-canada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733125197000,
-         "created": 1733125197000,
-         "category": "Tech",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66fe47ea89474.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
