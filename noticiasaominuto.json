@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2681458/em-kyiv-por-um-futuro-comum-a-estreia-de-costa-no-conselho-europeu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Em Kyiv por um \"futuro comum\". O 1.º dia de Costa no Conselho Europeu",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/mundo/2681458/em-kyiv-por-um-futuro-comum-a-estreia-de-costa-no-conselho-europeu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733130466000,
+         "created": 1733130466000,
+         "category": "Mundo",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674d7401a1dd8.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2681463/stellantis-em-queda-nas-bolsas-apos-demissao-de-carlos-tavares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Stellantis em queda nas bolsas após demissão de Carlos Tavares",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6747986b5f260.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2681321/benfica-o-jogo-definiu-se-nos-dois-erros-do-arouca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Benfica? O jogo definiu-se nos dois erros do Arouca\"",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2681321/benfica-o-jogo-definiu-se-nos-dois-erros-do-arouca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733083438000,
-         "created": 1733083438000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674cc067b8ae0.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
