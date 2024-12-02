@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2681392/empresa-japonesa-dmm-bitcoin-anuncia-fecho-depois-de-ataque-millonario?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Empresa japonesa DMM Bitcoin anuncia fecho depois de ataque millonário",
+         "description": "undefined",
+         "link": "https://www.noticiasaominuto.com/economia/2681392/empresa-japonesa-dmm-bitcoin-anuncia-fecho-depois-de-ataque-millonario?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733119942000,
+         "created": 1733119942000,
+         "category": "Economia",
+         "content": "undefined",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a74596883499.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "undefined",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2681400/quatro-em-cada-cinco-com-85-anos-ou-mais-ja-se-vacinaram-contra-a-gripe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Quatro em cada cinco com 85 anos ou mais já se vacinaram contra a gripe",
@@ -2275,29 +2298,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_63723e9d60edb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "undefined",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2681234/ex-benfica-volta-aos-golos-e-olympiacos-segue-lider-na-grecia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ex-Benfica volta aos golos e Olympiacos segue líder na Grécia",
-         "description": "undefined",
-         "link": "https://www.noticiasaominuto.com/desporto/2681234/ex-benfica-volta-aos-golos-e-olympiacos-segue-lider-na-grecia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733071984000,
-         "created": 1733071984000,
-         "category": "Desporto",
-         "content": "undefined",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c91de8b076.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
