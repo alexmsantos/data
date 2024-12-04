@@ -14,7 +14,7 @@ rp(url)
 
     const jsonString = JSON.stringify(Object.assign({}, {
       title: articleTitle.text().trim(),
-      url: articleUrl[0].attribs.href,
+      url: 'https://www.noticiasaominuto.com' + articleUrl[0].attribs.href,
       fetchDate: dateIso,
       media: "Notícias ao Minuto"
     }));
