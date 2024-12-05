@@ -7,7 +7,7 @@ rp(url)
   .then(function(html){
     const $ = cheerio.load(html);
 
-    const articleTitle = $('.main-article h2.main-title', html).eq(0);
+    const articleTitle = $('.main-article .main-title', html).eq(0);
     const articleUrl = $('.main-article > a');
     let ms = new Date();
     const dateIso = ms.toISOString()
