@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2685038/s?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Muito triste\". México investiga morte de 13 crianças em quatro hospitais",
+         "description": "Foram detetados vários casos de infeção pela bactéria Klebsiella oxytoca em novembro. Possível contaminação em sacos de administração intravenosa é hipótese mais provável.",
+         "link": "https://www.noticiasaominuto.com/mundo/2685038/s?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733526811000,
+         "created": 1733526811000,
+         "category": "Mundo",
+         "content": "<p>As autoridades mexicanas estão a investigar a morte de 13 menores, depois de estas terem sido infetadas com uma bactéria que terá, provavelmente, tido origem em sacos para administração intravenosa.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo o Departamento de Saúde do México, os menores, todos com menos de 14 anos, morreram de uma infeção no sangue. A bactéria em causa, Klebsiella oxytoca, tem resistência aos antibióticos habitualmente utilizados.</p>\n<p>A imprensa explica que os primeiros casos foram detetados em novembro, em três hospitais públicos e um outro, privado, na Cidade do México.</p>\n<p>Dos 20 casos que foram identificados, 15 tinham a presença desta bactéria, quatro foram considerados prováveis de ter a mesma origem e num outro foi descartada a origem nesta bactéria.</p>\n<p>A investigação foi confirmada pela presidente do México, Claudia Sheinbaum, que lamentou a situação esta semana, dizendo que o que aconteceu é \"muito triste\", e anunciando que os contratos com a empresa que produzia o soro que terá sido dado foi suspenso.</p>\n<p>Apesar de a investigação ainda estar a decorrer, pensa-se que a origem do surto esteja relacionada com os fluidos nutricionais intravenosos ou com os materiais utilizados para os administrar.</p>\n<p>Nos últimos anos, o México tem-se debatido com questões relacionadas com material médico contaminado. Só no ano passado, um surto de meningite matou 25 pessoas e deixou 79 doentes depois que um anestesista usou morfina contaminada.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2684198/infarmed-precisa-de-mais-quadros-tecnicos-e-vai-ter-novo-estatuto-em-2025\" target=\"_blank\" rel=\"noopener noreferrer\">Infarmed precisa de mais quadros técnicos e vai ter novo estatuto em 2025</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6753827e6c661.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>As autoridades mexicanas estão a investigar a morte de 13 menores, depois de estas terem sido infetadas com uma bactéria que terá, provavelmente, tido origem em sacos para administração intravenosa.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo o Departamento de Saúde do México, os menores, todos com menos de 14 anos, morreram de uma infeção no sangue. A bactéria em causa, Klebsiella oxytoca, tem resistência aos antibióticos habitualmente utilizados.</p>\n<p>A imprensa explica que os primeiros casos foram detetados em novembro, em três hospitais públicos e um outro, privado, na Cidade do México.</p>\n<p>Dos 20 casos que foram identificados, 15 tinham a presença desta bactéria, quatro foram considerados prováveis de ter a mesma origem e num outro foi descartada a origem nesta bactéria.</p>\n<p>A investigação foi confirmada pela presidente do México, Claudia Sheinbaum, que lamentou a situação esta semana, dizendo que o que aconteceu é \"muito triste\", e anunciando que os contratos com a empresa que produzia o soro que terá sido dado foi suspenso.</p>\n<p>Apesar de a investigação ainda estar a decorrer, pensa-se que a origem do surto esteja relacionada com os fluidos nutricionais intravenosos ou com os materiais utilizados para os administrar.</p>\n<p>Nos últimos anos, o México tem-se debatido com questões relacionadas com material médico contaminado. Só no ano passado, um surto de meningite matou 25 pessoas e deixou 79 doentes depois que um anestesista usou morfina contaminada.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2684198/infarmed-precisa-de-mais-quadros-tecnicos-e-vai-ter-novo-estatuto-em-2025\" target=\"_blank\" rel=\"noopener noreferrer\">Infarmed precisa de mais quadros técnicos e vai ter novo estatuto em 2025</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2685043/paulo-fonseca-arrasa-arbitro-apos-derrota-do-milan-falta-de-respeito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Paulo Fonseca arrasa árbitro após derrota do Milan: \"Falta de respeito\"",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Um novo áudio obtido pelas publicações norte-americanas revela que o pai do jovem que tentou assassinar Donald Trump no comício em Butler, na Pensilvânia, ligou às autoridades (para o 911, número de emergência correspondente ao 112] à procura do filho, Thomas Matthew Crooks.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">\"Olá. O meu nome é Matthew Crooks. Estou a ligar por causa do meu filho, Thomas\"</span>, começou por dizer o homem, citado pela imprensa, que teve acesso à gravação.</p>\n<p><span class=\"news_bold\">\"Estou a telefonar porque ele saiu de casa por volta das 14h15 e não recebemos qualquer contacto dele, nem mensagens. Não temos respostas e ele ainda não está em casa. Não é nada típico dele\"</span>, continuou o homem, referindo que estavam preocupados e meio 'perdidos' com o paradeiro do filho: \"Não sabemos o que fazer\".</p>\n<p>A ABC News dá conta de que, na gravação, é possível perceber que a voz do pai do atirador, que morreu no âmbito deste ataque, está firme, mas, simultaneamente, tensa.</p>\n<p>A chamada foi feita cerca de cinco horas após o atentado, no qual Trump ficou ferido na orelha. Crooks, de 20 anos, encontrava-se num telhado fora do perímetro do comício e usou uma arma do tipo AR-15, disparando oito tiros, antes de ser abatido pelos agentes dos Serviços Secretos.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2604034/fbi-diz-que-autor-do-atentado-a-trump-pesquisou-assassinato-a-kennedy\">FBI diz que autor do atentado a Trump pesquisou assassinato a Kennedy</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2684891/a-incrivel-coreografia-dos-adeptos-antes-do-al-ittihad-al-nassr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "A incrível coreografia dos adeptos antes do Al Ittihad-Al Nassr",
-         "description": "Grande entusiasmo vindo das bancadas. ",
-         "link": "https://www.noticiasaominuto.com/desporto/2684891/a-incrivel-coreografia-dos-adeptos-antes-do-al-ittihad-al-nassr?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733507053000,
-         "created": 1733507053000,
-         "category": "Desporto",
-         "content": "<p>O jogo entre Al Ittihad e Al Nassr, disputado esta sexta-feira, e relativo à 13.ª jornada da Liga da Arábia Saudita, contou com uma incrível coreografia ainda antes do apito inicial. As bancadas do estádio King Abdullah 'ganhou vida', deixando bem evidente o entusiasmo dos adeptos para este duelo entre Karim Benzema e Cristiano Ronaldo.</p>\n<div class=\"dummyPub\"> </div>\n<p>Confira a fotogaleria. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2684873/olha-quem-sao-eles-o-reencontro-entre-cristiano-ronaldo-e-benzema\" target=\"_blank\" rel=\"noopener noreferrer\">'Olha quem são eles'. O reencontro entre Cristiano Ronaldo e Benzema</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_675336f691936.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O jogo entre Al Ittihad e Al Nassr, disputado esta sexta-feira, e relativo à 13.ª jornada da Liga da Arábia Saudita, contou com uma incrível coreografia ainda antes do apito inicial. As bancadas do estádio King Abdullah 'ganhou vida', deixando bem evidente o entusiasmo dos adeptos para este duelo entre Karim Benzema e Cristiano Ronaldo.</p>\n<div class=\"dummyPub\"> </div>\n<p>Confira a fotogaleria. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2684873/olha-quem-sao-eles-o-reencontro-entre-cristiano-ronaldo-e-benzema\" target=\"_blank\" rel=\"noopener noreferrer\">'Olha quem são eles'. O reencontro entre Cristiano Ronaldo e Benzema</a></p>",
          "media": {}
       }
    ]
