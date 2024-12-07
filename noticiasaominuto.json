@@ -1,13 +1,36 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/cultura/2685348/espetaculo-de-luis-de-matos-nomeado-para-os-les-billets-dor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Espetáculo de Luís de Matos, nomeado para os Les Billets d'Or",
+         "description": "O espetáculo 'Impossible sur Scène', protagonizado pelo ilusionista Luís de Matos, está nomeado para os prémios Les Billets d'Or, na categoria 'Espetáculo mais Impressionante do Ano', foi hoje anunciado.",
+         "link": "https://www.noticiasaominuto.com/cultura/2685348/espetaculo-de-luis-de-matos-nomeado-para-os-les-billets-dor?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733596345000,
+         "created": 1733596345000,
+         "category": "Cultura",
+         "content": "<p>O espetáculo, que esteve em cena em novembro último no Folies Bergère, em Paris, contou com a participação dos artistas Aaron Crow, Dan Sperry, Norbert Feré e Yu Hojin, e é um dos 60 nomeados.</p>\n<div class=\"dummyPub\"> </div>\n<p>Os Prémios Les Billets d'Or, escolhidos pelo público, distinguem os melhores espetáculos apresentados em Paris, durante o ano, desde a comédia ao drama e ao cabaret. As votações são feitas no 'site' da Billets d'Or.</p>\n<p>Os vencedores serão conhecidos no próximo mês de janeiro.</p>\n<p>'Impossible sur Scène' estará em cena de 12 a 15 deste mês, no Centro de Artes e Espetáculos da Figueira da Foz, e de 19 deste mês a 12 de janeiro próximo no Teatro Tivoli, em Lisboa, e, de 15 a 18 de janeiro próximo, no Coliseu do Porto.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/cultura/2684696/ana-moura-olavo-bilac-e-tributo-a-pedro-barroso-no-teatro-virginia\" target=\"_blank\" rel=\"noopener noreferrer\">Ana Moura, Olavo Bilac e tributo a Pedro Barroso no Teatro Virgínia</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/39999968.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O espetáculo, que esteve em cena em novembro último no Folies Bergère, em Paris, contou com a participação dos artistas Aaron Crow, Dan Sperry, Norbert Feré e Yu Hojin, e é um dos 60 nomeados.</p>\n<div class=\"dummyPub\"> </div>\n<p>Os Prémios Les Billets d'Or, escolhidos pelo público, distinguem os melhores espetáculos apresentados em Paris, durante o ano, desde a comédia ao drama e ao cabaret. As votações são feitas no 'site' da Billets d'Or.</p>\n<p>Os vencedores serão conhecidos no próximo mês de janeiro.</p>\n<p>'Impossible sur Scène' estará em cena de 12 a 15 deste mês, no Centro de Artes e Espetáculos da Figueira da Foz, e de 19 deste mês a 12 de janeiro próximo no Teatro Tivoli, em Lisboa, e, de 15 a 18 de janeiro próximo, no Coliseu do Porto.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/cultura/2684696/ana-moura-olavo-bilac-e-tributo-a-pedro-barroso-no-teatro-virginia\" target=\"_blank\" rel=\"noopener noreferrer\">Ana Moura, Olavo Bilac e tributo a Pedro Barroso no Teatro Virgínia</a></p>",
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/mundo/2685344/encontrado-sobrevivente-na-explosao-em-haia-que-soma-pelo-menos-4-mortos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Encontrado sobrevivente na explosão em Haia que soma pelo menos 4 mortos",
+         "title": "Explosão em Haia soma pelo menos 4 mortos. Foi encontrado sobrevivente",
          "description": "Uma pessoa foi hoje encontrada viva entre os escombros do edifício que ruiu em Haia após uma explosão e um incêndio que fizeram pelo menos quatro mortos, segundo novo relatório das autoridades.",
          "link": "https://www.noticiasaominuto.com/mundo/2685344/encontrado-sobrevivente-na-explosao-em-haia-que-soma-pelo-menos-4-mortos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -122,7 +145,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2685060/benfica-vitoria-sc-hora-de-encurtar-distancias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[0-0] Benfica-Vitória SC: Di María atira ao lado",
+         "title": "[1-0] Benfica-Vitória SC: Nulo desfeito na Luz",
          "description": "Pontapé de saída agendado para as 18h00. ",
          "link": "https://www.noticiasaominuto.com/desporto/2685060/benfica-vitoria-sc-hora-de-encurtar-distancias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Em Guimarães, distrito de Braga, durante um Fórum Distrital dedicado ao debate sobre o futuro dos municípios e os desafios e vantagens da descentralização versus regionalização, Rui Rocha sublinhou que o \"modo natural\" de a IL ir a eleições é apresentar-se com os seus candidatos, com as suas ideias e com as suas propostas.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Só não será assim, e é esse o desafio que eu faço à Iniciativa Liberal, se uma hipótese de uma coligação onde quer que se ponha cumprir pelo menos três critérios: princípios eticamente inabaláveis, segundo critério que seja para vencer, terceiro critério que seja para mudar a vida das pessoas\", afirmou.</p>\n<p>Segundo Rui Rocha, as candidaturas serão avaliadas \"caso a caso\", devendo as decisões ser tomadas no início de 2025.</p>\n<p>Escusou-se, assim, a comentar uma eventual candidatura ao Porto de Ricardo Valente, vereador que está de saída do executivo liderado pelo independente Rui Moreira, ou o apoio a uma candidatura independente.</p>\n<p>\"Não vou mesmo comentar questões relacionadas com eleições próximas. Creio que isso faz parte da autonomia dos núcleos da Iniciativa Liberal, faz também parte da autonomia da próxima Comissão Executiva da Iniciativa Liberal\", referiu.</p>\n<p>Enfatizou que o modo natural de a IL se apresentar a eleições, sejam elas legislativas, sejam regionais, sejam presidenciais, sejam autárquicas, é com suas ideias, as suas propostas e as duas pessoas.</p>\n<p>\"Para isso não ser assim, tem de ser cumpridos os três critérios que referi\", rematou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2685067/pizarro-eleito-cabeca-de-lista-pelo-ps-a-camara-do-porto\" target=\"_blank\" rel=\"noopener noreferrer\">Pizarro eleito cabeça-de-lista pelo PS à Câmara do Porto</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2685203/sindicato-de-jornalistas-ouvido-na-ar-sobre-trust-in-news-em-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sindicato de Jornalistas ouvido na AR sobre Trust in News em dezembro",
-         "description": "O Sindicato dos Jornalistas (SJ) vai ser ouvido no próximo dia 18 pela Comissão de Cultura, Comunicação, Juventude e Desporto, no âmbito de um requerimento acerca da situação dos trabalhadores do Grupo Trust in News, declarado insolvente pelo tribunal.",
-         "link": "https://www.noticiasaominuto.com/pais/2685203/sindicato-de-jornalistas-ouvido-na-ar-sobre-trust-in-news-em-dezembro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733572697000,
-         "created": 1733572697000,
-         "category": "País",
-         "content": "<p>Num comunicado publicado na sua página de internet, o sindicato refere que a presidente da 12.º comissão, a deputada Edite Estrela, solicitou a presença dos representantes sindicais dos jornalistas para uma reunião na manhã de 18 de dezembro na Assembleia da República.</p>\n<div class=\"dummyPub\"> </div>\n<p>A reunião, explica ainda, surge no âmbito da aprovação, na comissão, do requerimento dos grupos parlamentares do Partido Socialista (PS) e do Livre (L) sobre a situação do Grupo Trust in News, cuja insolvência foi decretada na quarta-feira, deixando em risco 17 títulos do grupo e mais de uma centena de trabalhadores.</p>\n<p>Ainda na quarta-feira, o Sindicato dos Jornalistas anunciou que vai reunir-se com o Presidente da República no próximo sábado, 14 de dezembro, depois de ter pedido audiência urgente para debater a crise na TiN.</p>\n<p>O sindicato argumentou, na altura, que enquanto mais alto magistrado da nação, o Presidente pode ter um papel muito importante para uma possível saída para esta crise que calcula afetar a vida de cerca de 150 trabalhadores.</p>\n<p>Entre outros títulos, a TiN é detentora das publicações Visão, Exame, Exame Informática, Jornal de Letras e Caras.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2683389/jornalistas-da-trust-in-news-em-protesto-acreditamos-no-futuro\" target=\"_blank\" rel=\"noopener noreferrer\">Jornalistas da Trust in News em protesto: \"Acreditamos no futuro\"</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_570ea6a64a232.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Num comunicado publicado na sua página de internet, o sindicato refere que a presidente da 12.º comissão, a deputada Edite Estrela, solicitou a presença dos representantes sindicais dos jornalistas para uma reunião na manhã de 18 de dezembro na Assembleia da República.</p>\n<div class=\"dummyPub\"> </div>\n<p>A reunião, explica ainda, surge no âmbito da aprovação, na comissão, do requerimento dos grupos parlamentares do Partido Socialista (PS) e do Livre (L) sobre a situação do Grupo Trust in News, cuja insolvência foi decretada na quarta-feira, deixando em risco 17 títulos do grupo e mais de uma centena de trabalhadores.</p>\n<p>Ainda na quarta-feira, o Sindicato dos Jornalistas anunciou que vai reunir-se com o Presidente da República no próximo sábado, 14 de dezembro, depois de ter pedido audiência urgente para debater a crise na TiN.</p>\n<p>O sindicato argumentou, na altura, que enquanto mais alto magistrado da nação, o Presidente pode ter um papel muito importante para uma possível saída para esta crise que calcula afetar a vida de cerca de 150 trabalhadores.</p>\n<p>Entre outros títulos, a TiN é detentora das publicações Visão, Exame, Exame Informática, Jornal de Letras e Caras.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2683389/jornalistas-da-trust-in-news-em-protesto-acreditamos-no-futuro\" target=\"_blank\" rel=\"noopener noreferrer\">Jornalistas da Trust in News em protesto: \"Acreditamos no futuro\"</a></p>",
          "media": {}
       }
    ]
