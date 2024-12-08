@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2685576/centenas-de-refugiados-sirios-no-libano-regressam-em-festa-ao-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Centenas de refugiados sírios no Líbano regressam em festa ao país",
+         "description": "Centenas de refugiados sírios residentes no Líbano atravessaram hoje a fronteira de regresso ao seu país, poucas horas depois de ter sido expulso o presidente Bashar al-Assad e encerrando cinco décadas de governo do Partido Baath.",
+         "link": "https://www.noticiasaominuto.com/mundo/2685576/centenas-de-refugiados-sirios-no-libano-regressam-em-festa-ao-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733660370000,
+         "created": 1733660370000,
+         "category": "Mundo",
+         "content": "<p>Segundo descreve a agência de notícias EFE, na principal passagem fronteiriça entre o Líbano e a Síria, Masnaa, longas filas de veículos aguardam para entrar no território sírio.</p>\n<div class=\"dummyPub\"> </div>\n<p>Vive-se uma atmosfera festiva entre gritos de \"Alá é grande\" e slogans contra o homem que liderou o país durante quase 25 anos.</p>\n<p>Os refugiados sírios viajam com bandeiras da oposição síria.</p>\n<p>O Governo do Líbano estima que cerca de 1,5 milhões de refugiados sírios vivam no país, dos quais mais de 800.000 estão registados na Agência das Nações Unidas para os Refugiados (ACNUR).</p>\n<p>Desde o início do conflito em 2011, centenas de milhares de sírios fugiram do território por medo da repressão por parte do Governo e do Exército sírios, uma grande parte deles para o Líbano.</p>\n<p>Os insurgentes declararam hoje Damasco 'livre' do presidente Bashar al-Assad, após 12 dias de ofensiva de uma coligação liderada pelo grupo islâmico Organização de Libertação do Levante, juntamente com outras fações apoiadas pela Turquia, para derrotar o governo sírio.</p>\n<p>O Presidente sírio deixou o país, perante a ofensiva rebelde, segundo o Observatório Sírio dos Direitos Humanos (OSDH).</p>\n<p>O OSDH, com sede em Londres e rede de informadores na Síria, já tinha indicado que, face ao avanço das forças rebeldes, o exército e as forças de segurança tinham abandonado o aeroporto de Damasco.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2685574/russia-alerta-para-futuro-das-bases-militares-na-siria\" target=\"_blank\" rel=\"noopener noreferrer\">Rússia alerta para futuro das bases militares na Síria</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/44044572.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Segundo descreve a agência de notícias EFE, na principal passagem fronteiriça entre o Líbano e a Síria, Masnaa, longas filas de veículos aguardam para entrar no território sírio.</p>\n<div class=\"dummyPub\"> </div>\n<p>Vive-se uma atmosfera festiva entre gritos de \"Alá é grande\" e slogans contra o homem que liderou o país durante quase 25 anos.</p>\n<p>Os refugiados sírios viajam com bandeiras da oposição síria.</p>\n<p>O Governo do Líbano estima que cerca de 1,5 milhões de refugiados sírios vivam no país, dos quais mais de 800.000 estão registados na Agência das Nações Unidas para os Refugiados (ACNUR).</p>\n<p>Desde o início do conflito em 2011, centenas de milhares de sírios fugiram do território por medo da repressão por parte do Governo e do Exército sírios, uma grande parte deles para o Líbano.</p>\n<p>Os insurgentes declararam hoje Damasco 'livre' do presidente Bashar al-Assad, após 12 dias de ofensiva de uma coligação liderada pelo grupo islâmico Organização de Libertação do Levante, juntamente com outras fações apoiadas pela Turquia, para derrotar o governo sírio.</p>\n<p>O Presidente sírio deixou o país, perante a ofensiva rebelde, segundo o Observatório Sírio dos Direitos Humanos (OSDH).</p>\n<p>O OSDH, com sede em Londres e rede de informadores na Síria, já tinha indicado que, face ao avanço das forças rebeldes, o exército e as forças de segurança tinham abandonado o aeroporto de Damasco.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2685574/russia-alerta-para-futuro-das-bases-militares-na-siria\" target=\"_blank\" rel=\"noopener noreferrer\">Rússia alerta para futuro das bases militares na Síria</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2685575/amorim-recebe-nega-alvo-do-man-united-rejeita-ida-para-inglaterra?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Amorim recebe 'nega'. Alvo do Man. United rejeita ida para Inglaterra",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>O jogo entre Famalicão e FC Porto, realizado este sábado e relativo à 13.ª jornada da I Liga, contou com um lance de grandes emoções para os adeptos de ambos os clubes. Samu marcou o segundo golo dos dragões aos 74 minutos, mas o VAR alertou o árbitro Luís Godinho para uma mão de Pepê... na grande área do FC Porto. A decisão foi, assim, alterada para grande penalidade, mas Óscar Aranda viu Diogo Costa negar-lhe o segundo golo da noite.</p>\n<div class=\"dummyPub\"> </div>\n<p>Confira os vídeos abaixo. </p>\n<p><iframe src=\"//noticiasaominuto.vsports.pt/embd/102298/m/19824/notaomin/3a9555b894b977404e7c6b6d27753670?autostart=false\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" id=\"vsports-embd-102298\"></iframe>\n<script src=\"//www.vsports.pt/video/vsports-embd-scripts?vid=102298\"></script>\n<iframe src=\"//noticiasaominuto.vsports.pt/embd/102297/m/19824/notaomin/16374c4f0021f3360b73f11fea40bedb?autostart=false\" width=\"100%\" height=\"100%\" scrolling=\"no\" frameborder=\"0\" id=\"vsports-embd-102297\"></iframe>\n<script src=\"//www.vsports.pt/video/vsports-embd-scripts?vid=102297\"></script>\n</p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2685423/rui-borges-sem-duvidas-no-computo-geral-fomos-superiores-ao-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rui Borges sem dúvidas: \"No cômputo geral, fomos superiores ao Benfica\"",
-         "description": "Treinador do Vitória SC satisfeito pela exibição, mas não pelo resultado. ",
-         "link": "https://www.noticiasaominuto.com/desporto/2685423/rui-borges-sem-duvidas-no-computo-geral-fomos-superiores-ao-benfica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733609160000,
-         "created": 1733609160000,
-         "category": "Desporto",
-         "content": "<p>Rui Borges, treinador do Vitória SC, em declarações aos jornalistas após o a derrota na visita ao Benfica (0-1), em jogo da 13.ª jornada da I Liga, registado este sábado. </p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">Análise</span>: \"Fico frustrado por sair daqui com zero pontos, por tudo o que fizemos. No cômputo geral, fomos superiores ao Benfica. É certo que o Benfica teve mais posse de bola. Merecíamos muito mais, é certo.\"</p>\n<p><span class=\"news_bold\">O que faltou?</span>: \"Só nos faltou acertar na baliza. A grande diferença em relação ao Benfica é a qualidade individual. Disse aos meus jogadores que bastava fazermos meio erro para o Benfica fazer golo. E nós teríamos de rematar mais. Honestamente, não posso pedir mais aos meus jogadores. O difícil será manter a consistência que tivemos hoje.\"</p>\n<p><span class=\"news_bold\">Benfica é o principal candidato ao título?</span>: \"Não digo que o Benfica seja o principal candidato ao título, está no lote daqueles que podem ser campeões. O Benfica é a equipa que está em melhor forma.\"</p>\n<p><span class=\"news_bold\">Satisfeito pela exibição: </span>\"A personalidade que colocámos no jogo de hoje foi fantástica. Em termos emocionais, não deixámos entrar o 'bafo' da Luz. Não mudámos a nossa forma de jogar, os meus jogadores mereciam muito mais por tudo o que fizeram ao longo do jogo. A minha frustração não é por mim, é por eles.\"</p>\n<p><span class=\"news_bold\">Elogios para Händel: </span>\"Händel é um miúdo que tem classe a jogar tem um grande perfil, é elegante, com muita qualidade. O Alberto Baio tem características fora do comum. Temos muito jogadores com um futuro risonho. Fico feliz que o selecionador esteja olhar para o Händel\".</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2685406/temos-de-nos-preocupar-em-ganhar-e-se-possivel-jogar-bem\" target=\"_blank\" rel=\"noopener noreferrer\">\"Temos de nos preocupar em ganhar e, se possível, jogar bem\"</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6754c68715f73.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Rui Borges, treinador do Vitória SC, em declarações aos jornalistas após o a derrota na visita ao Benfica (0-1), em jogo da 13.ª jornada da I Liga, registado este sábado. </p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">Análise</span>: \"Fico frustrado por sair daqui com zero pontos, por tudo o que fizemos. No cômputo geral, fomos superiores ao Benfica. É certo que o Benfica teve mais posse de bola. Merecíamos muito mais, é certo.\"</p>\n<p><span class=\"news_bold\">O que faltou?</span>: \"Só nos faltou acertar na baliza. A grande diferença em relação ao Benfica é a qualidade individual. Disse aos meus jogadores que bastava fazermos meio erro para o Benfica fazer golo. E nós teríamos de rematar mais. Honestamente, não posso pedir mais aos meus jogadores. O difícil será manter a consistência que tivemos hoje.\"</p>\n<p><span class=\"news_bold\">Benfica é o principal candidato ao título?</span>: \"Não digo que o Benfica seja o principal candidato ao título, está no lote daqueles que podem ser campeões. O Benfica é a equipa que está em melhor forma.\"</p>\n<p><span class=\"news_bold\">Satisfeito pela exibição: </span>\"A personalidade que colocámos no jogo de hoje foi fantástica. Em termos emocionais, não deixámos entrar o 'bafo' da Luz. Não mudámos a nossa forma de jogar, os meus jogadores mereciam muito mais por tudo o que fizeram ao longo do jogo. A minha frustração não é por mim, é por eles.\"</p>\n<p><span class=\"news_bold\">Elogios para Händel: </span>\"Händel é um miúdo que tem classe a jogar tem um grande perfil, é elegante, com muita qualidade. O Alberto Baio tem características fora do comum. Temos muito jogadores com um futuro risonho. Fico feliz que o selecionador esteja olhar para o Händel\".</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2685406/temos-de-nos-preocupar-em-ganhar-e-se-possivel-jogar-bem\" target=\"_blank\" rel=\"noopener noreferrer\">\"Temos de nos preocupar em ganhar e, se possível, jogar bem\"</a></p>",
          "media": {}
       }
    ]
