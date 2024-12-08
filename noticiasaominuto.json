@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2685651/empresario-pede-ajuda-em-boxers-e-ensanguentado-diz-que-foi-sequestrado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Empresário pede ajuda ensanguentado e em boxers: Diz que foi sequestrado",
+         "description": "Jovem terá sido espancado. Quando pediu ajudava estava apenas em roupa interior e bastante debilitado. ",
+         "link": "https://www.noticiasaominuto.com/pais/2685651/empresario-pede-ajuda-em-boxers-e-ensanguentado-diz-que-foi-sequestrado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733674313000,
+         "created": 1733674313000,
+         "category": "País",
+         "content": "<p>Um empresário do ramo automóvel alegou ter sido sequestrado, no Porto, após ter sido encontrado em Vila Nova de Famalicão, já na madrugada deste domingo, com marcas de agressão e apenas em roupa interior, segundo noticiou a rádio local <a href=\"https://cidadehoje.sapo.pt/jovem-empresario-e-sequestrado-no-porto-e-largado-em-famalicao-sem-roupa-e-ensanguentado/?feed_id=219384&_unique_id=67558cf7030bc&fbclid=IwY2xjawHCeMFleHRuA2FlbQIxMQABHRllOojjO32a26tEakVM5LyNcjkOriAksPP9hgpAf-HUXA2B3XfRFPNSmA_aem_YQTkJL_-CDDu9LtDtcKljQ\">Cidade Hoje</a>. </p>\n<div class=\"dummyPub\"> </div>\n<p>Testemunhas indicaram que o empresário, ainda jovem, se encontrava num estado debilitado, após ter sido alegadamente deixado por um grupo de indivíduos numa rua. A vítima, que foi depois pedir ajuda à porta de uma moradia, terá descrito os alegados suspeitos como \"espanhóis\". </p>\n<p>O empresário foi socorrido e as autoridades e os meios de emergência foram alertados, tendo transportado o jovem para o hospital de Famalicão. </p>\n<p>A Guarda Nacional Republicana (GNR) confirmou a ocorrência à Cidade Hoje, embora não sejam conhecidos os contornos do caso. Já ao <span class=\"news_bold\">Notícias ao Minuto</span>, fonte da força de segurança disse apenas estar a investigar para apurar \"se houve algum crime\" e recusou fazer qualquer tipo de confirmação. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2685477/adolescente-de-17-anos-detido-por-trafico-de-droga-em-montemor-o-novo\" target=\"_blank\" rel=\"noopener noreferrer\">Adolescente de 17 anos detido por tráfico de droga em Montemor-o-Novo</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_624c079f58de9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Um empresário do ramo automóvel alegou ter sido sequestrado, no Porto, após ter sido encontrado em Vila Nova de Famalicão, já na madrugada deste domingo, com marcas de agressão e apenas em roupa interior, segundo noticiou a rádio local <a href=\"https://cidadehoje.sapo.pt/jovem-empresario-e-sequestrado-no-porto-e-largado-em-famalicao-sem-roupa-e-ensanguentado/?feed_id=219384&_unique_id=67558cf7030bc&fbclid=IwY2xjawHCeMFleHRuA2FlbQIxMQABHRllOojjO32a26tEakVM5LyNcjkOriAksPP9hgpAf-HUXA2B3XfRFPNSmA_aem_YQTkJL_-CDDu9LtDtcKljQ\">Cidade Hoje</a>. </p>\n<div class=\"dummyPub\"> </div>\n<p>Testemunhas indicaram que o empresário, ainda jovem, se encontrava num estado debilitado, após ter sido alegadamente deixado por um grupo de indivíduos numa rua. A vítima, que foi depois pedir ajuda à porta de uma moradia, terá descrito os alegados suspeitos como \"espanhóis\". </p>\n<p>O empresário foi socorrido e as autoridades e os meios de emergência foram alertados, tendo transportado o jovem para o hospital de Famalicão. </p>\n<p>A Guarda Nacional Republicana (GNR) confirmou a ocorrência à Cidade Hoje, embora não sejam conhecidos os contornos do caso. Já ao <span class=\"news_bold\">Notícias ao Minuto</span>, fonte da força de segurança disse apenas estar a investigar para apurar \"se houve algum crime\" e recusou fazer qualquer tipo de confirmação. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2685477/adolescente-de-17-anos-detido-por-trafico-de-droga-em-montemor-o-novo\" target=\"_blank\" rel=\"noopener noreferrer\">Adolescente de 17 anos detido por tráfico de droga em Montemor-o-Novo</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2685661/dommaraju-passa-para-a-frente-no-mundial-de-xadrez-apos-vencer-ding-liren?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dommaraju passa para a frente no Mundial de xadrez após vencer Ding Liren",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>A derrota na quinta jornada da fase de liga da 'Champions', contra o Arsenal (5-1), em Alvalade, deixou marcas nos 'leões', já que, dias depois, foram derrotados em casa pelo Santa Clara (0-1), falhando a inédita oportunidade de começar uma edição da I Liga portuguesa com 12 triunfos seguidos.</p>\n<div class=\"dummyPub\"> </div>\n<p>Seguiu-se novo desaire em Moreira de Cónegos, na quinta-feira, ante o Moreirense (2-1), para a I Liga, com a equipa de João Pereira, que lidera em Portugal, com mais dois pontos do que o Benfica (menos um jogo), e na 'Champions' segue no 10.º posto, com 10 pontos, juntamente com mais seis conjuntos.</p>\n<p>No frio de Bruges, a partir das 20:00 (em Lisboa), os 'verdes e brancos' vão medir forças com o atual segundo colocado da liga belga e que 'respira' confiança, fruto de oito vitórias para todas as provas nos últimos 10 jogos, a última conseguida nos descontos, no sábado, embora na 'Champions' esteja atrás do campeão português, no 22.º lugar, com sete pontos.</p>\n<p>Privado de Eduardo Quaresma, Nuno Santos e Pedro Gonçalves, todos a recuperarem de lesão, o técnico João Pereira não deverá ainda contar com Daniel Bragança, que saiu lesionado do jogo contra os 'cónegos'.</p>\n<p>Na quarta-feira, à mesma hora, entra em campo o Benfica, que desde que perdeu pela margem mínima em Munique, contra o Bayern, só sabe vencer - bateu FC Porto (4-1), Estrela da Amadora (7-0), Mónaco (3-2), Arouca (2-0) e Vitória de Guimarães (1-0).</p>\n<p>Ao contrário do rival Sporting, os 'encarnados' dispõem de uma boa oportunidade para imperar na receção ao conjunto transalpino, desfalcado do ponta de lança Riccardo Orsolini, que regista esta temporada sete golos e uma assistência em 18 desafios oficiais.</p>\n<p>Pela frente, terá um oponente que alcançou dois triunfos nos últimos três jogos em Itália: Venezia (3-0), Monza (4-0), para a Taça, e Juventus (2-2), no sábado, sendo que desperdiçou uma vantagem de dois golos já perto do final.</p>\n<p>O Liverpool, líder em Inglaterra e na 'Champions', é a única equipa só com triunfos no novo formato da competição, e desloca-se ao reduto do Girona, que soma apenas três pontos e ainda ambiciona chegar a um lugar nos play-offs.</p>\n<p>O perseguidor Inter Milão, segundo colocado, a dois pontos dos 'reds, tem missão difícil no campo dos germânicos do Bayer Leverkusen, assim como o campeão em título Real Madrid, detentor de 15 'champions' e que tem desiludido, na deslocação a Bérgamo, onde a Atalanta vai, pelo menos, manter a ficha limpa no que a derrotas diz respeito.</p>\n<p>À semelhança dos 'merengues', os gauleses do Paris Saint-Germain, de Nuno Mendes, Vitinha, João Neves e Gonçalo Ramos, têm fracasso na competição de clubes mais importante da UEFA e empataram os últimos dois jogos em França, porém, na vista a Salzburgo podem voltar a serem felizes.</p>\n<p>Por sua vez, na quarta-feira, o AC Milan, de Paulo Fonseca e Rafael Leão, vai procurar manter o bom momento na receção aos sérvios do Estrela Vermelha, depois de três triunfos seguidos na fase de liga.</p>\n<p>No mesmo dia, há dois encontros de 'cartaz' da ronda seis: Juventus-Manchester City e Borussia Dortmund-FC Barcelona.</p>\n<p>Os 'citizens', de Ruben Dias, Matheus Nunes e Bernardo Silva, colocaram um ponto final na série de seis derrotas e um empate para todas as competições, a meio da semana, para a Premier League, diante no Nottingham Forest (3-0), mas no sábado empataram com o Cystal Palace (2-2).</p>\n<p>Em Turim, o tetracampeão inglês vai tentar voltar aos triunfos contra uma 'Juve', de Francisco Conceição, que somou um desaire e dois empates nos últimos três jogos na 'Champions'.</p>\n<p>O vice-campeão da 'Champions' Dortmund, terceiro posicionado, é o anfitrião do líder espanhol, quarto, com os mesmos 12 pontos, pelo que a luta se perspetiva intensa, com os 'olhos' postos na liderança e em eventuais 'escorregadelas' de Liverpool e Inter.</p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2683761/qual-o-lucro-da-xiaomi-na-venda-de-automoveis-ate-agora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Qual o lucro da Xiaomi na venda de automóveis até agora?",
-         "description": "Marca chinesa entregou 100.000 viaturas até novembro.",
-         "link": "https://www.noticiasaominuto.com/auto/2683761/qual-o-lucro-da-xiaomi-na-venda-de-automoveis-ate-agora?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733648060000,
-         "created": 1733648060000,
-         "category": "Auto",
-         "content": "<p>A Xiaomi revelou todo o encaixe financeiro no terceiro trimestre do ano. Depois de ter entregado 100.000 veículos, a tecnológica chinesa referiu, em comunicado, que já registou receitas de 1,27 mil milhões de euros, representando um crescimento sólido e com uma margem de lucro bruto de 17,1%.</p>\n<div class=\"dummyPub\"> </div>\n<p>O Xiaomi SU7, o primeiro modelo lançada pela marca, alcançou 39.790 entregas no último trimestre, e as entregas acumuladas ultrapassaram 100.000 unidades a 18 de novembro de 2024.</p>\n<p>Recentemente, a Xiaomi apresentou a versão de produção do seu SU7 Ultra, elétrico de alta performance cujo preço arranca nos 105.000 euros. Em apenas 10 minutos de pré-venda, 3.680 unidades foram reservadas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/auto/2683615/papa-francisco-tem-novo-papamovel-e-eletrico-mas-nao-e-um-qualquer\" target=\"_blank\" rel=\"noopener noreferrer\">Papa Francisco tem novo Papamóvel. É elétrico, mas não é um qualquer</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_675190f039056.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>A Xiaomi revelou todo o encaixe financeiro no terceiro trimestre do ano. Depois de ter entregado 100.000 veículos, a tecnológica chinesa referiu, em comunicado, que já registou receitas de 1,27 mil milhões de euros, representando um crescimento sólido e com uma margem de lucro bruto de 17,1%.</p>\n<div class=\"dummyPub\"> </div>\n<p>O Xiaomi SU7, o primeiro modelo lançada pela marca, alcançou 39.790 entregas no último trimestre, e as entregas acumuladas ultrapassaram 100.000 unidades a 18 de novembro de 2024.</p>\n<p>Recentemente, a Xiaomi apresentou a versão de produção do seu SU7 Ultra, elétrico de alta performance cujo preço arranca nos 105.000 euros. Em apenas 10 minutos de pré-venda, 3.680 unidades foram reservadas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/auto/2683615/papa-francisco-tem-novo-papamovel-e-eletrico-mas-nao-e-um-qualquer\" target=\"_blank\" rel=\"noopener noreferrer\">Papa Francisco tem novo Papamóvel. É elétrico, mas não é um qualquer</a></p>",
          "media": {}
       }
    ]
