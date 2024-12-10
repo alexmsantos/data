@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2687186/barcelona-quer-carreras-e-diogo-costa-e-coloca-proscrito-no-pacote?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Atenção, Benfica: Barcelona quer Carreras e coloca 'proscrito' no pacote",
+         "description": "Catalães já efetuaram os primeiros contactos pelo lateral encarnado. Diogo Costa também na agenda.",
+         "link": "https://www.noticiasaominuto.com/desporto/2687186/barcelona-quer-carreras-e-diogo-costa-e-coloca-proscrito-no-pacote?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1733860127000,
+         "created": 1733860127000,
+         "category": "Desporto",
+         "content": "<p>O jornal catalão <span class=\"news_bold\"><a href=\"https://www.elnacional.cat/es/deportes/joan-laporta-abre-2-negociaciones-en-intenta-incluir-ansu-fati_1329259_102.html\">El Nacional</a></span> dá conta, esta terça-feira, de que o Barcelona está atento ao mercado português e quer avançar por Álvaro Carreras. O emblema catalão já terá iniciado contactos junto do Benfica no sentido de saber as condições para um eventual negócio</p>\n<div class=\"dummyPub\"> </div>\n<p>Por forma a baixar o valor pedido pelo Benfica para deixar sair o ex-Manchester United, os catalães têm um truque debaixo da manga. O Barcelona pode vir a incluir o passe de Ansu Fati no negócio, jogador que não entra nas contas de Hansi Flick e que já foi, em outra altura, associado aos encarnados.</p>\n<p>Mas não se fica por aqui a busca em Portugal. O El Nacional avança ainda que o Barcelona quer fazer valer as boas relações que tem com Jorge Mendes para conseguir Diogo Costa, visto como sucessor de Ter Stengen na Catalunha. E o nome de Fati também poderia ser oferecido aos dragões.</p>\n<p>Álvaro Carreras leva 20 jogos pelo Benfica nesta época, nos quais contabilizou dois golos e duas assistências.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2687103/dos-abracos-aos-sorrisos-benfica-preparou-assim-regresso-a-champions\" target=\"_blank\" rel=\"noopener noreferrer\">Dos abraços aos sorrisos. Benfica preparou assim regresso à Champions</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67589b0b2938c.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O jornal catalão <span class=\"news_bold\"><a href=\"https://www.elnacional.cat/es/deportes/joan-laporta-abre-2-negociaciones-en-intenta-incluir-ansu-fati_1329259_102.html\">El Nacional</a></span> dá conta, esta terça-feira, de que o Barcelona está atento ao mercado português e quer avançar por Álvaro Carreras. O emblema catalão já terá iniciado contactos junto do Benfica no sentido de saber as condições para um eventual negócio</p>\n<div class=\"dummyPub\"> </div>\n<p>Por forma a baixar o valor pedido pelo Benfica para deixar sair o ex-Manchester United, os catalães têm um truque debaixo da manga. O Barcelona pode vir a incluir o passe de Ansu Fati no negócio, jogador que não entra nas contas de Hansi Flick e que já foi, em outra altura, associado aos encarnados.</p>\n<p>Mas não se fica por aqui a busca em Portugal. O El Nacional avança ainda que o Barcelona quer fazer valer as boas relações que tem com Jorge Mendes para conseguir Diogo Costa, visto como sucessor de Ter Stengen na Catalunha. E o nome de Fati também poderia ser oferecido aos dragões.</p>\n<p>Álvaro Carreras leva 20 jogos pelo Benfica nesta época, nos quais contabilizou dois golos e duas assistências.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2687103/dos-abracos-aos-sorrisos-benfica-preparou-assim-regresso-a-champions\" target=\"_blank\" rel=\"noopener noreferrer\">Dos abraços aos sorrisos. Benfica preparou assim regresso à Champions</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2687200/siria-israel-diz-ter-lancado-cerca-de-480-ataques-em-48-horas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Síria. Israel diz ter lançado cerca de 480 ataques em 48 horas",
@@ -30,8 +53,8 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2687202/suspeito-de-assassinar-ceo-da-unitedhealtcare-em-confronto-com-policias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Suspeito de assassinar CEO da UnitedHealtcare em confronto com polícias",
-         "description": "O suspeito foi acusado de homicídio, porte de armas e outros crimes pelos Procuradores de Manhattan, Nova Iorque.",
+         "title": "Suspeito de homicídio de CEO da UnitedHealtcare em confronto com polícias",
+         "description": "O suspeito está a ser acusado de homicídio, porte de armas e outros crimes pelos Procuradores de Manhattan, Nova Iorque.",
          "link": "https://www.noticiasaominuto.com/mundo/2687202/suspeito-de-assassinar-ceo-da-unitedhealtcare-em-confronto-com-policias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
@@ -40,7 +63,7 @@
          "published": 1733859814000,
          "created": 1733859814000,
          "category": "Mundo",
-         "content": "<p>Luigi Mangione, acusado do homicídio do CEO da UnitedHealtcare,  entrou em confronto com os polícias, que o estavam a escoltar, do lado de fora do tribunal.</p>\n<div class=\"dummyPub\"> </div>\n<p>A Sky News avançou que o suspeito, algemado, terá ainda gritado para os meios de comunicação: \"É completamente fora de toque e um insulto à inteligência do povo americano e a sua experiência vivida\".</p>\n<p>[Notícia em atualização]</p>",
+         "content": "<p>Luigi Mangione, acusado do homicídio do CEO da UnitedHealtcare, entrou em confronto com os polícias, que o estavam a escoltar, do lado de fora do tribunal.</p>\n<div class=\"dummyPub\"> </div>\n<p>A Sky News avançou que o suspeito, algemado, foi visto a lutar contra os polícias e que estes o empurraram contra a parede. </p>\n<p>As autoridades levaram-no para dentro do tribunal, onde será dado o início do processo de extradição. </p>\n<p>Mangione terá ainda gritado para os meios de comunicação que estavam do lado de foram do tribunal da Pensilvânia: \"É completamente fora de toque e um insulto à inteligência do povo americano e a sua experiência vivida\".</p>\n<p>Recorde-se que Luigi Mangione, de 26 anos, está a ser acusado do homicídio do CEO da UnitedHealthcare. Tompson foi morto a tiro à saída de um hotel em Manhattan, na semana passada. </p>\n<p>O suspeito esteve fugido à polícia durante cinco dias, tendo sido detido, esta segunda feira, num Mcdonald's na Pensilvânia. </p>\n<p>[Notícia em atualização]</p>",
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_675899ce98b9a.jpg",
@@ -48,7 +71,7 @@
                "length": "0"
             }
          ],
-         "content_encoded": "<p>Luigi Mangione, acusado do homicídio do CEO da UnitedHealtcare,  entrou em confronto com os polícias, que o estavam a escoltar, do lado de fora do tribunal.</p>\n<div class=\"dummyPub\"> </div>\n<p>A Sky News avançou que o suspeito, algemado, terá ainda gritado para os meios de comunicação: \"É completamente fora de toque e um insulto à inteligência do povo americano e a sua experiência vivida\".</p>\n<p>[Notícia em atualização]</p>",
+         "content_encoded": "<p>Luigi Mangione, acusado do homicídio do CEO da UnitedHealtcare, entrou em confronto com os polícias, que o estavam a escoltar, do lado de fora do tribunal.</p>\n<div class=\"dummyPub\"> </div>\n<p>A Sky News avançou que o suspeito, algemado, foi visto a lutar contra os polícias e que estes o empurraram contra a parede. </p>\n<p>As autoridades levaram-no para dentro do tribunal, onde será dado o início do processo de extradição. </p>\n<p>Mangione terá ainda gritado para os meios de comunicação que estavam do lado de foram do tribunal da Pensilvânia: \"É completamente fora de toque e um insulto à inteligência do povo americano e a sua experiência vivida\".</p>\n<p>Recorde-se que Luigi Mangione, de 26 anos, está a ser acusado do homicídio do CEO da UnitedHealthcare. Tompson foi morto a tiro à saída de um hotel em Manhattan, na semana passada. </p>\n<p>O suspeito esteve fugido à polícia durante cinco dias, tendo sido detido, esta segunda feira, num Mcdonald's na Pensilvânia. </p>\n<p>[Notícia em atualização]</p>",
          "media": {}
       },
       {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p><span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">\"A existência de um número suficiente destes modernos sistemas de armas torna a necessidade de utilizar armas nucleares praticamente inexistente\"</span>, afirmou Putin numa reunião do Conselho para o Desenvolvimento da Sociedade Civil e dos Direitos Humanos, citado pela agência russa TASS.</p>\n<div class=\"dummyPub\"> </div>\n<p>Putin referiu que Moscovo \"não está a endurecer\" a doutrina nuclear, mas sim a melhorá-la.</p>\n<p>Disse também que a Rússia deve concentrar esforços em melhorar e aperfeiçoar as capacidades dos sistemas Oreshnik, de acordo com a agência espanhola Europa Press.</p>\n<p>A Rússia anunciou há semanas o lançamento de um novo míssil contra o território ucraniano, em resposta à utilização de projéteis ocidentais de longo alcance pelas forças armadas ucranianas contra território russo.</p>\n<p>Moscovo enalteceu a capacidade de destruição deste novo míssil, para o qual, segundo afirma, o Ocidente não tem resposta.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2686552/disse-ao-presidente-trump-que-putin-so-o-teme-a-ele-e-talvez-a-china\" target=\"_blank\" rel=\"noopener noreferrer\">\"Disse ao presidente Trump que Putin só o teme a ele e, talvez, à China\"</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2687010/oficial-gorby-renova-contrato-com-o-sporting-de-braga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oficial: Gorby renova contrato com o Sporting de Braga",
-         "description": "O médio francês Gorby prolongou o seu contrato com o Sporting de Braga até 2028, informou hoje o clube minhoto, quinto classificado da I Liga portuguesa de futebol.",
-         "link": "https://www.noticiasaominuto.com/desporto/2687010/oficial-gorby-renova-contrato-com-o-sporting-de-braga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1733846845000,
-         "created": 1733846845000,
-         "category": "Desporto",
-         "content": "<p>O jogador, de 22 anos, chegou a Braga na temporada 2019/20, proveniente do Nantes, e estreou-se pela equipa principal duas épocas depois.</p>\n<div class=\"dummyPub\"> </div>\n<p>Na temporada passada, Gorby alinhou, por empréstimo no Paços de Ferreira, na II Liga, e regressou este ano aos 'arsenalistas', pelos quais renovou agora o contrato até 2027/28.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2686757/arbitro-macedonio-aleksandar-stavrev-reencontra-fc-porto-na-liga-europa\" target=\"_blank\" rel=\"noopener noreferrer\">Árbitro macedónio Aleksandar Stavrev 'reencontra' FC Porto na Liga Europa</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67586636d269a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O jogador, de 22 anos, chegou a Braga na temporada 2019/20, proveniente do Nantes, e estreou-se pela equipa principal duas épocas depois.</p>\n<div class=\"dummyPub\"> </div>\n<p>Na temporada passada, Gorby alinhou, por empréstimo no Paços de Ferreira, na II Liga, e regressou este ano aos 'arsenalistas', pelos quais renovou agora o contrato até 2027/28.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2686757/arbitro-macedonio-aleksandar-stavrev-reencontra-fc-porto-na-liga-europa\" target=\"_blank\" rel=\"noopener noreferrer\">Árbitro macedónio Aleksandar Stavrev 'reencontra' FC Porto na Liga Europa</a></p>",
          "media": {}
       }
    ]
