@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2688637/as-roma-sp-braga-minhotos-vestem-pele-de-gladiadores-em-italia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AS Roma-Sp. Braga: Minhotos vestem 'pele de gladiadores' em Itália",
+         "description": "Jogo está marcado para as 17h45 desta quinta-feira, na capital italiana.\n",
+         "link": "https://www.noticiasaominuto.com/desporto/2688637/as-roma-sp-braga-minhotos-vestem-pele-de-gladiadores-em-italia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1734018942000,
+         "created": 1734018942000,
+         "category": "Desporto",
+         "content": "<p><span class=\"news_bold news_highlight news_center\" style=\"background-color: #fff1aa; text-align: center; display: block;\">[Relato em atualização]</span></p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_h3\" style=\"font-size: 1.2em; font-weight: bold; color: #006da6;\">Antevisão</span></p>\n<p>O Sporting de Braga defronta, esta quinta-feira, a AS Roma, em jogo a contar para a sexta jornada da fase de liga da Liga Europa. Os minhotos procuram a segunda vitória nesta fase da prova para não deixar escapar os lugares de acesso direto aos oitavos de final.</p>\n<p>Apesar do calendário complicado que virá pela frente, o Sporting de Braga passou a respirar melhor na competição após o triunfo na jornada anterior, frente ao Hoffenheim, por 3-0, uma vez que se tinha imposto apenas uma vez, na estreia, sobre o Maccabi Telavive (2-1), perdendo depois com Olympiacos (3-0) e Bodo/Glimt (2-1) e empatando com o Elfsborg (1-1).</p>\n<p>Ainda assim, perder pontos nesta altura crucial pode travar a luta dos minhotos pelos lugares de acesso direto à próxima ronda. Do outro lado estará uma equipa romana muito distante dos lugares cimeiros da Serie A, na qual ocupa o 11.º posto, mas com vantagem no confronto direto com os portugueses.</p>\n<p>Nos dois duelos que já existiram entre AS Roma e Sporting de Braga, os italianos, que na altura eram orientados por Paulo Fonseca, venceram os dois encontros da Liga Europa em 2020/21 (2-0 e 3-1 para os giallorossi).</p>\n<p>O jogo entre AS Roma e Sporting de Braga tem apito inicial agendado para as 17h45 (horário de Portugal Continental), esta quinta-feira, no Estádio Olímpico, na capital italiana, e terá arbitragem de Daniel Siebert.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2687830/as-roma-sporting-de-braga-minhotos-proibidos-de-perder-pontos\" target=\"_blank\" rel=\"noopener noreferrer\">AS Roma-Sporting de Braga: Minhotos proibidos de perder pontos</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_675b0307d97b2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p><span class=\"news_bold news_highlight news_center\" style=\"background-color: #fff1aa; text-align: center; display: block;\">[Relato em atualização]</span></p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_h3\" style=\"font-size: 1.2em; font-weight: bold; color: #006da6;\">Antevisão</span></p>\n<p>O Sporting de Braga defronta, esta quinta-feira, a AS Roma, em jogo a contar para a sexta jornada da fase de liga da Liga Europa. Os minhotos procuram a segunda vitória nesta fase da prova para não deixar escapar os lugares de acesso direto aos oitavos de final.</p>\n<p>Apesar do calendário complicado que virá pela frente, o Sporting de Braga passou a respirar melhor na competição após o triunfo na jornada anterior, frente ao Hoffenheim, por 3-0, uma vez que se tinha imposto apenas uma vez, na estreia, sobre o Maccabi Telavive (2-1), perdendo depois com Olympiacos (3-0) e Bodo/Glimt (2-1) e empatando com o Elfsborg (1-1).</p>\n<p>Ainda assim, perder pontos nesta altura crucial pode travar a luta dos minhotos pelos lugares de acesso direto à próxima ronda. Do outro lado estará uma equipa romana muito distante dos lugares cimeiros da Serie A, na qual ocupa o 11.º posto, mas com vantagem no confronto direto com os portugueses.</p>\n<p>Nos dois duelos que já existiram entre AS Roma e Sporting de Braga, os italianos, que na altura eram orientados por Paulo Fonseca, venceram os dois encontros da Liga Europa em 2020/21 (2-0 e 3-1 para os giallorossi).</p>\n<p>O jogo entre AS Roma e Sporting de Braga tem apito inicial agendado para as 17h45 (horário de Portugal Continental), esta quinta-feira, no Estádio Olímpico, na capital italiana, e terá arbitragem de Daniel Siebert.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2687830/as-roma-sporting-de-braga-minhotos-proibidos-de-perder-pontos\" target=\"_blank\" rel=\"noopener noreferrer\">AS Roma-Sporting de Braga: Minhotos proibidos de perder pontos</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2688655/imigracao-portugal-tem-progredido-muito-nos-ultimos-meses-diz-governo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Imigração? \"Portugal tem progredido muito nos últimos meses\", diz Governo",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>\"Esta situação é explicada pela manutenção da tendência da redução de preços, com a inflação média a passar de 4,68% para 3,88%, refletindo basicamente o aumento da oferta dos produtos agrícolas no mercado nacional e a manutenção dos custos de combustíveis\", justificou Agostinho Vuma, durante a apresentação do relatório económico da CTA relativo ao terceiro trimestre do ano, que decorre hoje em Maputo.</p>\n<div class=\"dummyPub\"> </div>\n<p>O responsável afirmou que os índices de robustez económica apresentados tiveram como fatores influenciadores o prosseguimento da campanha de comercialização agrícola, a contenção dos custos, bem como a redução de volume de vendas, associado com a fraca demanda, um relativo aumento dos insumos no setor agrícola e a subida dos custos com a logística.</p>\n<p>Os números apresentados pela CTA indicam que influenciaram igualmente a manutenção dos preços de combustíveis, não obstante \"o agravamento da limitação do acesso a divisas no mercado\".</p>\n<p>No terceiro trimestre do ano, avançou Vuma, o índice de tendência de emprego baixou em Moçambique de 116,25 para 109,79, significando que reduziram as possibilidades de obtenção de emprego, em relação aos três meses anteriores.</p>\n<p>\"Os indicadores dos ciclos de contratação ilustram que as empresas moçambicanas se mostraram mais dispostas a contratar trabalhadores temporários do que permanentes, ao longo do mesmo período\", disse Agostinho Vuma.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2688313/nao-ha-ordem-de-prisao-contra-venancio-mondlane\" target=\"_blank\" rel=\"noopener noreferrer\">Não há ordem de prisão contra Venâncio Mondlane</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2688464/crescimento-do-pib-do-g20-abranda-para-2-8-no-terceiro-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Crescimento do PIB do G20 abranda para 2,8% no terceiro trimestre",
-         "description": "O Produto Interno Bruto (PIB) do G20 cresceu 2,8% no terceiro trimestre face ao mesmo período de 2023, ligeiramente abaixo da taxa de 3,0% registada no trimestre anterior, de acordo com as estimativas provisórias da OCDE hoje divulgadas.",
-         "link": "https://www.noticiasaominuto.com/economia/2688464/crescimento-do-pib-do-g20-abranda-para-2-8-no-terceiro-trimestre?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1734007178000,
-         "created": 1734007178000,
-         "category": "Economia",
-         "content": "<p>Num comunicado hoje divulgado, a Organização para a Cooperação e o Desenvolvimento (OCDE) afirma que entre as economias do G20, a Índia registou a maior taxa de crescimento homóloga (5,8%) no terceiro trimestre, seguida da Indonésia (5,0%), enquanto a Alemanha registou a maior queda (-0,3%).</p>\n<div class=\"dummyPub\"> </div>\n<p>Em cadeia, o PIB do G20 aumentou 0,7% no terceiro trimestre, ligeiramente acima da taxa de crescimento de 0,6% registada no trimestre anterior.</p>\n<p>A OCDE afirma que as taxas de crescimento trimestrais do PIB do G20 mantiveram-se globalmente estáveis desde o segundo trimestre de 2023.</p>\n<p>No terceiro trimestre de 2024, o crescimento do PIB manteve-se estável para o G20 no seu conjunto, mas o cenário foi heterogéneo entre os países, precisa a OCDE.</p>\n<p>A Indonésia, a Índia e os Estados Unidos registaram um crescimento estável (1,2%, 1,1% e 0,7%, respetivamente), ao passo que o crescimento acelerou significativamente no México (de 0,4% para 1,1%) e na China (de 0,5% para 0,9%) e, em menor grau, em França e na Austrália (de 0,2% em ambos os países para 0,4% e 0,3%, respetivamente).</p>\n<p>O crescimento recuperou na Alemanha (de -0,3% para 0,1%) e na Coreia (de -0,2% para 0,1%).</p>\n<p>A OCDE adianta que em contrapartida, os restantes países do G20 registaram um crescimento mais lento no terceiro trimestre do que no segundo trimestre.</p>\n<p>O crescimento abrandou acentuadamente no Brasil e na Arábia Saudita (de 1,4% para 0,9% em ambos os países) e no Reino Unido (de 0,5% para 0,1%).</p>\n<p>O crescimento também desacelerou, embora de forma mais marginal, no Canadá e no Japão (para 0,3% em ambos os países) e em Itália (para 0,0%).</p>\n<p>O PIB continuou a registar uma contração na Turquia (0,2%) e o crescimento tornou-se negativo na África do Sul (-0,3%), indica ainda a OCDE.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2687527/taxa-de-desemprego-na-ocde-manteve-se-em-4-9-em-outubro\" target=\"_blank\" rel=\"noopener noreferrer\">Taxa de desemprego na OCDE manteve-se em 4,9% em outubro</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5aafe0838a51a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Num comunicado hoje divulgado, a Organização para a Cooperação e o Desenvolvimento (OCDE) afirma que entre as economias do G20, a Índia registou a maior taxa de crescimento homóloga (5,8%) no terceiro trimestre, seguida da Indonésia (5,0%), enquanto a Alemanha registou a maior queda (-0,3%).</p>\n<div class=\"dummyPub\"> </div>\n<p>Em cadeia, o PIB do G20 aumentou 0,7% no terceiro trimestre, ligeiramente acima da taxa de crescimento de 0,6% registada no trimestre anterior.</p>\n<p>A OCDE afirma que as taxas de crescimento trimestrais do PIB do G20 mantiveram-se globalmente estáveis desde o segundo trimestre de 2023.</p>\n<p>No terceiro trimestre de 2024, o crescimento do PIB manteve-se estável para o G20 no seu conjunto, mas o cenário foi heterogéneo entre os países, precisa a OCDE.</p>\n<p>A Indonésia, a Índia e os Estados Unidos registaram um crescimento estável (1,2%, 1,1% e 0,7%, respetivamente), ao passo que o crescimento acelerou significativamente no México (de 0,4% para 1,1%) e na China (de 0,5% para 0,9%) e, em menor grau, em França e na Austrália (de 0,2% em ambos os países para 0,4% e 0,3%, respetivamente).</p>\n<p>O crescimento recuperou na Alemanha (de -0,3% para 0,1%) e na Coreia (de -0,2% para 0,1%).</p>\n<p>A OCDE adianta que em contrapartida, os restantes países do G20 registaram um crescimento mais lento no terceiro trimestre do que no segundo trimestre.</p>\n<p>O crescimento abrandou acentuadamente no Brasil e na Arábia Saudita (de 1,4% para 0,9% em ambos os países) e no Reino Unido (de 0,5% para 0,1%).</p>\n<p>O crescimento também desacelerou, embora de forma mais marginal, no Canadá e no Japão (para 0,3% em ambos os países) e em Itália (para 0,0%).</p>\n<p>O PIB continuou a registar uma contração na Turquia (0,2%) e o crescimento tornou-se negativo na África do Sul (-0,3%), indica ainda a OCDE.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2687527/taxa-de-desemprego-na-ocde-manteve-se-em-4-9-em-outubro\" target=\"_blank\" rel=\"noopener noreferrer\">Taxa de desemprego na OCDE manteve-se em 4,9% em outubro</a></p>",
          "media": {}
       }
    ]
