@@ -1,14 +1,37 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/economia/2689095/sexta-feira-13-ate-nos-combustiveis-gasoleo-e-gasolina-ficam-mais-caros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sexta-feira 13 até nos combustíveis? Gasóleo e gasolina ficam mais caros",
+         "description": "Semana acaba com a notícia que não queria receber.",
+         "link": "https://www.noticiasaominuto.com/economia/2689095/sexta-feira-13-ate-nos-combustiveis-gasoleo-e-gasolina-ficam-mais-caros?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1734090589000,
+         "created": 1734090589000,
+         "category": "Economia",
+         "content": "<p>Já são conhecidas as previsões para os preços dos combustíveis e ao saber o que lhe espera provavelmente não vai gostar do que vai ouvir.</p>\n<div class=\"dummyPub\"> </div>\n<p>As previsões para esta semana, segundo a ACP, indicam que o gasóleo simples vai aumentar meio cêntimo por litro, enquanto a gasolina simples 95 deverá sofrer um aumento maior de 1,5 cêntimos por litro.</p>\n<p>Caso se confirmem as previsões para a próxima semana, o preço médio do gasóleo simples deverá fixar-se nos 1,596 €/l enquanto o da gasolina simples 95 deverá manter-se nos 1,714 €/l.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2686923/governo-nao-se-compromete-com-bruxelas-na-retirada-de-apoios-no-isp\" target=\"_blank\" rel=\"noopener noreferrer\">Governo não se compromete com Bruxelas na retirada de apoios no ISP</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63d7b59289252.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Já são conhecidas as previsões para os preços dos combustíveis e ao saber o que lhe espera provavelmente não vai gostar do que vai ouvir.</p>\n<div class=\"dummyPub\"> </div>\n<p>As previsões para esta semana, segundo a ACP, indicam que o gasóleo simples vai aumentar meio cêntimo por litro, enquanto a gasolina simples 95 deverá sofrer um aumento maior de 1,5 cêntimos por litro.</p>\n<p>Caso se confirmem as previsões para a próxima semana, o preço médio do gasóleo simples deverá fixar-se nos 1,596 €/l enquanto o da gasolina simples 95 deverá manter-se nos 1,714 €/l.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2686923/governo-nao-se-compromete-com-bruxelas-na-retirada-de-apoios-no-isp\" target=\"_blank\" rel=\"noopener noreferrer\">Governo não se compromete com Bruxelas na retirada de apoios no ISP</a></p>",
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/mundo/2689183/francois-bayrou-nomeado-primeiro-ministro-de-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "François Bayrou nomeado primeiro-ministro de França",
-         "description": "Sucede a Michel Barnier em Matignon.",
+         "description": "Sucede a Michel Barnier.",
          "link": "https://www.noticiasaominuto.com/mundo/2689183/francois-bayrou-nomeado-primeiro-ministro-de-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
@@ -17,15 +40,15 @@
          "published": 1734090480000,
          "created": 1734090480000,
          "category": "Mundo",
-         "content": "<p>[Notícia em atualização]</p>",
+         "content": "<p>O nome do sucessor de Michel Barnier, que esteve apenas três meses no cargo é finalmente conhecido. Emmanuel Macron optou por nomear o centrista François Bayrou para primeiro-ministro de França.</p>\n<div class=\"dummyPub\"> </div>\n<p>[Notícia em atualização]</p>",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_675c1f87e0345.jpg",
                "type": "image/jpeg",
                "length": "0"
             }
          ],
-         "content_encoded": "<p>[Notícia em atualização]</p>",
+         "content_encoded": "<p>O nome do sucessor de Michel Barnier, que esteve apenas três meses no cargo é finalmente conhecido. Emmanuel Macron optou por nomear o centrista François Bayrou para primeiro-ministro de França.</p>\n<div class=\"dummyPub\"> </div>\n<p>[Notícia em atualização]</p>",
          "media": {}
       },
       {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Os Boston Celtics venceram, na noite de quinta-feira, os Detroit Pistons (123-99), em mais um jogo da NBA, com Neemias Queta a contribuir para o triunfo. </p>\n<div class=\"dummyPub\"> </div>\n<p>O jogador português esteve em campo 18 minutos e somou quatro pontos, dois ressaltos e uma assistência, além de um desarme e um roubo de bola. </p>\n<p>Quanto à classificação geral, os Boston Celtics continuam no segundo lugar da Confederação Este, logo atrás dos Cleveland Cavaliers.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2685527/neemias-queta-brilha-na-nba-mas-nao-evita-derrota-dos-boston-celtics\" target=\"_blank\" rel=\"noopener noreferrer\">Neemias Queta brilha na NBA, mas não evita derrota dos Boston Celtics</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2689019/catarina-gouveia-celebrou-o-aniversario-na-suica-as-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Catarina Gouveia celebrou o aniversário na Suíça. As imagens",
-         "description": "A atriz completou mais um ano de vida esta quinta-feira, dia 12 de dezembro. ",
-         "link": "https://www.noticiasaominuto.com/fama/2689019/catarina-gouveia-celebrou-o-aniversario-na-suica-as-imagens?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1734078941000,
-         "created": 1734078941000,
-         "category": "Fama",
-         "content": "<p>Catarina Gouveia viajou com o marido, Pedro Melo Guerra, e a filha de ambos, Esperança, de dois anos, até Lugano, Suíça, local escolhido para celebrar o seu aniversário. </p>\n<div class=\"dummyPub\"> </div>\n<p>A atriz completou 37 anos esta quinta-feira, dia 12 de dezembro, e destacou algumas imagens deste dia especial passado com a sua família fora de Portugal. </p>\n<p>\"Pus o despertador para ver o sol nascer, vi a minha filha a acordar, fiz um grande treino, maravilhei-me com a beleza natural de Lugano, passeei muito pelas ruas frias e pitorescas do centro, tive um jantar maravilhoso e apaguei as velas com o sopro do amor da minha vida. Vivi todos os presentes que me fazem feliz\", escreveu junto de um conjunto de imagens que mostrou aos seguidores. Veja as fotografias que estão na galeria. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/fama/2688562/catarina-gouveia-reflete-mereco-pedir-a-vida-que-passe-mais-devagar\" target=\"_blank\" rel=\"noopener noreferrer\">Catarina Gouveia reflete: \"Mereço pedir à vida que passe mais devagar\"</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_675be9d9eab4d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Catarina Gouveia viajou com o marido, Pedro Melo Guerra, e a filha de ambos, Esperança, de dois anos, até Lugano, Suíça, local escolhido para celebrar o seu aniversário. </p>\n<div class=\"dummyPub\"> </div>\n<p>A atriz completou 37 anos esta quinta-feira, dia 12 de dezembro, e destacou algumas imagens deste dia especial passado com a sua família fora de Portugal. </p>\n<p>\"Pus o despertador para ver o sol nascer, vi a minha filha a acordar, fiz um grande treino, maravilhei-me com a beleza natural de Lugano, passeei muito pelas ruas frias e pitorescas do centro, tive um jantar maravilhoso e apaguei as velas com o sopro do amor da minha vida. Vivi todos os presentes que me fazem feliz\", escreveu junto de um conjunto de imagens que mostrou aos seguidores. Veja as fotografias que estão na galeria. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/fama/2688562/catarina-gouveia-reflete-mereco-pedir-a-vida-que-passe-mais-devagar\" target=\"_blank\" rel=\"noopener noreferrer\">Catarina Gouveia reflete: \"Mereço pedir à vida que passe mais devagar\"</a></p>",
          "media": {}
       }
    ]
