@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2689790/rashford-em-apuros-ruben-amorim-ja-parece-farto-dele?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rashford em apuros: \"Ruben Amorim já parece farto dele\"",
+         "description": "Troy Deeney culpa o Manchester United pela falta de rendimento do internacional inglês.",
+         "link": "https://www.noticiasaominuto.com/desporto/2689790/rashford-em-apuros-ruben-amorim-ja-parece-farto-dele?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1734166752000,
+         "created": 1734166752000,
+         "category": "Desporto",
+         "content": "<p>Troy Deeney fez, este sábado, uso do espaço de opinião que assina no jornal britânico <span class=\"news_bold\"><a href=\"https://www.thesun.co.uk/sport/32300094/troy-deeney-marcus-rashford-application-man-utd/\">The Sun</a></span> para se mostrar preocupado com a falta de rendimento de Marcus Rashford, que soma sete golos e três assistências ao cabo de 24 jogos com a camisola do Manchester United, esta época.</p>\n<div class=\"dummyPub\"> </div>\n<p>Na opinião do antigo avançado, o principal culpado pela \"tendência escorregadia\" da carreira do avançado é o próprio clube, que \"continua a recompensar comportamentos e exibições disparatadas com contratos enormes, sem garantias\", pelo que cabe ao próprio demonstrar que ainda tem algo a dizer.</p>\n<p>\"É o velho ciclo de sempre. Chega um novo treinador, e, durante três ou quatro jogos, vemos um 'novo Rashford', até que escorrega de volta aos vícios e à forma antiga. Depois, começa a perder espaço\", começou por escrever.</p>\n<p>\"Já o vimos na noite de quinta-feira. Foi substituído, contra o Viktoria Plzen, e o treinador do Manchester United, Ruben Amorim, já parece farto dele. Ouçam, eu já passei por isso. Não é bom, quando isso acontece\", prosseguiu.</p>\n<p>\"Amorim resumiu-o perfeitamente, quando chegou, ao dizer que Rashford teria todo o apoio, mas que lhe caberia a ele, enquanto jogador e pessoa. É aí que reside o problema. Ninguém quer que Rashford falhe, mas continua a ficar aquém das expetativas\", rematou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2689764/se-amorim-mantiver-o-plantel-do-manchester-united-vai-ser-despedido\" target=\"_blank\" rel=\"noopener noreferrer\">\"Se Amorim mantiver o plantel do Manchester United vai ser despedido\"</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674c855b8bdbb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Troy Deeney fez, este sábado, uso do espaço de opinião que assina no jornal britânico <span class=\"news_bold\"><a href=\"https://www.thesun.co.uk/sport/32300094/troy-deeney-marcus-rashford-application-man-utd/\">The Sun</a></span> para se mostrar preocupado com a falta de rendimento de Marcus Rashford, que soma sete golos e três assistências ao cabo de 24 jogos com a camisola do Manchester United, esta época.</p>\n<div class=\"dummyPub\"> </div>\n<p>Na opinião do antigo avançado, o principal culpado pela \"tendência escorregadia\" da carreira do avançado é o próprio clube, que \"continua a recompensar comportamentos e exibições disparatadas com contratos enormes, sem garantias\", pelo que cabe ao próprio demonstrar que ainda tem algo a dizer.</p>\n<p>\"É o velho ciclo de sempre. Chega um novo treinador, e, durante três ou quatro jogos, vemos um 'novo Rashford', até que escorrega de volta aos vícios e à forma antiga. Depois, começa a perder espaço\", começou por escrever.</p>\n<p>\"Já o vimos na noite de quinta-feira. Foi substituído, contra o Viktoria Plzen, e o treinador do Manchester United, Ruben Amorim, já parece farto dele. Ouçam, eu já passei por isso. Não é bom, quando isso acontece\", prosseguiu.</p>\n<p>\"Amorim resumiu-o perfeitamente, quando chegou, ao dizer que Rashford teria todo o apoio, mas que lhe caberia a ele, enquanto jogador e pessoa. É aí que reside o problema. Ninguém quer que Rashford falhe, mas continua a ficar aquém das expetativas\", rematou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2689764/se-amorim-mantiver-o-plantel-do-manchester-united-vai-ser-despedido\" target=\"_blank\" rel=\"noopener noreferrer\">\"Se Amorim mantiver o plantel do Manchester United vai ser despedido\"</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2688275/selena-gomez-e-benny-blanco-a-historia-de-amor-que-levou-ao-noivado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Selena Gomez e Benny Blanco. A história de amor que levou ao noivado",
@@ -146,7 +169,7 @@
       {
          "id": "https://www.noticiasaominuto.com/mundo/2689780/parlamento-sul-coreano-aprova-destituicao-do-presidente-yoon-suk-yeol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Parlamento sul-coreano aprova destituição do presidente Yoon Suk-yeol",
-         "description": "O presidente sul coreano não sairá imediatamente do cargo, uma vez que há ainda um longo processo após o 'impeachment'.",
+         "description": "O presidente sul-coreano não sairá imediatamente do cargo, uma vez que há ainda um longo processo após o 'impeachment'.",
          "link": "https://www.noticiasaominuto.com/mundo/2689780/parlamento-sul-coreano-aprova-destituicao-do-presidente-yoon-suk-yeol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Um apostador em Portugal arrecadou esta semana um segundo prémio do Euromilhões, desta vez no valor de <span class=\"news_bold\">880.350 euros.</span></p>\n<div class=\"dummyPub\"> </div>\n<p>O 'presente' acontece dias depois de, na terça-feira, um outro apostador no país ter arrecadado cerca de meio milhão.</p>\n<p>Ninguém acertou, no entanto, na chave completa desta sexta-feira, aumentando assim o valor do 'jackpot' para o próximo sorteio para 74 milhões de euros.</p>\n<p>Por cá, houve ainda um apostador que ficou com um dos nove terceiros prémios, ganhando também quase 23 mil euros.</p>\n<p>Recorde-se que, em Portugal, os prémios atribuídos de valor superior a 5.000,00 euros estão sujeitos a imposto do selo, à taxa legal de 20%, nos termos da legislação em vigor.</p>\n<p>Pode ver aqui a chave vencedora <a href=\"https://www.noticiasaominuto.com/pais/2689624/sexta-feira-13-traz-boas-noticias-a-carteira-a-chave-do-euromilhoes\">desta sexta-feira.</a></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2689377/2-premio-do-euromilhoes-onde-foi-registada-aposta-que-vale-500-mil-\" target=\"_blank\" rel=\"noopener noreferrer\">2.º prémio do Euromilhões. Onde foi registada aposta que vale 554 mil €?</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2689656/novo-clube-em-breve-pogba-deixa-mensagem-enigmatica-nas-redes-sociais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Novo clube em breve? Pogba deixa mensagem enigmática nas redes sociais",
-         "description": "Médio francês está sem clube depois de ter rescindido com a Juventus.",
-         "link": "https://www.noticiasaominuto.com/desporto/2689656/novo-clube-em-breve-pogba-deixa-mensagem-enigmatica-nas-redes-sociais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1734124674000,
-         "created": 1734124674000,
-         "category": "Desporto",
-         "content": "<p>Ainda não se sabe em que clube jogará Paul Pogba em março, altura em que já poderá regressar aos relvados depois da suspensão de que foi alvo, mas é possível que não seja preciso esperar muito mais tempo.</p>\n<div class=\"dummyPub\"> </div>\n<p>É isso que os adeptos estão a concluir a partir de uma nova publicação feita pelo médio nas stories do Instagram, na qual foram deixados os emojis de uma ampulheta, de uma boca fechada e de um piscar de olho.</p>\n<p>Vale lembrar que, nas últimas semanas, vieram a público várias figuras do Marseille dizer que gostariam de ver Pogba no clube, como foi o caso de Patrice Evra e Adrien Rabiot.</p>\n<p>O médio, atualmente com 31 anos, rescindiu contrato com a Juventus e está agora livre para assinar com qualquer clube a custo zero.</p>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Veja, abaixo, a publicação enigmática de Pogba.</span></span></p>\n<p><span class=\"news_underline\"><span class=\"news_bold\"> <span style=\"text-align: center; margin: 0 auto; display: block;\"> <img src=\"https://media-manager.noticiasaominuto.com/gallery/1920/naom_675ca42a1e9c9.jpg\" border=\"0\" alt=\"Notícias ao Minuto\" width=\"604\" height=\"954\"><span style=\"font-family: Roboto, sans-serif; font-size: 14px; text-align: justify;\">]</span></span><span style=\"font-family: Roboto,sans-serif; font-weight: 100; font-size: 12px; line-height: 12px; max-width: 600px; margin: 0 auto; display: block;\">© Instagram/Paul Pogba</span><br></span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2686103/e-se-ruben-amorim-abrir-os-bracos-a-pogba-ouvi-rumores\" target=\"_blank\" rel=\"noopener noreferrer\">E se Ruben Amorim 'abrir os braços' a Pogba? \"Ouvi rumores...\"</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_675ca40ee692b.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Ainda não se sabe em que clube jogará Paul Pogba em março, altura em que já poderá regressar aos relvados depois da suspensão de que foi alvo, mas é possível que não seja preciso esperar muito mais tempo.</p>\n<div class=\"dummyPub\"> </div>\n<p>É isso que os adeptos estão a concluir a partir de uma nova publicação feita pelo médio nas stories do Instagram, na qual foram deixados os emojis de uma ampulheta, de uma boca fechada e de um piscar de olho.</p>\n<p>Vale lembrar que, nas últimas semanas, vieram a público várias figuras do Marseille dizer que gostariam de ver Pogba no clube, como foi o caso de Patrice Evra e Adrien Rabiot.</p>\n<p>O médio, atualmente com 31 anos, rescindiu contrato com a Juventus e está agora livre para assinar com qualquer clube a custo zero.</p>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Veja, abaixo, a publicação enigmática de Pogba.</span></span></p>\n<p><span class=\"news_underline\"><span class=\"news_bold\"> <span style=\"text-align: center; margin: 0 auto; display: block;\"> <img src=\"https://media-manager.noticiasaominuto.com/gallery/1920/naom_675ca42a1e9c9.jpg\" border=\"0\" alt=\"Notícias ao Minuto\" width=\"604\" height=\"954\"><span style=\"font-family: Roboto, sans-serif; font-size: 14px; text-align: justify;\">]</span></span><span style=\"font-family: Roboto,sans-serif; font-weight: 100; font-size: 12px; line-height: 12px; max-width: 600px; margin: 0 auto; display: block;\">© Instagram/Paul Pogba</span><br></span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2686103/e-se-ruben-amorim-abrir-os-bracos-a-pogba-ouvi-rumores\" target=\"_blank\" rel=\"noopener noreferrer\">E se Ruben Amorim 'abrir os braços' a Pogba? \"Ouvi rumores...\"</a></p>",
          "media": {}
       }
    ]
