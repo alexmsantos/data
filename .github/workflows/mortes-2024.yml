@@ -21,5 +21,6 @@ jobs:
         git diff
         git config user.name "Automated"
         git config user.email "---"
+        git pull
         git diff --quiet || (git add -A && git commit -m "Updated Mortes 2024")
         git push
