@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2692540/siria-unicef-pede-plano-para-ajudar-mais-de-7-5-milhoes-de-criancas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Síria. UNICEF pede plano para ajudar mais de 7,5 milhões de crianças",
+         "description": "O diretor da UNICEF para o Médio Oriente avisou hoje que há 7,5 milhões de crianças na Síria a precisar de ajuda humanitária, apelando à criação de um plano de grande escala para proteger os menores do país.",
+         "link": "https://www.noticiasaominuto.com/mundo/2692540/siria-unicef-pede-plano-para-ajudar-mais-de-7-5-milhoes-de-criancas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1734535767000,
+         "created": 1734535767000,
+         "category": "Mundo",
+         "content": "<p>Edouard Beigbeder, que percorreu algumas das principais cidades da Síria nos últimos dias, sublinhou que qualquer \"transição política credível e inclusiva\" deve incluir os direitos de 10 milhões de crianças entre as suas prioridades.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Ao viajar pela Síria, vi que a magnitude das necessidades da população é esmagadora\", resumiu numa mensagem em que lançou um apelo a favor de \"um plano de proteção de grande escala\" a criar em conjunto pelas novas autoridades e pela comunidade internacional.</p>\n<p>O Fundo das Nações Unidas para a Infância (UNICEF) considera que a queda do regime do ex-Presidente Bashar al-Assad dá à Síria um \"futuro de esperança\" e \"de oportunidades\" a milhões de crianças que \"não conheceram nada além do conflito desencadeado há quase 14 anos\", mas, alertou o diretor, ficam \"imensos desafios\" por enfrentar.</p>\n<p>A retoma dos serviços essenciais, incluindo a educação, o respeito pelo Direito Internacional em todas as circunstâncias, são algumas das exigências que a UNICEF apresentou no âmbito do fim da guerra.</p>\n<p>\"A paz deve prevalecer para as crianças da Síria\", enfatizou Edouard Beigbeder.</p>\n<p>A agência das Nações Unidas, que, este ano, ajudou 4,6 milhões de pessoas na Síria, destacou 185 equipas médicas móveis após a última ofensiva rebelde, criou 12 escolas pré-fabricadas e garantiu o acesso a água potável a mais de três milhões de pessoas, referiu, admitindo esperar que, com estas medidas, o país possa \"começar a avançar para uma paz duradoura\".</p>\n<p>\"Espero sinceramente que estes esforços se concretizem e que 2025 seja finalmente um ano de paz para as crianças da Síria\", concluiu.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2692223/ue-deve-reconsiderar-sancoes-setoriais-para-reconstrucao-da-siria\" target=\"_blank\" rel=\"noopener noreferrer\">UE deve reconsiderar sanções setoriais para reconstrução da Síria</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63e24bb3bff47.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Edouard Beigbeder, que percorreu algumas das principais cidades da Síria nos últimos dias, sublinhou que qualquer \"transição política credível e inclusiva\" deve incluir os direitos de 10 milhões de crianças entre as suas prioridades.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Ao viajar pela Síria, vi que a magnitude das necessidades da população é esmagadora\", resumiu numa mensagem em que lançou um apelo a favor de \"um plano de proteção de grande escala\" a criar em conjunto pelas novas autoridades e pela comunidade internacional.</p>\n<p>O Fundo das Nações Unidas para a Infância (UNICEF) considera que a queda do regime do ex-Presidente Bashar al-Assad dá à Síria um \"futuro de esperança\" e \"de oportunidades\" a milhões de crianças que \"não conheceram nada além do conflito desencadeado há quase 14 anos\", mas, alertou o diretor, ficam \"imensos desafios\" por enfrentar.</p>\n<p>A retoma dos serviços essenciais, incluindo a educação, o respeito pelo Direito Internacional em todas as circunstâncias, são algumas das exigências que a UNICEF apresentou no âmbito do fim da guerra.</p>\n<p>\"A paz deve prevalecer para as crianças da Síria\", enfatizou Edouard Beigbeder.</p>\n<p>A agência das Nações Unidas, que, este ano, ajudou 4,6 milhões de pessoas na Síria, destacou 185 equipas médicas móveis após a última ofensiva rebelde, criou 12 escolas pré-fabricadas e garantiu o acesso a água potável a mais de três milhões de pessoas, referiu, admitindo esperar que, com estas medidas, o país possa \"começar a avançar para uma paz duradoura\".</p>\n<p>\"Espero sinceramente que estes esforços se concretizem e que 2025 seja finalmente um ano de paz para as crianças da Síria\", concluiu.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2692223/ue-deve-reconsiderar-sancoes-setoriais-para-reconstrucao-da-siria\" target=\"_blank\" rel=\"noopener noreferrer\">UE deve reconsiderar sanções setoriais para reconstrução da Síria</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2692532/santa-casa-vai-propor-fim-da-internacionalizacao-dos-jogos-sociais-ao-governo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Santa Casa vai propor fim da internacionalização dos jogos sociais ao Governo",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Um corpo foi encontrado, esta manhã, na praia da Aguda, em Vila Nova de Gaia, confirmou fonte dos bombeiros ao Notícias Ao Minuto. </p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo se conseguiu apurar, o corpo pertencerá a um homem. </p>\n<p>O corpo foi encontrado em \"avançado estado de decomposição\", disse à Lusa o comandante da Capitania do Porto do Douro e Leixões.</p>\n<p>Silva Lampreia referiu que, dado o estado de decomposição, não foi possível aferir a idade da vítima, que foi encontrada na areia.</p>\n<p>\"A Polícia Marítima deslocou-se ao local, tendo chamado os Bombeiros da Aguda e dos Sapadores de Vila Nova de Gaia, além da PJ, para averiguações\", acrescentou.</p>\n<p>O corpo já foi transportado para o Instituto de Medicina Legal do Porto.</p>\n<p>[Notícia atualizada às 12h51]</p>\n<p> </p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2692344/julio-mendes-avanca-com-candidatura-a-presidencia-da-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Júlio Mendes avança com candidatura à presidência da Liga",
-         "description": "Ex-líder máximo do Vitória SC está a ser pressionado para se apresentar como alternativa à sucessão de Pedro Proença.",
-         "link": "https://www.noticiasaominuto.com/desporto/2692344/julio-mendes-avanca-com-candidatura-a-presidencia-da-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1734523907000,
-         "created": 1734523907000,
-         "category": "Desporto",
-         "content": "<p>Júlio Mendes está a preparar-se para avançar com uma candidatura à presidência da Liga Portugal, num momento em que Pedro Proença cumpre o terceiro e último mandato do cargo e se prepara para 'correr' pela direção da Federação Portuguesa de Futebol.</p>\n<div class=\"dummyPub\"> </div>\n<p>O <span class=\"news_bold\">Desporto ao Minuto</span> sabe que, tal como foi noticiado pelo jornal Record, o antigo líder máximo do Vitória SC tem vindo a ser abordado por diversos clubes, que permanecem apreensivos quanto ao perfil dos potenciais candidatos, por considerarem que lhes falta experiência e conhecimento dos problemas do futebol nacional.</p>\n<p>Vários emblemas temem não ver os respetivos interesses devidamente representados junto do organismo, e reconhecem no ex-dirigente capacidade e coragem para para levar a cabo as reformas que entendem ser imperativas.</p>\n<p>Júlio Mendes, recorde-se, ocupou a presidência do Vitória SC, entre 2012 e 2019, período durante o qual o clube conquistou uma Taça de Portugal e duas qualificações para as competições europeias. Pelo meio, em 2015/16, pertenceu à direção da Liga Portugal.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2691744/figuras-do-futebol-e-politica-apelam-a-candidatura-de-pedro-proenca-a-fpf\" target=\"_blank\" rel=\"noopener noreferrer\">Figuras do futebol e política apelam à candidatura de Pedro Proença à FPF</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5427cf16cfd8e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Júlio Mendes está a preparar-se para avançar com uma candidatura à presidência da Liga Portugal, num momento em que Pedro Proença cumpre o terceiro e último mandato do cargo e se prepara para 'correr' pela direção da Federação Portuguesa de Futebol.</p>\n<div class=\"dummyPub\"> </div>\n<p>O <span class=\"news_bold\">Desporto ao Minuto</span> sabe que, tal como foi noticiado pelo jornal Record, o antigo líder máximo do Vitória SC tem vindo a ser abordado por diversos clubes, que permanecem apreensivos quanto ao perfil dos potenciais candidatos, por considerarem que lhes falta experiência e conhecimento dos problemas do futebol nacional.</p>\n<p>Vários emblemas temem não ver os respetivos interesses devidamente representados junto do organismo, e reconhecem no ex-dirigente capacidade e coragem para para levar a cabo as reformas que entendem ser imperativas.</p>\n<p>Júlio Mendes, recorde-se, ocupou a presidência do Vitória SC, entre 2012 e 2019, período durante o qual o clube conquistou uma Taça de Portugal e duas qualificações para as competições europeias. Pelo meio, em 2015/16, pertenceu à direção da Liga Portugal.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2691744/figuras-do-futebol-e-politica-apelam-a-candidatura-de-pedro-proenca-a-fpf\" target=\"_blank\" rel=\"noopener noreferrer\">Figuras do futebol e política apelam à candidatura de Pedro Proença à FPF</a></p>",
          "media": {}
       }
    ]
