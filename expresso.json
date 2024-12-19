@@ -14,8 +14,25 @@
          "published": 1734607076000,
          "created": 1734607076000,
          "category": "Mais Europa",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-12-11-video.0000000.jpg-f5f4ca0e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-12-11-video.0000000.jpg-f5f4ca0e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-12-11-video.0000000.jpg-f5f4ca0e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b74277d9-ffcb-41e2-8741-0132294b5528",
