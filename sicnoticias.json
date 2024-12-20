@@ -95,7 +95,7 @@
       {
          "id": "8b3498fa-55a3-42f4-ba32-273f398c69fd",
          "title": "Ataque na Alemanha: Condutor detido, recinto do mercado de Natal cercado pela polícia",
-         "description": "<p><span>Um carro atropelou uma multidão de pessoas que se encontravam num mercado de Natal, na Alemanha. De acordo com o jornal alemão Bild, o atropelamento terá resultado em vários feridos e o condutor foi detido. Pelo menos uma pessoa terá morrido e entre 60 a 80 ficaram feridas, segundo as autoridades locais.</span></p>",
+         "description": "<p><span>Um carro atropelou uma multidão de pessoas que se encontrava o interior do recinto de um mercado de Natal, na Alemanha. De acordo com o jornal alemão Bild, o condutor foi detido. Pelo menos uma pessoa terá morrido e entre 60 a 80 ficaram feridas, segundo as autoridades locais. </span></p>",
          "link": "https://sicnoticias.pt/mundo/2024-12-20-condutor-atropela-multidao-junto-a-mercado-de-natal-na-alemanha-88d5c9e9",
          "author": "Mariana Jerónimo",
          "published": 1734722573000,
@@ -155,7 +155,10 @@
          "title": "Matteo Salvini absolvido em caso de sequestro de migrantes",
          "description": "Acusação pedia seis anos de prisão para o vice-presidente do Governo italiano, liderado por Giorgia Meloni. Caso ocorreu em agosto de 2019.",
          "link": "https://sicnoticias.pt/mundo/2024-12-20-matteo-salvini-absolvido-em-caso-de-sequestro-de-migrantes-ab793303",
-         "author": "SIC Notícias",
+         "author": [
+            "Lusa",
+            "SIC Notícias"
+         ],
          "published": 1734721700000,
          "created": 1734721700000,
          "category": "Mundo",
