@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2694853/desacatos-de-sabado-em-sintra-envolveram-membros-de-claque-benfiquista?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Desacatos de sábado em Sintra envolveram membros de claque benfiquista",
+         "description": "A PSP está a tentar identificar os elementos da claque benfiquista No Name Boys que no sábado à noite deflagraram engenhos pirotécnicos num restaurante em Sintra, uma ocorrência que resultou em ferimentos num polícia, foi hoje anunciado.",
+         "link": "https://www.noticiasaominuto.com/pais/2694853/desacatos-de-sabado-em-sintra-envolveram-membros-de-claque-benfiquista?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1734856376000,
+         "created": 1734856376000,
+         "category": "País",
+         "content": "<p>\"Ao que foi possível apurar, os indivíduos eram adeptos do Sport Lisboa e Benfica, em concreto do grupo organizado de adeptos No Name Boys\", lê-se num comunicado hoje divulgado pelo Comando Metropolitano de Lisboa da PSP.</p>\n<div class=\"dummyPub\"> </div>\n<p>A polícia confirma que um polícia sofreu ferimentos ligeiros numa mão após a PSP ser acionada, pelas 22:50, para o restaurante Wok City, em Agualva-Cacém, Sintra, onde cerca de 500 membros da claque do Benfica estariam a \"deflagrar engenhos pirotécnicos no interior do estabelecimento\".</p>\n<p>\"Ao chegar ao local, a PSP foi recebida com o arremesso de garrafas, copos de vidro em engenhos pirotécnicos em estado de combustão, por parte deste grupo de adeptos, havendo a necessidade de reposição da ordem pública\", lê-se no comunicado.</p>\n<p>Segundo disse à Lusa fonte da PSP, foi nessa altura que um polícia ficou ferido.</p>\n<p>Os indivíduos acabaram por dispersar do local, mas momentos mais tarde voltaram a deflagrar engenhos pirotécnicos junto de uma zona de mato próxima, colocando-se novamente em fuga.</p>\n<p>\"A PSP está a desenvolver diligencias de investigação criminal para chegar à identificação dos autores\", diz a PSP no comunicado de hoje.</p>\n<p>Fonte da PSP disse no sábado à noite à Lusa que no local estiveram 45 agentes daquela força policial.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2694815/policia-ferido-em-sintra-apos-claque-deflagrar-engenhos-pirotecnicos\" target=\"_blank\" rel=\"noopener noreferrer\">Polícia ferido em Sintra após claque deflagrar engenhos pirotécnicos</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_62f2d72a9f8c9.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>\"Ao que foi possível apurar, os indivíduos eram adeptos do Sport Lisboa e Benfica, em concreto do grupo organizado de adeptos No Name Boys\", lê-se num comunicado hoje divulgado pelo Comando Metropolitano de Lisboa da PSP.</p>\n<div class=\"dummyPub\"> </div>\n<p>A polícia confirma que um polícia sofreu ferimentos ligeiros numa mão após a PSP ser acionada, pelas 22:50, para o restaurante Wok City, em Agualva-Cacém, Sintra, onde cerca de 500 membros da claque do Benfica estariam a \"deflagrar engenhos pirotécnicos no interior do estabelecimento\".</p>\n<p>\"Ao chegar ao local, a PSP foi recebida com o arremesso de garrafas, copos de vidro em engenhos pirotécnicos em estado de combustão, por parte deste grupo de adeptos, havendo a necessidade de reposição da ordem pública\", lê-se no comunicado.</p>\n<p>Segundo disse à Lusa fonte da PSP, foi nessa altura que um polícia ficou ferido.</p>\n<p>Os indivíduos acabaram por dispersar do local, mas momentos mais tarde voltaram a deflagrar engenhos pirotécnicos junto de uma zona de mato próxima, colocando-se novamente em fuga.</p>\n<p>\"A PSP está a desenvolver diligencias de investigação criminal para chegar à identificação dos autores\", diz a PSP no comunicado de hoje.</p>\n<p>Fonte da PSP disse no sábado à noite à Lusa que no local estiveram 45 agentes daquela força policial.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2694815/policia-ferido-em-sintra-apos-claque-deflagrar-engenhos-pirotecnicos\" target=\"_blank\" rel=\"noopener noreferrer\">Polícia ferido em Sintra após claque deflagrar engenhos pirotécnicos</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2670708/leonor-seixas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"O Natal é uma desculpa ótima para juntar as pessoas, se quisermos\"",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Em comunicado hoje divulgado, Carlos Moedas lamenta \"a triste notícia da morte\" de Pedro Sobral, vítima de atropelamento esta manhã, em Lisboa.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"O acidente que vitimou hoje Pedro Sobral deixa-nos a todos em choque e com uma profunda tristeza. Era muito jovem, dinâmico e empreendedor, mas sobretudo um amigo que não esquecerei. Dedicava-se profundamente a aumentar os públicos e o prazer e os hábitos de leitura. Apresentou-nos uma nova forma de trabalhar o setor e, com base em estudos e abordagens inovadoras, desenhava uma estratégia assente no trabalho em conjunto para criar mudanças significativas e estruturais no setor do livro\", lê-se no comunicado.</p>\n<p>Na nota divulgada, a autarquia recorda ainda que, com a Câmara, \"trabalhava de forma muito próxima na organização da Feira do Livro de Lisboa\", realizada em conjunto pela APEL e pelo município.</p>\n<p>Pedro Sobral morreu hoje, aos 51 anos, na sequência de um atropelamento na Avenida da Índia, Lisboa, onde circulava de bicicleta.</p>\n<p>Pedro Sobral era licenciado em Economia e em Ciência Política pela Universidade Católica de Lisboa, tendo frequentado o Programa de Gestão Geral na Harvard Business School, nos Estados Unidos.</p>\n<p>Com um percurso inicial na área financeira e de consultoria, foi nomeado, em 2004, diretor de Marketing e Vendas no Grupo Almedina.</p>\n<p>Em 2008, entrou no Grupo LEYA, como diretor de Marketing e Conteúdo Digital, mais tarde como coordenador da Divisão Editorial e, por fim, administrador das Edições Gerais do grupo.</p>\n<p>Administrador das Edições Gerais do Grupo LeYa, Pedro Sobral foi nomeado em 2021 presidente da APEL, cargo que ocupava até ao presente, depois de três anos como vice-presidente.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/cultura/2694658/apel-lamenta-morte-de-pedro-sobral-e-destaca-o-seu-papel-no-setor\" target=\"_blank\" rel=\"noopener noreferrer\">APEL lamenta morte de Pedro Sobral e destaca o seu papel no setor</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2694719/movimento-no-aeroporto-da-madeira-condicionado-devido-ao-mau-tempo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Movimento no Aeroporto da Madeira condicionado devido ao mau tempo",
-         "description": "Vinte e sete voos foram hoje cancelados no Aeroporto Internacional da Madeira, que está condicionado devido ao vento forte, de acordo com a página da ANA -- Aeroportos de Portugal.",
-         "link": "https://www.noticiasaominuto.com/pais/2694719/movimento-no-aeroporto-da-madeira-condicionado-devido-ao-mau-tempo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1734806589000,
-         "created": 1734806589000,
-         "category": "País",
-         "content": "<p>Segundo o 'site' da ANA, consultado pela agência Lusa cerca das 18h30, foram até agora canceladas 13 chegadas e 14 partidas, sobretudo voos programados para a tarde e noite de hoje.</p>\n<div class=\"dummyPub\"> </div>\n<p>A ANA alerta que \"as condições meteorológicas adversas podem condicionar a operação\" do aeroporto e aconselha os viajantes a consultarem o estado do seu voo antes de se dirigirem para o aeroporto.</p>\n<p>A Capitania do Funchal voltou a prolongar, entretanto, os avisos de vento e de agitação marítima forte na Madeira, até às 18h00 de domingo, aconselhando a comunidade e a população em geral a adotar as devidas precauções de segurança.</p>\n<p>O navio Lobo Marinho, que faz a ligação marítima entre as ilhas da Madeira e do Porto Santo, também cancelou as viagens previstas para hoje e domingo, devido à agitação marítima prevista.</p>\n<p>O Instituto Português do Mar e da Atmosfera (IPMA) colocou todo o arquipélago da Madeira sob aviso amarelo devido ao vento forte até segunda-feira.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2694493/madeira-pressao-para-eleicoes-rapidas-reduz-margem-para-diretas-no-psd\" target=\"_blank\" rel=\"noopener noreferrer\">Madeira. Pressão para eleições 'rápidas' reduz margem para diretas no PSD</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_621360a5421d7.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Segundo o 'site' da ANA, consultado pela agência Lusa cerca das 18h30, foram até agora canceladas 13 chegadas e 14 partidas, sobretudo voos programados para a tarde e noite de hoje.</p>\n<div class=\"dummyPub\"> </div>\n<p>A ANA alerta que \"as condições meteorológicas adversas podem condicionar a operação\" do aeroporto e aconselha os viajantes a consultarem o estado do seu voo antes de se dirigirem para o aeroporto.</p>\n<p>A Capitania do Funchal voltou a prolongar, entretanto, os avisos de vento e de agitação marítima forte na Madeira, até às 18h00 de domingo, aconselhando a comunidade e a população em geral a adotar as devidas precauções de segurança.</p>\n<p>O navio Lobo Marinho, que faz a ligação marítima entre as ilhas da Madeira e do Porto Santo, também cancelou as viagens previstas para hoje e domingo, devido à agitação marítima prevista.</p>\n<p>O Instituto Português do Mar e da Atmosfera (IPMA) colocou todo o arquipélago da Madeira sob aviso amarelo devido ao vento forte até segunda-feira.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2694493/madeira-pressao-para-eleicoes-rapidas-reduz-margem-para-diretas-no-psd\" target=\"_blank\" rel=\"noopener noreferrer\">Madeira. Pressão para eleições 'rápidas' reduz margem para diretas no PSD</a></p>",
          "media": {}
       }
    ]
