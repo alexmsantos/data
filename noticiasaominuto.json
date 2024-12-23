@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2695186/neville-pede-revolucao-a-amorim-serao-6-meses-de-desfile-de-horrores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Neville pede \"revolução\" a Amorim: \"Serão 6 meses de desfile de horrores\"",
+         "description": "Ex-capitão do Manchester United assume que a derrota perante o Bournemouth pode ser... \"positiva\".",
+         "link": "https://www.noticiasaominuto.com/desporto/2695186/neville-pede-revolucao-a-amorim-serao-6-meses-de-desfile-de-horrores?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1734936928000,
+         "created": 1734936928000,
+         "category": "Desporto",
+         "content": "<p>Gary Neville não escondeu, este domingo, a desilusão para com a pesada derrota sofrida pelo 'seu' Manchester United, em pleno Old Trafford, perante o Bournemouth, por 0-3, que atirou com a equipa para a metade inferior da tabela da Premier League.</p>\n<div class=\"dummyPub\"> </div>\n<p>Em declarações prestadas à estação televisiva britânica Sky Sports, após o apito final, o antigo internacional inglês apontou, sobretudo, o dedo aos jogadores dos red devils, e concluiu que este era o sinal que faltava de que Ruben Amorim não terá alternativa a não ser levar a cabo uma 'limpeza'.</p>\n<p>\"Penso que é um enorme ponto positivo o facto de Ruben Amorim estar a ver o que tem. No passado, houve vezes em que podias ser enganado ao ponto de pensares que tens um melhor grupo de jogadores, devido a resultados decentes e a subires no campeonato\", começou por afirmar.</p>\n<p>\"Não haverá muitos para os quais ele olha e pensa 'Sim, quero-te no autocarro'. Todos eles são muito medíocres, e não sei como é que isto aconteceu. São melhores do que aquilo que estão a demonstrar, sejamos claros, mas há um padrão\", prosseguiu.</p>\n<p>\"Ele tem seis meses de um desfile de beleza, se quiserem dizer assim, que é mais um desfile de horrores. Ele está a ver o que os adeptos do Manchester United viram, ao longo de dez anos. Tem de haver uma revolução cultural\", rematou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2694995/cereja-engasga-amorim-e-manchester-united-passa-natal-no-hospital\" target=\"_blank\" rel=\"noopener noreferrer\">'Cereja' engasga Amorim e Manchester United passa Natal no 'hospital'</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6754de175f41b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Gary Neville não escondeu, este domingo, a desilusão para com a pesada derrota sofrida pelo 'seu' Manchester United, em pleno Old Trafford, perante o Bournemouth, por 0-3, que atirou com a equipa para a metade inferior da tabela da Premier League.</p>\n<div class=\"dummyPub\"> </div>\n<p>Em declarações prestadas à estação televisiva britânica Sky Sports, após o apito final, o antigo internacional inglês apontou, sobretudo, o dedo aos jogadores dos red devils, e concluiu que este era o sinal que faltava de que Ruben Amorim não terá alternativa a não ser levar a cabo uma 'limpeza'.</p>\n<p>\"Penso que é um enorme ponto positivo o facto de Ruben Amorim estar a ver o que tem. No passado, houve vezes em que podias ser enganado ao ponto de pensares que tens um melhor grupo de jogadores, devido a resultados decentes e a subires no campeonato\", começou por afirmar.</p>\n<p>\"Não haverá muitos para os quais ele olha e pensa 'Sim, quero-te no autocarro'. Todos eles são muito medíocres, e não sei como é que isto aconteceu. São melhores do que aquilo que estão a demonstrar, sejamos claros, mas há um padrão\", prosseguiu.</p>\n<p>\"Ele tem seis meses de um desfile de beleza, se quiserem dizer assim, que é mais um desfile de horrores. Ele está a ver o que os adeptos do Manchester United viram, ao longo de dez anos. Tem de haver uma revolução cultural\", rematou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2694995/cereja-engasga-amorim-e-manchester-united-passa-natal-no-hospital\" target=\"_blank\" rel=\"noopener noreferrer\">'Cereja' engasga Amorim e Manchester United passa Natal no 'hospital'</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2695181/australia-extradita-fuzileiro-naval-dos-eua-por-treinar-pilotos-chineses?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Austrália extradita fuzileiro naval dos EUA por treinar pilotos chineses",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Os equipamentos de Lisboa vão estar com horários ajustados durante o período de Natal e Ano Novo, tendo em conta o despacho de Tolerância de Ponto que foi emitido pelo munícipio lisboeta no dia 17 de dezembro. </p>\n<div class=\"dummyPub\"> </div>\n<p>A informação, que se encontra disponível no <a href=\"https://informacao.lisboa.pt/noticias/detalhe/equipamentos-de-lisboa-com-horarios-ajustados-durante-as-festividades?fbclid=IwY2xjawHTtGhleHRuA2FlbQIxMAABHc4bQzgpKfBVsFsZ7tpE1w5kW7Hg4_edGuOBHijRsUltSGouzHKhgRms9g_aem_2SjhuDpQpHDLgnX5GBgf1A\">site da Câmara Municipal de Lisboa</a>, informa que haverá alguns locais do munícipio com horários reajustados durante a semana que compreende o Natal e o Ano Novo.</p>\n<p>Assim sendo, pode ler-se que a Estufa Fria de Lisboa, assim como o Centro de Interpretação de Monsanto vão estar encerrados nos dias 23, 24, 25, 30 e 31 de dezembro e no dia 1 de janeiro. </p>\n<p>Já o Parque Recreativo do Alvito, o Parque Recreativo da Serafina e o Parque Quinta de Santo António estarão com horários reduzidos: no dia 24 de dezembro e 31 de janeiro vão funcionar até às 13 horas, estando encerrados no dia 25 de dezembro. O mesmo acontece com o Parque Infantil do Jardim da Estrela. </p>\n<p>O Jardim da Cerca da Graça estará aberto até às 18 horas nos dias 24, 25 e 31 de dezembro, assim como no dia 1 de janeiro. Por sua vez, a Tapada das Necessidades permanecerá aberta até às 17 horas nos dias 24, 25 e 31 dezembro e também no primeiro dia de janeiro. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2693618/greve-na-higiene-urbana-em-lisboa-vai-ser-caotico\" target=\"_blank\" rel=\"noopener noreferrer\">Greve na higiene urbana em Lisboa? \"Vai ser caótico\" </a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2694977/tres-coisas-que-pode-e-deve-limpar-com-detergente-da-loica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Três coisas que pode (e deve) limpar com detergente da loiça ",
-         "description": "É um produto mais versátil do que muitos pensam. ",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2694977/tres-coisas-que-pode-e-deve-limpar-com-detergente-da-loica?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1734886878000,
-         "created": 1734886878000,
-         "category": "Lifestyle",
-         "content": "<p>Para limpar a casa não precisa de 'mil e um' produtos. Pode aproveitar os que provavelmente já tem em casa como o detergente da loiça. Sim, leu bem. É um produto que não serve apenas para limpar a loiça. Pode usar nos vidros, nos pincéis de maquilhagem e em muitos eletrodomésticos, afirmam especialistas em limpezas, citados no site de Martha Stewart. </p>\n<div class=\"dummyPub\"> </div>\n<p>Por exemplo, <span class=\"news_bold\">no caso dos pincéis</span>, o detergente ajuda a eliminar o \"óleo acumulado na pele e nos pincéis, sendo ao mesmo tempo seguro para o contacto com a pele\", afirma Sarah McCalllister, a diretora executiva da Go Clean Co.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2693925/tres-coisas-que-pode-limpar-com-pasta-de-dentes-e-nao-sabia\" target=\"_blank\" rel=\"noopener noreferrer\">Três coisas que pode limpar com pasta de dentes (e não sabia)</a></p>\n<p>Quer experimentar? Só tem de colocar uma gota de detergente na palma da mão, explica Morgan Eberhard, cientista sénior da Dawn. Depois \"esfregue os pincéis com água morna da torneira\". Enxague e repita até a água ficar limpa. Depois, esprema \"o excesso de água\" e coloque o pincel em cima de uma toalha para secar. </p>\n<p>Já para os <span class=\"news_bold\">vidros e espelhos</span> pode fazer uma mistura com três litros de álcool; meia chávena de vinagre; meia chávena de álcool isopropílico; e algumas gotas de detergente da loiça. Coloque a mistura num pulverizador  e limpe os vidros com um pano de microfibras. É o conselho de Marla Mock da Molly Maid. </p>\n<p>Também pode usar detergente da loiça para<span class=\"news_bold\"> limpar o liquidificador</span>. Mock aconselha encher metade do liquidificador \"com água morna\" e \"algumas gotas de detergente da loiça\". Depois só tem de ligar o liquidificador na potência máxima, enxaguar e secar\". </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2694397/nao-sabe-como-limpar-o-papel-de-parede-experimente-esta-dica\" target=\"_blank\" rel=\"noopener noreferrer\">Não sabe como limpar o papel de parede? Experimente esta dica</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6768276ad7e97.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Para limpar a casa não precisa de 'mil e um' produtos. Pode aproveitar os que provavelmente já tem em casa como o detergente da loiça. Sim, leu bem. É um produto que não serve apenas para limpar a loiça. Pode usar nos vidros, nos pincéis de maquilhagem e em muitos eletrodomésticos, afirmam especialistas em limpezas, citados no site de Martha Stewart. </p>\n<div class=\"dummyPub\"> </div>\n<p>Por exemplo, <span class=\"news_bold\">no caso dos pincéis</span>, o detergente ajuda a eliminar o \"óleo acumulado na pele e nos pincéis, sendo ao mesmo tempo seguro para o contacto com a pele\", afirma Sarah McCalllister, a diretora executiva da Go Clean Co.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2693925/tres-coisas-que-pode-limpar-com-pasta-de-dentes-e-nao-sabia\" target=\"_blank\" rel=\"noopener noreferrer\">Três coisas que pode limpar com pasta de dentes (e não sabia)</a></p>\n<p>Quer experimentar? Só tem de colocar uma gota de detergente na palma da mão, explica Morgan Eberhard, cientista sénior da Dawn. Depois \"esfregue os pincéis com água morna da torneira\". Enxague e repita até a água ficar limpa. Depois, esprema \"o excesso de água\" e coloque o pincel em cima de uma toalha para secar. </p>\n<p>Já para os <span class=\"news_bold\">vidros e espelhos</span> pode fazer uma mistura com três litros de álcool; meia chávena de vinagre; meia chávena de álcool isopropílico; e algumas gotas de detergente da loiça. Coloque a mistura num pulverizador  e limpe os vidros com um pano de microfibras. É o conselho de Marla Mock da Molly Maid. </p>\n<p>Também pode usar detergente da loiça para<span class=\"news_bold\"> limpar o liquidificador</span>. Mock aconselha encher metade do liquidificador \"com água morna\" e \"algumas gotas de detergente da loiça\". Depois só tem de ligar o liquidificador na potência máxima, enxaguar e secar\". </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2694397/nao-sabe-como-limpar-o-papel-de-parede-experimente-esta-dica\" target=\"_blank\" rel=\"noopener noreferrer\">Não sabe como limpar o papel de parede? Experimente esta dica</a></p>",
          "media": {}
       }
    ]
