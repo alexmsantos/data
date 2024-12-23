@@ -232,7 +232,7 @@ jobs:
     #    include: "digest/latest--observador.json"
     - name: Merge files
       run: |-
-        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--rr.json digest/latest--jornali.json digest/latest--eco.json digest/latest--cm.json digest/latest--cnnportugal.json | jq -r tostring > digest/digestpt.json
+        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--rr.json digest/latest--jornali.json digest/latest--eco.json digest/latest--cnnportugal.json | jq -r tostring > digest/digestpt.json
     - name: Commit and push changes
       run: |-
         git diff
