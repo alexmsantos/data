@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2695842/por-ca-benfica-voa-rumo-ao-topo-e-rui-borges-ao-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Por cá: Benfica \"voa rumo ao topo\"... e Rui Borges ao Sporting",
+         "description": "Percorra a fotogaleria e confira os temas que marcam a imprensa desportiva nacional.",
+         "link": "https://www.noticiasaominuto.com/desporto/2695842/por-ca-benfica-voa-rumo-ao-topo-e-rui-borges-ao-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1735025798000,
+         "created": 1735025798000,
+         "category": "Desporto",
+         "content": "<p>O Benfica vai passar o Natal na liderança isolada da I Liga, graças ao triunfo alcançado sobre o Estoril, por 3-0. Um tema que capta todas as atenções da imprensa desportiva nacional, esta terça-feira, juntamente com a chegada de Rui Borges ao Sporting.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_h3\" style=\"font-size: 1.2em; font-weight: bold; color: #006da6;\">A Bola</span></p>\n<p>\"O homem que se segue - Rui Borges troca Vitória SC pelo Sporting\".</p>\n<p>\"Campeonato pinta-se de vermelho - Águia atinge o objetivo de liderar a Liga no Natal e no domingo há dérbi em Alvalade.</p>\n<p>\"Francisco Moura falha Boavista - FC Porto\".</p>\n<p><span class=\"news_h3\" style=\"font-size: 1.2em; font-weight: bold; color: #006da6;\">O Jogo</span></p>\n<p>\"Voo rumo ao topo - Bis de Amdouni e outro de Pavlidis embalam águias para a liderança isolada\".</p>\n<p>\"Rui Borges é o senhor que se segue - Treinador que ocupa a vaga de João Pereira chega da cidade-berço\".</p>\n<p>\"Samu ao ritmo das lendas - Os 16 remates certeiros em 20 partidas desafiam os melhores registos de Jackson e Falcão\".</p>\n<p><span class=\"news_h3\" style=\"font-size: 1.2em; font-weight: bold; color: #006da6;\">Record</span></p>\n<p>\"Natal vermelho - Triunfo claro e águia lidera isolada antes do dérbi\".</p>\n<p>\"Rui Borges no sapatinho - Varandas deixa cair João Pereira e ataca em Guimarães\".</p>\n<p>\"Moura falha Boavista - Entorse trama lateral\".</p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_676a64524040e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O Benfica vai passar o Natal na liderança isolada da I Liga, graças ao triunfo alcançado sobre o Estoril, por 3-0. Um tema que capta todas as atenções da imprensa desportiva nacional, esta terça-feira, juntamente com a chegada de Rui Borges ao Sporting.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_h3\" style=\"font-size: 1.2em; font-weight: bold; color: #006da6;\">A Bola</span></p>\n<p>\"O homem que se segue - Rui Borges troca Vitória SC pelo Sporting\".</p>\n<p>\"Campeonato pinta-se de vermelho - Águia atinge o objetivo de liderar a Liga no Natal e no domingo há dérbi em Alvalade.</p>\n<p>\"Francisco Moura falha Boavista - FC Porto\".</p>\n<p><span class=\"news_h3\" style=\"font-size: 1.2em; font-weight: bold; color: #006da6;\">O Jogo</span></p>\n<p>\"Voo rumo ao topo - Bis de Amdouni e outro de Pavlidis embalam águias para a liderança isolada\".</p>\n<p>\"Rui Borges é o senhor que se segue - Treinador que ocupa a vaga de João Pereira chega da cidade-berço\".</p>\n<p>\"Samu ao ritmo das lendas - Os 16 remates certeiros em 20 partidas desafiam os melhores registos de Jackson e Falcão\".</p>\n<p><span class=\"news_h3\" style=\"font-size: 1.2em; font-weight: bold; color: #006da6;\">Record</span></p>\n<p>\"Natal vermelho - Triunfo claro e águia lidera isolada antes do dérbi\".</p>\n<p>\"Rui Borges no sapatinho - Varandas deixa cair João Pereira e ataca em Guimarães\".</p>\n<p>\"Moura falha Boavista - Entorse trama lateral\".</p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2695840/chefe-do-gabinete-do-secretario-para-seguranca-de-macau-morre-em-acidente?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Chefe do gabinete do secretário para Segurança de Macau morre em acidente",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>A chave vencedora do sorteio do EuroDreams desta segunda-feira já foi revelada. Será que o Natal vai ser (mais) recheado?</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_highlight news_bold\" style=\"background-color: #fff1aa;\">A chave é composta da seguinte forma:</span></p>\n<p><span class=\"news_highlight news_bold\" style=\"background-color: #fff1aa;\">Números:</span> 2-9-13-16-30-37</p>\n<p><span class=\"news_highlight news_bold\" style=\"background-color: #fff1aa;\">Número de Sonho:</span> 5 </p>\n<p>De recordar que o primeiro prémio do sorteio contempla 20 mil euros por mês, que serão pagos durante 30 anos. Já o segundo prémio são 5 mil euros mensais durante 5 anos.</p>\n<p><span class=\"news_bold\">Nota:</span> A divulgação destes resultados não dispensa a consulta na <a href=\"https://www.jogossantacasa.pt/web/ResultsBoard/EuroDreams\">página oficial dos Jogos da Santa Casa da Misericórdia</a>.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2693562/eurodreams-sonho-continua-em-portugal-os-premios-mais-altos-sao-de-89\" target=\"_blank\" rel=\"noopener noreferrer\">EuroDreams? Sonho continua. Em Portugal, os prémios mais altos são de 89€</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2695687/erdogan-diz-que-integridade-siria-e-linha-intocavel-e-exige-retirada-de-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Erdogan diz que integridade síria é \"linha intocável\" e exige retirada de Israel",
-         "description": "O Presidente turco defendeu hoje que \"a proteção da unidade e da integridade territorial da Síria em todas as circunstâncias é uma linha intocável\" para o seu país e exigiu que Israel se retire das posições que já ocupou.",
-         "link": "https://www.noticiasaominuto.com/mundo/2695687/erdogan-diz-que-integridade-siria-e-linha-intocavel-e-exige-retirada-de-israel?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1734984701000,
-         "created": 1734984701000,
-         "category": "Mundo",
-         "content": "<p>Recep Tayyip Erdogan criticou Israel na semana passada pelos seus planos de duplicar a população que vive na parte ocupada e anexada dos Montes Golã, que considerou uma tentativa de \"expandir as suas fronteiras\" após a queda do regime de Bashar al-Assad na Síria.</p>\n<div class=\"dummyPub\"> </div>\n<p>Israel capturou parte dos Montes Golã, no sudoeste da Síria, durante a guerra israelo-árabe de 1967, antes de anexar o território em 1981.</p>\n<p>Poucas horas depois da queda do Presidente sírio, o primeiro-ministro israelita, Benjamin Netanyahu, ordenou ao Exército que ocupasse a zona tampão, controlada pela ONU, que separa os dois países no planalto dos Golã.</p>\n<p>Israel justificou que a sua presença na região era um \"passo limitado e temporário\" por razões de segurança e que iria acabar por se retirar \"mais tarde ou mais cedo\".</p>\n<p>Erdogan indicou ainda que a Turquia continuará a levar a cabo a sua ofensiva contra as \"organizações terroristas\" no norte da Síria, em operações realizadas com \"precisão cirúrgica, sem causar danos aos civis\".</p>\n<p>Poucos dias antes, um observador tinha dado conta da morte de cinco civis no nordeste da Síria, mortos por um 'drone' turco.</p>\n<p>Dois jornalistas curdos foram mortos em circunstâncias semelhantes, enquanto cobriam confrontos entre combatentes apoiados por Ancara e militares curdos.</p>\n<p>Desde a queda de Bashar al-Assad, em 08 de dezembro, Ancara apoia uma ofensiva de grupos armados contra as forças curdas que controlam a parte do norte da Síria.</p>\n<p>A Turquia vê nas Forças Democráticas Sírias (FDS), grupo liderado pelos curdos e apoiado pelos Estados Unidos, como uma extensão do seu inimigo na região, o PKK.</p>\n<p>Os combatentes pró-turcos turcos insistem que nunca têm civis como alvo, apenas grupos que consideram terroristas.</p>\n<p>\"O PKK e as suas extensões serão dissolvidos ou destruídos. O tempo está a esgotar-se para eles, o fim está próximo. Eles não podem escapar dele\", ameaçou o Presidente turco.</p>\n<p>Os novos confrontos na Síria surgem na sequencia do colapso há duas semanas do regime de Bashar al-Assad, após uma operação relâmpago de uma aliança de rebeldes liderada pela Organização de Libertação do Levante (Hayat Tahrir al-Sham, HTS)</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2695656/siria-cruz-vermelha-e-crescente-vermelho-pedem-138-milhoes-para-ajuda\" target=\"_blank\" rel=\"noopener noreferrer\">Síria. Cruz Vermelha e Crescente Vermelho pedem 138 milhões para ajuda</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44107787.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Recep Tayyip Erdogan criticou Israel na semana passada pelos seus planos de duplicar a população que vive na parte ocupada e anexada dos Montes Golã, que considerou uma tentativa de \"expandir as suas fronteiras\" após a queda do regime de Bashar al-Assad na Síria.</p>\n<div class=\"dummyPub\"> </div>\n<p>Israel capturou parte dos Montes Golã, no sudoeste da Síria, durante a guerra israelo-árabe de 1967, antes de anexar o território em 1981.</p>\n<p>Poucas horas depois da queda do Presidente sírio, o primeiro-ministro israelita, Benjamin Netanyahu, ordenou ao Exército que ocupasse a zona tampão, controlada pela ONU, que separa os dois países no planalto dos Golã.</p>\n<p>Israel justificou que a sua presença na região era um \"passo limitado e temporário\" por razões de segurança e que iria acabar por se retirar \"mais tarde ou mais cedo\".</p>\n<p>Erdogan indicou ainda que a Turquia continuará a levar a cabo a sua ofensiva contra as \"organizações terroristas\" no norte da Síria, em operações realizadas com \"precisão cirúrgica, sem causar danos aos civis\".</p>\n<p>Poucos dias antes, um observador tinha dado conta da morte de cinco civis no nordeste da Síria, mortos por um 'drone' turco.</p>\n<p>Dois jornalistas curdos foram mortos em circunstâncias semelhantes, enquanto cobriam confrontos entre combatentes apoiados por Ancara e militares curdos.</p>\n<p>Desde a queda de Bashar al-Assad, em 08 de dezembro, Ancara apoia uma ofensiva de grupos armados contra as forças curdas que controlam a parte do norte da Síria.</p>\n<p>A Turquia vê nas Forças Democráticas Sírias (FDS), grupo liderado pelos curdos e apoiado pelos Estados Unidos, como uma extensão do seu inimigo na região, o PKK.</p>\n<p>Os combatentes pró-turcos turcos insistem que nunca têm civis como alvo, apenas grupos que consideram terroristas.</p>\n<p>\"O PKK e as suas extensões serão dissolvidos ou destruídos. O tempo está a esgotar-se para eles, o fim está próximo. Eles não podem escapar dele\", ameaçou o Presidente turco.</p>\n<p>Os novos confrontos na Síria surgem na sequencia do colapso há duas semanas do regime de Bashar al-Assad, após uma operação relâmpago de uma aliança de rebeldes liderada pela Organização de Libertação do Levante (Hayat Tahrir al-Sham, HTS)</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2695656/siria-cruz-vermelha-e-crescente-vermelho-pedem-138-milhoes-para-ajuda\" target=\"_blank\" rel=\"noopener noreferrer\">Síria. Cruz Vermelha e Crescente Vermelho pedem 138 milhões para ajuda</a></p>",
          "media": {}
       }
    ]
