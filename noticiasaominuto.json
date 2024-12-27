@@ -1,13 +1,59 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/pais/2697429/tiroteio-em-centro-comercial-de-viseu-faz-tres-feridos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tiroteio em centro comercial de Viseu faz três feridos",
+         "description": "Três pessoas ficaram feridas, esta sexta-feira, alegadamente, devido a uma agressão com arma de fogo no centro comercial Palácio de Gelo, em Viseu.",
+         "link": "https://www.noticiasaominuto.com/pais/2697429/tiroteio-em-centro-comercial-de-viseu-faz-tres-feridos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1735327409000,
+         "created": 1735327409000,
+         "category": "País",
+         "content": "<p>[Notícia em atualização]</p>\n<div class=\"dummyPub\"> </div>\n<p> </p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>[Notícia em atualização]</p>\n<div class=\"dummyPub\"> </div>\n<p> </p>",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2696446/em-direto-manchester-city-everton-abre-o-boxing-day-na-premier-league?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Amorim perde com Vítor Pereira e Liverpool reforça liderança",
+         "description": "Acompanhe, a par e passo, todos os jogos da 18.ª jornada da Premier League.",
+         "link": "https://www.noticiasaominuto.com/desporto/2696446/em-direto-manchester-city-everton-abre-o-boxing-day-na-premier-league?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1735327378000,
+         "created": 1735327378000,
+         "category": "Desporto",
+         "content": "<p>Chegou, por fim, aquele que é um dos momentos mais aguardados por todos os adeptos, não só do futebol inglês, como do futebol mundial. Falamos, claro está, do Boxing Day, que marcará o início da 18.ª jornada da Premier League.</p>\n<div class=\"dummyPub\"> </div>\n<p>A bola começa a rolar no Etihad, às 12h30 (hora de Portugal Continental), com o Manchester City-Everton, que se seguirá do Newcastle-Aston Villa, do Nottingham Forest-Tottenham, do Southampton-West Ham, do Chelsea-Fulham e do Bourmemouth-Crystal Palace, todos eles às 15h00.</p>\n<p>Às 17h30, joga-se o Wolverhampton-Manchester United, e, às 20h00, o Liverpool-Leicester City. Já no domingo, medem forças Brighton e Brentford, pelas 19h30, antes de, às 20h15, Arsenal e Ipswich Town encerrarem a ronda.</p>\n<p>Fique com o <span class=\"news_bold\">Desporto ao Minuto</span> e acompanhe as principais incidências do Boxing Day.</p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_676d9620f01a0.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Chegou, por fim, aquele que é um dos momentos mais aguardados por todos os adeptos, não só do futebol inglês, como do futebol mundial. Falamos, claro está, do Boxing Day, que marcará o início da 18.ª jornada da Premier League.</p>\n<div class=\"dummyPub\"> </div>\n<p>A bola começa a rolar no Etihad, às 12h30 (hora de Portugal Continental), com o Manchester City-Everton, que se seguirá do Newcastle-Aston Villa, do Nottingham Forest-Tottenham, do Southampton-West Ham, do Chelsea-Fulham e do Bourmemouth-Crystal Palace, todos eles às 15h00.</p>\n<p>Às 17h30, joga-se o Wolverhampton-Manchester United, e, às 20h00, o Liverpool-Leicester City. Já no domingo, medem forças Brighton e Brentford, pelas 19h30, antes de, às 20h15, Arsenal e Ipswich Town encerrarem a ronda.</p>\n<p>Fique com o <span class=\"news_bold\">Desporto ao Minuto</span> e acompanhe as principais incidências do Boxing Day.</p>",
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/desporto/2697257/em-direto-ai-esta-a-ultima-jornada-de-2024-na-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Aí está a última jornada de 2024 na I Liga",
+         "title": "EM DIRETO: Os onzes para o arranque da última jornada de 2024 na I Liga",
          "description": "Siga, em direto, o desenrolar da 16.ª jornada da I Liga, a última de 2024.",
          "link": "https://www.noticiasaominuto.com/desporto/2697257/em-direto-ai-esta-a-ultima-jornada-de-2024-na-i-liga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -40,7 +86,7 @@
          "published": 1735327166000,
          "created": 1735327166000,
          "category": "Mundo",
-         "content": "<p>Apesar da guerra, Moscovo continuou a transportar gás através da Ucrânia, ao abrigo de um acordo de vários milhares de milhões de euros, que Kiev anunciou que se recusará a renovar depois de expirar no final do ano.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"A DTEK, a maior empresa privada de energia da Ucrânia, recebeu hoje a sua primeira carga de gás natural liquefeito (GNL) proveniente dos Estados Unidos\", declarou a empresa em comunicado.</p>\n<p>A empresa confirmou à France Presse que este carregamento de cerca de 100 milhões de metros cúbicos de gás foi a primeira entrega americana à Ucrânia, cuja rede energética foi duramente atingida por várias vagas de bombardeamentos russos.</p>\n<p>A DTEK assegurou a entrega do gasoduto depois de o GNL ter sido entregue na sexta-feira num terminal grego de regaseificação no Mediterrâneo.</p>\n<p>\"Cargas como esta não só fornecem à região uma fonte de energia flexível e segura, como também ajudam a diminuir a influência da Rússia no nosso sistema energético\", afirmou o diretor executivo da DTEK, Maxim Timchenko, citado no comunicado.</p>\n<p>Após os ataques russos, a Ucrânia aumentou as suas importações de eletricidade da UE. De acordo com Kiev, a obtenção de fornecimentos diretos de GNL dos EUA ajudará a aliviar a pressão sobre o mercado europeu do gás.</p>\n<p>A União Europeia não conseguiu cortar completamente os seus laços energéticos com Moscovo, embora tenha também aumentado as suas compras de GNL desde a invasão da Ucrânia em 2022.</p>\n<p>Vários responsáveis políticos, incluindo Ursula von der Leyen, presidente da Comissão Europeia, sugeriram o aumento do fornecimento de gás dos EUA para substituir a energia russa, apesar das preocupações com o custo de tais fornecimentos.</p>\n<p>O Presidente eleito dos EUA, Donald Trump, ameaçou a Europa com tarifas se não comprar mais gás americano.</p>\n<p>A dependência do gás proveniente da Rússia deixa a Europa à procura de alternativas energéticas que colmatem esse vazio de fornecimento.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2697411/conflito-na-ucrania-ja-matou-121-jornalistas-e-ativistas\" target=\"_blank\" rel=\"noopener noreferrer\">Conflito na Ucrânia já matou 121 jornalistas e ativistas</a></p>",
+         "content": "<p>Apesar da guerra, Moscovo continuou a transportar gás através da Ucrânia, ao abrigo de um acordo de vários milhares de milhões de euros, que Kyiv anunciou que se recusará a renovar depois de expirar no final do ano.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"A DTEK, a maior empresa privada de energia da Ucrânia, recebeu hoje a sua primeira carga de gás natural liquefeito (GNL) proveniente dos Estados Unidos\", declarou a empresa em comunicado.</p>\n<p>A empresa confirmou à France Presse que este carregamento de cerca de 100 milhões de metros cúbicos de gás foi a primeira entrega americana à Ucrânia, cuja rede energética foi duramente atingida por várias vagas de bombardeamentos russos.</p>\n<p>A DTEK assegurou a entrega do gasoduto depois de o GNL ter sido entregue na sexta-feira num terminal grego de regaseificação no Mediterrâneo.</p>\n<p>\"Cargas como esta não só fornecem à região uma fonte de energia flexível e segura, como também ajudam a diminuir a influência da Rússia no nosso sistema energético\", afirmou o diretor executivo da DTEK, Maxim Timchenko, citado no comunicado.</p>\n<p>Após os ataques russos, a Ucrânia aumentou as suas importações de eletricidade da UE. De acordo com Kyiv, a obtenção de fornecimentos diretos de GNL dos EUA ajudará a aliviar a pressão sobre o mercado europeu do gás.</p>\n<p>A União Europeia não conseguiu cortar completamente os seus laços energéticos com Moscovo, embora tenha também aumentado as suas compras de GNL desde a invasão da Ucrânia em 2022.</p>\n<p>Vários responsáveis políticos, incluindo Ursula von der Leyen, presidente da Comissão Europeia, sugeriram o aumento do fornecimento de gás dos EUA para substituir a energia russa, apesar das preocupações com o custo de tais fornecimentos.</p>\n<p>O Presidente eleito dos EUA, Donald Trump, ameaçou a Europa com tarifas se não comprar mais gás americano.</p>\n<p>A dependência do gás proveniente da Rússia deixa a Europa à procura de alternativas energéticas que colmatem esse vazio de fornecimento.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2697411/conflito-na-ucrania-ja-matou-121-jornalistas-e-ativistas\" target=\"_blank\" rel=\"noopener noreferrer\">Conflito na Ucrânia já matou 121 jornalistas e ativistas</a></p>",
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5f4a3dd192123.jpg",
@@ -48,7 +94,7 @@
                "length": "0"
             }
          ],
-         "content_encoded": "<p>Apesar da guerra, Moscovo continuou a transportar gás através da Ucrânia, ao abrigo de um acordo de vários milhares de milhões de euros, que Kiev anunciou que se recusará a renovar depois de expirar no final do ano.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"A DTEK, a maior empresa privada de energia da Ucrânia, recebeu hoje a sua primeira carga de gás natural liquefeito (GNL) proveniente dos Estados Unidos\", declarou a empresa em comunicado.</p>\n<p>A empresa confirmou à France Presse que este carregamento de cerca de 100 milhões de metros cúbicos de gás foi a primeira entrega americana à Ucrânia, cuja rede energética foi duramente atingida por várias vagas de bombardeamentos russos.</p>\n<p>A DTEK assegurou a entrega do gasoduto depois de o GNL ter sido entregue na sexta-feira num terminal grego de regaseificação no Mediterrâneo.</p>\n<p>\"Cargas como esta não só fornecem à região uma fonte de energia flexível e segura, como também ajudam a diminuir a influência da Rússia no nosso sistema energético\", afirmou o diretor executivo da DTEK, Maxim Timchenko, citado no comunicado.</p>\n<p>Após os ataques russos, a Ucrânia aumentou as suas importações de eletricidade da UE. De acordo com Kiev, a obtenção de fornecimentos diretos de GNL dos EUA ajudará a aliviar a pressão sobre o mercado europeu do gás.</p>\n<p>A União Europeia não conseguiu cortar completamente os seus laços energéticos com Moscovo, embora tenha também aumentado as suas compras de GNL desde a invasão da Ucrânia em 2022.</p>\n<p>Vários responsáveis políticos, incluindo Ursula von der Leyen, presidente da Comissão Europeia, sugeriram o aumento do fornecimento de gás dos EUA para substituir a energia russa, apesar das preocupações com o custo de tais fornecimentos.</p>\n<p>O Presidente eleito dos EUA, Donald Trump, ameaçou a Europa com tarifas se não comprar mais gás americano.</p>\n<p>A dependência do gás proveniente da Rússia deixa a Europa à procura de alternativas energéticas que colmatem esse vazio de fornecimento.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2697411/conflito-na-ucrania-ja-matou-121-jornalistas-e-ativistas\" target=\"_blank\" rel=\"noopener noreferrer\">Conflito na Ucrânia já matou 121 jornalistas e ativistas</a></p>",
+         "content_encoded": "<p>Apesar da guerra, Moscovo continuou a transportar gás através da Ucrânia, ao abrigo de um acordo de vários milhares de milhões de euros, que Kyiv anunciou que se recusará a renovar depois de expirar no final do ano.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"A DTEK, a maior empresa privada de energia da Ucrânia, recebeu hoje a sua primeira carga de gás natural liquefeito (GNL) proveniente dos Estados Unidos\", declarou a empresa em comunicado.</p>\n<p>A empresa confirmou à France Presse que este carregamento de cerca de 100 milhões de metros cúbicos de gás foi a primeira entrega americana à Ucrânia, cuja rede energética foi duramente atingida por várias vagas de bombardeamentos russos.</p>\n<p>A DTEK assegurou a entrega do gasoduto depois de o GNL ter sido entregue na sexta-feira num terminal grego de regaseificação no Mediterrâneo.</p>\n<p>\"Cargas como esta não só fornecem à região uma fonte de energia flexível e segura, como também ajudam a diminuir a influência da Rússia no nosso sistema energético\", afirmou o diretor executivo da DTEK, Maxim Timchenko, citado no comunicado.</p>\n<p>Após os ataques russos, a Ucrânia aumentou as suas importações de eletricidade da UE. De acordo com Kyiv, a obtenção de fornecimentos diretos de GNL dos EUA ajudará a aliviar a pressão sobre o mercado europeu do gás.</p>\n<p>A União Europeia não conseguiu cortar completamente os seus laços energéticos com Moscovo, embora tenha também aumentado as suas compras de GNL desde a invasão da Ucrânia em 2022.</p>\n<p>Vários responsáveis políticos, incluindo Ursula von der Leyen, presidente da Comissão Europeia, sugeriram o aumento do fornecimento de gás dos EUA para substituir a energia russa, apesar das preocupações com o custo de tais fornecimentos.</p>\n<p>O Presidente eleito dos EUA, Donald Trump, ameaçou a Europa com tarifas se não comprar mais gás americano.</p>\n<p>A dependência do gás proveniente da Rússia deixa a Europa à procura de alternativas energéticas que colmatem esse vazio de fornecimento.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2697411/conflito-na-ucrania-ja-matou-121-jornalistas-e-ativistas\" target=\"_blank\" rel=\"noopener noreferrer\">Conflito na Ucrânia já matou 121 jornalistas e ativistas</a></p>",
          "media": {}
       },
       {
@@ -2257,52 +2303,6 @@
             }
          ],
          "content_encoded": "<p>\"Os grandes objetivos passam por continuarmos a crescer em filiados. (...) Queremos, também, melhorar imenso os resultados internacionais que temos tido\", disse o dirigente, em declarações à Lusa.</p>\n<div class=\"dummyPub\"> </div>\n<p>Arrais foi reeleito para o quadriénio 2025-2028, segundo confirmou à Lusa fonte da federação na quinta-feira à noite, após a recontagem dos votos nas eleições ocorridas em 15 de dezembro, após protestos.</p>\n<p>Nas eleições ocorridas em 15 de dezembro, Arrais, que preside à FGP desde 2020, tinha obtido 21 votos, contra 19 de Ricardo Antunes, igualmente derrotado no ato eleitoral anterior, e dois de António Guerreiro, numa contagem com seis votos nulos.</p>\n<p>Fonte oficial da FGP confirmou à Lusa a reeleição de Arrais, cuja lista, além da direção, venceu, também, nesta primeira volta, a eleição para a Mesa da Assembleia Geral (MAG), remetendo para hoje a divulgação da ata com os resultados oficiais.</p>\n<p>A mesma fonte deu ainda conta da obtenção de dois mandatos para a Lista B, liderada por Ricardo Antunes, para os Conselhos de Disciplina e de Justiça, e um para a Lista A, de Arrais, enquanto os Conselhos Fiscal e de Ajuizamento vão a segunda volta.</p>\n<p>Segundo o presidente, \"a ginástica portuguesa está bem\" mas todos querem \"que esteja melhor\", após \"um ano fantástico, como os últimos anos\", e \"muito trabalho diário, de ginastas a dirigentes, clubes, associações, juízes\", em nove disciplinas diferentes.</p>\n<p>No próximo ciclo olímpico, para Los Angeles2028, pretende ter \"todas as disciplinas em processo de apuramento\" e trabalham já para a edição de 2032, com \"iniciativas de desenvolvimento\".</p>\n<p>No plano desportivo, o objetivo é consolidar \"as que já atingiram medalhas em Mundiais e Europeus\", e potenciar as restantes, tendo ainda desígnios institucionais a nível internacional, a tentativa de elevar a acrobática a disciplina olímpica e a filiação do teamgym também na Federação Internacional de Ginástica, e não apenas na instância europeia.</p>\n<p>Luís Arrais é natural de Torres Novas e antigo autarca de freguesia de São Nicolau, em Santarém, além de ter sido selecionador nacional de trampolins.</p>\n<p>Antes de chegar à liderança da FGP, Luís Arrais foi vice-presidente, com os pelouros das seleções nacionais, comunicação e marketing na direção presidida por João Paulo Rocha, que terminou em 2020 o seu terceiro mandato.</p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2697267/porto-dois-detidos-com-48-e-87-doses-de-cocaina-e-heroina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PSP deteve duas pessoas com 48 e 87 doses de cocaína e heroína",
-         "description": "O homem e a mulher encontravam-se com apresentações periódicas semanais e estavam proibidos de frequentar bairros conotados com a compra e venda de produto estupefaciente.",
-         "link": "https://www.noticiasaominuto.com/pais/2697267/porto-dois-detidos-com-48-e-87-doses-de-cocaina-e-heroina?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1735313343000,
-         "created": 1735313343000,
-         "category": "País",
-         "content": "<p>Duas pessoas foram detidas por tráfico de estupefacientes, na quinta-feira, no bairro do Cerco, na cidade do Porto, pela Polícia de Segurança Pública (PSP). </p>\n<div class=\"dummyPub\"> </div>\n<p>Um homem, de 40 anos, e uma mulher, de 54, foram intercetados pela PSP, durante uma ação de prevenção e combate à prática de tráfico de estupefacientes, e tinham na sua posse \"estupefaciente denominado cocaína e heroína\", lê-se num comunicado enviado às redações. </p>\n<p>O estupefaciente apreendido era \"suficiente para cerca de 48 e 87 doses individuais\". Foi-lhes ainda apreendida a \"quantia de 60,85 euros\". </p>\n<p>De acordo com o comunicado, \"após as diligências processuais\", constatou-se que \"ambos se encontravam com apresentações periódicas semanais\" e também \"proibição de frequentar bairros conotados com a compra e venda de produto estupefaciente, medida que não cumpriram\". </p>\n<p>Os detidos vão ser presentes às autoridades judiciárias. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2697209/jovem-desaparecido-ha-quatro-dias-nos-picos-da-europa-encontrado-com-vida\" target=\"_blank\" rel=\"noopener noreferrer\">Jovem desaparecido há quatro dias nos Picos da Europa encontrado com vida</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_52f26ff5c91c9.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Duas pessoas foram detidas por tráfico de estupefacientes, na quinta-feira, no bairro do Cerco, na cidade do Porto, pela Polícia de Segurança Pública (PSP). </p>\n<div class=\"dummyPub\"> </div>\n<p>Um homem, de 40 anos, e uma mulher, de 54, foram intercetados pela PSP, durante uma ação de prevenção e combate à prática de tráfico de estupefacientes, e tinham na sua posse \"estupefaciente denominado cocaína e heroína\", lê-se num comunicado enviado às redações. </p>\n<p>O estupefaciente apreendido era \"suficiente para cerca de 48 e 87 doses individuais\". Foi-lhes ainda apreendida a \"quantia de 60,85 euros\". </p>\n<p>De acordo com o comunicado, \"após as diligências processuais\", constatou-se que \"ambos se encontravam com apresentações periódicas semanais\" e também \"proibição de frequentar bairros conotados com a compra e venda de produto estupefaciente, medida que não cumpriram\". </p>\n<p>Os detidos vão ser presentes às autoridades judiciárias. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2697209/jovem-desaparecido-ha-quatro-dias-nos-picos-da-europa-encontrado-com-vida\" target=\"_blank\" rel=\"noopener noreferrer\">Jovem desaparecido há quatro dias nos Picos da Europa encontrado com vida</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2697270/sonda-solar-da-nasa-deu-sinal-de-vida-depois-de-aproximacao-ao-sol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sonda solar da NASA deu 'sinal de vida' depois de aproximação ao Sol",
-         "description": "A Parker Solar Probe passou a apenas 6,1 milhões de quilómetros de distância da superfície da estrela do nosso Sistema Solar.",
-         "link": "https://www.noticiasaominuto.com/tech/2697270/sonda-solar-da-nasa-deu-sinal-de-vida-depois-de-aproximacao-ao-sol?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1735313245000,
-         "created": 1735313245000,
-         "category": "Tech",
-         "content": "<p>A NASA anunciou que a sonda Parker Solar Probe entrou em comunicação com a Terra esta quinta-feira, dia 27, confirmando assim o sucesso da maior aproximação de sempre ao Sol.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">“Após a sua aproximação recorde ao Sol, a Parker Solar Probe da NASA transmitiu um sinal de volta à Terra indicando que está de boa saúde e a operar normalmente”</span>, pode ler-se no comunicado partilhado pela agência espacial norte-americana nesta sexta-feira, dia 27.</p>\n<p>Serve recordar que esta sonda tornou-se o objeto feito pelo Homem que passou mais perto da superfície do Sol - ficando a apenas <a href=\"https://www.noticiasaominuto.com/tech/2697008/nova-facanha-da-nasa-nunca-nenhuma-sonda-esteve-tao-perto-do-sol\">6,1 milhões de quilómetros</a> de distância da superfície desta estrela.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/tech/2697008/nova-facanha-da-nasa-nunca-nenhuma-sonda-esteve-tao-perto-do-sol\" target=\"_blank\" rel=\"noopener noreferrer\">Nova 'façanha' da NASA. Nunca nenhuma sonda esteve tão perto do Sol</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_676ec70672ec4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>A NASA anunciou que a sonda Parker Solar Probe entrou em comunicação com a Terra esta quinta-feira, dia 27, confirmando assim o sucesso da maior aproximação de sempre ao Sol.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">“Após a sua aproximação recorde ao Sol, a Parker Solar Probe da NASA transmitiu um sinal de volta à Terra indicando que está de boa saúde e a operar normalmente”</span>, pode ler-se no comunicado partilhado pela agência espacial norte-americana nesta sexta-feira, dia 27.</p>\n<p>Serve recordar que esta sonda tornou-se o objeto feito pelo Homem que passou mais perto da superfície do Sol - ficando a apenas <a href=\"https://www.noticiasaominuto.com/tech/2697008/nova-facanha-da-nasa-nunca-nenhuma-sonda-esteve-tao-perto-do-sol\">6,1 milhões de quilómetros</a> de distância da superfície desta estrela.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/tech/2697008/nova-facanha-da-nasa-nunca-nenhuma-sonda-esteve-tao-perto-do-sol\" target=\"_blank\" rel=\"noopener noreferrer\">Nova 'façanha' da NASA. Nunca nenhuma sonda esteve tão perto do Sol</a></p>",
          "media": {}
       }
    ]
