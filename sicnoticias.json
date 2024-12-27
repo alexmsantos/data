@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "1d34bedc-a1ae-4917-9ef4-7a5b29af0a96",
+         "title": "Sismo com magnitude de 3,7 registado em Vendas Novas",
+         "description": "<p><span>O abalo foi registado esta sexta-feira por volta das 13:29.</span></p>",
+         "link": "https://sicnoticias.pt/pais/2024-12-27-sismo-com-magnitude-de-37-registado-em-vendas-novas--69eb460e",
+         "author": "Rita de Sousa",
+         "published": 1735308039000,
+         "created": 1735308039000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-10-09-Ultima-Hora-5f0e06bd/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-10-09-Ultima-Hora-5f0e06bd/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2023-10-09-Ultima-Hora-5f0e06bd/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "f6b00866-85e2-4e41-98c1-355823ea63e6",
          "title": "Serviços mínimos baixam adesão à greve do lixo em Lisboa para 60%",
          "description": "<p><span>O presidente do Sindicato dos Trabalhadores do Município de Lisboa (STML), explicou que na quinta-feira a Câmara de Lisboa \"fez incidir 46 circuitos dos 105 que costuma haver\" e admitiu que isso pode ter feito reduzir um pouco os níveis de adesão.</span></p>",
@@ -261,35 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-07-24-calor-8e982b22/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "00bc6662-04f8-4db7-91ab-b4d63d1ad09d",
-         "title": "Ucrânia envia 500 toneladas de farinha de trigo para apoiar povo sírio",
-         "description": "<p><span>O Presidente ucraniano divulgou uma mensagem também traduzida para árabe, na qual anunciava o envio de 500 toneladas de \"farinha de trigo ucraniana\" através do programa \"Grãos da Ucrânia\".</span></p>",
-         "link": "https://sicnoticias.pt/especiais/guerra-na-siria/2024-12-27-ucrania-envia-500-toneladas-de-farinha-de-trigo-para-apoiar-povo-sirio-e200a334",
-         "author": "Lusa",
-         "published": 1735297045000,
-         "created": 1735297045000,
-         "category": "Guerra na Síria",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-12-19-zelensky-d3a51120/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-12-19-zelensky-d3a51120/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-12-19-zelensky-d3a51120/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
