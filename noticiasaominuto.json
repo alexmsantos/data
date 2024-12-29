@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2698064/ruben-amorim-foi-forcado-a-deixar-o-sporting-a-meio-da-temporada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Ruben Amorim foi forçado a deixar o Sporting a meio da temporada\"",
+         "description": "Chris Sutton considera o Manchester United, \"virtualmente, um trabalho impossível\" para o treinador português.",
+         "link": "https://www.noticiasaominuto.com/desporto/2698064/ruben-amorim-foi-forcado-a-deixar-o-sporting-a-meio-da-temporada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1735493016000,
+         "created": 1735493016000,
+         "category": "Desporto",
+         "content": "<p>Chris Sutton, antigo internacional inglês, fez, este domingo, uso do espaço de opinião que assina no jornal britânico <span class=\"news_bold\"><a href=\"https://www.dailymail.co.uk/sport/football/article-14233801/Premier-League-CHRIS-SUTTON-Ruben-Amorim-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_dailymailsport\">Daily Mail</a></span> para defender que Ruben Amorim não pode ser considerado o culpado da crise desportiva que assola o Manchester United.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Este já parece ser, virtualmente, um trabalho impossível para Ruben Amorim, e é impossível julgá-lo verdadeiramente antes de um par de janelas de transferências. Não estou surpreendido por nada do que se passa no Manchester United, esta temporada\", começou por escrever o agora comentador desportivo.</p>\n<p>\"Tenho previsto que percam na maior parte das semanas, e acho que não têm alternativa a não ser manterem-se com Amorim, a longo-prazo, por muito que esta temporada possa vir a revelar-se negativa para eles\", prosseguiu.</p>\n<p>\"Tenho uma grande simpatia por ele, porque foi forçado a tomar a decisão de deixar o Sporting, a meio da temporada. Chegar a Old Trafford a meio de uma época é complicado, este não é o grupo de jogadores de Amorim, e está a pedir-lhes que joguem de uma maneira diferente à que estão habituados\", completou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2698008/maguire-explica-crise-do-united-amorim-e-o-total-oposto-de-ten-hag\" target=\"_blank\" rel=\"noopener noreferrer\">Maguire explica crise do United: \"Amorim é o total oposto de Ten Hag\"</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6754200e04075.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Chris Sutton, antigo internacional inglês, fez, este domingo, uso do espaço de opinião que assina no jornal britânico <span class=\"news_bold\"><a href=\"https://www.dailymail.co.uk/sport/football/article-14233801/Premier-League-CHRIS-SUTTON-Ruben-Amorim-Man-United.html?ns_mchannel=rss&ns_campaign=1490&ito=social-twitter_dailymailsport\">Daily Mail</a></span> para defender que Ruben Amorim não pode ser considerado o culpado da crise desportiva que assola o Manchester United.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Este já parece ser, virtualmente, um trabalho impossível para Ruben Amorim, e é impossível julgá-lo verdadeiramente antes de um par de janelas de transferências. Não estou surpreendido por nada do que se passa no Manchester United, esta temporada\", começou por escrever o agora comentador desportivo.</p>\n<p>\"Tenho previsto que percam na maior parte das semanas, e acho que não têm alternativa a não ser manterem-se com Amorim, a longo-prazo, por muito que esta temporada possa vir a revelar-se negativa para eles\", prosseguiu.</p>\n<p>\"Tenho uma grande simpatia por ele, porque foi forçado a tomar a decisão de deixar o Sporting, a meio da temporada. Chegar a Old Trafford a meio de uma época é complicado, este não é o grupo de jogadores de Amorim, e está a pedir-lhes que joguem de uma maneira diferente à que estão habituados\", completou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2698008/maguire-explica-crise-do-united-amorim-e-o-total-oposto-de-ten-hag\" target=\"_blank\" rel=\"noopener noreferrer\">Maguire explica crise do United: \"Amorim é o total oposto de Ten Hag\"</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2698053/israel-deteta-cinco-rockets-disparados-da-faixa-de-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Israel deteta cinco rockets disparados da Faixa de Gaza",
@@ -375,7 +398,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/economia/2698030/forbes-portugal-divulga-os-50-milionarios-nacionais-em-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quem são os dez mais ricos de Portugal? Forbes divulgou a lista",
+         "title": "Quem são os mais ricos de Portugal? Forbes divulgou a lista",
          "description": "A revista Forbes Portugal publicou a lista 'Os 50 milionários Portugueses 2024' e sublinha que as dez famílias mais ricas \"detêm uma fatia de 23,5 mil milhões de euros\".",
          "link": "https://www.noticiasaominuto.com/economia/2698030/forbes-portugal-divulga-os-50-milionarios-nacionais-em-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>A casa de Luka Doncic em Dallas, nos Estados Unidos, foi alvo de um assalto na passada sexta-feira. A informação foi confirmada pela empresária do basquetebolista à <span class=\"news_bold\"><a href=\"https://www.espn.com/nba/story/_/id/43196201/home-mavericks-star-luka-doncic-burglarized\">ESPN</a></span>.</p>\n<div class=\"dummyPub\"> </div>\n<p>O assalto aconteceu quando o jogador dos Dallas Mavericks, da NBA, não se encontrava na propriedade. Doncic encontrava-se em digressão com a família.</p>\n<p>\"Não havia ninguém em casa naquele momento e, felizmente, Luka e a sua família estão a salvo. Luka apresentou uma denúncia na polícia e está a ser levada a cabo uma investigação\", explicou a empresária Lara Beth Seager.</p>\n<p>O jornal Dallas Morning News adiantou ainda que o ladrão conseguiu fugir com cerca de 30 mil dólares em joias, cerca de 28 mil euros. O suspeito conseguiu aceder à propriedade através da janela da casa de banho principal.</p>\n<p>A polícia não conseguiu confirmar se o crime foi levado a cabo por um ou mais indivíduos.</p>\n<p>Este episódio ocorre na sequência de outras situações semelhantes que já aconteceram. Desde o início da temporada, Mike Conley (Minnesota Timberwolves) e Bobby Portis Jr. (Milwalkee Bucks) também foram alvo do mesmo tipo de crime.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2697614/neemias-queta-volta-a-fazer-das-suas-e-ajuda-os-celtics-a-vencerem\" target=\"_blank\" rel=\"noopener noreferrer\">Neemias Queta volta a fazer das suas e ajuda os Celtics a vencerem</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2697914/jornalista-detida-no-irao-ha-10-dias-roma-fala-em-questao-complicada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jornalista detida no Irão há 10 dias. Roma fala em \"questão complicada\"",
-         "description": "Cecilia Sala partiu de Itália para o Irão no dia 12 de dezembro com um visto de jornalista válido e a sua viagem de regresso a Roma estava prevista para 20 de dezembro, mas foi detida um dia antes.",
-         "link": "https://www.noticiasaominuto.com/mundo/2697914/jornalista-detida-no-irao-ha-10-dias-roma-fala-em-questao-complicada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1735461952000,
-         "created": 1735461952000,
-         "category": "Mundo",
-         "content": "<p>Cecilia Sala, uma jornalista italiana de 29 anos, está detida desde 19 de dezembro na famosa prisão de Evin, em Teerão, mas a sua detenção só foi tornada pública na passada sexta-feira, 27 de dezembro. Em declarações à imprensa italiana, o ministro dos Negócios Estrangeiros de Itália, Antonio Tajani, reconheceu que em causa está \"uma questão que é complicada\".</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">\"Estamos a tentar resolver uma questão que é complicada\"</span>, disse Tajani, citado pela agência de notícias ANSA, acrescentando que o objetivo é \"garantir que Cecilia Sala está detida nas melhores condições possíveis\".</p>\n<p>Questionado sobre quando é que a jornalista poderá ser libertada, o ministro respondeu: \"Espero que em breve, mas não depende de nós\".</p>\n<p><span class=\"news_bold\">\"Está detida, o que não é ideal, mas está a ser alimentada e está numa cela individual\"</span>, acrescentou.<span class=\"news_bold\"> \"Parece que ela está a ser tratada de uma forma que respeita a dignidade pessoal. Até agora não recebemos reações negativas\"</span>.</p>\n<p>Já o gabinete da primeira-ministra, Giorgia Meloni, afirmou que a governante \"acompanha de perto o assunto complexo\" e que Roma está a tentar \"todas as vias possíveis de diálogo\" para trazer Sala de volta \"o mais rápido possível\".</p>\n<p>O ministro dos Negócios Estrangeiros italiano adiantou que a razão oficial para a detenção da jornalista ainda não é clara e <span class=\"news_bold\">recusou comentar se poderia estar relacionada com a detenção de um cidadão iraniano em Itália</span>, a pedido dos Estados Unidos. </p>\n<p>Cecilia Sala, natural de Roma, é correspondente do diário italiano Il Foglio e tem também o seu próprio 'podcast'. Partiu de Itália para o Irão no dia 12 de dezembro com um visto de jornalista válido e a sua viagem de regresso a Roma estava prevista para 20 de dezembro, mas foi detida um dia antes.</p>\n<p>Os políticos italianos de vários partidos têm apelado ao Governo para que garanta a libertação de Sala, enquanto a escritora Alessia Piperno, que esteve detida na famosa prisão de Evin, em Teerão, durante 45 dias em 2022, instou a jornalista a manter a coragem e a energia e mandou um abraço aos pais.</p>\n<p>É nesta prisão que tem estado detida a ativista iraniana Narges Mohammadi, Nobel da Paz em 2023.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2697308/jornalista-italiana-cecilia-sala-detida-pela-policia-em-teerao\" target=\"_blank\" rel=\"noopener noreferrer\">Jornalista italiana Cecilia Sala detida pela polícia em Teerão</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6771097cd27bd.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Cecilia Sala, uma jornalista italiana de 29 anos, está detida desde 19 de dezembro na famosa prisão de Evin, em Teerão, mas a sua detenção só foi tornada pública na passada sexta-feira, 27 de dezembro. Em declarações à imprensa italiana, o ministro dos Negócios Estrangeiros de Itália, Antonio Tajani, reconheceu que em causa está \"uma questão que é complicada\".</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">\"Estamos a tentar resolver uma questão que é complicada\"</span>, disse Tajani, citado pela agência de notícias ANSA, acrescentando que o objetivo é \"garantir que Cecilia Sala está detida nas melhores condições possíveis\".</p>\n<p>Questionado sobre quando é que a jornalista poderá ser libertada, o ministro respondeu: \"Espero que em breve, mas não depende de nós\".</p>\n<p><span class=\"news_bold\">\"Está detida, o que não é ideal, mas está a ser alimentada e está numa cela individual\"</span>, acrescentou.<span class=\"news_bold\"> \"Parece que ela está a ser tratada de uma forma que respeita a dignidade pessoal. Até agora não recebemos reações negativas\"</span>.</p>\n<p>Já o gabinete da primeira-ministra, Giorgia Meloni, afirmou que a governante \"acompanha de perto o assunto complexo\" e que Roma está a tentar \"todas as vias possíveis de diálogo\" para trazer Sala de volta \"o mais rápido possível\".</p>\n<p>O ministro dos Negócios Estrangeiros italiano adiantou que a razão oficial para a detenção da jornalista ainda não é clara e <span class=\"news_bold\">recusou comentar se poderia estar relacionada com a detenção de um cidadão iraniano em Itália</span>, a pedido dos Estados Unidos. </p>\n<p>Cecilia Sala, natural de Roma, é correspondente do diário italiano Il Foglio e tem também o seu próprio 'podcast'. Partiu de Itália para o Irão no dia 12 de dezembro com um visto de jornalista válido e a sua viagem de regresso a Roma estava prevista para 20 de dezembro, mas foi detida um dia antes.</p>\n<p>Os políticos italianos de vários partidos têm apelado ao Governo para que garanta a libertação de Sala, enquanto a escritora Alessia Piperno, que esteve detida na famosa prisão de Evin, em Teerão, durante 45 dias em 2022, instou a jornalista a manter a coragem e a energia e mandou um abraço aos pais.</p>\n<p>É nesta prisão que tem estado detida a ativista iraniana Narges Mohammadi, Nobel da Paz em 2023.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2697308/jornalista-italiana-cecilia-sala-detida-pela-policia-em-teerao\" target=\"_blank\" rel=\"noopener noreferrer\">Jornalista italiana Cecilia Sala detida pela polícia em Teerão</a></p>",
          "media": {}
       }
    ]
