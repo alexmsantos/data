@@ -6,11 +6,43 @@
    "category": [],
    "items": [
       {
+         "id": "dacc342a-a483-4054-b324-40b31733350e",
+         "title": "EUA anunciam novo pacote de ajuda militar à Ucrânia",
+         "description": "A vitória de Trump colocou em dúvida o futuro da ajuda norte-americana à Ucrânia, que perde terreno face às tropas russas, depois de o futuro Presidente ter prometido acabar com a guerra “em 24 horas”. O novo pacote inclui 1,25 mil milhões de dólares em ajuda militar.",
+         "link": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2024-12-30-eua-anunciam-novo-pacote-de-ajuda-militar-a-ucrania-3f837e00",
+         "author": "Lusa",
+         "published": 1735586108000,
+         "created": 1735586108000,
+         "category": "Guerra Rússia-Ucrânia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-01-11-armas-Ucrania-cb3f304d-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-01-11-armas-Ucrania-cb3f304d-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-01-11-armas-Ucrania-cb3f304d-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "781715ce-0ed4-4254-8b38-b40232498874",
          "title": "Rúben Semedo libertado após suspeita de violência doméstica",
          "description": "O jogador está impedido de contactar com a vítima e tem de informar as autoridades portuguesas sempre que se deslocar a território nacional porque, recorde-se, Rúben Semedo joga, atualmente, no Qatar.",
          "link": "https://sicnoticias.pt/desporto/2024-12-30-ruben-semedo-libertado-apos-suspeita-de-violencia-domestica-0fb629ca",
-         "author": "SIC Notícias",
+         "author": [
+            "Ana Lemos",
+            "Daniel Pascoal"
+         ],
          "published": 1735585672000,
          "created": 1735585672000,
          "category": "Desporto",
@@ -261,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-12-30-loja.jpg-42a29fcf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f48cdcb5-894a-4d10-8135-ef855db1b193",
-         "title": "Grávidas dos Açores obrigadas a abortar no continente devido a objeção médica",
-         "description": "<p><span>Em 2024, os Açores contavam com 14 médicos especialistas em ginecologia/obstetrícia nos três hospitais, tendo 11 declarado objeção de consciência, limitando significativamente a possibilidade de interrupção voluntária da gravidez (IVG) na região. </span></p>",
-         "link": "https://sicnoticias.pt/pais/2024-12-30-gravidas-dos-acores-obrigadas-a-abortar-no-continente-devido-a-objecao-medica-d59cb846",
-         "author": "Lusa",
-         "published": 1735580450000,
-         "created": 1735580450000,
-         "category": "País",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-04-04-hospital-aborto-ginecologia-obstetricia.jpg-3018e040/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-04-04-hospital-aborto-ginecologia-obstetricia.jpg-3018e040/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-04-04-hospital-aborto-ginecologia-obstetricia.jpg-3018e040/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
