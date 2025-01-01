@@ -1,14 +1,37 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/desporto/2699381/um-classico-sergio-conceicao-chegou-a-arabia-saudita-e-recebeu-isto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Um clássico. Sérgio Conceição chegou à Arábia Saudita e recebeu isto",
+         "description": "Sauditas entregaram uma coroa de flores a cada elemento da comitiva do AC Milan.",
+         "link": "https://www.noticiasaominuto.com/desporto/2699381/um-classico-sergio-conceicao-chegou-a-arabia-saudita-e-recebeu-isto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1735752238000,
+         "created": 1735752238000,
+         "category": "Desporto",
+         "content": "<p>O AC Milan divulgou um vídeo, esta quarta-feira, a dar conta do momento em que a comitiva liderada por Sérgio Conceição chegou à Arábia Saudita, onde irá disputar as 'meias' da Supertaça de Itália, diante da Juventus.</p>\n<div class=\"dummyPub\"> </div>\n<p>O treinador ex-FC Porto, à semelhança dos seus jogadores, receberam a célebre coroa de flores, assim que chegaram ao aeroporto de Riade, sendo de referir que a sua estreia acontecerá frente à Juventus, do filho Francisco Conceição, já esta sexta-feira.</p>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Espreite o vídeo.</span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2699162/o-estilo-de-sergio-conceicao-e-nao-so-na-partida-para-a-arabia-saudita\" target=\"_blank\" rel=\"noopener noreferrer\">O estilo de Sérgio Conceição (e não só) na partida para a Arábia Saudita</a></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2699175/ha-uma-coisa-em-que-sergio-conceicao-ganha-a-paulo-fonseca-no-ac-milan\" target=\"_blank\" rel=\"noopener noreferrer\">\"Há uma coisa em que Sérgio Conceição ganha a Paulo Fonseca no AC Milan\"</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67756ff732b8f.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O AC Milan divulgou um vídeo, esta quarta-feira, a dar conta do momento em que a comitiva liderada por Sérgio Conceição chegou à Arábia Saudita, onde irá disputar as 'meias' da Supertaça de Itália, diante da Juventus.</p>\n<div class=\"dummyPub\"> </div>\n<p>O treinador ex-FC Porto, à semelhança dos seus jogadores, receberam a célebre coroa de flores, assim que chegaram ao aeroporto de Riade, sendo de referir que a sua estreia acontecerá frente à Juventus, do filho Francisco Conceição, já esta sexta-feira.</p>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Espreite o vídeo.</span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2699162/o-estilo-de-sergio-conceicao-e-nao-so-na-partida-para-a-arabia-saudita\" target=\"_blank\" rel=\"noopener noreferrer\">O estilo de Sérgio Conceição (e não só) na partida para a Arábia Saudita</a></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2699175/ha-uma-coisa-em-que-sergio-conceicao-ganha-a-paulo-fonseca-no-ac-milan\" target=\"_blank\" rel=\"noopener noreferrer\">\"Há uma coisa em que Sérgio Conceição ganha a Paulo Fonseca no AC Milan\"</a></p>",
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/mundo/2699380/grato-pela-resposta-corajosa-e-rapida-das-forcas-de-seguranca-locais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Grato pela resposta corajosa e rápida das forças de segurança locais\"",
-         "description": "Joe Biden, em comunicado, afirmou ainda que \"não há justificação para a violência de qualquer tipo\" e que não será tolerado \"nenhum ataque contra nenhuma das comunidades\" dos Estados Unidos. ",
+         "description": "Joe Biden, em comunicado, afirmou que \"não há justificação para a violência de qualquer tipo\" e que não será tolerado \"nenhum ataque contra nenhuma das comunidades\" dos Estados Unidos. ",
          "link": "https://www.noticiasaominuto.com/mundo/2699380/grato-pela-resposta-corajosa-e-rapida-das-forcas-de-seguranca-locais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Esta será a oitava e penúltima mensagem de Ano Novo de Marcelo Rebelo de Sousa enquanto Chefe do Estado.</p>\n<div class=\"dummyPub\"> </div>\n<p>O Presidente coabitou oito anos com um Governo de esquerda, liderado por António Costa, do PS, primeiro com um Governo com apoio parlamentar da esquerda, a \"geringonça\", depois com um executivo de minoria do PS, até 2022, e com maioria absoluta até à queda, em 2023.</p>\n<p>Esta será a primeira mensagem de Ano Novo de Marcelo desde que tomou posse o Governo minoritário de direita (PSD/CDS), liderado por Luís Montenegro, depois de a Aliança Democrática (AD) ter vencido as eleições legislativas de 10 de março, com 28,02% dos votos.</p>\n<p>Nas sete mensagens de Ano Novo que proferiu desde que tomou posse, em 09 de março de 2016, o Presidente da República tem aproveitado para fazer um balanço do ano que termina e deixar avisos para o futuro próximo, seja a nível da situação política, social, económica ou sanitária, durante a pandemia de covid-19.</p>\n<p>Na mensagem do ano passado, pouco depois da demissão de António Costa e convocação de eleições legislativas para março de 2024, Marcelo Rebelo de Sousa afirmou que 2024 seria um ano ainda mais decisivo do que 2023, que tinha terminado \"com mais desafios e mais difíceis do aqueles com que havia começado\".</p>\n<p>\"Ficou claro que, depois da legítima decisão pessoal de cessar funções de quem foi o segundo mais longo chefe do Governo em democracia e o mais longo neste século, deveríamos estar todos atentos e motivados para as eleições de março, para percebermos como vai ser o tempo imediato em Portugal, na avaliação como na escolha\", referiu.</p>\n<p>Num ano que viria a ser marcado por quatro eleições - regionais da Madeira e dos Açores, legislativas e europeias -, Marcelo fez um forte apelo à participação dos portugueses nos atos eleitorais, salientando que 2024 iria ser \"largamente aquilo que os votantes, em democracia\", quisessem.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2699247/palavra-chave-para-2025-investimento-investimento-investimento\" target=\"_blank\" rel=\"noopener noreferrer\">Palavra-chave para 2025: \"Investimento, investimento, investimento\"</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2699245/coreia-do-sul-primeiros-dados-de-caixa-negra-de-aviao-ja-foram-extraidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Coreia do Sul. Primeiros dados de caixa negra de avião já foram extraídos",
-         "description": "Os investigadores do acidente da companhia aérea sul-coreana Jeju Air, que causou a morte de 179 pessoas, extraíram os primeiros dados de uma das caixas negras do Boeing 737-800, anunciou hoje um responsável.",
-         "link": "https://www.noticiasaominuto.com/mundo/2699245/coreia-do-sul-primeiros-dados-de-caixa-negra-de-aviao-ja-foram-extraidos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1735712042000,
-         "created": 1735712042000,
-         "category": "Mundo",
-         "content": "<p>No que diz respeito à caixa negra que regista as conversas no cockpit, \"a primeira extração já foi concluída\", declarou o responsável pelo departamento de aviação no ministério dos Transportes sul-coreano, Joo Jong-wan.</p>\n<div class=\"dummyPub\"> </div>\n<p>Os peritos estão a estudar a forma de extrair os dados de voo da segunda caixa negra, acrescentou.</p>\n<p>No domingo, um Boeing 737-800 da transportadora sul-coreana de baixo custo Jeju Air explodiu depois de aterrar sem o trem de aterragem aberto e embater contra um muro fora da pista no aeroporto de Muan, sul do país.</p>\n<p>O acidente, ao qual sobreviveram duas pessoas, causou 179 mortos, tornando-se o pior desastre de aviação civil de sempre em solo sul-coreano e o pior em 2024 a nível mundial.</p>\n<p>Fontes das autoridades sul-coreanas fizeram saber que minutos antes do acidente, a torre de controlo de Muan emitiu um alerta de perigo para a existência de aves e que, pouco depois, o piloto acionou um pedido de socorro, o que sugere que a catástrofe pode ter sido causada por uma colisão com aves.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2698894/coreia-do-sul-identifica-174-das-179-vitimas-do-acidente-com-aviao\" target=\"_blank\" rel=\"noopener noreferrer\">Coreia do Sul identifica 174 das 179 vítimas do acidente com avião</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44143914.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>No que diz respeito à caixa negra que regista as conversas no cockpit, \"a primeira extração já foi concluída\", declarou o responsável pelo departamento de aviação no ministério dos Transportes sul-coreano, Joo Jong-wan.</p>\n<div class=\"dummyPub\"> </div>\n<p>Os peritos estão a estudar a forma de extrair os dados de voo da segunda caixa negra, acrescentou.</p>\n<p>No domingo, um Boeing 737-800 da transportadora sul-coreana de baixo custo Jeju Air explodiu depois de aterrar sem o trem de aterragem aberto e embater contra um muro fora da pista no aeroporto de Muan, sul do país.</p>\n<p>O acidente, ao qual sobreviveram duas pessoas, causou 179 mortos, tornando-se o pior desastre de aviação civil de sempre em solo sul-coreano e o pior em 2024 a nível mundial.</p>\n<p>Fontes das autoridades sul-coreanas fizeram saber que minutos antes do acidente, a torre de controlo de Muan emitiu um alerta de perigo para a existência de aves e que, pouco depois, o piloto acionou um pedido de socorro, o que sugere que a catástrofe pode ter sido causada por uma colisão com aves.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2698894/coreia-do-sul-identifica-174-das-179-vitimas-do-acidente-com-aviao\" target=\"_blank\" rel=\"noopener noreferrer\">Coreia do Sul identifica 174 das 179 vítimas do acidente com avião</a></p>",
          "media": {}
       }
    ]
