@@ -14,8 +14,25 @@
          "published": 1735731294000,
          "created": 1735731294000,
          "category": "EUA",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-01-nova-orleaes.webp-5fb914f5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-01-nova-orleaes.webp-5fb914f5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-01-01-nova-orleaes.webp-5fb914f5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b8661b1b-b134-4158-8be6-8a5370a0d1f8",
