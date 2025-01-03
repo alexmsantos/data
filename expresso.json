@@ -181,6 +181,35 @@
          "media": {}
       },
       {
+         "id": "550ae68e-f39b-4cb2-bd36-795508e85227",
+         "title": "Restaurantes: ousar em terra de peixe grelhado e choco frito",
+         "description": "<p>Em Setúbal, a cozinha do Peixoco tenta ir além da fusão</p>",
+         "link": "https://expresso.pt/revista/vicios/restaurantes/2025-01-02-restaurantes-ousar-em-terra-de-peixe-grelhado-e-choco-frito-6a48a030",
+         "author": "Fortunato da Câmara",
+         "published": 1735858620000,
+         "created": 1735858620000,
+         "category": "Restaurantes",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-12-27-jpg_3492_t-_idp.jpg-68861fa9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-12-27-jpg_3492_t-_idp.jpg-68861fa9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-12-27-jpg_3492_t-_idp.jpg-68861fa9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "922c2921-6d82-489b-85b2-5471411f6558",
          "title": "Trump: o fim da decência e o princípio da incerteza (o ensaio de um embaixador que o conheceu de perto)",
          "description": "<p>A poucos dias da tomada de posse do novo inquilino da Casa Branca, o antigo embaixador da União Europeia nos Estados Unidos analisa as razões da vitória de Donald Trump e as lições a tirar da derrota de Kamala Harris e sugere pistas para a resposta europeia, alertando para escolhas políticas difíceis no horizonte</p>",
@@ -210,28 +239,33 @@
          }
       },
       {
-         "id": "25680f2d-03e6-408f-8a7a-a5d031f60bba",
-         "title": "Requiem pelo telefonema",
-         "description": "<p>Há jovens que têm smartphones que seriam capazes de levar a Apollo 11 à Lua, mas nunca atenderam uma chamada. O “falar ao telefone” morreu</p>",
-         "link": "https://expresso.pt/sociedade/2025-01-02-requiem-pelo-telefonema-6f8f56a2",
-         "author": "Luís Pedro Nunes",
+         "id": "38b01201-11f6-4bf2-a4c7-33652d7c7248",
+         "title": "O primeiro secretário-geral do Governo veio do Banco de Portugal e trouxe consigo uma conta (pesada)",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro/em-destaque/2025-01-02-o-primeiro-secretario-geral-do-governo-veio-do-banco-de-portugal-e-trouxe-consigo-uma-conta--pesada--f19293c0",
+         "author": "Expresso",
          "published": 1735858620000,
          "created": 1735858620000,
-         "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "51ca7bbf-6996-4a88-b22b-712ac8ab8f1c",
-         "title": "O que está em jogo na Síria",
-         "description": "<p>O mais importante para a futura ordem política interna é que venha a ser relativamente consensual e que acomode algum pluralismo etnicorreligioso. Se tal vier a ser conseguido, estaremos perante um verdadeiro milagre político regional. O terreno humano e político no Levante é complexo e violento</p>",
-         "link": "https://expresso.pt/opiniao/2025-01-02-o-que-esta-em-jogo-na-siria-708ddd26",
-         "author": "Miguel Monjardino",
-         "published": 1735858620000,
-         "created": 1735858620000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "category": "Em Destaque",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-12-30-helder-rosalino_00_t-_idp.jpg-6bd50497/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-12-30-helder-rosalino_00_t-_idp.jpg-6bd50497/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-12-30-helder-rosalino_00_t-_idp.jpg-6bd50497/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       }
    ]
 }
