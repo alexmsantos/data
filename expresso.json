@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "8172e806-b746-4045-92c6-e9bb8f641d75",
+         "title": "Homem de 30 anos morre após ser esfaqueado em Lisboa",
+         "description": "<p>Uma criança com cerca de três anos ficou também ferida numa mão</p>",
+         "link": "https://expresso.pt/sociedade/seguranca/2025-01-03-homem-de-30-anos-morre-apos-ser-esfaqueado-em-lisboa-0db68567",
+         "author": [
+            "Agência Lusa",
+            "Expresso"
+         ],
+         "published": 1735890461000,
+         "created": 1735890461000,
+         "category": "Segurança",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-03-luz-carro-policia.png-4a281911/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-03-luz-carro-policia.png-4a281911/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-01-03-luz-carro-policia.png-4a281911/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "36155760-8c5b-4cb0-9187-286c8d45fd49",
          "title": "Autor do atentado de Nova Orleães agiu sozinho e inspirado pelo Estado Islâmico",
          "description": "<p>O atacante, Shamsud-Din Jabbar, foi \"100% inspirado\" pelo Estado Islâmico no ataque</p>",
@@ -255,18 +287,6 @@
          "published": 1735858620000,
          "created": 1735858620000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "bdf67837-86ea-4f30-805d-c39758ca8ef1",
-         "title": "União Europeia. Que futuro?",
-         "description": "",
-         "link": "https://expresso.pt/semanario/primeiro/cartas/2025-01-02-uniao-europeia.-que-futuro--8969235d",
-         "author": "Expresso",
-         "published": 1735858620000,
-         "created": 1735858620000,
-         "category": "Cartas",
          "enclosures": [],
          "media": {}
       }
