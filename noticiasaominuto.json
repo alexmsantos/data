@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2700952/joe-biden-vai-entregar-medalha-da-presidencial-da-liberdade-a-19-pessoas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Biden entrega medalha a 19 pessoas. Bono e Messi incluídos",
+         "description": "São vários os nomes que compõem a lista de 19 pessoas, desde políticos, a artistas ou desportistas.",
+         "link": "https://www.noticiasaominuto.com/mundo/2700952/joe-biden-vai-entregar-medalha-da-presidencial-da-liberdade-a-19-pessoas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1736001004000,
+         "created": 1736001004000,
+         "category": "Mundo",
+         "content": "<p>O presidente dos Estados Unidos, Joe Biden, nomeou 19 pessoas para receberem a Medalha Presidencial da Liberdade, este sábado. Na lista destacam-se nomes como Hillary Clinton, Bono, Magic Johnson ou Lionel Messi. </p>\n<div class=\"dummyPub\"> </div>\n<p>Foi através de <a href=\"https://whitehouse.gov/briefing-room/statements-releases/2025/01/04/president-biden-announces-recipients-of-the-presidential-medal-of-freedom-3/\">um comunicado no site da Casa Branca</a> que se ficou a conhecer uma lista de 19 pessoas que serão condecoradas por Joe Biden. A medalha da Liberdade \"é atribuída a pessoas que tenham contribuído de forma exemplar para a prosperidade, valores ou segurança dos Estados Unidos, paz mundial ou outros esforços sociais, públicos ou privados significativos\".</p>\n<p>São vários os nomes que compõem a lista, desde políticos a artistas (das mais variadas áreas) ou desportistas. </p>\n<p>Hillary Clinton, a primeira mulher eleita para o Senado dos Estados Unidos, vai ser condecorada. Na lista constam também os nomes do basquetebolista Magic Johnson e do futebolista argentino, Lionel Messi. </p>\n<p>Há ainda nomes como Bono, vocalista dos U2, o ator Michael J. Fox, o designer Ralph Lauren ou a antiga editora-chefe da Vogue, Ana Wintour.</p>\n<p>Serão também entregues medalhas, de forma póstuma, a Fannie Lou Harmer, Robert Francis Kennedy, George W. Romney e Ashton Baldwin Carter.</p>\n<p>As medalhas vão ser entregues este sábado na Casa Branca.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2700915/estados-unidos-destinam-291-milhoes-de-euros-a-luta-contra-gripe-das-aves\" target=\"_blank\" rel=\"noopener noreferrer\">Estados Unidos destinam 291 milhões de euros à luta contra gripe das aves</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66b8e2daa454b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O presidente dos Estados Unidos, Joe Biden, nomeou 19 pessoas para receberem a Medalha Presidencial da Liberdade, este sábado. Na lista destacam-se nomes como Hillary Clinton, Bono, Magic Johnson ou Lionel Messi. </p>\n<div class=\"dummyPub\"> </div>\n<p>Foi através de <a href=\"https://whitehouse.gov/briefing-room/statements-releases/2025/01/04/president-biden-announces-recipients-of-the-presidential-medal-of-freedom-3/\">um comunicado no site da Casa Branca</a> que se ficou a conhecer uma lista de 19 pessoas que serão condecoradas por Joe Biden. A medalha da Liberdade \"é atribuída a pessoas que tenham contribuído de forma exemplar para a prosperidade, valores ou segurança dos Estados Unidos, paz mundial ou outros esforços sociais, públicos ou privados significativos\".</p>\n<p>São vários os nomes que compõem a lista, desde políticos a artistas (das mais variadas áreas) ou desportistas. </p>\n<p>Hillary Clinton, a primeira mulher eleita para o Senado dos Estados Unidos, vai ser condecorada. Na lista constam também os nomes do basquetebolista Magic Johnson e do futebolista argentino, Lionel Messi. </p>\n<p>Há ainda nomes como Bono, vocalista dos U2, o ator Michael J. Fox, o designer Ralph Lauren ou a antiga editora-chefe da Vogue, Ana Wintour.</p>\n<p>Serão também entregues medalhas, de forma póstuma, a Fannie Lou Harmer, Robert Francis Kennedy, George W. Romney e Ashton Baldwin Carter.</p>\n<p>As medalhas vão ser entregues este sábado na Casa Branca.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2700915/estados-unidos-destinam-291-milhoes-de-euros-a-luta-contra-gripe-das-aves\" target=\"_blank\" rel=\"noopener noreferrer\">Estados Unidos destinam 291 milhões de euros à luta contra gripe das aves</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2700948/portuguesa-encontrada-morta-na-suica-nao-ha-indicios-de-crime?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Portuguesa encontrada morta na Suíça. \"Não há indícios de crime\"",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>A Foxconn está a adotar as tecnologias de 'software' e as plataformas de 'hardware' da Nvidia, para desenvolver robôs semelhantes aos humanos em Kaohsiung, cidade portuária no sul de Taiwan, disse o presidente da empresa taiwanesa Young Liu, de acordo com a CNA.</p>\n<div class=\"dummyPub\"> </div>\n<p>A Foxconn, que já introduziu robôs não humanoides em algumas das linhas de produção, com recurso às tecnologias da Nvidia, está a planear lançar robôs com forma humana noutros serviços, incluindo no setor da saúde, referiu Liu, sem fornecer mais detalhes.</p>\n<p>A parceria entre a Foxconn e a Nvidia vem de longa data: a tecnológica taiwanesa é a principal fabricante dos servidores GB200 da empresa norte-americana, essenciais para o desenvolvimento de aplicações de inteligência artificial (IA).</p>\n<p>Neste sentido, Liu avançou que as vendas da Foxconn vão ultrapassar os sete biliões de dólares taiwaneses (cerca de 206 mil milhões de euros) em 2025, acima dos 6,2 biliões (cerca de 182,7 mil milhões de euros) alcançados nos primeiros onze meses do ano passado, graças à forte procura global de aplicações de IA.</p>\n<p>Fundada em 1974, a Foxconn é o maior fabricante mundial de produtos eletrónicos por contrato, com fábricas e centros de investigação nos Estados Unidos, China, Índia, Japão, Vietname, entre outros países.</p>\n<p>Tal como outras tecnológicas, a Foxconn beneficiou nos últimos meses do otimismo em relação ao desenvolvimento da IA: as ações na bolsa de valores de Taiwan subiram 74% no último ano.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/tech/2695746/inspirados-no-homem-de-ferro-criam-robo-que-ajuda-paraplegicos-a-andar\" target=\"_blank\" rel=\"noopener noreferrer\">Inspirados no 'Homem de Ferro' criam robô que ajuda paraplégicos a andar</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2700827/nicolas-otamendi-vai-atingir-marca-redonda-no-benfica-de-olho-no-city?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nicolás Otamendi vai atingir marca redonda no Benfica... de olho no City",
-         "description": "Defesa argentino perto dos 200 jogos. Pelos cityzens fez 210.",
-         "link": "https://www.noticiasaominuto.com/desporto/2700827/nicolas-otamendi-vai-atingir-marca-redonda-no-benfica-de-olho-no-city?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1735975653000,
-         "created": 1735975653000,
-         "category": "Desporto",
-         "content": "<p>A cumprir a quinta época ao serviço do Benfica, Nicolás Otamendi deverá realizar, este sábado, o seu 200.º jogo de águia ao peito, na receção ao Sporting de Braga.</p>\n<div class=\"dummyPub\"> </div>\n<p>Numa carreira em que já leva 768 jogos, 123 foram ao serviço da seleção da Argentina, enquanto os outros 645 aconteceram pelos clubes que representou, sendo que o Manchester City foi o clube onde fez mais partidas (210).</p>\n<p>Dessa forma, o capitão da equipa de Bruno Lage não só está à beira de atingir uma marca redonda nos encarnados, como poderá, no decorrer da presente temporada, ultrapassar o recorde alcançado ao serviço dos cityzens.</p>\n<p>De referir que, em 199 jogos, Nicolás Otamendi apontou um total de oito golos e sete assistências, sendo que, esta temporada, já contribuiu com um remate certeiro e três passes para golo, em 21 partidas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2700282/e-preciso-ter-pernas-otamendi-entre-jogadores-com-mais-minutos-em-2024\" target=\"_blank\" rel=\"noopener noreferrer\">'É preciso ter pernas'. Otamendi entre jogadores com mais minutos em 2024</a></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2700409/ha-que-ver-se-otamendi-e-di-maria-podem-continuar-a-ser-uteis-a-benfica\" target=\"_blank\" rel=\"noopener noreferrer\">\"Há que ver se Otamendi e Di María podem continuar a ser úteis a Benfica\"</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6778e19042d63.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>A cumprir a quinta época ao serviço do Benfica, Nicolás Otamendi deverá realizar, este sábado, o seu 200.º jogo de águia ao peito, na receção ao Sporting de Braga.</p>\n<div class=\"dummyPub\"> </div>\n<p>Numa carreira em que já leva 768 jogos, 123 foram ao serviço da seleção da Argentina, enquanto os outros 645 aconteceram pelos clubes que representou, sendo que o Manchester City foi o clube onde fez mais partidas (210).</p>\n<p>Dessa forma, o capitão da equipa de Bruno Lage não só está à beira de atingir uma marca redonda nos encarnados, como poderá, no decorrer da presente temporada, ultrapassar o recorde alcançado ao serviço dos cityzens.</p>\n<p>De referir que, em 199 jogos, Nicolás Otamendi apontou um total de oito golos e sete assistências, sendo que, esta temporada, já contribuiu com um remate certeiro e três passes para golo, em 21 partidas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2700282/e-preciso-ter-pernas-otamendi-entre-jogadores-com-mais-minutos-em-2024\" target=\"_blank\" rel=\"noopener noreferrer\">'É preciso ter pernas'. Otamendi entre jogadores com mais minutos em 2024</a></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2700409/ha-que-ver-se-otamendi-e-di-maria-podem-continuar-a-ser-uteis-a-benfica\" target=\"_blank\" rel=\"noopener noreferrer\">\"Há que ver se Otamendi e Di María podem continuar a ser úteis a Benfica\"</a></p>",
          "media": {}
       }
    ]
