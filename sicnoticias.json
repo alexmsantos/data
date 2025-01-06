@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "ef401f7d-fe06-4a88-bb45-bd2c62705191",
+         "title": "Duas urgências estão hoje encerradas na região de Lisboa e Vale do Tejo",
+         "description": "<p><span>De acordo com o portal do SNS, há ainda 18 urgências que vão estar a funcionar de forma limitada.</span></p>",
+         "link": "https://sicnoticias.pt/pais/2025-01-06-duas-urgencias-encerradas-na-regiao-de-lisboa-e-vale-do-tejo-0b71e053",
+         "author": "SIC Notícias",
+         "published": 1736150213000,
+         "created": 1736150213000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-12-29-Urgencias.jpg-cc018ca3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-12-29-Urgencias.jpg-cc018ca3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2023-12-29-Urgencias.jpg-cc018ca3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "d3f06412-e48d-4a50-9607-93687bb7da38",
          "title": "Operação policial no Martim Moniz: queixa subscrita por personalidades é entregue esta segunda-feira",
          "description": "<p><span>Os promotores pedem à provedora de Justiça para</span><span>&nbsp;</span><span>averiguar e apurar a legitimidade e proporcionalidade</span><span>&nbsp;</span><span>da atuação policial na Rua do Benformoso por acreditarem numa </span><span>\"atuação desnecessária e humilhante\"</span><span>&nbsp;</span><span>por parte da PSP.</span></p>",
@@ -64,35 +93,6 @@
          }
       },
       {
-         "id": "4351ea80-c21f-448c-acc8-7f6752ca7b8f",
-         "title": "Milhões de toneladas de cobre descobertos em planalto do Tibete 30 vezes maior que Portugal",
-         "description": "<p><span>O planalto tibetano onde foi descoberto o cobre é 30 vezes maior do que Portugal continental e tem vindo a adquirir uma importância económica crescente, devido às suas vastas reservas minerais e recursos energéticos.</span></p>",
-         "link": "https://sicnoticias.pt/mundo/2025-01-06-milhoes-de-toneladas-de-cobre-descobertos-em-planalto-do-tibete-30-vezes-maior-que-portugal-219c8aea",
-         "author": "SIC Notícias",
-         "published": 1736148900000,
-         "created": 1736148900000,
-         "category": "Mundo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-01-06-qinghai-tibete-15eb5e6c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-01-06-qinghai-tibete-15eb5e6c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-01-06-qinghai-tibete-15eb5e6c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "708b5758-5b5f-47c4-a544-e634fc82c515",
          "title": "André Ponte: “Não deve haver televisão no quarto. A cama só pode servir para duas coisas, dormir e sexo”",
          "description": "Adormece no sofá, mas quando chega à cama não consegue sequer fechar os olhos? Apesar de se estimar gastos de milhões em medicamentos para dormir, a valeriana, a melatonina ou outros suplementos não são a solução. Os especialistas André Ponte e Henrique Prata Ribeiro, neste Consulta Aberta, explicam como retirar a televisão do quarto ou parar com os <i>scrolls</i> infinitos nas redes pode ser tão ou mais eficaz que certos suplementos. “Dormir é fácil”, garantem. Ouça aqui o novo episódio do podcast",
@@ -116,6 +116,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-01-03-fox_henrique_andre_0005.jpg-bae0e581/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "4351ea80-c21f-448c-acc8-7f6752ca7b8f",
+         "title": "Milhões de toneladas de cobre descobertos em planalto do Tibete 30 vezes maior que Portugal",
+         "description": "<p><span>O planalto tibetano onde foi descoberto o cobre é 30 vezes maior do que Portugal continental e tem vindo a adquirir uma importância económica crescente, devido às suas vastas reservas minerais e recursos energéticos.</span></p>",
+         "link": "https://sicnoticias.pt/mundo/2025-01-06-milhoes-de-toneladas-de-cobre-descobertos-em-planalto-do-tibete-30-vezes-maior-que-portugal-219c8aea",
+         "author": "SIC Notícias",
+         "published": 1736148900000,
+         "created": 1736148900000,
+         "category": "Mundo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-01-06-qinghai-tibete-15eb5e6c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-01-06-qinghai-tibete-15eb5e6c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-01-06-qinghai-tibete-15eb5e6c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-04-04-hospital-aborto-ginecologia-obstetricia.jpg-3018e040/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "c947f8fa-ada5-4441-87a7-fc3e7fc3f37a",
-         "title": "Atriz brasileira faz história nos Globos de Ouro",
-         "description": "<p><span>Fernanda Torres</span><span> ultrapassou nomes como </span><span>Angelina Jolie, Kate Winslet, Pamela Anderson, Tilda Swinton e Nicole Kidman.</span></p>",
-         "link": "https://sicnoticias.pt/cultura/2025-01-06-globos-de-ouro-brasileira-fernanda-torres-faz-historia-ao-ganhar-premio-de-melhor-atriz-21c63bae",
-         "author": "Lusa",
-         "published": 1736147167000,
-         "created": 1736147167000,
-         "category": "Cultura",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-01-06-fernanda-torres-62e71703/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-01-06-fernanda-torres-62e71703/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-01-06-fernanda-torres-62e71703/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
