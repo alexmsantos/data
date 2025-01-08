@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2703181/atirador-do-palacio-do-gelo-entregou-se-a-policia-judiciaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Atirador do Palácio do Gelo entregou-se à Polícia Judiciária",
+         "description": "O homem entregou-se na terça-feira na Polícia Judiciária em Coimbra.",
+         "link": "https://www.noticiasaominuto.com/pais/2703181/atirador-do-palacio-do-gelo-entregou-se-a-policia-judiciaria?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1736337429000,
+         "created": 1736337429000,
+         "category": "País",
+         "content": "<p>[Notícia em atualização]</p>\n<div class=\"dummyPub\"> </div>\n<p> </p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67568fc373a0e.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>[Notícia em atualização]</p>\n<div class=\"dummyPub\"> </div>\n<p> </p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2703175/conde-nast-portugal-na-lista-de-grandes-destinos-para-vistar-em-2025?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Condé Nast. Portugal na lista de grandes destinos para vistar em 2025",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>A segurança esteve, esta terça-feira, em debate no Parlamento, tendo Mariana Mortágua usado posteriormente as redes sociais para expor alguns números relativos a este tema.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"O Chega marcou para hoje um debate sobre 'segurança em Portugal'. Vamos aos factos? Em 2023 houve -56% (-864 casos) de crimes contra a vida do que em 2012, quando o PSD governava com o apoio de André Ventura\", começa por escrever a bloquista, numa série de tweets.</p>\n<p>\"No mesmo período, os casos de violência doméstica aumentaram 17% (+ 3800 casos). Os crimes de ódio, contra a identidade cultural e a integridade pessoal, aumentaram 5143% (+ 360 casos)\", prossegue, concluindo que <span class=\"news_bold\">\"a política de 'percepções', que leva o PSD e o Chega a perseguirem imigrantes sem razão, é a mesma que os faz desvalorizar a violência que agride e mata mulheres</span>\".</p>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"pt\">Os factos são estes:<br>1. A criminalidade violenta não está a crescer em Portugal e é inferior à registada há dez anos.<br>2. Os crimes contra as mulheres e os crimes de ódio têm aumentado. (5/7)</p>\n— mariana mortágua (@MRMortagua) <a href=\"https://twitter.com/MRMortagua/status/1876674350302314717?ref_src=twsrc%5Etfw\">January 7, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<p>\"Os factos são estes: 1. A criminalidade violenta não está a crescer em Portugal e é inferior à registada há dez anos. 2. Os crimes contra as mulheres e os crimes de ódio têm aumentado\", escreve Mariana Mortágua, defendendo que <span class=\"news_bold\">\"o debate que o Chega marcou não é sobre segurança, nem sobre dados, nem sobre factos. É sobre a luta de dois partidos, Chega e PSD, que incendeiam o país para fazer do fogo propaganda\"</span>.</p>\n<p>Realizou-se ontem na Assembleia da República um debate de urgência requerido pelo Chega e que foi encerrado por André Ventura, que pediu o fim da imigração proveniente do subcontinente indiano e em que atacou a comunidade cigana.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2698809/caso-rosalino-bloco-quer-revogacao-do-decreto-e-ouvir-leitao-amaro\" target=\"_blank\" rel=\"noopener noreferrer\">Caso Rosalino? Bloco quer revogação do decreto e ouvir Leitão Amaro</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2703021/drones-ucranianos-provocam-incendio-em-zona-estrategica-de-cidade-russa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Drones' ucranianos provocam incêndio em zona estratégica de cidade russa",
-         "description": "Vários 'drones' enviados pela Ucrânia provocaram hoje um incêndio numa zona industrial da cidade russa de Engels, onde está localizada uma base aérea considerada estratégica para os ataques russos a infraestrutas energéticas na Ucrânia.",
-         "link": "https://www.noticiasaominuto.com/mundo/2703021/drones-ucranianos-provocam-incendio-em-zona-estrategica-de-cidade-russa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1736325083000,
-         "created": 1736325083000,
-         "category": "Mundo",
-         "content": "<p>\"Sarátov e Engels foram alvo de um ataque massivo de 'drones' esta noite (...). Ocorreram danos numa das zonas industriais\", escreveu no Telegram Román Busargin, governador da região de Saratov, onde se situa a cidade atacada.</p>\n<div class=\"dummyPub\"> </div>\n<p>Román Busargin adiantou que o incêndio foi causado por fragmentos de aeronaves não tripuladas abatidas por baterias antiaéreas.</p>\n<p>O governador especificou que, segundo dados preliminares, não houve feridos e que os \"serviços de emergência procederam à eliminação das consequências do incidente\".</p>\n<p>Segundo o canal Baza do Telegram, testemunhas oculares relataram explosões na zona da refinaria de Engels.</p>\n<p>No total, segundo o Ministério da Defesa, as defesas antiaéreas russas abateram hoje 32 drones ucranianos.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2702927/russia-deteta-novas-manchas-de-petroleo-nas-praias-da-crimeia\" target=\"_blank\" rel=\"noopener noreferrer\">Rússia deteta novas manchas de petróleo nas praias da Crimeia</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_677e37c341fbe.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>\"Sarátov e Engels foram alvo de um ataque massivo de 'drones' esta noite (...). Ocorreram danos numa das zonas industriais\", escreveu no Telegram Román Busargin, governador da região de Saratov, onde se situa a cidade atacada.</p>\n<div class=\"dummyPub\"> </div>\n<p>Román Busargin adiantou que o incêndio foi causado por fragmentos de aeronaves não tripuladas abatidas por baterias antiaéreas.</p>\n<p>O governador especificou que, segundo dados preliminares, não houve feridos e que os \"serviços de emergência procederam à eliminação das consequências do incidente\".</p>\n<p>Segundo o canal Baza do Telegram, testemunhas oculares relataram explosões na zona da refinaria de Engels.</p>\n<p>No total, segundo o Ministério da Defesa, as defesas antiaéreas russas abateram hoje 32 drones ucranianos.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2702927/russia-deteta-novas-manchas-de-petroleo-nas-praias-da-crimeia\" target=\"_blank\" rel=\"noopener noreferrer\">Rússia deteta novas manchas de petróleo nas praias da Crimeia</a></p>",
          "media": {}
       }
    ]
