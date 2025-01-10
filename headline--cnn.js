@@ -5,7 +5,8 @@ const url = 'https://www.cnn.com';
 
 puppeteer
   .launch({
-    headless: "new"
+    headless: "new",
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
   })
   .then(function(browser) {
     return browser.newPage();

@@ -4,7 +4,9 @@ const cheerio = require('cheerio');
 const url = 'https://www.ft.com';
 
 puppeteer
-  .launch()
+  .launch({
+    args: ['--no-sandbox', '--disable-setuid-sandbox'] // Added no-sandbox flag
+  })
   .then(function(browser) {
     return browser.newPage();
   })
