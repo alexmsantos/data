@@ -1,1 +1,25 @@
+name: Fetch 20 cientistas
 
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron:  '0 4 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Convert google sheet to csv
+      run: |-
+        wget -O 20cientistas.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vTEw3Cv7uqfzyECMTM9eIDLxiHfiQlGQyImnmbHB9NWuzQsayGdApnL-5ynrgrHz8aG2nFQwuFPwtXj/pub?output=csv"
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated csv 20 cientistas")
+        git push
