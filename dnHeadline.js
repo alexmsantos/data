@@ -4,14 +4,16 @@ const cheerio = require('cheerio');
 const url = 'https://www.dn.pt';
 
 puppeteer
-  .launch()
+  .launch({
+    args: ['--no-sandbox', '--disable-setuid-sandbox'] // Added no-sandbox flag
+  })
   .then(function(browser) {
     return browser.newPage();
   })
   .then(function(page) {
-    return page.goto(url).then(function() {
+    return page.goto(url, { timeout: 90000 }).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('.sk-1 h2.title', '.sk-left .sk-1 a.clean-link');
+      return page.waitForSelector('.sk-1 h2.title', '.sk-left .sk-1 a.clean-link', { timeout: 20000 });
     })
     .then(function() {
       return page.content();
