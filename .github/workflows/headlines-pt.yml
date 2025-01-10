@@ -36,9 +36,9 @@ jobs:
     - name: Scrape RTP Notícias
       run: node rtpHeadline.js
       continue-on-error: true
-    - name: Scrape Novo
-      run: node novoHeadline.js
-      continue-on-error: true
+    #- name: Scrape Novo
+    #  run: node novoHeadline.js
+    #  continue-on-error: true
     - name: Scrape Renascença
       run: node renascencaHeadline.js
       continue-on-error: true
