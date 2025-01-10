@@ -18,9 +18,9 @@ jobs:
     - name: Headline NYTimes
       run: node headline--nytimes.js
       continue-on-error: true
-    - name: Headline Wapo
-      run: node headline--wapo.js
-      continue-on-error: true
+    #- name: Headline Wapo
+    #  run: node headline--wapo.js
+    #  continue-on-error: true
     - name: Headline FT
       run: node headline--ft.js
       continue-on-error: true
