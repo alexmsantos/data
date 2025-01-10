@@ -13,7 +13,7 @@ puppeteer
   .then(function(page) {
     return page.goto(url).then(function() {
       // Wait for the dynamic content to load
-      return page.waitForSelector('.component-root h2.title', '.component-root a.clean-link');
+      return page.waitForSelector('.arr--headline > a > .headline-m_headline__3_NhV', '.arr--headline > a');
     })
     .then(function() {
       return page.content();
@@ -22,8 +22,8 @@ puppeteer
   .then(function(html) {
     const $ = cheerio.load(html);
 
-    const articleTitle = $('.component-root h2.title');
-    const articleUrl = $('.component-root a.clean-link');
+    const articleTitle = $('.arr--headline > a > .headline-m_headline__3_NhV');
+    const articleUrl = $('.arr--headline > a');
     let ms = new Date();
     const dateIso = ms.toISOString()
 
