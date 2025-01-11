@@ -14,8 +14,25 @@
          "published": 1736615287000,
          "created": 1736615287000,
          "category": "Mundo",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-01-03-vulcao-erupcao-vulcanica-lava-6138a341/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-01-03-vulcao-erupcao-vulcanica-lava-6138a341/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-01-03-vulcao-erupcao-vulcanica-lava-6138a341/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "a22ad06f-f2ba-4cbe-9d3e-31954c7f2b18",
