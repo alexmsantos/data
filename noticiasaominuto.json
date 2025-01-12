@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2706085/domingo-com-maximas-de-20c-mas-temperatura-baixa-amanha-o-que-esperar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Domingo com máximas de 20ºC, mas temperatura baixa amanhã. O que esperar",
+         "description": "Segunda-feira com vento forte nas terras altas e descida de temperatura, em especial da mínima.",
+         "link": "https://www.noticiasaominuto.com/pais/2706085/domingo-com-maximas-de-20c-mas-temperatura-baixa-amanha-o-que-esperar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1736713034000,
+         "created": 1736713034000,
+         "category": "País",
+         "content": "<p>Depois de um domingo de sol e com máximas acima dos 20 graus, as temperaturas deverão descer esta segunda-feira, segundo a previsão do Instituto Português do Mar e da Atmosfera (IPMA).</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com o IPMA, amanhã é esperado \"céu pouco nublado ou limpo\". O vento soprará \"em geral fraco predominando de nordeste, soprando moderado a forte (25 a 40 km/h) nas terras altas\". </p>\n<p>Está prevista \"formação de geada, em especial nas regiões do interior\", </p>\n<p>Já a temperatura vai descer, em especial a mínima. As máximas vão variar entre os 17 graus, em Faro, Setúbal, Leiria e Braga, e os 7 graus, na Guarda. Já as mínimas vão oscilar entre os 9 graus, no Porto, e os -2 graus em Bragança. </p>\n<p>De recordar que o IPMA já havia informado <a href=\"https://www.noticiasaominuto.com/pais/2705335/chuva-vai-dar-treguas-veja-como-vai-estar-o-tempo-na-proxima-semana\">que esta semana, de 13 a 19 de janeiro, será de \"tempo em geral seco e frio\"</a>. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2705784/5-ilhas-dos-acores-sob-aviso-amarelo-por-chuva-vento-e-agitacao-maritima\" target=\"_blank\" rel=\"noopener noreferrer\">5 ilhas dos Açores sob aviso amarelo por chuva, vento e agitação marítima</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_549466f8b9bdb.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Depois de um domingo de sol e com máximas acima dos 20 graus, as temperaturas deverão descer esta segunda-feira, segundo a previsão do Instituto Português do Mar e da Atmosfera (IPMA).</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com o IPMA, amanhã é esperado \"céu pouco nublado ou limpo\". O vento soprará \"em geral fraco predominando de nordeste, soprando moderado a forte (25 a 40 km/h) nas terras altas\". </p>\n<p>Está prevista \"formação de geada, em especial nas regiões do interior\", </p>\n<p>Já a temperatura vai descer, em especial a mínima. As máximas vão variar entre os 17 graus, em Faro, Setúbal, Leiria e Braga, e os 7 graus, na Guarda. Já as mínimas vão oscilar entre os 9 graus, no Porto, e os -2 graus em Bragança. </p>\n<p>De recordar que o IPMA já havia informado <a href=\"https://www.noticiasaominuto.com/pais/2705335/chuva-vai-dar-treguas-veja-como-vai-estar-o-tempo-na-proxima-semana\">que esta semana, de 13 a 19 de janeiro, será de \"tempo em geral seco e frio\"</a>. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2705784/5-ilhas-dos-acores-sob-aviso-amarelo-por-chuva-vento-e-agitacao-maritima\" target=\"_blank\" rel=\"noopener noreferrer\">5 ilhas dos Açores sob aviso amarelo por chuva, vento e agitação marítima</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2706088/populista-zoran-milanovic-reeleito-presidente-da-croacia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Populista Zoran Milanovic reeleito presidente da Croácia",
@@ -398,7 +421,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2705973/real-madrid-barcelona-merengues-e-catalaes-disputam-a-supertaca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[1-4] Real Madrid-Barcelona: Tem início a segunda parte",
+         "title": "[1-5] Real Madrid-Barcelona: Raphinha ajuda a chegar à goleada",
          "description": "Jogo tem início às 19h, em Jeddah, na Arábia Saudita.",
          "link": "https://www.noticiasaominuto.com/desporto/2705973/real-madrid-barcelona-merengues-e-catalaes-disputam-a-supertaca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Já depois do primeiro deslize ao terceiro jogo pelo AC Milan, fruto do empate no AC Milan-Cagliari (1-1), este sábado, Sérgio Conceição falou aos microfones da Sport TV acerca da sua estreia na Serie A e foi confrontado com a espera pelo \"clube certo\", fruto das várias 'negas' dadas a clubes e seleções desde que saiu do FC  Porto.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Clube certo? É verdade, tive quatro ou cinco clubes da América do Sul, houve seleções até. Existiram muitas abordagens e achei que o próximo passo tinha de ser num clube como este, um clube histórico, que tem sete Liga dos Campeões\", começou por dizer o experiente treinador português.</p>\n<p>\"É verdade que o momento não é fácil, mas estamos aqui para trabalhar e ajudar o AC Milan a ser o colosso mundial. Neste momento está com algumas dificuldades\", completou o ex-FC Porto.</p>\n<p>Recorde-se que, sensivelmente sete meses após ter deixado o Dragão, Sérgio Conceição optou por regressar a Itália, onde já havia estado como futebolista, para render Paulo Fonseca no comando técnico da equipa de Milão.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2705822/sergio-conceicao-atira-se-a-arbitro-apos-deslize-do-milan-sinto-isto\" target=\"_blank\" rel=\"noopener noreferrer\">Sérgio Conceição 'atira-se' a árbitro após deslize do Milan: \"Sinto isto\"</a></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2705870/guardiola-falou-e-sergio-conceicao-desejou-ac-milan-de-olho-em-walker\" target=\"_blank\" rel=\"noopener noreferrer\">Guardiola falou e Sérgio Conceição desejou. AC Milan de olho em Walker</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2705939/sudao-promete-recuperar-territorio-conquistado-pelos-paramilitares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sudão promete recuperar território conquistado pelos paramilitares",
-         "description": "O líder do exército sudanês prometeu hoje recuperar \"cada centímetro\" do Sudão nas mãos do grupo paramilitar Forças de Apoio Rápido (RSF), depois de as forças armadas terem retomado o controlo de uma cidade estratégica.",
-         "link": "https://www.noticiasaominuto.com/mundo/2705939/sudao-promete-recuperar-territorio-conquistado-pelos-paramilitares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1736688989000,
-         "created": 1736688989000,
-         "category": "Mundo",
-         "content": "<p>\"O compromisso das forças armadas sudanesas para com o seu povo é o de recuperar e limpar cada centímetro que foi profanado pela milícia de Dagalo e pelos seus mercenários\", declarou Abdelfatah al Burhan, num comunicado, referindo-se ao líder das FAR, Mohamed Hamdan Dagalo, conhecido como 'Hemedti'.</p>\n<div class=\"dummyPub\"> </div>\n<p>O general reagia à tomada da cidade estratégica de Wad Madani, a capital do estado de Jazira, numa grande ofensiva realizada ontem pelo exército para retomar o local, que estava na posse dos paramilitares desde dezembro de 2023.</p>\n<p>Numa mensagem áudio publicada ontem na sua conta do Telegram, 'Hemedti' reconheceu a vitória das forças armadas e disse que as FAR perderam \"uma batalha, mas não a guerra\", indicando que as suas forças precisam de se reorganizar para lançar uma nova ofensiva.</p>\n<p>\"Há uma cura para todas as doenças, incluindo os drones\", disse o líder paramilitar, que afirmou que os seus combatentes têm capacidade e armas para continuar a lutar durante mais de duas décadas.</p>\n<p>Esta semana, os EUA acusaram as FAR e outras milícias aliadas de cometerem atos de genocídio no decurso da guerra no Sudão, o que levou Washington a impor sanções também contra 'Hemedti'.</p>\n<p>Nos últimos dias, o exército sudanês lançou várias ofensivas para recuperar o controlo das zonas próximas da capital aos paramilitares, que continuam a manter uma forte presença no sul do país e na vasta região ocidental de Darfur, o seu principal reduto.</p>\n<p>A guerra no Sudão matou dezenas de milhares de pessoas e obrigou mais de 14 milhões a fugir das suas casas, tornando o país no palco da pior crise de deslocados do mundo, segundo as Nações Unidas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2705534/sudao-exercito-entra-em-cidade-estrategica-sob-controlo-dos-paramilitares\" target=\"_blank\" rel=\"noopener noreferrer\">Sudão: Exército entra em cidade estratégica sob controlo dos paramilitares</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6783c53eaeb81.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>\"O compromisso das forças armadas sudanesas para com o seu povo é o de recuperar e limpar cada centímetro que foi profanado pela milícia de Dagalo e pelos seus mercenários\", declarou Abdelfatah al Burhan, num comunicado, referindo-se ao líder das FAR, Mohamed Hamdan Dagalo, conhecido como 'Hemedti'.</p>\n<div class=\"dummyPub\"> </div>\n<p>O general reagia à tomada da cidade estratégica de Wad Madani, a capital do estado de Jazira, numa grande ofensiva realizada ontem pelo exército para retomar o local, que estava na posse dos paramilitares desde dezembro de 2023.</p>\n<p>Numa mensagem áudio publicada ontem na sua conta do Telegram, 'Hemedti' reconheceu a vitória das forças armadas e disse que as FAR perderam \"uma batalha, mas não a guerra\", indicando que as suas forças precisam de se reorganizar para lançar uma nova ofensiva.</p>\n<p>\"Há uma cura para todas as doenças, incluindo os drones\", disse o líder paramilitar, que afirmou que os seus combatentes têm capacidade e armas para continuar a lutar durante mais de duas décadas.</p>\n<p>Esta semana, os EUA acusaram as FAR e outras milícias aliadas de cometerem atos de genocídio no decurso da guerra no Sudão, o que levou Washington a impor sanções também contra 'Hemedti'.</p>\n<p>Nos últimos dias, o exército sudanês lançou várias ofensivas para recuperar o controlo das zonas próximas da capital aos paramilitares, que continuam a manter uma forte presença no sul do país e na vasta região ocidental de Darfur, o seu principal reduto.</p>\n<p>A guerra no Sudão matou dezenas de milhares de pessoas e obrigou mais de 14 milhões a fugir das suas casas, tornando o país no palco da pior crise de deslocados do mundo, segundo as Nações Unidas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2705534/sudao-exercito-entra-em-cidade-estrategica-sob-controlo-dos-paramilitares\" target=\"_blank\" rel=\"noopener noreferrer\">Sudão: Exército entra em cidade estratégica sob controlo dos paramilitares</a></p>",
          "media": {}
       }
    ]
