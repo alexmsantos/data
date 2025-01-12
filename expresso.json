@@ -113,8 +113,25 @@
          "published": 1736682598000,
          "created": 1736682598000,
          "category": "Autarquias",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-23-camara-municipal-de-setubal-40b09980/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-23-camara-municipal-de-setubal-40b09980/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-08-23-camara-municipal-de-setubal-40b09980/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "abda6f88-d2ff-4eb4-a214-8003f885c64b",
