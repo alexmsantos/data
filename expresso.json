@@ -130,8 +130,25 @@
          "published": 1737042032000,
          "created": 1737042032000,
          "category": "Expressinho",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-16-artigo-opiniao-duarte-agosto24_prancheta-1.webp-96d74e75/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-16-artigo-opiniao-duarte-agosto24_prancheta-1.webp-96d74e75/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-01-16-artigo-opiniao-duarte-agosto24_prancheta-1.webp-96d74e75/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "6466e39b-a58a-4cbe-82a6-d17ad54a1901",
@@ -223,7 +240,7 @@
       {
          "id": "56396cbb-9056-4e5e-ae82-ea1ac91fc665",
          "title": "“É extemporâneo”: Governo atira para o verão decisão sobre sucessor de Centeno",
-         "description": "<p><span>Mário Centeno termina o primeiro mandato em julho. Pode ser reconduzido, mas o PSD - que sustenta o Governo - já o acusou de falta de independência. Ministro das Finanças garante que ainda não há uma decisão. Pedro Nuno defende que Centeno \"é de uma qualidade indiscutível\". Nome do próximo governo tem de ser sujeito ao Parlamento, mas oposição não tem poder vinculativo para o travar</span></p>",
+         "description": "<p>Mário Centeno termina o primeiro mandato em julho. Pode ser reconduzido, mas o PSD - que sustenta o Governo - já o acusou de falta de independência. Ministro das Finanças garante que ainda não há uma decisão. Pedro Nuno defende que Centeno \"é de uma qualidade indiscutível\". Nome do próximo governador tem de ser sujeito ao Parlamento, mas oposição não tem poder vinculativo para o travar</p>",
          "link": "https://expresso.pt/economia/sistema-financeiro/2025-01-16-e-extemporaneo-governo-atira-para-o-verao-decisao-sobre-sucessor-de-centeno-bfcd887b",
          "author": [
             "Gonçalo Almeida",
