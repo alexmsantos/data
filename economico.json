@@ -14,7 +14,6 @@
          "published": 1737046372000,
          "created": 1737046372000,
          "category": [
-            "Atualidade",
             "Empresas",
             "Sapo Economia"
          ],
@@ -65,7 +64,7 @@
       },
       {
          "id": "https://jornaleconomico.sapo.pt/?p=1258221",
-         "title": "EDP Renováveis vende participação em projetos de energia na Califórnia",
+         "title": "EDP Renováveis vende participação em projetos de energia na Califórnia à ENI",
          "description": "Através da subsidiária EDP Renewables North America, a energética vendeu à Eni uma participação de 49% num portfólio de dois parques solares operacionais e uma instalação de armazenamento de eletricidade ainda em fase de construção. ",
          "link": "https://jornaleconomico.sapo.pt/noticias/edp-renovaveis-vende-participacao-em-projetos-de-energia-na-california/",
          "author": "Nuno Braga",
@@ -94,7 +93,6 @@
          "published": 1737043905000,
          "created": 1737043905000,
          "category": [
-            "Atualidade",
             "Política",
             "Sapo Atualidade",
             "Alexandra Leitão",
@@ -117,7 +115,9 @@
          "category": [
             "Empresas",
             "Sapo Economia",
-            "Telcos"
+            "Telcos",
+            "meo",
+            "vodafone"
          ],
          "content": "<p>A Vodafone e a MEO lideram o barómetro das conexões fixas à Internet em Portugal (da nPerf). O período de análise é de 1 de janeiro de 2024 a 31 de dezembro de 2024.</p>\n<p>O barómetro nPerf é baseado em 20.0184 testes realizados por usuários em condições reais através do site nPerf ou utilizando a aplicação nPerf disponível no Android e iOS.</p>\n<p>A nPerf é uma empresa francesa líder na oferta de dados precisos.</p>\n<p>Os assinantes das operadoras Vodafone e MEO beneficiaram das melhores performances de banda larga no ano passado.</p>\n<p>O estudo explica que o FTTH (Fiber to the Home) é uma tecnologia de rede de banda larga que entrega cabos de fibra óptica diretamente às residências ou empresas. &#8220;Isso proporciona velocidades de internet muito mais rápidas em comparação com conexões tradicionais de cobre ou DSL, pois os cabos de fibra óptica podem transmitir dados em velocidades muito mais altas e por distâncias maiores sem perder a força do sinal&#8221;, lê-se na análise.</p>\n<p>As principais vantagens do FTTH são sua capacidade de proporcionar velocidades simétricas de upload e download.</p>\n<p>Neste ranking a Vodafone destaca-se em 2024 com uma impressionante taxa de bits baixados de 235 Mbps, liderando nos indicadores de Download e Latência, com uma latência de apenas 18 ms. A empresa também se destacou na Navegação, com uma pontuação de 77%.</p>\n<p>Já a MEO manteve a sua liderança em Upload, alcançando uma taxa de bits carregados de 128 Mbps, e continua a ser o vencedor no Streaming de vídeo com uma pontuação de 89%.</p>\n<p>A NOS, embora não tenha liderado em nenhuma categoria, &#8220;apresentou uma impressionante taxa de bits baixados de 198 Mbps e uma pontuação de Streaming de vídeo de 89%, mostrando melhorias significativas em suas capacidades de rede&#8221;, segundo o comunicado.</p>\n<p>Por fim a Nowo apresentou uma performance sólida em Navegação, liderando no ano anterior, mas não conseguiu manter a liderança em 2024.</p>\n<p>A Vodafone e MEO são também os operadores que oferecem a melhor experiência WiFi em Portugal.</p>\n<p><strong>Perceber conceitos</strong></p>\n<p>• Velocidade de download: A taxa com que os dados são transferidos da Internet para o seu dispositivo. Normalmente é medida em megabits por segundo (Mb/s). Velocidades de download acima de 25 Mb/s são consideradas excelentes, permitindo atividades como streaming de vídeo em 4K. Velocidades entre 10 Mb/s e 25 Mb/s são suficientes para streaming em HD. Velocidades abaixo de 10 Mb/s ainda suportam o uso geral da Internet, incluindo e-mail, streaming de música e redes sociais.</p>\n<p>• Velocidade de upload: A taxa com que os dados são enviados do dispositivo do usuário para a Internet.</p>\n<p>• Latência: Refere-se ao atraso ou tempo necessário para que os dados viajem de sua origem ao destino em uma rede. Latência: 0–30 ms é considerada excelente, permitindo interações em tempo real. 31–100 ms suporta desempenho ideal da Internet com atraso mínimo. Acima de 101 ms, os usuários podem enfrentar desafios em interações online em tempo real.</p>\n<p>• Desempenho de navegação: Uma medida de quão rápido e eficiente as páginas da Internet são carregadas e navegadas. Uma pontuação de navegação entre 75% e 100% significa carregamento quase instantâneo de páginas. Pontuações entre 50% e 75% são adequadas para navegação geral. E abaixo de 50%, a experiência de navegação pode ser mais lenta.</p>\n<p>• Qualidade de streaming: A clareza e a fluidez do conteúdo de vídeo e áudio transmitido pela Internet. Streaming: uma pontuação entre 75% и 100% indica streaming fluido. Pontuações entre 50% e 75% são adequadas para streaming no YouTube. E abaixo de 50%, a qualidade do vídeo pode ser comprometida.</p>\n",
          "enclosures": [],
@@ -133,7 +133,6 @@
          "published": 1737042208000,
          "created": 1737042208000,
          "category": [
-            "Atualidade",
             "Mundo",
             "Sapo Atualidade",
             "Saúde",
@@ -182,7 +181,6 @@
          "published": 1737041342000,
          "created": 1737041342000,
          "category": [
-            "Atualidade",
             "Economia",
             "Lusofonia",
             "Mundo",
@@ -206,9 +204,8 @@
          "published": 1737041191000,
          "created": 1737041191000,
          "category": [
-            "Atualidade",
-            "Política",
             "Sapo Atualidade",
+            "Sociedade",
             "Bombeiros Sapadores",
             "Luís Montenegro",
             "negociações"
