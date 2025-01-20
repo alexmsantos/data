@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2711385/urgencia-de-vila-franca-de-xira-lotada-desvia-doentes-em-maca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Urgência de Vila Franca de Xira lotada desvia doentes em maca",
+         "description": "O Hospital de Vila Franca de Xira não está a receber doentes em maca no serviço de urgência até às 09h00 de terça-feira, comunicou o Centro de Orientação de Doentes Urgentes (CODU) aos bombeiros.",
+         "link": "https://www.noticiasaominuto.com/pais/2711385/urgencia-de-vila-franca-de-xira-lotada-desvia-doentes-em-maca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1737403312000,
+         "created": 1737403312000,
+         "category": "País",
+         "content": "<p>O hospital de Vila Franca de Xira, no distrito de Lisboa, encontra-se \"com constrangimentos no serviço de Urgência Geral, não sendo possível receber doentes em maca ou que, pela sua situação clínica, possam vir a necessitar de ficar em maca, até às 09:00 do dia 21\", refere uma comunicação do CODU enviada hoje ao fim da tarde aos sub-comandos regionais e bombeiros da área de influência do hospital, a que a agência Lusa teve acesso.</p>\n<div class=\"dummyPub\"> </div>\n<p>Assim, os doentes transportados em maca estão a ser desviados para a urgência de outros hospitais.</p>\n<p>Esta tarde, pelas 16:40, pelo menos seis ambulâncias estavam retidas na urgência do Hospital de Vila Franca de Xira à espera das macas e as corporações de bombeiros temiam ficar sem meios disponíveis para garantir o socorro à população.</p>\n<p>Segundo disse uma fonte dos bombeiros à Lusa, estavam retidas no local ambulâncias de várias corporações de bombeiros dos concelhos de Vila Franca de Xira, Alenquer e Arruda dos Vinhos.</p>\n<p>Fonte oficial da Unidade Local de Saúde do Estuário do Tejo, que gere o hospital de Vila Franca de Xira, confirmou existirem seis ambulâncias paradas naquela urgência por volta dessa hora.</p>\n<p>\"Houve um pico momentâneo de afluência e estamos a envidar todos os esforços para resolver o problema o mais rapidamente possível\", justificou, sustentando que as 140 macas do hospital estão todas ocupadas.</p>\n<p>Depois disso, o CODU enviou aquela comunicação a avisar os bombeiros que a urgência do hospital de Vila Franca de Xira não estava a receber doentes em macas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2710734/comissao-executiva-do-sns-nao-vejo-uma-real-utilidade\" target=\"_blank\" rel=\"noopener noreferrer\">Comissão executiva do SNS? \"Não vejo uma real utilidade\"</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/39738340.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O hospital de Vila Franca de Xira, no distrito de Lisboa, encontra-se \"com constrangimentos no serviço de Urgência Geral, não sendo possível receber doentes em maca ou que, pela sua situação clínica, possam vir a necessitar de ficar em maca, até às 09:00 do dia 21\", refere uma comunicação do CODU enviada hoje ao fim da tarde aos sub-comandos regionais e bombeiros da área de influência do hospital, a que a agência Lusa teve acesso.</p>\n<div class=\"dummyPub\"> </div>\n<p>Assim, os doentes transportados em maca estão a ser desviados para a urgência de outros hospitais.</p>\n<p>Esta tarde, pelas 16:40, pelo menos seis ambulâncias estavam retidas na urgência do Hospital de Vila Franca de Xira à espera das macas e as corporações de bombeiros temiam ficar sem meios disponíveis para garantir o socorro à população.</p>\n<p>Segundo disse uma fonte dos bombeiros à Lusa, estavam retidas no local ambulâncias de várias corporações de bombeiros dos concelhos de Vila Franca de Xira, Alenquer e Arruda dos Vinhos.</p>\n<p>Fonte oficial da Unidade Local de Saúde do Estuário do Tejo, que gere o hospital de Vila Franca de Xira, confirmou existirem seis ambulâncias paradas naquela urgência por volta dessa hora.</p>\n<p>\"Houve um pico momentâneo de afluência e estamos a envidar todos os esforços para resolver o problema o mais rapidamente possível\", justificou, sustentando que as 140 macas do hospital estão todas ocupadas.</p>\n<p>Depois disso, o CODU enviou aquela comunicação a avisar os bombeiros que a urgência do hospital de Vila Franca de Xira não estava a receber doentes em macas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2710734/comissao-executiva-do-sns-nao-vejo-uma-real-utilidade\" target=\"_blank\" rel=\"noopener noreferrer\">Comissão executiva do SNS? \"Não vejo uma real utilidade\"</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2711382/penafiel-escorrega-em-casa-do-ultimo-e-benfica-b-ja-espreita-trono?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Penafiel 'escorrega' em casa do último e Benfica B já 'espreita' trono",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Segundo a nota, Marcelo Rebelo de Sousa \"tem acompanhado com entusiasmo a prestação portuguesa em Oslo\" e \"falou ontem [domingo] ao telefone com o treinador da seleção nacional, Paulo Pereira, tendo felicitado toda a estrutura técnica, federativa e os jogadores, a quem desejou as maiores felicidades para os próximos jogos da segunda fase do Campeonato do Mundo de andebol\".</p>\n<div class=\"dummyPub\"> </div>\n<p>Marcelo Rebelo de Sousa falou com Paulo Jorge Pereira após a vitória de Portugal sobre a Noruega, coanfitriã do torneio, em Oslo, por 31-28, o que permitiu à seleção nacional alcançar o 'pleno' de triunfos na primeira fase e entrar na ronda principal com quatro pontos.</p>\n<p>Depois de triunfos sobre Estados Unidos (30-21) e Brasil (30-26), que garantiram desde logo o apuramento para a fase seguinte, a formação das 'quinas', que ao intervalo já liderava por 14-13, selou também o triunfo no Grupo E.</p>\n<p>Na 'main round', o 'sete' luso vai integrar o Grupo III, juntamente com Brasil (parte com dois pontos) e Noruega (zero), e também os três primeiros do Grupo F, as equipas que vai defrontar, a Suécia, a Espanha e o vencedor do Japão-Chile de segunda-feira. Os dois primeiros seguem para os 'quartos'.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2711207/pior-manchester-united-da-historia-ha-numeros-que-salvam-ruben-amorim\" target=\"_blank\" rel=\"noopener noreferrer\">Pior Manchester United da história? Há números que 'salvam' Ruben Amorim</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2711193/pesca-do-biqueirao-com-limites-diarios-entre-1688-e-3375-quilos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pesca do biqueirão com limites diários entre 1.688 e 3.375 quilos",
-         "description": "Os limites diários da pesca do biqueirão passaram esta segunda-feira a ser aplicados e variam entre 1.688 e 3.375 quilogramas (kg), segundo um despacho da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM).",
-         "link": "https://www.noticiasaominuto.com/pais/2711193/pesca-do-biqueirao-com-limites-diarios-entre-1688-e-3375-quilos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1737389558000,
-         "created": 1737389558000,
-         "category": "País",
-         "content": "<p>Os limites à captura e descarga do biqueirão aplicam-se à subzona nove (águas portuguesas) do Conselho Internacional para a Exploração do Mar (CIEM) para criar melhores condições para a rentabilidade da espécie.</p>\n<div class=\"dummyPub\"> </div>\n<p>Para as embarcações com comprimento de fora a fora superior a 16 metros o limite é de 3.375 kg (150 cabazes).</p>\n<p>O máximo definido para as embarcações com comprimento igual ou inferior a 16 metros e superior a nove metros é de 2.025 kg (90 cabazes).</p>\n<p>Já para as embarcações com comprimento inferior ou igual a nove metros o limite é de 1.688 kg (70 cabazes).</p>\n<p>O despacho, assinado pela subdiretora-geral da DGRM, Isabel Ventura, entrou hoje em vigor.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2709751/ong-apresenta-queixa-contra-portugal-por-nao-controlar-frotas-de-pesca\" target=\"_blank\" rel=\"noopener noreferrer\">ONG apresenta queixa contra Portugal por não controlar frotas de pesca</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_634ec5e1ea6e1.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Os limites à captura e descarga do biqueirão aplicam-se à subzona nove (águas portuguesas) do Conselho Internacional para a Exploração do Mar (CIEM) para criar melhores condições para a rentabilidade da espécie.</p>\n<div class=\"dummyPub\"> </div>\n<p>Para as embarcações com comprimento de fora a fora superior a 16 metros o limite é de 3.375 kg (150 cabazes).</p>\n<p>O máximo definido para as embarcações com comprimento igual ou inferior a 16 metros e superior a nove metros é de 2.025 kg (90 cabazes).</p>\n<p>Já para as embarcações com comprimento inferior ou igual a nove metros o limite é de 1.688 kg (70 cabazes).</p>\n<p>O despacho, assinado pela subdiretora-geral da DGRM, Isabel Ventura, entrou hoje em vigor.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2709751/ong-apresenta-queixa-contra-portugal-por-nao-controlar-frotas-de-pesca\" target=\"_blank\" rel=\"noopener noreferrer\">ONG apresenta queixa contra Portugal por não controlar frotas de pesca</a></p>",
          "media": {}
       }
    ]
