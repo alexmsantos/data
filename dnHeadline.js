@@ -29,7 +29,7 @@ puppeteer
 
     const jsonString = JSON.stringify(Object.assign({}, {
       title: articleTitle.first().text().trim(),
-      url: 'https://www.dn.pt' + articleUrl[0].attribs.href,
+      url: articleUrl[0].attribs.href,
       fetchDate: dateIso,
       media: "Diário de Notícias"
     }));

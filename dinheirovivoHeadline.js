@@ -29,7 +29,7 @@ puppeteer
 
     const jsonString = JSON.stringify(Object.assign({}, {
       title: articleTitle.first().text().trim(),
-      url: 'https://www.dinheirovivo.pt' + articleUrl[0].attribs.href,
+      url: articleUrl[0].attribs.href,
       fetchDate: dateIso,
       media: "Dinheiro Vivo"
     }));
