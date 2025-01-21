@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2711654/cement-turpin-arbitra-fc-porto-olympiacos-nick-walsh-union-sg-spbraga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cément Turpin arbitra FC Porto-Olympiacos, Nick Walsh Union SG-Sp.Braga",
+         "description": "O francês Clément Turpin é o árbitro designado para o jogo de quinta-feira entre FC Porto e Olympiacos, enquanto o escocês Nick Walsh dirige o Union Saint-Gilloise-Sporting de Braga, informou hoje a UEFA.",
+         "link": "https://www.noticiasaominuto.com/desporto/2711654/cement-turpin-arbitra-fc-porto-olympiacos-nick-walsh-union-sg-spbraga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1737457839000,
+         "created": 1737457839000,
+         "category": "Desporto",
+         "content": "<p>No Estádio do Dragão (17:45), em jogo da sétima e penúltima jornada da Liga Europa, Turpin, internacional desde 2010, terá Nicolas Danos e Erwan Finjean como assistentes e Jérôme Brisard no videoárbitro.</p>\n<div class=\"dummyPub\"> </div>\n<p>Também em jogo da segunda competição da UEFA, com o Sporting de Braga a visitar o Union Saint-Gilloise (20:00), a UEFA apontou o escocês Nick Walsh, que será coadjuvado pelos compatriotas Graeme Stewart e Calum Spence, e no VAR estará Andrew Dallas.</p>\n<p>O FC Porto, que terá José Tavares como treinador interino, após o comunicado que dá conta de negociações para a saída de Vítor Bruno, chega à penúltima ronda da Liga Europa no 18.º lugar, com oito pontos.</p>\n<p>Já o Sporting de Braga contabiliza sete nas seis jornadas disputadas e está em zona de exclusão das competições europeias, na 25.ª posição.</p>\n<p>Na Liga Europa, os oito primeiros classificados na fase de liga apuram-se diretamente para os oitavos de final, e as equipas classificadas entre o nono e o 24.º lugares disputam um 'play off' de acesso a duas mãos.</p>\n<p>A UEFA nomeou também hoje para o jogo entre o Viktoria Plzen e o Anderlecht a equipa portuguesa liderada por António Nobre, com os assistentes Pedro Ribeiro e Nelson Pereira, o VAR André Narciso e AVR Fábio Melo, mais Bruno Vieira como quarto árbitro, enquanto no Elfsborg-Nice, Tiago Martins será o videoárbitro.</p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/43792056.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>No Estádio do Dragão (17:45), em jogo da sétima e penúltima jornada da Liga Europa, Turpin, internacional desde 2010, terá Nicolas Danos e Erwan Finjean como assistentes e Jérôme Brisard no videoárbitro.</p>\n<div class=\"dummyPub\"> </div>\n<p>Também em jogo da segunda competição da UEFA, com o Sporting de Braga a visitar o Union Saint-Gilloise (20:00), a UEFA apontou o escocês Nick Walsh, que será coadjuvado pelos compatriotas Graeme Stewart e Calum Spence, e no VAR estará Andrew Dallas.</p>\n<p>O FC Porto, que terá José Tavares como treinador interino, após o comunicado que dá conta de negociações para a saída de Vítor Bruno, chega à penúltima ronda da Liga Europa no 18.º lugar, com oito pontos.</p>\n<p>Já o Sporting de Braga contabiliza sete nas seis jornadas disputadas e está em zona de exclusão das competições europeias, na 25.ª posição.</p>\n<p>Na Liga Europa, os oito primeiros classificados na fase de liga apuram-se diretamente para os oitavos de final, e as equipas classificadas entre o nono e o 24.º lugares disputam um 'play off' de acesso a duas mãos.</p>\n<p>A UEFA nomeou também hoje para o jogo entre o Viktoria Plzen e o Anderlecht a equipa portuguesa liderada por António Nobre, com os assistentes Pedro Ribeiro e Nelson Pereira, o VAR André Narciso e AVR Fábio Melo, mais Bruno Vieira como quarto árbitro, enquanto no Elfsborg-Nice, Tiago Martins será o videoárbitro.</p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2711671/filme-de-paula-tomas-marques-selecionado-para-festival-de-berlim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Filme de Paula Tomás Marques selecionado para festival de Berlim",
@@ -53,7 +76,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/2711663/belgica-portugues-condenado-a-18-meses-de-prisao-por-lavagem-de-dinheiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Conta milionária levanta suspeitas no Luxemburgo e português é detido",
+         "title": "Conta milionária levanta suspeitas no Luxemburgo. Pertence a português",
          "description": "Foi um banco luxemburguês que levantou suspeitas sobre a conta de António Dâmaso, que continha cerca de 1,2 milhões de euros.",
          "link": "https://www.noticiasaominuto.com/pais/2711663/belgica-portugues-condenado-a-18-meses-de-prisao-por-lavagem-de-dinheiro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Cultivada há milhares de anos, a exótica lichia é um tesouro nutricional e, como constata o nutricionista Gabriel Moliterne, um aliado contra o colesterol. Além disso, contribui para a redução da pressão arterial e os níveis de açúcar no sangue.</p>\n<div class=\"dummyPub\"> </div>\n<p>Fonte de vários nutrientes importantes para a saúde, é rica em vitamina C, fibras e potássio. Por cada 100 gramas de lichia, encontra cerca de 71,5 miligramas de vitamina C. Ou seja, mais de metade do que a mesma quantidade de laranja.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2710829/nutrologa-revela-o-pequeno-almoco-ideal-para-emagrecer\" target=\"_blank\" rel=\"noopener noreferrer\">Nutróloga revela o pequeno-almoço ideal para emagrecer</a></p>\n<p>Em declarações ao jornal Metrópoles, o especialista começa por destacar os benefícios do fruto. \"Contém compostos bioativos poderosos que têm efeitos antioxidantes significativos e ajudam a combater o stress oxidativo e o envelhecimento celular, reduzindo o risco de doenças crónicas e condições autoimunes, como artrite e asma.\"</p>\n<p>Apesar de ser saudável, a lichia \"contém uma grande quantidade de hipoglicina, que altera o metabolismo de açúcar no corpo e faz os níveis de glicose caírem\", alerta nutricionista Gabriel Moliterne, sublinhando que o consumo em excesso pode levar a \"uma redução muito aguda, a hipoglicemia, especialmente quando ingerida sem a combinação com outros alimentos\".</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2708456/todos-os-dias-sao-bons-para-comer-pessego-conheca-os-beneficios\" target=\"_blank\" rel=\"noopener noreferrer\">Todos os dias são bons para comer pêssego. Conheça os benefícios</a></p>\n<p>Recorde-se que existem dois tipos de colesterol: o HDL (lipoproteína de alta densidade)  e o LDL (lipoproteínas de densidade baixa). O primeiro, também conhecido como 'bom colesterol', é responsável pela eliminação de colesterol em excesso do sangue e do que se encontra depositado nas artérias, transportando de volta para o fígado, onde é eliminado. Já o LDL, o 'mau colesterol', transporta o colesterol do fígado para os tecidos onde este poderá ser utilizado. Quando está em excesso é um fator de risco relevante das doenças cardiovasculares.</p>\n<p><span class=\"news_highlight news_bold\" style=\"background-color: #fff1aa;\">Os valores recomendados para o colesterol no sangue são:</span></p>\n<p>Colesterol total - < 190 mg/dl<br>Colesterol LDL - <115mg/dl<br>Colesterol HDL - >40 mg/dl no homem e >45 mg/dl na mulher</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2710935/de-lingrinhas-a-matulao-tres-dicas-para-aumentar-a-massa-muscular\" target=\"_blank\" rel=\"noopener noreferrer\">De lingrinhas a matulão. Três dicas para aumentar a massa muscular</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2711537/villas-boas-afasta-xavi-hernandez-e-estabelece-data-limite?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Villas-Boas afasta Xavi Hernández (e não só) e estabelece data limite",
-         "description": "Presidente portista quer ter novo treinador já frente ao Santa Clara, no domingo. ",
-         "link": "https://www.noticiasaominuto.com/desporto/2711537/villas-boas-afasta-xavi-hernandez-e-estabelece-data-limite?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1737444397000,
-         "created": 1737444397000,
-         "category": "Desporto",
-         "content": "<p>André Villas-Boas está em contrarrelógio em busca do sucessor de Vítor Bruno no comando técnico do FC Porto. O presidente dos dragões decidiu colocar José Tavares, diretor da formação, no cargo de treinador interino e o objetivo passa por fazer chegar um novo técnico para a receção ao Santa Clara, agendada para domingo, adianta o jornal O JOGO na edição desta terça-feira. </p>\n<div class=\"dummyPub\"> </div>\n<p>A mesma publicação refere ainda que há alguns nomes em cima da mesa, mas que o de Xavi Hernández, antigo treinador do Barcelona, já terá sido riscado por conta do esforço financeiro que obrigaria a sua contratação. </p>\n<p>Luís Castro, que já orientara a equipa A do FC Porto em 2013/14, e Edin Terzic, que levou o Borussia Dortmund à final da Liga dos Campeões na época passada, foram outros nomes que foram avançados pela imprensa no dia de ontem, mas que Villas-Boas também terão riscados os mesmos. </p>\n<p>Para já só existe a certeza que José Tavares estará no comando da equipa frente ao Olympiacos já depois de amanhã, quinta-feira, tendo já orientado a sessão de treino na tarde de ontem,<a href=\"https://www.noticiasaominuto.com/desporto/2711386/andre-villas-boas-presente-no-primeiro-treino-de-jose-tavares-no-fc-porto\" target=\"_blank\" rel=\"noopener\"><span class=\"news_bold\"> na qual André Villas-Boas marcou presença. </span></a></p>\n<p>De resto, o presidente do FC Porto fez questão de falar com os jogadores e passou uma mensagem de foco total no jogo relativo à Liga Europa, competição na qual os dragões ainda estão na luta por um lugar na fase seguinte. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2711386/andre-villas-boas-presente-no-primeiro-treino-de-jose-tavares-no-fc-porto\" target=\"_blank\" rel=\"noopener noreferrer\">André Villas-Boas presente no primeiro treino de José Tavares no FC Porto</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_678f4b8617477.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>André Villas-Boas está em contrarrelógio em busca do sucessor de Vítor Bruno no comando técnico do FC Porto. O presidente dos dragões decidiu colocar José Tavares, diretor da formação, no cargo de treinador interino e o objetivo passa por fazer chegar um novo técnico para a receção ao Santa Clara, agendada para domingo, adianta o jornal O JOGO na edição desta terça-feira. </p>\n<div class=\"dummyPub\"> </div>\n<p>A mesma publicação refere ainda que há alguns nomes em cima da mesa, mas que o de Xavi Hernández, antigo treinador do Barcelona, já terá sido riscado por conta do esforço financeiro que obrigaria a sua contratação. </p>\n<p>Luís Castro, que já orientara a equipa A do FC Porto em 2013/14, e Edin Terzic, que levou o Borussia Dortmund à final da Liga dos Campeões na época passada, foram outros nomes que foram avançados pela imprensa no dia de ontem, mas que Villas-Boas também terão riscados os mesmos. </p>\n<p>Para já só existe a certeza que José Tavares estará no comando da equipa frente ao Olympiacos já depois de amanhã, quinta-feira, tendo já orientado a sessão de treino na tarde de ontem,<a href=\"https://www.noticiasaominuto.com/desporto/2711386/andre-villas-boas-presente-no-primeiro-treino-de-jose-tavares-no-fc-porto\" target=\"_blank\" rel=\"noopener\"><span class=\"news_bold\"> na qual André Villas-Boas marcou presença. </span></a></p>\n<p>De resto, o presidente do FC Porto fez questão de falar com os jogadores e passou uma mensagem de foco total no jogo relativo à Liga Europa, competição na qual os dragões ainda estão na luta por um lugar na fase seguinte. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2711386/andre-villas-boas-presente-no-primeiro-treino-de-jose-tavares-no-fc-porto\" target=\"_blank\" rel=\"noopener noreferrer\">André Villas-Boas presente no primeiro treino de José Tavares no FC Porto</a></p>",
          "media": {}
       }
    ]
