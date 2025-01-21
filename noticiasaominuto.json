@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2711883/lider-conservador-alemao-quer-financiar-defesa-com-cortes-sociais-e-de-refugiados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Líder conservador alemão quer financiar Defesa com cortes sociais e de refugiados",
+         "description": "O líder da oposição conservadora alemã, Friedrich Merz, propôs financiar o aumento dos gastos com defesa nos próximos anos com cortes sociais, especificamente com uma reforma da segurança social, e reduzindo a chegada de refugiados à Alemanha.",
+         "link": "https://www.noticiasaominuto.com/mundo/2711883/lider-conservador-alemao-quer-financiar-defesa-com-cortes-sociais-e-de-refugiados?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1737473912000,
+         "created": 1737473912000,
+         "category": "Mundo",
+         "content": "<p>Merz, o candidato a chanceler da União Democrata-Cristã e da União Social-Cristã (CDU/CSU) e favorito em todas as sondagens, afirmou hoje, em declarações à estação de rádio Deutschlandfunk, que a Alemanha tem de conseguir, nos próximos anos, que as despesas militares se situem entre 2,0 % e 4,0 % do produto interno bruto (PIB).</p>\n<div class=\"dummyPub\"> </div>\n<p>Os partidos democráticos alemães concordam com o aumento das despesas com a defesa. Após o início da guerra na Ucrânia, a Alemanha atingiu, pela primeira vez em anos, 2,0% do PIB, o objetivo fixado pela NATO.</p>\n<p>O candidato dos Verdes a chanceler, Robert Habeck, nas eleições legislativas antecipadas de 23 de fevereiro considera que o objetivo deveria ser 3,5% do PIB.</p>\n<p>No entanto, enquanto os outros partidos defendem que, para aumentar as despesas militares, é preciso reformar o chamado travão da dívida - que estipula que o défice não pode ultrapassar 0,35% do PIB - para permitir novos empréstimos, a CDU/CSU considera que o financiamento deve ser feito com cortes.</p>\n<p>\"O plano não é relaxar o travão da dívida, temos de trabalhar com o dinheiro que temos\", considerou Merz.</p>\n<p>\"É necessária uma reforma total do sistema de proteção social e medidas para garantir que menos refugiados venham para o país\", acrescentou.</p>\n<p>Além disso, Merz afirmou que, para dispor de mais recursos, é necessário um relançamento da economia alemã, em recessão pelo segundo ano consecutivo.</p>\n<p>\"Temos de regressar a taxas de crescimento de 1-2%\", afirmou.</p>\n<p>Em 2024, a economia alemã registou uma contração de 0,2%, de acordo com o Serviço Federal de Estatística.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2711791/confianca-dos-investidores-na-alemanha-deteriora-se-em-janeiro\" target=\"_blank\" rel=\"noopener noreferrer\">Confiança dos investidores na Alemanha deteriora-se em janeiro</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61ea5fb0d48e2.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Merz, o candidato a chanceler da União Democrata-Cristã e da União Social-Cristã (CDU/CSU) e favorito em todas as sondagens, afirmou hoje, em declarações à estação de rádio Deutschlandfunk, que a Alemanha tem de conseguir, nos próximos anos, que as despesas militares se situem entre 2,0 % e 4,0 % do produto interno bruto (PIB).</p>\n<div class=\"dummyPub\"> </div>\n<p>Os partidos democráticos alemães concordam com o aumento das despesas com a defesa. Após o início da guerra na Ucrânia, a Alemanha atingiu, pela primeira vez em anos, 2,0% do PIB, o objetivo fixado pela NATO.</p>\n<p>O candidato dos Verdes a chanceler, Robert Habeck, nas eleições legislativas antecipadas de 23 de fevereiro considera que o objetivo deveria ser 3,5% do PIB.</p>\n<p>No entanto, enquanto os outros partidos defendem que, para aumentar as despesas militares, é preciso reformar o chamado travão da dívida - que estipula que o défice não pode ultrapassar 0,35% do PIB - para permitir novos empréstimos, a CDU/CSU considera que o financiamento deve ser feito com cortes.</p>\n<p>\"O plano não é relaxar o travão da dívida, temos de trabalhar com o dinheiro que temos\", considerou Merz.</p>\n<p>\"É necessária uma reforma total do sistema de proteção social e medidas para garantir que menos refugiados venham para o país\", acrescentou.</p>\n<p>Além disso, Merz afirmou que, para dispor de mais recursos, é necessário um relançamento da economia alemã, em recessão pelo segundo ano consecutivo.</p>\n<p>\"Temos de regressar a taxas de crescimento de 1-2%\", afirmou.</p>\n<p>Em 2024, a economia alemã registou uma contração de 0,2%, de acordo com o Serviço Federal de Estatística.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2711791/confianca-dos-investidores-na-alemanha-deteriora-se-em-janeiro\" target=\"_blank\" rel=\"noopener noreferrer\">Confiança dos investidores na Alemanha deteriora-se em janeiro</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2711887/nervosismo-trama-jovens-com-droga-em-fiscalizacao-um-deles-tem-16-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Nervosismo\" trama jovens com droga em fiscalização. Um deles tem 16 anos",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>O FC Porto voltou, esta segunda-feira, aos trabalhos após a saída de Vítor Bruno. Na semana de preparação para o jogo frente ao Olympiacos, a contar para a 7.ª jornada da fase de liga única da Liga Europa, o presidente André Villas-Boas não quis faltar à primeira sessão comandada por José Tavares, que foi anunciado como treinador interino dos dragões.</p>\n<div class=\"dummyPub\"> </div>\n<p>Confira o vídeo.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2711654/cement-turpin-arbitra-fc-porto-olympiacos-nick-walsh-union-sg-spbraga\" target=\"_blank\" rel=\"noopener noreferrer\">Cément Turpin arbitra FC Porto-Olympiacos, Nick Walsh Union SG-Sp.Braga</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2711727/qatar-confiante-na-aplicacao-de-acordo-de-cessar-fogo-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Qatar confiante na aplicação de acordo de cessar-fogo em Gaza",
-         "description": "O Qatar, que atua como um dos mediadores entre Israel e o Hamas, declarou-se hoje confiante na aplicação  do acordo de cessar-fogo, quando decorre o terceiro dia de trégua na Faixa de Gaza.",
-         "link": "https://www.noticiasaominuto.com/mundo/2711727/qatar-confiante-na-aplicacao-de-acordo-de-cessar-fogo-em-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1737460870000,
-         "created": 1737460870000,
-         "category": "Mundo",
-         "content": "<p> \"Estamos confiantes no acordo quanto ao seu conteúdo e no facto de termos resolvido todas as questões importantes que estavam em cima da mesa\", disse o porta-voz do Ministério dos Negócios Estrangeiros do Qatar, Majed al-Ansari, embora tenha reconhecido a sua fragilidade do acordo.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"A mais pequena violação por uma das partes ou uma decisão política poderia obviamente levar ao seu colapso\", acrescentou Al-Ansari durante uma conferência de imprensa em Doha.</p>\n<p>A entrada em vigor da trégua de seis semanas, que aconteceu no domingo passado, marcou o início de um processo ainda incerto que visa colocar um fim a 15 meses de guerra entre Israel e o movimento islamista palestiniano Hamas.</p>\n<p>\"A Administração [do Presidente norte-americano, Donald] Trump apoiou muito este acordo. Nós pensamos, pelos contactos que temos [nos Estados Unidos], que acreditam neste acordo\", enfatizou a autoridade do Qatar.</p>\n<p>O Presidente norte-americano, Donald Trump, que tomou posse do seu segundo mandato presidencial, manifestou na segunda-feira dúvidas sobre a solidez do acordo.</p>\n<p>\"Não é a nossa guerra, é deles. Mas não estou confiante\", respondeu Trump, ao ser questionado se as armas estarão em silêncio durante muito tempo no território palestiniano.</p>\n<p>O acordo prevê um cessar-fogo inicial de 42 dias e a troca de 33 reféns israelitas por cerca de 1.900 prisioneiros palestinianos.</p>\n<p>Após estas seis semanas, deverá ser iniciada uma segunda fase, cujos contornos ainda estão a ser negociados entre Israel e o Hamas, com a mediação dos Estados Unidos, do Egito e do Qatar.</p>\n<p>Após a libertação no domingo passado de três reféns israelitas e 90 prisioneiros palestinianos detidos em Israel, o Hamas deverá libertar quatro mulheres israelitas no sábado, na segunda troca prevista no acordo, anunciou hoje um alto dirigente do Hamas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2711636/israel-garante-regressos-ao-norte-de-gaza-desde-que-hamas-cumpra-acordo\" target=\"_blank\" rel=\"noopener noreferrer\">Israel garante regressos ao Norte de Gaza desde que Hamas cumpra acordo</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67880003518ee.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p> \"Estamos confiantes no acordo quanto ao seu conteúdo e no facto de termos resolvido todas as questões importantes que estavam em cima da mesa\", disse o porta-voz do Ministério dos Negócios Estrangeiros do Qatar, Majed al-Ansari, embora tenha reconhecido a sua fragilidade do acordo.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"A mais pequena violação por uma das partes ou uma decisão política poderia obviamente levar ao seu colapso\", acrescentou Al-Ansari durante uma conferência de imprensa em Doha.</p>\n<p>A entrada em vigor da trégua de seis semanas, que aconteceu no domingo passado, marcou o início de um processo ainda incerto que visa colocar um fim a 15 meses de guerra entre Israel e o movimento islamista palestiniano Hamas.</p>\n<p>\"A Administração [do Presidente norte-americano, Donald] Trump apoiou muito este acordo. Nós pensamos, pelos contactos que temos [nos Estados Unidos], que acreditam neste acordo\", enfatizou a autoridade do Qatar.</p>\n<p>O Presidente norte-americano, Donald Trump, que tomou posse do seu segundo mandato presidencial, manifestou na segunda-feira dúvidas sobre a solidez do acordo.</p>\n<p>\"Não é a nossa guerra, é deles. Mas não estou confiante\", respondeu Trump, ao ser questionado se as armas estarão em silêncio durante muito tempo no território palestiniano.</p>\n<p>O acordo prevê um cessar-fogo inicial de 42 dias e a troca de 33 reféns israelitas por cerca de 1.900 prisioneiros palestinianos.</p>\n<p>Após estas seis semanas, deverá ser iniciada uma segunda fase, cujos contornos ainda estão a ser negociados entre Israel e o Hamas, com a mediação dos Estados Unidos, do Egito e do Qatar.</p>\n<p>Após a libertação no domingo passado de três reféns israelitas e 90 prisioneiros palestinianos detidos em Israel, o Hamas deverá libertar quatro mulheres israelitas no sábado, na segunda troca prevista no acordo, anunciou hoje um alto dirigente do Hamas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2711636/israel-garante-regressos-ao-norte-de-gaza-desde-que-hamas-cumpra-acordo\" target=\"_blank\" rel=\"noopener noreferrer\">Israel garante regressos ao Norte de Gaza desde que Hamas cumpra acordo</a></p>",
          "media": {}
       }
    ]
