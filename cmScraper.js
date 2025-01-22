@@ -55,7 +55,7 @@ const url = 'https://www.cmjornal.pt/cm-ao-minuto';
     await browser.close();
 
     // Write the article data to a JSON file
-    const jsonString = JSON.stringify(articles);
+    const jsonString = JSON.stringify(Object.assign({}, articles))
     fs.writeFile('cm.json', jsonString, function(err){
       if (err) {
         console.log(`Error: ${err.message}`);
