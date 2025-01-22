@@ -22,6 +22,8 @@ jobs:
     - name: Scrape ECO
       run: node ecoScraper.js
       continue-on-error: true
+    - name: Install Chrome
+      run: npx puppeteer browsers install chrome
     - name: Scrape CM
       run: node cmScraper.js
       continue-on-error: true
