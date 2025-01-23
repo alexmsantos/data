@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "6d81cb39-e25a-4eb6-9774-5287c90d4f80",
+         "title": "Dino D'Santiago no Vodafone Paredes de Coura",
+         "description": "<p>Dino D'Santiago é a mais recente confirmação no cartaz do Vodafone Paredes de Coura, que regressa em agosto</p>",
+         "link": "https://expresso.pt/blitz/2025-01-23-dino-dsantiago-no-vodafone-paredes-de-coura-0e0ea61a",
+         "author": "BLITZ",
+         "published": 1737635121000,
+         "created": 1737635121000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-01-16-Dino-DSantiago.jpg-4d771138/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-01-16-Dino-DSantiago.jpg-4d771138/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-01-16-Dino-DSantiago.jpg-4d771138/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "c4c9fe52-9744-43f9-8c15-3a4be8d57b30",
          "title": "Spotify doou 144 mil euros para a cerimónia de tomada de posse de Donald Trump",
          "description": "<p>Um ‘brunch’ e centenas de milhares de euros: o Spotify quis aproximar-se de Donald Trump</p>",
@@ -66,12 +95,13 @@
       {
          "id": "3d5a5530-4f59-473d-a496-e2775adb07ee",
          "title": "Pedro Nuno Santos em entrevista: Estados Gerais duram um ano, \"PS tem de estar preparado\" para eleições antecipadas",
-         "description": "<p>Dizendo que \"não pode ser excluída\" a \"circunstância\" de a legislatura ser interrompida por eleições antecipada, o secretário-geral do PS revela, em entrevista ao Expresso, como modelou o calendário-base dos próximos Estados Gerais do PS em função dessa circunstância. \"Não sabemos quando haverá eleições mas o PS tem de estar preparado\" para \"qualquer eventualidade\".</p>",
+         "description": "<p><span>Dizendo que \"não pode ser excluída\" a \"circunstância\" de a legislatura ser interrompida por eleições antecipada, o secretário-geral do PS revela, em entrevista ao Expresso, como modelou o calendário-base dos próximos Estados Gerais do PS em função dessa circunstância. \"Não sabemos quando haverá eleições mas o PS tem de estar preparado\" para \"qualquer eventualidade\"</span></p>",
          "link": "https://expresso.pt/politica/2025-01-23-pedro-nuno-santos-em-entrevista-estados-gerais-duram-um-ano-ps-tem-de-estar-preparado-para-eleicoes-antecipadas-4a264663",
          "author": [
             "David Dinis",
             "João Pedro Henriques",
-            "Liliana Valente"
+            "Liliana Valente",
+            "Rúben Tiago Pereira"
          ],
          "published": 1737634176000,
          "created": 1737634176000,
@@ -265,35 +295,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-02-08-w600--2-.jpg-378a4527/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "58f9ee71-dee3-41bf-aa8b-d0bcf2543e54",
-         "title": "A cozinha deste novo restaurante de luxo no Algarve é um cofre de comida autêntica",
-         "description": "<p>Para lá do brilho e da decoração sumptuosa, no Authentic Restaurant, em Almancil, o chef Ricardo Luz guarda um tesouro de sabores clássicos, coroados por um serviço acolhedor. O restaurante foi inaugurado em junho de 2024</p>",
-         "link": "https://expresso.pt/boa-cama-boa-mesa/2025-01-23-a-cozinha-deste-novo-restaurante-de-luxo-no-algarve-e-um-cofre-de-comida-autentica-5bdcf033",
-         "author": "Pedro José Barros",
-         "published": 1737631322000,
-         "created": 1737631322000,
-         "category": "Boa Cama Boa Mesa",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-01-21-abertura---sala-privada.jpg-ce07f6ab/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-01-21-abertura---sala-privada.jpg-ce07f6ab/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-01-21-abertura---sala-privada.jpg-ce07f6ab/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
