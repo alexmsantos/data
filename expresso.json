@@ -76,8 +76,25 @@
          "published": 1737705398000,
          "created": 1737705398000,
          "category": "Meteorologia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-24-gettyimages-2194973506.jpg-0f81a9f2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-24-gettyimages-2194973506.jpg-0f81a9f2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-01-24-gettyimages-2194973506.jpg-0f81a9f2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "bd59250f-ff35-444c-b2b5-4087431ba849",
@@ -139,7 +156,7 @@
       },
       {
          "id": "bcd298d9-88b6-49f2-bf09-5829678a8735",
-         "title": "Expresso da Manhã: Pedro Nuno quer disputar o centro político e alinha narrativa, até para falar da imigração",
+         "title": "Pedro Nuno quer disputar o centro político e alinha narrativa, até para falar da imigração",
          "description": "<p>O secretário-geral do PS, embora afirme que recusa rótulos, procura recentrar o partido reconhecendo erros no dossier da imigração. No Expresso da Manhã, Paulo Baldaia conversa com Liliana Valente, coordenadora da secção de política do Expresso</p>",
          "link": "https://expresso.pt/podcasts/expresso-da-manha/2025-01-24-pedro-nuno-quer-disputar-o-centro-politico-e-alinha-narrativa-ate-para-falar-da-imigracao-c289796e",
          "author": [
