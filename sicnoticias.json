@@ -6,11 +6,43 @@
    "category": [],
    "items": [
       {
+         "id": "cefa5b9c-81e3-40c4-9623-ed2a4ca45d9f",
+         "title": "Benfica sofre derrota pesada na visita ao Casa Pia",
+         "description": "Veja aqui os golos da partida.",
+         "link": "https://sicnoticias.pt/especiais/primeira-liga/2025-01-25-video-primeira-liga-benfica-sofre-derrota-na-visita-ao-casa-pia-95ec3052",
+         "author": "SIC Notícias",
+         "published": 1737835109000,
+         "created": 1737835109000,
+         "category": "Primeira Liga",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-01-25-casa-pia-benfica-67c22587/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-01-25-casa-pia-benfica-67c22587/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-01-25-casa-pia-benfica-67c22587/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "48ead6df-8296-4b73-a872-0ba052f52a76",
          "title": "Diretora do serviço de Obstetrícia e Ginecologia do hospital Garcia de Orta demite-se",
          "description": "O hospital, cujos serviços de urgência de Obstetrícia e Ginecologia estão encerrados este fim de semana, diz que Cristina Leite abandona o cargo devido a “motivos pessoais”.",
          "link": "https://sicnoticias.pt/pais/2025-01-25-diretora-do-servico-de-obstetricia-e-ginecologia-do-hospital-garcia-de-orta-demite-se-a352e862",
-         "author": "Carolina Rico",
+         "author": [
+            "Ana Lúcia Martins",
+            "Carolina Rico"
+         ],
          "published": 1737831167000,
          "created": 1737831167000,
          "category": "País",
@@ -261,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-01-20-chuva-tempestade-frio-cfff7368/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "4c32f26a-ba83-467c-b898-c57f8ca96922",
-         "title": "Quatro urgências de obstetrícia/ginecologia e uma pediátrica fechadas",
-         "description": "Estão hoje encerrados os serviços de urgência de Obstetrícia e Ginecologia do Hospital Garcia de Orta, em Almada, do Hospital Nossa Senhora do Rosário, no Barreiro, o Hospital São Bernardo, em Setúbal, e do Hospital Santo André, em Leiria.",
-         "link": "https://sicnoticias.pt/pais/2025-01-25-quatro-urgencias-de-obstetricia-ginecologia-e-uma-pediatrica-fechadas-687c9907",
-         "author": "SIC Notícias",
-         "published": 1737815262000,
-         "created": 1737815262000,
-         "category": "País",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-06-15-urgencias-hospital-geral.jpg-228540bc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-06-15-urgencias-hospital-geral.jpg-228540bc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-06-15-urgencias-hospital-geral.jpg-228540bc/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
