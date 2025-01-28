@@ -191,8 +191,25 @@
          "published": 1738091605000,
          "created": 1738091605000,
          "category": "Política",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-12-17-miguel-albuquerque-assembleia-legislativa-madeira.jpg-7e327f96/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-12-17-miguel-albuquerque-assembleia-legislativa-madeira.jpg-7e327f96/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-12-17-miguel-albuquerque-assembleia-legislativa-madeira.jpg-7e327f96/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "4dbb13e1-ac8e-4184-a402-7dfe493e036f",
