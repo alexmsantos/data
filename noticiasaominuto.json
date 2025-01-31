@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2718515/oficial-paulo-fonseca-esta-de-regresso-a-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: Paulo Fonseca está de regresso a França",
+         "description": "Treinador português irá comandar o Lyon.",
+         "link": "https://www.noticiasaominuto.com/desporto/2718515/oficial-paulo-fonseca-esta-de-regresso-a-franca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1738313196000,
+         "created": 1738313196000,
+         "category": "Desporto",
+         "content": "<p>[Notícia em atualização]</p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_679c8e39577c5.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>[Notícia em atualização]</p>",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2718513/meta-vendeu-um-milhao-de-oculos-da-ray-ban-em-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Meta vendeu um milhão de óculos da Ray-Ban em 2024",
+         "description": "Zuckerberg acredita que este segmento poderá receber mais propostas semelhantes durante este ano.",
+         "link": "https://www.noticiasaominuto.com/tech/2718513/meta-vendeu-um-milhao-de-oculos-da-ray-ban-em-2024?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1738313153000,
+         "created": 1738313153000,
+         "category": "Tech",
+         "content": "<p>O cofundador e CEO da Meta, Mark Zuckerberg, aproveitou uma recente reunião com trabalhadores da empresa para revelar que, em 2024, foram vendidas mais de um milhão de unidades dos óculos inteligentes desenvolvidos em colaboração com a Ray-Ban.</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com o site The Verge, que teve acesso a informações sobre esta reunião, Zuckerberg enalteceu que a Meta <span class=\"news_bold\">“praticamente inventou a categoria”</span>, notando que a concorrência ainda está por aparecer neste segmento.</p>\n<p><span class=\"news_bold\">“Penso que talvez comecemos a ver alguns [concorrentes] mais perto do final do ano, talvez no próximo ano, mas neste momento temos um campo aberto para corrermos e apresentar ao maior número possível de pessoas os óculos com Meta AI e devemos aproveitar essa oportunidade”</span>, adiantou o líder da Meta.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/tech/2718284/mark-zuckerberg-quer-o-regresso-do-facebook-original\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Zuckerberg quer o “regresso do Facebook original”</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_613b2ce0a7a21.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O cofundador e CEO da Meta, Mark Zuckerberg, aproveitou uma recente reunião com trabalhadores da empresa para revelar que, em 2024, foram vendidas mais de um milhão de unidades dos óculos inteligentes desenvolvidos em colaboração com a Ray-Ban.</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com o site The Verge, que teve acesso a informações sobre esta reunião, Zuckerberg enalteceu que a Meta <span class=\"news_bold\">“praticamente inventou a categoria”</span>, notando que a concorrência ainda está por aparecer neste segmento.</p>\n<p><span class=\"news_bold\">“Penso que talvez comecemos a ver alguns [concorrentes] mais perto do final do ano, talvez no próximo ano, mas neste momento temos um campo aberto para corrermos e apresentar ao maior número possível de pessoas os óculos com Meta AI e devemos aproveitar essa oportunidade”</span>, adiantou o líder da Meta.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/tech/2718284/mark-zuckerberg-quer-o-regresso-do-facebook-original\" target=\"_blank\" rel=\"noopener noreferrer\">Mark Zuckerberg quer o “regresso do Facebook original”</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2718506/detido-em-alenquer-por-furtos-e-utilizacao-de-cartoes-de-credito-alheios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Detido em Alenquer por furtos e utilização de cartões de crédito alheios",
@@ -247,7 +293,7 @@
          "published": 1738310643000,
          "created": 1738310643000,
          "category": "Auto",
-         "content": "<p>O sistema Cruise Control gasta mais ou menos combustível? A resposta é que pode ajudar a uma poupança extra de gasolina ou gasóleo.</p>\n<div class=\"dummyPub\"> </div>\n<p>Um estudo da Natural Resources Canada concluiu que o Cruise Control, se utilizado de forma eficaz, pode reduzir em até 20% o consumo de combustível.</p>\n<p>Já outro estudo do International Journal of Transportation Science and Technology, dá-nos outros números. Depois de testar, numa condução normal, dois sistemas de Cruise Control - um manual e outro eco - num percurso de 22 quilómetros com diversas descidas e subidas, este estudo destaca três pontos.</p>\n<p>O primeiro é que a condução em Cruise Control manual permite poupar, em média, 3,3% de combustível. O segundo destaca que no modo Cruise Control eco, a poupança de combustível varia entre os 8% e os 16%. O último e terceiro facto constado é que o sistema é mais eficaz, em termos de poupança de combustível, nas descidas do que nas subidas.</p>\n<p>Perante este último ponto, é sempre melhor utilizar o sistema Cruise Control em estradas planas ou descidas.</p>",
+         "content": "<p>O sistema Cruise Control gasta mais ou menos combustível? A resposta é que pode ajudar a uma poupança extra de gasolina ou gasóleo.</p>\n<div class=\"dummyPub\"> </div>\n<p>Um estudo da Natural Resources Canada concluiu que o Cruise Control, se utilizado de forma eficaz, pode reduzir em até 20% o consumo de combustível.</p>\n<p>Já outro estudo do International Journal of Transportation Science and Technology, dá-nos outros números. Depois de testar, numa condução normal, dois sistemas de Cruise Control - um manual e outro eco - num percurso de 22 quilómetros com diversas descidas e subidas, este estudo destaca três pontos.</p>\n<p>O primeiro é que a condução em Cruise Control manual permite poupar, em média, 3,3% de combustível. O segundo destaca que no modo Cruise Control eco, a poupança de combustível varia entre os 8% e os 16%. O último e terceiro facto constado é que o sistema é mais eficaz, em termos de poupança de combustível, nas descidas do que nas subidas.</p>\n<p>Perante este último ponto, é sempre melhor utilizar o sistema Cruise Control em estradas planas ou descidas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/auto/2717805/deixaram-um-golf-estacionado-no-aeroporto-divida-ultrapassa-os-200000\" target=\"_blank\" rel=\"noopener noreferrer\">Deixaram um Golf estacionado no aeroporto. Dívida ultrapassa os 200.000€</a></p>",
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_679b674797c13.jpg",
@@ -255,7 +301,7 @@
                "length": "0"
             }
          ],
-         "content_encoded": "<p>O sistema Cruise Control gasta mais ou menos combustível? A resposta é que pode ajudar a uma poupança extra de gasolina ou gasóleo.</p>\n<div class=\"dummyPub\"> </div>\n<p>Um estudo da Natural Resources Canada concluiu que o Cruise Control, se utilizado de forma eficaz, pode reduzir em até 20% o consumo de combustível.</p>\n<p>Já outro estudo do International Journal of Transportation Science and Technology, dá-nos outros números. Depois de testar, numa condução normal, dois sistemas de Cruise Control - um manual e outro eco - num percurso de 22 quilómetros com diversas descidas e subidas, este estudo destaca três pontos.</p>\n<p>O primeiro é que a condução em Cruise Control manual permite poupar, em média, 3,3% de combustível. O segundo destaca que no modo Cruise Control eco, a poupança de combustível varia entre os 8% e os 16%. O último e terceiro facto constado é que o sistema é mais eficaz, em termos de poupança de combustível, nas descidas do que nas subidas.</p>\n<p>Perante este último ponto, é sempre melhor utilizar o sistema Cruise Control em estradas planas ou descidas.</p>",
+         "content_encoded": "<p>O sistema Cruise Control gasta mais ou menos combustível? A resposta é que pode ajudar a uma poupança extra de gasolina ou gasóleo.</p>\n<div class=\"dummyPub\"> </div>\n<p>Um estudo da Natural Resources Canada concluiu que o Cruise Control, se utilizado de forma eficaz, pode reduzir em até 20% o consumo de combustível.</p>\n<p>Já outro estudo do International Journal of Transportation Science and Technology, dá-nos outros números. Depois de testar, numa condução normal, dois sistemas de Cruise Control - um manual e outro eco - num percurso de 22 quilómetros com diversas descidas e subidas, este estudo destaca três pontos.</p>\n<p>O primeiro é que a condução em Cruise Control manual permite poupar, em média, 3,3% de combustível. O segundo destaca que no modo Cruise Control eco, a poupança de combustível varia entre os 8% e os 16%. O último e terceiro facto constado é que o sistema é mais eficaz, em termos de poupança de combustível, nas descidas do que nas subidas.</p>\n<p>Perante este último ponto, é sempre melhor utilizar o sistema Cruise Control em estradas planas ou descidas.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/auto/2717805/deixaram-um-golf-estacionado-no-aeroporto-divida-ultrapassa-os-200000\" target=\"_blank\" rel=\"noopener noreferrer\">Deixaram um Golf estacionado no aeroporto. Dívida ultrapassa os 200.000€</a></p>",
          "media": {}
       },
       {
@@ -2257,52 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Morgantini e o jornalista Roberto Bongiorni foram levados para a esquadra da polícia em Kiryat Arba, depois de terem sido detidos em Tuba, a sul de Hebron.</p>\n<div class=\"dummyPub\"> </div>\n<p>Os dois foram libertados devido à intervenção da embaixada italiana em Telavive e do consulado em Jerusalém, de acordo com a agência noticiosa Ansa.</p>\n<p>Morgantini, 84 anos, é membro do pequeno partido de esquerda Refundação Comunista e é um dos principais membros do movimento pacifista italiano, tendo ainda sido uma das fundadoras do ramo italiano da organização antiguerra Women in Black.</p>\n<p>A ativista italiana foi uma das vice-presidentes do Parlamento Europeu entre 2007 e 2009.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2718295/unrwa-continua-a-trabalhar-em-todos-os-territorios-palestinianos-diz-onu\" target=\"_blank\" rel=\"noopener noreferrer\">UNRWA continua a trabalhar em todos os territórios palestinianos, diz ONU</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2718359/presidente-interino-da-siria-quer-completar-unidade-territorial-do-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Presidente interino da Síria quer \"completar unidade territorial\" do país",
-         "description": "O Presidente interino sírio, Ahmed al-Charaa, afirmou hoje, no seu primeiro discurso à nação, que pretende dar prioridade à paz civil e \"completar a unidade territorial\" no país, e confirmou a realização de uma conferência de diálogo nacional.",
-         "link": "https://www.noticiasaominuto.com/mundo/2718359/presidente-interino-da-siria-quer-completar-unidade-territorial-do-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1738273017000,
-         "created": 1738273017000,
-         "category": "Mundo",
-         "content": "<p>Para o antigo líder rebelde, indicado na quarta-feira para Presidente interino pelo novo poder em Damasco, a soberania síria deverá permanecer \"sob uma única autoridade\", num país dividido pela guerra que perdurou quase 14 anos e que mantém focos de violência armada no norte e sul do país.</p>\n<div class=\"dummyPub\"> </div>\n<p>Ahmed al-Charaa defendeu também que será necessário \"processar os criminosos que derramaram sangue sírio e cometeram massacres e crimes\", quer estejam presentes no país ou no estrangeiro, ao mesmo tempo que se comprometeu com \"uma verdadeira justiça de transição\".</p>\n<p>Quase dois meses após a deposição do regime autoritário de Bashar al-Assad, o líder sírio confirmou a realização de uma conferência de diálogo nacional, no discurso pré-gravado que foi transmitido em vários canais televisivos.</p>\n<p>\"Anunciaremos nos próximos dias uma comissão para preparar a conferência de diálogo nacional, uma plataforma direta para discussões, para ouvir diferentes pontos de vista sobre o nosso próximo programa político\", indicou.</p>\n<p>Outra comissão, prosseguiu, será criada para formar \"um conselho legislativo restrito\", substituindo o parlamento, que foi dissolvido na quarta-feira.</p>\n<p>Após estas etapas, uma \"declaração constitucional\" servirá de \"referência legal\" durante o período de transição, substituindo a lei fundamental que estava em vigor desde 2012 e também já revogada.</p>\n<p>O chefe de Estado de transição, por um período ainda desconhecido, regressou às circunstâncias da sua nomeação, indicada pelos grupos islamitas armados que derrubaram o poder de Assad em 08 de dezembro.</p>\n<p>\"Ontem [quarta-feira], foi-me atribuída a responsabilidade do país, após intensas consultas com especialistas jurídicos, garantir um processo político em conformidade com as normas legais, de modo a obter a legitimidade necessária\", relatou.</p>\n<p>Os rebeldes que assumiram o controlo da Síria indicaram ma quarta-feira o seu líder de facto, Ahmed al-Charaa, para Presidente de transição e encarregaram-no de formar um conselho legislativo interino, ao mesmo tempo que dissolveram as Forças Armadas.</p>\n<p>Numa série de anúncios em Damasco, as novas autoridades sírias suspenderam também a Constituição em vigor e dissolveram as atividades do parlamento, bem como o Baas, do anterior Presidente Bashar al-Assad, o partido no poder há mais de 60 anos.</p>\n<p>Além do Exército, todos os grupos armados existentes no país ficam também suspensos.</p>\n<p>As novas autoridades sírias são lideradas pelo antigo grupo rebelde islamita Organização para a Libertação do Levante (Hayat Tahrir al-Sham, HTS), de al-Charaa, que se aliou aos movimentos armados apoiados pela Turquia na ofensiva relâmpago que derrubou Assad.</p>\n<p>Apesar das suas origens islamitas e com ligações anteriores a grupos terroristas, o novo poder sírio tem procurado tranquilizar o país e a comunidade internacional, expressando mensagens de integração da diversidade política e religiosa do país.</p>\n<p>Ao mesmo tempo que tenta consolidar o seu poder e manter o Estado funcional, lida com a persistência de combates no norte da Síria entre forças apoiadas pela Turquia e grupos dominados pelos curdos e a presença de tropas israelitas no sul, em violação da zona desmilitarizada junto da fronteira entre os dois países.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2718352/regresso-de-iraquianos-da-siria-motiva-edicao-do-plano-unico-da-onu\" target=\"_blank\" rel=\"noopener noreferrer\">Regresso de iraquianos da Síria motiva edição do 'Plano Único da ONU'</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44319172.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Para o antigo líder rebelde, indicado na quarta-feira para Presidente interino pelo novo poder em Damasco, a soberania síria deverá permanecer \"sob uma única autoridade\", num país dividido pela guerra que perdurou quase 14 anos e que mantém focos de violência armada no norte e sul do país.</p>\n<div class=\"dummyPub\"> </div>\n<p>Ahmed al-Charaa defendeu também que será necessário \"processar os criminosos que derramaram sangue sírio e cometeram massacres e crimes\", quer estejam presentes no país ou no estrangeiro, ao mesmo tempo que se comprometeu com \"uma verdadeira justiça de transição\".</p>\n<p>Quase dois meses após a deposição do regime autoritário de Bashar al-Assad, o líder sírio confirmou a realização de uma conferência de diálogo nacional, no discurso pré-gravado que foi transmitido em vários canais televisivos.</p>\n<p>\"Anunciaremos nos próximos dias uma comissão para preparar a conferência de diálogo nacional, uma plataforma direta para discussões, para ouvir diferentes pontos de vista sobre o nosso próximo programa político\", indicou.</p>\n<p>Outra comissão, prosseguiu, será criada para formar \"um conselho legislativo restrito\", substituindo o parlamento, que foi dissolvido na quarta-feira.</p>\n<p>Após estas etapas, uma \"declaração constitucional\" servirá de \"referência legal\" durante o período de transição, substituindo a lei fundamental que estava em vigor desde 2012 e também já revogada.</p>\n<p>O chefe de Estado de transição, por um período ainda desconhecido, regressou às circunstâncias da sua nomeação, indicada pelos grupos islamitas armados que derrubaram o poder de Assad em 08 de dezembro.</p>\n<p>\"Ontem [quarta-feira], foi-me atribuída a responsabilidade do país, após intensas consultas com especialistas jurídicos, garantir um processo político em conformidade com as normas legais, de modo a obter a legitimidade necessária\", relatou.</p>\n<p>Os rebeldes que assumiram o controlo da Síria indicaram ma quarta-feira o seu líder de facto, Ahmed al-Charaa, para Presidente de transição e encarregaram-no de formar um conselho legislativo interino, ao mesmo tempo que dissolveram as Forças Armadas.</p>\n<p>Numa série de anúncios em Damasco, as novas autoridades sírias suspenderam também a Constituição em vigor e dissolveram as atividades do parlamento, bem como o Baas, do anterior Presidente Bashar al-Assad, o partido no poder há mais de 60 anos.</p>\n<p>Além do Exército, todos os grupos armados existentes no país ficam também suspensos.</p>\n<p>As novas autoridades sírias são lideradas pelo antigo grupo rebelde islamita Organização para a Libertação do Levante (Hayat Tahrir al-Sham, HTS), de al-Charaa, que se aliou aos movimentos armados apoiados pela Turquia na ofensiva relâmpago que derrubou Assad.</p>\n<p>Apesar das suas origens islamitas e com ligações anteriores a grupos terroristas, o novo poder sírio tem procurado tranquilizar o país e a comunidade internacional, expressando mensagens de integração da diversidade política e religiosa do país.</p>\n<p>Ao mesmo tempo que tenta consolidar o seu poder e manter o Estado funcional, lida com a persistência de combates no norte da Síria entre forças apoiadas pela Turquia e grupos dominados pelos curdos e a presença de tropas israelitas no sul, em violação da zona desmilitarizada junto da fronteira entre os dois países.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2718352/regresso-de-iraquianos-da-siria-motiva-edicao-do-plano-unico-da-onu\" target=\"_blank\" rel=\"noopener noreferrer\">Regresso de iraquianos da Síria motiva edição do 'Plano Único da ONU'</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2718358/devia-comer-estes-alimentos-mais-vezes-sao-otimos-para-o-intestino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Devia comer estes alimentos mais vezes (são ótimos para o intestino) ",
-         "description": "O que têm em comum? São ricos em fibra. ",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2718358/devia-comer-estes-alimentos-mais-vezes-sao-otimos-para-o-intestino?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1738272994000,
-         "created": 1738272994000,
-         "category": "Lifestyle",
-         "content": "<p>Sente o que seu intestino não está a 100%? Começar a apostar mais em alimentos ricos em fibras pode fazer a diferença. Trata-se de um nutriente que tem múltiplos benefícios. Pode ajudá-lo a emagrecer, a regular os movimentos intestinais e a controlar os níveis de açúcar no sangue. </p>\n<div class=\"dummyPub\"> </div>\n<p>Recomenda-se que os adultos consumam pelo menos 30 gramas (g) de fibras por dia, afirmam os especialistas citados na Woman & Home. Consulte a lista dos alimentos que podem ajudá-lo a atingir estes valores. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2717548/quatro-tipos-de-alimentos-que-ajudam-a-derreter-a-gordura-na-barriga\" target=\"_blank\" rel=\"noopener noreferrer\">Quatro tipos de alimentos que ajudam a 'derreter' a gordura na barriga</a></p>\n<p><span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">20 alimentos que são ricos em fibra: </span></p>\n<ul>\n<li>Framboesas; </li>\n<li>Arroz integral; </li>\n<li>Brócolos; </li>\n<li>Lentilhas; </li>\n<li>Amêndoas; </li>\n<li>Ameixas; </li>\n<li>Banana; </li>\n<li>Morangos; </li>\n<li>Laranja; </li>\n<li>Sementes de chia; </li>\n<li>Grão-de-bico; </li>\n<li>Abacate; </li>\n<li>Couves-de-bruxelas; </li>\n<li>Cenouras; </li>\n<li>Sementes de linhaça; </li>\n<li>Batata doce; </li>\n<li>Chocolate preto; </li>\n<li>Couve 'kale'; </li>\n<li>Mirtilos; </li>\n<li>Couve flor. </li>\n</ul>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2717771/combata-a-falta-de-vitamina-d-no-inverno-com-estes-alimentos-comuns\" target=\"_blank\" rel=\"noopener noreferrer\">Combata a falta de vitamina D no inverno com estes alimentos comuns</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_646b9d7414f6d.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Sente o que seu intestino não está a 100%? Começar a apostar mais em alimentos ricos em fibras pode fazer a diferença. Trata-se de um nutriente que tem múltiplos benefícios. Pode ajudá-lo a emagrecer, a regular os movimentos intestinais e a controlar os níveis de açúcar no sangue. </p>\n<div class=\"dummyPub\"> </div>\n<p>Recomenda-se que os adultos consumam pelo menos 30 gramas (g) de fibras por dia, afirmam os especialistas citados na Woman & Home. Consulte a lista dos alimentos que podem ajudá-lo a atingir estes valores. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2717548/quatro-tipos-de-alimentos-que-ajudam-a-derreter-a-gordura-na-barriga\" target=\"_blank\" rel=\"noopener noreferrer\">Quatro tipos de alimentos que ajudam a 'derreter' a gordura na barriga</a></p>\n<p><span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">20 alimentos que são ricos em fibra: </span></p>\n<ul>\n<li>Framboesas; </li>\n<li>Arroz integral; </li>\n<li>Brócolos; </li>\n<li>Lentilhas; </li>\n<li>Amêndoas; </li>\n<li>Ameixas; </li>\n<li>Banana; </li>\n<li>Morangos; </li>\n<li>Laranja; </li>\n<li>Sementes de chia; </li>\n<li>Grão-de-bico; </li>\n<li>Abacate; </li>\n<li>Couves-de-bruxelas; </li>\n<li>Cenouras; </li>\n<li>Sementes de linhaça; </li>\n<li>Batata doce; </li>\n<li>Chocolate preto; </li>\n<li>Couve 'kale'; </li>\n<li>Mirtilos; </li>\n<li>Couve flor. </li>\n</ul>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2717771/combata-a-falta-de-vitamina-d-no-inverno-com-estes-alimentos-comuns\" target=\"_blank\" rel=\"noopener noreferrer\">Combata a falta de vitamina D no inverno com estes alimentos comuns</a></p>",
          "media": {}
       }
    ]
