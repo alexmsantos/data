@@ -6,68 +6,6 @@
    "category": [],
    "items": [
       {
-         "id": "0cf01808-98ed-45c4-80af-92d5557cca9e",
-         "title": "O Reinado de D. Carlos e o regicídio de 1 de fevereiro de 1908",
-         "description": "<p><span>Neste episódio, Henrique Monteiro e Lourenço Pereira Coutinho conversam sobre o reinado de D. Carlos I e o regicídio que, a 1 de fevereiro de 1908, o vitimou, bem como ao seu filho mais velho e herdeiro, o Príncipe Real D. Luis Filipe</span></p>",
-         "link": "https://expresso.pt/podcasts/a-historia-repete-se/2025-02-05-o-reinado-de-d.-carlos-e-o-regicidio-de-1-de-fevereiro-de-1908-49f66c14",
-         "author": [
-            "Henrique Monteiro",
-            "Lourenço Pereira Coutinho",
-            "Tomás Delfim"
-         ],
-         "published": 1738738920000,
-         "created": 1738738920000,
-         "category": "A História repete-se",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-04-d.-carlos-i-f54989bc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-04-d.-carlos-i-f54989bc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-02-04-d.-carlos-i-f54989bc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "48195709-ef8c-4c5c-9a73-a505fcc990d9",
-         "title": "A justiça é SEGA",
-         "description": "<p>Os factos em causa são tão antigos que as notícias sobre os processos de corrupção deviam passar na RTP Memória. A lei não costuma ter efeitos retroativos, mas, em Portugal, tem efeitos retro</p>",
-         "link": "https://expresso.pt/opiniao/2025-02-05-a-justica-e-sega-0ed19519",
-         "author": "Manuel Cardoso",
-         "published": 1738738846000,
-         "created": 1738738846000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "7d8b033b-48be-4aa0-9d6f-ab1f175442eb",
          "title": "Agentes do FBI processam Governo por tentar identificar envolvidos em investigações a Trump",
          "description": "<p>Agentes do FBI que participaram em investigações relacionadas com o Presidente Donald Trump apresentaram uma ação judicial contra a tentativa do Departamento de Justiça de desenvolver uma lista de funcionários envolvidos nestas operações, por temerem despedimentos em massa</p>",
@@ -297,6 +235,64 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2018-07-05-Aga-Khan/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "1118cdf2-4655-467b-bb4c-215d43f18295",
+         "title": "Príncipe Aga Khan, líder dos muçulmanos ismailitas, morre em Lisboa aos 88 anos",
+         "description": "<p>O príncipe Karim Aga Khan tinha 88 anos e morreu em Lisboa. Era um dos homens mais ricos do mundo</p>",
+         "link": "https://expresso.pt/sociedade/2025-02-04-principe-aga-khan-lider-dos-muculmanos-ismailitas-morre-em-lisboa-aos-88-anos-126966c0",
+         "author": "Agência Lusa",
+         "published": 1738706477000,
+         "created": 1738706477000,
+         "category": "Sociedade",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2017-09-12-karim-aga-khan/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2017-09-12-karim-aga-khan/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2017-09-12-karim-aga-khan/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "30ba743b-b6db-42be-9884-1c0f386de0ff",
+         "title": "Explosões diárias, conflitos entre gangues, homens baleados, o massacre na escola de Örebro: a Suécia engolida numa onda de violência",
+         "description": "<p>O ataque à escola de Örebro, a 200 quilómetros de Estocolmo, que vitimou 10 pessoas é o mais recente episódio violento de um país que atravessa problemas de segurança</p>",
+         "link": "https://expresso.pt/internacional/2025-02-04-explosoes-diarias-conflitos-entre-gangues-homens-baleados-o-massacre-na-escola-de-orebro-a-suecia-engolida-numa-onda-de-violencia-d7ea178e",
+         "author": "João Diogo Correia",
+         "published": 1738703371000,
+         "created": 1738703371000,
+         "category": "Internacional",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-04-ataque-suecia.jpg-2c728781-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-04-ataque-suecia.jpg-2c728781-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-02-04-ataque-suecia.jpg-2c728781-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
