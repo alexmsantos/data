@@ -7,9 +7,9 @@
    "items": [
       {
          "id": "67145dcd-dc63-4a61-a79b-13ad18eca217",
-         "title": "Doze estados americano avançam com ação para impedir Musk de aceder a dados sensíveis",
+         "title": "Doze estados norte-americanos avançam com ação para impedir Musk de aceder a dados sensíveis",
          "description": "<p>Doze estados, liderados por Nova Iorque, anunciaram hoje que vão processar a administração liderada por Donald Trump por ter permitido que Elon Musk e funcionários do Departamento de Eficiência Governamental, que este dirige, acedessem a informações financeiras sensíveis de cidadãos.</p>",
-         "link": "https://expresso.pt/internacional/eua/2025-02-07-doze-estados-americano-avancam-com-acao-para-impedir-musk-de-aceder-a-dados-sensiveis-f70c3b45",
+         "link": "https://expresso.pt/internacional/eua/2025-02-07-doze-estados-norte-americanos-avancam-com-acao-para-impedir-musk-de-aceder-a-dados-sensiveis-f70c3b45",
          "author": "Expresso",
          "published": 1738913855000,
          "created": 1738913855000,
@@ -250,45 +250,66 @@
          }
       },
       {
-         "id": "da9f4f6b-0dae-47f2-a85a-51fc450ece69",
-         "title": "Receitas: um mimo chamado florentina",
-         "description": "<p>Saiba como preparar, em 20 minutos, um lanche requintado</p>",
-         "link": "https://expresso.pt/revista/vicios/receita/2025-02-06-receitas-um-mimo-chamado-florentina-1eb9d503",
-         "author": "João Rodrigues",
+         "id": "c105837a-fca2-405e-a239-10b88075555c",
+         "title": "Nova ponte de Lisboa vai ter carros e comboios",
+         "description": "<p>Governo mantém o horizonte de 2034 para ter Porto e Lisboa ligados a Espanha por comboios de alta velocidade. Construção da linha entre o Porto e Lisboa avança no início de 2026</p>",
+         "link": "https://expresso.pt/economia/transportes/2025-02-06-nova-ponte-de-lisboa-vai-ter-carros-e-comboios-2221ebff",
+         "author": [
+            "Anabela Campos",
+            "Pedro Lima",
+            "Jaime Figueiredo"
+         ],
          "published": 1738882620000,
          "created": 1738882620000,
-         "category": "Receita",
+         "category": "Transportes",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2025-02-03-tm7x3a9501-copy_t-_idp.jpg-adc61d43/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-02-05-pag-16-eco-ponte-capa.jpg-f427d2a4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2025-02-03-tm7x3a9501-copy_t-_idp.jpg-adc61d43/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-02-05-pag-16-eco-ponte-capa.jpg-f427d2a4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-02-03-tm7x3a9501-copy_t-_idp.jpg-adc61d43/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-02-05-pag-16-eco-ponte-capa.jpg-f427d2a4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          }
       },
       {
-         "id": "ae7be5a8-3fb4-47b8-9f3a-651ffc2e9f77",
-         "title": "O aprendiz",
-         "description": "<p>Trump sempre afirmará que ganhou. “Sempre anunciar a vitória e nunca admitir a derrota” foi um dos princípios de vida que o seu advogado Roy M. Cohn lhe ensinou</p>",
-         "link": "https://expresso.pt/opiniao/2025-02-06-o-aprendiz-30b4ed17",
-         "author": "João Duque",
+         "id": "7693e2fa-699e-47f3-b63c-d559b65359cf",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro",
+         "author": "Expresso",
          "published": 1738882620000,
          "created": 1738882620000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-06-pc_2728.jpg-5eeaeb95/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-06-pc_2728.jpg-5eeaeb95/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-02-06-pc_2728.jpg-5eeaeb95/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       }
    ]
 }
