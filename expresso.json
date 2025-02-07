@@ -160,68 +160,6 @@
          }
       },
       {
-         "id": "c105837a-fca2-405e-a239-10b88075555c",
-         "title": "Nova ponte de Lisboa vai ter carros e comboios",
-         "description": "<p>Governo mantém o horizonte de 2034 para ter Porto e Lisboa ligados a Espanha por comboios de alta velocidade. Construção da linha entre o Porto e Lisboa avança no início de 2026</p>",
-         "link": "https://expresso.pt/economia/transportes/2025-02-06-nova-ponte-de-lisboa-vai-ter-carros-e-comboios-2221ebff",
-         "author": [
-            "Anabela Campos",
-            "Pedro Lima",
-            "Jaime Figueiredo"
-         ],
-         "published": 1738882620000,
-         "created": 1738882620000,
-         "category": "Transportes",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-05-pag-16-eco-ponte-capa.jpg-f427d2a4/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-05-pag-16-eco-ponte-capa.jpg-f427d2a4/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-02-05-pag-16-eco-ponte-capa.jpg-f427d2a4/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "7693e2fa-699e-47f3-b63c-d559b65359cf",
-         "title": "A primeira página do Expresso",
-         "description": "",
-         "link": "https://expresso.pt/semanario/primeiro",
-         "author": "Expresso",
-         "published": 1738882620000,
-         "created": 1738882620000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-06-pc_2728.jpg-5eeaeb95/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-06-pc_2728.jpg-5eeaeb95/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-02-06-pc_2728.jpg-5eeaeb95/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "da9f4f6b-0dae-47f2-a85a-51fc450ece69",
          "title": "Receitas: um mimo chamado florentina",
          "description": "<p>Saiba como preparar, em 20 minutos, um lanche requintado</p>",
@@ -273,6 +211,47 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
+      },
+      {
+         "id": "eb9ef1c8-4ec8-4286-93a5-a617f1b68ab1",
+         "title": "Está na hora do pacto fiscal",
+         "description": "<p>Está na hora de PSD e PS se entenderem. Não é ainda a reforma fiscal que o país tanto precisa, mas é um início. E um início politicamente relevante</p>",
+         "link": "https://expresso.pt/opiniao/2025-02-06-esta-na-hora-do-pacto-fiscal-ebc4d506",
+         "author": "Luís Marques",
+         "published": 1738882620000,
+         "created": 1738882620000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "c61b87a9-aee7-4c4a-b476-c468e86e50d1",
+         "title": "Negócios milionários animam empresas tecnológicas em Portugal",
+         "description": "<p>Em apenas uma semana a NOS anunciou a compra da Claranet e a Cegid adquiriu a PHC, mostrando a vitalidade do sector da tecnologia</p>",
+         "link": "https://expresso.pt/economia/2025-02-06-negocios-milionarios-animam-empresas-tecnologicas-em-portugal-6bb17656",
+         "author": "Hugo Séneca",
+         "published": 1738882620000,
+         "created": 1738882620000,
+         "category": "Economia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-05-copy-of-fox_nos_00004_t-_idp.jpg-2fcdc69c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-05-copy-of-fox_nos_00004_t-_idp.jpg-2fcdc69c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-02-05-copy-of-fox_nos_00004_t-_idp.jpg-2fcdc69c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       }
    ]
 }
