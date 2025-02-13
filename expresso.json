@@ -6,35 +6,6 @@
    "category": [],
    "items": [
       {
-         "id": "cee0747e-84e4-4c9a-944a-2eb6d4f33ec0",
-         "title": "A primeira página do Expresso",
-         "description": "",
-         "link": "https://expresso.pt/Capas/2025-02-13-a-primeira-pagina-do-expresso-c7769c76",
-         "author": "Expresso",
-         "published": 1739475471000,
-         "created": 1739475471000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-13-pc_2729--1-.jpg-695db954/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-13-pc_2729--1-.jpg-695db954/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-02-13-pc_2729--1-.jpg-695db954/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "36bce7a6-a056-4ebe-a1b8-d81529614eae",
          "title": "Freguesias à espera do PSD após veto de Belém",
          "description": "<p>Esquerda quer confirmação do diploma, PSD promete reflexão</p>",
@@ -297,6 +268,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-09-27-claudia-sheinbaum-7116f7da/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "99354993-5410-440d-bb2a-fa09d33d2ecb",
+         "title": "A alternativa não se pode diluir na alternância – cinco razões para uma candidatura",
+         "description": "<p>A construção de uma alternativa de governo para Lisboa deve ser feita de olhos postos no futuro. Mas ignorar as causas e os responsáveis pelos problemas do presente significaria frustrar, mais cedo que tarde, justos anseios de mudança</p>",
+         "link": "https://expresso.pt/opiniao/2025-02-13-a-alternativa-nao-se-pode-diluir-na-alternancia--cinco-razoes-para-uma-candidatura-e96301a7",
+         "author": "João Ferreira",
+         "published": 1739468840000,
+         "created": 1739468840000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-13-joao-ferreira_00.png-91c5bc87-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-13-joao-ferreira_00.png-91c5bc87-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-02-13-joao-ferreira_00.png-91c5bc87-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
