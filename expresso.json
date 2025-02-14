@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2025 em Portugal",
+         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para o novo ano: uma agenda sempre em atualização</p>",
+         "link": "https://expresso.pt/blitz/2025-02-14-todos-os-concertos-marcados-para-2025-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1739522700000,
+         "created": 1739522700000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-17-ritasousavieira--dscf5130.jpg-8dbdb5af/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-17-ritasousavieira--dscf5130.jpg-8dbdb5af/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-08-17-ritasousavieira--dscf5130.jpg-8dbdb5af/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "3df61164-4d25-4a6e-8f78-0c33b14cad09",
          "title": "Raquel Tavares: “Após ter sido operada ao joelho, não perguntei quando é que podia voltar a trabalhar, perguntei quando é que podia dançar”",
          "description": "<p>No primeiro episódio de ‘O Amor é a Razão’, a fadista Raquel Tavares revela a paixão pela dança, explica como a conjuga com o amor pelo fado e aborda os desafios mais duros que foi enfrentando ao longo da carreira</p>",
@@ -257,35 +286,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "1763f94b-3519-4496-94c9-b0b58fb9d7ec",
-         "title": "IDEIAS: Eduardo, o jovem que compreendeu o país",
-         "description": "",
-         "link": "https://expresso.pt/semanario/ideias",
-         "author": "Expresso",
-         "published": 1739487472000,
-         "created": 1739487472000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-13-ideias_2729.jpg-e8dccb9a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-02-13-ideias_2729.jpg-e8dccb9a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-02-13-ideias_2729.jpg-e8dccb9a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
