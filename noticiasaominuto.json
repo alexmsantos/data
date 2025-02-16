@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2729357/avs-desperdica-vantagem-em-vila-do-conde-e-continua-em-zona-perigosa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ochoa 'borra' pintura e AVS não vai além de um empate com o Rio Ave",
+         "description": "Avenses empataram na visita ao Rio Ave.",
+         "link": "https://www.noticiasaominuto.com/desporto/2729357/avs-desperdica-vantagem-em-vila-do-conde-e-continua-em-zona-perigosa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1739727071000,
+         "created": 1739727071000,
+         "category": "Desporto",
+         "content": "<p>O AVS somou, este domingo, o terceiro jogo seguido sem vencer na I Liga, ao empatar na visita ao Rio Ave (1-1), em jogo a contar para a 22.ª jornada.</p>\n<div class=\"dummyPub\"> </div>\n<p>Os avenses, que estrearam Rui Ferreira no comando técnico, até estiveram na frente do marcador com um golo de Mercado aos 32 minutos.</p>\n<p>No entanto, o Rio Ave voltou mais forte do tempo de descanso e chegou ao empate ao minuto 62. Depois de um pontapé de canto, Ochoa cometeu um erro e quem aproveitou foi Tiknaz que fixou o resultado final em Vila do Conde.</p>\n<p>Contas feitas, o AVS mantém-se em zona perigosa na tabela classificativa e é 16.º classificado com 19 pontos, mais quatro do que o Farense que está em lugares de despromoção. O Rio Ave é nono com 26 pontos.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2728384/em-direto-boavista-e-estrela-da-amadora-abrem-jornada-no-bessa\" target=\"_blank\" rel=\"noopener noreferrer\">EM DIRETO: Já se joga em Vila do Conde antes do Farense-FC Porto</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67b21fe85f133.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O AVS somou, este domingo, o terceiro jogo seguido sem vencer na I Liga, ao empatar na visita ao Rio Ave (1-1), em jogo a contar para a 22.ª jornada.</p>\n<div class=\"dummyPub\"> </div>\n<p>Os avenses, que estrearam Rui Ferreira no comando técnico, até estiveram na frente do marcador com um golo de Mercado aos 32 minutos.</p>\n<p>No entanto, o Rio Ave voltou mais forte do tempo de descanso e chegou ao empate ao minuto 62. Depois de um pontapé de canto, Ochoa cometeu um erro e quem aproveitou foi Tiknaz que fixou o resultado final em Vila do Conde.</p>\n<p>Contas feitas, o AVS mantém-se em zona perigosa na tabela classificativa e é 16.º classificado com 19 pontos, mais quatro do que o Farense que está em lugares de despromoção. O Rio Ave é nono com 26 pontos.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2728384/em-direto-boavista-e-estrela-da-amadora-abrem-jornada-no-bessa\" target=\"_blank\" rel=\"noopener noreferrer\">EM DIRETO: Já se joga em Vila do Conde antes do Farense-FC Porto</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2729355/capitania-volta-a-emitir-aviso-de-mau-tempo-para-o-mar-da-madeira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Capitania volta a emitir aviso de mau tempo para o mar da Madeira",
@@ -490,7 +513,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2729301/fenerbahce-kasimpasa-siga-mais-um-jogo-de-jose-mourinho-na-turquia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[2-1] Fenerbahçe-Kasimpasa: Reduzem os forasteiros",
+         "title": "[3-1] Fenerbahçe-Kasimpasa: Bisa En-Nesyri",
          "description": "Encontro tem apito inicial agendado para as 16h00 deste domingo.",
          "link": "https://www.noticiasaominuto.com/desporto/2729301/fenerbahce-kasimpasa-siga-mais-um-jogo-de-jose-mourinho-na-turquia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -789,7 +812,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2728384/em-direto-boavista-e-estrela-da-amadora-abrem-jornada-no-bessa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Já se joga em Vila do Conde antes do Farense-FC Porto",
+         "title": "EM DIRETO: Empate em Vila do Conde, antes do Farense-FC Porto",
          "description": "Acompanhe a par e passo as principais incidências das partidas da 22.ª jornada da I Liga.",
          "link": "https://www.noticiasaominuto.com/desporto/2728384/em-direto-boavista-e-estrela-da-amadora-abrem-jornada-no-bessa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>\"Começámos a trabalhar com a equipa do Presidente Trump e já sentimos que o sucesso é possível\", escreveu nas suas redes sociais a partir de Munique, onde no sábado à noite concluiu dois dias de maratona de discursos perante líderes europeus e norte-americanos.</p>\n<div class=\"dummyPub\"> </div>\n<p>Nestes dois dias, o Presidente da Ucrânia teve também uma agenda intensa de encontros com diferentes políticos, sobretudo dos EUA, como o vice-presidente, JD Vance, o secretário de Estado, Marco Rubio, e o enviado para a guerra na Ucrânia, Keith Kellogg.</p>\n<p>Volodymyr Zelensky sublinhou que os Estados Unidos são agora vistos no mundo como uma força que não só pode parar a guerra, mas também ajudar a garantir a fiabilidade da paz após um cessar-fogo.</p>\n<p>Em Munique, Volodymyr Zelensky e JD Vance concordaram em trabalhar para uma paz duradoura, enquanto os líderes europeus observavam à margem e com algum receio que a Europa fosse excluída dos planos dos Estados Unidos, tanto à mesa das negociações como nas consultas prévias.</p>\n<p>Num evento paralelo à Conferência de Segurança ocorrido na véspera, Keith Kellogg afirmou que a Europa não poderá participar diretamente nas negociações de paz, embora possa apresentar ideias e sugestões.</p>\n<p>O Presidente ucraniano defendeu, no entanto, que a Europa deve ter uma voz ativa, afirmando que \"a paz real é possível\", mesmo que haja diferentes tentativas de Putin para \"enganar o mundo inteiro e prolongar a guerra\".</p>\n<p>\"Temos de a alcançar [a paz]: a Ucrânia, os Estados Unidos e a Europa. Esta é a nossa segurança comum\", realçou Volodymyr Zelensky.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2728849/zelensky-apela-a-reuniao-de-todos-os-aliados-para-coordenar-posicoes\" target=\"_blank\" rel=\"noopener noreferrer\">Zelensky apela à reunião de todos os aliados para coordenar posições</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2729218/bellingham-foi-expulso-e-so-se-fala-nas-palavras-de-cristiano-ronaldo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bellingham foi expulso e só se fala nas palavras... de Cristiano Ronaldo",
-         "description": "Expressão inglesa 'fuck off' custou caro ao internacional inglês, ",
-         "link": "https://www.noticiasaominuto.com/desporto/2729218/bellingham-foi-expulso-e-so-se-fala-nas-palavras-de-cristiano-ronaldo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1739701566000,
-         "created": 1739701566000,
-         "category": "Desporto",
-         "content": "<p>Está instalada a polémica em Espanha. Jude Bellingham recebeu, no sábado, ordem de expulsão na visita do Real Madrid ao Osasuna (1-1), por soltar um 'fuck off' na direção do árbitro e o tema tem dado muito que falar. Este domingo, houve mesmo quem já tenha recordado as palavras de Cristiano Ronaldo em 2018, quando ainda brilhava no clube merengue, alertando que a expressão inglesa não é vista como um insulto ao árbitro em terras de Sua Majestade, algo que em Espanha é considerado como tal. </p>\n<div class=\"dummyPub\"> </div>\n<p>\"Tens de ser um bocadinho flexível. Eu joguei muitos anos em Inglaterra. Por exemplo, numa falta os ingleses dizem muito 'fuck off' e os árbitros não dizem nada. Aqui [em Espanha] se dizes isso, os árbitros mandam-te para a rua\", afirmava Cristiano Ronaldo há cerca de sete anos, em entrevista ao La Sexta. </p>\n<p>Tantos anos depois o tempo parece ter dado razão a Cristiano Ronaldo, agora na Arábia Saudita. De resto, Jude Bellingham falou aos jornalistas após a partida em Pamplona e garantiu que se tratou de um \"mal entendido\", ao mesmo tempo que afirmou que aquilo que disse não é aquilo que consta no relatório do árbitro Munuera Montero, que escreveu a expressão utilizada como 'fuck you'. </p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"es\">CRISTIANO RONALDO explicando lo que ha pasado hoy con Jude Bellingham y los árbitros españoles.<br><br>MÁS CLARO IMPOSIBLE  <a href=\"https://t.co/wQ08JAQuAT\">pic.twitter.com/wQ08JAQuAT</a></p>\n— REAL MADRID FANS 🤍 (@AdriRM33) <a href=\"https://twitter.com/AdriRM33/status/1890846834743972020?ref_src=twsrc%5Etfw\">February 15, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<p>\"Não quero entrar em detalhes, mas é uma expressão como 'f*****'. Quando o árbitro não tem certeza e diz que disse algo que não disse, prejudica a equipa. Não insultei ninguém e não me dirigi ao árbitro. Espero que as imagens mostrem que aquilo que eu disse não é aquilo que está no relatório e que a Federação tenha isso em conta. As imagens são uma prova evidente\", explicou Bellingham.</p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"pt\">O Bellingham pediu ao árbitro para ir tomar banho mais cedo <br><br>🇪🇸 <a href=\"https://twitter.com/LaLiga?ref_src=twsrc%5Etfw\">@LaLiga</a> | <a href=\"https://twitter.com/Osasuna?ref_src=twsrc%5Etfw\">@Osasuna</a> 0 x 1 <a href=\"https://twitter.com/realmadrid?ref_src=twsrc%5Etfw\">@realmadrid</a><a href=\"https://twitter.com/hashtag/DAZNLALIGA?src=hash&ref_src=twsrc%5Etfw\">#DAZNLALIGA</a> <a href=\"https://t.co/92LVhXJiPe\">pic.twitter.com/92LVhXJiPe</a></p>\n— DAZN Portugal (@DAZNPortugal) <a href=\"https://twitter.com/DAZNPortugal/status/1890793657172705753?ref_src=twsrc%5Etfw\">February 15, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"es\">️ “Está claro que cometió un error. No quiero entrar en detalles, pero es una expresión como j***”<br><br>Jude Bellingham da la cara tras su expulsión ante Osasuna <a href=\"https://t.co/Up7MOfBsx3\">pic.twitter.com/Up7MOfBsx3</a></p>\n— DAZN Fútbol (@DAZNFutbol) <a href=\"https://twitter.com/DAZNFutbol/status/1890828846607282292?ref_src=twsrc%5Etfw\">February 15, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2728960/ancelotti-e-a-expulsao-de-jude-bellingham-o-arbitro-nao-entende-ingles\" target=\"_blank\" rel=\"noopener noreferrer\">Ancelotti e a expulsão de Jude Bellingham: \"O árbitro não entende inglês\"</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67b1b7e02ef4a.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Está instalada a polémica em Espanha. Jude Bellingham recebeu, no sábado, ordem de expulsão na visita do Real Madrid ao Osasuna (1-1), por soltar um 'fuck off' na direção do árbitro e o tema tem dado muito que falar. Este domingo, houve mesmo quem já tenha recordado as palavras de Cristiano Ronaldo em 2018, quando ainda brilhava no clube merengue, alertando que a expressão inglesa não é vista como um insulto ao árbitro em terras de Sua Majestade, algo que em Espanha é considerado como tal. </p>\n<div class=\"dummyPub\"> </div>\n<p>\"Tens de ser um bocadinho flexível. Eu joguei muitos anos em Inglaterra. Por exemplo, numa falta os ingleses dizem muito 'fuck off' e os árbitros não dizem nada. Aqui [em Espanha] se dizes isso, os árbitros mandam-te para a rua\", afirmava Cristiano Ronaldo há cerca de sete anos, em entrevista ao La Sexta. </p>\n<p>Tantos anos depois o tempo parece ter dado razão a Cristiano Ronaldo, agora na Arábia Saudita. De resto, Jude Bellingham falou aos jornalistas após a partida em Pamplona e garantiu que se tratou de um \"mal entendido\", ao mesmo tempo que afirmou que aquilo que disse não é aquilo que consta no relatório do árbitro Munuera Montero, que escreveu a expressão utilizada como 'fuck you'. </p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"es\">CRISTIANO RONALDO explicando lo que ha pasado hoy con Jude Bellingham y los árbitros españoles.<br><br>MÁS CLARO IMPOSIBLE  <a href=\"https://t.co/wQ08JAQuAT\">pic.twitter.com/wQ08JAQuAT</a></p>\n— REAL MADRID FANS 🤍 (@AdriRM33) <a href=\"https://twitter.com/AdriRM33/status/1890846834743972020?ref_src=twsrc%5Etfw\">February 15, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<p>\"Não quero entrar em detalhes, mas é uma expressão como 'f*****'. Quando o árbitro não tem certeza e diz que disse algo que não disse, prejudica a equipa. Não insultei ninguém e não me dirigi ao árbitro. Espero que as imagens mostrem que aquilo que eu disse não é aquilo que está no relatório e que a Federação tenha isso em conta. As imagens são uma prova evidente\", explicou Bellingham.</p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"pt\">O Bellingham pediu ao árbitro para ir tomar banho mais cedo <br><br>🇪🇸 <a href=\"https://twitter.com/LaLiga?ref_src=twsrc%5Etfw\">@LaLiga</a> | <a href=\"https://twitter.com/Osasuna?ref_src=twsrc%5Etfw\">@Osasuna</a> 0 x 1 <a href=\"https://twitter.com/realmadrid?ref_src=twsrc%5Etfw\">@realmadrid</a><a href=\"https://twitter.com/hashtag/DAZNLALIGA?src=hash&ref_src=twsrc%5Etfw\">#DAZNLALIGA</a> <a href=\"https://t.co/92LVhXJiPe\">pic.twitter.com/92LVhXJiPe</a></p>\n— DAZN Portugal (@DAZNPortugal) <a href=\"https://twitter.com/DAZNPortugal/status/1890793657172705753?ref_src=twsrc%5Etfw\">February 15, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"es\">️ “Está claro que cometió un error. No quiero entrar en detalles, pero es una expresión como j***”<br><br>Jude Bellingham da la cara tras su expulsión ante Osasuna <a href=\"https://t.co/Up7MOfBsx3\">pic.twitter.com/Up7MOfBsx3</a></p>\n— DAZN Fútbol (@DAZNFutbol) <a href=\"https://twitter.com/DAZNFutbol/status/1890828846607282292?ref_src=twsrc%5Etfw\">February 15, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2728960/ancelotti-e-a-expulsao-de-jude-bellingham-o-arbitro-nao-entende-ingles\" target=\"_blank\" rel=\"noopener noreferrer\">Ancelotti e a expulsão de Jude Bellingham: \"O árbitro não entende inglês\"</a></p>",
          "media": {}
       }
    ]
