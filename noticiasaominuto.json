@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2729637/galp-antecipa-ligeira-reducao-de-producao-para-105-mil-barris-por-dia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Galp antecipa ligeira redução de produção para 105 mil barris por dia",
+         "description": "A Galp espera uma \"ligeira redução\" de produção este ano, para cerca de 105 mil barris por dia, refletindo atividades de manutenção previstas pela petrolífera, disse hoje a co-CEO (presidente executiva) da empresa.",
+         "link": "https://www.noticiasaominuto.com/economia/2729637/galp-antecipa-ligeira-reducao-de-producao-para-105-mil-barris-por-dia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1739786641000,
+         "created": 1739786641000,
+         "category": "Economia",
+         "content": "<p>Num vídeo, divulgado por ocasião da apresentação dos resultados da empresa de 2024, Maria João Carioca indicou que a \"produção do grupo este ano é esperada em cerca de 105 mil barris por dia, uma ligeira descida anual\", refletindo uma manutenção prevista na refinaria de Sines.</p>\n<div class=\"dummyPub\"> </div>\n<p>Para 2026, a gestora disse esperar que \"as operações normalizadas façam com que a produção volte a subir\".</p>\n<p>A produção 'working interest' (produção bruta de matéria-prima, incluindo todos os custos decorrentes das operações) caiu 11%, para 109 mil barris por dia, em 2024, anunciou hoje a Galp.</p>\n<p>Maria João Carioca deu ainda conta de que este contexto deverá conduzir, este ano, a um EBITDA (resultado antes de impostos, juros, depreciações e amortizações) de cerca de 2,5 mil milhões de euros, face aos 3,3 milhões de euros obtidos em 2024. </p>\n<p>Já para 2026, com a normalização dos níveis de manutenção e os volumes adicionais estimados para o projeto Bacalhau, no Brasil, a Galp estima um 'cash-flow' operacional de 2,6 mil milhões de euros, um aumento de 20% face a 2024, destacou a gestora.</p>\n<p>O grupo reviu ainda em baixa \"as necessidades de investimento\" para 2025 e 2026, estimando em média um valor inferior a 800 milhões de euros em cada um dos anos.</p>\n<p>A Galp registou, em 2024, lucros de 961 milhões de euros, uma queda de 4% em relação ao período homólogo, adiantou a empresa em comunicado à Comissão do Mercado de Valores Mobiliários (CMVM).</p>\n<p>No último trimestre do ano passado, os lucros da Galp caíram 75%, para 71 milhões de euros, indicou ainda o grupo.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2729563/lucro-da-galp-caiu-4-em-2024-para-961-milhoes-de-euros\" target=\"_blank\" rel=\"noopener noreferrer\">Lucro da Galp caiu 4% em 2024 para 961 milhões de euros</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66a7c77d6c291.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Num vídeo, divulgado por ocasião da apresentação dos resultados da empresa de 2024, Maria João Carioca indicou que a \"produção do grupo este ano é esperada em cerca de 105 mil barris por dia, uma ligeira descida anual\", refletindo uma manutenção prevista na refinaria de Sines.</p>\n<div class=\"dummyPub\"> </div>\n<p>Para 2026, a gestora disse esperar que \"as operações normalizadas façam com que a produção volte a subir\".</p>\n<p>A produção 'working interest' (produção bruta de matéria-prima, incluindo todos os custos decorrentes das operações) caiu 11%, para 109 mil barris por dia, em 2024, anunciou hoje a Galp.</p>\n<p>Maria João Carioca deu ainda conta de que este contexto deverá conduzir, este ano, a um EBITDA (resultado antes de impostos, juros, depreciações e amortizações) de cerca de 2,5 mil milhões de euros, face aos 3,3 milhões de euros obtidos em 2024. </p>\n<p>Já para 2026, com a normalização dos níveis de manutenção e os volumes adicionais estimados para o projeto Bacalhau, no Brasil, a Galp estima um 'cash-flow' operacional de 2,6 mil milhões de euros, um aumento de 20% face a 2024, destacou a gestora.</p>\n<p>O grupo reviu ainda em baixa \"as necessidades de investimento\" para 2025 e 2026, estimando em média um valor inferior a 800 milhões de euros em cada um dos anos.</p>\n<p>A Galp registou, em 2024, lucros de 961 milhões de euros, uma queda de 4% em relação ao período homólogo, adiantou a empresa em comunicado à Comissão do Mercado de Valores Mobiliários (CMVM).</p>\n<p>No último trimestre do ano passado, os lucros da Galp caíram 75%, para 71 milhões de euros, indicou ainda o grupo.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2729563/lucro-da-galp-caiu-4-em-2024-para-961-milhoes-de-euros\" target=\"_blank\" rel=\"noopener noreferrer\">Lucro da Galp caiu 4% em 2024 para 961 milhões de euros</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2729633/forcas-ucranianas-atacaram-oleoduto-no-sul-da-russia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Forças ucranianas atacaram oleoduto no sul da Rússia",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>\"O casal conseguiu no entanto realojar-se por conta própria, num espaço que tem. O incêndio deflagrou na habitação, uma casa de quinta grande que sofreu danos significativos, nomeadamente na cobertura e em diversos compartimentos\", afirmou Rui Nogueira.</p>\n<div class=\"dummyPub\"> </div>\n<p>À agência Lusa o responsável disse ainda que, \"à chegada ao local, os bombeiros conseguiram evitar que o incêndio se propagasse para as estruturas contíguas, nomeadamente um armazém de frutas que contém diversos equipamentos, como arcas frigoríficas, já que se trata de uma quinta de exploração de frutas\".</p>\n<p>\"Conseguimos que o incêndio ficasse confinado ao corpo principal da quinta. Há também a registar a necessidade de duas pessoas assistidas no local, dois bombeiros, um voluntário e um sapador, que entretanto já retomaram a atividade\", acrescentou.</p>\n<p>Rui Nogueira disse ainda à agência Lusa que os trabalhos de rescaldo ainda \"vão demorar, uma vez que se trata de uma operação bastante complexa\".</p>\n<p>Segundo o Comando Sub-regional Viseu Dão Lafões da proteção civil, o alerta para o incêndio na localidade de Cabril, freguesia de Povolide, concelho de Viseu, foi feito pelas 18:22 e o incêndio ficou dominado às 21h07.</p>\n<p>No local estiveram 35 operacionais apoiados por 15 veículos dos Bombeiros Sapadores e Voluntários de Viseu, da Guarda Nacional Republicana (GNR) e do Instituto Nacional de Emergência Médica (INEM).</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2728576/idosa-de-92-anos-morre-em-incendio-num-apartamento-em-alges\" target=\"_blank\" rel=\"noopener noreferrer\">Idosa de 92 anos morre em incêndio num apartamento em Algés</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2729470/de-arrepiar-eis-como-esta-o-mural-de-homenagem-a-pinto-da-costa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "De arrepiar. Eis como está o mural de homenagem a Pinto da Costa",
-         "description": "Centenas de cachecóis foram colocados junto da porta 24 do Estádio do Dragão.",
-         "link": "https://www.noticiasaominuto.com/desporto/2729470/de-arrepiar-eis-como-esta-o-mural-de-homenagem-a-pinto-da-costa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1739746083000,
-         "created": 1739746083000,
-         "category": "Desporto",
-         "content": "<p>O FC Porto partilhou este domingo, através das redes sociais, as mais recentes imagens do mural que foi improvisado junto da porta 24 do Estádio do Dragão. Desde que se soube da morte de Pinto da Costa, milhares de adeptos visitaram o recinto portista para colocar um cachecol. Por esta altura, milhares de cachecóis já foram deixados no local.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Confira o vídeo:</span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2729436/conceicao-pepe-e-jorge-mendes-presentes-no-velorio-de-pinto-da-costa\" target=\"_blank\" rel=\"noopener noreferrer\">Conceição, Pepe e Jorge Mendes presentes no velório de Pinto da Costa</a></p>\n<p> </p>\n<p> </p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67b26ad54f701.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O FC Porto partilhou este domingo, através das redes sociais, as mais recentes imagens do mural que foi improvisado junto da porta 24 do Estádio do Dragão. Desde que se soube da morte de Pinto da Costa, milhares de adeptos visitaram o recinto portista para colocar um cachecol. Por esta altura, milhares de cachecóis já foram deixados no local.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Confira o vídeo:</span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2729436/conceicao-pepe-e-jorge-mendes-presentes-no-velorio-de-pinto-da-costa\" target=\"_blank\" rel=\"noopener noreferrer\">Conceição, Pepe e Jorge Mendes presentes no velório de Pinto da Costa</a></p>\n<p> </p>\n<p> </p>",
          "media": {}
       }
    ]
