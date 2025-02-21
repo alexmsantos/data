@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2732798/otovo-vende-88-dos-paineis-solares-e-baterias-por-subscricao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Otovo vende 88% dos painéis solares e baterias por subscrição",
+         "description": "A Otovo anunciou hoje a venda de 88% dos painéis solares e baterias residenciais por subscrição à Swiss Life Asset Managers, por 105 milhões de euros, mantendo a gestão do portfólio e a relação com os clientes.",
+         "link": "https://www.noticiasaominuto.com/economia/2732798/otovo-vende-88-dos-paineis-solares-e-baterias-por-subscricao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1740143647000,
+         "created": 1740143647000,
+         "category": "Economia",
+         "content": "<p>A venda dos ativos de subscrição a um fundo de investimento coletivo gerido pela Swiss Life Asset Managers vai permitir à Otovo \"financiar a sua operação a curto e longo prazo de forma sustentável\", explicou a 'startup' norueguesa de soluções solares residenciais que iniciou operação em Portugal em 2022.</p>\n<div class=\"dummyPub\"> </div>\n<p>O acordo prevê a venda de 88% dos ativos de subscrição da Otovo em oito dos 13 países onde está presente (Áustria, Alemanha, Polónia, França, Países Baixos, Bélgica, Espanha e Portugal).</p>\n<p>\"Embora estejamos a vender uma parte significativa do nosso portfólio de ativos, continuaremos a ser a entidade gestora, garantindo que a relação com os nossos clientes se mantém inalterada e que o serviço prestado continua com a mesma qualidade e fiabilidade\", adiantou o diretor-geral da Otovo em Portugal, Espanha e França, Manuel Pina.</p>\n<p>Segundo a mesma nota, esta transação é a primeira operação de ativos de energia solar residencial na Europa e envolve cerca de 6.000 sistemas solares residenciais e de baterias instalados nos oito países abrangidos pelo acordo, assim como sistemas a serem instalados no futuro.</p>\n<p>Fundada em 2016 na Noruega, a Otovo utiliza a sua tecnologia para analisar o potencial de produção de energia solar de qualquer casa e encontrar o melhor preço e instalador, com base num processo de licitação automática entre os instaladores disponíveis.</p>\n<p>A plataforma disponibiliza duas modalidades de aquisição de painéis: um modelo de compra única, em que, por cada instalação, cobra uma comissão sobre o valor total do projeto, ou então um modelo de subscrição, durante 20 anos, em que o equipamento é instalado sem que o cliente precise de avançar com qualquer investimento, cobrando um valor mensal fixo (sujeito a atualizações com base na inflação).</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2716690/hyperion-instala-central-fotovoltaica-em-abrantes-e-apoia-projeto-social\" target=\"_blank\" rel=\"noopener noreferrer\">Hyperion instala central fotovoltaica em Abrantes e apoia projeto social</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5408ab4c59040.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>A venda dos ativos de subscrição a um fundo de investimento coletivo gerido pela Swiss Life Asset Managers vai permitir à Otovo \"financiar a sua operação a curto e longo prazo de forma sustentável\", explicou a 'startup' norueguesa de soluções solares residenciais que iniciou operação em Portugal em 2022.</p>\n<div class=\"dummyPub\"> </div>\n<p>O acordo prevê a venda de 88% dos ativos de subscrição da Otovo em oito dos 13 países onde está presente (Áustria, Alemanha, Polónia, França, Países Baixos, Bélgica, Espanha e Portugal).</p>\n<p>\"Embora estejamos a vender uma parte significativa do nosso portfólio de ativos, continuaremos a ser a entidade gestora, garantindo que a relação com os nossos clientes se mantém inalterada e que o serviço prestado continua com a mesma qualidade e fiabilidade\", adiantou o diretor-geral da Otovo em Portugal, Espanha e França, Manuel Pina.</p>\n<p>Segundo a mesma nota, esta transação é a primeira operação de ativos de energia solar residencial na Europa e envolve cerca de 6.000 sistemas solares residenciais e de baterias instalados nos oito países abrangidos pelo acordo, assim como sistemas a serem instalados no futuro.</p>\n<p>Fundada em 2016 na Noruega, a Otovo utiliza a sua tecnologia para analisar o potencial de produção de energia solar de qualquer casa e encontrar o melhor preço e instalador, com base num processo de licitação automática entre os instaladores disponíveis.</p>\n<p>A plataforma disponibiliza duas modalidades de aquisição de painéis: um modelo de compra única, em que, por cada instalação, cobra uma comissão sobre o valor total do projeto, ou então um modelo de subscrição, durante 20 anos, em que o equipamento é instalado sem que o cliente precise de avançar com qualquer investimento, cobrando um valor mensal fixo (sujeito a atualizações com base na inflação).</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2716690/hyperion-instala-central-fotovoltaica-em-abrantes-e-apoia-projeto-social\" target=\"_blank\" rel=\"noopener noreferrer\">Hyperion instala central fotovoltaica em Abrantes e apoia projeto social</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2732600/os-cinco-automoveis-mais-caros-do-mundo-nao-sao-da-ferrari-ou-lamborghini?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Os cinco automóveis mais caros do mundo não são da Ferrari ou Lamborghini",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Uma alimentação equilibrada pode ajudar a manter os níveis de colesterol saudáveis. Por outro lado, consegue uma ajuda a reduzir os valores com um suplemento pouco conhecido por muitos. Uma dietista revela tudo.</p>\n<div class=\"dummyPub\"> </div>\n<p>Ao agregador de blogues HuffPost, Ana Luzón revela que se trata de<span class=\"news_bold\"> berberina</span>. Segundo o 'website' da loja Naturitas, trata-se de \"um extrato vegetal incluído no controlo da glicemia e na redução do colesterol\".</p>\n<p>Já a especialista em nutrição explica que \"é um alcaloide presente em plantas como berberis aristata e coptis chinensis. <span class=\"news_bold\">A sua ação no metabolismo lipídico tem sido comparada à da metformina\"</span>.</p>\n<p>Por outro lado, \"melhora a sensibilidade à insulina e diminui a produção de colesterol hepático\". </p>\n<p>Citou ainda alguns estudo que referem que o consumo de 500 mg de berberina duas vezes por dia ajuda a reduzir o colesterol em 20%.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2727204/quatro-alimentos-que-ajudam-a-reduzir-os-niveis-de-colesterol-mau\" target=\"_blank\" rel=\"noopener noreferrer\">Quatro alimentos que ajudam a reduzir os níveis de colesterol 'mau'</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2732636/besiktas-quer-passe-de-gedson-fernandes-e-benfica-pede-dobro-da-proposta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Besiktas quer passe de Gedson Fernandes e Benfica pede dobro da proposta",
-         "description": "Turcos querem deter a totalidade dos direitos do jogador formado pelos encarnados.",
-         "link": "https://www.noticiasaominuto.com/desporto/2732636/besiktas-quer-passe-de-gedson-fernandes-e-benfica-pede-dobro-da-proposta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1740130777000,
-         "created": 1740130777000,
-         "category": "Desporto",
-         "content": "<p>Gedson Fernandes promete ser um caso que fará correr muita tinta nos próximos tempos. O Besiktas terá apresentado uma proposta, esta sexta-feira, ao Benfica para comprar os 50% restantes do passe do jogador, mas os encarnados não estão a facilitar.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo adianta o <a href=\"https://www.fanatik.com.tr/besiktas/besiktas-gozunu-karartti-gedsonda-siki-pazarlik-2573644\" target=\"_blank\" rel=\"noopener\"><span class=\"news_bold\">Fanatik</span></a>, o emblema turco ofereceu 7,5 milhões de euros, mas as águias rejeitaram, pedindo 12 milhões. Uma vez que a primeira metade do passe do jogador custou cerca de 6 milhões de euros, seria uma valorização significativa.</p>\n<p>De acordo com a mesma fonte, as negociações estão dependentes da capacidade financeira do Besiktas e da atitude dos responsáveis do Benfica, sendo que, no caso das águias turcas aumentarem a proposta, será feita uma nova reunião entre ambas as partes.</p>\n<p>Gedson Fernandes é considerado uma peça fundamental no processo do Besiktas, contando com 34 jogos disputados esta temporada, contribuindo com oito golos e duas assistências em todas as competições.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2728950/rafa-silva-anula-golo-de-ex-sporting-de-braga-e-besiktas-volta-a-sorrir\" target=\"_blank\" rel=\"noopener noreferrer\">Rafa Silva anula golo de ex-Sporting de Braga e Besiktas volta a sorrir</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66c8406b5ccbd.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Gedson Fernandes promete ser um caso que fará correr muita tinta nos próximos tempos. O Besiktas terá apresentado uma proposta, esta sexta-feira, ao Benfica para comprar os 50% restantes do passe do jogador, mas os encarnados não estão a facilitar.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo adianta o <a href=\"https://www.fanatik.com.tr/besiktas/besiktas-gozunu-karartti-gedsonda-siki-pazarlik-2573644\" target=\"_blank\" rel=\"noopener\"><span class=\"news_bold\">Fanatik</span></a>, o emblema turco ofereceu 7,5 milhões de euros, mas as águias rejeitaram, pedindo 12 milhões. Uma vez que a primeira metade do passe do jogador custou cerca de 6 milhões de euros, seria uma valorização significativa.</p>\n<p>De acordo com a mesma fonte, as negociações estão dependentes da capacidade financeira do Besiktas e da atitude dos responsáveis do Benfica, sendo que, no caso das águias turcas aumentarem a proposta, será feita uma nova reunião entre ambas as partes.</p>\n<p>Gedson Fernandes é considerado uma peça fundamental no processo do Besiktas, contando com 34 jogos disputados esta temporada, contribuindo com oito golos e duas assistências em todas as competições.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2728950/rafa-silva-anula-golo-de-ex-sporting-de-braga-e-besiktas-volta-a-sorrir\" target=\"_blank\" rel=\"noopener noreferrer\">Rafa Silva anula golo de ex-Sporting de Braga e Besiktas volta a sorrir</a></p>",
          "media": {}
       }
    ]
