@@ -50,8 +50,25 @@
          "published": 1741291495000,
          "created": 1741291495000,
          "category": "Expressinho",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-03-06-istock_000016956101large.jpg-643c9875/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-03-06-istock_000016956101large.jpg-643c9875/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-03-06-istock_000016956101large.jpg-643c9875/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "c3f0581a-aedd-4f38-acbe-6811675379f3",
