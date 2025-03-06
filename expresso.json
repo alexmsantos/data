@@ -77,8 +77,25 @@
          "published": 1741211268000,
          "created": 1741211268000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-04-20-350px_paulo-baldaia_a-_idp.png-d572dd07-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-04-20-350px_paulo-baldaia_a-_idp.png-d572dd07-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-04-20-350px_paulo-baldaia_a-_idp.png-d572dd07-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "686661b3-184a-48e6-82aa-99ba04fa420d",
