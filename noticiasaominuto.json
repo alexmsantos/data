@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2741717/antonio-costa-diz-que-hungria-esta-sozinha-e-rejeita-que-crie-divisao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "António Costa diz que Hungria \"está sozinha\" e rejeita que crie divisão",
+         "description": "O presidente do Conselho Europeu, António Costa, considerou hoje que a Hungria \"está sozinha\" e rejeitou que haja uma divisão na União Europeia (UE) sobre a Ucrânia com o acordo alcançado por 26 países na reunião extraordinária.",
+         "link": "https://www.noticiasaominuto.com/mundo/2741717/antonio-costa-diz-que-hungria-esta-sozinha-e-rejeita-que-crie-divisao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1741302291000,
+         "created": 1741302291000,
+         "category": "Mundo",
+         "content": "<p><span class=\"news_bold\">\"Todos queremos paz, a diferença é que 26 [países] pensam que o caminho para a paz se faz reforçando a capacidade de defesa da Ucrânia\"</span>, disse António Costa, em conferência de imprensa, em Bruxelas, acrescentando que \"a Hungria está sozinha\".</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">\"Está isolada, um país isolado não cria divisão e os 26 continuam unidos, com uma posição comum\"</span>, disse o presidente do Conselho Europeu (ex-primeiro-ministro de Portugal).</p>\n<p>O presidente do Conselho Europeu disse que a UE \"aprendeu e refletiu com as lições aprendidas com a guerra na Ucrânia\" e com a cooperação com a Organização do Tratado do Atlântico Norte (NATO).</p>\n<p><span class=\"news_bold\">\"Está isolada\"</span>, insistiu António Costa: <span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">\"Respeitamos a posição da Hungria, mas é uma em 27, e 26 são mais.\"</span></p>\n<p>Nesse sentido, o presidente do Conselho Europeu anunciou que os líderes dos países do bloco comunitário chegaram a acordo sobre a necessidade de adquirir mais \"mísseis, sistemas de defesa antiaérea, munições, 'drones' (veículos aéreos sem tripulação) e sistemas de defesa contra 'drones'\", como parte do investimento que a UE que fazer para \"se rearmar\", como definiu a presidente da Comissão Europeia, Ursula von der Leyen.</p>\n<p>António Costa defendeu que a UE está <span class=\"news_bold\">\"ombro com ombro\"</span> com a Ucrânia. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2741628/orban-nao-assina-texto-sobre-garantias-de-seguranca-a-ucrania\" target=\"_blank\" rel=\"noopener noreferrer\">Orbán não assina texto sobre garantias de segurança à Ucrânia</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67ca2a3ca5cef.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p><span class=\"news_bold\">\"Todos queremos paz, a diferença é que 26 [países] pensam que o caminho para a paz se faz reforçando a capacidade de defesa da Ucrânia\"</span>, disse António Costa, em conferência de imprensa, em Bruxelas, acrescentando que \"a Hungria está sozinha\".</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">\"Está isolada, um país isolado não cria divisão e os 26 continuam unidos, com uma posição comum\"</span>, disse o presidente do Conselho Europeu (ex-primeiro-ministro de Portugal).</p>\n<p>O presidente do Conselho Europeu disse que a UE \"aprendeu e refletiu com as lições aprendidas com a guerra na Ucrânia\" e com a cooperação com a Organização do Tratado do Atlântico Norte (NATO).</p>\n<p><span class=\"news_bold\">\"Está isolada\"</span>, insistiu António Costa: <span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">\"Respeitamos a posição da Hungria, mas é uma em 27, e 26 são mais.\"</span></p>\n<p>Nesse sentido, o presidente do Conselho Europeu anunciou que os líderes dos países do bloco comunitário chegaram a acordo sobre a necessidade de adquirir mais \"mísseis, sistemas de defesa antiaérea, munições, 'drones' (veículos aéreos sem tripulação) e sistemas de defesa contra 'drones'\", como parte do investimento que a UE que fazer para \"se rearmar\", como definiu a presidente da Comissão Europeia, Ursula von der Leyen.</p>\n<p>António Costa defendeu que a UE está <span class=\"news_bold\">\"ombro com ombro\"</span> com a Ucrânia. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2741628/orban-nao-assina-texto-sobre-garantias-de-seguranca-a-ucrania\" target=\"_blank\" rel=\"noopener noreferrer\">Orbán não assina texto sobre garantias de segurança à Ucrânia</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2741711/homem-sofre-ferimentos-graves-apos-ser-atropelado-em-viseu?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Homem sofre ferimentos graves após ser atropelado em Viseu",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>O antigo chefe do exército ucraniano e atual embaixador da Ucrânia, Valery Zaluzhny, considerou que os Estados Unidos estão a \"destruir\" a ordem mundial, numa altura em que Washington e Kyiv estão a tentar <a href=\"https://www.noticiasaominuto.com/mundo/2737994/o-encontro-de-trump-e-zelensky-em-palavras-leia-a-discussao-na-sala-oval\" target=\"_blank\" rel=\"noopener\">ultrapassar a altercação na Casa Branca</a>, que impediu a assinatura de um acordo de minerais raros.</p>\n<div class=\"dummyPub\"> </div>\n<p>Numa altura em que os Estados Unidos suspendem também a ajuda militar à Ucrânia, Zaluzhny referiu, num painel organizado pelo 'think tank' Chatham House: \"Não se trata apenas do 'eixo do mal' e da Rússia a tentar rever a ordem mundial, mas os EUA estão finalmente a destruir esta ordem\", referiu o responsável, que é também apontando como um possível candidato presidencial.</p>\n<p>Zaluzhny referiu ainda que os EUA \"questionaram\"  a união do Ocidente, com a abertura à Rússia e às conversações que têm decorrido entre delegações de ambos os países.</p>\n<p><span class=\"news_bold\">\"Vemos agora que a Casa Branca está a dar passos em direção ao Kremlin, tentando encontrar-se com eles a meio caminho, pelo que o próximo alvo da Rússia poderá ser a Europa\"</span>, acrescentou.</p>\n<p>Desde a altercação que o presidente da Ucrânia, Volodymyr Zelensky, tem tentado aliviar as tensões entre os dois países, e garantindo que Kyiv está pronto para negociar o fim do conflito com a Rússia.</p>\n<p>Por outro lado, a Europa já mostrou o seu apoio - desde o dia da discussão entre os dois líderes até ao dia de hoje, em que Zelenksy se encontra reunido com o presidente do Conselho Europeu, António Costa, e <a href=\"https://www.noticiasaominuto.com/mundo/2741174/a-seguranca-da-europa-nao-esta-desvinculada-da-seguranca-da-ucrania?utm_source=fb&utm_medium=post&utm_campaign=2741174&fbclid=IwZXh0bgNhZW0CMTAAAR0WkX8wz_HvnQX2r7anjbWhi_XAAwoaLHqJsceAGxfQWGSb1QXoZ5k6X3M_aem_RKd4L05z8bIEWsN6FL5K_g\" target=\"_blank\" rel=\"noopener\">também a presidente da Comissão Europeia, Ursula von der Leyen.</a></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2741493/temos-de-escolher-a-versao-da-paz-que-nos-convem\" target=\"_blank\" rel=\"noopener noreferrer\">\"Temos de escolher a versão da paz que nos convém\"</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2741542/extorquiu-mais-de-35-mil-euros-em-10-anos-com-ameacas-de-morte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Extorquiu mais de 35 mil euros em 10 anos com \"ameaças de morte\"",
-         "description": "O homem foi detido em flagrante delito pela PSP após a vítima lhe entregar 400 euros em notas.",
-         "link": "https://www.noticiasaominuto.com/pais/2741542/extorquiu-mais-de-35-mil-euros-em-10-anos-com-ameacas-de-morte?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1741286036000,
-         "created": 1741286036000,
-         "category": "País",
-         "content": "<p>Um homem de 45 anos foi detido, na quarta-feira, por ser suspeito do crime de extorsão, nas Caldas da Rainha. Segundo a Polícia de Segurança Pública (PSP), o indivíduo extorquiu 35 mil euros ao longo de dez anos através de \"ameaças de morte\" à vítima.</p>\n<div class=\"dummyPub\"> </div>\n<p>Em comunicado, enviado esta quinta-feira às redações, a autoridade indicou que o homem foi detido \"em flagrante\" na sequência de uma \"investigação relâmpago\" tendo em conta a \"gravidade do crime\", a \"conduta do suspeito\" e \"enorme fragilidade psicológica e carência económica\" da vítima, um homem de 55 anos.</p>\n<p>Foi então montado um dispositivo policial que \"discretamente vigiou e acompanhou o suspeito a deslocar-se com a vítima a um caixa automática (ATM)\", numa grande superfície comercial.</p>\n<p>O suspeito acabou por ser detido em flagrante delito, após a vítima lhe entregar 400 euros em notas. </p>\n<p>Para cometer o crime, o detido \"ameaçava de morte a vítima, criando um clima de terror\", para obter ganhos que, segundo \"análise aos movimentos bancários, ascenderão a mais de 35.000 euros\".</p>\n<p>O suspeito já tinha antecedentes criminais pela prática de tráfico de estupefacientes, roubos, ameaças e ofensas à integridade física e, após ser presente à autoridade judiciária, em Leiria, ficou sujeito às medidas de coação de apresentações diárias na Esquadra da PSP de Caldas da Rainha e proibição de contactos com a vítima.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2741474/operacao-da-psp-no-carnaval-termina-com-mais-de-150-detidos-em-lisboa\" target=\"_blank\" rel=\"noopener noreferrer\">Operação da PSP no Carnaval termina com mais de 150 detidos em Lisboa</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6706335d161a9.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Um homem de 45 anos foi detido, na quarta-feira, por ser suspeito do crime de extorsão, nas Caldas da Rainha. Segundo a Polícia de Segurança Pública (PSP), o indivíduo extorquiu 35 mil euros ao longo de dez anos através de \"ameaças de morte\" à vítima.</p>\n<div class=\"dummyPub\"> </div>\n<p>Em comunicado, enviado esta quinta-feira às redações, a autoridade indicou que o homem foi detido \"em flagrante\" na sequência de uma \"investigação relâmpago\" tendo em conta a \"gravidade do crime\", a \"conduta do suspeito\" e \"enorme fragilidade psicológica e carência económica\" da vítima, um homem de 55 anos.</p>\n<p>Foi então montado um dispositivo policial que \"discretamente vigiou e acompanhou o suspeito a deslocar-se com a vítima a um caixa automática (ATM)\", numa grande superfície comercial.</p>\n<p>O suspeito acabou por ser detido em flagrante delito, após a vítima lhe entregar 400 euros em notas. </p>\n<p>Para cometer o crime, o detido \"ameaçava de morte a vítima, criando um clima de terror\", para obter ganhos que, segundo \"análise aos movimentos bancários, ascenderão a mais de 35.000 euros\".</p>\n<p>O suspeito já tinha antecedentes criminais pela prática de tráfico de estupefacientes, roubos, ameaças e ofensas à integridade física e, após ser presente à autoridade judiciária, em Leiria, ficou sujeito às medidas de coação de apresentações diárias na Esquadra da PSP de Caldas da Rainha e proibição de contactos com a vítima.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2741474/operacao-da-psp-no-carnaval-termina-com-mais-de-150-detidos-em-lisboa\" target=\"_blank\" rel=\"noopener noreferrer\">Operação da PSP no Carnaval termina com mais de 150 detidos em Lisboa</a></p>",
          "media": {}
       }
    ]
