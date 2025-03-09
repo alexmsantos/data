@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2743080/bombardeamento-israelita-faz-dois-mortos-a-leste-da-cidade-de-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bombardeamento israelita faz dois mortos a leste da cidade de Gaza",
+         "description": "Um bombardeamento da artilharia israelita no bairro de Shujaiya, no leste da cidade de Gaza, matou dois palestinianos e provocou vários feridos, informou o Ministério da Saúde do enclave palestiniano, citado pela agência EFE.",
+         "link": "https://www.noticiasaominuto.com/mundo/2743080/bombardeamento-israelita-faz-dois-mortos-a-leste-da-cidade-de-gaza?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1741516221000,
+         "created": 1741516221000,
+         "category": "Mundo",
+         "content": "<p>O ataque surge no meio de conversações indiretas entre o Hamas e Israel para prolongar o cessar-fogo entre as duas partes.</p>\n<div class=\"dummyPub\"> </div>\n<p>O exército israelita, em comunicado, confirmou hoje que atacou \"vários terroristas\", depois de os ter identificado a operar no norte de Gaza, perto das suas tropas, onde \"tentavam colocar um engenho explosivo no solo\".</p>\n<p>Desde que o cessar-fogo entrou em vigor na Faixa de Gaza, em 19 de janeiro -- e cuja primeira fase terminou há uma semana sem que se chegasse a acordo sobre a sua continuação -, as tropas israelitas, que permanecem estacionadas na zona tampão ao longo da fronteira de Gaza e no corredor de Filadélfia [na fronteira entre a Faixa de Gaza e o Egito], mataram mais de uma centena de palestinianos, incluindo menores.</p>\n<p>Também hoje, um drone israelita disparou contra cidadãos na zona de Zafarana, a leste do campo de refugiados de Maghazi, no centro da Faixa de Gaza, informou a agência noticiosa palestiniana Wafa. Não foram, ainda, reportadas vítimas deste ataque, segundo a EFE.</p>\n<p>O receio de que o Governo de Benjamin Netanyahu ordene o recomeço da guerra, ou seja, bombardeamentos diários em todo o enclave em ruínas, tomou conta da população de Gaza, depois de constatar que ainda não há acordo sobre a continuação do cessar-fogo.</p>\n<p>As negociações para a segunda fase, que já deveria estar em vigor de acordo com o texto original, ainda não produziram resultados, após a conclusão da primeira fase em que o Hamas libertou 33 reféns e as autoridades israelitas libertaram cerca de 1.800 prisioneiros palestinianos.</p>\n<p>O último balanço do conflito atualizado pelo Ministério da Saúde de Gaza, que não inclui estas duas últimas mortes, ascende a 48.453 mortos e 111.860 feridos, além de milhares de desaparecidos sob os escombros que ainda não foram resgatados.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2741570/eua-e-ucrania-reunem-se-em-riade-na-terca-feira\" target=\"_blank\" rel=\"noopener noreferrer\">EUA e Ucrânia reúnem-se em Riade na terça-feira</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_678d90c2d637d.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O ataque surge no meio de conversações indiretas entre o Hamas e Israel para prolongar o cessar-fogo entre as duas partes.</p>\n<div class=\"dummyPub\"> </div>\n<p>O exército israelita, em comunicado, confirmou hoje que atacou \"vários terroristas\", depois de os ter identificado a operar no norte de Gaza, perto das suas tropas, onde \"tentavam colocar um engenho explosivo no solo\".</p>\n<p>Desde que o cessar-fogo entrou em vigor na Faixa de Gaza, em 19 de janeiro -- e cuja primeira fase terminou há uma semana sem que se chegasse a acordo sobre a sua continuação -, as tropas israelitas, que permanecem estacionadas na zona tampão ao longo da fronteira de Gaza e no corredor de Filadélfia [na fronteira entre a Faixa de Gaza e o Egito], mataram mais de uma centena de palestinianos, incluindo menores.</p>\n<p>Também hoje, um drone israelita disparou contra cidadãos na zona de Zafarana, a leste do campo de refugiados de Maghazi, no centro da Faixa de Gaza, informou a agência noticiosa palestiniana Wafa. Não foram, ainda, reportadas vítimas deste ataque, segundo a EFE.</p>\n<p>O receio de que o Governo de Benjamin Netanyahu ordene o recomeço da guerra, ou seja, bombardeamentos diários em todo o enclave em ruínas, tomou conta da população de Gaza, depois de constatar que ainda não há acordo sobre a continuação do cessar-fogo.</p>\n<p>As negociações para a segunda fase, que já deveria estar em vigor de acordo com o texto original, ainda não produziram resultados, após a conclusão da primeira fase em que o Hamas libertou 33 reféns e as autoridades israelitas libertaram cerca de 1.800 prisioneiros palestinianos.</p>\n<p>O último balanço do conflito atualizado pelo Ministério da Saúde de Gaza, que não inclui estas duas últimas mortes, ascende a 48.453 mortos e 111.860 feridos, além de milhares de desaparecidos sob os escombros que ainda não foram resgatados.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2741570/eua-e-ucrania-reunem-se-em-riade-na-terca-feira\" target=\"_blank\" rel=\"noopener noreferrer\">EUA e Ucrânia reúnem-se em Riade na terça-feira</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2743079/agrada-ao-barcelona-custa-15-milhoes-de-euros-e-atira-e-muito?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Agrada ao Barcelona, custa 15 milhões de euros e atira: \"É muito...\"",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>A 28.ª jornada da Premier League arranca, às 12h30 (hora de Portugal Continental) deste sábado, com um duelo de 'sotaque' português acentuado, entre Nottingham Forest e Manchester City, que, contra todas as expetativas, entra diretamente nas contas da luta pelo pódio.</p>\n<div class=\"dummyPub\"> </div>\n<p>Seguem-se, às 15h00, o Liverpool-Southampton, o Crystal Palace-Ipswich Town e o Brighton-Fulham. Para as 17h30, está reservado o Brentford-Aston Villa, encerrando-se o dia no Molineux, com o embate entre o Wolverhampton e o Everton, também ele com vários lusos em ação.</p>\n<p>Já no domingo, jogam-se o Tottenham-Bournemouth e o Chelsea-Leicester City, às 14h00, e o Manchester United-Arsenal, às 16h30. A bola só parará de rolar já na segunda-feira, no Estádio Olímpico de Londres, com o West Ham-Newcastle.</p>\n<p>Fique com o <span class=\"news_bold\">Desporto ao Minuto</span> e acompanhe todas as emoções de mais uma ronda do principal escalão do futebol inglês.</p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2742940/pelo-buraco-da-agulha-ricardo-horta-surpreende-diogo-costa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pelo buraco da agulha. Ricardo Horta surpreende Diogo Costa",
-         "description": "Avançado colocou o Sp. Braga em vantagem na receção ao FC Porto, em jogo da 25.ª jornada.",
-         "link": "https://www.noticiasaominuto.com/desporto/2742940/pelo-buraco-da-agulha-ricardo-horta-surpreende-diogo-costa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1741471846000,
-         "created": 1741471846000,
-         "category": "Desporto",
-         "content": "<p>Aos 17 minutos, Ricardo Horta colocou o Sp. Braga em vantagem no duelo com o FC Porto, este sábado, para a 25.ª jornada da I Liga.</p>\n<div class=\"dummyPub\"> </div>\n<p>Na sequência de um livre lateral, o histórico avançado dos bracarenses aproveitou para bater direto, surpreendendo o guardião Diogo Costa. que protestou com os companheiros da equipa.</p>\n<p>Ora, veja o golo.</p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67ccbf0491cee.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Aos 17 minutos, Ricardo Horta colocou o Sp. Braga em vantagem no duelo com o FC Porto, este sábado, para a 25.ª jornada da I Liga.</p>\n<div class=\"dummyPub\"> </div>\n<p>Na sequência de um livre lateral, o histórico avançado dos bracarenses aproveitou para bater direto, surpreendendo o guardião Diogo Costa. que protestou com os companheiros da equipa.</p>\n<p>Ora, veja o golo.</p>",
          "media": {}
       }
    ]
