@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a27fddb1-8aa8-4da2-ae90-661745263144",
+         "title": "Papa Francisco está melhor e passou uma noite tranquila",
+         "description": "<p>De acordo com o último boletim de saúde publicado na noite de segunda-feira, “as melhorias registadas nos dias anteriores foram ainda mais consolidadas, conforme confirmado pelos exames de sangue (...) e pela boa resposta ao tratamento”</p>",
+         "link": "https://expresso.pt/sociedade/religiao/2025-03-11-papa-francisco-esta-melhor-e-passou-uma-noite-tranquila-e6372ef1",
+         "author": "Agência Lusa",
+         "published": 1741684932000,
+         "created": 1741684932000,
+         "category": "Religião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-17-papa-francisco-1eef4fe6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-17-papa-francisco-1eef4fe6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-02-17-papa-francisco-1eef4fe6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "ef656a4b-26e1-490f-837a-cdf00b6b6fcd",
          "title": "Sismo de magnitude 5,3 na escala de Richter registado na ilha de São Miguel",
          "description": "<p>Em comunicado, o IPMA indica que o sismo foi registado nas estações da Rede Sísmica dos Açores às 07h14 locais (08h14 em Lisboa) e teve epicentro a cerca de 25 quilómetros a sul-sudeste de Faial da Terra, na ilha de S. Miguel</p>",
@@ -261,38 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-01-27-palavras-cruzadas--002-.jpg-ae400349/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "e12a02f5-6a19-4882-a9bb-640f874123f3",
-         "title": "Ucrânia lançou “o maior ataque de 'drones' inimigos contra Moscovo”: serviços de socorro russos estão no terreno",
-         "description": "<p>\"Os sistemas de defesa aérea intercetaram e destruíram 337 'drones' aéreos ucranianos, incluindo 91 sobre a região de Moscovo e 126 sobre a região de Kursk, que faz fronteira com a Ucrânia\", disse o Ministério da Defesa russo em comunicado. A região de Moscovo, onde morreu uma pessoa e há três feridos, foi o centro do maior ataque desde o início da invasão da Ucrânia, em 2022</p> <p> </p>",
-         "link": "https://expresso.pt/internacional/guerra-na-ucrania/2025-03-11-ucrania-lancou-o-maior-ataque-de-drones-inimigos-contra-moscovo-servicos-de-socorro-russos-estao-no-terreno-15c1b7c2",
-         "author": [
-            "João Miguel Salvador",
-            "Agência Lusa"
-         ],
-         "published": 1741679407000,
-         "created": 1741679407000,
-         "category": "Guerra na Ucrânia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-01-09-serguei-shoigu-ba780807/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-01-09-serguei-shoigu-ba780807/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-01-09-serguei-shoigu-ba780807/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
