@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "aad8ddaa-04eb-4128-a7a8-c53faa509b3c",
+         "title": "DPOC e ambiente: quando a solução também pode ser o problema",
+         "description": "<p>As instituições de saúde, os profissionais de saúde e, em certa parte, as associações de doentes, têm sensibilizado as autoridades envolvidas e a própria sociedade para o impacto ambiental dos inaladores e a necessidade urgente de privilegiar os que têm um perfil mais ecológico, sem prejuízo da situação clínica do doente</p>",
+         "link": "https://expresso.pt/opiniao/2025-03-13-dpoc-e-ambiente-quando-a-solucao-tambem-pode-ser-o-problema-7be9598e",
+         "author": "José Albino",
+         "published": 1741849607000,
+         "created": 1741849607000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-03-12-jose-albino.png-f40bf651/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-03-12-jose-albino.png-f40bf651/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-03-12-jose-albino.png-f40bf651/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "900253c2-6b23-4d15-ab4a-c32df0c5c330",
          "title": "1924, o ano que poderia ter mudado a Europa e o mundo, de Hitler e Mussolini à morte de Lenine e ao Governo Canhoto da Primeira República",
          "description": "<p><span>Há anos que ficam na história, outros que são esquecidos. Neste episódio do podcast Tempo ao Tempo, Rui Tavares faz um exercício de memória acerca de um ano que, não tendo ficado na história, foi determinante para os que o sucederam</span></p>",
@@ -38,35 +67,6 @@
          }
       },
       {
-         "id": "20f756cd-5e8f-4a2a-9f96-b2d0c0eca819",
-         "title": "Os discretos simpatizantes de Putin entre os socialistas europeus",
-         "description": "<p>Se, na Europa Ocidental, os partidos do S&amp;D são claros opositores do populismo de direita, no leste, o quadro é outro</p>",
-         "link": "https://expresso.pt/geracao-e/2025-03-13-os-discretos-simpatizantes-de-putin-entre-os-socialistas-europeus-a0216b6e",
-         "author": "Ricardo Duarte",
-         "published": 1741849200000,
-         "created": 1741849200000,
-         "category": "Geração E",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-02-20-Ricardo-Duarte.png-47e2e7c5-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-02-20-Ricardo-Duarte.png-47e2e7c5-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-02-20-Ricardo-Duarte.png-47e2e7c5-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "69a66943-9832-4622-8908-410a893a2589",
          "title": "Menos exames no secundário, mais peso no acesso ao ensino superior, mas com mais hipóteses de escolha",
          "description": "<p>Exames nacionais voltam a contar para a nota final para todos os alunos do secundário, como acontecia antes da pandemia. Inscrições decorrem até dia 19 de março</p>",
@@ -90,6 +90,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2023-06-15-escolas-rankings-vouzela-689f293e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "20f756cd-5e8f-4a2a-9f96-b2d0c0eca819",
+         "title": "Os discretos simpatizantes de Putin entre os socialistas europeus",
+         "description": "<p>Se, na Europa Ocidental, os partidos do S&amp;D são claros opositores do populismo de direita, no leste, o quadro é outro</p>",
+         "link": "https://expresso.pt/geracao-e/2025-03-13-os-discretos-simpatizantes-de-putin-entre-os-socialistas-europeus-a0216b6e",
+         "author": "Ricardo Duarte",
+         "published": 1741849200000,
+         "created": 1741849200000,
+         "category": "Geração E",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-02-20-Ricardo-Duarte.png-47e2e7c5-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-02-20-Ricardo-Duarte.png-47e2e7c5-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-02-20-Ricardo-Duarte.png-47e2e7c5-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -218,6 +247,35 @@
          }
       },
       {
+         "id": "013eeab2-2896-43a7-a779-b9e1cad6eb1f",
+         "title": "Irão diz ter recebido carta de Trump para negociar programa nuclear (mas recusa negociar)",
+         "description": "<p>\"Quando o Presidente dos Estados Unidos diz que está pronto para negociar com o Irão e nos convida para o diálogo, está a enganar a opinião pública mundial\", disse Khamenei, num encontro com estudantes em Teerão</p>",
+         "link": "https://expresso.pt/internacional/medio-oriente/2025-03-13-irao-diz-ter-recebido-carta-de-trump-para-negociar-programa-nuclear--mas-recusa-negociar--8ca6043a",
+         "author": "Agência Lusa",
+         "published": 1741847549000,
+         "created": 1741847549000,
+         "category": "Médio Oriente",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-28-mne-irao-abbas-araghchi-add94eba/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-28-mne-irao-abbas-araghchi-add94eba/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-28-mne-irao-abbas-araghchi-add94eba/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "146b13d1-5fa2-4e7a-95d3-22ec753dc47e",
          "title": "O suicídio moral do PSD e a anemia geral dos partidos",
          "description": "<p>Não existe PSD para reagir. Existem federações de carreiras e negócios locais. É disso que emana Montenegro e os problemas que hoje o perseguem. Prefiro, politicamente, Passos Coelho? Não. Mas, com Passos ou Moreira da Silva, estaríamos a debater o que interessa, não avenças e esquemas. Não se pode discutir política com um primeiro-ministro que recebe uma avença de casinos no cargo</p>",
@@ -241,64 +299,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2022-03-09-daniel-oliveira-autor-opiniao-5c38bf22/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "e5cb4514-2e05-4f10-a30f-3c19d77d4416",
-         "title": "Conselho Nacional do PSD em ácidos contra PS e Pedro Nuno. A única voz crítica que se fez ouvir foi mal recebida",
-         "description": "<p>De \"corista do Chega\" a \"menino do papá\" ou \"charlatão\", PS e Pedro Nuno Santos foram os alvos de um Conselho Nacional do PSD reunido à porta fechada. Uma a uma, as principais figuras do Governo e do PSD tomaram da palavra cerrando fileiras à volta de Luís Montenegro, com muitos aplausos ao líder intervenções de apoio quase unânimes. A plateia reagiu mal à única voz que desalinhou</p>",
-         "link": "https://expresso.pt/politica/crise/2025-03-13-conselho-nacional-do-psd-em-acidos-contra-ps-e-pedro-nuno.-a-unica-voz-critica-que-se-fez-ouvir-foi-mal-recebida-a18b3c86",
-         "author": "Paula Caeiro Varela",
-         "published": 1741847265000,
-         "created": 1741847265000,
-         "category": "Crise política",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-03-12-doc.20250312.44575091.governo.jpg-ff6f6d47/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-03-12-doc.20250312.44575091.governo.jpg-ff6f6d47/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-03-12-doc.20250312.44575091.governo.jpg-ff6f6d47/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f5e1c7bb-a159-4132-94b1-6e8617934015",
-         "title": "Administração Trump retoma detenção de famílias imigrantes",
-         "description": "<p>A administração Trump retomou a detenção de famílias de imigrantes na semana passada numa instalação no sul do Texas, segundo um grupo sem fins lucrativos que presta serviços a famílias de migrantes</p>",
-         "link": "https://expresso.pt/internacional/eua/2025-03-13-administracao-trump-retoma-detencao-de-familias-imigrantes-3f074ac8",
-         "author": "Agência Lusa",
-         "published": 1741845951000,
-         "created": 1741845951000,
-         "category": "EUA",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-01-22-trump-migration-imigracao.jpg-6ee20683/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-01-22-trump-migration-imigracao.jpg-6ee20683/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-01-22-trump-migration-imigracao.jpg-6ee20683/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
