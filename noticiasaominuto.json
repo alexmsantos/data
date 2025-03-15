@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2747847/associacoes-espanholas-apelam-a-turistas-para-nao-irem-a-maiorca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Associações espanholas apelam a turistas para não irem a Maiorca",
+         "description": "Sete organizações ambientalistas da ilha de Maiorca, em Espanha, escreveram uma carta aberta, em várias línguas, pedindo aos turistas que não viajem para a ilha, por causa do turismo massificado.",
+         "link": "https://www.noticiasaominuto.com/mundo/2747847/associacoes-espanholas-apelam-a-turistas-para-nao-irem-a-maiorca?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1742074301000,
+         "created": 1742074301000,
+         "category": "Mundo",
+         "content": "<p>Intitulada 'Maiorca não é o paraíso que vos estão a vender', a carta aberta é uma denúncia sobre os problemas decorrentes do aumento do turismo nesta ilha, com impacto no ecossistema, na deterioração dos serviços públicos, na gentrificação e no aumento do custo de vida.</p>\n<div class=\"dummyPub\"> </div>\n<p>As sete associações e organizações acusam ainda a indústria hoteleira e os políticos de darem mais importância aos seus interesses económicos em detrimento do bem-estar dos habitantes da ilha.</p>\n<p>\"A população local está farta e já não somos hospitaleiros, porque estão a destruir a terra que amamos; e muitos moradores têm de emigrar porque a ilha tornou-se inabitável\", lê-se na carta aberta.</p>\n<p>Por isso, deixam um apelo: \"Está na hora de vos pedir que não venham. Não precisamos de mais turistas, aliás, vocês são a causa do problema\".</p>\n<p>No verão passado, várias cidades de Espanha foram palco de manifestações de alerta contra uma saturação da atividade turística, pelo esgotamento de recursos e impactos graves no mercado da habitação.</p>\n<p>Em 2023, Espanha foi o segundo destino turístico do mundo, depois de França, e recebeu 86 milhões de visitantes estrangeiros, segundo estatísticas oficiais.</p>\n<p>As ilhas Baleares, no Mediterrâneo, onde vivem cerca de 1,2 milhões de pessoas, receberam 14,4 milhões de turistas em 2023.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2747618/mulher-e-filho-de-traficante-raptados-apos-roubo-de-cocaina-em-espanha\" target=\"_blank\" rel=\"noopener noreferrer\">Mulher e filho de traficante raptados após roubo de cocaína em Espanha</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6756d2edadadc.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Intitulada 'Maiorca não é o paraíso que vos estão a vender', a carta aberta é uma denúncia sobre os problemas decorrentes do aumento do turismo nesta ilha, com impacto no ecossistema, na deterioração dos serviços públicos, na gentrificação e no aumento do custo de vida.</p>\n<div class=\"dummyPub\"> </div>\n<p>As sete associações e organizações acusam ainda a indústria hoteleira e os políticos de darem mais importância aos seus interesses económicos em detrimento do bem-estar dos habitantes da ilha.</p>\n<p>\"A população local está farta e já não somos hospitaleiros, porque estão a destruir a terra que amamos; e muitos moradores têm de emigrar porque a ilha tornou-se inabitável\", lê-se na carta aberta.</p>\n<p>Por isso, deixam um apelo: \"Está na hora de vos pedir que não venham. Não precisamos de mais turistas, aliás, vocês são a causa do problema\".</p>\n<p>No verão passado, várias cidades de Espanha foram palco de manifestações de alerta contra uma saturação da atividade turística, pelo esgotamento de recursos e impactos graves no mercado da habitação.</p>\n<p>Em 2023, Espanha foi o segundo destino turístico do mundo, depois de França, e recebeu 86 milhões de visitantes estrangeiros, segundo estatísticas oficiais.</p>\n<p>As ilhas Baleares, no Mediterrâneo, onde vivem cerca de 1,2 milhões de pessoas, receberam 14,4 milhões de turistas em 2023.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2747618/mulher-e-filho-de-traficante-raptados-apos-roubo-de-cocaina-em-espanha\" target=\"_blank\" rel=\"noopener noreferrer\">Mulher e filho de traficante raptados após roubo de cocaína em Espanha</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2747846/sporting-nao-da-hipoteses-ao-vitoria-sc-no-arranque-do-playoff?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sporting não dá hipóteses ao Vitória SC no arranque do playoff",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>De acordo com os dados do portal do SNS,<span class=\"news_bold\"> estão hoje encerradas as urgências de ginecologia e obstetrícia do Hospital Doutor Fernando Fonseca</span> (Amadora-Sintra), dos <span class=\"news_bold\">Hospital Nossa Senhora do Rosário</span>, no Barreiro, do <span class=\"news_bold\">Hospital Vila Franca de Xira, do Hospital Santo André</span>, em Leiria, e a <span class=\"news_bold\">urgência de obstetrícia do Hospital Distrital de Santarém</span>.</p>\n<div class=\"dummyPub\"> </div>\n<p>Estão também encerradas as <span class=\"news_bold\">urgências pediátricas do Hospital Vila Franca de Xira</span> e do <span class=\"news_bold\">Hospital Beatriz Ângelo</span>, em Loures.</p>\n<p>A funcionar apenas com referenciação para urgências internas ou sinalizadas pelo CODU/INEM ou linha SNS24 está a urgência pediátrica do Amadora-Sintra entre as 20h00 e as 24h00, depois de já ter estado a funcionar nesse mesmo registo entre as 00h00 e as 08h00.</p>\n<p>A urgência de obstetrícia e ginecologia do Hospital São Bernardo, em Setúbal, está a funcionar apenas para casos referenciados pelo CODU/INEM desde as 09h00 e até às 24h00. Nessas mesmas condições esteve a funcionar a urgência de obstetrícia e ginecologia do Hospital Garcia de Orta, em Almada, entre as 00h00 e as 08h00.</p>\n<p><span class=\"news_bold\">Já para domingo, o portal do SNS tem registado o encerramento de seis urgências</span> e duas a funcionar por referenciação.</p>\n<p>Vão estar encerradas no domingo a urgência de obstetrícia e ginecologia do Hospital Garcia de Orta, em Almada, do Hospital Nossa Senhora do Rosário, no Barreiro, do Hospital Distrital das Caldas da Rainha e do Hospital Santo André, em Leiria.</p>\n<p>As urgências pediátricas do Hospital Vila Franca de Xira e Hospital Beatriz Ângelo, em Loures, também encerram no domingo.</p>\n<p>A urgência pediátrica do Amadora-Sintra volta a estar a funcionar apenas para urgências internas ou sinalizadas pelo CODU/INEM ou linha SNS24 entre as 00h00 e as 08h00 e as 20h00 e as 24h00.</p>\n<p>Ao longo de todo o dia de domingo a urgência de obstetrícia e ginecologia vai estar a funcionar apenas para casos referenciados pelo CODU/INEM.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2747491/seis-urgencias-de-ginecologiaobstetricia-e-duas-de-pediatria-fechadas-hoje\" target=\"_blank\" rel=\"noopener noreferrer\">Seis urgências de Ginecologia/Obstetrícia e duas de Pediatria fechadas hoje</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2747702/sir-jim-ratcliffe-recorda-contratacao-de-david-moyes-nunca-ganhou-nada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sir Jim Ratcliffe recorda contratação de David Moyes: \"Nunca ganhou nada\"",
-         "description": "Em entrevista ao The times, proprietário do Manchester United afirma que nunca teria contratado o técnico escocês para ser o sucessor de Sir Alex Ferguson em 2013.",
-         "link": "https://www.noticiasaominuto.com/desporto/2747702/sir-jim-ratcliffe-recorda-contratacao-de-david-moyes-nunca-ganhou-nada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1742053657000,
-         "created": 1742053657000,
-         "category": "Desporto",
-         "content": "<p>Em entrevista ao The Times, Sir Jim Ratcliffe voltou, este sábado, a ser 'explosivo' nas críticas à maneira como o Manchester United foi gerido na última década. O agora proprietário dos reds devils revelou que não teria escolhido David Moyes para ser o sucessor do mítico Sir Alex Ferguson no comando técnico, após a sua saída em 2013.</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com as declarações citadas pelo Daily Mail, Jim Ratcliffe referiu que o antigo técnico do clube não tinha \"personalidade\" para lidar com grandes jogadores. \"Eu gosto do David Moyes e penso que é um bom treinador, mas ir de Sir Alex Ferguson para David Moyes não seria a minha escolha. Ele calçou os sapatos de alguém que ganhou a Premier League 13 vezes, 2 Liga dos Campeões. Ele nunca ganhou nada\", justificou o empresário.</p>\n<p>Na época 2013/14, David Moyes comandou o Manchester United, mas durou apenas uma temporada a aventura em Old Trafford. Ganhou uma Liga Conferência pelo West Ham em 2022/23, antes de regressar ao Everton.</p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"en\">Sir Jim Ratcliffe reveals the ONE ex-Manchester United manager he would’ve NEVER HIRED <a href=\"https://t.co/BGwJDUH9vv\">pic.twitter.com/BGwJDUH9vv</a></p>\n— Mail Sport (@MailSport) <a href=\"https://twitter.com/MailSport/status/1900924769706332616?ref_src=twsrc%5Etfw\">March 15, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2747679/patrao-de-amorim-aponta-os-dois-culpados-pela-crise-do-manchester-united\" target=\"_blank\" rel=\"noopener noreferrer\">Patrão de Amorim aponta os dois culpados pela crise do Manchester United</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67d5a0c5015cc.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Em entrevista ao The Times, Sir Jim Ratcliffe voltou, este sábado, a ser 'explosivo' nas críticas à maneira como o Manchester United foi gerido na última década. O agora proprietário dos reds devils revelou que não teria escolhido David Moyes para ser o sucessor do mítico Sir Alex Ferguson no comando técnico, após a sua saída em 2013.</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com as declarações citadas pelo Daily Mail, Jim Ratcliffe referiu que o antigo técnico do clube não tinha \"personalidade\" para lidar com grandes jogadores. \"Eu gosto do David Moyes e penso que é um bom treinador, mas ir de Sir Alex Ferguson para David Moyes não seria a minha escolha. Ele calçou os sapatos de alguém que ganhou a Premier League 13 vezes, 2 Liga dos Campeões. Ele nunca ganhou nada\", justificou o empresário.</p>\n<p>Na época 2013/14, David Moyes comandou o Manchester United, mas durou apenas uma temporada a aventura em Old Trafford. Ganhou uma Liga Conferência pelo West Ham em 2022/23, antes de regressar ao Everton.</p>\n<blockquote class=\"twitter-tweet\" data-media-max-width=\"560\">\n<p dir=\"ltr\" lang=\"en\">Sir Jim Ratcliffe reveals the ONE ex-Manchester United manager he would’ve NEVER HIRED <a href=\"https://t.co/BGwJDUH9vv\">pic.twitter.com/BGwJDUH9vv</a></p>\n— Mail Sport (@MailSport) <a href=\"https://twitter.com/MailSport/status/1900924769706332616?ref_src=twsrc%5Etfw\">March 15, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2747679/patrao-de-amorim-aponta-os-dois-culpados-pela-crise-do-manchester-united\" target=\"_blank\" rel=\"noopener noreferrer\">Patrão de Amorim aponta os dois culpados pela crise do Manchester United</a></p>",
          "media": {}
       }
    ]
