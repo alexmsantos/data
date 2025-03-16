@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2747969/campea-brasileira-morre-afogada-em-prova-tinha-39-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Campeã brasileira morre afogada em prova. Tinha 39 anos",
+         "description": "Falecimento de Ana Zuleica Xavier gera versões contraditórias entre autoridades e organização.",
+         "link": "https://www.noticiasaominuto.com/desporto/2747969/campea-brasileira-morre-afogada-em-prova-tinha-39-anos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1742118072000,
+         "created": 1742118072000,
+         "category": "Desporto",
+         "content": "<p>Ana Zuleica Xavier, mais conhecida como Aninha, morreu, este sábado, aos 39 anos de idade, quando participava numa competição de duatlo (natação e corrida), na Beira-Mar de Fortaleza, no estado brasileiro do Ceará.</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com informações adiantadas pelo portal brasileiro <span class=\"news_bold\"><a href=\"https://g1.globo.com/ce/ceara/noticia/2025/03/16/quem-era-a-triatleta-que-morreu-afogada-durante-evento-esportivo-na-beira-mar-de-fortaleza.ghtml\" target=\"_blank\" rel=\"noopener\">G1</a></span>, a campeã da última edição do Campeonato Cearense de Sprint Triatlo, prova disputada no passado mês de fevereiro, ter-se-á afogado. Uma circunstância que acabou por dar azo a versões contraditórias, entre autoridades e organização.</p>\n<p>A equipa de Salvamento Aquático da Guarda Municipal de Fortaleza fez saber que o episódio ocorreu antes do início do horário de serviço dos salva-vidas, ao passo que a Federação de Triatlo do Estado do Ceará assegurou que havia profissionais particulares no local.</p>\n<p>Em forma de comunicado, a assessoria de imprensa de Aninha (educadora de profissão, casada há 15 anos e com um filho) enalteceu a \"sua dedicação, espírito desportivo e alegria\", que \"marcaram todos os que tiveram o privilégio de conhecê-la\".</p>\n<p>\"Neste momento de dor, expressamos as nossas mais sinceras condolências aos familiares, amigos e colegas. Que encontrem conforto nas lembranças e no legado que Aninha deixa na nossa comunidade. Que a sua memória permaneça viva nos nossos corações\", completa.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2728866/vilaca-3-no-arranque-do-mundial-de-triatlo-batista-6\" target=\"_blank\" rel=\"noopener noreferrer\">Vilaça 3.º no arranque do Mundial de triatlo, Batista 6.º</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67d69c8596d92.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Ana Zuleica Xavier, mais conhecida como Aninha, morreu, este sábado, aos 39 anos de idade, quando participava numa competição de duatlo (natação e corrida), na Beira-Mar de Fortaleza, no estado brasileiro do Ceará.</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com informações adiantadas pelo portal brasileiro <span class=\"news_bold\"><a href=\"https://g1.globo.com/ce/ceara/noticia/2025/03/16/quem-era-a-triatleta-que-morreu-afogada-durante-evento-esportivo-na-beira-mar-de-fortaleza.ghtml\" target=\"_blank\" rel=\"noopener\">G1</a></span>, a campeã da última edição do Campeonato Cearense de Sprint Triatlo, prova disputada no passado mês de fevereiro, ter-se-á afogado. Uma circunstância que acabou por dar azo a versões contraditórias, entre autoridades e organização.</p>\n<p>A equipa de Salvamento Aquático da Guarda Municipal de Fortaleza fez saber que o episódio ocorreu antes do início do horário de serviço dos salva-vidas, ao passo que a Federação de Triatlo do Estado do Ceará assegurou que havia profissionais particulares no local.</p>\n<p>Em forma de comunicado, a assessoria de imprensa de Aninha (educadora de profissão, casada há 15 anos e com um filho) enalteceu a \"sua dedicação, espírito desportivo e alegria\", que \"marcaram todos os que tiveram o privilégio de conhecê-la\".</p>\n<p>\"Neste momento de dor, expressamos as nossas mais sinceras condolências aos familiares, amigos e colegas. Que encontrem conforto nas lembranças e no legado que Aninha deixa na nossa comunidade. Que a sua memória permaneça viva nos nossos corações\", completa.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2728866/vilaca-3-no-arranque-do-mundial-de-triatlo-batista-6\" target=\"_blank\" rel=\"noopener noreferrer\">Vilaça 3.º no arranque do Mundial de triatlo, Batista 6.º</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2747968/lando-norris-bate-verstappen-a-chuva-na-abertura-da-formula-1?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lando Norris bate Verstappen à chuva na abertura da Fórmula 1",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p><span class=\"news_bold\">Análise</span>: \"O FC Porto entrou forte, nós sabíamos que era um jogo importante para eles, como era para nós. No começo do jogo eles empurraram-nos para trás, tiveram muitas oportunidades. Depois dos 30 minutos conseguimos equilibrar um pouco, tivemos até uma oportunidade quando ainda estava 0-0, mas na primeira bola do segundo tempo perdemos um jogador e acabou por ficar muito mais complicado.\"</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">Estratégia para o encontro</span>: \"A ideia era tentar frustrá-los nos primeiros minutos, sabíamos que era um jogo importante para eles, como eu disse. Mas eles acabaram por criar muitas oportunidades, acabaram por crescer ali no jogo, marcando o primeiro. E como eu disse, a expulsão, jogar quase o segundo tempo inteiro com menos um aqui dentro fica muito difícil. Ainda tivemos uma oportunidade no 2-0, mas não conseguimos fazer.\"</p>\n<p><span class=\"news_bold\">O que é que o treinador pediu ao intervalo?</span> \"Pediu para acreditarmos, com o resultado de 1-0 ainda estávamos no jogo. Acreditámos que iríamos voltar bem, que poderíamos criar a oportunidade de entrar no jogo novamente, mas a expulsão complica.\"</p>\n<p><span class=\"news_bold\">Surpresa por Rodrigo Mora e Pepê titulares no FC Porto?</span> \"Não é que não preparámos, mas se for falar a verdade, sinceramente não esperávamos que eles fossem começar o jogo. Bom, começaram com a força máxima e ficou difícil.\"</p>\n<p><span class=\"news_bold\">O melhor da jornada são as derrotas do Farense e Gil Vicente?</span> \"Se nós não podemos pontuar e quem está ali perto acaba não pontuando, não acaba sendo bom porque não pontuamos, mas continuamos ali na luta.\"</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2747681/fc-porto-avs-dragoes-a-procura-da-primeira-vitoria-caseira-em-2025\" target=\"_blank\" rel=\"noopener noreferrer\">FC Porto afasta má sorte no Dragão e não desarma na luta pelo pódio </a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2747826/nacho-rodriguez-fez-o-que-nao-devia-e-foi-expulso-no-fc-porto-avs?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nacho Rodríguez fez o que não devia e foi expulso no FC Porto-AVS",
-         "description": "Tudo aconteceu no arranque da segunda parte.",
-         "link": "https://www.noticiasaominuto.com/desporto/2747826/nacho-rodriguez-fez-o-que-nao-devia-e-foi-expulso-no-fc-porto-avs?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1742070003000,
-         "created": 1742070003000,
-         "category": "Desporto",
-         "content": "<p>Ainda não se tinha completado o primeiro minuto da segunda parte do duelo deste sábado entre FC Porto e AVS quando a formação visitante ficou com menos um jogador.</p>\n<div class=\"dummyPub\"> </div>\n<p>Nacho Rodríguez, defesa-central que tinha visto um cartão amarelo no final do primeiro tempo, viu o segundo cartão no arranque da segunda parte e foi expulso.</p>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Confira o vídeo:</span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2747681/fc-porto-avs-dragoes-a-procura-da-primeira-vitoria-caseira-em-2025\" target=\"_blank\" rel=\"noopener noreferrer\">FC Porto afasta má sorte no Dragão e não desarma na luta pelo pódio </a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67d5e0d22cfd5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Ainda não se tinha completado o primeiro minuto da segunda parte do duelo deste sábado entre FC Porto e AVS quando a formação visitante ficou com menos um jogador.</p>\n<div class=\"dummyPub\"> </div>\n<p>Nacho Rodríguez, defesa-central que tinha visto um cartão amarelo no final do primeiro tempo, viu o segundo cartão no arranque da segunda parte e foi expulso.</p>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Confira o vídeo:</span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2747681/fc-porto-avs-dragoes-a-procura-da-primeira-vitoria-caseira-em-2025\" target=\"_blank\" rel=\"noopener noreferrer\">FC Porto afasta má sorte no Dragão e não desarma na luta pelo pódio </a></p>",
          "media": {}
       }
    ]
