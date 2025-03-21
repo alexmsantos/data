@@ -1,8 +1,8 @@
 name: INE Destaques
 on:
   workflow_dispatch:
-  #schedule:
-  #  - cron:  '*/5 6-23 * * *'
+  schedule:
+    - cron:  '0 */4 * * *'
 
 jobs:
   build:
@@ -13,11 +13,9 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: RSS to JSON INE Destaques
-      run: node rss-to-json--ine-destaques.js
-    - name: Edit INE Destaques
+    - name: CURL destaques INE
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S.000Z")) else empty end), media: "INE destaques"})' ine-destaques.json >latest--ine-destaques.json
+        curl "https://www.ine.pt/ine/dst_mobile.jsp?lang=PT" | jq -c . > digest/latest--ine.json
     - name: Commit and push changes
       run: |-
         git diff
