@@ -6,14 +6,75 @@
    "category": [],
    "items": [
       {
+         "id": "eba313fd-7bfd-46b5-b098-ff1ccdf96c36",
+         "title": "Restaurante Michelin mais antigo do mundo vai perder a terceira estrela, conquistada em 1981",
+         "description": "Situado em Vonnas, nos arredores de Lyon, o restaurante francês recebeu a primeira estrela Michelin em 1929, pela mão da chef Élisa Blanc. O neto, Georges, foi responsável pela conquista da terceira estrela, que mantinha há 44 anos.",
+         "link": "https://sicnoticias.pt/webstories/restaurante-michelin-mais-antigo-do-mundo-vai-perder-a-terceira-estrela-conquistada-em-1981/",
+         "author": "SIC Notícias",
+         "published": 1742644848000,
+         "created": 1742644848000,
+         "category": "Webstories",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-03-21-restaurante.jpg-6479a0a5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-03-21-restaurante.jpg-6479a0a5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-03-21-restaurante.jpg-6479a0a5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "339a6264-61ca-423b-8241-257b4dcd7fe8",
+         "title": "ANA Aeroportos está a fazer um pedido aos passageiros com voos para Heathrow",
+         "description": "A ANA Aeroportos está a fazer um pedido aos passageiros com voos para Heathrow. Recorde-se que o aeroporto londrino está encerrado esta sexta-feira devido a uma falha de energia.",
+         "link": "https://sicnoticias.pt/webstories/ana-aeroportos-esta-a-fazer-um-pedido-aos-passageiros-com-voos-para-heathrow/",
+         "author": "SIC Notícias",
+         "published": 1742644842000,
+         "created": 1742644842000,
+         "category": "Webstories",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-03-21-aeroporto.jpg-7446f705/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-03-21-aeroporto.jpg-7446f705/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-03-21-aeroporto.jpg-7446f705/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "b29b9f95-9a5a-4260-b90b-76b090a12d73",
          "title": "Linha do Douro suspensa entre Marco de Canaveses e Mosteiró devido ao mau tempo",
          "description": "A passagem da depressão Martinho, com chuva, vento e agitação marítima fortes, provocou milhares de ocorrências, na maioria quedas de árvores e estruturas, sobretudo na madrugada de quinta-feira, quando vigoraram avisos meteorológicos laranja, o segundo nível mais grave.",
-         "link": "https://sicnoticias.pt/pais/2025-03-22-linha-do-douro-suspensa-entre-marco-de-canaveses-e-mosteiro-devido-ao-mau-tempo-9ab06884",
-         "author": "Lusa",
+         "link": "https://sicnoticias.pt/meteorologia/2025-03-22-linha-do-douro-suspensa-entre-marco-de-canaveses-e-mosteiro-devido-ao-mau-tempo-9ab06884",
+         "author": [
+            "Lusa",
+            "SIC Notícias"
+         ],
          "published": 1742644164000,
          "created": 1742644164000,
-         "category": "País",
+         "category": "Meteorologia",
          "enclosures": [
             {
                "url": "https://images.impresa.pt/sicnot/2023-03-01-comboios-CP.jpg-acdbd832-2/1.91x1/mw-1200?outputFormat=jpeg",
@@ -65,7 +126,7 @@
       },
       {
          "id": "ad486e1a-783e-43dd-be89-2fa4103f35e8",
-         "title": "Chuva deverá abrandar: o que motiva hoje os avisos laranja?",
+         "title": "Chuva abranda: o que motiva hoje os avisos laranja em vários distritos?",
          "description": "A chuva deverá abrandar durante o fim de semana. Sob aviso laranja devido ao vento e queda de neve estão os distritos da Guarda e de Castelo Branco. Toda a zona costeira está também a laranja devido à agitação marítima.",
          "link": "https://sicnoticias.pt/meteorologia/2025-03-22-o-que-motiva-os-avisos-laranja-deste-sabado--agitacao-maritima-vento-e-neve-13005aa2",
          "author": "SIC Notícias",
@@ -235,67 +296,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-03-17-paulo-rangel-bruxelas-88304883/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "9526fb31-c618-47ca-b561-8c363316a497",
-         "title": "Identificadas zonas do cérebro necessárias para memorizar palavras",
-         "description": "<p><span>Cientistas concluem que t</span><span>amanhos mais pequenos de certas áreas do cérebro</span><span> estão ligados a uma </span><span>pior memória de palavras.</span></p>",
-         "link": "https://sicnoticias.pt/especiais/curiosidades-da-ciencia/2025-03-22-identificadas-zonas-do-cerebro-necessarias-para-memorizar-palavras-3b4e6542",
-         "author": [
-            "SIC Notícias",
-            "Lusa"
-         ],
-         "published": 1742634000000,
-         "created": 1742634000000,
-         "category": "Curiosidades da Ciência",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2022-07-25-Memoria-Cerebro-cb5c8d0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2022-07-25-Memoria-Cerebro-cb5c8d0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2022-07-25-Memoria-Cerebro-cb5c8d0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "efc58f25-54e2-43d6-8593-321dac198427",
-         "title": "Morreu George Foreman, pugilista norte-americano bicampeão mundial na categoria de pesos pesados",
-         "description": "Com um metro e 91, Foreman foi campeão olímpico com apenas 19 anos, ao derrotar o então soviético Jonas Cepulis na final dos Jogos Olímpicos do México, em 1968, em apenas dois assaltos.",
-         "link": "https://sicnoticias.pt/desporto/2025-03-22-morreu-george-foreman-pugilista-norte-americano-bicampeao-mundial-na-categoria-de-pesos-pesados-ed01edfe",
-         "author": "SIC Notícias",
-         "published": 1742633075000,
-         "created": 1742633075000,
-         "category": "Desporto",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-03-22-george-foreman.jpg-4796af2b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-03-22-george-foreman.jpg-4796af2b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-03-22-george-foreman.jpg-4796af2b/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
