@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2755357/oficial-red-bull-troca-de-pilotos-ao-fim-de-dois-grandes-premios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: Red Bull troca de pilotos ao fim de dois Grandes Prémios",
+         "description": "Tsunoda vai substituir Liam Lawson já no Grande Prémio do Japão.",
+         "link": "https://www.noticiasaominuto.com/auto/2755357/oficial-red-bull-troca-de-pilotos-ao-fim-de-dois-grandes-premios?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1743065346000,
+         "created": 1743065346000,
+         "category": "Auto",
+         "content": "<p>[Notícia em atualização]</p>\n<div class=\"dummyPub\"> </div>\n<p><iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FFormula1%2Fposts%2Fpfbid0eekhxTDQzJvEdC2AwfWYj4fT3DZcrAqVBZSJPrSyJ8ALfGYG9RPNrhRtMUcFWrPHl&show_text=true&width=500\" style=\"border: none; overflow: hidden;\" width=\"500\" height=\"609\" scrolling=\"no\" frameborder=\"0\"></iframe></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67613d00d03fa.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>[Notícia em atualização]</p>\n<div class=\"dummyPub\"> </div>\n<p><iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FFormula1%2Fposts%2Fpfbid0eekhxTDQzJvEdC2AwfWYj4fT3DZcrAqVBZSJPrSyJ8ALfGYG9RPNrhRtMUcFWrPHl&show_text=true&width=500\" style=\"border: none; overflow: hidden;\" width=\"500\" height=\"609\" scrolling=\"no\" frameborder=\"0\"></iframe></p>",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2755355/corpo-de-mulher-encontrado-em-praia-de-vila-nova-de-gaia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Corpo de mulher encontrado em praia de Vila Nova de Gaia",
+         "description": "O alerta foi dado pelas 8h00 desta quinta-feira, segundo a Polícia Marítima.",
+         "link": "https://www.noticiasaominuto.com/pais/2755355/corpo-de-mulher-encontrado-em-praia-de-vila-nova-de-gaia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1743065254000,
+         "created": 1743065254000,
+         "category": "País",
+         "content": "<p>O corpo de uma mulher foi encontrado ao início da manhã desta quinta-feira na praia de Canide, em Vila Nova de Gaia, confirmou o Notícias ao Minuto junto da Polícia Marítima do Porto.</p>\n<div class=\"dummyPub\"> </div>\n<p>[Notícia em atualização]</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2755355/corpo-de-mulher-encontrado-em-praia-de-vila-nova-de-gaia\" target=\"_blank\" rel=\"noopener noreferrer\">Corpo de mulher encontrado em praia de Vila Nova de Gaia</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61a3a2065c3b7.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O corpo de uma mulher foi encontrado ao início da manhã desta quinta-feira na praia de Canide, em Vila Nova de Gaia, confirmou o Notícias ao Minuto junto da Polícia Marítima do Porto.</p>\n<div class=\"dummyPub\"> </div>\n<p>[Notícia em atualização]</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2755355/corpo-de-mulher-encontrado-em-praia-de-vila-nova-de-gaia\" target=\"_blank\" rel=\"noopener noreferrer\">Corpo de mulher encontrado em praia de Vila Nova de Gaia</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2755334/incendio-em-estancia-de-ski-na-turquia-faz-um-morto-e-tres-feridos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Incêndio em estância de ski na Turquia faz um morto e três feridos",
@@ -2257,52 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Os resultados da sessão indicam que o índice seletivo Dow Jones Industrial Average recuou 0,31%, o tecnológico Nasdaq caiu 2,04% e o alargado S&P500 perdeu 1,12%.</p>\n<div class=\"dummyPub\"> </div>\n<p>Wall Street está \"em baixa (...), pela continuação das inquietações sobre as taxas alfandegárias e o seu impacto na economia\", comentou Peter Cardillo, da Spartan Capital Securities, em declarações à AFP.</p>\n<p>A praça bolsista caiu depois de a Casa Branca avançar ao início da tarde que Donald Trump ia anunciar a sua entrada em vigor ao início da noite.</p>\n<p>Trump nunca escondeu a sua vontade de impor taxas alfandegárias aos veículos importados pelos EUA.</p>\n<p>Os construtores automóveis já estão preocupados pelas taxas alfandegárias sobre o alumínio e o aço, em vigor desde meados de março.</p>\n<p>O anúncio das taxas sobre o setor automóvel fez baixar as cotações destes constritores, como a General Motors (-3,12%), a Tesla (-5,58%) e a Stellantis (-3,55%).</p>\n<p>Os investidores estão agora na expectativa à espera de 02 de abril, quando devem começar a vigorar as designadas taxas alfandegárias 'recíprocas'.</p>\n<p>Mas, depois de no fim de semana terem saído notícias que indicam que estas taxas devem ser parciais e não totais, agora \"todos esperam para ver quais serão as taxas recíprocas em 02 de abril. Há um arrastar deste clima de inquietação\", disse Cardillo.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2754833/bolsa-em-wall-street-segue-mista-pouco-apos-o-inicio-da-sessao\" target=\"_blank\" rel=\"noopener noreferrer\">Bolsa em Wall Street segue mista pouco após o início da sessão</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2755206/nao-foi-possivel-acordo-de-coligacao-com-ppm-por-uma-questao-de-lugares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Não foi possível\" acordo de coligação com PPM por uma questão de lugares",
-         "description": "O secretário-geral do PSD assumiu hoje que o PPM ficou de fora da coligação pré-eleitoral para as próximas legislativas por \"não ter sido possível\" chegar a acordo em matéria de lugares, remetendo para os próximos dias a denominação da coligação.",
-         "link": "https://www.noticiasaominuto.com/politica/2755206/nao-foi-possivel-acordo-de-coligacao-com-ppm-por-uma-questao-de-lugares?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1743029720000,
-         "created": 1743029720000,
-         "category": "Política",
-         "content": "<p>O Conselho Nacional do PSD aprovou por unanimidade o acordo de coligação pré-eleitoral com o CDS-PP para as legislativas antecipadas de 18 de maio na Madeira e no Continente, ficando de fora os monárquicos que tinham integrado a AD (Aliança Democrática) nas legislativas e europeias de 2024. Desta vez, o PPM apenas integrará a coligação nos Açores.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"O PPM não integra a coligação do ponto de vista do continente porque não foi possível chegar a acordo com o PPM relativamente à questão dos lugares (...) Não julgo que devamos pôr em causa um projeto político por questões de lugares nas listas e, portanto, a questão ficou resolvida\", afirmou.</p>\n<p>Questionado se a coligação vai poder ou não continuar a chamar-se AD, o secretário-geral do PSD defendeu que \"não há nada que impeça a utilização da nomenclatura AD do ponto de vista desta candidatura\".</p>\n<p>\"Nos próximos dias os senhores serão informados qual será o nome da coligação que vai ser registada, mas quero apenas isso que do ponto de vista jurídico, formal, constitucional não há nenhum problema. (...) Como o país sabe, esta é a candidatura da AD, nós somos a AD\", afirmou.</p>\n<p>Hugo Soares aproveitou para voltar a diferenciar a coligação AD do partido ADN, dizendo que essa confusão fez perder \"milhares e votos e alguns mandatos no país\" nas últimas legislativas.</p>\n<p>Questionado se tal será uma razão para mudar de nome, insistiu: \"Veremos nos próximos dias, os senhores podem dizer ao país que hoje, formalmente, a coligação entre PSD e CDS foi aprovada e que a AD está aqui para continuar a transformar Portugal\".</p>\n<p>O Conselho Nacional do PSD aprovou ainda por unanimidade a designação de Luís Montenegro como candidato a primeiro-ministro e, com três abstenções, a lista de candidatos a deputados.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2755199/cds-volta-a-indicar-melo-e-nuncio-para-integrar-listas-da-coligacao\" target=\"_blank\" rel=\"noopener noreferrer\">CDS volta a indicar Melo e Núncio para integrar listas da coligação</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d0ee779bfc4.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O Conselho Nacional do PSD aprovou por unanimidade o acordo de coligação pré-eleitoral com o CDS-PP para as legislativas antecipadas de 18 de maio na Madeira e no Continente, ficando de fora os monárquicos que tinham integrado a AD (Aliança Democrática) nas legislativas e europeias de 2024. Desta vez, o PPM apenas integrará a coligação nos Açores.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"O PPM não integra a coligação do ponto de vista do continente porque não foi possível chegar a acordo com o PPM relativamente à questão dos lugares (...) Não julgo que devamos pôr em causa um projeto político por questões de lugares nas listas e, portanto, a questão ficou resolvida\", afirmou.</p>\n<p>Questionado se a coligação vai poder ou não continuar a chamar-se AD, o secretário-geral do PSD defendeu que \"não há nada que impeça a utilização da nomenclatura AD do ponto de vista desta candidatura\".</p>\n<p>\"Nos próximos dias os senhores serão informados qual será o nome da coligação que vai ser registada, mas quero apenas isso que do ponto de vista jurídico, formal, constitucional não há nenhum problema. (...) Como o país sabe, esta é a candidatura da AD, nós somos a AD\", afirmou.</p>\n<p>Hugo Soares aproveitou para voltar a diferenciar a coligação AD do partido ADN, dizendo que essa confusão fez perder \"milhares e votos e alguns mandatos no país\" nas últimas legislativas.</p>\n<p>Questionado se tal será uma razão para mudar de nome, insistiu: \"Veremos nos próximos dias, os senhores podem dizer ao país que hoje, formalmente, a coligação entre PSD e CDS foi aprovada e que a AD está aqui para continuar a transformar Portugal\".</p>\n<p>O Conselho Nacional do PSD aprovou ainda por unanimidade a designação de Luís Montenegro como candidato a primeiro-ministro e, com três abstenções, a lista de candidatos a deputados.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2755199/cds-volta-a-indicar-melo-e-nuncio-para-integrar-listas-da-coligacao\" target=\"_blank\" rel=\"noopener noreferrer\">CDS volta a indicar Melo e Núncio para integrar listas da coligação</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2755205/afinal-qual-e-o-fruto-com-mais-proteina-conheca-a-resposta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Afinal, qual é o fruto com mais proteína? Conheça a resposta",
-         "description": "É uma forma de aproveitar ao máximo os seus lanches e snacks. Veja em que deve apostar.",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2755205/afinal-qual-e-o-fruto-com-mais-proteina-conheca-a-resposta?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1743029519000,
-         "created": 1743029519000,
-         "category": "Lifestyle",
-         "content": "<p>Os frutos secos podem ser uma boa fonte de proteína vegetal. Na hora de escolher a melhor opção, saiba que há um que consegue ter valores mais elevados do que outros.</p>\n<div class=\"dummyPub\"> </div>\n<p>Stephanie Petrosky é professora e chefe do departamento de nutrição da Nova Southeastern University, nos Estados Unidos, e ao 'website' Well+Good revelou o fruto seco que tem mais quantidade de proteína: <span class=\"news_bold\">o amendoim</span>.</p>\n<p>Explica que uma porção pode conter até sete gramas de proteína. Não se ficou por aqui e deu ainda a conhecer o fruto seco que vem a seguir na quantidade de proteína por porção.</p>\n<p>\"Logo atrás delas vêm as amêndoas, com seis gramas de proteína por porção.\" Diz ainda que têm 3,54 gramas de fibras e 76 miligramas de cálcio por 30 gramas. </p>\n<p><span class=\"news_bold\">Já no caso do amendoim, pela mesma quantidade, tem 2,41 gramas de fibras e 26,1 miligramas de cálcio.</span><br><br>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2755063/longevidade-sete-alimentos-que-podem-estar-a-tirar-lhe-anos-de-vida\" target=\"_blank\" rel=\"noopener noreferrer\">Longevidade. Sete alimentos que podem estar a tirar-lhe anos de vida</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67e483a9abf8e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Os frutos secos podem ser uma boa fonte de proteína vegetal. Na hora de escolher a melhor opção, saiba que há um que consegue ter valores mais elevados do que outros.</p>\n<div class=\"dummyPub\"> </div>\n<p>Stephanie Petrosky é professora e chefe do departamento de nutrição da Nova Southeastern University, nos Estados Unidos, e ao 'website' Well+Good revelou o fruto seco que tem mais quantidade de proteína: <span class=\"news_bold\">o amendoim</span>.</p>\n<p>Explica que uma porção pode conter até sete gramas de proteína. Não se ficou por aqui e deu ainda a conhecer o fruto seco que vem a seguir na quantidade de proteína por porção.</p>\n<p>\"Logo atrás delas vêm as amêndoas, com seis gramas de proteína por porção.\" Diz ainda que têm 3,54 gramas de fibras e 76 miligramas de cálcio por 30 gramas. </p>\n<p><span class=\"news_bold\">Já no caso do amendoim, pela mesma quantidade, tem 2,41 gramas de fibras e 26,1 miligramas de cálcio.</span><br><br>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2755063/longevidade-sete-alimentos-que-podem-estar-a-tirar-lhe-anos-de-vida\" target=\"_blank\" rel=\"noopener noreferrer\">Longevidade. Sete alimentos que podem estar a tirar-lhe anos de vida</a></p>",
          "media": {}
       }
    ]
