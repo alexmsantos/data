@@ -95,9 +95,12 @@
       {
          "id": "baaaa35c-c156-45bb-a8b2-f2d048083a6e",
          "title": "Sismo em Myanmar causa mais de 1.000 mortos e 2.376 feridos",
-         "description": "<p><span>. A Junta militar apela à ajuda internacional devido à dimensão dos danos causado pelo </span><span>&nbsp;</span><span>sismo de magnitude 7,7 atingiu o centro de Myanmar na sexta-feira, causando</span></p>",
+         "description": "<p><span>A Junta militar apela à ajuda internacional devido à dimensão dos danos causado pelo </span><span>&nbsp;</span><span>sismo de magnitude 7,7 atingiu o centro de Myanmar na sexta-feira, causando</span></p>",
          "link": "https://sicnoticias.pt/mundo/2025-03-29-sismo-em-myanmar-causa-mais-de-1.000-mortos-e-2.376-feridos-127c358b",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1743235375000,
          "created": 1743235375000,
          "category": "Mundo",
