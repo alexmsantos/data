@@ -37,9 +37,12 @@
       {
          "id": "51bb68c4-d4c7-4069-a17e-43b3abbd37de",
          "title": "Novo sismo atinge Myanmar",
-         "description": "<p><span>Foi registado um novo sismo em Myanmar, esta manhã, a cerca de 21 quilómetros de Mandalay.</span></p>",
+         "description": "<p><span>Foi registado um novo sismo em Myanmar, esta manhã, a cerca de 21 quilómetros de Mandalay. Na Tailândia prosseguem as operações de busca e salvamento.</span></p>",
          "link": "https://sicnoticias.pt/mundo/2025-03-30-novo-sismo-atinge-myanmar-adf0f02a",
-         "author": "SIC Notícias",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1743322891000,
          "created": 1743322891000,
          "category": "Mundo",
