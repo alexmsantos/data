@@ -81,7 +81,7 @@ jobs:
     #    sed -i 's/<rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/<?xml version="1.0" encoding="ISO-8859-1"?><rss xmlns:atom="http:\/\/www.w3.org\/2005\/Atom" version="2.0">/g' cm.xml
     - name: Fix Timezone Offset in eco.json
       run: |-
-        sed -i 's/.000Z/+00:00/g' eco.json
+        sed -i 's/.000Z/+01:00/g' eco.json
       continue-on-error: true
     - name: Download Público Feed
       run: |-
@@ -172,19 +172,19 @@ jobs:
       continue-on-error: true
     - name: Edit noticiasaominuto.json
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Notícias ao Minuto"})' noticiasaominuto.json >digest/latest--noticiasaominuto.json
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Notícias ao Minuto"})' noticiasaominuto.json >digest/latest--noticiasaominuto.json
       continue-on-error: true
     - name: Edit rtp.json
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "RTP Notícias"})' rtp.json >digest/latest--rtp.json
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "RTP Notícias"})' rtp.json >digest/latest--rtp.json
       continue-on-error: true
     - name: Edit ecnomico.json
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Económico"})' economico.json >digest/latest--economico.json
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Económico"})' economico.json >digest/latest--economico.json
       continue-on-error: true
     - name: Edit renascenca.json
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Renascença"})' renascenca.json >digest/latest--rr.json
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Renascença"})' renascenca.json >digest/latest--rr.json
       continue-on-error: true
     #- name: Edit novo.json
     #  run: |-
