@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2759842/joao-gomes-da-silva-distinguido-com-premio-goncalo-ribeiro-telles?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "João Gomes da Silva distinguido com Prémio Gonçalo Ribeiro Telles",
+         "description": "O arquiteto paisagista João Gomes da Silva é o vencedor da 6.ª edição do Prémio Gonçalo Ribeiro Telles para o Ambiente e a Paisagem, anunciou esta quarta-feira a Universidade de Évora, uma das entidades que atribuem a distinção.",
+         "link": "https://www.noticiasaominuto.com/pais/2759842/joao-gomes-da-silva-distinguido-com-premio-goncalo-ribeiro-telles?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1743620405000,
+         "created": 1743620405000,
+         "category": "País",
+         "content": "<p>O prémio, referente a 2024, é atribuído \"a uma personalidade que se tenha destacado pelo seu trabalho no ambiente e na paisagem\", e João Gomes da Silva \"tem dedicado a sua vida profissional, individualmente ou em colaboração, à produção crítica de Paisagem\", recorda a Universidade de Évora, num comunicado hoje divulgado.</p>\n<div class=\"dummyPub\"> </div>\n<p>O Prémio Gonçalo Ribeiro Telles é uma iniciativa do Instituto Superior de Agronomia da Universidade de Lisboa, da Universidade de Évora, da Causa Real, da Ordem dos Engenheiros, da Associação Portuguesa dos Arquitectos Paisagistas e da Câmara Municipal de Lisboa, com a colaboração da família de Gonçalo Ribeiro Telles.</p>\n<p>A distinção visa homenagear anualmente a visão do professor e arquiteto paisagista Gonçalo Ribeiro Telles, que morreu em novembro de 2020, distinguindo personalidades que se tenham destacado nas áreas do ambiente e da paisagem e com percursos de vida ligados ao serviço cívico.</p>\n<p>João Gomes da Silva, nascido em Lisboa em 1962, é licenciado em Arquitetura Paisagista pela Universidade de Évora, onde foi professor assistente entre 1987 e 1994.</p>\n<p>Atualmente leciona na Universidade Autónoma de Lisboa e na Academia de Arquitetura de Mendrisio USI, na Suíça.</p>\n<p>Além disso, foi professor visitante na Universidade de Harvard, na Graduate School of Design.</p>\n<p>Em 1997, João Gomes da Silva fundou, com Inês Norton, o Global Arquitectura Paisagista, \"criando um grupo que gera pensamento e prática sobre a Paisagem, a partir da interpretação, das transformações económicas, sociais e culturais contemporâneas\".</p>\n<p>O prémio será entregue a João Gomes da Silva, numa cerimónia nos Paços do Concelho da Câmara Municipal de Lisboa, em 26 de maio.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2746368/operacao-babel-arquiteto-amandio-dias-demitido-da-ccdr-n\" target=\"_blank\" rel=\"noopener noreferrer\">Operação Babel: Arquiteto Amândio Dias demitido da CCDR-N</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67ed7b0f91d82.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O prémio, referente a 2024, é atribuído \"a uma personalidade que se tenha destacado pelo seu trabalho no ambiente e na paisagem\", e João Gomes da Silva \"tem dedicado a sua vida profissional, individualmente ou em colaboração, à produção crítica de Paisagem\", recorda a Universidade de Évora, num comunicado hoje divulgado.</p>\n<div class=\"dummyPub\"> </div>\n<p>O Prémio Gonçalo Ribeiro Telles é uma iniciativa do Instituto Superior de Agronomia da Universidade de Lisboa, da Universidade de Évora, da Causa Real, da Ordem dos Engenheiros, da Associação Portuguesa dos Arquitectos Paisagistas e da Câmara Municipal de Lisboa, com a colaboração da família de Gonçalo Ribeiro Telles.</p>\n<p>A distinção visa homenagear anualmente a visão do professor e arquiteto paisagista Gonçalo Ribeiro Telles, que morreu em novembro de 2020, distinguindo personalidades que se tenham destacado nas áreas do ambiente e da paisagem e com percursos de vida ligados ao serviço cívico.</p>\n<p>João Gomes da Silva, nascido em Lisboa em 1962, é licenciado em Arquitetura Paisagista pela Universidade de Évora, onde foi professor assistente entre 1987 e 1994.</p>\n<p>Atualmente leciona na Universidade Autónoma de Lisboa e na Academia de Arquitetura de Mendrisio USI, na Suíça.</p>\n<p>Além disso, foi professor visitante na Universidade de Harvard, na Graduate School of Design.</p>\n<p>Em 1997, João Gomes da Silva fundou, com Inês Norton, o Global Arquitectura Paisagista, \"criando um grupo que gera pensamento e prática sobre a Paisagem, a partir da interpretação, das transformações económicas, sociais e culturais contemporâneas\".</p>\n<p>O prémio será entregue a João Gomes da Silva, numa cerimónia nos Paços do Concelho da Câmara Municipal de Lisboa, em 26 de maio.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2746368/operacao-babel-arquiteto-amandio-dias-demitido-da-ccdr-n\" target=\"_blank\" rel=\"noopener noreferrer\">Operação Babel: Arquiteto Amândio Dias demitido da CCDR-N</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2759780/belgica-alvo-de-tentativas-de-interferencia-estrangeira-em-eleicoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bélgica alvo de tentativas de interferência estrangeira em eleições",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Um homem foi acusado por 64 crimes depois de ter sido feito uma grande investigação a uma agência funerária em Hull, no Reino Unido. A polícia removeu 35 corpos e cinzas.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo avança a BBC, a polícia de Huberside iniciou uma investigação à empresa Legacy Independent Funeral Directors, após receberem relatos de \"preocupação com o cuidado dos falecidos\", em março de 2024.</p>\n<p>Robert Bush, de 47 anos, foi acusado de 30 casos de impedimento de enterro legal e decente, 30 casos de fraude por representação falsa, dois casos de roubo a instituições de caridade, um caso de fraude e outro de negociação fraudulenta. </p>\n<p>Bush foi libertado sob fiança e terá de comparecer em tribunal a 25 de junho. </p>\n<p>\"Nós já informamos as famílias dos 35 mortos sobre este desenvolvimento e tivemos um primeiro contacto com outras vítimas que foram afetadas pela investigação e falaremos com elas, pessoalmente, nos próximos dias\", disse, esta quarta-feira, numa conferência de imprensa, citada pela BBC, o vice-chefe da polícia, Dave Marshall.</p>\n<p>Acrescentou ainda que há um total de 254 vítimas, das quais 172 foram afetadas por negociações fraudulentas de funerais, entre 23 de maio de 2022 a 5 de março de 2024.</p>\n<p>Já 50 pessoas foram vítimas de fraude em relação a cinzas humanas entre 1 de agosto de 2017 e 6 de março de 2024.</p>\n<p>A investigação decorrer durante 10 meses.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2758952/policia-mata-homem-a-tiro-em-estacao-de-comboios-no-reino-unido\" target=\"_blank\" rel=\"noopener noreferrer\">Polícia abate homem armado em estação de comboios no Reino Unido</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2759732/europa-tem-que-acabar-com-dependencia-tecnologica-dos-eua-e-china?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Europa tem que acabar com dependência tecnológica dos EUA e China",
-         "description": "A presidente do Banco Central Europeu (BCE), Christine Lagarde, afirmou hoje que a Europa deve tornar-se mais autossuficiente e acabar com a dependência da tecnologia dos EUA e da China, especialmente nos pagamentos digitais.",
-         "link": "https://www.noticiasaominuto.com/economia/2759732/europa-tem-que-acabar-com-dependencia-tecnologica-dos-eua-e-china?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1743608520000,
-         "created": 1743608520000,
-         "category": "Economia",
-         "content": "<p>\"Se pensarmos bem, neste momento muitos dos nossos pagamentos digitais, como as compras 'online', ou quando usamos o cartão ou o telemóvel, dependem sempre de infraestruturas não europeias\", disse Lagarde numa entrevista ao programa de rádio irlandês 'The Pat Kenny Show'.</p>\n<div class=\"dummyPub\"> </div>\n<p>A presidente do BCE citou exemplos como o Visa, Mastercard, Paypal ou Alipay e acrescentou: \"De onde é que eles vêm? Ou dos EUA ou da China. Toda a infraestrutura mecânica que permite efetuar pagamentos, de crédito e de débito, não é uma solução europeia\", sublinhou.</p>\n<p>Questionada pela jornalista irlandesa Pat Kenny sobre se isto significa que, sempre que é efetuado um pagamento com cartão ou por telemóvel na União Europeia (UE), a informação \"deixa\" a UE e vai para os EUA ou para a China, Lagarde respondeu: \"Completamente\".</p>\n<p>Ressalvando, logo de seguida, que as referidas empresas financeiras trabalham em conformidade com a regulamentação da UE, Lagarde defendeu uma redução desta \"vulnerabilidade\" e a garantia da existência de uma alternativa própria em território europeu, porque \"nunca se sabe\".</p>\n<p>Ao longo da entrevista, Lagarde alertou ainda para o facto de as consequências das tarifas norte-americanas serem \"totalmente negativas para a economia\", embora tenha evitado dar a sua opinião sobre a forma como a UE deve responder a estas taxas, por ser algo que \"deve ser decidido pelos líderes políticos\".</p>\n<p>\"O nosso trabalho no banco central é antecipar, explicar-lhes quais serão as consequências em termos de impacto económico, porque será sempre negativo em todo o mundo\", acrescentou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/tech/2758887/lagarde-diz-que-falta-investimento-em-ia-na-europa\" target=\"_blank\" rel=\"noopener noreferrer\">Lagarde diz que falta investimento em IA na Europa</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_50f9a783d03d8.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>\"Se pensarmos bem, neste momento muitos dos nossos pagamentos digitais, como as compras 'online', ou quando usamos o cartão ou o telemóvel, dependem sempre de infraestruturas não europeias\", disse Lagarde numa entrevista ao programa de rádio irlandês 'The Pat Kenny Show'.</p>\n<div class=\"dummyPub\"> </div>\n<p>A presidente do BCE citou exemplos como o Visa, Mastercard, Paypal ou Alipay e acrescentou: \"De onde é que eles vêm? Ou dos EUA ou da China. Toda a infraestrutura mecânica que permite efetuar pagamentos, de crédito e de débito, não é uma solução europeia\", sublinhou.</p>\n<p>Questionada pela jornalista irlandesa Pat Kenny sobre se isto significa que, sempre que é efetuado um pagamento com cartão ou por telemóvel na União Europeia (UE), a informação \"deixa\" a UE e vai para os EUA ou para a China, Lagarde respondeu: \"Completamente\".</p>\n<p>Ressalvando, logo de seguida, que as referidas empresas financeiras trabalham em conformidade com a regulamentação da UE, Lagarde defendeu uma redução desta \"vulnerabilidade\" e a garantia da existência de uma alternativa própria em território europeu, porque \"nunca se sabe\".</p>\n<p>Ao longo da entrevista, Lagarde alertou ainda para o facto de as consequências das tarifas norte-americanas serem \"totalmente negativas para a economia\", embora tenha evitado dar a sua opinião sobre a forma como a UE deve responder a estas taxas, por ser algo que \"deve ser decidido pelos líderes políticos\".</p>\n<p>\"O nosso trabalho no banco central é antecipar, explicar-lhes quais serão as consequências em termos de impacto económico, porque será sempre negativo em todo o mundo\", acrescentou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/tech/2758887/lagarde-diz-que-falta-investimento-em-ia-na-europa\" target=\"_blank\" rel=\"noopener noreferrer\">Lagarde diz que falta investimento em IA na Europa</a></p>",
          "media": {}
       }
    ]
