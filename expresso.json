@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "b06aec6d-fe33-4912-84bb-672ed4506568",
+         "title": "As árvores e a cidade: roteiro pelas cores e sombras de Lisboa",
+         "description": "<p>Estes são os dias em que todo o arvoredo de Lisboa irá explodir em manchas de cor e sombras, oferecendo aos moradores e aos visitantes uma espantosa visão da natureza</p>",
+         "link": "https://expresso.pt/revista/2025-04-03-as-arvores-e-a-cidade-roteiro-pelas-cores-e-sombras-de-lisboa-ed615a2b",
+         "author": "Ana Soromenho",
+         "published": 1743694984000,
+         "created": 1743694984000,
+         "category": "A Revista do Expresso",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-05-19-Ficus_T-_IDP.jpg-9ca58167/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-05-19-Ficus_T-_IDP.jpg-9ca58167/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-05-19-Ficus_T-_IDP.jpg-9ca58167/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "8b0c1b84-e447-4a71-a04f-68fd521a73dd",
          "title": "Documentário dos Led Zeppelin confirmado nos cinemas portugueses",
          "description": "<p>“Led Zeppelin: O Nascimento da Lenda”, primeiro documentário oficial sobre a banda de ‘Whole Lotta Love’, conta com imagens de arquivo inéditas e testemunhos dos membros da banda. Vai ter estreia em Portugal</p>",
@@ -248,35 +277,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "ce823ebb-94ca-4618-883d-07f298d73693",
-         "title": "Pão de ló, natureza e património histórico para descobrir em Felgueiras",
-         "description": "<p>Turismo industrial, património e natureza convidam a descobrir Felgueiras. Nesta cidade da sub-região do Tâmega e Sousa, o Pão de ló de Margaride é um pecado com absolvição. Para ver sábado (11h35) na SIC Notícias</p>",
-         "link": "https://expresso.pt/boa-cama-boa-mesa/2025-04-03-pao-de-lo-natureza-e-patrimonio-historico-para-descobrir-em-felgueiras-24da4af4",
-         "author": "BCBM",
-         "published": 1743690656000,
-         "created": 1743690656000,
-         "category": "Boa Cama Boa Mesa",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-pao-de-lo-de-margaride-edit.jpg-2686ba13/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-pao-de-lo-de-margaride-edit.jpg-2686ba13/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-pao-de-lo-de-margaride-edit.jpg-2686ba13/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
