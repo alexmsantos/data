@@ -6,263 +6,311 @@
    "category": [],
    "items": [
       {
-         "id": "50557a8f-7c7d-4572-b076-11313f56faa9",
-         "title": "A primeira página do Expresso",
-         "description": "",
-         "link": "https://expresso.pt/semanario/primeiro",
-         "author": "Expresso",
-         "published": 1743717474000,
-         "created": 1743717474000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-pc_2736.jpg-f519f566/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-pc_2736.jpg-f519f566/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-pc_2736.jpg-f519f566/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "d7d490e1-dfe1-408e-b1e6-4c35d4a180a7",
-         "title": "Para onde vai Mário Centeno, na revista E",
-         "description": "",
-         "link": "https://expresso.pt/semanario/revista-e",
-         "author": "Expresso",
-         "published": 1743717465000,
-         "created": 1743717465000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-e_2736.jpg-0240c345/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-e_2736.jpg-0240c345/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-e_2736.jpg-0240c345/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "2e84c835-0726-473e-ab19-1ed3c1a30f95",
-         "title": "IDEIAS: Porque falham as sondagens",
-         "description": "",
-         "link": "https://expresso.pt/semanario/ideias",
-         "author": "Expresso",
-         "published": 1743717453000,
-         "created": 1743717453000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-ideias_2736.jpg-bdc439f5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-ideias_2736.jpg-bdc439f5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-ideias_2736.jpg-bdc439f5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "6c0fbea7-0b30-4e9a-8509-3d28d744fb47",
-         "title": "A 1ª página do Expresso Economia",
-         "description": "",
-         "link": "https://expresso.pt/semanario/economia",
-         "author": "Expresso",
-         "published": 1743717434000,
-         "created": 1743717434000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-eco_2736.jpg-771011d5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-eco_2736.jpg-771011d5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-03-eco_2736.jpg-771011d5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "ffa1fd6d-4c1b-4e54-96a7-fa30643badd8",
-         "title": "Os nossos três silêncios",
-         "description": "<p>Há quem vá apostar na tentação bilateral para sobreviver ao trumpismo. E isso não nos será indiferente, especialmente porque nunca o poderemos fazer sem Bruxelas</p>",
-         "link": "https://expresso.pt/opiniao/2025-04-03-os-nossos-tres-silencios-bfe8f391",
-         "author": "Sebastião Bugalho",
-         "published": 1743717420000,
-         "created": 1743717420000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "4a5e9d54-9e92-49dd-95af-85e2b38913f1",
-         "title": "Que ordem económica internacional teremos?",
-         "description": "<p>Trump teme qualquer cooperação entre a União Europeia e o Canadá,por isso ameaça-os com consequências negativas</p>",
-         "link": "https://expresso.pt/opiniao/2025-04-03-que-ordem-economica-internacional-teremos--34ef01e7",
-         "author": "Miguel Monjardino",
-         "published": 1743717420000,
-         "created": 1743717420000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "c51d335e-f408-4d22-9965-2030b6a15728",
-         "title": "Quantas voltas já deu a roda dos alimentos, o guia que ensinou os portugueses a comer",
-         "description": "<p>Não a inventámos, mas Portugal foi visionário no guia alimentar em forma de prato desenvolvido há cinco décadas e que ainda hoje decora as paredes de muitas escolas. Desde então, os hábitos alimentares no país oscilaram da desnutrição ao excesso</p>",
-         "link": "https://expresso.pt/semanario/revista-e/-e/2025-04-03-quantas-voltas-ja-deu-a-roda-dos-alimentos-o-guia-que-ensinou-os-portugueses-a-comer-b08357a5",
-         "author": "Inês Loureiro Pinto",
-         "published": 1743717420000,
-         "created": 1743717420000,
-         "category": "+E",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-03-31-roda-dos-alimentos.jpg-ce33c6f6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-03-31-roda-dos-alimentos.jpg-ce33c6f6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-03-31-roda-dos-alimentos.jpg-ce33c6f6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "cc93bdbc-9b11-4934-9e5d-542fc206c402",
-         "title": "Tecnologia: chegou o computador de mala",
-         "description": "<p>A Asus reforçou a oferta com um novo mini-PC que é comunicativo e tem certificação militar</p>",
-         "link": "https://expresso.pt/revista/vicios/tecnologia/2025-04-03-tecnologia-chegou-o-computador-de-mala-57d31076",
-         "author": "Hugo Séneca",
-         "published": 1743717420000,
-         "created": 1743717420000,
-         "category": "Tecnologia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-03-31-antonio-gaspar-schwalbach_t-copy.png-c534302c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-03-31-antonio-gaspar-schwalbach_t-copy.png-c534302c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-03-31-antonio-gaspar-schwalbach_t-copy.png-c534302c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "cbbdf846-b9d0-4ff4-a9b4-37dc208adc69",
-         "title": "Próxima paragem. Transportes gratuitos para todos?",
-         "description": "<p>Grande Lisboa. Gratuitidade é um incentivo a deixar o carro em casa, mas autarcas defendem que também é preciso mais articulação dos horários e novas ligações que sirvam as pessoas</p>",
-         "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2025-04-03-proxima-paragem.-transportes-gratuitos-para-todos--b9695e95",
+         "id": "d77cffe1-e86d-4c40-9781-0b2df906ee4e",
+         "title": "Ranking das Escolas: notas altas dispersas a Norte, as más agravam-se no Sul",
+         "description": "<p>Listas mostram diferenças de desempenho nos exames nacionais, que não são explicáveis apenas pela escola. Mas esta pode mesmo fazer a diferença</p>",
+         "link": "https://expresso.pt/sociedade/2025-04-03-ranking-das-escolas-notas-altas-dispersas-a-norte-as-mas-agravam-se-no-sul-b771476d",
          "author": [
-            "Ana Baptista",
-            "José Fonseca Fernandes"
+            "Isabel Leiria",
+            "Raquel Albuquerque",
+            "Helder Oliveira"
          ],
-         "published": 1743717420000,
-         "created": 1743717420000,
-         "category": "Projetos Expresso",
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Sociedade",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-079-jornadas-navegante-aml-01042025-jff_t-_idp.jpg-3d4c6e0a/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-04-03-ilustra_t-_aa_idp.png-ae4f23f4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-079-jornadas-navegante-aml-01042025-jff_t-_idp.jpg-3d4c6e0a/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-04-03-ilustra_t-_aa_idp.png-ae4f23f4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-079-jornadas-navegante-aml-01042025-jff_t-_idp.jpg-3d4c6e0a/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-04-03-ilustra_t-_aa_idp.png-ae4f23f4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          }
       },
       {
-         "id": "6c291c9f-39ba-4eee-8b03-f45f2c2f4175",
-         "title": "Não basta uma maioria absoluta: sistema de pensões “precisa de um pacto de regime”",
-         "description": "<p>João Pratas, presidente da  Associação Portuguesa de Fundos de Investimento (APFIPP), diz que é preciso um pacto de regime para rever o sistema de pensões e a Segurança Social</p>",
-         "link": "https://expresso.pt/economia/2025-04-03-nao-basta-uma-maioria-absoluta-sistema-de-pensoes-precisa-de-um-pacto-de-regime-bcb81670",
-         "author": [
-            "Diogo Cavaleiro",
-            "Elisabete Miranda",
-            "Nuno Botelho"
-         ],
-         "published": 1743717420000,
-         "created": 1743717420000,
-         "category": "Economia",
+         "id": "db6b6c9f-6df3-47c2-ad3d-9304cd2ed334",
+         "title": "Quase 36% dos trabalhadores têm baixa exposição à IA",
+         "description": "<p>Estudo nacional constata que são mais os profissionais com uma baixa exposição aos impactos da automação do que os que têm “profissões em colapso”</p>",
+         "link": "https://expresso.pt/semanario/economia/o-ceo-e-o-limite/2025-04-03-quase-36-dos-trabalhadores-tem-baixa-exposicao-a-ia-e0603069",
+         "author": "Cátia Mateus",
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "O CEO é o limite",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-nb5_4036-_idp.jpg-244218cc/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-04-02-alta-856905066_t-_idp.jpg-d5280894/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-nb5_4036-_idp.jpg-244218cc/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-04-02-alta-856905066_t-_idp.jpg-d5280894/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-nb5_4036-_idp.jpg-244218cc/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-04-02-alta-856905066_t-_idp.jpg-d5280894/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "b6921b89-7484-4f0a-a919-e24f35f3222d",
+         "title": "O que dizem os rankings: o domínio do Norte, do ensino artístico, as escolas com notas 20 e o papel das mães",
+         "description": "<p><span>Nem só de médias nacionais nos exames do básico e do secundário se fazem os rankings das escolas. Há tendências que se confirmam e outras que se acentuam</span></p>",
+         "link": "https://expresso.pt/ranking-das-escolas/2024/2025-04-03-o-que-dizem-os-rankings-o-dominio-do-norte-do-ensino-artistico-as-escolas-com-notas-20-e-o-papel-das-maes-77ef039f",
+         "author": [
+            "Isabel Leiria",
+            "Sofia Miguel Rosa"
+         ],
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Ranking das Escolas 2024",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-secundaria-de-moncao-07-rds_3367.jpg-469b8346/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-secundaria-de-moncao-07-rds_3367.jpg-469b8346/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-secundaria-de-moncao-07-rds_3367.jpg-469b8346/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "3a5dfb98-7754-4454-b6ca-91c5370a9192",
+         "title": "Quer saber como é que a sua escola se saiu nos exames? Bastam quatro cliques",
+         "description": "<p>Qual foi a média dos exames nacionais? Foi mais alta ou mais baixa do que nas outras escolas? Em que disciplina se destacou? Escolha o distrito, o concelho, a escola e fique a saber o rankings das escolas em 2024</p>",
+         "link": "https://multimedia.expresso.pt/rankingescolas2024/",
+         "author": [
+            "Cátia Barros",
+            "Isabel Leiria",
+            "Raquel Albuquerque",
+            "Sofia Miguel Rosa",
+            "Helder Oliveira",
+            "Tiago Pereira Santos",
+            "João Melancia"
+         ],
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Ranking das Escolas 2024",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-ilustra_t.jpg-df7b2b16/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-ilustra_t.jpg-df7b2b16/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-ilustra_t.jpg-df7b2b16/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "bca75a9d-c932-4a5a-8b57-a1a47ed7fc47",
+         "title": "Ranking escolas: médias de Química e de Física nos colégios chegam a 18 valores",
+         "description": "<p><span>Classificações dadas pelos professores disparam em disciplinas sem exame. Em Aplicações Informáticas, 70% dos alunos no ensino privado tiveram entre 19 e 20 valores. Nas escolas públicas, a percentagem fica-se por metade</span></p>",
+         "link": "https://expresso.pt/ranking-das-escolas/2024/2025-04-03-ranking-escolas-medias-de-quimica-e-de-fisica-nos-colegios-chegam-a-18-valores-4891a88a",
+         "author": "Isabel Leiria",
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Ranking das Escolas 2024",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-jcc-aula-matematica-02-_idp.jpg-d2a33ecf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-jcc-aula-matematica-02-_idp.jpg-d2a33ecf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-jcc-aula-matematica-02-_idp.jpg-d2a33ecf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "7986d683-79d3-4806-8d9e-1add4b62cc12",
+         "title": "Rankings das escolas: veja o mapa interativo de todas as escolas secundárias",
+         "description": "<p><span>Amplie os mapas e escolha os marcadores coloridos para saber mais sobre cada uma das 652 escolas secundárias, públicas e privadas, onde se realizaram exames nacionais em Portugal e no mundo</span></p>",
+         "link": "https://expresso.pt/ranking-das-escolas/2024/2025-04-03-rankings-das-escolas-veja-o-mapa-interativo-de-todas-as-escolas-secundarias-87864516",
+         "author": "Sofia Miguel Rosa",
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Ranking das Escolas 2024",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-teaser_rankings_2024.jpg-3be81264/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-teaser_rankings_2024.jpg-3be81264/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-teaser_rankings_2024.jpg-3be81264/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "b2bc0a59-f68d-49b7-8f7e-654d52327cc4",
+         "title": "Ranking das Escolas: “Não faz sentido ver o ranking para identificar a 'melhor escola' do país. Isso não existe”, diz secretário de Estado",
+         "description": "<p>Em entrevista ao Expresso, o secretário de Estado da Educação frisa que só devem ser comparadas as escolas e os alunos com perfis semelhantes. Alexandre Homem Cristo lamenta que, em Portugal, a origem socioeconómica dos estudantes ainda seja \"um preditor muito forte\" do sucesso escolar e defende que os estabelecimentos de ensino têm de prevenir o insucesso em vez de apenas \"remediar\"</p>",
+         "link": "https://expresso.pt/ranking-das-escolas/2024/2025-04-03-ranking-das-escolas-nao-faz-sentido-ver-o-ranking-para-identificar-a-melhor-escola-do-pais.-isso-nao-existe-diz-secretario-de-estado-08a73b18-1",
+         "author": "Joana Pereira Bastos",
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Ranking das Escolas 2024",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-13-alexandre-homem-cristo--7cc060ee/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-13-alexandre-homem-cristo--7cc060ee/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-09-13-alexandre-homem-cristo--7cc060ee/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "42509322-7ee3-4f54-ac23-e2580873d0c7",
+         "title": "Ranking alternativo: “Ajudamos estes alunos a criar expectativas e a acreditar que não têm de repetir o que aconteceu na geração anterior\"",
+         "description": "<p><span>O contexto socioeconómico dos alunos tem peso no seu sucesso escolar e há estudos que apontam para a estabilidade laboral dos pais como um fator relevante. Entre os indicadores disponibilizados pelo Ministério da Educação, há uma espécie de ranking alternativo que compara o desempenho dos alunos com dificuldades económicas e que mostra quais as escolas que mais os estão a ajudar. No primeiro lugar está a secundária de Monção</span></p>",
+         "link": "https://expresso.pt/ranking-das-escolas/2024/2025-04-03-ranking-alternativo-ajudamos-estes-alunos-a-criar-expectativas-e-a-acreditar-que-nao-tem-de-repetir-o-que-aconteceu-na-geracao-anterior-70f7a53e",
+         "author": [
+            "Raquel Albuquerque",
+            "Sofia Miguel Rosa"
+         ],
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Ranking das Escolas 2024",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-secundaria-de-moncao-10-rds_3387.jpg-25687073/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-secundaria-de-moncao-10-rds_3387.jpg-25687073/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-secundaria-de-moncao-10-rds_3387.jpg-25687073/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "bcfa6a47-478c-47c1-9d5f-e63442faacb3",
+         "title": "Mapa das médias nos exames: em que concelhos estão os melhores e os piores resultados?",
+         "description": "",
+         "link": "https://expresso.pt/ranking-das-escolas/2024/2025-04-03-mapa-das-medias-nos-exames-em-que-concelhos-estao-os-melhores-e-os-piores-resultados--19fba2fd",
+         "author": "Sofia Miguel Rosa",
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Ranking das Escolas 2024",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-teaser_concelhos_rankings_2024.jpg-adcb5824/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-teaser_concelhos_rankings_2024.jpg-adcb5824/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-teaser_concelhos_rankings_2024.jpg-adcb5824/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "f775ed28-8db2-4ce8-9967-e38f9bdd80f8",
+         "title": "Ranking das Escolas: Secundária Tomaz Pelayo, onde o sucesso se prepara “desde o 1º ciclo” e de onde os professores não querem sair",
+         "description": "<p>A escola de Santo Tirso é uma das públicas com melhores médias. A estabilidade do corpo docente ajuda</p>",
+         "link": "https://expresso.pt/ranking-das-escolas/2024/2025-04-03-ranking-das-escolas-secundaria-tomaz-pelayo-onde-o-sucesso-se-prepara-desde-o-1-ciclo-e-de-onde-os-professores-nao-querem-sair-d817c802",
+         "author": [
+            "Joana Ascensão",
+            "Rui Duarte Silva"
+         ],
+         "published": 1743721201000,
+         "created": 1743721201000,
+         "category": "Ranking das Escolas 2024",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-tomaz-pelayo-01-3c8a2919_t-_idp.jpg-d013f01a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-tomaz-pelayo-01-3c8a2919_t-_idp.jpg-d013f01a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-03-rds-escola-tomaz-pelayo-01-3c8a2919_t-_idp.jpg-d013f01a/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
