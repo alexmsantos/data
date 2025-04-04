@@ -214,9 +214,12 @@
       {
          "id": "1b9ae123-1d1d-4c71-8067-fe8d2548b0ff",
          "title": "Em resposta a Trump, China impõe tarifa de 34% a importações dos Estados Unidos",
-         "description": "<p><span>A China responde, assim, de forma recíproca </span><span>às tarifas impostas por Donald Trump esta semana ao país. </span></p>",
-         "link": "https://sicnoticias.pt/economia/2025-04-04-em-resposta-a-trump-china-impoe-tarifa-de-34-a-importacoes-dos-estados-unidos-bcb33d9b",
-         "author": "Rita de Sousa",
+         "description": "A China responde, assim, de forma recíproca às tarifas impostas por Donald Trump esta semana ao país.",
+         "link": "https://sicnoticias.pt/economia/2025-04-04-video-em-resposta-a-trump-china-impoe-tarifa-de-34-a-importacoes-dos-estados-unidos-bcb33d9b",
+         "author": [
+            "Rita de Sousa",
+            "Pedro Miguel Costa"
+         ],
          "published": 1743765249000,
          "created": 1743765249000,
          "category": "Economia",
@@ -235,6 +238,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2018-06-15-importacao-china-eua.jpg/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "76a4d180-c132-4ff4-a931-b44c4be2ce70",
+         "title": "\"Por cinco milhões, poderia ser vossa\": EUA vão vender autorizações de residência",
+         "description": "Foi o próprio Presidente Trump quem o disse durante uma viagem no Air Force One e enquanto mostrava o documento. Chamado “Cartão Trump” é dourado e tem estampado o rosto e a assinatura do chefe de Estado norte-americano. Mas para que serve?",
+         "link": "https://sicnoticias.pt/mundo/2025-04-04-por-cinco-milhoes-poderia-ser-vossa-eua-vao-vender-autorizacoes-de-residencia-88a5dba2",
+         "author": "Lusa",
+         "published": 1743764378000,
+         "created": 1743764378000,
+         "category": "Mundo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-04-02-donald-trump-48146563/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-04-02-donald-trump-48146563/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-04-02-donald-trump-48146563/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -264,35 +296,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-04-04-foxjoaomanzarra_00001.jpg-d0c96876/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f18ad1c5-02b0-46e1-952b-36b4d33ce4b5",
-         "title": "Lugar em risco? Fenerbahçe reúne-se de emergência para discutir futuro de Mourinho",
-         "description": "O episódio polémico após o encontro da Taça da Turquia pode valer uma suspensão de 10 jogos ao treinador setubalense, que tem contrato com o clube de Istambul até ao final da próxima temporada.",
-         "link": "https://sicnoticias.pt/desporto/2025-04-04-lugar-em-risco--fenerbahce-reune-se-de-emergencia-para-discutir-futuro-de-mourinho-b57433f1",
-         "author": "SIC Notícias",
-         "published": 1743763683000,
-         "created": 1743763683000,
-         "category": "Desporto",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-04-04-jose-mourinho-bf99e8b3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-04-04-jose-mourinho-bf99e8b3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-04-04-jose-mourinho-bf99e8b3/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
