@@ -1,10 +1,27 @@
 {
-   "title": "Renascença - Informação",
+   "title": "Renascença - Noticias",
    "description": "Em cada momento a rádio com o espirito certo. Na rádio, no digital e em podcast.",
    "link": "https://rr.pt/",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "220153c0-1111-f011-aaa7-000d3aaf59e6",
+         "title": "​Democracias e autocracias",
+         "description": "A palavra democracia é usada por muitos regimes autoritários pouco democráticos. As chamadas democracias iliberais não apreciam o espírito de tolerância que em princípio vigora nas democracias autêntica.",
+         "link": "https://rr.pt/artigo/francisco-sarsfield-cabral/2025/04/04/democracias-e-autocracias/420271/?utm_medium=rss",
+         "published": 1743742839000,
+         "created": 1743742839000,
+         "category": [],
+         "enclosures": [
+            {
+               "url": "https://images.newrr.rr.pt/sarsfield_cabral_francisco_sarsfield_cabral2105ced6_base.jpg",
+               "length": "40665",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "206572eb-e110-f011-aaa7-000d3aaf59e6",
          "title": "Trabalho sob efeito do álcool: livro alerta para consumos excessivos entre trabalhadores",
@@ -16,6 +33,23 @@
          "enclosures": [
             {
                "url": "https://images.rr.pt/tob8943e89a_standard.jpg",
+               "length": "40665",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "bbeb0c86-1011-f011-aaa7-000d3aaf59e6",
+         "title": "Enquanto não caem raios e coriscos",
+         "description": "Temos, nesta altura, um Benfica mais regular, senhor de uma equipa mais homogénea e servida por jogadores mais qualificados.",
+         "link": "https://rr.pt/artigo/ribeiro-cristovao/2025/04/04/enquanto-nao-caem-raios-e-coriscos/420270/?utm_medium=rss",
+         "published": 1743739204000,
+         "created": 1743739204000,
+         "category": [],
+         "enclosures": [
+            {
+               "url": "https://images.newrr.rr.pt/ribeiro_cristovao_300x3004466e3a4_base.png",
                "length": "40665",
                "type": "image/jpeg"
             }
@@ -210,6 +244,57 @@
          "media": {}
       },
       {
+         "id": "855b4c96-0e0e-f011-aaa7-000d3aaf59e6",
+         "title": "Se quiser saber o que é um sistema educativo de qualidade, não procure nos rankings",
+         "description": "Os debates são sempre iguais: muita conversa sobre as dez ou vinte escolas no topo e no fim da lista; uma histeria coletiva sobre a posição relativa do ensino privado e do ensino público; uma reportagem mais aprofundada sobre uma ou duas escolas; uns quantos artigos de opinião (como este) contra ou a favor dos rankings.",
+         "link": "https://rr.pt/artigo/convidado/2025/04/04/se-quiser-saber-o-que-e-um-sistema-educativo-de-qualidade-nao-procure-nos-rankings/419668/?utm_medium=rss",
+         "published": 1743721207000,
+         "created": 1743721207000,
+         "category": [],
+         "enclosures": [
+            {
+               "url": "https://images.rr.pt/ranking-joaocosta566129a4_standard.jpg",
+               "length": "40665",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "737387f8-f70e-f011-aaa7-000d3aaf59e6",
+         "title": "De baixo para cima",
+         "description": "Uma das coisas interessantes da 'saison' dos rankings, é precisamente saber das estratégias de inovação e das histórias de superação que muitos professores, diretores e alunos destas escolas partilham. Podem não estar no topo da lista, mas contam boas notícias sobre o empenho que colocam no seu trabalho e isso, em si mesmo, educa dentro e fora de portas.",
+         "link": "https://rr.pt/artigo/convidado/2025/04/04/de-baixo-para-cima/419854/?utm_medium=rss",
+         "published": 1743721204000,
+         "created": 1743721204000,
+         "category": [],
+         "enclosures": [
+            {
+               "url": "https://images.rr.pt/ranking-anaritabessa21019f2d_standard.jpg",
+               "length": "40665",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "04937a77-4f0a-f011-aaa7-000d3aaf59e6",
+         "title": "O que os rankings escondem e a luta dos professores procura",
+         "description": "Pelo 25.º ano consecutivo são publicados rankings de escolas que darão lugar a um surto de propaganda sobre as “boas” e a apreciações catastróficas sobre as “más”. Dirão que as “boas” são privadas e as “más” públicas. Para credibilizar a catalogação, dir-se-á ter sido considerada a origem socioeconómica dos alunos, apesar de o ministério apenas divulgar a dos que frequentam escolas públicas.",
+         "link": "https://rr.pt/artigo/convidado/2025/04/04/o-que-os-rankings-escondem-e-a-luta-dos-professores-procura/419068/?utm_medium=rss",
+         "published": 1743721202000,
+         "created": 1743721202000,
+         "category": [],
+         "enclosures": [
+            {
+               "url": "https://images.rr.pt/ranking-marionogueira2100ed3b_standard.jpg",
+               "length": "40665",
+               "type": "image/jpeg"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "ebca365c-fb0b-f011-aaa7-000d3aaf59e6",
          "title": "Estas são as 10 escolas públicas de Lisboa e do Porto com as médias mais altas",
          "description": "Depois de as escolas artísticas dominarem as médias das escolas públicas em 2023, a troca de Inglês por Matemática Aplicada às Ciências Sociais mudou os números de 2024. As médias desceram, mas as cinco mais altas, no Porto, estão nas mesmas escolas, enquanto o top 5 de Lisboa tem duas novidades.",
@@ -341,91 +426,6 @@
                "url": "https://images.rr.pt/2025-03-28t073235z-650044424-rc2xldaw5oc3-rtrmadp-3-russia-arctic-putin52690c7d_standard.jpg",
                "length": "40665",
                "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "9c7b6096-de10-f011-aaa7-000d3aaf59e6",
-         "title": "José Cid distinguido com Prémio Carreira nos PLAY - Prémios da Música Portuguesa",
-         "description": "Dillaz levou para casa um PLAY, de Melhor Álbum com \"O Próprio\". Conheça todos os vencedores dos Prémios PLAY.",
-         "link": "https://rr.pt/noticia/vida/2025/04/03/jose-cid-distinguido-com-premio-carreira-nos-play-premios-da-musica-portuguesa/420257/?utm_medium=rss",
-         "published": 1743720864000,
-         "created": 1743720864000,
-         "category": [],
-         "enclosures": [
-            {
-               "url": "https://images.rr.pt/cid2739238e5_standard.jpeg",
-               "length": "40665",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "39ac1a54-de10-f011-aaa7-000d3aaf59e6",
-         "title": "Casa Branca publica \"fórmula\" para justificar tarifas de Trump",
-         "description": "Representante do comércio dos EUA publicou uma fórmula com múltiplas variáveis expressas em letras gregas, porém várias variáveis anulam-se mutuamente.",
-         "link": "https://rr.pt/noticia/mundo/2025/04/03/casa-branca-publica-formula-para-justificar-tarifas-de-trump/420256/?utm_medium=rss",
-         "published": 1743720753000,
-         "created": 1743720753000,
-         "category": [],
-         "enclosures": [
-            {
-               "url": "https://images.rr.pt/445443844752f607c117_standard.jpg",
-               "length": "40665",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "81705894-dd10-f011-aaa7-000d3aaf59e6",
-         "title": "Casa Branca demite três funcionários do Conselho de Segurança Nacional",
-         "description": "Três despedimentos ocorreram após um encontro de Trump com a ativista de extrema-direita Laura Loomer.",
-         "link": "https://rr.pt/noticia/mundo/2025/04/03/casa-branca-demite-tres-funcionarios-do-conselho-de-seguranca-nacional/420255/?utm_medium=rss",
-         "published": 1743720431000,
-         "created": 1743720431000,
-         "category": [],
-         "enclosures": [
-            {
-               "url": "https://images.rr.pt/4464659714938c8a0386_standard.jpg",
-               "length": "40665",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "e50d0ebb-d810-f011-aaa7-000d3aaf59e6",
-         "title": "Tarifas de Trump incendeiam mercados: Wall Street regista maior queda desde 2020",
-         "description": "As principais bolsas norte-americanas registaram a maior queda desde 2020, após Donald Trump anunciar novas tarifas comerciais. Investidores temem recessão global.",
-         "link": "https://rr.pt/noticia/economia/2025/04/04/tarifas-de-trump-incendeiam-mercados-wall-street-regista-maior-queda-desde-2020/420251/?utm_medium=rss",
-         "published": 1743718949000,
-         "created": 1743718949000,
-         "category": [],
-         "enclosures": [
-            {
-               "url": "https://images.rr.pt/4471044017256d509258_standard.jpg",
-               "length": "40665",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "ee2c7469-d910-f011-aaa7-000d3aaf59e6",
-         "title": "Poiares Maduro pede \"abordagem mais humilde\" a Montenegro",
-         "description": "Em entrevista ao programa Hora da Verdade, da Renascença e jornal Público, o antigo ministro de Passos Coelho pede ao primeiro-ministro que tenha \"abordagem mais humilde\" em relação ao tema Spinumviva e lamenta que Luís Montenegro olhe para \"o escrutínio como uma ofensa\". Miguel Poiares Maduro acredita que caso Gouveia e Melo vença as presidenciais, pode ser criado um novo partido \"populista de centro\" que ameace a \"sobrevivência\" do PS e PSD.",
-         "link": "https://rr.pt/artigo/hora-da-verdade/2025/04/03/poiares-maduro-pede-abordagem-mais-humilde-a-montenegro/420253/?utm_medium=rss",
-         "published": 1743718642000,
-         "created": 1743718642000,
-         "category": [],
-         "enclosures": [
-            {
-               "url": "https://d1gifpnctlcmg5.cloudfront.net/be03b976-08ec-46ac-b8a1-8cd7b89206b0/sources/2f00c5d5-ae86-411c-b99d-a0c014b718f1.mp3",
-               "length": "40665",
-               "type": "audio/mp3"
             }
          ],
          "media": {}
