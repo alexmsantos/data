@@ -106,8 +106,25 @@
          "published": 1744014332000,
          "created": 1744014332000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-12-19-claranao_002_small.png-8fa23c59-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-12-19-claranao_002_small.png-8fa23c59-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-12-19-claranao_002_small.png-8fa23c59-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "c802bec5-3dac-4185-aee1-08fa23a1cce5",
