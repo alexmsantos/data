@@ -7,10 +7,13 @@
    "items": [
       {
          "id": "8f875a6e-41b5-403e-b990-ffa4e5434fe2",
-         "title": "Bruxelas propõe aos EUA \"tarifas zero\" sobre bens industriais",
+         "title": "Bruxelas propõe aos EUA tarifas zero sobre bens industriais",
          "description": "Von der Leyen diz que UE está disponível para negociar, mas avisa que pode preparar retaliação.",
          "link": "https://sicnoticias.pt/economia/2025-04-07-bruxelas-propoe-aos-eua-tarifas-zero-sobre-bens-industriais-1c195584",
-         "author": "SIC Notícias",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1744033177000,
          "created": 1744033177000,
          "category": "Economia",
@@ -29,6 +32,38 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-04-06-von-der-leyen-0c77b687/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "c30a2c22-6d5f-45a1-b170-f7262e2db183",
+         "title": "Mancha de 400 litros de combustível no Tejo contida pelas autoridades",
+         "description": "<p><span>Após o alerta para o incidente, uma equipa de intervenção de combate à poluição da Capitania do Porto de Lisboa deslocou-se para o local, \"c</span><span>olocando barreiras de proteção em redor dos dois navios,</span><span>&nbsp;</span><span>para conter e mitigar os efeitos do derrame, tendo sido possível recolher parte do material poluente\".</span></p>",
+         "link": "https://sicnoticias.pt/pais/2025-04-07-mancha-de-combustivel-no-rio-tejo-contida-pela-capitania-do-porto-de-lisboa-8ffb7d9b",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
+         "published": 1744032571000,
+         "created": 1744032571000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-04-07-praia-encerrada-derrame-combustivel.jpg-22141eaf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-04-07-praia-encerrada-derrame-combustivel.jpg-22141eaf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-04-07-praia-encerrada-derrame-combustivel.jpg-22141eaf/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -264,35 +299,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-04-07-lampreias-729cf53c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "ce64de65-5225-40f8-a2b1-16152ae5400c",
-         "title": "Fernando Madureira tinha mais de 31 mil euros num saco de papel debaixo da cama",
-         "description": "Esta segunda-feira decorre a 7.ª sessão do julgamento da Operação Pretoriano. Os 12 arguidos, entre os quais o antigo líder dos Super Dragões Fernando Madureira, começaram em 17 de março a responder por 31 crimes no Tribunal de São João Novo.",
-         "link": "https://sicnoticias.pt/desporto/2025-04-07-fernando-madureira-tinha-mais-de-31-mil-euros-num-saco-de-papel-debaixo-da-cama-70be0210",
-         "author": "SIC Notícias",
-         "published": 1744023650000,
-         "created": 1744023650000,
-         "category": "Desporto",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2023-11-20-fernando-madureira-macaco-super-dragoes.jpg-ef0370a8/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2023-11-20-fernando-madureira-macaco-super-dragoes.jpg-ef0370a8/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2023-11-20-fernando-madureira-macaco-super-dragoes.jpg-ef0370a8/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
