@@ -43,8 +43,25 @@
          "published": 1744364959000,
          "created": 1744364959000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-04-04-tiktok-6b63b70c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-04-04-tiktok-6b63b70c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-04-04-tiktok-6b63b70c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "e925dec5-ddcd-48a1-9135-9d9ad8f3e2f5",
@@ -109,9 +126,9 @@
       },
       {
          "id": "1e8ce860-9bc1-49d5-91a3-f664270be62d",
-         "title": "Precisa de abstecer? Espere pela próxima semana, vem aí uma grande descida",
-         "description": "<p><span>O preço dos combustíveis vai baixar na próxima semana. </span><span>É uma das maiores descidas dos últimos meses. A Gasolina vai ficar mais barata 7,5 cêntimos. Já o Gasóleo diminui 6,5 cêntimos. </span></p>",
-         "link": "https://sicnoticias.pt/especiais/combustiveis/2025-04-11-precisa-de-abstecer--espere-pela-proxima-semana-vem-ai-uma-grande-descida-7d533c7c",
+         "title": "Precisa de abastecer? Espere pela próxima semana, vem aí uma grande descida",
+         "description": "O preço dos combustíveis vai baixar na próxima semana. É uma das maiores descidas dos últimos meses. A Gasolina vai ficar mais barata 7,5 cêntimos. Já o Gasóleo diminui 6,5 cêntimos.",
+         "link": "https://sicnoticias.pt/especiais/combustiveis/2025-04-11-precisa-de-abastecer--espere-pela-proxima-semana-vem-ai-uma-grande-descida-7d533c7c",
          "author": "SIC Notícias",
          "published": 1744364030000,
          "created": 1744364030000,
