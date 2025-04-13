@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2767207/exequias-do-coronel-carlos-matos-gomes-realizam-se-a-partir-de-terca-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Exéquias do coronel Carlos Matos Gomes realizam-se a partir de terça-feira",
+         "description": "As exéquias do coronel Carlos Matos Gomes, que morreu hoje aos 78 anos, realizam-se a partir de terça-feira em Lisboa, anunciou a família numa rede social.",
+         "link": "https://www.noticiasaominuto.com/pais/2767207/exequias-do-coronel-carlos-matos-gomes-realizam-se-a-partir-de-terca-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1744578388000,
+         "created": 1744578388000,
+         "category": "País",
+         "content": "<p>O velório realiza-se na terça-feira entre as 19h00 e as 23h00 na Capela da Academia Militar, no Paço da Rainha, onde, na quarta-feira às 11h00, será celebrada missa de corpo presente, seguindo-se o funeral para o Cemitério do Alto de S. João, onde se realizará a cerimónia de cremação.</p>\n<div class=\"dummyPub\"> </div>\n<p>O coronel Carlos Matos Gomes, um dos Capitães de Abril, morreu hoje num hospital em Lisboa.</p>\n<p>Matos Gomes, sob o pseudónimo de Carlos Vale Ferraz publicou vários livros sobre a temática da Guerra Colonial, entre eles, 'Nó Cego', 'A Última Viúva de África', que lhe valeu o Prémio Fernando Namora em 2018, e 'Os Lobos não Usam Coleira' (1995), que foi adaptado ao cinema por António-Pedro Vasconcelos, 'Os Imortais' (2003).</p>\n<p>No ano passado, em nome próprio, Matos Gomes publicou 'Geração D' que, em entrevista à Agência Lusa, definiu como uma homenagem e uma autobiografia da sua geração, a que conheceu a ditadura, a Guerra Colonial e fez o 25 de Abril de 1974.</p>\n<p>A 'Geração D', explicou, é a geração da \"Democracia, da Deserção, da Descolonização, das Doutrinas e do Doutrinar, da Discussão, da Dialética, do Desmistificar, do Desmobilizar, da Denúncia, da Desobediência, do Divórcio\", a geração que \"viveu sob um regime de 'doidos do império'\" e dele se libertou.</p>\n<p>Carlos de Matos Gomes nasceu em 24 de julho de 1946, em Vila Nova da Barquinha. Foi oficial do Exército, na Arma de Cavalaria, tendo cumprido comissões em Angola, Moçambique e na Guiné-Bissau, integrado nos Comandos.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2767056/coronel-matos-gomes-foi-dos-primeiros-a-escrever-sobre-guerra-colonial\" target=\"_blank\" rel=\"noopener noreferrer\">Coronel Matos Gomes foi dos primeiros a escrever sobre Guerra Colonial</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67fb9e2c1875d.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O velório realiza-se na terça-feira entre as 19h00 e as 23h00 na Capela da Academia Militar, no Paço da Rainha, onde, na quarta-feira às 11h00, será celebrada missa de corpo presente, seguindo-se o funeral para o Cemitério do Alto de S. João, onde se realizará a cerimónia de cremação.</p>\n<div class=\"dummyPub\"> </div>\n<p>O coronel Carlos Matos Gomes, um dos Capitães de Abril, morreu hoje num hospital em Lisboa.</p>\n<p>Matos Gomes, sob o pseudónimo de Carlos Vale Ferraz publicou vários livros sobre a temática da Guerra Colonial, entre eles, 'Nó Cego', 'A Última Viúva de África', que lhe valeu o Prémio Fernando Namora em 2018, e 'Os Lobos não Usam Coleira' (1995), que foi adaptado ao cinema por António-Pedro Vasconcelos, 'Os Imortais' (2003).</p>\n<p>No ano passado, em nome próprio, Matos Gomes publicou 'Geração D' que, em entrevista à Agência Lusa, definiu como uma homenagem e uma autobiografia da sua geração, a que conheceu a ditadura, a Guerra Colonial e fez o 25 de Abril de 1974.</p>\n<p>A 'Geração D', explicou, é a geração da \"Democracia, da Deserção, da Descolonização, das Doutrinas e do Doutrinar, da Discussão, da Dialética, do Desmistificar, do Desmobilizar, da Denúncia, da Desobediência, do Divórcio\", a geração que \"viveu sob um regime de 'doidos do império'\" e dele se libertou.</p>\n<p>Carlos de Matos Gomes nasceu em 24 de julho de 1946, em Vila Nova da Barquinha. Foi oficial do Exército, na Arma de Cavalaria, tendo cumprido comissões em Angola, Moçambique e na Guiné-Bissau, integrado nos Comandos.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2767056/coronel-matos-gomes-foi-dos-primeiros-a-escrever-sobre-guerra-colonial\" target=\"_blank\" rel=\"noopener noreferrer\">Coronel Matos Gomes foi dos primeiros a escrever sobre Guerra Colonial</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2767204/hutis-reivindicam-ataques-a-israel-operacao-militar-direcionada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Hutis reivindicam ataques a Israel: \"Operação militar direcionada\"",
@@ -247,7 +270,7 @@
          "published": 1744574883000,
          "created": 1744574883000,
          "category": "País",
-         "content": "<p>Uma colisão rodoviária em Caxias está a condicionar, pelas 20h10, o trânsito na Avenida Marginal, no sentido Cascais-Lisboa.</p>\n<div class=\"dummyPub\"> </div>\n<p>O <span class=\"news_bold\">Notícias ao Minuto</span> contactou os Bombeiros de Paço de Arcos, mas ainda não foi possível obter mais informações. </p>\n<p>O alerta foi dado pelas 19h09. </p>\n<p>De acordo com a página da Proteção Civil, estão no local oito operacionais apoiados por quatro viaturas. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2767012/escola-superior-de-viseu-lamenta-morte-de-menina-doce-em-acidente\" target=\"_blank\" rel=\"noopener noreferrer\">Escola Superior de Viseu lamenta morte de \"menina doce\" em acidente</a></p>",
+         "content": "<p>Uma colisão rodoviária em Caxias está a condicionar, pelas 20h10, o trânsito na Avenida Marginal, no sentido Cascais-Lisboa.</p>\n<div class=\"dummyPub\"> </div>\n<p>O <span class=\"news_bold\">Notícias ao Minuto</span> contactou os Bombeiros de Paço de Arcos, mas não foi possível obter mais informações. </p>\n<p>O alerta foi dado pelas 19h09. </p>\n<p>De acordo com a página da Proteção Civil, estão no local oito operacionais apoiados por quatro viaturas. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2767012/escola-superior-de-viseu-lamenta-morte-de-menina-doce-em-acidente\" target=\"_blank\" rel=\"noopener noreferrer\">Escola Superior de Viseu lamenta morte de \"menina doce\" em acidente</a></p>",
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66d0148c47878.jpg",
@@ -255,7 +278,7 @@
                "length": "0"
             }
          ],
-         "content_encoded": "<p>Uma colisão rodoviária em Caxias está a condicionar, pelas 20h10, o trânsito na Avenida Marginal, no sentido Cascais-Lisboa.</p>\n<div class=\"dummyPub\"> </div>\n<p>O <span class=\"news_bold\">Notícias ao Minuto</span> contactou os Bombeiros de Paço de Arcos, mas ainda não foi possível obter mais informações. </p>\n<p>O alerta foi dado pelas 19h09. </p>\n<p>De acordo com a página da Proteção Civil, estão no local oito operacionais apoiados por quatro viaturas. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2767012/escola-superior-de-viseu-lamenta-morte-de-menina-doce-em-acidente\" target=\"_blank\" rel=\"noopener noreferrer\">Escola Superior de Viseu lamenta morte de \"menina doce\" em acidente</a></p>",
+         "content_encoded": "<p>Uma colisão rodoviária em Caxias está a condicionar, pelas 20h10, o trânsito na Avenida Marginal, no sentido Cascais-Lisboa.</p>\n<div class=\"dummyPub\"> </div>\n<p>O <span class=\"news_bold\">Notícias ao Minuto</span> contactou os Bombeiros de Paço de Arcos, mas não foi possível obter mais informações. </p>\n<p>O alerta foi dado pelas 19h09. </p>\n<p>De acordo com a página da Proteção Civil, estão no local oito operacionais apoiados por quatro viaturas. </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2767012/escola-superior-de-viseu-lamenta-morte-de-menina-doce-em-acidente\" target=\"_blank\" rel=\"noopener noreferrer\">Escola Superior de Viseu lamenta morte de \"menina doce\" em acidente</a></p>",
          "media": {}
       },
       {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>O autocarro, proveniente de Luanda, capital do país, tinha como destino o município de Quimbele, tendo o acidente ocorrido na localidade de Kimalalo, segundo a agência noticiosa angolana, Angop.</p>\n<div class=\"dummyPub\"> </div>\n<p>No local, seis pessoas perderam a vida e outras duas faleceram já no Hospital Municipal de Quimbele, tendo os oito feridos graves sido transferidos para o Hospital Geral do Uíje.</p>\n<p>O autocarro em que seguiam caiu numa ravina de grande dimensão naquela localidade, que registou uma considerável progressão devido a chuvas constantes na região.</p>\n<p>Em Angola, os acidentes de viação são a segunda causa de morte, depois da malária, com 2024 a registar um total de 3.120 mortos e 16.282 feridos, como consequência de 12.303 acidentes, segundo dados oficiais.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2767048/angola-ultrapassa-12-mil-casos-de-colera-desde-o-inicio-do-surto\" target=\"_blank\" rel=\"noopener noreferrer\">Angola ultrapassa 12 mil casos de cólera desde o início do surto</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2767058/alcaraz-supera-musetti-para-conquistar-inedito-titulo-em-monte-carlo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alcaraz supera Musetti para conquistar inédito título em Monte Carlo",
-         "description": "Carlos Alcaraz conquistou hoje pela primeira vez o título em Monte Carlo, somando o sexto triunfo em torneios da categoria Masters 1.000, graças a uma vitória em três sets diante do tenista italiano Lorenzo Musetti.",
-         "link": "https://www.noticiasaominuto.com/desporto/2767058/alcaraz-supera-musetti-para-conquistar-inedito-titulo-em-monte-carlo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1744555459000,
-         "created": 1744555459000,
-         "category": "Desporto",
-         "content": "<p>O jovem espanhol, que na segunda-feira vai subir à vice-liderança do ranking ATP, impôs-se ao 16.º jogador mundial pelos parciais de 3-6, 6-1 e 6-0, em uma hora e 48 minutos.</p>\n<div class=\"dummyPub\"> </div>\n<p>Para conquistar o seu primeiro título Masters 1.000 em 13 meses -- o último tinha sido em Indian Wells -- e o segundo cetro desta temporada, 'Carlitos' teve de superar a inconstância demonstrada ao longo da semana.</p>\n<p>\"Estou muito feliz por ganhar Monte Carlo pela primeira vez. Foi uma semana muito difícil, com muitas situações complicadas. Estou orgulhoso de como lidei com tudo. Foi um mês difícil para mim, por isso, chegar aqui e ver que o trabalho duro compensa deixa-me feliz\", resumiu Alcaraz, que foi 'obrigado' a três encontros em três sets.</p>\n<p>Este é o 18.º título da carreira do espanhol de 21 anos e o mais importante desde que ergueu o troféu em Wimbledon, em julho.</p>\n<p>Vencedor em Roterdão em fevereiro, Alcaraz é, a par de Felix Auger-Aliassime, o único jogador a ganhar mais do que um título esta época no circuito ATP.</p>\n<p>Já Musetti, bronze em Paris2024, disputou pela primeira vez uma final de um Masters 1.000.</p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44771149.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O jovem espanhol, que na segunda-feira vai subir à vice-liderança do ranking ATP, impôs-se ao 16.º jogador mundial pelos parciais de 3-6, 6-1 e 6-0, em uma hora e 48 minutos.</p>\n<div class=\"dummyPub\"> </div>\n<p>Para conquistar o seu primeiro título Masters 1.000 em 13 meses -- o último tinha sido em Indian Wells -- e o segundo cetro desta temporada, 'Carlitos' teve de superar a inconstância demonstrada ao longo da semana.</p>\n<p>\"Estou muito feliz por ganhar Monte Carlo pela primeira vez. Foi uma semana muito difícil, com muitas situações complicadas. Estou orgulhoso de como lidei com tudo. Foi um mês difícil para mim, por isso, chegar aqui e ver que o trabalho duro compensa deixa-me feliz\", resumiu Alcaraz, que foi 'obrigado' a três encontros em três sets.</p>\n<p>Este é o 18.º título da carreira do espanhol de 21 anos e o mais importante desde que ergueu o troféu em Wimbledon, em julho.</p>\n<p>Vencedor em Roterdão em fevereiro, Alcaraz é, a par de Felix Auger-Aliassime, o único jogador a ganhar mais do que um título esta época no circuito ATP.</p>\n<p>Já Musetti, bronze em Paris2024, disputou pela primeira vez uma final de um Masters 1.000.</p>",
          "media": {}
       }
    ]
