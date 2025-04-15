@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2767972/marco-silva-possesso-erro-levou-a-substituicao-do-jogador-errado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Marco Silva 'possesso'. Erro levou à substituição... do jogador errado",
+         "description": "Treinador do Fulham lamenta que a equipa de arbitragem não o tenha deixado voltar atrás.",
+         "link": "https://www.noticiasaominuto.com/desporto/2767972/marco-silva-possesso-erro-levou-a-substituicao-do-jogador-errado?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1744703212000,
+         "created": 1744703212000,
+         "category": "Desporto",
+         "content": "<p>O Fulham marcou, esta segunda-feira, passo na corrida pelos lugares de apuramento para as competições europeias, na sequência da derrota sofrida na visita ao Fulham, por 1-0, fruto de um golo de Antoine Semenyo, logo no primeiro minuto.</p>\n<div class=\"dummyPub\"> </div>\n<p>Uma partida a contar para a 32.ª jornada da Premier League, que ficou marcado por um momento, no mínimo, caricato, quando, à passagem dos 57 minutos, Marco Silva procurou alterar o rumo dos acontecimentos, promovendo três substituições de uma vez só... tendo uma delas acabado por dar 'buraco'.</p>\n<p>Adama Traoré, Raúl Jiménez e Tom Cairney foram lançados para os lugares de Sander Berge, Rodrigo Muniz e Ryan Sessegnon, mas o treinador português ficou 'possesso', uma vez que não tinha qualquer intenção de retirar este último.</p>\n<p>O próprio procurou argumentar no sentido de convencer a equipa de arbitragem liderada por Michael Oliver a deixá-lo emendar o erro, o que levou, inclusive, a uma interrupção de mais de dez minutos. No entanto, não havia como voltar atrás.</p>\n<p>\"Foi uma falha de comunicação com o quarto árbitro, por parte da nossa equipa técnica\", afirmou o técnico dos cottagers, na conferência de imprensa que se seguiu ao apito final, onde teve a oportunidade de explicar que pretendia retirar Sasa Lukic, e não Ryan Sessegnon.</p>\n<p>\"Tínhamos tempo de sobra para corrigir. Quando vi o Sessegnon a sair, tentei corrigir. Ele [o quarto árbitro, Tim Robinson] decidiu não nos deixar corrigir\", completou, em declarações reproduzidas pelo jornal britânico <span class=\"news_bold\"><a href=\"https://www.independent.co.uk/sport/football/marco-silva-ryan-sessegnon-michael-oliver-antonee-robinson-fulham-b2733280.html\" target=\"_blank\" rel=\"noopener\">Independent</a></span>.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2767866/bournemouth-regressa-as-vitorias-as-custas-de-marco-silva\" target=\"_blank\" rel=\"noopener noreferrer\">Bournemouth regressa às vitórias às custas de Marco Silva</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67fe00a482d23.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O Fulham marcou, esta segunda-feira, passo na corrida pelos lugares de apuramento para as competições europeias, na sequência da derrota sofrida na visita ao Fulham, por 1-0, fruto de um golo de Antoine Semenyo, logo no primeiro minuto.</p>\n<div class=\"dummyPub\"> </div>\n<p>Uma partida a contar para a 32.ª jornada da Premier League, que ficou marcado por um momento, no mínimo, caricato, quando, à passagem dos 57 minutos, Marco Silva procurou alterar o rumo dos acontecimentos, promovendo três substituições de uma vez só... tendo uma delas acabado por dar 'buraco'.</p>\n<p>Adama Traoré, Raúl Jiménez e Tom Cairney foram lançados para os lugares de Sander Berge, Rodrigo Muniz e Ryan Sessegnon, mas o treinador português ficou 'possesso', uma vez que não tinha qualquer intenção de retirar este último.</p>\n<p>O próprio procurou argumentar no sentido de convencer a equipa de arbitragem liderada por Michael Oliver a deixá-lo emendar o erro, o que levou, inclusive, a uma interrupção de mais de dez minutos. No entanto, não havia como voltar atrás.</p>\n<p>\"Foi uma falha de comunicação com o quarto árbitro, por parte da nossa equipa técnica\", afirmou o técnico dos cottagers, na conferência de imprensa que se seguiu ao apito final, onde teve a oportunidade de explicar que pretendia retirar Sasa Lukic, e não Ryan Sessegnon.</p>\n<p>\"Tínhamos tempo de sobra para corrigir. Quando vi o Sessegnon a sair, tentei corrigir. Ele [o quarto árbitro, Tim Robinson] decidiu não nos deixar corrigir\", completou, em declarações reproduzidas pelo jornal britânico <span class=\"news_bold\"><a href=\"https://www.independent.co.uk/sport/football/marco-silva-ryan-sessegnon-michael-oliver-antonee-robinson-fulham-b2733280.html\" target=\"_blank\" rel=\"noopener\">Independent</a></span>.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2767866/bournemouth-regressa-as-vitorias-as-custas-de-marco-silva\" target=\"_blank\" rel=\"noopener noreferrer\">Bournemouth regressa às vitórias às custas de Marco Silva</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2767967/elefantes-de-zoo-de-san-diego-unem-se-para-proteger-crias-durante-sismo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Elefantes de zoo de San Diego unem-se para proteger crias durante sismo",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p><a href=\"https://www.thesun.co.uk/sport/34461911/man-utd-aaron-ramsdale-transfer-onana/\" target=\"_blank\" rel=\"noopener\">O The Sun</a> dá conta, esta segunda-feira, do interesse do Manchester United em Aaron Ramsdale, guardião do Southampton, último classificado da Premier League e já despromovido ao segundo escalão do futebol inglês.</p>\n<div class=\"dummyPub\"> </div>\n<p>A contratação de um novo guardião é umas prioridades para o técnico Ruben Amorim em 2025/26, face aos fracos desempenhos de Andre Onana e, mais recentemente, de Altay Bayindir na baliza dos red devils.</p>\n<p>Com três descidas de divisão no currículo, Aaron Ramsdale, de 26 anos, sofreu 57 golos em 32 jornadas da Premier League. Ainda assim, o internacional inglês continua a reunir interessados nos seus serviços. Recorde-se que este já representou equipas como Sheffield United, Bournemouth e Arsenal.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2767852/amorim-para-eduardo-quaresma-como-e-que-queres-jogar-no-sporting\" target=\"_blank\" rel=\"noopener noreferrer\">Amorim para Eduardo Quaresma: \"Como é que queres jogar no Sporting?\"</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2767852/amorim-para-eduardo-quaresma-como-e-que-queres-jogar-no-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Amorim para Eduardo Quaresma: \"Como é que queres jogar no Sporting?\"",
-         "description": "Mateus Fernandes recordou episódio entre ambos no podcast 'Entrelinhas'.",
-         "link": "https://www.noticiasaominuto.com/desporto/2767852/amorim-para-eduardo-quaresma-como-e-que-queres-jogar-no-sporting?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1744663627000,
-         "created": 1744663627000,
-         "category": "Desporto",
-         "content": "<p>Em entrevista ao podcast 'Entrelinhas', apresentado por Afonso Figueiredo, Mateus Fernandes recordou, esta segunda-feira, a passagem pela equipa principal do Sporting, nomeadamente as dificuldades para se afirmar com o então técnico Ruben Amorim. O médio confessou que o empréstimo bem sucedido ao Estoril foi vital para a sua confiança:</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Pensei 'se não jogo no Estoril, como vou jogar no Sporting?'. O meu objetivo sempre foi voltar ao Sporting para jogar. Lembro-me de uma conversa do míster Ruben para o [Eduardo] Quaresma, quando ele veio do Tondela, que ele disse assim 'se não jogas no Tondela, como é que queres jogar no Sporting?' Isso ficou-me na cabeça até hoje. Comecei por ganhar ritmo, andamento, confiança e um jogador assim vai para além das suas expectativas. Um jogador começa a ganhar o gosto por aquilo que faz. E correu tudo muito bem\", lembrou o agora médio do Southampton, já despromovido ao segundo escalão do futebol inglês.</p>\n<p>Ainda assim, Mateus Fernandes, de 20 anos, foi um dos elementos em maior destaque no lanterna vermelha da Premier League, somando 3 golos e 5 cinco assistências em 2024/25.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2767756/amorim-arrasado-apos-pesadelo-do-united-estariam-melhor-com-ten-hag\" target=\"_blank\" rel=\"noopener noreferrer\">Amorim arrasado após pesadelo do United: \"Estariam melhor com Ten Hag\"</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67fd6600d08bc.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Em entrevista ao podcast 'Entrelinhas', apresentado por Afonso Figueiredo, Mateus Fernandes recordou, esta segunda-feira, a passagem pela equipa principal do Sporting, nomeadamente as dificuldades para se afirmar com o então técnico Ruben Amorim. O médio confessou que o empréstimo bem sucedido ao Estoril foi vital para a sua confiança:</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Pensei 'se não jogo no Estoril, como vou jogar no Sporting?'. O meu objetivo sempre foi voltar ao Sporting para jogar. Lembro-me de uma conversa do míster Ruben para o [Eduardo] Quaresma, quando ele veio do Tondela, que ele disse assim 'se não jogas no Tondela, como é que queres jogar no Sporting?' Isso ficou-me na cabeça até hoje. Comecei por ganhar ritmo, andamento, confiança e um jogador assim vai para além das suas expectativas. Um jogador começa a ganhar o gosto por aquilo que faz. E correu tudo muito bem\", lembrou o agora médio do Southampton, já despromovido ao segundo escalão do futebol inglês.</p>\n<p>Ainda assim, Mateus Fernandes, de 20 anos, foi um dos elementos em maior destaque no lanterna vermelha da Premier League, somando 3 golos e 5 cinco assistências em 2024/25.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2767756/amorim-arrasado-apos-pesadelo-do-united-estariam-melhor-com-ten-hag\" target=\"_blank\" rel=\"noopener noreferrer\">Amorim arrasado após pesadelo do United: \"Estariam melhor com Ten Hag\"</a></p>",
          "media": {}
       }
    ]
