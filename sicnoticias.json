@@ -14,8 +14,25 @@
          "published": 1745507433000,
          "created": 1745507433000,
          "category": "Blitz Posto Emissor",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-24-_rc09134ritacarmo.jpg-44412522/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-24-_rc09134ritacarmo.jpg-44412522/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-24-_rc09134ritacarmo.jpg-44412522/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "e10022b0-51f2-42e8-8d1d-401aa59afa70",
