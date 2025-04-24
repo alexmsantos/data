@@ -104,8 +104,25 @@
          "published": 1745492185000,
          "created": 1745492185000,
          "category": "Geração E",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-12-19-claranao_002_small.png-8fa23c59-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-12-19-claranao_002_small.png-8fa23c59-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-12-19-claranao_002_small.png-8fa23c59-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "8c6418e9-d455-4ac0-bed5-7e34e3febeb8",
