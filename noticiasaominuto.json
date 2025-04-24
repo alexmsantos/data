@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2773337/quase-50-mil-pessoas-ja-prestaram-homenagem-ao-papa-desde-quarta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Quase 50 mil pessoas já prestaram homenagem ao Papa desde quarta-feira",
+         "description": "Quase 50 mil pessoas já passaram diante do caixão do Papa Francisco desde a manhã de quarta-feira na Basílica de São Pedro, que permaneceu aberta praticamente toda a noite para receber os fiéis, anunciou hoje o Vaticano.",
+         "link": "https://www.noticiasaominuto.com/mundo/2773337/quase-50-mil-pessoas-ja-prestaram-homenagem-ao-papa-desde-quarta-feira?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1745485584000,
+         "created": 1745485584000,
+         "category": "Mundo",
+         "content": "<p>Entre as 11h00 de quarta-feira (10h00 em Lisboa) no Vaticano e as 08h30 de hoje (07h30 em Lisboa), 48.600 pessoas passaram diante do caixão do Papa para lhe prestar homenagem, incluindo 13.000 fiéis durante a madrugada de hoje, declarou o Vaticano.</p>\n<div class=\"dummyPub\"> </div>\n<p>O velório do Papa está a acontecer na Basílica de São Pedro e vai durar três dias para que os fiéis possam se despedir de Francisco.</p>\n<p>O funeral será realizado no sábado, quando são esperados religiosos, várias autoridades e líderes de todo o mundo para participarem nas exéquias.</p>\n<p>O Papa morreu na segunda-feira aos 88 anos, vítima de um acidente vascular cerebral (AVC), depois de 12 anos de pontificado.</p>\n<p>Nascido em Buenos Aires, em 17 de dezembro de 1936, Francisco foi o primeiro jesuíta e primeiro latino-americano a chegar à liderança da Igreja Católica.</p>\n<p>A última aparição pública aconteceu no domingo de Páscoa, no Vaticano, na véspera de morrer.</p>\n<p>O Papa esteve internado durante 38 dias devido a uma pneumonia bilateral, tendo tido alta em 23 de março.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2773269/ao-minuto-velorio-na-basilica-continua-comeca-luto-nacional-em-portugal\" target=\"_blank\" rel=\"noopener noreferrer\">AO MINUTO: Velório na Basílica continua; Começa luto nacional em Portugal</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6809f0c401403.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Entre as 11h00 de quarta-feira (10h00 em Lisboa) no Vaticano e as 08h30 de hoje (07h30 em Lisboa), 48.600 pessoas passaram diante do caixão do Papa para lhe prestar homenagem, incluindo 13.000 fiéis durante a madrugada de hoje, declarou o Vaticano.</p>\n<div class=\"dummyPub\"> </div>\n<p>O velório do Papa está a acontecer na Basílica de São Pedro e vai durar três dias para que os fiéis possam se despedir de Francisco.</p>\n<p>O funeral será realizado no sábado, quando são esperados religiosos, várias autoridades e líderes de todo o mundo para participarem nas exéquias.</p>\n<p>O Papa morreu na segunda-feira aos 88 anos, vítima de um acidente vascular cerebral (AVC), depois de 12 anos de pontificado.</p>\n<p>Nascido em Buenos Aires, em 17 de dezembro de 1936, Francisco foi o primeiro jesuíta e primeiro latino-americano a chegar à liderança da Igreja Católica.</p>\n<p>A última aparição pública aconteceu no domingo de Páscoa, no Vaticano, na véspera de morrer.</p>\n<p>O Papa esteve internado durante 38 dias devido a uma pneumonia bilateral, tendo tido alta em 23 de março.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2773269/ao-minuto-velorio-na-basilica-continua-comeca-luto-nacional-em-portugal\" target=\"_blank\" rel=\"noopener noreferrer\">AO MINUTO: Velório na Basílica continua; Começa luto nacional em Portugal</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2773333/final-da-taca-de-199596-prosseguiu-para-evitar-tragedia-ainda-maior?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Final da Taça de 1995/96 prosseguiu para evitar tragédia ainda maior",
@@ -1870,7 +1893,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/politica/2773240/pan-admite-dialogar-com-proximo-governo-seja-a-esquerda-ou-a-direita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PAN admite dialogar com próximo Governo seja à esquerda ou à direita",
+         "title": "PAN admite dialogar com próximo Governo seja à Esquerda ou à Direita",
          "description": "A porta-voz do PAN admite dialogar com um futuro Governo da AD ou do PS, mas exige respeito pelas \"linhas verdes\" do partido como a proteção animal, a defesa do ambiente e dos direitos das mulheres.",
          "link": "https://www.noticiasaominuto.com/politica/2773240/pan-admite-dialogar-com-proximo-governo-seja-a-esquerda-ou-a-direita?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>\"Somos contra a tentativa de silenciamento e censura que o PS quer impor à informação institucional da Câmara Municipal de Lisboa\", afirmou o vereador do Espaço Público, Diogo Moura (CDS-PP), justificando o voto contra da liderança PSD/CDS-PP, que governa sem maioria absoluta, ao que o PS se manifestou chocado por se acabar a \"menorizar a censura\".</p>\n<div class=\"dummyPub\"> </div>\n<p>Em reunião pública da câmara, a proposta foi aprovada com os votos a favor de todos os vereadores da oposição, nomeadamente PS, Livre, Cidadãos Por Lisboa (eleitos pela coligação PS/Livre), PCP e BE.</p>\n<p>Além de determinar que a câmara tem de se abster de utilizar a rede municipal de publicidade institucional para fins de propaganda política e eleitoral, a proposta estabelece a limitação da sua utilização a, por exemplo, emissão de alertas em contexto de catástrofe, informação de constrangimentos resultantes de obras ou outros, como cortes ou ocupação de via pública, alterações de sentido de trânsito ou alteração na rotina de horários de transportes ou de recolha de resíduos.</p>\n<p>Outras das informações contempladas são sobre impactos que se antecipem em serviços prestados, como, por exemplo, por motivo de avaria ou greve; divulgação de eventos ou iniciativas - culturais, provas desportivas ou outras -; realização de conferências, períodos de consulta pública ou debates públicos com importância para a cidade; e divulgação de prazos de candidatura no âmbito de programas municipais.</p>\n<p>Na apresentação da proposta, o vereador do PS Pedro Anastácio disse que existe \"um comportamento desviante\" na utilização da rede municipal de publicidade institucional, porque \"é utilizada para tudo, menos para aquilo que serve para as pessoas\".</p>\n<p>Defendendo que esta rede deve ser utilizada para dar informação útil aos munícipes, o socialista lamentou que a mesma seja utilizada pelo presidente da câmara, Carlos Moedas (PSD), para \"autoelogio\", dando como exemplo a divulgação de \"2.000 chaves entregues\", o que considera \"nada relevante\" em termos de informação institucional.</p>\n<p>Pedro Anastácio ressalvou que esta propaganda política é proibida durante períodos de campanha eleitoral, pelo que se verifica \"uma violação da lei\".</p>\n<p>Também a vereadora do BE, Beatriz Gomes Dias, manifestou preocupação com a propaganda política na rede municipal de publicidade institucional, defendendo que \"regras claras\" para a sua utilização.</p>\n<p>Rui Franco, dos Cidadãos Por Lisboa, disse que o que passa na rede de publicidade institucional \"é verdadeira propaganda\" e \"é propaganda com mentira\", avisando a liderança PSD/CDS-PP que as deliberações da câmara são para cumprir.</p>\n<p>Do PCP, Ana Jara concordou que existe \"uma má utilização\" da rede de publicidade institucional, com o uso para propaganda política, problema a \"acresce o afã de sonegar o espaço de propaganda pública de outros partidos políticos em espaço público da cidade\".</p>\n<p>Na ausência do presidente da câmara, a vereador do PSD Filipa Roseta considerou que a proposta do PS de ir além da lei quanto à publicidade institucional tem está na \"linha da censura\" e defendeu que na rede municipal é dada \"informação pura e dura\", a dar conta das atividades da câmara, considerando que a ideia de \"glorificação\" é uma interpretação da oposição.</p>\n<p>Numa declaração enviada à Lusa, Carlos Moedas disse estar \"estupefacto com a censura imposta pelo PS\" e considerou que \"este PS autoritário é uma ameaça à democracia\".</p>\n<p>\"Mas não me conseguirão silenciar, nem aos serviços da Câmara Municipal de Lisboa\", avisou o presidente do executivo camarário.</p>\n<p>Atualmente, o executivo da Câmara de Lisboa, que é composto por 17 membros, integra sete eleitos da coligação \"Novos Tempos\" (PSD/CDS-PP/MPT/PPM/Aliança) - que são os únicos com pelouros atribuídos e que governam sem maioria absoluta -, três do PS, dois do PCP, três do Cidadãos Por Lisboa (eleitos pela coligação PS/Livre), um do Livre e um do BE.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/cultura/2773172/lisboa-atribui-medalhas-da-cidade-a-sergio-godinho-e-manuela-eanes\" target=\"_blank\" rel=\"noopener noreferrer\">Lisboa atribui Medalhas da Cidade a Sérgio Godinho e Manuela Eanes</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2773200/far-rabat-de-alexandre-santos-reforca-o-segundo-lugar-em-marrocos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "FAR Rabat, de Alexandre Santos, reforça o segundo lugar em Marrocos",
-         "description": "Conjunto orientado pelo técnico português venceu o CR Salmi.",
-         "link": "https://www.noticiasaominuto.com/desporto/2773200/far-rabat-de-alexandre-santos-reforca-o-segundo-lugar-em-marrocos?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1745451637000,
-         "created": 1745451637000,
-         "category": "Desporto",
-         "content": "<p>O FAR Rabat, treinado pelo português Alexandre Santos, recebeu e venceu, esta quarta-feira, o CR Salmi, por 2-0, em jogo a contar para a 27ª jornada do campeonato marroquino.</p>\n<div class=\"dummyPub\"> </div>\n<p>Mohamed Hrimat, aos 56 minutos, e Hammoudan, aos 58 minutos, anotaram os dois golos do triunfo caseiro do técnico português.</p>\n<p>Com este triunfo o FAR Rabat consolidou o segundo lugar, que dá apuramento para a Liga dos Campeões de África, com 51 pontos, beneficiando do empate do terceiro classificado, Wydad, no terreno do Safi (1-1). O CR Salmi é 14.º classificado com 22 pontos.</p>\n<p>A equipa orientada por Alexandre Santos tem agora seis pontos de avanço sobre o mais direto perseguidor, que vai defrontar, fora de portas, na próxima jornada.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2773195/bernardo-silva-e-joao-felix-regressam-no-verao-a-resposta-de-bruno-lage\" target=\"_blank\" rel=\"noopener noreferrer\">Bernardo Silva e João Félix regressam no verão? A resposta de Bruno Lage</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67b8baacd55ec.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O FAR Rabat, treinado pelo português Alexandre Santos, recebeu e venceu, esta quarta-feira, o CR Salmi, por 2-0, em jogo a contar para a 27ª jornada do campeonato marroquino.</p>\n<div class=\"dummyPub\"> </div>\n<p>Mohamed Hrimat, aos 56 minutos, e Hammoudan, aos 58 minutos, anotaram os dois golos do triunfo caseiro do técnico português.</p>\n<p>Com este triunfo o FAR Rabat consolidou o segundo lugar, que dá apuramento para a Liga dos Campeões de África, com 51 pontos, beneficiando do empate do terceiro classificado, Wydad, no terreno do Safi (1-1). O CR Salmi é 14.º classificado com 22 pontos.</p>\n<p>A equipa orientada por Alexandre Santos tem agora seis pontos de avanço sobre o mais direto perseguidor, que vai defrontar, fora de portas, na próxima jornada.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2773195/bernardo-silva-e-joao-felix-regressam-no-verao-a-resposta-de-bruno-lage\" target=\"_blank\" rel=\"noopener noreferrer\">Bernardo Silva e João Félix regressam no verão? A resposta de Bruno Lage</a></p>",
          "media": {}
       }
    ]
