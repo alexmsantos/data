@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2025 em Portugal",
+         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para o novo ano: uma agenda sempre em atualização</p>",
+         "link": "https://expresso.pt/blitz/2025-04-28-todos-os-concertos-marcados-para-2025-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1745843100000,
+         "created": 1745843100000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-16-alive7195_ritacarmo.jpg-a458d0b2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-16-alive7195_ritacarmo.jpg-a458d0b2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-16-alive7195_ritacarmo.jpg-a458d0b2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "7edc9443-ae05-4763-aad7-7f8e785c0523",
          "title": "Novo Papa: conclave inicia-se a 7 de maio",
          "description": "<p>Os cardeais participarão numa missa solene no Vaticano, na manhã do dia 7, antes de os eleitores com menos de 80 anos se reunirem na Capela Sistina à tarde, para uma votação à porta fechada, que poderá durar vários dias</p>",
@@ -248,35 +277,6 @@
          "category": "Geração E",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "aa12ad8a-908b-4cda-8da2-c5af48c60b0b",
-         "title": "Capitão Fausto anunciam concerto na Meo Arena em 2026",
-         "description": "<p>Os Capitão Fausto irão estrear-se em nome próprio na maior sala de espetáculos do país</p>",
-         "link": "https://expresso.pt/blitz/2025-04-28-capitao-fausto-anunciam-concerto-na-meo-arena-em-2026-fa5a327c",
-         "author": "BLITZ",
-         "published": 1745830227000,
-         "created": 1745830227000,
-         "category": "Blitz",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-28-capitao-fausto.jpg-09442e92/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-28-capitao-fausto.jpg-09442e92/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-28-capitao-fausto.jpg-09442e92/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
