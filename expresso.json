@@ -14,8 +14,25 @@
          "published": 1745919066000,
          "created": 1745919066000,
          "category": "Apagão",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-18-redes-sociais---aplicacoes-991947fb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-18-redes-sociais---aplicacoes-991947fb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-18-redes-sociais---aplicacoes-991947fb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "80ecf3b9-d282-45c1-91ba-af8de3e1a917",
@@ -44,6 +61,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-04-28-apagao-energetico-em-portugal-espanha-e-franca-51fb5781-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "693b2c0a-ae2b-49a3-8bbc-7cbc7a776a33",
+         "title": "Maior parte dos embarques no aeroporto de Lisboa está a funcionar",
+         "description": "<p>Até às 10:00, pelo menos 10 voos foram cancelados e há uma longa fila de passageiros a reclamar malas perdidas</p>",
+         "link": "https://expresso.pt/lusa/2025-04-29-maior-parte-dos-embarques-no-aeroporto-de-lisboa-esta-a-funcionar-0b221483",
+         "author": "Agência Lusa",
+         "published": 1745918912000,
+         "created": 1745918912000,
+         "category": "Lusa",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-28-aeroporto-apagao-lisboa-5f33eab4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-28-aeroporto-apagao-lisboa-5f33eab4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-28-aeroporto-apagao-lisboa-5f33eab4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -247,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2022-06-21-Henrique-Burnay.png-0edf0dd0-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
-         "title": "Todos os concertos marcados para 2025 em Portugal",
-         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para o novo ano: uma agenda sempre em atualização</p>",
-         "link": "https://expresso.pt/blitz/2025-04-29-todos-os-concertos-marcados-para-2025-em-portugal-53436cea",
-         "author": "BLITZ",
-         "published": 1745915880000,
-         "created": 1745915880000,
-         "category": "Blitz",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-16-alive7195_ritacarmo.jpg-a458d0b2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-16-alive7195_ritacarmo.jpg-a458d0b2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-16-alive7195_ritacarmo.jpg-a458d0b2/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
