@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2775879/servico-do-metro-de-lisboa-retomado-nas-linhas-azul-e-vermelha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Serviço do Metro de Lisboa retomado nas Linhas Azul e Vermelha",
+         "description": "A circulação nas Linhas Azul e Vermelha do Metropolitano de Lisboa (ML) foi já retomada esta manhã, esperando-se o restabelecimento na Amarela e Verde em breve, informou a empresa.",
+         "link": "https://www.noticiasaominuto.com/economia/2775879/servico-do-metro-de-lisboa-retomado-nas-linhas-azul-e-vermelha?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1745915680000,
+         "created": 1745915680000,
+         "category": "Economia",
+         "content": "<p>A circulação no Metropolitano de Lisboa foi interrompida na segunda-feira devido ao apagão no abastecimento elétrico.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"O Metropolitano de Lisboa teve uma vasta equipa a trabalhar durante a noite de ontem [segunda-feira] e a madrugada de hoje para assegurar a reposição dos sistemas operacionais afetados pela falha generalizada de energia ontem ocorrida\", informou hoje o ML em comunicado.</p>\n<p>De acordo com a empresa registam-se ainda constrangimentos em alguns sistemas, que estão a ser acompanhados e intervencionados.</p>\n<p>O Metropolitano de Lisboa opera diariamente com quatro linhas: Amarela (Rato-Odivelas), Verde (Telheiras-Cais do Sodré), Azul (Reboleira-Santa Apolónia) e Vermelha (Aeroporto-São Sebastião).</p>\n<p>Normalmente, o metro funciona entre as 06h30 e as 01h00.</p>\n<p>Um corte generalizado no abastecimento elétrico afetou na segunda-feira, desde as 11h30, Portugal e Espanha, situação que continua sem ter explicação por parte das autoridades.</p>\n<p>Aeroportos fechados, congestionamento nos transportes e no trânsito nas grandes cidades foram algumas das consequências do \"apagão\".</p>\n<p>O restabelecimento de energia aconteceu de forma gradual ao longo do dia, começando pela zona centro do país.</p>\n<p>O operador de rede de distribuição de eletricidade E-Redes garantiu hoje que o serviço está totalmente reposto e normalizado.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2775836/ao-minuto-escolas-devem-funcionar-com-normalidade-fertagus-retoma\" target=\"_blank\" rel=\"noopener noreferrer\">AO MINUTO: Governo faz ponto de situação; Rede reposta a 100%</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_617a686edb8c6.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>A circulação no Metropolitano de Lisboa foi interrompida na segunda-feira devido ao apagão no abastecimento elétrico.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"O Metropolitano de Lisboa teve uma vasta equipa a trabalhar durante a noite de ontem [segunda-feira] e a madrugada de hoje para assegurar a reposição dos sistemas operacionais afetados pela falha generalizada de energia ontem ocorrida\", informou hoje o ML em comunicado.</p>\n<p>De acordo com a empresa registam-se ainda constrangimentos em alguns sistemas, que estão a ser acompanhados e intervencionados.</p>\n<p>O Metropolitano de Lisboa opera diariamente com quatro linhas: Amarela (Rato-Odivelas), Verde (Telheiras-Cais do Sodré), Azul (Reboleira-Santa Apolónia) e Vermelha (Aeroporto-São Sebastião).</p>\n<p>Normalmente, o metro funciona entre as 06h30 e as 01h00.</p>\n<p>Um corte generalizado no abastecimento elétrico afetou na segunda-feira, desde as 11h30, Portugal e Espanha, situação que continua sem ter explicação por parte das autoridades.</p>\n<p>Aeroportos fechados, congestionamento nos transportes e no trânsito nas grandes cidades foram algumas das consequências do \"apagão\".</p>\n<p>O restabelecimento de energia aconteceu de forma gradual ao longo do dia, começando pela zona centro do país.</p>\n<p>O operador de rede de distribuição de eletricidade E-Redes garantiu hoje que o serviço está totalmente reposto e normalizado.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2775836/ao-minuto-escolas-devem-funcionar-com-normalidade-fertagus-retoma\" target=\"_blank\" rel=\"noopener noreferrer\">AO MINUTO: Governo faz ponto de situação; Rede reposta a 100%</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2775816/hoje-e-noticia-pais-as-escuras-professor-pagou-para-se-reformar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Hoje é notícia: País às escuras; Professor pagou para se reformar",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Uma semana depois de vencer o Inter Milão (1-0), o Bolonha não encontrou soluções para superar a Udinese e empatou 0-0. A equipa de Udine, que está na zona tranquila da tabela, vinha de uma série de cinco derrotas.</p>\n<div class=\"dummyPub\"> </div>\n<p>A Lazio esteve perto da derrota, no Estádio Olímpico de Roma, chegando perto do fim a perder por 2-0 frente ao Parma, só alcançando o empate nos últimos minutos.</p>\n<p>O Bolonha, que era quarto classificado antes da ronda, cede a posição para a Juventus, vitoriosa do Monza no domingo. A 'Juve' passa a ter 62 pontos, contra 61 do Bolonha.</p>\n<p>A fazer uma grande época, o Bolonha irá jogar em 14 de maio a final da Taça, contra o AC Milan, de Sérgio Conceição.</p>\n<p>No Olímpico de Roma, a Lazio esteve a viver um 'pesadelo' desde bem cedo, com o golo visitante de Jacob Ondrejka aos três minutos. O sueco elevou para 2-0, aos 46 minutos.</p>\n<p>Os golos do espanhol Pedro, aos 79 e 84, ainda deram para assegurar um ponto, que deixa os romanos com 60 pontos, na sétima posição.</p>\n<p>A três jornadas do fim da Serie A, três pontos apenas separam o quarto, que é a Juventus (62), e o oitavo, a Fiorentina (59).</p>\n<p>Na luta pela manutenção, o Cagliari ganhou por 2-0 ao Verona, subindo de 16.º para 14.º, já com oito pontos de vantagem sobre o Veneza, o primeiro em lugar de despromoção, com 25 pontos.</p>\n<p>O Verona é 15.º, com 32 pontos.</p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2775730/espanha-sentiu-quebra-momentanea-de-segundos-antes-da-avaria-total?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Espanha sentiu quebra momentânea de segundos antes da avaria total",
-         "description": "As autoridades espanholas afirmam que às 12h33 locais, momento em que eclodiu o apagão maciço que afetou a Península Ibérica, \"desapareceram subitamente\" da rede, durante cinco segundos, cerca de 60% da energia em consumo no momento.",
-         "link": "https://www.noticiasaominuto.com/mundo/2775730/espanha-sentiu-quebra-momentanea-de-segundos-antes-da-avaria-total?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1745879863000,
-         "created": 1745879863000,
-         "category": "Mundo",
-         "content": "<p>Segundo a agência noticiosa espanhola Efe, citando autoridades espanholas, pelas 12h33 \"desapareceram subitamente\" durante cerca de cinco segundos 15 gigawatts da energia da rede espanhola.</p>\n<div class=\"dummyPub\"> </div>\n<p>Fontes governamentais adiantaram à Efe que \"as causas desta anomalia\" -- que durou o dia todo e começou a ser reposta já à noite -- \"estão a ser investigadas\".</p>\n<p>Dez horas depois da avaria, 38% das subestações elétricas ainda estavam fora de serviço e 57% da procura ainda estava sem fornecimento.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2775726/apagao-11-comboios-ainda-retidos-em-espanha-com-passageiros-a-bordo\" target=\"_blank\" rel=\"noopener noreferrer\">Apagão: 11 comboios ainda retidos em Espanha com passageiros a bordo</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_680ff1a643fd5.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Segundo a agência noticiosa espanhola Efe, citando autoridades espanholas, pelas 12h33 \"desapareceram subitamente\" durante cerca de cinco segundos 15 gigawatts da energia da rede espanhola.</p>\n<div class=\"dummyPub\"> </div>\n<p>Fontes governamentais adiantaram à Efe que \"as causas desta anomalia\" -- que durou o dia todo e começou a ser reposta já à noite -- \"estão a ser investigadas\".</p>\n<p>Dez horas depois da avaria, 38% das subestações elétricas ainda estavam fora de serviço e 57% da procura ainda estava sem fornecimento.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2775726/apagao-11-comboios-ainda-retidos-em-espanha-com-passageiros-a-bordo\" target=\"_blank\" rel=\"noopener noreferrer\">Apagão: 11 comboios ainda retidos em Espanha com passageiros a bordo</a></p>",
          "media": {}
       }
    ]
