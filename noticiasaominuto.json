@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2776478/mao-pesada-rudiger-enfrenta-seis-jogos-de-castigo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mão pesada: Rudiger enfrenta seis jogos de castigo",
+         "description": "Defesa-central penalizado após os incidentes ocorridos na final da Taça do Rei de Espanha, entre o Real Madrid e o Barcelona.",
+         "link": "https://www.noticiasaominuto.com/desporto/2776478/mao-pesada-rudiger-enfrenta-seis-jogos-de-castigo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1745956086000,
+         "created": 1745956086000,
+         "category": "Desporto",
+         "content": "<p>[Notícia em atualização] Rudiger foi castigado com seis jogos de suspensão, após os incidentes ocorridos na final da Taça do Rei de Espanha, entre o Real Madrid e o Barcelona.</p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68111f0c57534.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>[Notícia em atualização] Rudiger foi castigado com seis jogos de suspensão, após os incidentes ocorridos na final da Taça do Rei de Espanha, entre o Real Madrid e o Barcelona.</p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2776468/capitania-do-funchal-prolonga-avisos-ligacao-maritima-com-porto-santo-afetada?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Capitania do Funchal prolonga avisos, ligação marítima com Porto Santo afetada",
@@ -2271,7 +2294,7 @@
          "published": 1745944181000,
          "created": 1745944181000,
          "category": "País",
-         "content": "<p>Três homens, com idades compreendidas entre os 20 e os 24 anos, foram detidos, na segunda-feira, por roubo com recurso a arma de fogo, numa instituição bancária, em Maceira, no concelho de Leiria. Foi subtraído o valor de aproximadamente 71.000 euros.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Na sequência de uma denúncia a dar conta da ocorrência de um roubo, com recurso a arma de fogo, numa instituição bancária [...], os militares da Guarda deslocaram-se de imediato ao local e encetaram diligências policiais que permitiram identificar os suspeitos\", informa a GNR através de um comunicado.</p>\n<p>Um dos indivíduos foi detido \"em flagrante\", enquanto os outros dois foram, posteriormente, detidos, em articulação com o Tribunal Judicial de Leiria. </p>\n<p>Note-se que \"os suspeitos possuem antecedentes criminais pela prática de ilícitos da mesma natureza\". </p>\n<p>A GNR conseguiu recuperar o montante subtraído, no valor de aproximadamente 71.000 euros, tendo também apreendido \"diversos objetos utilizados na prática do ilícito\": uma arma de fogo e uma arma de alarme.</p>\n<p>\"Os três suspeitos permanecem detidos até serem presentes no Tribunal Judicial de Leiria\", lê-se.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2776317/gnr-apreende-1222-artigos-nas-caldas-da-rainha-identificadas-10-pessoas\" target=\"_blank\" rel=\"noopener noreferrer\">GNR apreende 1.222 artigos nas Caldas da Rainha. Identificadas 10 pessoas</a></p>",
+         "content": "<p>Três homens, com idades compreendidas entre os 20 e os 24 anos, foram detidos, na segunda-feira, por roubo com recurso a arma de fogo, numa instituição bancária, em Maceira, no concelho de Leiria. Foi subtraído o valor de aproximadamente 71.000 euros.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Na sequência de uma denúncia a dar conta da ocorrência de um roubo, com recurso a arma de fogo, numa instituição bancária [...], os militares da Guarda deslocaram-se de imediato ao local e encetaram diligências policiais que permitiram identificar os suspeitos\", informa a GNR através de um comunicado.</p>\n<p>Um dos indivíduos foi detido \"em flagrante\", enquanto os outros dois foram, posteriormente, detidos, em articulação com o Tribunal Judicial de Leiria. </p>\n<p>Note-se que \"os suspeitos possuem antecedentes criminais pela prática de ilícitos da mesma natureza\". </p>\n<p>A GNR conseguiu recuperar o montante subtraído, no valor de aproximadamente 71.000 euros, tendo também sido apreendido, pela Policia Judiciária, \"diversos objetos utilizados na prática do ilícito\": uma arma de fogo e uma arma de alarme.</p>\n<p>\"Os três suspeitos permanecem detidos até serem presentes no Tribunal Judicial de Leiria\", lê-se.</p>\n<p>A investigação transitou para a alçada da Polícia Judiciária (PJ), \"dada a natureza e gravidade do crime\".</p>\n<p>[Notícia atualizada às 19h47]</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2776317/gnr-apreende-1222-artigos-nas-caldas-da-rainha-identificadas-10-pessoas\" target=\"_blank\" rel=\"noopener noreferrer\">GNR apreende 1.222 artigos nas Caldas da Rainha. Identificadas 10 pessoas</a></p>",
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6810eee6b8b94.jpg",
@@ -2279,30 +2302,7 @@
                "length": "0"
             }
          ],
-         "content_encoded": "<p>Três homens, com idades compreendidas entre os 20 e os 24 anos, foram detidos, na segunda-feira, por roubo com recurso a arma de fogo, numa instituição bancária, em Maceira, no concelho de Leiria. Foi subtraído o valor de aproximadamente 71.000 euros.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Na sequência de uma denúncia a dar conta da ocorrência de um roubo, com recurso a arma de fogo, numa instituição bancária [...], os militares da Guarda deslocaram-se de imediato ao local e encetaram diligências policiais que permitiram identificar os suspeitos\", informa a GNR através de um comunicado.</p>\n<p>Um dos indivíduos foi detido \"em flagrante\", enquanto os outros dois foram, posteriormente, detidos, em articulação com o Tribunal Judicial de Leiria. </p>\n<p>Note-se que \"os suspeitos possuem antecedentes criminais pela prática de ilícitos da mesma natureza\". </p>\n<p>A GNR conseguiu recuperar o montante subtraído, no valor de aproximadamente 71.000 euros, tendo também apreendido \"diversos objetos utilizados na prática do ilícito\": uma arma de fogo e uma arma de alarme.</p>\n<p>\"Os três suspeitos permanecem detidos até serem presentes no Tribunal Judicial de Leiria\", lê-se.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2776317/gnr-apreende-1222-artigos-nas-caldas-da-rainha-identificadas-10-pessoas\" target=\"_blank\" rel=\"noopener noreferrer\">GNR apreende 1.222 artigos nas Caldas da Rainha. Identificadas 10 pessoas</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2776336/banco-de-portugal-instaurou-115-processos-no-1-trimestre-do-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Banco de Portugal instaurou 115 processos no 1.º trimestre do ano",
-         "description": "O Banco de Portugal (BdP) instaurou 115 processos de contraordenação e concluiu 221 nos primeiros três meses de 2025, tendo aplicado coimas de 1,83 milhões de euros, anunciou esta terça-feira o regulador.",
-         "link": "https://www.noticiasaominuto.com/economia/2776336/banco-de-portugal-instaurou-115-processos-no-1-trimestre-do-ano?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1745944138000,
-         "created": 1745944138000,
-         "category": "Economia",
-         "content": "<p>Segundo a síntese de atividade sancionatória do BdP relativa ao período entre janeiro e março, \"dos 115 processos instaurados, 101 respeitam a infrações relacionadas com atividade financeira ilícita, 13 respeitam a infrações de natureza prudencial e um respeita a infrações de natureza comportamental\".</p>\n<div class=\"dummyPub\"> </div>\n<p>Já nos processos concluídos, \"110 respeitam a infrações de natureza comportamental, 78 respeitam a infrações relacionadas com atividade financeira ilícita, 17 respeitam a infrações de natureza prudencial, 15 respeitam a infrações a deveres relativos à prevenção do branqueamento de capitais e do financiamento do terrorismo e um respeita a infrações às regras em matéria de recirculação de numerário\".</p>\n<p>O BdP informou ainda que, no âmbito destes processos concluídos, foram aplicadas coimas que totalizaram 1.831.250,00 euros, dos quais 40.000 euros suspensos na sua execução.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2776162/faz-transferencias-bancarias-depois-do-n-de-telemovel-outra-novidade\" target=\"_blank\" rel=\"noopener noreferrer\">Faz transferências bancárias? Depois do n.º de telemóvel, outra novidade</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/14716561.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Segundo a síntese de atividade sancionatória do BdP relativa ao período entre janeiro e março, \"dos 115 processos instaurados, 101 respeitam a infrações relacionadas com atividade financeira ilícita, 13 respeitam a infrações de natureza prudencial e um respeita a infrações de natureza comportamental\".</p>\n<div class=\"dummyPub\"> </div>\n<p>Já nos processos concluídos, \"110 respeitam a infrações de natureza comportamental, 78 respeitam a infrações relacionadas com atividade financeira ilícita, 17 respeitam a infrações de natureza prudencial, 15 respeitam a infrações a deveres relativos à prevenção do branqueamento de capitais e do financiamento do terrorismo e um respeita a infrações às regras em matéria de recirculação de numerário\".</p>\n<p>O BdP informou ainda que, no âmbito destes processos concluídos, foram aplicadas coimas que totalizaram 1.831.250,00 euros, dos quais 40.000 euros suspensos na sua execução.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2776162/faz-transferencias-bancarias-depois-do-n-de-telemovel-outra-novidade\" target=\"_blank\" rel=\"noopener noreferrer\">Faz transferências bancárias? Depois do n.º de telemóvel, outra novidade</a></p>",
+         "content_encoded": "<p>Três homens, com idades compreendidas entre os 20 e os 24 anos, foram detidos, na segunda-feira, por roubo com recurso a arma de fogo, numa instituição bancária, em Maceira, no concelho de Leiria. Foi subtraído o valor de aproximadamente 71.000 euros.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Na sequência de uma denúncia a dar conta da ocorrência de um roubo, com recurso a arma de fogo, numa instituição bancária [...], os militares da Guarda deslocaram-se de imediato ao local e encetaram diligências policiais que permitiram identificar os suspeitos\", informa a GNR através de um comunicado.</p>\n<p>Um dos indivíduos foi detido \"em flagrante\", enquanto os outros dois foram, posteriormente, detidos, em articulação com o Tribunal Judicial de Leiria. </p>\n<p>Note-se que \"os suspeitos possuem antecedentes criminais pela prática de ilícitos da mesma natureza\". </p>\n<p>A GNR conseguiu recuperar o montante subtraído, no valor de aproximadamente 71.000 euros, tendo também sido apreendido, pela Policia Judiciária, \"diversos objetos utilizados na prática do ilícito\": uma arma de fogo e uma arma de alarme.</p>\n<p>\"Os três suspeitos permanecem detidos até serem presentes no Tribunal Judicial de Leiria\", lê-se.</p>\n<p>A investigação transitou para a alçada da Polícia Judiciária (PJ), \"dada a natureza e gravidade do crime\".</p>\n<p>[Notícia atualizada às 19h47]</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2776317/gnr-apreende-1222-artigos-nas-caldas-da-rainha-identificadas-10-pessoas\" target=\"_blank\" rel=\"noopener noreferrer\">GNR apreende 1.222 artigos nas Caldas da Rainha. Identificadas 10 pessoas</a></p>",
          "media": {}
       }
    ]
