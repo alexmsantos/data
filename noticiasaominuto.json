@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2777041/varias-feridos-em-atropelamento-em-copenhaga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Várias feridos em atropelamento em Copenhaga",
+         "description": "Pelo menos cinco pessoas ficaram feridas, esta quarta-feira, num atropelamento em Copenhaga, avança a Reuters.",
+         "link": "https://www.noticiasaominuto.com/mundo/2777041/varias-feridos-em-atropelamento-em-copenhaga?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1746026110000,
+         "created": 1746026110000,
+         "category": "Mundo",
+         "content": "<p>[Notícia em atualização]</p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>[Notícia em atualização]</p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2777035/excedente-do-estado-sobe-para-1592-3-milhoes-ate-marco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Excedente do Estado sobe para 1.592,3 milhões até março",
@@ -26,6 +49,29 @@
             }
          ],
          "content_encoded": "<p>\"As Administrações Públicas (AP) registaram, em março de 2025, um excedente de 1.592,3 milhões de euros, o que significa um aumento de 1.715,8 milhões de euros face ao período homólogo\", lê-se na síntese da DGO.</p>\n<div class=\"dummyPub\"> </div>\n<p>Este resultado deve-se a \"um crescimento da receita (9,6%) superior ao ocorrido na despesa (2,9%)\", explica.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2777006/prejuizos-do-apagao-em-areas-nao-recuperaveis-rondarao-os-15-milhoes\" target=\"_blank\" rel=\"noopener noreferrer\">Prejuízos do apagão em áreas não recuperáveis rondarão os 15 milhões</a></p>",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2777034/receita-fiscal-do-estado-sobe-12-5-para-13562-6-milhoes-ate-marco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Receita fiscal do Estado sobe 12,5% para 13.562,6 milhões até março",
+         "description": "A receita fiscal do Estado subiu 12,5% para 13.562,6 milhões de euros até março, impulsionada pelo IRS e IRC, de acordo com a síntese de execução orçamental.",
+         "link": "https://www.noticiasaominuto.com/economia/2777034/receita-fiscal-do-estado-sobe-12-5-para-13562-6-milhoes-ate-marco?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1746025869000,
+         "created": 1746025869000,
+         "category": "Economia",
+         "content": "<p>\"Em março de 2025, a receita fiscal acumulada do subsetor Estado totalizou 13.562,6 milhões de euros. Este valor representou um aumento de 1.502,7 milhões de euros (+12,5%) face ao período homólogo\", revelou o documento da Direção-Geral do Orçamento (DGO).</p>\n<div class=\"dummyPub\"> </div>\n<p>Nos impostos diretos, destaca-se um crescimento de 287,6 milhões de euros ou 6,1%, devido à evolução da receita do IRS -- Imposto sobre o Rendimento de Pessoas Singulares (+4,8%) e à receita do IRC -- Imposto sobre o Rendimento de pessoas Coletivas (+22,7%).</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2776654/dgo-divulga-hoje-execucao-orcamental-ate-marco\" target=\"_blank\" rel=\"noopener noreferrer\">DGO divulga hoje execução orçamental até março</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/42585609.JPG",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>\"Em março de 2025, a receita fiscal acumulada do subsetor Estado totalizou 13.562,6 milhões de euros. Este valor representou um aumento de 1.502,7 milhões de euros (+12,5%) face ao período homólogo\", revelou o documento da Direção-Geral do Orçamento (DGO).</p>\n<div class=\"dummyPub\"> </div>\n<p>Nos impostos diretos, destaca-se um crescimento de 287,6 milhões de euros ou 6,1%, devido à evolução da receita do IRS -- Imposto sobre o Rendimento de Pessoas Singulares (+4,8%) e à receita do IRC -- Imposto sobre o Rendimento de pessoas Coletivas (+22,7%).</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2776654/dgo-divulga-hoje-execucao-orcamental-ate-marco\" target=\"_blank\" rel=\"noopener noreferrer\">DGO divulga hoje execução orçamental até março</a></p>",
          "media": {}
       },
       {
@@ -2257,52 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Há algumas aplicações que, por muito úteis que sejam, representam verdadeiros riscos para a privacidade dos utilizadores - não só pela quantidade de permissões que exigem, como também por partilharem os dados recolhidos com terceiros.</p>\n<div class=\"dummyPub\"> </div>\n<p>Ainda que estas apps possam ser transparentes em relação à partilha dos dados pessoais com terceiros, os utilizadores estão no direito de não ficar satisfeitos com estas práticas e de deixar de as usar. Mas quais são as apps que representam o maior risco para a privacidade dos utilizadores?</p>\n<p>O <a href=\"https://www.techtudo.com.br/listas/2025/04/7-apps-que-podem-estar-colocando-sua-privacidade-em-perigo-e-voce-nao-sabe-edapps.ghtml\" target=\"_blank\" rel=\"noopener\">site TechTudo</a> fez uma lista com as aplicações que mais dados recolhem e partilham com terceiros e pode ficar a conhecê-las na galeria acima.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/tech/2768126/telemovel-caiu-a-agua-eis-o-que-deve-e-nao-deve-fazer\" target=\"_blank\" rel=\"noopener noreferrer\">Telemóvel caiu à água? Eis o que deve (e não deve) fazer</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2776844/da-taca-a-i-liga-sporting-mostra-festejos-no-norte-de-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Da Taça à I Liga. Sporting mostra duplo festejo no Norte de Portugal",
-         "description": "Leões divulgaram um vídeo a dar conta das visitas à Mata Real e ao Bessa.",
-         "link": "https://www.noticiasaominuto.com/desporto/2776844/da-taca-a-i-liga-sporting-mostra-festejos-no-norte-de-portugal?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1746012407000,
-         "created": 1746012407000,
-         "category": "Desporto",
-         "content": "<p>O Sporting divulgou um vídeo, esta quarta-feira, a dar conta dos bastidores das deslocações da equipa de Rui Borges à Mata Real e ao Estádio do Bessa, na semana passada, onde triunfou frente a Rio Ave (1-2) e Boavista (0-5), respetivamente.</p>\n<div class=\"dummyPub\"> </div>\n<p>Tanto no duelo da Taça de Portugal, como no campeonato, os leões foram 'empurrados' por um autêntico 'show' dos adeptos nas bancadas, sendo que também os gritos no balneário se destacaram entre as imagens divulgadas pelo clube de Alvalade.</p>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Espreite o vídeo.</span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2775964/hjulmand-deixa-sporting-em-sobressalto-eu-poupava-o-para-a-luz\" target=\"_blank\" rel=\"noopener noreferrer\">Hjulmand deixa Sporting em sobressalto: \"Eu poupava-o para a Luz\"</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6811f997d942f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O Sporting divulgou um vídeo, esta quarta-feira, a dar conta dos bastidores das deslocações da equipa de Rui Borges à Mata Real e ao Estádio do Bessa, na semana passada, onde triunfou frente a Rio Ave (1-2) e Boavista (0-5), respetivamente.</p>\n<div class=\"dummyPub\"> </div>\n<p>Tanto no duelo da Taça de Portugal, como no campeonato, os leões foram 'empurrados' por um autêntico 'show' dos adeptos nas bancadas, sendo que também os gritos no balneário se destacaram entre as imagens divulgadas pelo clube de Alvalade.</p>\n<p><span class=\"news_underline\"><span class=\"news_bold\">Espreite o vídeo.</span></span></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2775964/hjulmand-deixa-sporting-em-sobressalto-eu-poupava-o-para-a-luz\" target=\"_blank\" rel=\"noopener noreferrer\">Hjulmand deixa Sporting em sobressalto: \"Eu poupava-o para a Luz\"</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2776841/taiwan-acusa-a-somalia-de-impedir-a-entrada-de-taiwaneses-no-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Taiwan acusa a Somália de impedir a entrada de taiwaneses no país",
-         "description": "Taiwan acusou a Somália, na terça-feira à noite, de impedir os titulares de passaportes taiwaneses de entrarem no seu território, denunciando as pressões de Pequim, que saudou hoje a iniciativa de Mogadíscio, capital do país africano.",
-         "link": "https://www.noticiasaominuto.com/mundo/2776841/taiwan-acusa-a-somalia-de-impedir-a-entrada-de-taiwaneses-no-pais?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1746012148000,
-         "created": 1746012148000,
-         "category": "Mundo",
-         "content": "<p>A Autoridade da Aviação Civil da Somália informou as companhias aéreas que os passaportes taiwaneses \"deixarão de ser válidos para entrar ou transitar pela República Federal da Somália\", declarou o Ministério dos Negócios Estrangeiros de Taiwan num comunicado, acrescentando que \"rejeitava e condenava veementemente\" esta medida.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo o ministério, esta medida tem por objetivo \"criar a falsa impressão de que Taiwan faz parte da República Popular da China\".</p>\n<p>A decisão surge numa altura em que Taiwan reforça os seus laços com a Somalilândia, que declarou a independência da Somália em 1991 e nunca foi reconhecida pela comunidade internacional.</p>\n<p>\"A China expressa o seu profundo apreço\", afirmou o porta-voz do Ministério dos Negócios Estrangeiros chinês, Guo Jiakun, numa conferência de imprensa.</p>\n<p>Esta decisão é uma \"medida legítima\" que reflete a firme adesão da Somália ao princípio de uma só China\", sublinhou, reafirmando o apoio de Pequim à reivindicação de Mogadíscio sobre a Somalilândia.</p>\n<p>A China considera que ainda não conseguiu unificar Taiwan com o resto do seu território desde o fim da guerra civil chinesa, em 1949, e não exclui o recurso à força para o conseguir.</p>\n<p>Taiwan, cujo nome oficial é República da China, perdeu o seu lugar na Organização das Nações Unidas (ONU) para a República Popular da China em 1971.</p>\n<p>Apenas 12 países, incluindo o Vaticano, reconhecem Taiwan como um Estado, sendo que muitos outros mantêm laços não oficiais com a ilha, como os Estados Unidos, que são o seu principal apoiante em termos de segurança.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2771022/taiwan-endurece-requisitos-para-cidadaos-de-macau-e-hong-kong\" target=\"_blank\" rel=\"noopener noreferrer\">Taiwan endurece requisitos para cidadãos de Macau e Hong Kong</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65a10b98ccf01.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>A Autoridade da Aviação Civil da Somália informou as companhias aéreas que os passaportes taiwaneses \"deixarão de ser válidos para entrar ou transitar pela República Federal da Somália\", declarou o Ministério dos Negócios Estrangeiros de Taiwan num comunicado, acrescentando que \"rejeitava e condenava veementemente\" esta medida.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo o ministério, esta medida tem por objetivo \"criar a falsa impressão de que Taiwan faz parte da República Popular da China\".</p>\n<p>A decisão surge numa altura em que Taiwan reforça os seus laços com a Somalilândia, que declarou a independência da Somália em 1991 e nunca foi reconhecida pela comunidade internacional.</p>\n<p>\"A China expressa o seu profundo apreço\", afirmou o porta-voz do Ministério dos Negócios Estrangeiros chinês, Guo Jiakun, numa conferência de imprensa.</p>\n<p>Esta decisão é uma \"medida legítima\" que reflete a firme adesão da Somália ao princípio de uma só China\", sublinhou, reafirmando o apoio de Pequim à reivindicação de Mogadíscio sobre a Somalilândia.</p>\n<p>A China considera que ainda não conseguiu unificar Taiwan com o resto do seu território desde o fim da guerra civil chinesa, em 1949, e não exclui o recurso à força para o conseguir.</p>\n<p>Taiwan, cujo nome oficial é República da China, perdeu o seu lugar na Organização das Nações Unidas (ONU) para a República Popular da China em 1971.</p>\n<p>Apenas 12 países, incluindo o Vaticano, reconhecem Taiwan como um Estado, sendo que muitos outros mantêm laços não oficiais com a ilha, como os Estados Unidos, que são o seu principal apoiante em termos de segurança.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2771022/taiwan-endurece-requisitos-para-cidadaos-de-macau-e-hong-kong\" target=\"_blank\" rel=\"noopener noreferrer\">Taiwan endurece requisitos para cidadãos de Macau e Hong Kong</a></p>",
          "media": {}
       }
    ]
