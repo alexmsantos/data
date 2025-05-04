@@ -156,9 +156,12 @@
       {
          "id": "063d516f-0c3c-4539-a10f-491ff39dd936",
          "title": "Oito detidos em duas operações antiterroristas no Reino Unido",
-         "description": "<p><span>Cinco são suspeitos de conspiração para atacar um local específico, enquanto três foram presos por atividades ameaçadoras de uma potência estrangeira.</span></p>",
+         "description": "Cinco são suspeitos de conspiração para atacar um local específico, enquanto três foram presos por atividades ameaçadoras de uma potência estrangeira.",
          "link": "https://sicnoticias.pt/mundo/2025-05-04-oito-detidos-em-duas-operacoes-antiterroristas-no-reino-unido-47d132d2",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1746351489000,
          "created": 1746351489000,
          "category": "Mundo",
