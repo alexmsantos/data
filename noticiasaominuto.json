@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2779783/ex-benfica-aprova-jorge-jesus-na-selecao-brasileira-e-descarta-ancelotti?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ex-Benfica aprova Jorge Jesus na seleção brasileira e descarta Ancelotti",
+         "description": "Jogador de Leonardo Jardim, no Cruzeiro, afirma que quer o treinador português no comando técnico do Brasil.",
+         "link": "https://www.noticiasaominuto.com/desporto/2779783/ex-benfica-aprova-jorge-jesus-na-selecao-brasileira-e-descarta-ancelotti?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1746456854000,
+         "created": 1746456854000,
+         "category": "Desporto",
+         "content": "<p>Gabriel Barbosa, mais conhecido como Gabigol, <a href=\"https://www.noticiasaominuto.com/desporto/2779500/leonardo-jardim-vence-flamengo-com-direito-a-lei-do-ex\" target=\"_blank\" rel=\"noopener\"><span class=\"news_bold\">foi decisivo na vitória deste domingo frente ao Flamengo, por 2-1, ao marcar o golo da vitória à antiga equipa</span></a>, através de uma grande penalidade, já nos descontos. O avançado do Cruzeiro, treinado por Leonardo Jardim, deixou a sua preferência bem vincada quanto ao próximo treinador da seleção do Brasil.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Não sei nada sobre isso. Claro que gostaria que fosse ele [Jorge Jesus], foi o melhor com quem trabalhei na minha carreira. Mas não posso falar, porque não conheço os outros nomes e nunca trabalhei com os outros técnicos. Nunca falei com o Ancelotti, nunca gastei meu italiano com ele\", referiu em declarações na flash após a partida.</p>\n<p>\"A minha relação com Leonardo Jardim é incrível, uma das melhores que já tive. Até porque o Jorge Jesus é muito amigo dele, fazemos umas chamadas para conversar com ele. A nossa relação é incrível. Claro que quero jogar sempre, mas respeito as decisões dele e espero poder ter mais oportunidades para ajudar\", completou.</p>\n<p>Gabigol conta com 16 partidas disputadas na presente temporada ao serviço do clube de Minas Gerais, tendo contribuído com oito golos e uma assistência em todas as competições.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2778534/dudu-chocou-com-leonardo-jardim-e-acaboudispensado\" target=\"_blank\" rel=\"noopener noreferrer\">Dudu 'chocou' com Leonardo Jardim e acabou...dispensado</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6818c29b92257.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Gabriel Barbosa, mais conhecido como Gabigol, <a href=\"https://www.noticiasaominuto.com/desporto/2779500/leonardo-jardim-vence-flamengo-com-direito-a-lei-do-ex\" target=\"_blank\" rel=\"noopener\"><span class=\"news_bold\">foi decisivo na vitória deste domingo frente ao Flamengo, por 2-1, ao marcar o golo da vitória à antiga equipa</span></a>, através de uma grande penalidade, já nos descontos. O avançado do Cruzeiro, treinado por Leonardo Jardim, deixou a sua preferência bem vincada quanto ao próximo treinador da seleção do Brasil.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Não sei nada sobre isso. Claro que gostaria que fosse ele [Jorge Jesus], foi o melhor com quem trabalhei na minha carreira. Mas não posso falar, porque não conheço os outros nomes e nunca trabalhei com os outros técnicos. Nunca falei com o Ancelotti, nunca gastei meu italiano com ele\", referiu em declarações na flash após a partida.</p>\n<p>\"A minha relação com Leonardo Jardim é incrível, uma das melhores que já tive. Até porque o Jorge Jesus é muito amigo dele, fazemos umas chamadas para conversar com ele. A nossa relação é incrível. Claro que quero jogar sempre, mas respeito as decisões dele e espero poder ter mais oportunidades para ajudar\", completou.</p>\n<p>Gabigol conta com 16 partidas disputadas na presente temporada ao serviço do clube de Minas Gerais, tendo contribuído com oito golos e uma assistência em todas as competições.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2778534/dudu-chocou-com-leonardo-jardim-e-acaboudispensado\" target=\"_blank\" rel=\"noopener noreferrer\">Dudu 'chocou' com Leonardo Jardim e acabou...dispensado</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2779776/revolucao-a-vista-apple-ja-tem-planos-para-o-20-aniversario-do-iphone?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Revolução à vista? Apple já tem planos para o 20.º aniversário do iPhone",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p> </p>\n<div class=\"dummyPub\"> </div>\n<p>Com as alterações de hoje, a taxa a três meses, que avançou para 2,151%, ficou igual à taxa a seis meses (também 2,151%) e acima da taxa a 12 meses (2,039%).</p>\n<p>A taxa Euribor a seis meses, que passou em janeiro de 2024 a ser a mais utilizada em Portugal nos créditos à habitação com taxa variável, avançou hoje, ao ser fixada em 2,151%, mais 0,008 pontos.</p>\n<p>Dados do Banco de Portugal (BdP) referentes a fevereiro indicam que a Euribor a seis meses representava 37,52% do 'stock' de empréstimos para a habitação própria permanente com taxa variável.</p>\n<p>Os mesmos dados indicam que as Euribor a 12 e a três meses representavam 32,50% e 25,72%, respetivamente.</p>\n<p>Em sentido contrário, no prazo de 12 meses, a taxa Euribor baixou, ao ser fixada em 2,039%, menos 0,006 pontos do que na sexta-feira.</p>\n<p>A Euribor a três meses, que está abaixo de 2,5% desde 14 de março passado, avançou hoje, para 2,151%, mais 0,009 pontos.</p>\n<p>Em abril, as médias mensais da Euribor caíram fortemente nos três prazos, mas mais intensamente do que nos meses anteriores e no prazo mais longo (12 meses).</p>\n<p>A média da Euribor a três, seis e a 12 meses em abril desceu 0,193 pontos para 2,249% a três meses, 0,183 pontos para 2,202% a seis meses e 0,255 pontos para 2,143% a 12 meses.</p>\n<p>Em 17 de abril, na última reunião de política monetária, o Banco Central Europeu (BCE) desceu a taxa diretora em um quarto de ponto para 2,25%.</p>\n<p>A descida, antecipada pelos mercados, foi a sétima desde que o BCE iniciou este ciclo de cortes em junho de 2024.</p>\n<p>A próxima reunião de política monetária do BCE realiza-se em 05 e 06 de junho em Frankfurt.</p>\n<p>As Euribor são fixadas pela média das taxas às quais um conjunto de 19 bancos da zona euro está disposto a emprestar dinheiro entre si no mercado interbancário.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2779612/como-gerir-as-dividas-e-manter-se-longe-delas-em-10-passos\" target=\"_blank\" rel=\"noopener noreferrer\">Como gerir as dívidas (e manter-se longe delas) em 10 passos</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2779605/maduro-demais-cinco-maneiras-de-ver-se-os-abacates-ja-nao-estao-bons?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Maduro demais? Cinco maneiras de ver se os abacates já não estão bons",
-         "description": "Será que sabe distinguir?",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2779605/maduro-demais-cinco-maneiras-de-ver-se-os-abacates-ja-nao-estao-bons?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1746441786000,
-         "created": 1746441786000,
-         "category": "Lifestyle",
-         "content": "<p>Os abacates têm um processo de maturação relativamente acelerado. Se tem dúvidas para determinar se um abacate está maduro ou já não deve ser comido, atente nestas cinco indicações do site Healthline.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">1- Resistência ao toque.</span> Se apertar ligeiramente o abacate com os dedos e sentir que está muito firme, ainda está verde. Se ceder levemente, está pronto a comer. Se, por outro lado, estiver muito mole, provavelmente já passou do ponto;</p>\n<p><span class=\"news_bold\">2- Cor da pele.</span> Os abacates podem ter diferentes tons, consoante a espécie. Se estivermos a falar dos abacates verdes, quando apresentam manchas escuras é sinal de que já estão maduros demais;</p>\n<p><span class=\"news_bold\">3- Cor do interior.</span> O mesmo se passa com o seu interior. Se estiver escuro, é para deitar fora;</p>\n<p><span class=\"news_bold\">4- Sabor e odor.</span> Se tiver um sabor ácido ou um cheiro estranho, já está estragado;</p>\n<p><span class=\"news_bold\">5-</span> <span class=\"news_bold\">Bolor.</span> O bolor nos abacates é, geralmente, branco ou cinzento. Cuidado, não o coma, mesmo que retire a parte que tem bolor.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2773479/ovos-no-ponto-sao-para-colocar-por-cima-de-pao-torrado-e-abacate\" target=\"_blank\" rel=\"noopener noreferrer\">Ovos no ponto? São para colocar por cima de pão torrado e abacate</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_681883d13d139.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Os abacates têm um processo de maturação relativamente acelerado. Se tem dúvidas para determinar se um abacate está maduro ou já não deve ser comido, atente nestas cinco indicações do site Healthline.</p>\n<div class=\"dummyPub\"> </div>\n<p><span class=\"news_bold\">1- Resistência ao toque.</span> Se apertar ligeiramente o abacate com os dedos e sentir que está muito firme, ainda está verde. Se ceder levemente, está pronto a comer. Se, por outro lado, estiver muito mole, provavelmente já passou do ponto;</p>\n<p><span class=\"news_bold\">2- Cor da pele.</span> Os abacates podem ter diferentes tons, consoante a espécie. Se estivermos a falar dos abacates verdes, quando apresentam manchas escuras é sinal de que já estão maduros demais;</p>\n<p><span class=\"news_bold\">3- Cor do interior.</span> O mesmo se passa com o seu interior. Se estiver escuro, é para deitar fora;</p>\n<p><span class=\"news_bold\">4- Sabor e odor.</span> Se tiver um sabor ácido ou um cheiro estranho, já está estragado;</p>\n<p><span class=\"news_bold\">5-</span> <span class=\"news_bold\">Bolor.</span> O bolor nos abacates é, geralmente, branco ou cinzento. Cuidado, não o coma, mesmo que retire a parte que tem bolor.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/lifestyle/2773479/ovos-no-ponto-sao-para-colocar-por-cima-de-pao-torrado-e-abacate\" target=\"_blank\" rel=\"noopener noreferrer\">Ovos no ponto? São para colocar por cima de pão torrado e abacate</a></p>",
          "media": {}
       }
    ]
