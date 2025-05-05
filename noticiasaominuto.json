@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2779573/esta-confirmado-miguel-oliveira-vai-regressar-as-pistas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Está confirmado! Miguel Oliveira vai regressar à competição",
+         "description": "Piloto português vai participar no Grande Prémio de França.",
+         "link": "https://www.noticiasaominuto.com/auto/2779573/esta-confirmado-miguel-oliveira-vai-regressar-as-pistas?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1746438300000,
+         "created": 1746438300000,
+         "category": "Auto",
+         "content": "<p>[Notícia em atualização]</p>\n<div class=\"dummyPub\"> </div>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"en\">BREAKING: <a href=\"https://twitter.com/_moliveira88?ref_src=twsrc%5Etfw\">@_moliveira88</a> is set to return from injury this weekend at the <a href=\"https://twitter.com/hashtag/FrenchGP?src=hash&ref_src=twsrc%5Etfw\">#FrenchGP</a> 🇫🇷 <a href=\"https://twitter.com/hashtag/MotoGP?src=hash&ref_src=twsrc%5Etfw\">#MotoGP</a> <a href=\"https://t.co/HwVYjX9Jtn\">pic.twitter.com/HwVYjX9Jtn</a></p>\n— MotoGP™ (@MotoGP) <a href=\"https://twitter.com/MotoGP/status/1919311746805662153?ref_src=twsrc%5Etfw\">May 5, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67a60db2d7eff.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>[Notícia em atualização]</p>\n<div class=\"dummyPub\"> </div>\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"en\">BREAKING: <a href=\"https://twitter.com/_moliveira88?ref_src=twsrc%5Etfw\">@_moliveira88</a> is set to return from injury this weekend at the <a href=\"https://twitter.com/hashtag/FrenchGP?src=hash&ref_src=twsrc%5Etfw\">#FrenchGP</a> 🇫🇷 <a href=\"https://twitter.com/hashtag/MotoGP?src=hash&ref_src=twsrc%5Etfw\">#MotoGP</a> <a href=\"https://t.co/HwVYjX9Jtn\">pic.twitter.com/HwVYjX9Jtn</a></p>\n— MotoGP™ (@MotoGP) <a href=\"https://twitter.com/MotoGP/status/1919311746805662153?ref_src=twsrc%5Etfw\">May 5, 2025</a></blockquote>\n<p>\n<script charset=\"utf-8\" src=\"https://platform.twitter.com/widgets.js\" async=\"\"></script>\n</p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2779568/hjulmand-fugiu-apos-o-sporting-gil-vicente-e-ja-ha-uma-explicacao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Hjulmand 'fugiu' após o Sporting-Gil Vicente e já há uma explicação",
@@ -466,10 +489,10 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/politica/2779531/ao-minuto-lideres-partidarios-com-assento-na-ar-debatem-hoje-na-radio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: Líderes partidários com assento na AR debatem na rádio",
+         "id": "https://www.noticiasaominuto.com/politica/2779531/ao-minuto-montenegro-nao-idoneidade-para-ser-primeiro-ministro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AO MINUTO: Montenegro não \"idoneidade\" para ser primeiro-ministro",
          "description": "Acompanhe aqui AO MINUTO o debate nas rádios entre os oito líderes de partidos com assento parlamentar.\n",
-         "link": "https://www.noticiasaominuto.com/politica/2779531/ao-minuto-lideres-partidarios-com-assento-na-ar-debatem-hoje-na-radio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/politica/2779531/ao-minuto-montenegro-nao-idoneidade-para-ser-primeiro-ministro?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "$text": "Notícias ao Minuto",
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>A maioria dos concursos públicos a cargo da tutela das Infraestruturas nos Açores tem sido adjudicada após a realização de dois procedimentos devido ao aumento dos preços e às dificuldades logísticas, revelou o Governo Regional.</p>\n<div class=\"dummyPub\"> </div>\n<p>Entre os casos em que o executivo teve de lançar mais de um concurso, depois de os anteriores procedimentos terem ficado desertos, estão a proteção costeira de São Roque do Pico (43 milhões de euros), a construção do centro de investigação ligado ao mar Tecnopolo-Martec (mais de 20 milhões de euros) ou a requalificação da Unidade de Saúde do Corvo (370 mil euros).</p>\n<p>Numa resposta enviada à agência Lusa, a Secretaria Regional do Turismo, Mobilidade e Infraestruturas revela que a situação se agravou a partir da pandemia da covid-19, já que \"a crise sanitária global, seguida pela ação militar na Ucrânia, criou um ambiente de incerteza e dificuldades logísticas que afetaram significativamente o setor da construção\".</p>\n<p>O Governo Regional destaca que os Açores apresentam \"desafios únicos\" devido à sua \"natureza insular e dispersa\", uma vez que as empresas de construção civil \"preferem trabalhos próximos das suas sedes, onde os custos são mais reduzidos\".</p>\n<p>O executivo salienta que a \"falta de mão-de-obra e materiais\" e os \"prazos apertados do Plano de Recuperação e Resiliência (PRR)\", além de aumentarem os preços, contribuíram para a \"hesitação das empresas em participar nos concursos, com receio de não cumprirem prazos e de garantir a qualidade dos investimentos\".</p>\n<p>A secretaria do Turismo, Mobilidade e Infraestruturas ressalva, contudo, que todas as suas empreitadas incluídas no PRR estão a \"ser executadas e em velocidade cruzeiro\".</p>\n<p>Na Madeira, a Associação dos Industriais de Construção (Assicom) e o Sindicato dos Trabalhadores da Construção (Sicoma) são unânimes em afirmar que há atrasos nas obras devido à falta de mão-de-obra, mas nenhuma fica por executar, sobretudo no setor público.</p>\n<p>\"Em consequência desta falta de mão-de-obra, é claro que as obras privadas sofrem mais, porque as públicas têm de cumprir os prazos\", diz à agência Lusa o vice-presidente da Assicom, João Carlos Gomes, explicando que, por isso, os empresários canalizam os trabalhadores para as empreitadas públicas.</p>\n<p>O setor da construção civil emprega diretamente cerca de 16 mil pessoas na Região Autónoma da Madeira, mas tanto a associação como o sindicato defendem que para operar na plenitude, face ao volume de trabalho, seriam necessários mais 12 mil trabalhadores.</p>\n<p>\"Há empreiteiros que têm obras em carteira e não as lançam porque não têm mão-de-obra para começarem as obras\", refere o presidente do Sicoma, Diamantino Alturas, sublinhando que \"até agora havia falta de mão-de-obra qualificada, mas já há problemas mesmo em termos de serventes\".</p>\n<p>\"Os problemas seriam muito maiores, atrasariam ainda muito mais as obras, se por acaso não tivéssemos já um número elevado de imigrantes aqui na Madeira\", realça, apontando para cerca de 8.000 trabalhadores estrangeiros no setor, sobretudo oriundos de países asiáticos, africanos e do Brasil.</p>\n<p>Para a Assicom, \"essa falta de mão-de-obra faz com que as empresas não consigam cumprir os contratos de empreitada a que estão vinculadas e não consigam até concorrer\", explica João Carlos Gomes, adiantando que a situação afeta o setor público e privado e que \"há empresários que estão a receber encomendas com um ano e meio de antecedência\".</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2779100/freguesias-com-dificuldade-em-contratar-empresas-para-realizar-obras\" target=\"_blank\" rel=\"noopener noreferrer\">Freguesias com dificuldade em contratar empresas para realizar obras</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2779430/sporting-ou-benfica-o-que-e-preciso-para-haver-campeao-no-derbi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sporting ou Benfica? Eis o que é preciso para haver campeão no dérbi",
-         "description": "Festa do título pode acontecer no Estádio da Luz, já no próximo sábado.",
-         "link": "https://www.noticiasaominuto.com/desporto/2779430/sporting-ou-benfica-o-que-e-preciso-para-haver-campeao-no-derbi?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1746399195000,
-         "created": 1746399195000,
-         "category": "Desporto",
-         "content": "<p>Sporting e Benfica vão entrar para a penúltima jornada da I Liga, no próximo sábado, com possibilidades matemáticas de se sagrarem campeões nacionais... no dérbi da Luz.</p>\n<div class=\"dummyPub\"> </div>\n<p>Ao <a href=\"https://www.noticiasaominuto.com/desporto/2778984/benfica-resiste-a-amora-envenenada-e-coloca-pressao-ao-sporting-no-topo\" target=\"_blank\" rel=\"noopener\">triunfo tangencial das águias frente ao Estoril (1-2)</a>, este sábado, juntou-se uma <a href=\"https://www.noticiasaominuto.com/desporto/2779411/sporting-canta-de-galo-e-vai-ao-derbi-discutir-titulo-com-o-benfica\" target=\"_blank\" rel=\"noopener\">vitória igualmente 'suada' dos leões diante do Gil Vicente (2-1)</a>, pelo que os dois rivais já sabem que vão medir forças na 33.ª ronda em igualdade pontual, com 78 pontos.</p>\n<p>O Sporting desloca-se ao reduto do seu rival com dois resultados em mente - a vitória para festejar o bicampeonato e o empate para adiar uma eventual festa -, enquanto o Benfica só pensa na vitória, em função da desvantagem que tem, neste momento, no confronto direto, recordando o dérbi da primeira mão (1-0) em Alvalade.</p>\n<p><span class=\"news_bold\">Sporting é campeão se:</span></p>\n<ul>\n<li>vencer o dérbi.</li>\n<li>empatar frente ao Benfica e conseguir um resultado igual ou melhor do que o rival na última jornada.</li>\n<li>perder o dérbi por um golo e ganhar ao Vitória SC, face a uma queda do Benfica em Braga.</li>\n</ul>\n<p><span class=\"news_bold\">Benfica é campeão se:</span></p>\n<ul>\n<li>vencer o dérbi por dois golos.</li>\n<li>vencer o Sporting por um golo e conseguir pontuar em Braga.</li>\n<li>empatar no dérbi e vencer em Braga, perante um deslize do Sporting diante do Vitória SC</li>\n</ul>\n<p> </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2779411/sporting-canta-de-galo-e-vai-ao-derbi-discutir-titulo-com-o-benfica\" target=\"_blank\" rel=\"noopener noreferrer\">Sporting 'canta de galo' e vai ao dérbi discutir título com o Benfica</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6817e04d334eb.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Sporting e Benfica vão entrar para a penúltima jornada da I Liga, no próximo sábado, com possibilidades matemáticas de se sagrarem campeões nacionais... no dérbi da Luz.</p>\n<div class=\"dummyPub\"> </div>\n<p>Ao <a href=\"https://www.noticiasaominuto.com/desporto/2778984/benfica-resiste-a-amora-envenenada-e-coloca-pressao-ao-sporting-no-topo\" target=\"_blank\" rel=\"noopener\">triunfo tangencial das águias frente ao Estoril (1-2)</a>, este sábado, juntou-se uma <a href=\"https://www.noticiasaominuto.com/desporto/2779411/sporting-canta-de-galo-e-vai-ao-derbi-discutir-titulo-com-o-benfica\" target=\"_blank\" rel=\"noopener\">vitória igualmente 'suada' dos leões diante do Gil Vicente (2-1)</a>, pelo que os dois rivais já sabem que vão medir forças na 33.ª ronda em igualdade pontual, com 78 pontos.</p>\n<p>O Sporting desloca-se ao reduto do seu rival com dois resultados em mente - a vitória para festejar o bicampeonato e o empate para adiar uma eventual festa -, enquanto o Benfica só pensa na vitória, em função da desvantagem que tem, neste momento, no confronto direto, recordando o dérbi da primeira mão (1-0) em Alvalade.</p>\n<p><span class=\"news_bold\">Sporting é campeão se:</span></p>\n<ul>\n<li>vencer o dérbi.</li>\n<li>empatar frente ao Benfica e conseguir um resultado igual ou melhor do que o rival na última jornada.</li>\n<li>perder o dérbi por um golo e ganhar ao Vitória SC, face a uma queda do Benfica em Braga.</li>\n</ul>\n<p><span class=\"news_bold\">Benfica é campeão se:</span></p>\n<ul>\n<li>vencer o dérbi por dois golos.</li>\n<li>vencer o Sporting por um golo e conseguir pontuar em Braga.</li>\n<li>empatar no dérbi e vencer em Braga, perante um deslize do Sporting diante do Vitória SC</li>\n</ul>\n<p> </p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2779411/sporting-canta-de-galo-e-vai-ao-derbi-discutir-titulo-com-o-benfica\" target=\"_blank\" rel=\"noopener noreferrer\">Sporting 'canta de galo' e vai ao dérbi discutir título com o Benfica</a></p>",
          "media": {}
       }
    ]
