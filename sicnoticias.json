@@ -35,18 +35,6 @@
          }
       },
       {
-         "id": "e2fc26e2-0a95-4911-94ec-fdb8d0e97a81",
-         "title": "Campanha na estrada, mas com atenções divididas",
-         "description": "A campanha eleitoral está na estrada e a Comissão Política desta semana fala com os repórteres do Expresso e analisa os últimos debates",
-         "link": "https://sicnoticias.pt/podcasts/historias-de-lisboa/2025-05-06-campanha-na-estrada-mas-com-atencoes-divididas-b75b26d7",
-         "author": "SIC Notícias",
-         "published": 1746496742000,
-         "created": 1746496742000,
-         "category": "Histórias de Lisboa",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "846e365d-1435-4e41-9a30-7284af18826f",
          "title": "Família Trump lucra centenas de milhões com criptomoeda promovida nas redes sociais",
          "description": "<p><span>A </span><span>$TRUMP</span><span>, lançada este ano, oferece aos seus maiores detentores a oportunidade de participar num jantar com Trump. O valor da criptomoeda aumentou após o anúncio do evento, gerando críticas sobre possíveis influências indevidas ao presidende norte-americano.</span></p>",
@@ -273,6 +261,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-05-05-paulo-raimundo-190766ea/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "b77d1e2a-cd8a-44d4-88cc-18581e6f0371",
+         "title": "FC Porto arruma a casa: mais de 18 milhões investidos para 'agarrar' Samu e Nehuén Pérez",
+         "description": "<p><span>A direção liderada por André Villas-Boas </span><span>acionou as cláusulas definidas com o Atlético Madrid e a Udinese e comunicou os movimentos à CMVM antes do fim da presente temporada.</span></p>",
+         "link": "https://sicnoticias.pt/desporto/2025-05-05-fc-porto-compra-passe-de-nehuen-perez-e-aumenta-percentagem-sobre-samu-ec8dcc32",
+         "author": "SIC Notícias",
+         "published": 1746474626000,
+         "created": 1746474626000,
+         "category": "Desporto",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-12-21-fc-porto-moreirense-.jpg-db3602a4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-12-21-fc-porto-moreirense-.jpg-db3602a4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-12-21-fc-porto-moreirense-.jpg-db3602a4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
