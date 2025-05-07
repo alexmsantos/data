@@ -14,8 +14,25 @@
          "published": 1746645535000,
          "created": 1746645535000,
          "category": "Projetos Expresso",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-05-07-dsc06494.jpg-59a76f36/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-05-07-dsc06494.jpg-59a76f36/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-05-07-dsc06494.jpg-59a76f36/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "bd173f08-1b74-4528-a1aa-0d940827d1be",
