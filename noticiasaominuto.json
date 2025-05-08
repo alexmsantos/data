@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2781844/golfinho-encontrado-em-dificuldades-na-foz-do-arelho-devolvido-ao-mar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Golfinho encontrado \"em dificuldades\" na Foz do Arelho devolvido ao mar",
+         "description": "Ocorrência \"teve um final feliz\". ",
+         "link": "https://www.noticiasaominuto.com/pais/2781844/golfinho-encontrado-em-dificuldades-na-foz-do-arelho-devolvido-ao-mar?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1746701037000,
+         "created": 1746701037000,
+         "category": "País",
+         "content": "<p>Um golfinho foi encontrado \"em dificuldades\", na Lagoa, na Praia da Foz do Arelho, na última terça-feira, acabando por ser devolvido, com sucesso, ao mar. </p>\n<div class=\"dummyPub\"> </div>\n<p>A ocorrência foi divulgada, nas redes sociais, pelos Bombeiros Voluntários das Caldas da Rainha, que foram chamados para \"um pedido de auxílio especial\". </p>\n<p>Segundo aquela corporação, o alerta foi dado pelas 08h09, pelo presidente de Junta de Freguesia da Foz do Arelho, \"no sentido de prestar auxílio a um golfinho que se encontrava em dificuldades na Lagoa, na Praia da Foz de Arelho.\"</p>\n<p>Os Bombeiros enviaram para o local uma equipa apoiada por um meio de salvamento aquático, para proceder à missão, contudo, à chegada, \"confirmou-se não existir necessidade\" da intervenção, uma vez que os esforços presentes no local ajudaram a devolver \"o animal à água\".</p>\n<p>\"Esta ocorrência teve um final feliz, tendo o golfinho seguido o seu trajeto\", realçaram os Bombeiros de Caldas da Rainha. </p>\n<p><iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbombeiroscrainha%2Fposts%2Fpfbid02zZthM7BnJV1z7ABqqHovvtZW15UmgbHkwSSadYWuMaZCTQKWEJsUiKqDJCe71jsAl&show_text=true&width=500\" style=\"border: none; overflow: hidden;\" width=\"500\" height=\"732\" scrolling=\"no\" frameborder=\"0\"></iframe></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2781723/alugou-viatura-em-janeiro-e-nunca-mais-a-entregou-agora-foi-detido\" target=\"_blank\" rel=\"noopener noreferrer\">Alugou viatura em janeiro e nunca mais a entregou. Agora, foi detido</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_681c79c980d30.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Um golfinho foi encontrado \"em dificuldades\", na Lagoa, na Praia da Foz do Arelho, na última terça-feira, acabando por ser devolvido, com sucesso, ao mar. </p>\n<div class=\"dummyPub\"> </div>\n<p>A ocorrência foi divulgada, nas redes sociais, pelos Bombeiros Voluntários das Caldas da Rainha, que foram chamados para \"um pedido de auxílio especial\". </p>\n<p>Segundo aquela corporação, o alerta foi dado pelas 08h09, pelo presidente de Junta de Freguesia da Foz do Arelho, \"no sentido de prestar auxílio a um golfinho que se encontrava em dificuldades na Lagoa, na Praia da Foz de Arelho.\"</p>\n<p>Os Bombeiros enviaram para o local uma equipa apoiada por um meio de salvamento aquático, para proceder à missão, contudo, à chegada, \"confirmou-se não existir necessidade\" da intervenção, uma vez que os esforços presentes no local ajudaram a devolver \"o animal à água\".</p>\n<p>\"Esta ocorrência teve um final feliz, tendo o golfinho seguido o seu trajeto\", realçaram os Bombeiros de Caldas da Rainha. </p>\n<p><iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbombeiroscrainha%2Fposts%2Fpfbid02zZthM7BnJV1z7ABqqHovvtZW15UmgbHkwSSadYWuMaZCTQKWEJsUiKqDJCe71jsAl&show_text=true&width=500\" style=\"border: none; overflow: hidden;\" width=\"500\" height=\"732\" scrolling=\"no\" frameborder=\"0\"></iframe></p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2781723/alugou-viatura-em-janeiro-e-nunca-mais-a-entregou-agora-foi-detido\" target=\"_blank\" rel=\"noopener noreferrer\">Alugou viatura em janeiro e nunca mais a entregou. Agora, foi detido</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2781852/ha-um-nome-que-os-papas-nao-escolhem-por-respeito-ou-sera-com-receio?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Há um nome que os papas não escolhem por respeito (ou será com receio?)",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>O documento foi apresentado no parlamento madeirense na terça-feira de manhã e ainda nesse dia tiveram início os debates temáticos referentes às oito secretarias que compõem o executivo liderado pelo social-democrata Miguel Albuquerque: Educação, Ciência e Tecnologia; Turismo, Ambiente e Cultura; Economia; Saúde e Proteção Civil; Finanças; Agricultura e Pescas; Inclusão, Trabalho e Juventude; Equipamentos e Infraestruturas.</p>\n<div class=\"dummyPub\"> </div>\n<p>O Programa do XVI Governo Regional da Madeira, que decorre das eleições antecipadas de 23 de março, é votado sob a forma de moção de confiança ao executivo, conforme disposto no Estatuto Político-Administrativo e no Regimento da Assembleia Legislativa da região autónoma.</p>\n<p>Na terça-feira, o presidente do executivo disse perante o plenário ter a \"determinação inabalável\" de prosseguir o trabalho para tornar a região mais autónoma, livre e próspera, apesar das dificuldades provocadas por desafios nacionais e mundiais.</p>\n<p>O programa é composto por 188 páginas e apresenta os objetivos gerais do executivo em nove capítulos, destacando a habitação como uma das \"grandes prioridades\".</p>\n<p>O executivo de coligação PSD/CDS-PP tem maioria absoluta no parlamento regional, com 23 deputados sociais-democratas e um democrata-cristão.</p>\n<p>Além do PSD e do CDS-PP, o parlamento da Madeira conta com representantes do JPP (11 deputados), PS (oito), Chega (três) e IL (um).</p>\n<p>O último programa do governo madeirense, que era minoritário e contava com o apoio dos dois deputados do CDS-PP, foi aprovado em 04 de julho para o quadriénio 2024-2028 com 22 votos a favor do PSD, CDS-PP e PAN, mas, em 17 de dezembro de 2024, foi aprovada uma moção de censura apresentada pelo Chega ao executivo madeirense, que derrubou um Governo Regional pela primeira vez na história do parlamentarismo e autonomia da Madeira.</p>\n<p>Esta crise política levou o Presidente da República a convocar eleições regionais antecipadas em 23 de março deste ano, que o PSD venceu, ficando a um deputado da maioria absoluta.</p>\n<p>Os sociais-democratas governam a região autónoma ininterruptamente desde 1976, sendo o executivo chefiado por Miguel Albuquerque desde 2015.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/pais/2781079/governo-da-madeira-salienta-crescimento-economico-e-alerta-para-incerteza\" target=\"_blank\" rel=\"noopener noreferrer\">Governo da Madeira salienta crescimento económico e alerta para incerteza</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2781715/por-ca-criativos-a-solta-no-derbi-e-mora-renova-ate-2030-com-o-fc-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Por cá: Criativos à solta no dérbi e Mora renova até 2030 com o FC Porto",
-         "description": "Confira os destaques desta quinta-feira.",
-         "link": "https://www.noticiasaominuto.com/desporto/2781715/por-ca-criativos-a-solta-no-derbi-e-mora-renova-ate-2030-com-o-fc-porto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1746688739000,
-         "created": 1746688739000,
-         "category": "Desporto",
-         "content": "<p>A imprensa desportiva nacional desta quinta-feira destaca o dérbi e analisa os criativos de cada uma das equipas, com Pedro Gonçalves do lado do Sporting e Di María do lado do Benfica.</p>\n<div class=\"dummyPub\"> </div>\n<p>É ainda feita referência à renovação de Rodrigo Mora, que foi oficializada no dia de ontem, ficando com contrato até 2030 e uma cláusula de rescisão de 70 milhões de euros.</p>\n<p><span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">Confira os destaques desta quinta-feira percorrendo a fotogaleria.</span></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_681c4a669fb46.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>A imprensa desportiva nacional desta quinta-feira destaca o dérbi e analisa os criativos de cada uma das equipas, com Pedro Gonçalves do lado do Sporting e Di María do lado do Benfica.</p>\n<div class=\"dummyPub\"> </div>\n<p>É ainda feita referência à renovação de Rodrigo Mora, que foi oficializada no dia de ontem, ficando com contrato até 2030 e uma cláusula de rescisão de 70 milhões de euros.</p>\n<p><span class=\"news_bold news_highlight\" style=\"background-color: #fff1aa;\">Confira os destaques desta quinta-feira percorrendo a fotogaleria.</span></p>",
          "media": {}
       }
    ]
