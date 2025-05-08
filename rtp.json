@@ -6,6 +6,16 @@
    "category": "noticias.rtp.pt, Rss",
    "items": [
       {
+         "title": "Sucessão de Francisco. Conclave para a eleição do novo Papa entra no segundo dia",
+         "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/de/de226805d522e05e2de40608790c967b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format\"/>\n      A primeira votação do Conclave, realizada na tarde de quarta-feira, resultou em fumo negro. Para esta quinta-feira estão previstas quatro votações. Acompanhamos aqui, ao minuto, todos os desenvolvimentos a partir da Santa Sé.\n ",
+         "link": "https://www.rtp.pt/noticias/mundo/sucessao-de-francisco-conclave-para-a-eleicao-do-novo-papa-entra-no-segundo-dia_e1653157",
+         "published": 1746697346000,
+         "created": 1746697346000,
+         "category": "Mundo",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "title": "Mundial feminino de futebol 2027 no Brasil",
          "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/d2/d20e25e063c8cf957f2ebd4b880e32f3?w=350&amp;q=50&amp;rect=0,107,900,493&amp;auto=format\"/>\n      O Campeonato do Mundo feminino de futebol de 2027, que vai ser disputado no Brasil, será disputado em oito estádios, incluindo o emblemático Maracanã, anunciou a FIFA.\n ",
          "link": "https://www.rtp.pt/noticias/futebol-internacional/mundial-feminino-de-futebol-2027-no-brasil_d1653187",
@@ -148,7 +158,7 @@
       {
          "title": "Zelensky pede aos países aliados mais pressão sobre a Rússia",
          "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/4f/4fa4bcc5562601a6d1fa77ae93171130?w=350&amp;q=50&amp;rect=0,0,1500,822&amp;auto=format\"/>\n      O Presidente da Ucrânia pediu hoje aos países aliados de Kiev mais pressão sobre Moscovo reagindo aos ataques russos ocorridos durante a noite, antes da entrada em vigor do cessar-fogo de três dias declarado unilateralmente pela Rússia.\n ",
-         "link": "https://www.rtp.pt/noticias/guerra-na-ucrania/zelensky-pede-aos-paises-aliados-mais-pressao-sobre-a-russia_n1653171",
+         "link": "https://www.rtp.pt/noticias/mundo/zelensky-pede-aos-paises-aliados-mais-pressao-sobre-a-russia_n1653171",
          "published": 1746693473000,
          "created": 1746693473000,
          "category": "Mundo",
@@ -168,7 +178,7 @@
       {
          "title": "Defesa Civil palestiniana alerta que 75% dos seus veículos estão parados",
          "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/f1/f1e4cf44fbe573de0f426014c9ad703c?w=350&amp;q=50&amp;rect=0,3,420,230&amp;auto=format\"/>\n      A Defesa Civil Palestiniana disse hoje que 75% dos seus veículos de socorro na Faixa de Gaza foram imobilizados devido à falta de combustível, uma vez que Israel bloqueou a ajuda no território desde 02 de março.\n ",
-         "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/defesa-civil-palestiniana-alerta-que-75-dos-seus-veiculos-estao-parados_n1653169",
+         "link": "https://www.rtp.pt/noticias/mundo/defesa-civil-palestiniana-alerta-que-75-dos-seus-veiculos-estao-parados_n1653169",
          "published": 1746692540000,
          "created": 1746692540000,
          "category": "Mundo",
@@ -211,16 +221,6 @@
          "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/israel-ameaca-fazer-a-teerao-o-mesmo-que-fez-ao-hamas-em-gaza_n1653161",
          "published": 1746691697000,
          "created": 1746691697000,
-         "category": "Mundo",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "title": "Sucessão de Francisco. Conclave para a eleição do novo Papa entra no segundo dia",
-         "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/de/de226805d522e05e2de40608790c967b?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format\"/>\n      A primeira votação do Conclave, realizada na tarde de quarta-feira, resultou em fumo negro. Para esta quinta-feira estão previstas quatro votações. Acompanhamos aqui, ao minuto, todos os desenvolvimentos a partir da Santa Sé.\n ",
-         "link": "https://www.rtp.pt/noticias/mundo/sucessao-de-francisco-conclave-para-a-eleicao-do-novo-papa-entra-no-segundo-dia_e1653157",
-         "published": 1746691624000,
-         "created": 1746691624000,
          "category": "Mundo",
          "enclosures": [],
          "media": {}
@@ -311,7 +311,7 @@
          "link": "https://www.rtp.pt/noticias/economia/xi-felicita-merz-por-eleicao-e-pede-reforco-da-globalizacao_n1653149",
          "published": 1746680591000,
          "created": 1746680591000,
-         "category": "Mundo",
+         "category": "Economia",
          "enclosures": [],
          "media": {}
       },
@@ -321,7 +321,7 @@
          "link": "https://www.rtp.pt/noticias/mundo/brasil-aumenta-taxa-de-juro-para-1475_n1653146",
          "published": 1746679926000,
          "created": 1746679926000,
-         "category": "Mundo",
+         "category": "Economia",
          "enclosures": [],
          "media": {}
       },
@@ -351,7 +351,7 @@
          "link": "https://www.rtp.pt/noticias/economia/trump-avisa-que-esta-a-chegar-um-grande-acordo-comercial_n1653144",
          "published": 1746676703000,
          "created": 1746676703000,
-         "category": "Mundo",
+         "category": "Economia",
          "enclosures": [],
          "media": {}
       },
