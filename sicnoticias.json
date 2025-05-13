@@ -14,8 +14,25 @@
          "published": 1747171817000,
          "created": 1747171817000,
          "category": "Cultura",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-13-doc.20250512.44946429.12094937.jpg-b61b3d4c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-13-doc.20250512.44946429.12094937.jpg-b61b3d4c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-05-13-doc.20250512.44946429.12094937.jpg-b61b3d4c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "6278ccee-537a-43f1-995a-7a9a9f8e2a35",
