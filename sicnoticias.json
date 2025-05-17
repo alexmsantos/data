@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "31c1f9ab-604a-4e97-a529-8146a4b8c30b",
+         "title": "Inundações na região de Buenos Aires obrigam à retirada de cerca de mil pessoas",
+         "description": "<p><span>As chuvas, quase ininterruptas, fizeram com que rios e ribeiros transbordassem, o que </span><span>provocou o corte de meia dúzia de estradas</span><span> e </span><span>cobriu campos nessa zona de planície.</span><span> Algumas ruas nos subúrbios de Buenos Aires foram igualmente afetadas.</span></p>",
+         "link": "https://sicnoticias.pt/mundo/2025-05-17-inundacoes-na-regiao-de-buenos-aires-obrigam-a-retirada-de-cerca-de-mil-pessoas-cd43649d",
+         "author": "Lusa",
+         "published": 1747505871000,
+         "created": 1747505871000,
+         "category": "Mundo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-cheias-em-buenos-aires-ff9c4b2c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-cheias-em-buenos-aires-ff9c4b2c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-cheias-em-buenos-aires-ff9c4b2c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "f0d36d51-e45b-48b5-911c-ab7c9ed24c1a",
          "title": "Colisão entre motociclos no concelho de Palmela faz dois mortos",
          "description": "<p><span>Alerta para o acidente foi dado às 15:51. Os </span><span>dois óbitos foram declarados no local. </span><span>Os motociclistas eram os condutores e únicos ocupantes dos veículos, referiu a fonte da GNR. </span><span>O acidente, segundo a Guarda, ocorreu na estrada que liga Pinhal Novo a Rio Frio.</span></p>",
@@ -212,35 +241,6 @@
          }
       },
       {
-         "id": "24ec4e83-b667-46e3-96fe-d879b428703b",
-         "title": "A luta pelo título: acompanhe o SC Braga-Benfica",
-         "description": "Num clássico moderno do futebol português, as “águias”, que ainda sonham com o título, medem forças com os “guerreiros” do Minho, praticamente relegados para o 4.º lugar.",
-         "link": "http://sicnoticias.pt/especiais/primeira-liga/2025-05-17-sc-braga-benfica-ao-minuto-3b61e9dd",
-         "author": "SIC Notícias",
-         "published": 1747496700000,
-         "created": 1747496700000,
-         "category": "Primeira Liga",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-05-17-sc-braga-benfica.jpg-feb3818d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-05-17-sc-braga-benfica.jpg-feb3818d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-05-17-sc-braga-benfica.jpg-feb3818d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "b46c29a0-8f56-4985-b181-e535ebe3f5c0",
          "title": "A luta pelo título: acompanhe o Sporting-Vitória SC",
          "description": "“Leões” estão a um triunfo de voltarem, mais de 70 anos depois, a sagrarem-se bicampeões nacionais. Pela frente têm um Vitória de Guimarães que luta ainda pelo apuramento para a Liga Conferência.",
@@ -270,29 +270,29 @@
          }
       },
       {
-         "id": "61fd914b-a715-47dd-aed2-0cdd25c211f2",
-         "title": "Kiev diz que troca de prisioneiros com a Rússia ocorrerá na próxima semana",
-         "description": "<p><span>Nas negociações entre a Ucrânia e a Rússia, realizadas na sexta-feira na Turquia, foi </span><span>acordada a troca de prisioneiros de guerra </span><span>no formato </span><span>\"1.000 por 1.000\"</span><span>, ou seja,</span><span> igual número de prisioneiros de ambos os lados, o que, a realizar-se numa única troca, seria a maior desde o início da guerra, há mais de três anos.</span></p>",
-         "link": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-05-17-kiev-diz-que-troca-de-prisioneiros-com-a-russia-ocorrera-na-proxima-semana-a5576551",
-         "author": "Lusa",
-         "published": 1747496505000,
-         "created": 1747496505000,
-         "category": "Guerra Rússia-Ucrânia",
+         "id": "24ec4e83-b667-46e3-96fe-d879b428703b",
+         "title": "A luta pelo título: acompanhe o SC Braga-Benfica",
+         "description": "Num clássico moderno do futebol português, as “águias”, que ainda sonham com o título, medem forças com os “guerreiros” do Minho, praticamente relegados para o 4.º lugar.",
+         "link": "http://sicnoticias.pt/especiais/primeira-liga/2025-05-17-sc-braga-benfica-ao-minuto-3b61e9dd",
+         "author": "SIC Notícias",
+         "published": 1747496700000,
+         "created": 1747496700000,
+         "category": "Primeira Liga",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/sicnot/2025-05-16-negociacoes-ucrania-russia-na-turquia.jpg-a22eefff/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-sc-braga-benfica.jpg-feb3818d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/sicnot/2025-05-16-negociacoes-ucrania-russia-na-turquia.jpg-a22eefff/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-sc-braga-benfica.jpg-feb3818d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-05-16-negociacoes-ucrania-russia-na-turquia.jpg-a22eefff/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-sc-braga-benfica.jpg-feb3818d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
