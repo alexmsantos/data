@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "31cbdd51-efa8-4406-8a4b-3646fbc863ff",
+         "title": "Colisão entre dois helicópteros na Finlândia faz vários mortos",
+         "description": "<p><span>O alerta foi dado por volta das 12:35 (hora local). </span><span>Dois helicópteros colidiram este sábado perto do aeroporto de Eura, no sudoeste da Finlândia</span><span>. </span><span>Seguiam pelo cinco pessoas a bordo </span><span>- duas num helicóptero e outras três noutro. De acordo com o Ministério dos Negócios Estrangeiros, </span><span>ninguém sobreviveu. </span></p>",
+         "link": "https://sicnoticias.pt/mundo/2025-05-17-colisao-entre-dois-helicopteros-na-finlandia-faz-varios-mortos--a9895a97",
+         "author": "Rita de Sousa",
+         "published": 1747503201000,
+         "created": 1747503201000,
+         "category": "Mundo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-colisao-dois-helicopeteros-na-finlandia-63345da7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-colisao-dois-helicopeteros-na-finlandia-63345da7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-05-17-colisao-dois-helicopeteros-na-finlandia-63345da7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "7593fc49-2bb7-4384-892b-782a51539b7e",
          "title": "Mafalda Rosa e Tiago Campos vencem 10 km do Open de Portugal de águas abertas",
          "description": "<p><span>Campos, nadador olímpico em Tóquio2020 que representa o FC Porto, esteve sempre entre os melhores e cortou a meta ao fim de 01:55.22,4 horas, batendo Ricardo Santos (Louzan/Efapel), segundo, e Diogo Cardoso (Sporting), terceiro.</span></p>",
@@ -154,35 +183,6 @@
          }
       },
       {
-         "id": "24ec4e83-b667-46e3-96fe-d879b428703b",
-         "title": "A luta pelo título: acompanhe o SC Braga-Benfica",
-         "description": "Num clássico moderno do futebol português, as “águias”, que ainda sonham com o título, medem forças com os “guerreiros” do Minho, praticamente relegados para o 4.º lugar.",
-         "link": "http://sicnoticias.pt/especiais/primeira-liga/2025-05-17-sc-braga-benfica-ao-minuto-3b61e9dd",
-         "author": "SIC Notícias",
-         "published": 1747496700000,
-         "created": 1747496700000,
-         "category": "Primeira Liga",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2022-09-07-Estadio-Braga.jpg-71c702b6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2022-09-07-Estadio-Braga.jpg-71c702b6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2022-09-07-Estadio-Braga.jpg-71c702b6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "b46c29a0-8f56-4985-b181-e535ebe3f5c0",
          "title": "A luta pelo título: acompanhe o Sporting-Vitória SC",
          "description": "“Leões” estão a um triunfo de voltarem, mais de 70 anos depois, a sagrarem-se bicampeões nacionais. Pela frente têm um Vitória de Guimarães que luta ainda pelo apuramento para a Liga Conferência.",
@@ -206,6 +206,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2022-09-13-sporting-alvalade-champions--2-.jpg-3fa0f6e5-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "24ec4e83-b667-46e3-96fe-d879b428703b",
+         "title": "A luta pelo título: acompanhe o SC Braga-Benfica",
+         "description": "Num clássico moderno do futebol português, as “águias”, que ainda sonham com o título, medem forças com os “guerreiros” do Minho, praticamente relegados para o 4.º lugar.",
+         "link": "http://sicnoticias.pt/especiais/primeira-liga/2025-05-17-sc-braga-benfica-ao-minuto-3b61e9dd",
+         "author": "SIC Notícias",
+         "published": 1747496700000,
+         "created": 1747496700000,
+         "category": "Primeira Liga",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-09-07-Estadio-Braga.jpg-71c702b6-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-09-07-Estadio-Braga.jpg-71c702b6-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2022-09-07-Estadio-Braga.jpg-71c702b6-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -264,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-05-15-ap25135284951781.jpg-0d6ed1df/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "0f0fec29-2762-454b-a209-65bd5ea42e5e",
-         "title": "Hamas confirma negociações \"sem condições prévias\"",
-         "description": "<p><span>\"O Hamas apresentará o seu ponto de vista sobre todas as questões, nomeadamente o fim da guerra, a retirada e a troca de prisioneiros\"</span><span>,</span><span>dirigente do movimento islamita palestiniano Hamas </span><span>referindo-se à troca de reféns detidos pelo Hamas por prisioneiros palestinianos detidos por Israel.</span></p>",
-         "link": "https://sicnoticias.pt/especiais/guerra-no-medio-oriente/2025-05-17-hamas-confirma-negociacoes-sem-condicoes-previas-f6ca5e76",
-         "author": "Lusa",
-         "published": 1747494475000,
-         "created": 1747494475000,
-         "category": "Guerra no Médio Oriente",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-03-31-khan-younis-9c3eeba1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-03-31-khan-younis-9c3eeba1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-03-31-khan-younis-9c3eeba1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
