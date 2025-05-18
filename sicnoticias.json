@@ -72,8 +72,25 @@
          "published": 1747594800000,
          "created": 1747594800000,
          "category": "Resultados detalhados",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-18-eleicoes.jpg-91f85585/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-18-eleicoes.jpg-91f85585/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-05-18-eleicoes.jpg-91f85585/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "e0b08ce5-48bd-4cac-8d3b-5203cc4289d2",
