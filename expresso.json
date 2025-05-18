@@ -72,8 +72,25 @@
          "published": 1747548000000,
          "created": 1747548000000,
          "category": "Lusa",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-05-18-leaoxiv.jpg-9c855d2a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-05-18-leaoxiv.jpg-9c855d2a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-05-18-leaoxiv.jpg-9c855d2a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b7c145a0-582a-4550-9b9f-fdfe0455a3ae",
