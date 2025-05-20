@@ -16,19 +16,19 @@
          "category": "Cultura",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2025-05-20-agente-secreto.jpg-397efaf9/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-05-20-agente-secreto-1.jpg-48a0446c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2025-05-20-agente-secreto.jpg-397efaf9/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-05-20-agente-secreto-1.jpg-48a0446c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-05-20-agente-secreto.jpg-397efaf9/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-05-20-agente-secreto-1.jpg-48a0446c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -245,7 +245,10 @@
          "title": "Ministério Público pediu informações adicionais a Montenegro sobre Spinumviva e a Pedro Nuno Santos sobre venda de casas",
          "description": "<p><span>A PGR adiantou que \"foram solicitados elementos adicionais\" em relação às duas averiguações preventivas em curso, uma relacionada com Luís Montenegro e a empresa Spinumviva, e outra relacionada com Pedro Nuno Santos e a aquisição de um imóvel em Lisboa</span></p>",
          "link": "https://expresso.pt/sociedade/justica/2025-05-20-ministerio-publico-pediu-informacoes-adicionais-a-montenegro-sobre-spinumviva-e-a-pedro-nuno-santos-sobre-venda-de-casas-a3a9f8f7",
-         "author": "Agência Lusa",
+         "author": [
+            "Expresso",
+            "Agência Lusa"
+         ],
          "published": 1747742785000,
          "created": 1747742785000,
          "category": "Justiça",
