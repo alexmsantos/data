@@ -191,8 +191,25 @@
          "published": 1747849910000,
          "created": 1747849910000,
          "category": "Desporto",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-07-08-luis-godinho-arbitro.jpg-57cc7ac0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-07-08-luis-godinho-arbitro.jpg-57cc7ac0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-07-08-luis-godinho-arbitro.jpg-57cc7ac0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "d3623490-ef73-40aa-9839-f0731ea0e874",
