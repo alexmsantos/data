@@ -163,18 +163,6 @@
          }
       },
       {
-         "id": "b7bf2138-0690-4a4f-83a5-20c15f3ffcdb",
-         "title": "A culpa é",
-         "description": "<p>A culpa não é certamente de vários factores. Há-de ser só um. Só temos de descobrir qual é. Parece-me fácil. Boa sorte para todos nós</p>",
-         "link": "https://expresso.pt/opiniao/2025-05-22-a-culpa-e-1acaf612",
-         "author": "Ricardo Araújo Pereira",
-         "published": 1747951020000,
-         "created": 1747951020000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "e5148ae4-53ea-47b1-96f3-ca9a9a6a77d2",
          "title": "Um país estranho ou de estranhos?",
          "description": "<p>A esquerda só pode queixar-se de si própria. Esteve no poder nos últimos oito anos e derrubou dois Governos, um dos quais do seu próprio espaço político</p>",
@@ -225,6 +213,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-05-21-_ab_0544-copy_t-_idp.jpg-0fd9e686/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "4b3fdc1d-eea3-4179-b4fa-26d1a4279756",
+         "title": "Descodificador: Tem dois empregos? Há regras a cumprir",
+         "description": "<p>A lei não proíbe acumulação de empregos, mas alguns contratos podem ter limitações que impeçam, por exemplo, trabalhar na mesma área de atividade</p>",
+         "link": "https://expresso.pt/semanario/economia/o-ceo-e-o-limite/2025-05-22-descodificador-tem-dois-empregos--ha-regras-a-cumprir-3dfc203a",
+         "author": "Cátia Mateus",
+         "published": 1747951020000,
+         "created": 1747951020000,
+         "category": "O CEO é o limite",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-05-21-gettyimages-1238708767_t-_idp.jpg-adb6c423/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-05-21-gettyimages-1238708767_t-_idp.jpg-adb6c423/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-05-21-gettyimages-1238708767_t-_idp.jpg-adb6c423/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
