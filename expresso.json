@@ -10,7 +10,10 @@
          "title": "Liverpool: homem atropelou multidão que celebrava vitória na Liga Inglesa, há vários feridos",
          "description": "<p>Polícia já deteve homem britânico branco de 53 anos. Número de vítimas ainda por revelar. PM britânico agradeceu \"resposta rápida\" da polícia e dos serviços de emergência</p>",
          "link": "https://expresso.pt/internacional/reino-unido/2025-05-26-liverpool-homem-atropelou-multidao-que-celebrava-vitoria-na-liga-inglesa-ha-varios-feridos-2a622d2c",
-         "author": "Agência Lusa",
+         "author": [
+            "Agência Lusa",
+            "Expresso"
+         ],
          "published": 1748290347000,
          "created": 1748290347000,
          "category": "Reino Unido",
@@ -29,6 +32,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-05-26-doc.20250526.45045033.12137532.jpg-e10e5564/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "d7515153-9780-44f8-858e-dfa30e3a0499",
+         "title": "Caso do médico que recebeu 51 mil euros num dia prejudica confiança dos cidadãos, diz a ministra da Saúde",
+         "description": "<p><span>A ministra&nbsp;</span><span>Ana Paula Martins lembrou que ninguém sabe o que \"verdadeiramente se passou\" e que não se deve confundir a árvore com a floresta. IGAS vai averiguar a atividade extra de todas as Unidades Locais de Saúde</span></p>",
+         "link": "https://expresso.pt/sociedade/saude/2025-05-26-caso-do-medico-que-recebeu-51-mil-euros-num-dia-prejudica-confianca-dos-cidadaos-diz-a-ministra-da-saude-3701423b",
+         "author": "Agência Lusa",
+         "published": 1748290333000,
+         "created": 1748290333000,
+         "category": "Saúde",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-08-visita-min-saude-e-pm-a-santa-maria-5f4898a3-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-08-08-visita-min-saude-e-pm-a-santa-maria-5f4898a3-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-08-08-visita-min-saude-e-pm-a-santa-maria-5f4898a3-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -268,35 +300,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-05-09-gettyimages-2213565037.jpg-b44f9dd9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "d6e1d197-197f-454f-afab-6c8194d2e292",
-         "title": "Regulador propõe novas regras na eletricidade: saiba o que muda para as famílias e para as empresas reguladas",
-         "description": "<p>A ERSE abriu uma consulta pública sobre uma proposta de alterações ao regulamento tarifário da eletricidade, para vigorar a partir de 2026. Explicamos em oito pontos-chave algumas das mudanças que estão no horizonte</p>",
-         "link": "https://expresso.pt/economia/economia_energia/2025-05-26-regulador-propoe-novas-regras-na-eletricidade-saiba-o-que-muda-para-as-familias-e-para-as-empresas-reguladas-a926239e",
-         "author": "Miguel Prado",
-         "published": 1748278880000,
-         "created": 1748278880000,
-         "category": "Energia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2021-09-17-eletricidade-luz-lampada-fbbdbd5f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2021-09-17-eletricidade-luz-lampada-fbbdbd5f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2021-09-17-eletricidade-luz-lampada-fbbdbd5f/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
