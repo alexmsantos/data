@@ -6,11 +6,43 @@
    "category": [],
    "items": [
       {
+         "id": "e21434ba-5789-4c7d-bb51-1f507c4c7dec",
+         "title": "Uber Commute: o projeto que quer apoiar a redução de veículos a entrarem diariamente em Lisboa",
+         "description": "<p><span>A iniciativa denominada Uber Commute oferece um desconto de 50% em 10 viagens por pessoa nas deslocações para todas as estações de comboios e de barco na margem sul e vice-versa.</span></p>",
+         "link": "https://sicnoticias.pt/webstories/uber-commute-o-projeto-que-quer-apoiar-a-reducao-de-veiculos-a-entrarem-diariamente-em-lisboa/",
+         "author": "SIC Notícias",
+         "published": 1748438898000,
+         "created": 1748438898000,
+         "category": "Webstories",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-28-mw-1920--1-.webp-13644603/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-05-28-mw-1920--1-.webp-13644603/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-05-28-mw-1920--1-.webp-13644603/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "272ebc3a-aed4-4a93-b76e-4a1b940b51e2",
          "title": "Nuno Borges brilha em Roland Garros e elimina o n.º 8 do mundo",
          "description": "Número um português afastou o tenista norueguês em quatro sets (6-2,4-6,1-6 e 0-6) e apurou-se, pela primeira vez, para a terceira ronda do segundo Grand Slam da temporada.",
          "link": "https://sicnoticias.pt/desporto/2025-05-28-nuno-borges-brilha-em-roland-garros-e-elimina-o-n.-8-do-mundo-casper-ruud-51bd629c",
-         "author": "SIC Notícias",
+         "author": [
+            "André de Jesus",
+            "Lusa"
+         ],
          "published": 1748438834000,
          "created": 1748438834000,
          "category": "Desporto",
@@ -270,35 +302,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2022-09-03-Serena-Williams-51d59283/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "7b23d5e4-6c31-4e40-ba03-aacddd8d4098",
-         "title": "Detidos suspeitos do homicídio dos irmãos de Unhais da Serra",
-         "description": "Em março, os corpos dos dois irmãos - de 55 e 61 anos - foram encontrados cobertos de vegetação, numa zona de pinhal a oito quilómetros de casa.",
-         "link": "https://sicnoticias.pt/pais/2025-05-28-detidos-suspeitos-do-homicidio-dos-irmaos-de-unhais-da-serra-e852b3ab",
-         "author": "SIC Notícias",
-         "published": 1748432214000,
-         "created": 1748432214000,
-         "category": "País",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-04-12-video.jpg-9a56b401/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-04-12-video.jpg-9a56b401/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-04-12-video.jpg-9a56b401/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
