@@ -7,10 +7,13 @@
    "items": [
       {
          "id": "7f637e75-5d28-4846-9212-03d76f066800",
-         "title": "Grupo armado assalta banco no concelho de Redondo, buscas em curso",
-         "description": "O assalto envolveu, pelo menos, “três indivíduos encapuzados, um deles armado”, que estão em fuga.",
+         "title": "Grupo armado assalta banco no concelho de Redondo",
+         "description": "O assalto envolveu, pelo menos, “três indivíduos encapuzados, um deles armado”, que foram detidos ao final da manhã.",
          "link": "https://sicnoticias.pt/pais/2025-06-05-grupo-armado-assalta-dependencia-bancaria-no-concelho-de-redondo-28ecc445",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1749121949000,
          "created": 1749121949000,
          "category": "País",
@@ -209,6 +212,35 @@
          }
       },
       {
+         "id": "9961cc20-747a-4707-ba50-f2095f99d753",
+         "title": "Gado retido nas ilhas do Pico e Graciosa será transportado na próxima semana",
+         "description": "O Governo Regional dos Açores anunciou que o transporte marítimo do gado retido nas ilhas do Pico e da Graciosa para o continente será realizado na próxima semana. A operação envolverá a utilização de contentores e navios de diferentes empresas para garantir a movimentação dos animais.",
+         "link": "https://sicnoticias.pt/pais/2025-06-05-gado-retido-nas-ilhas-do-pico-e-graciosa-sera-transportado-na-proxima-semana-8313bbac",
+         "author": "Lusa",
+         "published": 1749114415000,
+         "created": 1749114415000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-09-23-vacas-82173e5f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-09-23-vacas-82173e5f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-09-23-vacas-82173e5f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "c1ac2421-67a5-4c2d-bd38-93c412c55b45",
          "title": "Incêndio de grandes dimensões deflagra em navio perto do Alasca",
          "description": "<p><span>O navio transportava cerca de três mil carros, incluindo 800 elétricos.</span></p>",
@@ -261,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-01-02-trafico-de-droga.jpg-eeda561a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f9035a93-64a4-4d3b-be9b-6016a4443419",
-         "title": "Portugal identificado como ponto de entrada do tráfico de cocaína na Europa",
-         "description": "Portugal foi identificado como ponto de entrada do tráfico de cocaína para a Europa, tendo sido apreendidas 22 toneladas desta droga em 2023. O tráfico continua a explorar cadeias comerciais e a alimentar a violência.",
-         "link": "https://sicnoticias.pt/mundo/2025-06-05-portugal-identificado-como-ponto-de-entrada-do-trafico-de-cocaina-na-europa-e9315154",
-         "author": "Lusa",
-         "published": 1749114000000,
-         "created": 1749114000000,
-         "category": "Mundo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-02-25-cocaina.jpg-788f8a9c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-02-25-cocaina.jpg-788f8a9c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-02-25-cocaina.jpg-788f8a9c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
