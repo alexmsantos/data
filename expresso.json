@@ -6,10 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "8c65a6fb-969b-43e7-8fc6-99a3cc0a4589",
+         "title": "Calema: de São Tomé ao Estádio da Luz, na Revista E",
+         "description": "",
+         "link": "https://expresso.pt/semanario/revista-e",
+         "author": "Expresso",
+         "published": 1749161336000,
+         "created": 1749161336000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-05-e_2745.jpg-13b50aaa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-05-e_2745.jpg-13b50aaa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-06-05-e_2745.jpg-13b50aaa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "424234ba-6e4f-43a4-8873-92ab27b37a93",
          "title": "IDEIAS: O crepúsculo de Bretton Woods",
          "description": "",
-         "link": "https://expresso.pt/Capas/2025-06-05-ideias-o-crepusculo-de-bretton-woods-b5869216",
+         "link": "https://expresso.pt/semanario/ideias",
          "author": "Expresso",
          "published": 1749160852000,
          "created": 1749160852000,
@@ -38,7 +67,7 @@
          "id": "dab1b543-90fb-48de-b62e-3460d96a4504",
          "title": "A primeira página do Expresso",
          "description": "",
-         "link": "https://expresso.pt/Capas/2025-06-05-a-primeira-pagina-do-expresso-0c44d8da",
+         "link": "https://expresso.pt/semanario/primeiro",
          "author": "Expresso",
          "published": 1749160819000,
          "created": 1749160819000,
@@ -67,7 +96,7 @@
          "id": "9c4df0ef-83a8-421d-824f-d3626c4c276c",
          "title": "A 1ª página do Expresso Economia",
          "description": "",
-         "link": "https://expresso.pt/Capas/2025-06-05-a-1-pagina-do-expresso-economia-f107b928",
+         "link": "https://expresso.pt/semanario/economia",
          "author": "Expresso",
          "published": 1749160818000,
          "created": 1749160818000,
@@ -231,35 +260,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-06-02-literaciamediatica_t-_idp.jpg-4673cf96-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "1d442e44-ec2c-49f1-9002-0bc6b54b81ff",
-         "title": "“O mal não é perpetrado por monstros, mas por pessoas como tu e eu. A diferença é que os que resistem escolheram pensar”",
-         "description": "<p>Samantha Rose Hill, autora de “Hannah Arendt — Uma Biografia”, que também editou e traduziu os poemas da filósofa alemã, diz que esta continua a fornecer-nos o vocabulário para pensar o nosso tempo. Mas é urgente encontrar uma linguagem para os novos fenómenos políticos — esta é a tarefa urgente da Filosofia</p>",
-         "link": "https://expresso.pt/cultura/2025-06-05-o-mal-nao-e-perpetrado-por-monstros-mas-por-pessoas-como-tu-e-eu.-a-diferenca-e-que-os-que-resistem-escolheram-pensar-74a8d0a7",
-         "author": "Luciana Leiderfarb",
-         "published": 1749160620000,
-         "created": 1749160620000,
-         "category": "Cultura",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-06-03-samantha-rose-hill-1_t.jpg-75fb2d95/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-06-03-samantha-rose-hill-1_t.jpg-75fb2d95/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-06-03-samantha-rose-hill-1_t.jpg-75fb2d95/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
