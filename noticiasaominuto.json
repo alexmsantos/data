@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2802485/zebra-capturada-apos-oito-dias-em-fuga-no-tennessee-eis-o-momento?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zebra capturada após oito dias em fuga no Tennessee. Eis o momento",
+         "description": "A \"celebridade 'Ed, a Zebra' foi resgatada em segurança\" por equipas de aviação, que depois a devolveram ao seu dono.",
+         "link": "https://www.noticiasaominuto.com/mundo/2802485/zebra-capturada-apos-oito-dias-em-fuga-no-tennessee-eis-o-momento",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1749419345000,
+         "created": 1749419345000,
+         "category": "Mundo",
+         "content": "<p>Uma zebra de estimação foi capturada este domingo após ter estado oito dias em fuga, no Tennessee, nos Estados Unidos. Ao longo da última semana, 'Ed, a Zebra' tornou-se um fenómeno nas redes sociais, com vários utilizadores a partilharem avistamentos, e o momento em que foi 'apanhada' pelas autoridades também não foi diferente.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo o Gabinete do Xerife do Condado de Rutherford, \"a celebridade 'Ed, a Zebra' foi resgatada em segurança\" por equipas de aviação, que depois a devolveram ao seu dono.</p>\n<p>\"Ed foi localizada numa zona de pasto situada perto da subdivisão Buchanan Estates, perto da Interstate 24\", indicou a autoridade, acrescentando que o animal foi depois \"transportado de helicóptero para uma caravana de animais que o aguardava\".</p>\n<p>Ed, que se tornou \"uma sensação internacional através de memes nas redes sociais\", tinha chegado à comunidade de Christiana, em Rutherford, a 30 de maio e foi dada como desaparecida no dia seguinte.</p>\n<p>No dia do desaparecimento foi vista a correr pela autoestrada Interstate 24 e depois fugiu para uma zona arborizada, voltando a ser vista apenas na quinta-feira.</p>\n<p>Um vídeo, divulgado pelo Gabinete do Xerife do Condado de Rutherford e que <span class=\"news_bold\">pode ver na galeria acima</span>, mostra o animal preso numa rede enquanto é transportado pelo helicóptero.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2801831/zebra-foragida-monitorizada-com-drone-policia-pede-que-evitem-area\" target=\"_blank\" rel=\"noopener noreferrer\">Zebra foragida monitorizada com drone. Polícia pede que \"evitem área\"</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6845f52a37297.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Uma zebra de estimação foi capturada este domingo após ter estado oito dias em fuga, no Tennessee, nos Estados Unidos. Ao longo da última semana, 'Ed, a Zebra' tornou-se um fenómeno nas redes sociais, com vários utilizadores a partilharem avistamentos, e o momento em que foi 'apanhada' pelas autoridades também não foi diferente.</p>\n<div class=\"dummyPub\"> </div>\n<p>Segundo o Gabinete do Xerife do Condado de Rutherford, \"a celebridade 'Ed, a Zebra' foi resgatada em segurança\" por equipas de aviação, que depois a devolveram ao seu dono.</p>\n<p>\"Ed foi localizada numa zona de pasto situada perto da subdivisão Buchanan Estates, perto da Interstate 24\", indicou a autoridade, acrescentando que o animal foi depois \"transportado de helicóptero para uma caravana de animais que o aguardava\".</p>\n<p>Ed, que se tornou \"uma sensação internacional através de memes nas redes sociais\", tinha chegado à comunidade de Christiana, em Rutherford, a 30 de maio e foi dada como desaparecida no dia seguinte.</p>\n<p>No dia do desaparecimento foi vista a correr pela autoestrada Interstate 24 e depois fugiu para uma zona arborizada, voltando a ser vista apenas na quinta-feira.</p>\n<p>Um vídeo, divulgado pelo Gabinete do Xerife do Condado de Rutherford e que <span class=\"news_bold\">pode ver na galeria acima</span>, mostra o animal preso numa rede enquanto é transportado pelo helicóptero.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2801831/zebra-foragida-monitorizada-com-drone-policia-pede-que-evitem-area\" target=\"_blank\" rel=\"noopener noreferrer\">Zebra foragida monitorizada com drone. Polícia pede que \"evitem área\"</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2802486/nuno-mendes-parte-a-loica-cristiano-ronaldo-empata-e-faz-este-gesto?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nuno Mendes 'parte a loiça', Cristiano Ronaldo empata e faz este gesto",
@@ -421,7 +444,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2802379/portugal-espanha-quem-repetira-a-conquista-da-liga-das-nacoes?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "[2-2] Portugal-Espanha: Diogo Costa evita golaço de Isco",
+         "title": "[2-2] Portugal-Espanha: Teremos prolongamento na final da Liga das Nações",
          "description": "Acompanhe, em direto, todas as incidências da final (ibérica) da Liga das Nações, que decorre em Munique.",
          "link": "https://www.noticiasaominuto.com/desporto/2802379/portugal-espanha-quem-repetira-a-conquista-da-liga-das-nacoes",
          "author": {
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>\"A estratégia da direita para privatizar a SATA vai levar ao seu colapso e a um rombo gigantesco nas finanças dos Açores e no transporte aéreo na região\", refere o partido num comunicado enviado às redações.</p>\n<div class=\"dummyPub\"> </div>\n<p>Para o BE açoriano, liderado por António Lima, \"é urgente parar este caminho para o desastre que coloca em causa o transporte aéreo nos Açores e começar desde já a trabalhar numa estratégia que salve a SATA e o transporte aéreo\" no arquipélago.</p>\n<p>As duas companhias aéreas do grupo SATA, a Azores Airlines e a Sata Air Açores, fecharam 2024 com um prejuízo acumulado de 82,8 milhões de euros, mais do dobro do ano anterior, segundo dados divulgados pela empresa.</p>\n<p>Em comunicado, a SATA avança que, no ano passado, a Sata Internacional - Azores Airlines (que opera de e para fora do arquipélago) registou um resultado líquido negativo de 71,2 milhões de euros, o que compara com um prejuízo de 26,08 milhões de euros em 2023.</p>\n<p>Já a Sata Air Açores (responsável pelas ligações interilhas) reportou um resultado líquido negativo de 11,6 milhões de euros em 2024, contra 9,97 milhões de prejuízo no ano anterior.</p>\n<p>O prejuízo acumulado das duas companhias somou assim 82,8 milhões de euros no ano passado, mais do dobro dos 36 milhões reportados em 2023.</p>\n<p>Para o BE/Açores, o prejuízo do grupo em 2024 \"é uma situação dramática, que revela o total falhanço da política do Governo Regional da coligação PSD, CDS e PPM, com o apoio do Chega, para a companhia aérea açoriana\".</p>\n<p>\"Os resultados de 2024 são tão maus quanto o pior ano da pandemia, quando os aviões não saíram do chão\", refere.</p>\n<p>Segundo o partido, o grupo SATA \"está numa situação limite e a sua sobrevivência está em risco\".</p>\n<p>\"Tudo isto após 453 milhões de euros de ajudas públicas que a direita desbaratou\", salienta, lembrando ter alertado \"em devido tempo para o desastre que se anunciava e que o Governo Regional tentava esconder\".</p>\n<p>\"Alertámos para a engenharia financeira que constitui o registo de 19 milhões de euros de impostos diferidos nas contas de 2022 para disfarçar prejuízos, alertámos para o registo de 12 milhões de euros para maquilhar as contas de 2021, que deveriam ter sido registados em 2020, e denunciámos um empréstimo ruinoso contratado à JP Morgan que custou seis milhões de euros em apenas nove meses\", é referido.</p>\n<p>Com o objetivo de melhorar a \"'performance' financeira e económica\" do grupo, \"com particular destaque para a Azores Airlines\", o Conselho de Administração da Sata diz estar a executar o Plano de Sustentabilidade Financeira desenvolvido pelas equipas de gestão do grupo.</p>\n<p>Este plano integra 41 medidas de curto, médio e longo prazos -- \"a maioria delas já em execução\" - que pretendem gerar um impacto financeiro de 65 milhões de euros através do aumento da receita e da eficiência operacional e da reestruturação dos serviços de suporte.</p>\n<p>\"Estamos convictos de que o ano de 2024 foi, por várias razões, um ano de inflexão e que o ano de 2025 será certamente um virar de página. A melhoria dos resultados obtidos nos primeiros meses de 2025 indicam que estamos no bom caminho\", afirma o presidente executivo (CEO) do grupo SATA, Rui Coutinho, citado no comunicado.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2802350/salvar-a-sata-psacores-disponivel-para-dialogo-com-governo-regional\" target=\"_blank\" rel=\"noopener noreferrer\">\"Salvar a SATA\". PS/Açores disponível para diálogo com Governo Regional</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2802358/oficial-italia-despede-spalletti-apos-a-humilhacao-na-noruega?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oficial: Itália despede Spalletti após a humilhação na Noruega",
-         "description": "Treinador anuncia que o último jogo no cargo será na segunda-feira, perante a Moldávia.",
-         "link": "https://www.noticiasaominuto.com/desporto/2802358/oficial-italia-despede-spalletti-apos-a-humilhacao-na-noruega",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1749391477000,
-         "created": 1749391477000,
-         "category": "Desporto",
-         "content": "<p>Luciano Spalletti anunciou, este domingo, em conferência de imprensa, que foi despedido do comando técnico da principal seleção italiana, na sequência da pesada derrota sofrida na visita à Noruega, por 3-0, no arranque da caminhada rumo ao Campeonato do Mundo de 2026.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Falei com Gravina [presidente da FIGC, a Federação Italiana de Futebol], ontem à noite, e foi-me comunicado que seria demitido do meu papel enquanto treinador da seleção nacional\", começou por afirmar, na conferência de imprensa de antevisão ao encontro perante a Moldávia, no Mapei Stadium.</p>\n<p>\"Desagradou-me, dada a relação que temos. Eu não tinha qualquer intenção de desistir, sobretudo, quando as coisas não estão bem. Preferia permanecer e fazer o meu trabalho, mas, tratando-se de uma demissão, tenho de aceitar\", prosseguiu.</p>\n<p>\"Sempre interpretei este papel como um serviço à pátria e quero ajudar ao futuro da seleção. Penso que têm o direito a procurar o que é melhor, pelo que irei rescindir contrato. Estarei lá, amanhã à noite, contra a Moldávia\", completou.</p>\n<p>Luciano Spalletti, recorde-se, assumiu Itália em agosto de 2023, como sucessor de Roberto Mancini. Num espaço de quase dois anos, somou 11 vitórias, seis empates e outras tantas derrotas ao cabo de 23 partidas oficiais.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2801796/haaland-fatura-e-italia-cai-com-estrondo-na-luta-pelo-acesso-ao-mundial\" target=\"_blank\" rel=\"noopener noreferrer\">Haaland 'fatura' e Itália cai com estrondo na luta pelo acesso ao Mundial</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_684589b62987f.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Luciano Spalletti anunciou, este domingo, em conferência de imprensa, que foi despedido do comando técnico da principal seleção italiana, na sequência da pesada derrota sofrida na visita à Noruega, por 3-0, no arranque da caminhada rumo ao Campeonato do Mundo de 2026.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"Falei com Gravina [presidente da FIGC, a Federação Italiana de Futebol], ontem à noite, e foi-me comunicado que seria demitido do meu papel enquanto treinador da seleção nacional\", começou por afirmar, na conferência de imprensa de antevisão ao encontro perante a Moldávia, no Mapei Stadium.</p>\n<p>\"Desagradou-me, dada a relação que temos. Eu não tinha qualquer intenção de desistir, sobretudo, quando as coisas não estão bem. Preferia permanecer e fazer o meu trabalho, mas, tratando-se de uma demissão, tenho de aceitar\", prosseguiu.</p>\n<p>\"Sempre interpretei este papel como um serviço à pátria e quero ajudar ao futuro da seleção. Penso que têm o direito a procurar o que é melhor, pelo que irei rescindir contrato. Estarei lá, amanhã à noite, contra a Moldávia\", completou.</p>\n<p>Luciano Spalletti, recorde-se, assumiu Itália em agosto de 2023, como sucessor de Roberto Mancini. Num espaço de quase dois anos, somou 11 vitórias, seis empates e outras tantas derrotas ao cabo de 23 partidas oficiais.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2801796/haaland-fatura-e-italia-cai-com-estrondo-na-luta-pelo-acesso-ao-mundial\" target=\"_blank\" rel=\"noopener noreferrer\">Haaland 'fatura' e Itália cai com estrondo na luta pelo acesso ao Mundial</a></p>",
          "media": {}
       }
    ]
