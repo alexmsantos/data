@@ -1,10 +1,56 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2802369/sismo-de-6-3-sentido-na-colombia?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sismo de 6,3 sentido na Colômbia",
+         "description": "O epicentro do terramoto foi a poucos quilómetros de Bogotá, a capital do país.",
+         "link": "https://www.noticiasaominuto.com/mundo/2802369/sismo-de-6-3-sentido-na-colombia",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1749393626000,
+         "created": 1749393626000,
+         "category": "Mundo",
+         "content": "<p>Um sismo de magnitude 6,3 na escala de Richter sacudiu, este domingo, a Colômbia, avança o Serviço Geológico dos EUA (USGS, na sigla inglesa).</p>\n<div class=\"dummyPub\"> </div>\n<p>O epicentro do terramoto foi a dez quilómetros de profundidade e a 17 quilómetros de distância de Paraebueno, perto de Bogotá, a capital do país.</p>\n<p>[Notícia em atualização]</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2802246/politico-colombiano-baleado-durante-discurso-atentado-o-que-se-sabe\" target=\"_blank\" rel=\"noopener noreferrer\">Político colombiano baleado durante discurso. \"Atentado\"? O que se sabe</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_684592a580539.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>Um sismo de magnitude 6,3 na escala de Richter sacudiu, este domingo, a Colômbia, avança o Serviço Geológico dos EUA (USGS, na sigla inglesa).</p>\n<div class=\"dummyPub\"> </div>\n<p>O epicentro do terramoto foi a dez quilómetros de profundidade e a 17 quilómetros de distância de Paraebueno, perto de Bogotá, a capital do país.</p>\n<p>[Notícia em atualização]</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2802246/politico-colombiano-baleado-durante-discurso-atentado-o-que-se-sabe\" target=\"_blank\" rel=\"noopener noreferrer\">Político colombiano baleado durante discurso. \"Atentado\"? O que se sabe</a></p>",
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2802238/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-transferencias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Siga os rumores e os negócios do mercado de transferências",
+         "description": "Fique com o Desporto ao Minuto e acompanhe o essencial do mercado de transferências.",
+         "link": "https://www.noticiasaominuto.com/desporto/2802238/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-transferencias",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1749393541000,
+         "created": 1749393541000,
+         "category": "Desporto",
+         "content": "<p>O mercado de transferências de verão ainda não se encontra oficialmente aberto, mas, um pouco por todo o mundo, os clubes já se vão movimentando no sentido de 'amarrarem' os reforços de que precisam para a temporada que se avizinha.</p>\n<div class=\"dummyPub\"> </div>\n<p>Fique com o <span class=\"news_bold\">Desporto ao Minuto</span> e acompanhe, a par e passo, todos os rumores e confirmações dos dias que antecedem o início da janela de transferências.</p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_684524b34d795.jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>O mercado de transferências de verão ainda não se encontra oficialmente aberto, mas, um pouco por todo o mundo, os clubes já se vão movimentando no sentido de 'amarrarem' os reforços de que precisam para a temporada que se avizinha.</p>\n<div class=\"dummyPub\"> </div>\n<p>Fique com o <span class=\"news_bold\">Desporto ao Minuto</span> e acompanhe, a par e passo, todos os rumores e confirmações dos dias que antecedem o início da janela de transferências.</p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2802365/suspeito-no-caso-maddie-provoca-policia-ha-algum-corpo-nao?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Suspeito no caso Maddie provoca polícia: \"Há algum corpo? Não\"",
@@ -2257,52 +2303,6 @@
             }
          ],
          "content_encoded": "<p>O presidente do Paris Saint-Germain concedeu, este domingo, uma extensa entrevista à estação televisiva qatari Al Kass, na qual aproveitou para deixar uma 'bicada' a Kylian Mbappé, jogador que, no passado verão, perdeu para o Real Madrid, a 'custo zero'.</p>\n<div class=\"dummyPub\"> </div>\n<p>\"É mais fácil marcar golos em La Liga do que na Ligue 1. Luis enrique representou com orgulho a Ligue 1, e defendeu-a contra os adeptos da Premier League, que a chamavam de campeonato de agricultores. Acabámos por vencer Arsenal, Manchester City, Liverpool e Aston Villa, na Liga dos Campeões\", atirou.</p>\n<p>Nasser Al-Khelaifi defendeu, ainda, que Ousmane Dembélé será um justo vencedor da edição de 2025 da Bola de Ouro, fruto dos desempenhos assinado no percurso rumo à conquista da primeira Liga dos Campeões da história dos parisienses.</p>\n<p>\"Ousmane Dembélé merece a Bola de Ouro, não apenas pela sua qualidade técnica, como também pela sua personalidade. Está totalmente comprometido, dentro e fora de campo, e mantém-se fiel à sua fé\", completou.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2802019/mbappe-revela-a-quem-daria-a-bola-de-ouro-e-preciso-explicar\" target=\"_blank\" rel=\"noopener noreferrer\">Mbappé revela a quem daria a Bola de Ouro: \"É preciso explicar?</a>\"</p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2802238/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-transferencias?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Siga os rumores e os negócios do mercado de transferências",
-         "description": "Fique com o Desporto ao Minuto e acompanhe o essencial do mercado de transferências.",
-         "link": "https://www.noticiasaominuto.com/desporto/2802238/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-transferencias",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1749365467000,
-         "created": 1749365467000,
-         "category": "Desporto",
-         "content": "<p>O mercado de transferências de verão ainda não se encontra oficialmente aberto, mas, um pouco por todo o mundo, os clubes já se vão movimentando no sentido de 'amarrarem' os reforços de que precisam para a temporada que se avizinha.</p>\n<div class=\"dummyPub\"> </div>\n<p>Fique com o <span class=\"news_bold\">Desporto ao Minuto</span> e acompanhe, a par e passo, todos os rumores e confirmações dos dias que antecedem o início da janela de transferências.</p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_684524b34d795.jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O mercado de transferências de verão ainda não se encontra oficialmente aberto, mas, um pouco por todo o mundo, os clubes já se vão movimentando no sentido de 'amarrarem' os reforços de que precisam para a temporada que se avizinha.</p>\n<div class=\"dummyPub\"> </div>\n<p>Fique com o <span class=\"news_bold\">Desporto ao Minuto</span> e acompanhe, a par e passo, todos os rumores e confirmações dos dias que antecedem o início da janela de transferências.</p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2802237/manchester-united-em-risco-de-deixar-escapar-mais-um-alvo-de-amorim?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Manchester United em risco de deixar escapar (mais um) alvo de Amorim",
-         "description": "Bryan Mbeumo pode acabar no Tottenham, depois de Liam Delap ter sido 'desviado' para o Chelsea.",
-         "link": "https://www.noticiasaominuto.com/desporto/2802237/manchester-united-em-risco-de-deixar-escapar-mais-um-alvo-de-amorim",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1749365270000,
-         "created": 1749365270000,
-         "category": "Desporto",
-         "content": "<p>O Manchester United estará em risco de deixar escapar (mais um) alvo de Ruben Amorim para a frente de ataque, setor que o próprio identificou como prioritário no que a reforços diz respeito, no mercado de transferências de verão.</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com a edição deste domingo do jornal britânico <span class=\"news_bold\"><a href=\"https://www.mirror.co.uk/sport/football/transfer-news/bryan-mbeumo-man-utd-transfer-35348116\" target=\"_blank\" rel=\"noopener\">The Sun</a></span>, o Tottenham fez do treinador do Brentford, Thomas Frank, o alvo predileto para comandar a equipa principal, na sequência da demissão de Ange Postecoglou, e este pretende levar consigo Bryan Mbeumo, jogador que os red devils têm vindo a negociar.</p>\n<p>A equipa orientada pelo timoneiro português já viu uma proposta rejeitada pelos bees, no valor 45 milhões de libras (53,4 milhões de euros), mais dez milhões de libras (11,9 milhões de euros) em bónus, pelo que apresentou uma segunda, de 60 milhões de libras (71,2 milhões de euros).</p>\n<p>Ainda assim, o diálogo entre ambos os clubes tarda em chegar a bom porto, pelo que o internacional camaronês pode mesmo vir a ser 'desviado' pelos spurs, que estarão na disposição de desembolsar qualquer coisa como 70 milhões de libras (83,1 milhões de euros).</p>\n<p>A confirmar-se, este será já o segundo jogador pretendido pela formação sediada em Old Trafford que acaba por ser 'desviado', depois de Liam Delap, que trocou o Ipswich Town pelo Chelsea, a troco de 36 milhões de euros.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2802084/amorim-livra-se-de-maca-podre-no-balneario-do-manchester-united\" target=\"_blank\" rel=\"noopener noreferrer\">Amorim livra-se de 'maçã podre' no balneário do Manchester United</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68308b3c6cd73.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>O Manchester United estará em risco de deixar escapar (mais um) alvo de Ruben Amorim para a frente de ataque, setor que o próprio identificou como prioritário no que a reforços diz respeito, no mercado de transferências de verão.</p>\n<div class=\"dummyPub\"> </div>\n<p>De acordo com a edição deste domingo do jornal britânico <span class=\"news_bold\"><a href=\"https://www.mirror.co.uk/sport/football/transfer-news/bryan-mbeumo-man-utd-transfer-35348116\" target=\"_blank\" rel=\"noopener\">The Sun</a></span>, o Tottenham fez do treinador do Brentford, Thomas Frank, o alvo predileto para comandar a equipa principal, na sequência da demissão de Ange Postecoglou, e este pretende levar consigo Bryan Mbeumo, jogador que os red devils têm vindo a negociar.</p>\n<p>A equipa orientada pelo timoneiro português já viu uma proposta rejeitada pelos bees, no valor 45 milhões de libras (53,4 milhões de euros), mais dez milhões de libras (11,9 milhões de euros) em bónus, pelo que apresentou uma segunda, de 60 milhões de libras (71,2 milhões de euros).</p>\n<p>Ainda assim, o diálogo entre ambos os clubes tarda em chegar a bom porto, pelo que o internacional camaronês pode mesmo vir a ser 'desviado' pelos spurs, que estarão na disposição de desembolsar qualquer coisa como 70 milhões de libras (83,1 milhões de euros).</p>\n<p>A confirmar-se, este será já o segundo jogador pretendido pela formação sediada em Old Trafford que acaba por ser 'desviado', depois de Liam Delap, que trocou o Ipswich Town pelo Chelsea, a troco de 36 milhões de euros.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/desporto/2802084/amorim-livra-se-de-maca-podre-no-balneario-do-manchester-united\" target=\"_blank\" rel=\"noopener noreferrer\">Amorim livra-se de 'maçã podre' no balneário do Manchester United</a></p>",
          "media": {}
       }
    ]
