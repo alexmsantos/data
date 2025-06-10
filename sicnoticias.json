@@ -159,8 +159,25 @@
          "published": 1749581076000,
          "created": 1749581076000,
          "category": "Webstories",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-06-10-mw-453.webp-b7eb32e3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-06-10-mw-453.webp-b7eb32e3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-06-10-mw-453.webp-b7eb32e3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "1b900f14-599a-4548-b0df-6f99ad813b0f",
