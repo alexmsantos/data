@@ -14,8 +14,25 @@
          "published": 1749592903000,
          "created": 1749592903000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-10-aderito-lopes.png-6dac0850/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-10-aderito-lopes.png-6dac0850/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-06-10-aderito-lopes.png-6dac0850/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "9b3efcec-b06a-4c28-acd2-1bcc4b8385b1",
