@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "8e4dd993-2d60-46c8-92f9-ba156d31a61c",
+         "title": "Os artigos mais lidos da semana",
+         "description": "Os artigos mais lidos na semana de 8 a 14 de junho",
+         "link": "https://sicnoticias.pt/webstories/os-artigos-mais-lidos-da-semana-16/",
+         "author": "SIC Notícias",
+         "published": 1749995087000,
+         "created": 1749995087000,
+         "category": "Webstories",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-06-15-ler_noticia.jpg-86872957/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-06-15-ler_noticia.jpg-86872957/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-06-15-ler_noticia.jpg-86872957/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "c40786a5-6c90-46a2-a039-8d30e71488e2",
          "title": "Turista morre em queda de 50 metros nas montanhas da Madeira",
          "description": "Homem estava no miradouro do Juncal, na zona do Pico do Areeiro, na Madeira.",
@@ -268,18 +297,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "834ff448-e1d1-4f97-aaba-5756c07e4ac7",
-         "title": "António José Seguro apresenta hoje candidatura a Presidente da República",
-         "description": "O antigo secretário-geral do PS apresenta a sua candidatura a Presidente da República no Centro Cultural e de Congressos das Caldas da Rainha.",
-         "link": "https://sicnoticias.pt/pais/2025-06-15-antonio-jose-seguro-apresenta-hoje-candidatura-a-presidente-da-republica-084cf8a6",
-         "author": "Lusa",
-         "published": 1749976980000,
-         "created": 1749976980000,
-         "category": "País",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
