@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2805979/filho-de-jorge-sampaio-apoia-marques-mendes-na-corrida-a-belem?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Filho de Jorge Sampaio apoia Marques Mendes na corrida a Belém",
+         "description": "O economista André Sampaio, filho do antigo Presidente da República Jorge Sampaio, apoia a candidatura de Luís Marques Mendes a chefe de Estado e destaca a sua experiência, conhecimento e espírito agregador.",
+         "link": "https://www.noticiasaominuto.com/politica/2805979/filho-de-jorge-sampaio-apoia-marques-mendes-na-corrida-a-belem",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1749990825000,
+         "created": 1749990825000,
+         "category": "Política",
+         "content": "<p>André Sampaio vai integrar a comissão política da candidatura do antigo líder do PSD, que é presidida por Francisco Pinto Balsemão.</p>\n<div class=\"dummyPub\"> </div>\n<p>A notícia foi avançada pelo jornal Público e confirmada pela agência Lusa junto da candidatura de Luís Marques Mendes.</p>\n<p>Numa nota, à qual a Lusa teve acesso, André Sampaio diz que conhece Luís Marques Mendes há muitos anos e considera que \"é uma pessoa que se preocupa genuinamente com os outros\".</p>\n<p>\"É, a meu ver, o protagonista certo para perceber e unir as diferentes gerações de portugueses, para ir ao encontro das suas expectativas e interpretar os seus legítimos receios e preocupações\", defendeu André Sampaio.</p>\n<p>Na segunda-feira, vai decorrer uma apresentação da comissão de honra em Coimbra, depois da primeira apresentação, que decorreu em Lisboa no início do mês.</p>\n<p>Hoje, a candidatura divulgou mais personalidades que apoiam Luís Marques Mendes, ligadas àquela região, como o antigo presidente da Académica Paulo Almeida, o antigo presidente da Câmara de Coimbra Carlos Encarnação, o reitor da Universidade de Coimbra, Amílcar Falcão, o antigo secretário de Estado Paulo Júlio, Isabel Damasceno, presidente da CCDR do Centro, ou o antigo presidente do Tribunal Constitucional, José Manuel Cardoso da Costa.</p>\n<p>Estes apoios juntam-se a outros já conhecidos, como Leonor Beleza, que preside à comissão de honra da candidatura, Manuela Eanes, a escritora Alice Vieira, o apresentador António Sala ou o antigo treinador de futebol Toni.</p>\n<p>Luís Marques Mendes conta também com o apoio do PSD, partido que liderou entre 2005 e 2007.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2805921/apos-uma-decada-de-interregno-na-politica-seguro-concorre-a-belem\" target=\"_blank\" rel=\"noopener noreferrer\">Após uma década de interregno na política, Seguro concorre a Belém</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_671402106ee90.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>André Sampaio vai integrar a comissão política da candidatura do antigo líder do PSD, que é presidida por Francisco Pinto Balsemão.</p>\n<div class=\"dummyPub\"> </div>\n<p>A notícia foi avançada pelo jornal Público e confirmada pela agência Lusa junto da candidatura de Luís Marques Mendes.</p>\n<p>Numa nota, à qual a Lusa teve acesso, André Sampaio diz que conhece Luís Marques Mendes há muitos anos e considera que \"é uma pessoa que se preocupa genuinamente com os outros\".</p>\n<p>\"É, a meu ver, o protagonista certo para perceber e unir as diferentes gerações de portugueses, para ir ao encontro das suas expectativas e interpretar os seus legítimos receios e preocupações\", defendeu André Sampaio.</p>\n<p>Na segunda-feira, vai decorrer uma apresentação da comissão de honra em Coimbra, depois da primeira apresentação, que decorreu em Lisboa no início do mês.</p>\n<p>Hoje, a candidatura divulgou mais personalidades que apoiam Luís Marques Mendes, ligadas àquela região, como o antigo presidente da Académica Paulo Almeida, o antigo presidente da Câmara de Coimbra Carlos Encarnação, o reitor da Universidade de Coimbra, Amílcar Falcão, o antigo secretário de Estado Paulo Júlio, Isabel Damasceno, presidente da CCDR do Centro, ou o antigo presidente do Tribunal Constitucional, José Manuel Cardoso da Costa.</p>\n<p>Estes apoios juntam-se a outros já conhecidos, como Leonor Beleza, que preside à comissão de honra da candidatura, Manuela Eanes, a escritora Alice Vieira, o apresentador António Sala ou o antigo treinador de futebol Toni.</p>\n<p>Luís Marques Mendes conta também com o apoio do PSD, partido que liderou entre 2005 e 2007.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/politica/2805921/apos-uma-decada-de-interregno-na-politica-seguro-concorre-a-belem\" target=\"_blank\" rel=\"noopener noreferrer\">Após uma década de interregno na política, Seguro concorre a Belém</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2805981/papa-apela-a-paz-no-medio-oriente-ucrania-e-noutros-locais-do-mundo?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Papa apela à paz no Médio Oriente, Ucrânia e noutros locais do mundo",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Uma série de detonações foi hoje ouvida em Teerão pelas 02h30 locais (00h30 de Lisboa), mas no meio de um confronto militar entre o Irão e Israel, não se soube de imediato qual a sua origem, noticiou a agência francesa AFP.</p>\n<div class=\"dummyPub\"> </div>\n<p>O Irão disparou uma nova salva de 'drones' (aeronaves não-tripuladas) e mísseis contra Israel no sábado à noite, em retaliação pelos ataques efetuados por Israel em território iraniano desde sexta-feira. Dois depósitos de combustível em Teerão foram atingidos por Israel.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2805818/misseis-iranianos-rasgam-ceus-israelitas-as-imagens-impressionantes\" target=\"_blank\" rel=\"noopener noreferrer\">Mísseis iranianos 'rasgam' céus israelitas. As imagens (impressionantes)</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2805837/teerao-acusa-telavive-de-atacar-ministerio-da-defesa?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Teerão acusa Telavive de atacar Ministério da Defesa",
-         "description": "A agência de notícias iraniana Tasnim afirmou que o Ministério da Defesa, em Teerão, foi alvo de bombardeamentos israelitas, no auge do conflito militar entre os dois países.",
-         "link": "https://www.noticiasaominuto.com/mundo/2805837/teerao-acusa-telavive-de-atacar-ministerio-da-defesa",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1749945421000,
-         "created": 1749945421000,
-         "category": "Mundo",
-         "content": "<p>Segundo o meio de informação iraniano, o ataque causou danos ligeiros num dos edifícios do complexo ministerial. O Ministério da Defesa iraniano não comentou oficialmente as alegações até ao momento.</p>\n<div class=\"dummyPub\"> </div>\n<p>Este novo episódio surge no contexto de uma escalada sem precedentes entre Israel e o Irão, que entraram formalmente em guerra na madrugada de sexta-feira, quando Telavive lançou uma ofensiva maciça contra instalações militares e nucleares em território iraniano.</p>\n<p>A operação, conduzida por cerca de 200 aviões, visou mais de uma centena de alvos, sobretudo na capital, Teerão, e na central de enriquecimento de urânio de Natanz. De acordo com a diplomacia iraniana, os bombardeamentos provocaram pelo menos 78 mortos --- incluindo altos responsáveis militares e cientistas --- e centenas de feridos.</p>\n<p>Em retaliação, o Irão lançou centenas de mísseis contra território israelita, atingindo várias cidades, incluindo Telavive, Jerusalém e a região de Haifa, no norte do país.</p>\n<p>Segundo os serviços de emergência israelitas, pelo menos uma jovem na casa dos 20 anos morreu após o impacto de um projétil junto a uma habitação de dois andares na zona da Galileia Ocidental. A vítima foi retirada dos escombros já sem vida.</p>\n<p>No mesmo incidente, outras sete pessoas ficaram feridas.</p>\n<p>A quinta vaga de ataques iranianos foi registada hoje, com explosões e avistamentos de projéteis sobre a região costeira e o norte de Israel. As autoridades israelitas confirmaram danos em edifícios residenciais e ativaram os sistemas de emergência em várias localidades.</p>\n<p>Entretanto, a Jordânia anunciou na noite de sábado o encerramento do seu espaço aéreo pela segunda vez desde o início do conflito, como medida de precaução face ao risco de mísseis ou drones atravessarem o seu território.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2805829/jordania-volta-a-fechar-espaco-aereo-devido-a-guerra-entre-irao-e-israel\" target=\"_blank\" rel=\"noopener noreferrer\">Jordânia volta a fechar espaço aéreo devido a guerra entre Irão e Israel</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_684dfe3f84f90.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Segundo o meio de informação iraniano, o ataque causou danos ligeiros num dos edifícios do complexo ministerial. O Ministério da Defesa iraniano não comentou oficialmente as alegações até ao momento.</p>\n<div class=\"dummyPub\"> </div>\n<p>Este novo episódio surge no contexto de uma escalada sem precedentes entre Israel e o Irão, que entraram formalmente em guerra na madrugada de sexta-feira, quando Telavive lançou uma ofensiva maciça contra instalações militares e nucleares em território iraniano.</p>\n<p>A operação, conduzida por cerca de 200 aviões, visou mais de uma centena de alvos, sobretudo na capital, Teerão, e na central de enriquecimento de urânio de Natanz. De acordo com a diplomacia iraniana, os bombardeamentos provocaram pelo menos 78 mortos --- incluindo altos responsáveis militares e cientistas --- e centenas de feridos.</p>\n<p>Em retaliação, o Irão lançou centenas de mísseis contra território israelita, atingindo várias cidades, incluindo Telavive, Jerusalém e a região de Haifa, no norte do país.</p>\n<p>Segundo os serviços de emergência israelitas, pelo menos uma jovem na casa dos 20 anos morreu após o impacto de um projétil junto a uma habitação de dois andares na zona da Galileia Ocidental. A vítima foi retirada dos escombros já sem vida.</p>\n<p>No mesmo incidente, outras sete pessoas ficaram feridas.</p>\n<p>A quinta vaga de ataques iranianos foi registada hoje, com explosões e avistamentos de projéteis sobre a região costeira e o norte de Israel. As autoridades israelitas confirmaram danos em edifícios residenciais e ativaram os sistemas de emergência em várias localidades.</p>\n<p>Entretanto, a Jordânia anunciou na noite de sábado o encerramento do seu espaço aéreo pela segunda vez desde o início do conflito, como medida de precaução face ao risco de mísseis ou drones atravessarem o seu território.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/mundo/2805829/jordania-volta-a-fechar-espaco-aereo-devido-a-guerra-entre-irao-e-israel\" target=\"_blank\" rel=\"noopener noreferrer\">Jordânia volta a fechar espaço aéreo devido a guerra entre Irão e Israel</a></p>",
          "media": {}
       }
    ]
