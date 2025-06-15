@@ -14,8 +14,25 @@
          "published": 1750007805000,
          "created": 1750007805000,
          "category": "Meteorologia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-07-18-Praia-calor-banhistas-6ea94bb1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-07-18-Praia-calor-banhistas-6ea94bb1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-07-18-Praia-calor-banhistas-6ea94bb1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "8efcaf2e-2718-4dcc-9ef6-285d818b9fcf",
