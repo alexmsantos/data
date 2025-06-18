@@ -1,10 +1,33 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2807961/em-imagens-conheca-o-novo-nissan-leaf-ao-detalhe?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Em imagens. Conheça o novo Nissan Leaf ao detalhe",
+         "description": "A Nissan revelou esta terça-feira a nova geração do Nissan Leaf, renovando assim este modelo pioneiro entre os veículos elétricos – que quer continuar a ser uma referência no mercado.",
+         "link": "https://www.noticiasaominuto.com/auto/2807961/em-imagens-conheca-o-novo-nissan-leaf-ao-detalhe",
+         "author": {
+            "$text": "Notícias ao Minuto",
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1750269622000,
+         "created": 1750269622000,
+         "category": "Auto",
+         "content": "<p>\"Desenvolvido para ultrapassar as principais barreiras à adoção de veículos elétricos e integrar-se perfeitamente no ecossistema elétrico\". É este o mote para o <span class=\"news_bold\">novo Nissan Leaf</span>, revelado esta terça-feira.</p>\n<div class=\"dummyPub\"> </div>\n<p>O modelo, originalmente lançado em 2010, fica mais moderno, com duas opções de baterias - no pacote Standard com 52 kWh de capacidade e até 436 km de autonomia (WLTP) e no pacote Extended com 75 kWh de capacidade e até 604 km de autonomia.</p>\n<p>O tempo de carregamento rápido, dos 20 aos 80 por cento, é de menos de meia hora. No primeiro caso, a potência ascende a 130 kW, enquanto a versão Extended debita 160 kW de potência.</p>\n<p>Este Nissan Leaf foi concebido no Estúdio de Design Global da Nissan e possui linhas modernas e aerodinâmicas - incluindo os puxadores das portas embutidos. É um carro que alia um razoável espaço interior com dimensões compactas que o tornam apto ao uso citadino.</p>\n<p>Disponível com sete opções de cor, incluindo a turquesa Luminous Teal exclusiva, o veículo surge com um tejadilho panorâmico de vidro escurecido, faróis traseiros 3D e jantes aprimoradas do ponto de vista aerodinâmico em várias opções nas medidas de 18 e de 19 polegadas.</p>\n<p><span class=\"news_bold\">Percorra a galeria</span> para ver as imagens do novo Nissan Leaf.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/auto/2807333/novo-nissan-leaf-apresentado-para-desafiar-barreiras-dos-eletricos\" target=\"_blank\" rel=\"noopener noreferrer\">Novo Nissan Leaf apresentado para desafiar barreiras dos elétricos</a></p>",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6852b7c3c112b.jpg",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "content_encoded": "<p>\"Desenvolvido para ultrapassar as principais barreiras à adoção de veículos elétricos e integrar-se perfeitamente no ecossistema elétrico\". É este o mote para o <span class=\"news_bold\">novo Nissan Leaf</span>, revelado esta terça-feira.</p>\n<div class=\"dummyPub\"> </div>\n<p>O modelo, originalmente lançado em 2010, fica mais moderno, com duas opções de baterias - no pacote Standard com 52 kWh de capacidade e até 436 km de autonomia (WLTP) e no pacote Extended com 75 kWh de capacidade e até 604 km de autonomia.</p>\n<p>O tempo de carregamento rápido, dos 20 aos 80 por cento, é de menos de meia hora. No primeiro caso, a potência ascende a 130 kW, enquanto a versão Extended debita 160 kW de potência.</p>\n<p>Este Nissan Leaf foi concebido no Estúdio de Design Global da Nissan e possui linhas modernas e aerodinâmicas - incluindo os puxadores das portas embutidos. É um carro que alia um razoável espaço interior com dimensões compactas que o tornam apto ao uso citadino.</p>\n<p>Disponível com sete opções de cor, incluindo a turquesa Luminous Teal exclusiva, o veículo surge com um tejadilho panorâmico de vidro escurecido, faróis traseiros 3D e jantes aprimoradas do ponto de vista aerodinâmico em várias opções nas medidas de 18 e de 19 polegadas.</p>\n<p><span class=\"news_bold\">Percorra a galeria</span> para ver as imagens do novo Nissan Leaf.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/auto/2807333/novo-nissan-leaf-apresentado-para-desafiar-barreiras-dos-eletricos\" target=\"_blank\" rel=\"noopener noreferrer\">Novo Nissan Leaf apresentado para desafiar barreiras dos elétricos</a></p>",
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2808104/remontada-epica-de-portugal-senta-inglaterra-no-europeu-feminino-sub-19?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Remontada épica de Portugal 'senta' Inglaterra no Europeu feminino sub-19",
@@ -2280,29 +2303,6 @@
             }
          ],
          "content_encoded": "<p>Em comunicado, o executivo comunitário exigiu a Portugal, Bulgária, Grécia, Espanha e Países Baixos que transponham uma diretiva que atualiza os critérios de qualidade de água para que seja considerada potável.</p>\n<div class=\"dummyPub\"> </div>\n<p>Em concreto, a diretiva europeia, que deveria ter sido transposta para a legislação nacional até 12 de janeiro de 2023, pede que sejam tomadas medidas para reduzir a presença de microplásticos e para impedir fugas, uma vez que em média 30% da água potável de cano se perde na distribuição.</p>\n<p>No caso de Portugal, o Governo \"falhou na transposição correta de vários pontos da diretiva\", nomeadamente a avaliação de risco sobre a água que é potável e distribuída, assim como \"o papel das autoridades competentes\".</p>\n<p>A Comissão Europeia também exigiu a Portugal e à Roménia que cumpram com as regras da UE sobre ecodesign e energia nos rótulos de produtos.</p>\n<p>A exigência do executivo de Ursula von der Leyen tem por base a falta de cumprimento das regras sobre a rotulagem de produtos por parte dos Estados-membros, nomeadamente se satisfazem os requisitos mínimos de utilização de energia e se os designs cumprem critérios ecológicos.</p>\n<p>Estas regras vão no sentido de dar mais informações para que os consumidores possam decidir, explicou a Comissão Europeia.</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/economia/2807851/impostos-no-vinho-bruxelas-da-dois-meses-a-portugal-para-cumprir-lei\" target=\"_blank\" rel=\"noopener noreferrer\">Impostos no vinho? Bruxelas dá dois meses a Portugal para cumprir lei</a></p>",
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2807915/condutor-de-tvde-detido-por-suspeita-de-rapto-vitima-fugiu-na-a5?utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Condutor de TVDE detido por suspeita de rapto. Vítima fugiu na A5",
-         "description": "O crime ocorreu após a mulher ter contratado um \"serviço de TDVE\" depois de uma saída à noite, no Cais do Sodré, em Lisboa.",
-         "link": "https://www.noticiasaominuto.com/pais/2807915/condutor-de-tvde-detido-por-suspeita-de-rapto-vitima-fugiu-na-a5",
-         "author": {
-            "$text": "Notícias ao Minuto",
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1750251984000,
-         "created": 1750251984000,
-         "category": "País",
-         "content": "<p>Um condutor de TDVE foi detido pela Polícia Judiciária (PJ) por ser suspeito da prática de um crime de rapto, em Lisboa. A vítima, uma mulher de 32 anos, conseguiu escapar após sair do carro em andamento, na Autoestrada 5 (A5).</p>\n<div class=\"dummyPub\"> </div>\n<p>Em comunicado, enviado às redações esta quarta-feira, a autoridade indicou que o crime ocorreu no passado dia 3 de maio, quando a vítima \"contratou um serviço de TVDE, após uma saída noturna na zona do Cais do Sodré\". </p>\n<p>\"Durante parte do trajeto a vítima encontrava-se acompanhada por um amigo, tendo os factos ocorrido quando este chegou ao seu destino, ficando ela a sós com o motorista\", lê-se na nota.</p>\n<p>Quando o amigo da vítima saiu do veículo, o suspeito \"alterou o trajeto contratado\" e \"tocou no corpo da mulher\", contra a sua vontade.  </p>\n<p>A mulher sofreu um ataque de pânico e \"acabou por sair do carro em andamento, em plena A5, impedindo o suspeito de prosseguir na sua conduta criminosa\".</p>\n<p>Após ser presente a primeiro interrogatório judicial, o suspeito ficou sujeito a medida de coação não detentiva.</p>\n<p>[Notícia atualizada às 13h12]</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/cultura/2807900/pj-apanha-traficantes-com-20-kg-de-haxixe-e-20-mil-euros-em-dinheiro-vivo\" target=\"_blank\" rel=\"noopener noreferrer\">PJ apanha traficantes com 20 kg de haxixe e 20 mil euros em dinheiro vivo</a></p>",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67568fc373a0e.jpg",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "content_encoded": "<p>Um condutor de TDVE foi detido pela Polícia Judiciária (PJ) por ser suspeito da prática de um crime de rapto, em Lisboa. A vítima, uma mulher de 32 anos, conseguiu escapar após sair do carro em andamento, na Autoestrada 5 (A5).</p>\n<div class=\"dummyPub\"> </div>\n<p>Em comunicado, enviado às redações esta quarta-feira, a autoridade indicou que o crime ocorreu no passado dia 3 de maio, quando a vítima \"contratou um serviço de TVDE, após uma saída noturna na zona do Cais do Sodré\". </p>\n<p>\"Durante parte do trajeto a vítima encontrava-se acompanhada por um amigo, tendo os factos ocorrido quando este chegou ao seu destino, ficando ela a sós com o motorista\", lê-se na nota.</p>\n<p>Quando o amigo da vítima saiu do veículo, o suspeito \"alterou o trajeto contratado\" e \"tocou no corpo da mulher\", contra a sua vontade.  </p>\n<p>A mulher sofreu um ataque de pânico e \"acabou por sair do carro em andamento, em plena A5, impedindo o suspeito de prosseguir na sua conduta criminosa\".</p>\n<p>Após ser presente a primeiro interrogatório judicial, o suspeito ficou sujeito a medida de coação não detentiva.</p>\n<p>[Notícia atualizada às 13h12]</p>\n<p>Leia Também: <a href=\"https://www.noticiasaominuto.com/cultura/2807900/pj-apanha-traficantes-com-20-kg-de-haxixe-e-20-mil-euros-em-dinheiro-vivo\" target=\"_blank\" rel=\"noopener noreferrer\">PJ apanha traficantes com 20 kg de haxixe e 20 mil euros em dinheiro vivo</a></p>",
          "media": {}
       }
    ]
