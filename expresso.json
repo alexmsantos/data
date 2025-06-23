@@ -14,15 +14,36 @@
          "published": 1750694467000,
          "created": 1750694467000,
          "category": "Autárquicas 2025",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-05-31-rui-rocha-cfde4489/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-05-31-rui-rocha-cfde4489/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-05-31-rui-rocha-cfde4489/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "5b255eba-059f-4383-9531-2249321d87f8",
          "title": "Rutte diz que EUA cumpriram lei internacional no Irão e que não há exceções para Espanha",
-         "description": "<p> \"Diria que o ataque dos EUA é consistente com a lei internacional\", afirmou esta segunda-feira o Secretário Geral da NATO</p>",
+         "description": "<p>\"Diria que o ataque dos EUA é consistente com a lei internacional\", afirmou esta segunda-feira o Secretário Geral da NATO</p>",
          "link": "https://expresso.pt/internacional/2025-06-23-rutte-diz-que-eua-cumpriram-lei-internacional-no-irao-e-que-nao-ha-excecoes-para-espanha-94fc0c40",
-         "author": "Susana Frexes",
+         "author": [
+            "Susana Frexes",
+            "Em Haia",
+            "Países Baixos"
+         ],
          "published": 1750694266000,
          "created": 1750694266000,
          "category": "Internacional",
@@ -41,6 +62,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-06-09-mark-rutte.jpg-aa8f7661/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "fbf8ab71-82fd-4950-b786-946cbf946fec",
+         "title": "Médio Oriente: MNE garante que Portugal não vende armas a Israel",
+         "description": "<p><span>\"Ao contrário de outros países, que pedem a suspensão [das exportações], nós já temos essa medida tomada há muito tempo\", garantiu Paulo Rangel </span></p>",
+         "link": "https://expresso.pt/politica/2025-06-23-medio-oriente-mne-garante-que-portugal-nao-vende-armas-a-israel--6a9aba52",
+         "author": "Agência Lusa",
+         "published": 1750693782000,
+         "created": 1750693782000,
+         "category": "Política",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-13-paulo-rangel-11bdefe1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-13-paulo-rangel-11bdefe1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-06-13-paulo-rangel-11bdefe1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -241,48 +291,19 @@
          "category": "Segurança",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2025-06-23-frame_armas.jpg-3a62d5f6/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-05-31-volodymyr-zelensky-presidente-ucrania-6b54e53f-2/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2025-06-23-frame_armas.jpg-3a62d5f6/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-05-31-volodymyr-zelensky-presidente-ucrania-6b54e53f-2/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-06-23-frame_armas.jpg-3a62d5f6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "36bef60a-0e5d-4abc-91c4-44a389dfb5bd",
-         "title": "Guia essencial do concerto de Imagine Dragons no Estádio da Luz: os horários, o que pode levar, o mapa do recinto e as canções que vai ouvir",
-         "description": "<p>É já esta quinta-feira que os norte-americanos Imagine Dragons trazem a digressão mundial “Loom” a Lisboa em mais um concerto de estádio, este ano, em Portugal. Preparámos para si um guia com todas as informações úteis, dos horários (há primeira parte) aos transportes e o estado do tempo, sem esquecer o alinhamento provável</p>",
-         "link": "https://expresso.pt/blitz/2025-06-23-guia-essencial-do-concerto-de-imagine-dragons-no-estadio-da-luz-os-horarios-o-que-pode-levar-o-mapa-do-recinto-e-as-cancoes-que-vai-ouvir-9037510f",
-         "author": "Mário Rui Vieira",
-         "published": 1750689147000,
-         "created": 1750689147000,
-         "category": "Blitz",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-06-23-imagine-dragons-92d6c48b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-06-23-imagine-dragons-92d6c48b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-06-23-imagine-dragons-92d6c48b/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-05-31-volodymyr-zelensky-presidente-ucrania-6b54e53f-2/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
