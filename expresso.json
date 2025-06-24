@@ -14,8 +14,25 @@
          "published": 1750759908000,
          "created": 1750759908000,
          "category": "Cultura",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-24-gettyimages-490457870.jpg-5c4061c1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-24-gettyimages-490457870.jpg-5c4061c1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-06-24-gettyimages-490457870.jpg-5c4061c1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "92e7120c-7a42-4164-a676-c1b01d7ddce9",
