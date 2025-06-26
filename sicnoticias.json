@@ -97,7 +97,10 @@
          "title": "Uma pessoa morreu em colisão entre carro e comboio em Alverca",
          "description": "<p><span>O acidente aconteceu na passagem </span><span>de nível do Adarse, pouco antes das 18:00. </span><span>A circulação na Linha do Norte está cortada nos dois sentidos.</span></p>",
          "link": "https://sicnoticias.pt/pais/2025-06-26-video-colisao-entre-carro-e-comboio-em-alverca-provoca-um-morto-ec2d8d95",
-         "author": "Rita Rogado",
+         "author": [
+            "Rita Rogado",
+            "Diogo Gonçalves"
+         ],
          "published": 1750966087000,
          "created": 1750966087000,
          "category": "País",
