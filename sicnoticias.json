@@ -181,10 +181,14 @@
       },
       {
          "id": "d74dffbc-784c-42cf-9246-be47c6f474c3",
-         "title": "Calor extremo coloca amanhã 7 distritos sob aviso vermelho, o mais grave da escala",
+         "title": "Calor extremo coloca amanhã 7 distritos sob aviso vermelho",
          "description": "A Direção-Geral da Saúde (DGS) alerta que as situações de calor extremo têm riscos para a saúde, recomendando que se beba água, evite bebidas alcoólicas e opte por ambientes frescos ou climatizados.",
          "link": "https://sicnoticias.pt/meteorologia/2025-06-28-sete-distritos-sob-aviso-vermelho-no-domingo-devido-ao-calor-extremo-d869bf16",
-         "author": "Rita Rogado",
+         "author": [
+            "Rita Rogado",
+            "Marta Tuna",
+            "Rui do Ó"
+         ],
          "published": 1751132415000,
          "created": 1751132415000,
          "category": "Meteorologia",
