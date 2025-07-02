@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "aa98dcca-62ee-4ecd-9e7d-26cd84b7a53d",
+         "title": "Retomada circulação na Linha do Norte que esteve cortada em Gaia",
+         "description": "A circulação esteve a decorrer alternadamente por uma só via, isto depois de ter chegado a estar totalmente cortada entre a Granja e Francelos.",
+         "link": "https://sicnoticias.pt/pais/2025-07-02-retomada-circulacao-na-linha-do-norte-que-esteve-cortada-em-gaia-2cef5ac5",
+         "author": "Lusa",
+         "published": 1751459672000,
+         "created": 1751459672000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-07-11-Comboios-ferrovia-e8107ec3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-07-11-Comboios-ferrovia-e8107ec3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2022-07-11-Comboios-ferrovia-e8107ec3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "46bfd8f7-e966-401d-bd15-9d83acd145f3",
          "title": "Carlos Moedas: \"Muitas vezes a Europa trabalha com os países, mas o dinheiro não chega às cidades\"",
          "description": "Carlos Moedas foi nomeado pela Comissão Europeia para o House Advisory Board, um conselho consultivo dedicado à habitação na Europa, que definirá uma estratégia comum para responder à crise no setor. Para o autarca de Lisboa, a capital portuguesa é um exemplo na reabilitação a \"preços muito baixos\" de “casas que estavam abandonadas”.",
@@ -36,10 +65,13 @@
       },
       {
          "id": "20170639-63cf-4ef6-be9d-33e02501e474",
-         "title": "Augusto Santos Silva não é candidato à Presidência da República",
+         "title": "\"Não, não serei candidato\": Augusto Santos Silva de fora da corrida a Belém",
          "description": "O ex-presidente da Assembleia da República quebrou, esta quarta-feira, o mistério sobre a possibilidade de avançar com uma candidatura a Belém.",
          "link": "https://sicnoticias.pt/especiais/eleicoes-presidenciais/2025-07-02-augusto-santos-silva-nao-e-candidato-a-presidencia-da-republica-3554a078",
-         "author": "SIC Notícias",
+         "author": [
+            "Ana Lemos",
+            "Lusa"
+         ],
          "published": 1751459040000,
          "created": 1751459040000,
          "category": "Presidenciais",
@@ -264,35 +296,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-05-28-ivan-marcano-ed167628/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "911eeb9f-f457-402d-90da-29fb962d998d",
-         "title": "Incêndio que fechou Heathrow em março causado por falha técnica evitável",
-         "description": "<p><span>Um incêndio numa subestação elétrica que causou o encerramento do aeroporto de Heathrow em março passado, interrompendo mais de 1.300 voos e afetando mais de 200.000 passageiros, foi provocado por uma falha técnica evitável identificada quase sete anos antes.</span></p>",
-         "link": "https://sicnoticias.pt/mundo/2025-07-02-incendio-que-fechou-heathrow-em-marco-causado-por-falha-tecnica-evitavel-a55ac377",
-         "author": "Lusa",
-         "published": 1751452658000,
-         "created": 1751452658000,
-         "category": "Mundo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-02-aeroporto-de-heathrow-incendio-b6bf7288/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-02-aeroporto-de-heathrow-incendio-b6bf7288/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-07-02-aeroporto-de-heathrow-incendio-b6bf7288/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
