@@ -43,8 +43,25 @@
          "published": 1751465259000,
          "created": 1751465259000,
          "category": "Parlamento",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-19-fox_programagoverno_00018_t-_idp.jpg-7ec8a724/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-19-fox_programagoverno_00018_t-_idp.jpg-7ec8a724/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-06-19-fox_programagoverno_00018_t-_idp.jpg-7ec8a724/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "6441cf38-90ab-4d39-94ed-2a99437031e6",
