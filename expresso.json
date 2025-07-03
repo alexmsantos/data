@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "3f5a3185-a868-47bc-8aba-46d2e929198c",
+         "title": "\"Ó Evaristo, tens cá disto?\"",
+         "description": "<p><span>A Faculdade de Ciências da Universidade de Lisboa criou um chatbot multi-modelo e multi-heterónimo (com tantos modelos como as personalidades de Fernando Pessoa). Chama-se</span><span> Evaristo.ai! Descobre de onde vem o nome e como o podes usar</span></p>",
+         "link": "https://expresso.pt/expressinho/2025-07-03-o-evaristo-tens-ca-disto--4c7f7480",
+         "author": "Joana Soares",
+         "published": 1751533200000,
+         "created": 1751533200000,
+         "category": "Expressinho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-02-chatbot_bigstock_evaristo.jpg-a2c3dc78/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-02-chatbot_bigstock_evaristo.jpg-a2c3dc78/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-07-02-chatbot_bigstock_evaristo.jpg-a2c3dc78/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
          "title": "Todos os concertos marcados para 2025 em Portugal",
          "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para o novo ano: uma agenda sempre em atualização</p>",
@@ -263,38 +292,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "dc75c9e0-aceb-47c6-835d-9cf69b5994ed",
-         "title": "Começou no iogurte, passou para os pudins e agora até está nos queijos: “O horror da comida proteica”",
-         "description": "<p>Foi muito rápida a passagem de um país alimentado a arroz com batatas (no mesmo prato) para um país com pavor aos hidratos e a tudo o que tenha menos de 10 por cento de proteína. “Proteína para o povo”, comenta Ricardo Dias Felner. Ouça aqui o novo episódio do podcast ‘O Homem que Comia Tudo’</p>",
-         "link": "https://expresso.pt/podcasts/o-homem-que-comia-tudo/2025-07-03-comecou-no-iogurte-passou-para-os-pudins-e-agora-ate-esta-nos-queijos-o-horror-da-comida-proteica-a8f55d76",
-         "author": [
-            "Ricardo Dias Felner",
-            "Salomé Rita"
-         ],
-         "published": 1751525400000,
-         "created": 1751525400000,
-         "category": "O Homem Que Comia Tudo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-07-16-o-homem-que-comia-tudo-3x2-5751ec70-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-07-16-o-homem-que-comia-tudo-3x2-5751ec70-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-07-16-o-homem-que-comia-tudo-3x2-5751ec70-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
