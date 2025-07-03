@@ -6,6 +6,47 @@
    "category": [],
    "items": [
       {
+         "id": "4296a8e6-7cd9-494f-ab32-53d8eb312eff",
+         "title": "Portugal em alerta por calor: aviso amarelo em 12 distritos e risco máximo de incêndio em 40 concelhos",
+         "description": "<p><span>Quase 70% dePortugal continental sob aviso amarelo devido ao calor</span></p><p></p><p></p>",
+         "link": "https://expresso.pt/sociedade/incendios/2025-07-03-portugal-em-alerta-por-calor-aviso-amarelo-em-12-distritos-e-risco-maximo-de-incendio-em-40-concelhos-d4ce0625",
+         "author": "Expresso",
+         "published": 1751525846000,
+         "created": 1751525846000,
+         "category": "Incêndios",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-05-17-Calor-poeiras-sol-c0c40ec6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-05-17-Calor-poeiras-sol-c0c40ec6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-05-17-Calor-poeiras-sol-c0c40ec6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "2aae79d4-6ac1-4f56-af06-596a104a60b9",
+         "title": "Renda-se à Democracia, Pedro",
+         "description": "<p>A democracia não vive apenas de votos: vive da confiança de que a lei se aplica a todos e de que quem governa o faz ao serviço de todos</p>",
+         "link": "https://expresso.pt/opiniao/2025-07-03-renda-se-a-democracia-pedro-cd7c3085",
+         "author": "Miguel Baumgartner",
+         "published": 1751525752000,
+         "created": 1751525752000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "id": "dc75c9e0-aceb-47c6-835d-9cf69b5994ed",
          "title": "Começou no iogurte, passou para os pudins e agora até está nos queijos: “O horror da comida proteica”",
          "description": "<p>Foi muito rápida a passagem de um país alimentado a arroz com batatas (no mesmo prato) para um país com pavor aos hidratos e a tudo o que tenha menos de 10 por cento de proteína. “Proteína para o povo”, comenta Ricardo Dias Felner. Ouça aqui o novo episódio do podcast ‘O Homem que Comia Tudo’</p>",
@@ -108,7 +149,13 @@
          "title": "Onde e quantos são os incêndios em Portugal: a situação e os avisos em tempo real",
          "description": "<p>Em tempo real, saiba aqui todas as ocorrências e os alertas emitidos pelo IPMA - Instituto Português do Mar e da Atmosfera em todo o país<br> </p>",
          "link": "https://multimedia.expresso.pt/incendios2025",
-         "author": "Expresso",
+         "author": [
+            "Cátia Barros",
+            "Raquel Albuquerque",
+            "Sofia Miguel Rosa",
+            "Tiago Pereira Santos",
+            "João Melancia"
+         ],
          "published": 1751524237000,
          "created": 1751524237000,
          "category": "Multimédia",
@@ -246,67 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2022-03-10-RDS_OscarAfonso_07_DU6A0967.png-6f43ddee-2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "0894f566-e625-4204-9dd6-f882ce4238ec",
-         "title": "EUA e China chegam a acordo sobre terras raras e fim das tarifas",
-         "description": "<p>Estados Unidos e China formalizaram um entendimento comercial alcançado no mês passado em Genebra. Secretário do Comércio norte-americano deixa compromisso: \"Vamos fechar os dez acordos principais, organizá-los por categorias, e os restantes países alinharão depois disso</p>",
-         "link": "https://expresso.pt/internacional/eua/2025-07-03-eua-e-china-chegam-a-acordo-sobre-terras-raras-e-fim-das-tarifas-db3400ec",
-         "author": "Agência Lusa",
-         "published": 1751522603000,
-         "created": 1751522603000,
-         "category": "EUA",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-gettyimages-2199421782.jpg-e9e08d98/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-gettyimages-2199421782.jpg-e9e08d98/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-02-gettyimages-2199421782.jpg-e9e08d98/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "9a071cf7-5e5a-46ef-8ac3-ffb09c62c617",
-         "title": "Alves dos Reis e as notas falsas: o prego no caixão da Primeira República?",
-         "description": "<p><span>Continuando na história do início do século XX, Rui Tavares faz um retrato das circunstâncias que deram origem à maior fraude económica da história de Portugal a partir de uma teoria do economista Henry Wigan, que traça uma relação direta entre as notas falsas de Alves dos Reis e o fim da Primeira República. Oiça mais um episódio de Tempo ao Tempo</span></p>",
-         "link": "https://expresso.pt/podcasts/tempo-ao-tempo/2025-07-03-alves-dos-reis-e-as-notas-falsas-o-prego-no-caixao-da-primeira-republica--e9379834",
-         "author": [
-            "Rui Tavares",
-            "João Luís Amorim"
-         ],
-         "published": 1751522520000,
-         "created": 1751522520000,
-         "category": "Tempo ao Tempo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-07-02-lote-de-documentos-sobre-o-caso-alves-dos-reis-9a348ff2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-07-02-lote-de-documentos-sobre-o-caso-alves-dos-reis-9a348ff2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-07-02-lote-de-documentos-sobre-o-caso-alves-dos-reis-9a348ff2/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
