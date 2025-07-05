@@ -7,9 +7,9 @@
    "items": [
       {
          "id": "fc6f6def-7df6-43db-8f0a-3514892d06a4",
-         "title": "Entre quotas reforçadas e arraiais cheios, a sardinha portuguesa é reconhecida com selo azul",
-         "description": "<p>A sardinha portuguesa conquistou o selo azul MSC, certificação que reconhece práticas de pesca sustentáveis e abre caminho a novos mercados</p>",
-         "link": "https://expresso.pt/economia/2025-07-05-entre-quotas-reforcadas-e-arraiais-cheios-a-sardinha-portuguesa-e-reconhecida-com-selo-azul-24902665",
+         "title": "Entre quotas reforçadas e arraiais cheios, a sardinha portuguesa é reconhecida com o selo azul",
+         "description": "<p>A sardinha portuguesa conquistou o selo azul MSC, certificação que reconhece práticas de pesca sustentáveis e abre caminho a novos mercados. O peixe mais popular durante os arraiais populares viu a sua quota de pesca aumentar este ano</p>",
+         "link": "https://expresso.pt/economia/2025-07-05-entre-quotas-reforcadas-e-arraiais-cheios-a-sardinha-portuguesa-e-reconhecida-com-o-selo-azul-24902665",
          "author": [
             "Juliana Simões",
             "Agência Lusa"
@@ -17,8 +17,25 @@
          "published": 1751734395000,
          "created": 1751734395000,
          "category": "Economia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-20-sardinha-peixe.jpg-9989ca1a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-04-20-sardinha-peixe.jpg-9989ca1a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-04-20-sardinha-peixe.jpg-9989ca1a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "d9498c94-b873-4098-a91c-48233a14a5fe",
