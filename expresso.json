@@ -43,8 +43,25 @@
          "published": 1751899237000,
          "created": 1751899237000,
          "category": "Internacional",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-07-fotogaleria-cheias-texas-98da01ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-07-fotogaleria-cheias-texas-98da01ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-07-07-fotogaleria-cheias-texas-98da01ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "f344d242-7383-4b16-bb4c-db50671491ad",
