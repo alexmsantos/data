@@ -37,7 +37,7 @@
       {
          "id": "f258ebf6-97b8-4d76-8eef-3d85383cf123",
          "title": "Violento incêndio florestal 'às portas' de Marselha obriga ao encerramento do aeroporto",
-         "description": "",
+         "description": "<p><span>As chamas consumiram 30 hectares em apenas duas horas. </span><span>A autarquia está a pedir aos moradores para permanecerem em casa.</span></p>",
          "link": "https://sicnoticias.pt/mundo/2025-07-08-incendio-florestal-obriga-ao-encerramento-do-aeroporto-de-marselha-a974c0b6",
          "author": "Rita Rogado",
          "published": 1751977851000,
@@ -45,19 +45,19 @@
          "category": "Mundo",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/sicnot/2025-07-08-aeroporto-de-marselha.jpg-9cc998a4/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2025-07-08-incendio-marselha.jfif-9fe7147b-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/sicnot/2025-07-08-aeroporto-de-marselha.jpg-9cc998a4/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2025-07-08-incendio-marselha.jfif-9fe7147b-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-07-08-aeroporto-de-marselha.jpg-9cc998a4/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2025-07-08-incendio-marselha.jfif-9fe7147b-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -180,11 +180,43 @@
          }
       },
       {
+         "id": "9e4b2cbc-0157-44ae-a380-6654af3c3ef4",
+         "title": "Cerca de 11 km de ciclovia de Lisboa são de risco elevado ou extremo",
+         "description": "O estudo “Avaliação de risco das ciclovias de Lisboa” analisou cerca de 56 km da rede ciclável da capital e concluiu que 22,09% apresentam risco elevado ou extremo, enquanto 53,53% estão em nível médio e apenas 24,38% em baixo risco.",
+         "link": "https://sicnoticias.pt/pais/2025-07-08-cerca-de-11-km-de-ciclovia-de-lisboa-sao-de-risco-elevado-ou-extremo-da7f6f56",
+         "author": "Lusa",
+         "published": 1751972400000,
+         "created": 1751972400000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-07-06-ciclovia-estrada-atlantica-Foto-Turismo-Centro-de-Portugal.jpg-c1b3ab51/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-07-06-ciclovia-estrada-atlantica-Foto-Turismo-Centro-de-Portugal.jpg-c1b3ab51/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2023-07-06-ciclovia-estrada-atlantica-Foto-Turismo-Centro-de-Portugal.jpg-c1b3ab51/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "02efbb2e-89f3-47c6-aad7-c0c57bdc6d26",
          "title": "Suspeito de homicídio de grávida da Murtosa absolvido",
          "description": "Fernando Valente foi detido pela Polícia Judiciária em novembro de 2023, mais de um mês depois do desaparecimento da mulher, de 33 anos, que estava grávida de sete meses.",
          "link": "https://sicnoticias.pt/pais/2025-07-08-suspeito-de-homicidio-de-gravida-da-murtosa-absolvido-cd8615fb",
-         "author": "SIC Notícias",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1751971200000,
          "created": 1751971200000,
          "category": "País",
@@ -238,58 +270,29 @@
          }
       },
       {
-         "id": "a5829ca3-0503-488e-a414-2e67c1dd4dab",
-         "title": "Mais de 70 operacionais e sete meios aéreos combatem incêndio em Alandroal",
-         "description": "Mais de 70 operacionais, 19 viaturas e sete meios aéreos combatem esta terça‑feira um incêndio em zona de mato na freguesia de Juromenha, concelho do Alandroal, Évora.",
-         "link": "https://sicnoticias.pt/especiais/incendios-em-portugal/2025-07-08-mais-de-70-operacionais-e-sete-meios-aereos-combatem-incendio-em-alandroal-c8f79c8e",
+         "id": "53fe0cca-9957-4392-bb26-86c249812fcb",
+         "title": "PJ detém alegado pirómano suspeito de atear dois fogos na Maia",
+         "description": "A Polícia Judiciária, com apoio da GNR, deteve um homem de 29 anos suspeito de atear dois incêndios em Folgosa, na Maia - um a 10 de junho e outro no passado dia 6 de julho.",
+         "link": "https://sicnoticias.pt/pais/2025-07-08-pj-detem-alegado-piromano-suspeito-de-atear-dois-fogos-na-maia-1552b546",
          "author": "Lusa",
-         "published": 1751969334000,
-         "created": 1751969334000,
-         "category": "Incêndios em Portugal",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-07-bombeiro-bombeiros-incendio-fogo-f1c9f88f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-07-bombeiro-bombeiros-incendio-fogo-f1c9f88f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-07-07-bombeiro-bombeiros-incendio-fogo-f1c9f88f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "1c990f35-5f11-4c91-b8f0-10c7d921785d",
-         "title": "As mais recentes tentativas (falhadas) de fuga das prisões portuguesas",
-         "description": "<p><span>Hélder Malheiro e Augusto Dinis terão descido o muro com recurso a uma corda feita de lençóis, mas foram capturados 12 horas depois, a cerca de quatro quilómetros da prisão de Alcoentre. Este é o mais recente episódio de fuga de um estabelecimento prisional de português. Mas, nos últimos meses, </span><span>não faltam casos de reclusos que fugiram e acabaram por ser apanhados.</span></p>",
-         "link": "https://sicnoticias.pt/pais/2025-07-08-as-mais-recentes--falhadas--tentativas-de-fuga-das-prisoes-portuguesas-f77afb66",
-         "author": "SIC Notícias",
-         "published": 1751969192000,
-         "created": 1751969192000,
+         "published": 1751969657000,
+         "created": 1751969657000,
          "category": "País",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/sicnot/2025-07-08-prisao-guardas-prisionais-0c456c03/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2022-07-13-DOC.20220713.38963715.NAF0420220713.jpg-5caf702d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/sicnot/2025-07-08-prisao-guardas-prisionais-0c456c03/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2022-07-13-DOC.20220713.38963715.NAF0420220713.jpg-5caf702d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-07-08-prisao-guardas-prisionais-0c456c03/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/sicnot/2022-07-13-DOC.20220713.38963715.NAF0420220713.jpg-5caf702d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
