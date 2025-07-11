@@ -223,8 +223,25 @@
          "published": 1752241480000,
          "created": 1752241480000,
          "category": "Operação Marquês",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-11-jose-socrates-campus-justica-be73517b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-11-jose-socrates-campus-justica-be73517b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-07-11-jose-socrates-campus-justica-be73517b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "e4001c7b-0fc3-41cd-a4ee-be17d470ea1f",
