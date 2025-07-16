@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "dad9750c-a97b-4432-b7bc-ed37084b8988",
+         "title": "Meta corrige falha de segurança que expunha conversas privadas do chatbot",
+         "description": "<p><span>A vulnerabilidade estava relacionada com o processo de edição de mensagens, onde um número único atribuído podia ser manipulado para aceder a conversas de outros utilizadores. A empresa implementou uma correção para resolver este problema de privacidade.</span></p>",
+         "link": "https://sicnoticias.pt/especiais/inteligencia-artificial/2025-07-16-meta-corrige-falha-de-seguranca-que-expunha-conversas-privadas-do-chatbot-451aea1e",
+         "author": "SIC Notícias",
+         "published": 1752681599000,
+         "created": 1752681599000,
+         "category": "Inteligência Artificial",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-16-meta-ai-fbb39eb8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-16-meta-ai-fbb39eb8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-07-16-meta-ai-fbb39eb8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "dc67697a-205b-40b8-9bba-dcd600e6e65e",
          "title": "Comissão Europeia quer orçamento de 2 biliões de euros para UE até 2034",
          "description": "Após várias horas de negociações entre os comissários europeus, foi apresentado um “ambicioso orçamento” para a União Europeia, assente em mais contribuições nacionais e três novos impostos. O atual orçamento da UE a longo prazo é de 1,21 biliões de euros.",
@@ -267,35 +296,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2020-06-27-escola-sala-aula.jpg-4f544dc5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "fb4a587a-9bec-44b7-a2d5-aaa9f74921bd",
-         "title": "Jovem que morreu na praia de Carcavelos era jogador de futebol",
-         "description": "Jorge Saraiva tinha 17 anos e jogava no FC O Despertar, de Casal de Cambra, no concelho de Sintra. O clube reagiu ao falecimento do atleta através das redes sociais.",
-         "link": "https://sicnoticias.pt/pais/2025-07-16-video-jovem-que-morreu-na-praia-de-carcavelos-era-jogador-de-futebol-0a43c0b2",
-         "author": "SIC Notícias",
-         "published": 1752672991000,
-         "created": 1752672991000,
-         "category": "País",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-07-24-praia-carcavelos-5bfad3e2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-07-24-praia-carcavelos-5bfad3e2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-07-24-praia-carcavelos-5bfad3e2/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
