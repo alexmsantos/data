@@ -105,8 +105,25 @@
          "published": 1752770643000,
          "created": 1752770643000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-04-12-lar-de-idosos-ccd8ca2e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-04-12-lar-de-idosos-ccd8ca2e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-04-12-lar-de-idosos-ccd8ca2e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "cd2646e3-c20d-46e8-bd0a-76f9477b62d8",
