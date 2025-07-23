@@ -14,8 +14,25 @@
          "published": 1753301241000,
          "created": 1753301241000,
          "category": "Partidos",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-23-teresa-caeiro.jpeg-9881bd6d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-23-teresa-caeiro.jpeg-9881bd6d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-07-23-teresa-caeiro.jpeg-9881bd6d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "be66d94b-ed7f-41f6-a676-5cbf4f8c32fc",
