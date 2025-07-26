@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "5d7b5c6a-06f5-4d19-9fb9-ee8b1bfcd9d2",
+         "title": "Homem de 26 anos morre depois de se sentir mal no rio Minho",
+         "description": "Vítima mortal sentiu-se mal, pediu ajuda ao amigo que o acompanhou, mas foi uma embarcação de recreio que passava na zona que acabou por recolher os dois colegas.",
+         "link": "https://sicnoticias.pt/pais/2025-07-26-homem-de-26-anos-morre-depois-de-se-sentir-mal-no-rio-minho-em-valenca-b38ab00f",
+         "author": "Lusa",
+         "published": 1753523005000,
+         "created": 1753523005000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2018-04-22-rio-minho.jpg-3b82ba22/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2018-04-22-rio-minho.jpg-3b82ba22/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2018-04-22-rio-minho.jpg-3b82ba22/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "09136a92-15a5-40ab-9c3f-ecbee4fab66b",
          "title": "Menos é mais: novo estudo aponta para meta mais realista de passos diários para reduzir risco de morte precoce",
          "description": "Dar 7 mil passos por dia pode ser suficiente para melhorar a saúde e prolongar a vida. A conclusão é de um novo estudo com mais de 160 mil adultos, que desafia a meta clássica dos 10 mil passos e aponta benefícios concretos mesmo com caminhadas leves.",
@@ -184,7 +213,10 @@
          "title": "Fim de semana de (muito) calor, aviso amarelo prolongado até madrugada de 3.ª feira",
          "description": "São 14 os distritos de Portugal Continental sob aviso amarelo devido às elevadas temperaturas.",
          "link": "https://sicnoticias.pt/meteorologia/2025-07-26-fim-de-semana-de--muito--calor-aviso-amarelo-prolongado-ate-madrugada-de-3.-feira-80172338",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1753515501000,
          "created": 1753515501000,
          "category": "Meteorologia",
@@ -264,35 +296,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-07-24-terra-e-lua.jpg-dc50f917/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "fd0516ca-e45b-45bf-8ddc-77c021e60a0a",
-         "title": "Superalimentos: 12 escolhas saudáveis e acessíveis que vão do agrião à pipoca caseira",
-         "description": "Numa época em que dietas da moda e ingredientes importados com nomes difíceis de pronunciar parecem ganhar popularidade, há também um regresso ao essencial: alimentos simples, acessíveis e repletos de benefícios para a saúde. Longe do marketing agressivo que eleva certos superalimentos a estatuto quase milagroso, a ciência e o bom senso apontam para a riqueza nutricional que já existe nas nossas cozinhas, com sabor, tradição e sustentabilidade.",
-         "link": "https://sicnoticias.pt/saude-e-bem-estar/2025-07-26-superalimentos-12-escolhas-saudaveis-e-acessiveis-que-vao-do-agriao-a-pipoca-caseira-e224e94f",
-         "author": "Elisa Macedo",
-         "published": 1753514100000,
-         "created": 1753514100000,
-         "category": "Saúde e Bem-estar",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-25-imagem-ia-superalimentos.jpg-2f16ab01/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-25-imagem-ia-superalimentos.jpg-2f16ab01/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-07-25-imagem-ia-superalimentos.jpg-2f16ab01/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
