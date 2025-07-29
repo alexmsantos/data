@@ -189,9 +189,9 @@
       },
       {
          "id": "e3145193-f146-4013-afdb-9f4fdfa5efb9",
-         "title": "Nick Cave descreveu a Inteligência Artificial como uma “paródia grotesca”: agora usou-a num novo vídeo",
-         "description": "<p>Nick Cave lançou um novo vídeo para assinalar o 40º aniversário de ‘Tupelo’, dos Bad Seeds, que mostra uma figura de Elvis Presley gerada por Inteligência Artificial</p>",
-         "link": "https://expresso.pt/blitz/2025-07-29-nick-cave-descreveu-a-inteligencia-artificial-como-uma-parodia-grotesca-agora-usou-a-num-novo-video-944956d8",
+         "title": "Nick Cave mostra novo vídeo para ’Tupelo’ com Elvis Presley recriado por IA: há dois anos dizia que “os algoritmos não têm sentimentos”",
+         "description": "<p>Nick Cave lançou um novo vídeo para assinalar o 40º aniversário de ‘Tupelo’, dos Bad Seeds, que mostra Elvis Presley recriado por Inteligência Artificial. A visão de Nick Cave sobre a tecnologia evoluiu: em 2023, perante uma letra “à Nick Cave” criada pelo ChatGPT, era perentório: “é uma paródia grotesca do que significa ser humano”</p>",
+         "link": "https://expresso.pt/blitz/2025-07-29-nick-cave-mostra-novo-video-para-tupelo-com-elvis-presley-recriado-por-ia-ha-dois-anos-dizia-que-os-algoritmos-nao-tem-sentimentos-944956d8",
          "author": "BLITZ",
          "published": 1753796365000,
          "created": 1753796365000,
@@ -279,12 +279,29 @@
          "title": "FMI vê crescimento de 1% na zona euro em 2025, com impulso das exportações da Irlanda",
          "description": "<p>Revisão foi de 0,2 pontos percentuais em relação à previsão feita em abril, que era de 0,8%</p>",
          "link": "https://expresso.pt/economia/2025-07-29-fmi-ve-crescimento-de-1-na-zona-euro-em-2025-com-impulso-das-exportacoes-da-irlanda-f4e7c2a7",
-         "author": "Expresso",
+         "author": "Agência Lusa",
          "published": 1753794002000,
          "created": 1753794002000,
          "category": "Economia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-04-18-Sede-FMI-Washington-5f9721dc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-04-18-Sede-FMI-Washington-5f9721dc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-04-18-Sede-FMI-Washington-5f9721dc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       }
    ]
 }
