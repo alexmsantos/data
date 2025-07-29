@@ -6,13 +6,13 @@
    "category": [],
    "items": [
       {
-         "id": "f2d5fbc9-7622-4c3a-bf39-ec9e6b48d7bd",
-         "title": "Perigo máximo ou muito elevado de incêndio rural a norte, centro e Algarve",
-         "description": "<p><span>Risco vai manter-se nos próximos dias nestas regiões. Temperaturas máximas vão chegar aos 40 graus em Setúbal e 39 graus em</span><span> Lisboa e Santarém. </span></p>",
-         "link": "https://sicnoticias.pt/meteorologia/2025-07-29-perigo-maximo-ou-muito-elevado-de-incendio-rural-a-norte-centro-e-algarve-dc81ec41",
+         "id": "99631ac0-f145-431b-a108-29376b03bdaf",
+         "title": "Tempeturas chegam aos 40ºC e apenas um distrito escapa ao aviso amarelo",
+         "description": "<p><span>IPMA prevê mais um dia de muito calor com avisos a prolongarem-se até quinta-feira. </span><span>Setúbal deverá ser a cidade mais quente do continente.</span></p>",
+         "link": "https://sicnoticias.pt/meteorologia/2025-07-29-tempeturas-chegam-aos-40c-e-apenas-um-distrito-escapa-ao-aviso-amarelo--219b8f48",
          "author": "Lusa",
-         "published": 1753770987000,
-         "created": 1753770987000,
+         "published": 1753771523000,
+         "created": 1753771523000,
          "category": "Meteorologia",
          "enclosures": [
             {
@@ -29,6 +29,97 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-07-01-calor-3708fb8f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "c17a2b82-7555-43da-8a04-dfd0dade7151",
+         "title": "Dúvidas dos alunos do ISEG respondidas por ‘chatbot’ de inteligência artificial: “na área da economia e da gestão é essencial estarmos sempre a inovar”",
+         "description": "O ‘chatbot’ criado pelo Instituto Superior de Economia e Gestão em conjunto com a Noesis é o primeiro do género numa instituição de ensino portuguesa",
+         "link": "https://sicnoticias.pt/podcasts/o-futuro-do-futuro/2025-07-29-duvidas-dos-alunos-respondidas-por-chat-de-inteligencia-artificial-na-area-da-economia-e-da-gestao-e-essencial-estarmos-sempre-a-inovar-21f2a55d",
+         "author": [
+            "Pedro Miguel Coelho",
+            "Tomás Delfim",
+            "Nuno Fox"
+         ],
+         "published": 1753771500000,
+         "created": 1753771500000,
+         "category": "O Futuro do Futuro",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-28-fox_iseg_noesis_0004.jpg-074c8ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-28-fox_iseg_noesis_0004.jpg-074c8ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-07-28-fox_iseg_noesis_0004.jpg-074c8ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "2d91e89b-3ab1-426f-9977-7d8f8fc202b5",
+         "title": "Pelo menos 20 mortos em ataques russos na Ucrânia",
+         "description": "<p><span>Já na Rússia, uma pessoa foi morta esta madrugada na região de Rostov (sudoeste) por um ataque de 'drones' ucranianos, anunciou o governador regional, Iouri Sliousar.</span></p>",
+         "link": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-07-29-pelo-menos-20-mortos-em-ataques-russos-na-ucrania--4b1cbf5e",
+         "author": "Lusa",
+         "published": 1753771438000,
+         "created": 1753771438000,
+         "category": "Guerra Rússia-Ucrânia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-06-26-ucrania-59f0e6ac/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-06-26-ucrania-59f0e6ac/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-06-26-ucrania-59f0e6ac/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "f2d5fbc9-7622-4c3a-bf39-ec9e6b48d7bd",
+         "title": "Perigo máximo ou muito elevado de incêndio rural no norte, centro e Algarve",
+         "description": "<p><span>Risco vai manter-se nos próximos dias nestas regiões. Temperaturas máximas vão chegar aos 40 graus em Setúbal e 39 graus em</span><span> Lisboa e Santarém. </span></p>",
+         "link": "https://sicnoticias.pt/meteorologia/2025-07-29-perigo-maximo-ou-muito-elevado-de-incendio-rural-a-norte-centro-e-algarve-dc81ec41",
+         "author": "Lusa",
+         "published": 1753770987000,
+         "created": 1753770987000,
+         "category": "Meteorologia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-29-fogo-incendio-incendio-bombeiros-geral-74080282/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-29-fogo-incendio-incendio-bombeiros-geral-74080282/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-07-29-fogo-incendio-incendio-bombeiros-geral-74080282/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -203,96 +294,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-07-29-fogo-incendio-incendio-bombeiros-geral-c027cc9e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "bdac671d-75f4-4d7b-a15e-7439e5d27727",
-         "title": "Incêndio em Arouca obriga à evacuação de aldeia e encerra Passadiços do Paiva",
-         "description": "<p><span>Fogo no distrito de Aveiro é o que mais meios mobiliza esta manhã. Passadiços do Paiva foram encerrados por razões de segurança e a aldeia de Fornos de Carvão foi evacuada.</span></p>",
-         "link": "https://sicnoticias.pt/especiais/incendios-em-portugal/2025-07-29-incendio-em-arouca-obriga-a-evacuacao-de-aldeia-e-encerra-passadicos-do-paiva--4d4fd843",
-         "author": "Marta Ferreira",
-         "published": 1753767640000,
-         "created": 1753767640000,
-         "category": "Incêndios em Portugal",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-29-fogo-incendio-incendio-bombeiros-geral-25227a25/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-29-fogo-incendio-incendio-bombeiros-geral-25227a25/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-07-29-fogo-incendio-incendio-bombeiros-geral-25227a25/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "6ee550ce-b131-49d2-813c-8077726b57bc",
-         "title": "Governos de Milei e Trump avançam para isenção de vistos para argentinos nos EUA",
-         "description": "<p><span>A medida foi anunciada após uma reunião entre o presidente Javier Milei e a secretária de Segurança Nacional dos EUA, Kristi Noem, em Buenos Aires.</span></p>",
-         "link": "https://sicnoticias.pt/mundo/2025-07-28-governos-de-milei-e-trump-avancam-para-isencao-de-vistos-para-argentinos-nos-eua-af2ec56c",
-         "author": "SIC Notícias",
-         "published": 1753746977000,
-         "created": 1753746977000,
-         "category": "Mundo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-12-04-javier-milei-3bf41043/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2024-12-04-javier-milei-3bf41043/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2024-12-04-javier-milei-3bf41043/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "84ad21a7-cc41-4b3f-964d-5c47a85d46d0",
-         "title": "Zelensky elogia \"determinação assertiva\" de Trump ao encurtar ultimato a Putin",
-         "description": "<p><span>Trump disse que iria</span><span> dar ao Presidente russo entre \"10 a 12 dias\" </span><span>para acabar a </span><span>guerra na Ucrânia</span><span>, porque entende que \"não há razão para esperar\", uma vez que não observa \"qualquer progresso\". </span><span>A partir da Escócia, acrescentou estar </span><span>\"muito desiludido\" com Putin</span><span>&nbsp;depois de ter anunciado a 14 de julho que ia aplicar sanções a Moscovo em 50 dias caso a Rússia não terminasse a ofensiva na Ucrânia.</span></p>",
-         "link": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-07-28-zelensky-elogia-determinacao-assertiva-de-trump-ao-encurtar-ultimato-a-putin-9b22cc59",
-         "author": [
-            "SIC Notícias",
-            "Lusa"
-         ],
-         "published": 1753746798000,
-         "created": 1753746798000,
-         "category": "Guerra Rússia-Ucrânia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-28-zelensky-ucrania-.jpg-362d5542-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-07-28-zelensky-ucrania-.jpg-362d5542-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-07-28-zelensky-ucrania-.jpg-362d5542-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
