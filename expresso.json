@@ -38,38 +38,6 @@
          }
       },
       {
-         "id": "dd2f2a81-f1c1-4835-98a4-1ae6f7a24f44",
-         "title": "“Welcome to Lisbon”: a campanha arrancou",
-         "description": "<p>Lisboa. Moedas e Leitão já estão na rua, prometendo casas, polícia e iluminação. Já houve um encontro imediato</p>",
-         "link": "https://expresso.pt/politica/2025-07-31-welcome-to-lisbon-a-campanha-arrancou-d02ed572",
-         "author": [
-            "Margarida Coutinho",
-            "Tiago Miranda"
-         ],
-         "published": 1753988400000,
-         "created": 1753988400000,
-         "category": "Política",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-07-31-tm4896-copy_t-_idp.jpg-52fd7a2f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-07-31-tm4896-copy_t-_idp.jpg-52fd7a2f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-07-31-tm4896-copy_t-_idp.jpg-52fd7a2f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "ef701068-0533-482c-b59f-91c9f03c4328",
          "title": "Carlos Moedas à frente, mas coligação dá hipótese a Alexandra Leitão",
          "description": "<p>Lisboa. Carlos Moedas na frente a dois meses e meio das eleições. Alexandra Leitão segue perto, mas a CDU estraga-lhe as contas</p>",
@@ -96,6 +64,38 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-07-31-alta_doc.20250718.45344310._aps4937_t-_idp.jpg-acc4fbb3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "dd2f2a81-f1c1-4835-98a4-1ae6f7a24f44",
+         "title": "“Welcome to Lisbon”: a campanha arrancou",
+         "description": "<p>Lisboa. Moedas e Leitão já estão na rua, prometendo casas, polícia e iluminação. Já houve um encontro imediato</p>",
+         "link": "https://expresso.pt/politica/2025-07-31-welcome-to-lisbon-a-campanha-arrancou-d02ed572",
+         "author": [
+            "Margarida Coutinho",
+            "Tiago Miranda"
+         ],
+         "published": 1753988400000,
+         "created": 1753988400000,
+         "category": "Política",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-31-tm4896-copy_t-_idp.jpg-52fd7a2f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-31-tm4896-copy_t-_idp.jpg-52fd7a2f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-07-31-tm4896-copy_t-_idp.jpg-52fd7a2f/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -195,6 +195,35 @@
          }
       },
       {
+         "id": "cde84578-a666-48be-980a-13e185950dd4",
+         "title": "A empresa pode contratar depois do despedimento?",
+         "description": "<p>Há limites na lei à contratação após um despedimento, mas depende dos casos</p>",
+         "link": "https://expresso.pt/semanario/economia/o-ceo-e-o-limite/2025-07-31-a-empresa-pode-contratar-depois-do-despedimento--56f03c92",
+         "author": "Cátia Mateus",
+         "published": 1753988220000,
+         "created": 1753988220000,
+         "category": "O CEO é o limite",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-30-gettyimages-1319368869_t-_idp.jpg-52320344/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-30-gettyimages-1319368869_t-_idp.jpg-52320344/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-07-30-gettyimages-1319368869_t-_idp.jpg-52320344/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "3f72a122-1938-457f-a8c3-f8baab58685a",
          "title": "Luís Marçal: “Recurso não devia ser permitido, aos clubes dá jeito que sejam pedidas providências cautelares e evitar chico-espertices”",
          "description": "<p>O Tribunal Central Administrativo do Sul rejeitou a providência cautelar que o Sporting apresentou. Matheus Reis foi suspenso por 5 jogos, por causa do pisão na cabeça de Belotti na final da Taça de Portugal. Desfalca assim a equipa de Rui Borges neste arranque de temporada</p>",
@@ -279,38 +308,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-03-13-MARIO-MOURAO_v273988353626733308160000007-3509f81b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "0db5f989-e4c0-464c-9ca4-755e15441795",
-         "title": "Há uma semana a tentar apanhar o fogo",
-         "description": "<p>Reportagem. Incêndios encontram condições favoráveis. Calor, baixa humidade e terrenos difíceis dificultam o combate</p>",
-         "link": "https://expresso.pt/sociedade/2025-07-31-ha-uma-semana-a-tentar-apanhar-o-fogo-fb1081ee",
-         "author": [
-            "Joana Ascensão",
-            "Rui Duarte Silva"
-         ],
-         "published": 1753984620000,
-         "created": 1753984620000,
-         "category": "Sociedade",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-07-31-rds_05_incendio-ponte-da-barca_3c8a1263_t-_idp.jpg-f707d3cc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-07-31-rds_05_incendio-ponte-da-barca_3c8a1263_t-_idp.jpg-f707d3cc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-07-31-rds_05_incendio-ponte-da-barca_3c8a1263_t-_idp.jpg-f707d3cc/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
