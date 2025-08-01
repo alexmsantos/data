@@ -42,9 +42,9 @@ jobs:
     - name: Scrape Renascença
       run: node renascencaHeadline.js
       continue-on-error: true
-    - name: Scrape Jornal i
-      run: node jornaliHeadline.js
-      continue-on-error: true
+    #- name: Scrape Jornal i
+    #  run: node jornaliHeadline.js
+    #  continue-on-error: true
     - name: Scrape Notícias ao Minuto
       run: node noticiasaominutoHeadline.js
       continue-on-error: true
@@ -71,7 +71,7 @@ jobs:
       continue-on-error: true
     - name: Merge files
       run: |-
-        jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--dinheirovivo.json headlines/headline--dn.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--expresso.json headlines/headline--jn.json headlines/headline--jornali.json headlines/headline--negocios.json headlines/headline--noticiasaominuto.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json headlines/headline--sicnoticias.json headlines/headline--tsf.json | jq -r tostring > headlines/headlinespt.json
+        jq -s . headlines/headline--cnn.json headlines/headline--cm.json headlines/headline--dinheirovivo.json headlines/headline--dn.json headlines/headline--eco.json headlines/headline--economico.json headlines/headline--expresso.json headlines/headline--jn.json headlines/headline--negocios.json headlines/headline--noticiasaominuto.json headlines/headline--observador.json headlines/headline--publico.json headlines/headline--renascenca.json headlines/headline--rtp.json headlines/headline--sicnoticias.json headlines/headline--tsf.json | jq -r tostring > headlines/headlinespt.json
     - name: Commit and push changes
       run: |-
         git diff
