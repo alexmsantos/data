@@ -21,5 +21,5 @@ jobs:
         git config user.name "Automated"
         git config user.email "---"
         git pull
-        git diff --quiet || (git add -A && git commit -m "Updated Mortes 2025")
+        git diff --quiet || (git add -A && git commit -m "Updated politica news")
         git push
