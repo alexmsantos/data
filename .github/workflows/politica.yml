@@ -15,10 +15,11 @@ jobs:
     - name: Download Feed
       run: |-
         curl "https://www.publico.pt/api/search/?size=20&tags=politica" | jq -r tostring > politica.json
-    - name: Download Feed
+    - name: Commit and push changes
       run: |-
         git diff
         git config user.name "Automated"
         git config user.email "---"
-        git diff --quiet || (git add -A && git commit -m "Updated with latest politica news")
+        git pull
+        git diff --quiet || (git add -A && git commit -m "Updated Mortes 2025")
         git push
