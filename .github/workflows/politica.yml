@@ -1,0 +1,24 @@
+name: Fetch politica news
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 2 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        curl "https://www.publico.pt/api/search/?size=20&tags=politica" | jq -r tostring > politica.json
+    - name: Download Feed
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git diff --quiet || (git add -A && git commit -m "Updated with latest politica news")
+        git push
