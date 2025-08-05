@@ -1,0 +1,25 @@
+name: Fetch Ageas Cultura
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 5 1 * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        curl "https://www.publico.pt/api/search/?size=20&tags=ageas-cultura" | jq -r tostring > ageas-cultura.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git pull
+        git diff --quiet || (git add -A && git commit -m "Updated Ageas Cultura")
+        git push
