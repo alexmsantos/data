@@ -75,8 +75,25 @@
          "published": 1754378381000,
          "created": 1754378381000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2019-01-18-consulado-brasil-em-lisboa--cdbe1c9a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2019-01-18-consulado-brasil-em-lisboa--cdbe1c9a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2019-01-18-consulado-brasil-em-lisboa--cdbe1c9a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "95d9cf96-d734-4e4f-ad81-863bb27bccf1",
