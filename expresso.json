@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "8910504d-20b3-4412-911d-95f7f82dc1ba",
+         "title": "Palavras Cruzadas nº 1282",
+         "description": "",
+         "link": "https://expresso.pt/jogos/palavras-cruzadas/2025-08-08-palavras-cruzadas-n-1282-0d310f81",
+         "author": "Atlântico Press",
+         "published": 1754636400000,
+         "created": 1754636400000,
+         "category": "Palavras Cruzadas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-18-palavras-cruzadas--002-.jpg-3ab70768/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-18-palavras-cruzadas--002-.jpg-3ab70768/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-07-18-palavras-cruzadas--002-.jpg-3ab70768/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "ad067e7c-0cf0-4655-999a-fc2da3551b1c",
          "title": "Motim no Congresso brasileiro e tarifas de Trump: o plano da extrema-direita para libertar Bolsonaro e destituir Alexandre de Moraes",
          "description": "<p>Apoiantes de Bolsonaro no Congresso fizeram um motim na Câmara de Deputados e querem discutir uma amnistia geral para os participantes no golpe de 2023, incluindo o ex-presidente. No Expresso da Manhã, Paulo Baldaia conversa com a jornalista Christiana Martins</p>",
@@ -215,47 +244,6 @@
          }
       },
       {
-         "id": "209c9f54-6f5a-46ae-87ba-72e980145cc2",
-         "title": "Terrível mês de agosto",
-         "description": "<p>Enquanto isto o interior está pior a cada ano que passa. Mais eucalipto espontâneo. Mais mato por cortar. Mais terrenos abandonados</p>",
-         "link": "https://expresso.pt/opiniao/2025-08-07-terrivel-mes-de-agosto-39dd3b96",
-         "author": "Luís Marques",
-         "published": 1754603820000,
-         "created": 1754603820000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "83974a9b-b009-4120-941f-30e75bb0ef27",
-         "title": "“Tarifaço” de 50% entre a defesa comercial e o ataque político dos EUA",
-         "description": "",
-         "link": "https://expresso.pt/semanario/primeiro/em-destaque/2025-08-07-tarifaco-de-50-entre-a-defesa-comercial-e-o-ataque-politico-dos-eua-64a01581",
-         "author": "Expresso",
-         "published": 1754603820000,
-         "created": 1754603820000,
-         "category": "Em Destaque",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-08-06-2813z_1728255523_rc2r0gasdsxj_rtrmadp_3_usa-econom-_idp.jpg-d3c32211/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-08-06-2813z_1728255523_rc2r0gasdsxj_rtrmadp_3_usa-econom-_idp.jpg-d3c32211/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-08-06-2813z_1728255523_rc2r0gasdsxj_rtrmadp_3_usa-econom-_idp.jpg-d3c32211/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "bac302fc-6379-4fde-9c06-dba94cf32b16",
          "title": "Estudantes de matemática disputam vitória em Macau",
          "description": "<p>Espanha vai participar na final internacional com quatro alunos da Universidade de Saragoça</p>",
@@ -283,6 +271,18 @@
                "medium": "image"
             }
          }
+      },
+      {
+         "id": "209c9f54-6f5a-46ae-87ba-72e980145cc2",
+         "title": "Terrível mês de agosto",
+         "description": "<p>Enquanto isto o interior está pior a cada ano que passa. Mais eucalipto espontâneo. Mais mato por cortar. Mais terrenos abandonados</p>",
+         "link": "https://expresso.pt/opiniao/2025-08-07-terrivel-mes-de-agosto-39dd3b96",
+         "author": "Luís Marques",
+         "published": 1754603820000,
+         "created": 1754603820000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
       }
    ]
 }
