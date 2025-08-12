@@ -1,0 +1,28 @@
+name: Fetch Extra
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 0,2,6,8,10,12,14,16,18,20,22 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Download Feed
+      run: |-
+        curl "https://build.publico.pt/api/content/extra" | jq -r tostring > extra-news.json
+    - name: Download Feed
+      run: |-
+        curl "https://build.publico.pt/api/content/extra/opinion" | jq -r tostring > extra-opinion.json
+    - name: Commit and push changes
+      run: |-
+        git diff
+        git config user.name "Automated"
+        git config user.email "---"
+        git pull
+        git diff --quiet || (git add -A && git commit -m "Updated Extra")
+        git push
