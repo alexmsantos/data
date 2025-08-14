@@ -6,6 +6,122 @@
    "category": [],
    "items": [
       {
+         "id": "66b8493c-f5cb-4edf-b441-2cbcd58f8f7f",
+         "title": "A 1ª página do Expresso Economia",
+         "description": "",
+         "link": "https://expresso.pt/semanario/economia",
+         "author": "Expresso",
+         "published": 1755208844000,
+         "created": 1755208844000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-eco_2755--1-.jpg-ef7a2550/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-eco_2755--1-.jpg-ef7a2550/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-eco_2755--1-.jpg-ef7a2550/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "7473c16f-c813-4e0a-b522-9950c0048fe7",
+         "title": "Celso Lascasas, na revista E",
+         "description": "",
+         "link": "https://expresso.pt/semanario/revista-e",
+         "author": "Expresso",
+         "published": 1755208819000,
+         "created": 1755208819000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-e_2755.jpg-cd4f5bbb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-e_2755.jpg-cd4f5bbb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-e_2755.jpg-cd4f5bbb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "b816ede9-ac34-44c2-bfcf-27a392a0e3cc",
+         "title": "IDEIAS: As voltas do ciclismo em Portugal",
+         "description": "",
+         "link": "https://expresso.pt/semanario/ideias",
+         "author": "Expresso",
+         "published": 1755208816000,
+         "created": 1755208816000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-id_2755--1-.jpg-4f3d9ee7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-id_2755--1-.jpg-4f3d9ee7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-id_2755--1-.jpg-4f3d9ee7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "aeb24f06-eca9-43c1-a2bb-c1bd5abf1bf3",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro",
+         "author": "Expresso",
+         "published": 1755208808000,
+         "created": 1755208808000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-thumbnail_pc_2755.jpg-07ebd7f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-thumbnail_pc_2755.jpg-07ebd7f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-08-14-thumbnail_pc_2755.jpg-07ebd7f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "84870d33-7dcc-449d-92a6-83d9046337b0",
          "title": "Entre avanços, recuos e adiamentos nas tarifas, bolsas mundiais registam novos máximos",
          "description": "",
@@ -146,105 +262,6 @@
          "published": 1755208620000,
          "created": 1755208620000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "04d90571-c50f-4ca5-9d52-a0852fc38c0c",
-         "title": "Frederico Cantante: \"Portugal apresenta um perfil intermédio na concentração da riqueza\"",
-         "description": "<div>   <div>    <div>     <div>      <div>       <div>        <div>         <div>          <p>É sociólogo e investigador-coordenador do CoLABOR, Laboratório Colaborativo para o Trabalho, Emprego e Proteção Social. É licenciado e doutorado em Sociologia e Planeamento pelo ISCTE-Instituto Universitário de Lisboa, e cursou Direito pela Faculdade de Direito da Universidade Nova de Lisboa. Tem sido, também, investigador no Centro de Investigação e Estudos de Sociologia e membro da equipa permanente do Observatório das Desigualdades. Publicou o livro “O<i> </i>Risco da Desigualdade” na editora Almedina e recebeu o Prémio António Dornelas atribuído pelo Ministério do Trabalho, Solidariedade e Segurança Social.</p>          <p> </p>         </div>        </div>       </div>      </div>     </div>    </div>   </div>  </div>",
-         "link": "https://expresso.pt/economia/2025-08-14-frederico-cantante-portugal-apresenta-um-perfil-intermedio-na-concentracao-da-riqueza-69675177",
-         "author": "Jorge Nascimento Rodrigues",
-         "published": 1755208620000,
-         "created": 1755208620000,
-         "category": "Economia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2018-11-15-up-containers-58e3273b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2018-11-15-up-containers-58e3273b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2018-11-15-up-containers-58e3273b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "16a8771a-43e3-45e8-9b38-fdb59aae588e",
-         "title": "No supermercado, Portugal é vice-campeão da Europa nos produtos de marca própria",
-         "description": "<p>Mais de 50% das vendas da distribuição alimentar no país são nas marcas da distribuição. E a quota está a aumentar. Na Europa, só a Suíça bate Portugal</p>",
-         "link": "https://expresso.pt/economia/2025-08-14-no-supermercado-portugal-e-vice-campeao-da-europa-nos-produtos-de-marca-propria-e080013b",
-         "author": "Margarida Cardoso",
-         "published": 1755208620000,
-         "created": 1755208620000,
-         "category": "Economia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-08-13-rds_11_luis-moutinho-sonae-mc_rds_8313-_idp.jpg-49c4f967/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-08-13-rds_11_luis-moutinho-sonae-mc_rds_8313-_idp.jpg-49c4f967/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-08-13-rds_11_luis-moutinho-sonae-mc_rds_8313-_idp.jpg-49c4f967/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "d65db687-bc41-4709-9ad4-6d0515e25ff6",
-         "title": "Tarifas: a quebra nas exportações para os EUA “está a acentuar-se”, diz indústria metalúrgica",
-         "description": "<p>Vinho ainda acredita que pode ser incluído na lista de produtos com taxa zero à entrada nos EUA. Negociações continuam e produtos farmacêuticos estão na expectativa</p>",
-         "link": "https://expresso.pt/economia/industria/2025-08-14-tarifas-a-quebra-nas-exportacoes-para-os-eua-esta-a-acentuar-se-diz-industria-metalurgica-6116c5af",
-         "author": "Margarida Cardoso",
-         "published": 1755208620000,
-         "created": 1755208620000,
-         "category": "Indústria",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-08-13-gettyimages-1186090888-_idp.jpg-654e2d84/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-08-13-gettyimages-1186090888-_idp.jpg-654e2d84/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-08-13-gettyimages-1186090888-_idp.jpg-654e2d84/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "485c3083-b967-445f-9542-64eb0dd82e7d",
-         "title": "Jim Lovell",
-         "description": "",
-         "link": "https://expresso.pt/semanario/ideias/2025-08-14-jim-lovell-6b9ccce7",
-         "author": "Rui Gustavo",
-         "published": 1755208620000,
-         "created": 1755208620000,
-         "category": "Ideias",
          "enclosures": [],
          "media": {}
       }
