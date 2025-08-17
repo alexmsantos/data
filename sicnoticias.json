@@ -37,7 +37,7 @@
       {
          "id": "fc7ef56f-7803-42e1-8408-fe282ad6493c",
          "title": "Presidente da República lamenta \"trágica morte\" de bombeiro da Covilhã",
-         "description": "<p><span>Na nota publicada no site da Presidência, o chefe de Estado salienta que o acidente ocorreu depois de </span><span>in</span></p>",
+         "description": "<p><span>Na nota publicada no site da Presidência, o chefe de Estado salienta que o acidente ocorreu depois de </span><span>\"</span><span>10 dias de ininterrupta doação sem limites de tempo e de espaço</span><span>\" de todos os operacionais.</span></p>",
          "link": "https://sicnoticias.pt/especiais/incendios-em-portugal/2025-08-17-presidente-da-republica-lamenta-tragica-morte-de-bombeiro-da-covilha-b1a2ad62",
          "author": "SIC Notícias",
          "published": 1755460531000,
@@ -68,7 +68,10 @@
          "title": "Um morto e quatro feridos graves em acidente com viatura dos bombeiros na Covilhã",
          "description": "<p><span>Um acidente com um veículo dos bombeiros na aldeia de São Francisco de Assis, na Covilhã, provocou este domingo um morto e quatro feridos graves. Viatura caiu em ribanceira.</span></p>",
          "link": "https://sicnoticias.pt/pais/2025-08-17-um-morto-e-quatro-feridos-graves-em-acidente-com-viatura-dos-bombeiros-na-covilha-2aad29a2",
-         "author": "SIC Notícias",
+         "author": [
+            "Lusa",
+            "SIC Notícias"
+         ],
          "published": 1755457708000,
          "created": 1755457708000,
          "category": "País",
