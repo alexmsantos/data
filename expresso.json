@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "d981a331-8472-47ee-826f-6c06b9889347",
+         "title": "A aldeia que se uniu para enfrentar as chamas contra a vontade das autoridades",
+         "description": "<p>Relato de um jornalista do Expresso numa aldeia cercada pelas chamas, onde os moradores enfrentaram incêndios devastadores durante dois dias e duas noites. Fizeram-no praticamente sem apoio das autoridades</p>",
+         "link": "https://expresso.pt/opiniao/2025-08-19-a-minha-regiao-esta-em-chamas-e-ja-nao-temos-pachorra-para-mentecaptos-5d6c9323",
+         "author": "Vítor Andrade",
+         "published": 1755602627000,
+         "created": 1755602627000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-13-350px_vitor-andrade.png-6da8b3aa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-13-350px_vitor-andrade.png-6da8b3aa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-02-13-350px_vitor-andrade.png-6da8b3aa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "74ddbe9b-ecf9-47a0-b5ad-83855680a729",
          "title": "Taylor Swift vai atuar no intervalo da Super Bowl em 2026? Os fãs seguem as pistas",
          "description": "<p>Taylor Swift poderá ter deixado várias “pistas” sobre uma não confirmada atuação no espetáculo de intervalo da Super Bowl, marcada para fevereiro</p>",
@@ -268,18 +297,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "563e85b0-88aa-4f58-9f3f-2af0cc293f52",
-         "title": "Os meios de conspiração social",
-         "description": "<p>Quando políticos tão diferentes se queixam do mesmo suposto inimigo, ficamos com a ideia de que são paranóicos com a mania da perseguição</p>",
-         "link": "https://expresso.pt/opiniao/2025-08-19-os-meios-de-conspiracao-social-170fb196",
-         "author": "Ricardo Araújo Pereira",
-         "published": 1755597600000,
-         "created": 1755597600000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
