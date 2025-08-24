@@ -37,14 +37,31 @@
       {
          "id": "8c6a088a-ef29-4c6d-8970-42b2a7aee5fc",
          "title": "Incêndios: Proteção Civil registou 38 ocorrências com três mais preocupantes",
-         "description": "<p><span>Este domingo, até às 17h, foram contabilizados 38 incêndios, que mobilizaram quase 1200 operacionais</span></p>",
+         "description": "<p>Este domingo, até às 17h, foram contabilizados 38 incêndios, que mobilizaram quase 1200 operacionais</p>",
          "link": "https://expresso.pt/sociedade/incendios/2025-08-24-incendios-protecao-civil-registou-38-ocorrencias-com-tres-mais-preocupantes-af019f3c",
          "author": "Agência Lusa",
          "published": 1756064037000,
          "created": 1756064037000,
          "category": "Incêndios",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-20-helicoptero-super-puma-5d57eaf3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-20-helicoptero-super-puma-5d57eaf3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-08-20-helicoptero-super-puma-5d57eaf3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "0f641634-9c6f-4231-b693-19df18fe43c0",
