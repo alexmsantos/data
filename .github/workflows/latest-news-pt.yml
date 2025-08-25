@@ -156,11 +156,11 @@ jobs:
     #  continue-on-error: true
     - name: Edit expresso.json
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Expresso"})' expresso.json >digest/latest--expresso.json
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Expresso"})' expresso.json >digest/latest--expresso.json
       continue-on-error: true
     - name: Edit sicnoticias.json
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "SIC Notícias"})' sicnoticias.json >digest/latest--sicnoticias.json
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "SIC Notícias"})' sicnoticias.json >digest/latest--sicnoticias.json
       continue-on-error: true
     - name: Edit cnnportugal.json
       run: |-
@@ -180,7 +180,7 @@ jobs:
       continue-on-error: true
     - name: Edit ecnomico.json
       run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Económico"})' economico.json >digest/latest--economico.json
+        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+01:00")) else empty end), media: "Económico"})' economico.json >digest/latest--economico.json
       continue-on-error: true
     - name: Edit renascenca.json
       run: |-
