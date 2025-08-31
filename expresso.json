@@ -43,8 +43,25 @@
          "published": 1756637402000,
          "created": 1756637402000,
          "category": "Internacional",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-10-russia-india-china-30052b46/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-06-10-russia-india-china-30052b46/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-06-10-russia-india-china-30052b46/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "d55c9f36-9c48-4dd4-b13a-c5e447220026",
@@ -107,14 +124,31 @@
       {
          "id": "2e042006-9d5a-4a44-aa97-63101f63da02",
          "title": "Governo cria balcão único para empresas e promete encurtar prazos nos licenciamentos",
-         "description": "<p><span>O Governo vai lançar um </span><span>balcão único para empresas</span><span> e rever licenciamentos, incluindo os urbanísticos, para </span><span>encurtar prazos na construção</span><span>. A medida faz parte da </span><span>reforma do Estado</span><span> anunciada pelo ministro Gonçalo Matias.</span></p>",
+         "description": "<p><span>O Governo vai lançar um </span><span>balcão único para empresas</span><span> e rever licenciamentos, incluindo os urbanísticos, para </span><span>encurtar prazos na construção</span><span>. A medida faz parte da </span><span>reforma do Estado</span><span> anunciada pelo ministro Gonçalo Matias</span></p>",
          "link": "https://expresso.pt/politica/2025-08-31-reforma-do-estado-governo-lanca-balcao-unico-para-empresas-e-reve-licenciamentos-urbanisticos-38361001",
          "author": "Expresso",
          "published": 1756634675000,
          "created": 1756634675000,
          "category": "Política",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-17-fox_programagoverno_00088.jpg-a1c4361a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-17-fox_programagoverno_00088.jpg-a1c4361a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-06-17-fox_programagoverno_00088.jpg-a1c4361a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "5b1fc8ec-7a98-4834-a739-6d0a306cebf6",
