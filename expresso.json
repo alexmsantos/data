@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2025 em Portugal",
+         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para o novo ano: uma agenda sempre em atualização</p>",
+         "link": "https://expresso.pt/blitz/2025-09-05-todos-os-concertos-marcados-para-2025-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1757058120000,
+         "created": 1757058120000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-15-_rc09567_ritacarmo.jpg-1cbdc526/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-07-15-_rc09567_ritacarmo.jpg-1cbdc526/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-07-15-_rc09567_ritacarmo.jpg-1cbdc526/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "2661754a-e6bb-464f-8a9a-a925a5083d0b",
          "title": "Palavras Cruzadas nº 1301",
          "description": "",
@@ -260,35 +289,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "b5422704-8e4f-464f-92cb-a994999b3395",
-         "title": "Há cada vez mais países a aumentarem os seus arsenais",
-         "description": "<p>Para lá dos conflitos na Faixa de Gaza e na Ucrânia, a corrida aos mísseis no Sul da Ásia também está a aquecer</p>",
-         "link": "https://expresso.pt/internacional/2025-09-04-ha-cada-vez-mais-paises-a-aumentarem-os-seus-arsenais-caf131ab",
-         "author": "Catarina Maldonado Vasconcelos",
-         "published": 1757023073000,
-         "created": 1757023073000,
-         "category": "Internacional",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-09-04-gettyimages-526259814-_idp.jpg-b1ef50f8/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-09-04-gettyimages-526259814-_idp.jpg-b1ef50f8/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-09-04-gettyimages-526259814-_idp.jpg-b1ef50f8/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
