@@ -6,6 +6,64 @@
    "category": [],
    "items": [
       {
+         "id": "062560eb-337e-47a0-8846-a21359b6b5b5",
+         "title": "2521: este foi o número de furtos a casas que a PSP identificou no primeiro semestre deste ano",
+         "description": "<p><span>Entre os métodos mais usados pelos ladrões para forçar a entrada nas habitações estão o \"arrombamento de portas, fechaduras e janelas, recorrendo ao uso de gazuas, ferramentas ou ácido\" e o \"escalamento de andares, varandas a janelas\".</span></p>",
+         "link": "https://sicnoticias.pt/webstories/2521-este-foi-o-numero-de-furtos-a-casas-que-a-psp-identificou-no-primeiro-semestre-deste-ano/",
+         "author": "SIC Notícias",
+         "published": 1757757720000,
+         "created": 1757757720000,
+         "category": "Webstories",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-06-27-psp-agente-geral.jpg-2ab0864a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-06-27-psp-agente-geral.jpg-2ab0864a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-06-27-psp-agente-geral.jpg-2ab0864a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "e4117961-88ab-4bc8-8562-9adff327c550",
+         "title": "Quiz da Semana: da festa que confundiu Ventura ao \"melhor jogador de sempre\"",
+         "description": "Acompanhou a atualidade noticiosa esta semana? Responda ao Quiz SIC Notícias e teste os seus conhecimentos.",
+         "link": "https://sicnoticias.pt/especiais/quiz-sic-noticias/2025-09-13-quiz-da-semana-da-festa-que-confundiu-ventura-ao-melhor-jogador-de-sempre-7c9e00a5",
+         "author": "SIC Notícias",
+         "published": 1757757600000,
+         "created": 1757757600000,
+         "category": "Quiz SIC Notícias",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-10-30-quiz-sicnoticias.png-e14430fb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-10-30-quiz-sicnoticias.png-e14430fb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-10-30-quiz-sicnoticias.png-e14430fb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "4e66e7a8-30e0-4a8b-8246-04abee7ac68e",
          "title": "Autárquicas 2025: CDU e Chega juntam-se ao debate em Lisboa",
          "description": "<p><span>O debate autárquico do Porto que se iria realizar amanhã na SIC foi adiado para o próximo domingo, 21 de setembro.</span></p>",
@@ -97,7 +155,10 @@
          "title": "Hospital de Évora limita admissões na urgência devido a elevada afluência",
          "description": "A urgência polivalente do hospital de Évora está a limitar a admissão de utentes desde as 08:00 de hoje até às 08:00 de segunda-feira, devido à elevada afluência de doentes e redução da equipa clínica.",
          "link": "https://sicnoticias.pt/pais/2025-09-13-hospital-de-evora-limita-admissoes-na-urgencia-devido-a-elevada-afluencia-600a343a",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1757753256000,
          "created": 1757753256000,
          "category": "País",
@@ -211,12 +272,12 @@
       {
          "id": "bdebc6ee-4c2a-4fba-96b1-1a580ba60324",
          "title": "Livre reúne-se no Porto para traçar estratégia autárquica",
-         "description": "<p><span>No 16.º Congresso, no Porto, o partido está centrado na estratégia para as eleições autárquicas de outubro,</span></p>",
-         "link": "https://sicnoticias.pt/pais/2025-09-13-livre-reune-se-no-porto-para-tracar-estrategia-autarquica-4af4588c",
+         "description": "No 16.º Congresso, no Porto, o partido está centrado na estratégia para as eleições autárquicas de outubro,",
+         "link": "https://sicnoticias.pt/especiais/autarquicas/2025-09-13-livre-reune-se-no-porto-para-tracar-estrategia-autarquica-4af4588c",
          "author": "Lusa",
          "published": 1757749087000,
          "created": 1757749087000,
-         "category": "País",
+         "category": "Eleições Autárquicas",
          "enclosures": [
             {
                "url": "https://images.impresa.pt/sicnot/2025-05-05-rui-tavares-2c2ba322/1.91x1/mw-1200?outputFormat=jpeg",
@@ -232,64 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-05-05-rui-tavares-2c2ba322/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "82f69a55-220f-48fd-8ce0-3bad410efb7c",
-         "title": "Portugal estreia-se no mundial de voleibol com vitória frente a Cuba",
-         "description": "A seleção portuguesa de voleibol estreou-se no Mundial com uma vitória por 3-1 sobre Cuba, no Grupo D em Manila.",
-         "link": "https://sicnoticias.pt/desporto/2025-09-13-portugal-estreia-se-no-mundial-de-voleibol-com-vitoria-frente-a-cuba-ad3ecb0b",
-         "author": "Lusa",
-         "published": 1757748662000,
-         "created": 1757748662000,
-         "category": "Desporto",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2023-11-20-Voleibol-rede-b38ba545/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2023-11-20-Voleibol-rede-b38ba545/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2023-11-20-Voleibol-rede-b38ba545/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "8af23b3b-599a-4008-b859-fee277e5490b",
-         "title": "Privatização da TAP: quem será o parceiro certo para Portugal?",
-         "description": "O processo de privatização da TAP entrou numa nova fase com regras que deixam claro que só gigantes da aviação podem liderar consórcios interessados. Quem terá condições para convencer o Governo português? A análise deste tema foi feita pela jornalista da secção de Economia do Expresso Anabela Campos. Ouça o novo episódio do Economia dia a dia, podcast diário do Expresso, conduzido por Juliana Simões",
-         "link": "https://sicnoticias.pt/podcasts/economia-dia-a-dia/2025-09-13-privatizacao-da-tap-quem-sera-o-parceiro-certo-para-portugal--702251fe",
-         "author": "Economia dia a dia",
-         "published": 1757748600000,
-         "created": 1757748600000,
-         "category": "Economia dia a dia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-11-edad---16x9-juliana-simoes-economia-dia-a-dia.jpg-76e397ba/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-11-edad---16x9-juliana-simoes-economia-dia-a-dia.jpg-76e397ba/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-11-edad---16x9-juliana-simoes-economia-dia-a-dia.jpg-76e397ba/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
