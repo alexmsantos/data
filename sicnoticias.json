@@ -191,8 +191,25 @@
          "published": 1758349800000,
          "created": 1758349800000,
          "category": "Esquecidos",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-18-msb245583-high-.jpeg-0c67392c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-18-msb245583-high-.jpeg-0c67392c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-09-18-msb245583-high-.jpeg-0c67392c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b6e0d676-684b-4e00-a938-6b9202240972",
