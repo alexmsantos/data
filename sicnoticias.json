@@ -216,7 +216,10 @@
          "title": "Ataque informático no aeroporto de Bruxelas obriga a cancelar voos",
          "description": "<p><span>O ataque está a ter grande impacto na programação dos voos, pelo que vai provocar atrasos e cancelamentos. Passageiros são aconselhados a confirmar </span><span>o estado do voo junto da companhia aérea.</span></p>",
          "link": "https://sicnoticias.pt/mundo/2025-09-20-ataque-informatico-no-aeroporto-de-bruxelas-obriga-a-cancelar-voos-6d98d450",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1758349625000,
          "created": 1758349625000,
          "category": "Mundo",
