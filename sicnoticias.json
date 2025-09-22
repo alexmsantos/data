@@ -6,6 +6,47 @@
    "category": [],
    "items": [
       {
+         "id": "1864ffe8-d78b-4d6b-adae-420bad6e33f4",
+         "title": "Teste 123",
+         "description": "",
+         "link": "https://sicnoticias.pt/desporto/2025-09-22-teste-123-fe1f4015",
+         "author": "SIC Notícias",
+         "published": 1758552851000,
+         "created": 1758552851000,
+         "category": "Desporto",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "4aacf2eb-746d-46d0-8349-ee36e8c9872a",
+         "title": "Israel acusa flotilha humanitária de servir os interesses do Hamas",
+         "description": "<p><span>A iniciativa, composta por ativistas, políticos, jornalistas e médicos é considerada a maior flotilha organizada até à data, procurando levar ajuda humanitária ao enclave palestiniano e denunciar o cerco israelita à Faixa de Gaza.</span></p>",
+         "link": "https://sicnoticias.pt/especiais/guerra-no-medio-oriente/2025-09-22-israel-acusa-flotilha-humanitaria-de-servir-os-interesses-do-hamas-beaaa004",
+         "author": "Lusa",
+         "published": 1758552541000,
+         "created": 1758552541000,
+         "category": "Guerra no Médio Oriente",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-02-flotilha-gaza-20be95d9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-02-flotilha-gaza-20be95d9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-09-02-flotilha-gaza-20be95d9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "a1ced1de-acfe-4f71-97ed-8ccd3c894f2d",
          "title": "Qual é o papel do cuidador do doente oncológico?",
          "description": "O nono episódio da nova temporada do <i>podcast</i> <strong>Dois de Conversa: sobre o Cancro </strong>- criado pela Liga Portuguesa Contra o Cancro Núcleo Regional do Sul -<strong> </strong>tem como tema “O papel do cuidador do doente oncológico” e conta com Catarina Pazes, enfermeira coordenadora da Equipa Beja +, mestre em Cuidados Paliativos e presidente da Associação Portuguesa de Cuidados Paliativos (APCP).",
@@ -236,64 +277,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-09-22-mw-1920.webp-67903508/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "9325623b-36c4-494b-9be5-3ebd6e56fa24",
-         "title": "Procura casa para comprar? Preços bateram recorde pela segunda vez na história",
-         "description": "Os preços estão a subir de forma quase consecutiva desde a última década. Pela segunda vez na história, o mercado ultrapassou os 10 mil milhões de euros no valor das casas vendidas, em apenas um trimestre.",
-         "link": "https://sicnoticias.pt/economia/2025-09-22-precos-das-casas-batem-recorde-no-segundo-trimestre-deste-ano-c7225ff5",
-         "author": "SIC Notícias",
-         "published": 1758539798000,
-         "created": 1758539798000,
-         "category": "Economia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-01-16-casas-habitacao-ba5a0c0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-01-16-casas-habitacao-ba5a0c0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-01-16-casas-habitacao-ba5a0c0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "ff93d1cf-f501-45bd-b05a-363d66e661c3",
-         "title": "Ex-juiz condenado mais uma vez... agora por ameaçar de morte militar da GNR",
-         "description": "Os factos ocorreram na noite de 28 de abril de 2021. O Tribunal deu como provado que o arguido e um outro indivíduo iniciaram uma discussão com o dono de um restaurante em Santa Maria da Feira que lhes recusou servir bebidas alcoólicas.",
-         "link": "https://sicnoticias.pt/pais/2025-09-22-ex-juiz-condenado-mais-uma-vez.-agora-por-ameacar-de-morte-militar-da-gnr-0de83ef3",
-         "author": "Lusa",
-         "published": 1758538423000,
-         "created": 1758538423000,
-         "category": "País",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-17-justica-geral--06d1ef4a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-17-justica-geral--06d1ef4a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-17-justica-geral--06d1ef4a/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
