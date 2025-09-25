@@ -6,11 +6,43 @@
    "category": [],
    "items": [
       {
+         "id": "dfdeb5d8-2b38-4027-96f5-fbb859ebdaa2",
+         "title": "PJ faz buscas na Câmara de Ponte da Barca",
+         "description": "A Câmara Municipal de Ponte da Barca, no distrito de Viana do Castelo, foi hoje alvo de buscas pela PJ, confirmou o presidente da autarquia Augusto Marinho.",
+         "link": "https://sicnoticias.pt/pais/2025-09-25-pj-faz-buscas-na-camara-de-ponte-da-barca-5bef21e5",
+         "author": "Lusa",
+         "published": 1758806850000,
+         "created": 1758806850000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-22-1920x1080_ultima_hora.png-8c2ef654/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-22-1920x1080_ultima_hora.png-8c2ef654/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-09-22-1920x1080_ultima_hora.png-8c2ef654/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "5d566e09-3eb2-423b-87d7-8d86b65fb50e",
          "title": "Corrupção para favorecer Benfica: julgamento de César Boaventura tem de ser parcialmente repetido",
          "description": "O Tribunal da Relação do Porto obriga a primeira instância a ouvir duas testemunhas e a juntar um email do antigo presidente do Futebol Clube do Porto, Jorge Nuno Pinto da Costa.",
          "link": "https://sicnoticias.pt/pais/2025-09-25-corrupcao-para-favorecer-benfica-julgamento-de-cesar-boaventura-tem-de-ser-parcialmente-repetido-95b2e468",
-         "author": "SIC Notícias",
+         "author": [
+            "Diogo Torres",
+            "SIC Notícias"
+         ],
          "published": 1758804488000,
          "created": 1758804488000,
          "category": "País",
@@ -264,35 +296,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-11-19-roberto-martinez-8fabdfb2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "44c26912-de83-4c5c-8213-a20fb4703e25",
-         "title": "Ciclone tropical Gabrielle: TAP e SATA alertam para eventuais constrangimentos nos voos",
-         "description": "<p><span>Os primeiros efeitos do ciclone tropical Gabrielle devem começar a sentir-se nos Açores a partir do final do dia, sendo esperado que atinja a região com força de furacão de categoria 1 na escala de Saffir-Simpson (escala de 1 a 5, em que 5 é a categoria mais grave). &nbsp; </span></p>",
-         "link": "https://sicnoticias.pt/meteorologia/2025-09-25-ciclone-tropical-gabrielle-tap-e-sata-alertam-para-eventuais-constrangimentos-nos-voos-182e5680",
-         "author": "Lusa",
-         "published": 1758794747000,
-         "created": 1758794747000,
-         "category": "Meteorologia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2022-08-08-Mau-tempo-chuva-Praia-da-Vitoria-Terceira-Acores-7c3c26dd-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2022-08-08-Mau-tempo-chuva-Praia-da-Vitoria-Terceira-Acores-7c3c26dd-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2022-08-08-Mau-tempo-chuva-Praia-da-Vitoria-Terceira-Acores-7c3c26dd-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
