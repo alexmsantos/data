@@ -10,8 +10,6 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
     - name: Download Feed
       run: |-
         curl "https://www.publico.pt/api/search/?size=20&tags=politica" | jq -r tostring > politica.json
