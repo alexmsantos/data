@@ -11,8 +11,6 @@ jobs:
     - uses: actions/checkout@main
     - name: Check out repo
       uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
     - name: CURL destaques INE
       run: |-
         curl "https://www.ine.pt/ine/dst_mobile.jsp?lang=PT" | jq -c . > digest/latest--ine.json
