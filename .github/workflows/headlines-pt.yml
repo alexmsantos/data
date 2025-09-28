@@ -1,8 +1,8 @@
 name: Headlines PT
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '*/15 6-23 * * *'
+  #schedule:
+  #  - cron:  '*/15 6-23 * * *'
 
 jobs:
   build:
