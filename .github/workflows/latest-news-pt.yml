@@ -12,7 +12,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0
+          fetch-depth: 1
     #- name: Download Google Trends xml
     #  run: |-
     #    curl -o google-trends.xml "https://trends.google.com/trends/trendingsearches/daily/rss?geo=PT&$(date +%s)"
