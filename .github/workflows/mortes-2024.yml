@@ -11,8 +11,6 @@ jobs:
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
     - name: Convert google sheet to csv
       run: |-
         wget -O deaths-2024.csv --no-check-certificate "https://docs.google.com/spreadsheets/d/e/2PACX-1vRjosRT4WC1By94plgu4tEWfawdVtOMEbSSutK22YOwjtT0fblKz1UrkcB2xfTjrEI34S0q8J_TeL_t/pub?output=csv"
