@@ -45,19 +45,19 @@
          "category": "Ciência",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2025-10-07-nobel-fisica-2025.jpg-24b35857/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-10-07-computador-quantico-185f236d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2025-10-07-nobel-fisica-2025.jpg-24b35857/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-10-07-computador-quantico-185f236d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-10-07-nobel-fisica-2025.jpg-24b35857/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2025-10-07-computador-quantico-185f236d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -279,7 +279,10 @@
          "title": "Carneiro acusa Montenegro de potenciar situações “explosivas” na habitação",
          "description": "<p>O líder do PS concentra esta terça-feira os seus esforços de campanha no distrito de Setúbal. “Descarada falta de isenção” – foi como qualificou o anúncio de um aumento de 40 euros no Complemento Solidário para Idosos</p>",
          "link": "https://expresso.pt/politica/eleicoes/autarquicas-2025/2025-10-07-carneiro-acusa-montenegro-de-potenciar-situacoes-explosivas-na-habitacao-a8b02085",
-         "author": "João Pedro Henriques",
+         "author": [
+            "Tiago Miranda",
+            "João Pedro Henriques"
+         ],
          "published": 1759849207000,
          "created": 1759849207000,
          "category": "Autárquicas 2025",
