@@ -220,8 +220,25 @@
          "published": 1760007815000,
          "created": 1760007815000,
          "category": "Cultura",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-09-laszlo-krasznahorkai.jpg-e0b6d0c6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-09-laszlo-krasznahorkai.jpg-e0b6d0c6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-10-09-laszlo-krasznahorkai.jpg-e0b6d0c6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "3bf512e7-435f-418d-8c8c-96cc5dec0c0d",
