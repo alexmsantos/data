@@ -14,8 +14,25 @@
          "published": 1760820096000,
          "created": 1760820096000,
          "category": "Internacional",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-12-ajuda-humanitaria-gaza-4b0b1daa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-12-ajuda-humanitaria-gaza-4b0b1daa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-10-12-ajuda-humanitaria-gaza-4b0b1daa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "2d861460-b578-483d-a75e-4eea4c3e2fd9",
