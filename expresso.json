@@ -6,6 +6,93 @@
    "category": [],
    "items": [
       {
+         "id": "c4c9321b-9675-49cb-87c2-d06f34ecaf3e",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/Capas/2025-10-23-a-primeira-pagina-do-expresso-d0551a3b",
+         "author": "Expresso",
+         "published": 1761256842000,
+         "created": 1761256842000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-pc_2765.jpg-382d8657/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-pc_2765.jpg-382d8657/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-pc_2765.jpg-382d8657/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "898bb8dd-4a1c-49fc-b0c4-881851969ae3",
+         "title": "Autárquicas, na revista E: O sistema aguenta? Ai aguenta, aguenta",
+         "description": "",
+         "link": "https://expresso.pt/Capas/2025-10-23-autarquicas-na-revista-e-o-sistema-aguenta--ai-aguenta-aguenta-4a21ffbb",
+         "author": "Expresso",
+         "published": 1761256835000,
+         "created": 1761256835000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-e_2765.jpg-fd90fbaa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-e_2765.jpg-fd90fbaa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-e_2765.jpg-fd90fbaa/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "aa80c0e9-ee3c-4255-a520-d33c67dac327",
+         "title": "A 1ª página do Expresso Economia",
+         "description": "",
+         "link": "https://expresso.pt/Capas/2025-10-23-a-1-pagina-do-expresso-economia-1b1da9d0",
+         "author": "Expresso",
+         "published": 1761256814000,
+         "created": 1761256814000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-eco_2765.jpg-bf19dff1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-eco_2765.jpg-bf19dff1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-10-23-eco_2765.jpg-bf19dff1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "aa2005b1-b14a-44c6-87a0-0075de0efa95",
          "title": "MOP vai explorar publicidade digital nos postos da Galp e aponta à liderança do mercado",
          "description": "<p>Empresa ganha contrato que numa primeira fase permitirá colocar anúncios digitais em 110 postos de combustível da Galp. E vai propor que os painéis publicitários digitais nas estações de transportes públicos passem a ter informações para facilitar o acesso dos passageiros a esses transportes</p>",
@@ -163,6 +250,18 @@
          }
       },
       {
+         "id": "765b24e0-9cd4-4c4a-920a-2cbd516daa13",
+         "title": "Construção, publicidade exterior, transportes e manutenção nos aeroportos nos Altos e Baixos da Economia",
+         "description": "<p>Alguns dos protagonistas da área económica esta semana em Portugal</p>",
+         "link": "https://expresso.pt/semanario/primeiro/em-destaque/altos--baixos/2025-10-23-construcao-publicidade-exterior-transportes-e-manutencao-nos-aeroportos-nos-altos-e-baixos-da-economia-45208aa3",
+         "author": "Pedro Lima",
+         "published": 1761256620000,
+         "created": 1761256620000,
+         "category": "Altos & Baixos",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "id": "22444f6c-9366-4f92-a8bc-04c707d5bb2b",
          "title": "Manual de sobrevivência: o mundo digital, das redes aos sites, pode ser avassalador mas há formas de resistir",
          "description": "<p>Sim, por vezes parece impossível escapar. É difícil garantir a qualidade de toda a informação que nos chega e não podemos controlar os algoritmos das plataformas. Mas devemos treinar o nosso pensamento crítico</p>",
@@ -186,111 +285,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-10-20-jan_matejko_stanczyk_t-_idp.jpg-f4c6f724/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "afa481bc-a139-46c6-96b6-804e448ba9fc",
-         "title": "O homem que gostava de cedros",
-         "description": "<p>Em Belém, centenas de pessoas fizeram fila para se despedir de Francisco Pinto Balsemão. Entre elas, o jardineiro que conhecia o homem que gostava de cedros</p>",
-         "link": "https://expresso.pt/semanario/francisco-pinto-balsemao-1937-2025/2025-10-23-o-homem-que-gostava-de-cedros-816b8397",
-         "author": [
-            "Ricardo Marques",
-            "Luiz Carvalho"
-         ],
-         "published": 1761256620000,
-         "created": 1761256620000,
-         "category": "Francisco Pinto Balsemão 1937-2025",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-10-23-foto-luiz-carvalho-_idp.jpg-7311dd30/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-10-23-foto-luiz-carvalho-_idp.jpg-7311dd30/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-10-23-foto-luiz-carvalho-_idp.jpg-7311dd30/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "67f9688f-0c84-464b-8e49-fe87ecf8353d",
-         "title": "Hugo “The Boss”, um motorista que é família e a rosa branca de Tita",
-         "description": "<p>A homenagem ignorou as diferenças políticas. A família mantém-lhe o legado</p>",
-         "link": "https://expresso.pt/semanario/francisco-pinto-balsemao-1937-2025/2025-10-23-hugo-the-boss-um-motorista-que-e-familia-e-a-rosa-branca-de-tita-7ece8d2a",
-         "author": "Raquel Moleiro",
-         "published": 1761256620000,
-         "created": 1761256620000,
-         "category": "Francisco Pinto Balsemão 1937-2025",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-10-23-copy-of-fox_balsemao_0057-_idp.jpg-d4a89264/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-10-23-copy-of-fox_balsemao_0057-_idp.jpg-d4a89264/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-10-23-copy-of-fox_balsemao_0057-_idp.jpg-d4a89264/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "b7dd4ccc-a24d-42ab-90e3-dfa16f14586b",
-         "title": "Merece, por direito próprio, lugar de relevante destaque na memória dos portugueses",
-         "description": "",
-         "link": "https://expresso.pt/opiniao/2025-10-23-merece-por-direito-proprio-lugar-de-relevante-destaque-na-memoria-dos-portugueses-0293baff",
-         "author": "António Ramalho Eanes",
-         "published": 1761256620000,
-         "created": 1761256620000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "00b390df-7196-47b0-a1e4-3ec0ca62de88",
-         "title": "Rothschild admite investir no vinho em Portugal com Douro debaixo de olho",
-         "description": "<p><span>Portugal foi a primeira sucursal europeia do grupo, fora da Suíça. Estrangeiros fizeram duplicar valor gerido e representam agora 25% dos clientes</span></p>",
-         "link": "https://expresso.pt/economia/empresas/2025-10-23-rothschild-admite-investir-no-vinho-em-portugal-com-douro-debaixo-de-olho-6d773e7f",
-         "author": [
-            "Gonçalo Almeida",
-            "Tiago Miranda"
-         ],
-         "published": 1761256620000,
-         "created": 1761256620000,
-         "category": "Empresas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-10-22-foto-tiago-miranda--3--_idp.jpg-d60dffe7-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-10-22-foto-tiago-miranda--3--_idp.jpg-d60dffe7-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-10-22-foto-tiago-miranda--3--_idp.jpg-d60dffe7-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
