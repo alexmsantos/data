@@ -6,6 +6,16 @@
    "category": "noticias.rtp.pt, Rss",
    "items": [
       {
+         "title": "Eleições no Benfica. Sócios escolhem presidente entre seis candidatos",
+         "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/3b/3bf144b323b9d2ab86ce8deea14622c9?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format\"/>\n      O Sport Lisboa e Benfica tem este sábado a eleição mais concorrida dos seus 121 anos de história, com Rui Costa, Luís Filipe Vieira, João Noronha Lopes, João Diogo Manteigas, Martim Mayer e Cristóvão Carvalho na corrida à presidência. Acompanhamos aqui, ao minuto, a jornada eleitoral do emblema encarnado.\n ",
+         "link": "https://www.rtp.pt/noticias/desporto/eleicoes-no-benfica-socios-escolhem-presidente-entre-seis-candidatos_e1693639",
+         "published": 1761412870000,
+         "created": 1761412870000,
+         "category": "Desporto",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "title": "TotalEnergies levanta \"força maior\" e permite retoma de megaprojeto de gás em Moçambique",
          "description": " <img src=\"https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format\"/>\n      O consórcio Mozambique LNG comunicou à Presidência moçambicana o levantamento da cláusula de &quot;força maior&quot; que desde 2021 colocava em suspenso o megaprojeto de Gás Natural Liquefeito (GNL) em Cabo Delgado, disse hoje à Lusa fonte da TotalEnergies.\n ",
          "link": "https://www.rtp.pt/noticias/mundo/totalenergies-levanta-forca-maior-e-permite-retoma-de-megaprojeto-de-gas-em-mocambique_n1693705",
@@ -61,7 +71,7 @@
          "link": "https://www.rtp.pt/noticias/futebol-nacional/joao-pereira-garante-casa-pia-mais-competitivo-pronto-para-o-sporting-de-braga_d1693703",
          "published": 1761410969000,
          "created": 1761410969000,
-         "category": "1.ª Liga",
+         "category": "Futebol Nacional",
          "enclosures": [],
          "media": {}
       },
@@ -106,16 +116,6 @@
          "media": {}
       },
       {
-         "title": "Eleições no Benfica. Sócios escolhem presidente entre seis candidatos",
-         "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/99/99d3384b4408a49275edc9401adc1ef8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format\"/>\n      O Sport Lisboa e Benfica tem este sábado a eleição mais concorrida dos seus 121 anos de história, com Rui Costa, Luís Filipe Vieira, João Noronha Lopes, João Diogo Manteigas, Martim Mayer e Cristóvão Carvalho na corrida à presidência. Acompanhamos aqui, ao minuto, a jornada eleitoral do emblema encarnado.\n ",
-         "link": "https://www.rtp.pt/noticias/desporto/eleicoes-no-benfica-socios-escolhem-presidente-entre-seis-candidatos_e1693639",
-         "published": 1761408379000,
-         "created": 1761408379000,
-         "category": "Desporto",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "title": "Inundações de casas e estradas. Chuva faz estragos nos Açores",
          "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/6a/6a7701f906888be87a87d351780c24d8?w=350&amp;q=50&amp;rect=0,0,1499,822&amp;auto=format\"/>\n      Chuva forte e persistente deu este sábado origem a mais de 20 ocorrências na Ilha de São Miguel, nos Açores, segundo dados da Proteção Civil. Há registo de inundações em casas e estradas, transbordo de ribeiras e pelo menos uma derrocada.\n ",
          "link": "https://www.rtp.pt/noticias/pais/inundacoes-de-casas-e-estradas-chuva-faz-estragos-nos-acores_n1693693",
@@ -148,10 +148,10 @@
       {
          "title": "Rui Borges reitera que campeonato da I Liga é a Champions do Sporting",
          "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/99/993b037931932a4c3df0ecafb7269861?w=350&amp;q=50&amp;rect=0,65,1233,676&amp;auto=format\"/>\n      O treinador do Sporting, Rui Borges, reiterou sábado que &quot;a &#039;hampions&quot; do bicampeão nacional de futebol &quot;é o campeonato&quot; da I Liga e, também por isso, vai escalar &quot;a melhor equipa&quot; para a visita ao Tondela.\n ",
-         "link": "https://www.rtp.pt/noticias/1a-liga/rui-borges-reitera-que-campeonato-da-i-liga-e-a-champions-do-sporting_d1693688",
+         "link": "https://www.rtp.pt/noticias/sporting/rui-borges-reitera-que-campeonato-da-i-liga-e-a-champions-do-sporting_d1693688",
          "published": 1761405932000,
          "created": 1761405932000,
-         "category": "1.ª Liga",
+         "category": "Sporting",
          "enclosures": [],
          "media": {}
       },
@@ -378,7 +378,7 @@
       {
          "title": "Guerra no Médio Oriente. Lula diz que Nações Unidas deixaram de funcionar",
          "description": " <img src=\"https://cdn-images.rtp.pt/noticias/images/default_rtpnoticias.png?w=350&amp;q=50&amp;auto=format\"/>\n      O Presidente do Brasil, Luiz Inácio Lula da Silva, criticou hoje duramente a Organização das Nações Unidas (ONU) e outras instituições multilaterais, considerando que &quot;deixaram de funcionar&quot; e não conseguiram proteger as vítimas da guerra de Israel em Gaza.\n ",
-         "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/guerra-no-medio-oriente-lula-diz-que-nacoes-unidas-deixaram-de-funcionar_n1693634",
+         "link": "https://www.rtp.pt/noticias/mundo/guerra-no-medio-oriente-lula-diz-que-nacoes-unidas-deixaram-de-funcionar_n1693634",
          "published": 1761383289000,
          "created": 1761383289000,
          "category": "Mundo",
