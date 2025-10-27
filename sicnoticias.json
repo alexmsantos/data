@@ -185,9 +185,12 @@
       {
          "id": "8c7cca3c-5484-4a7d-9404-00ca50ed2668",
          "title": "Homem atingido a tiro em desavença em bairro de Setúbal",
-         "description": "<p><span>A Polícia Judiciária diz que tudo indica que se tratou de uma desavença entre várias pessoas com laços familiares entre si e que houve vários disparos efetuados.</span></p>",
+         "description": "A Polícia Judiciária diz que tudo indica que se tratou de uma desavença entre várias pessoas com laços familiares entre si e que houve vários disparos efetuados.",
          "link": "https://sicnoticias.pt/pais/2025-10-27-video-homem-atingido-a-tiro-em-desavenca-em-bairro-de-setubal-fe9171cf",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1761564856000,
          "created": 1761564856000,
          "category": "País",
