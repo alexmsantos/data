@@ -353,7 +353,13 @@
          "published": 1761847370000,
          "created": 1761847370000,
          "category": [],
-         "enclosures": [],
+         "enclosures": [
+            {
+               "url": "https://d1gifpnctlcmg5.cloudfront.net/be03b976-08ec-46ac-b8a1-8cd7b89206b0/assets/20d97341-0f60-405f-bcd5-8a0fbf8b46e1/c095328d-6ce8-49b6-819b-2a431e55b193/hls/index.m3u8",
+               "length": "40665",
+               "type": "video/mp4"
+            }
+         ],
          "media": {}
       },
       {
