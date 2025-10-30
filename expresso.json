@@ -72,8 +72,25 @@
          "published": 1761832150000,
          "created": 1761832150000,
          "category": "Economia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-30-doc.20251030.45943642.12492372.jpg-1445421d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-30-doc.20251030.45943642.12492372.jpg-1445421d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-10-30-doc.20251030.45943642.12492372.jpg-1445421d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b28a64b1-0f1d-4fa5-ac73-3d84431528f3",
