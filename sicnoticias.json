@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "0b497fe2-bf0c-49f2-9afb-89abef070d38",
+         "title": "Praticante de asa delta embate em linhas de média tensão, mas sai ileso",
+         "description": "Incidente aconteceu no concelho de Carregal do Sal. Homem encontra-se “consciente e colaborante”.",
+         "link": "https://sicnoticias.pt/pais/2025-11-09-praticante-de-asa-delta-embate-em-linhas-de-media-tensao-mas-sai-ileso-3a517554",
+         "author": "Lusa",
+         "published": 1762714641000,
+         "created": 1762714641000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-11-09-asa-delta.jpg-97c0e92a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-11-09-asa-delta.jpg-97c0e92a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-11-09-asa-delta.jpg-97c0e92a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "02212f7f-dec5-4ce3-84ce-2ae044a637bc",
          "title": "Estrela da Amadora e Nacional empatam na Reboleira",
          "description": "Lopes Cabral voltou a marcar na Liga, arrebatando o empate para os amadorenses, depois do golo madeirense que inaugurou o marcador, apontado por José Gomes. Veja aqui os dois golos.",
@@ -42,7 +71,10 @@
          "title": "Jovem alemão cai de arriba junto às grutas de Benagil e é resgatado com sinais de hipotermia",
          "description": "Tripulantes da Estação Salva-vidas de Portimão resgataram a vítima para a Estação Salva-vidas de Ferragudo, onde foi assistida pelos bombeiros e pelo INEM",
          "link": "https://sicnoticias.pt/pais/2025-11-09-jovem-alemao-cai-de-arriba-junto-as-grutas-de-benagil-e-e-resgatado-com-sinais-de-hipotermia-06173cc6",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1762712520000,
          "created": 1762712520000,
          "category": "País",
@@ -270,35 +302,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-11-07-morris.jpg-260e9452/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "3c16faa6-6869-49f5-bc00-55e76b220466",
-         "title": "Os artigos mais lidos da semana",
-         "description": "Os artigos mais lidos na semana de 2 a 8 de novembro",
-         "link": "https://sicnoticias.pt/webstories/os-artigos-mais-lidos-da-semana-24-3-2/",
-         "author": "SIC Notícias",
-         "published": 1762692768000,
-         "created": 1762692768000,
-         "category": "Webstories",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-11-08-mobile.jpg-90466cea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-11-08-mobile.jpg-90466cea/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-11-08-mobile.jpg-90466cea/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
