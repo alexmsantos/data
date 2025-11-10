@@ -6,6 +6,41 @@
    "category": [],
    "items": [
       {
+         "id": "71ba2998-603a-4cff-8420-7ed815a82a3d",
+         "title": "José Raposo: “Não vejo nada das novelas e filmes que gravo. Digo o mesmo que o Nicolau Breyner: 'pagam-me para fazer, não para ver'”",
+         "description": "<p>No episódio do podcast Geração 60, gravado ao vivo no Tribeca Film Festival em Lisboa, Conceição Lino conversa com Luísa Cruz e José Raposo sobre infância, liberdade, arte e envelhecimento. Ambos recordam as origens e o impacto do 25 de Abril nas suas vidas, revelando como o teatro se torna um espaço de descoberta e de emancipação</p>",
+         "link": "https://expresso.pt/podcasts/geracao-60/2025-11-10-nao-vejo-nada-das-novelas-e-filmes-que-gravo.-digo-o-mesmo-que-o-nicolau-breyner-pagam-me-para-fazer-nao-para-ver-ba28b216",
+         "author": [
+            "Conceição Lino",
+            "João Martins",
+            "Salomé Rita",
+            "Mariana Óca Ferreira",
+            "José Fonseca Fernandes"
+         ],
+         "published": 1762760100000,
+         "created": 1762760100000,
+         "category": "Geração 60",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-09-43-geracao-60-jose-raposo-e-luisa-cruz-01112025-jff.jpg-07f6ddc9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-09-43-geracao-60-jose-raposo-e-luisa-cruz-01112025-jff.jpg-07f6ddc9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-11-09-43-geracao-60-jose-raposo-e-luisa-cruz-01112025-jff.jpg-07f6ddc9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "01c1ac4c-0800-4bf5-8e44-9057b0773450",
          "title": "Sócrates pede à juiza para acabar com \"degradante espetáculo\": \"Eu é que escolho o meu advogado\"",
          "description": "<p>Ex-primeiro-ministro pede ao tribunal para parar \"lamentável encenação\" com advogado oficioso</p>",
@@ -208,35 +243,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "cd5bc672-1df2-40f0-a58f-d8bc60d33343",
-         "title": "Catarina Martins: “Apanhei as minhas duas filhas a ver ‘O Gajo de Alfama’ dos Gato Fedorento. Sinto que falhei como mãe”",
-         "description": "<p>Na segunda parte do Isto É Gozar Com Quem Trabalha, Ricardo Araújo Pereira entrevista a candidata presidencial Catarina Martins. Ouça aqui a entrevista em podcast</p>",
-         "link": "https://expresso.pt/podcasts/isto-e-gozar-com-quem-trabalha/2025-11-10-catarina-martins-apanhei-as-minhas-duas-filhas-a-ver-o-gajo-de-alfama-dos-gato-fedorento.-sinto-que-falhei-como-mae-a9cd9b52",
-         "author": "SIC Notícias",
-         "published": 1762756200000,
-         "created": 1762756200000,
-         "category": "Isto É Gozar Com Quem Trabalha",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-11-10-catarina-martins.jpg-b53fb085/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-11-10-catarina-martins.jpg-b53fb085/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-11-10-catarina-martins.jpg-b53fb085/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
