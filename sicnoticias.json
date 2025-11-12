@@ -35,6 +35,35 @@
          }
       },
       {
+         "id": "393c2c64-1dbc-4f5e-a53b-1e8430e6322c",
+         "title": "Portugal é o 10.º país com salário anual médio mais baixo da UE",
+         "description": "<p><span>O salário médio anual em Portugal foi de 24.800 euros em 2024, bastante abaixo da média da União Europeia.</span></p>",
+         "link": "https://sicnoticias.pt/economia/2025-11-12-portugal-e-o-10.-pais-com-salario-anual-medio-mais-baixo-da-ue-2ccef7c5",
+         "author": "Lusa",
+         "published": 1762950278000,
+         "created": 1762950278000,
+         "category": "Economia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-11-05-dinheiro-8c5ccea2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-11-05-dinheiro-8c5ccea2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-11-05-dinheiro-8c5ccea2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "5f3b6e2a-46d2-4138-b851-ef06ae34a893",
          "title": "Governo pondera aumentar subsídio de refeição já em 2026, mas sem revelar valor",
          "description": "<p><span>A confirmação foi dada pela </span><span>Fesap</span><span>, após ter estado reunida com o Executivo. No último encontro, </span><span>o</span><span> Governo tinha proposto um aumento do subsídio de refeição de 10 cêntimos, a partir de 2027.</span></p>",
@@ -97,7 +126,10 @@
          "title": "Telhado de armazém da estação de Santa Apolónia arrancado devido ao vento forte",
          "description": "<p><span>Todo o país está sob aviso amarelo devido à chuva, que, em alguns casos, vai passar a laranja às 21:00. As rajadas de vento podem ultrapassar os 100 quilómetros por hora.  </span></p>",
          "link": "https://sicnoticias.pt/meteorologia/2025-11-12-telhado-de-armazem-da-estacao-de-santa-apolonia-arrancado-devido-ao-vento-forte-29155d98",
-         "author": "SIC Notícias",
+         "author": [
+            "Diogo Martins",
+            "SIC Notícias"
+         ],
          "published": 1762947075000,
          "created": 1762947075000,
          "category": "Meteorologia",
@@ -261,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-11-09-donald-trump.jpg-c384bd3d-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "8bb491de-267e-4a1b-8af6-ca22b3ae289b",
-         "title": "“Ventura está viciado em atenção, aumentou a parada tão cedo que acho que ainda o vamos ver nu no Rossio para continuar a ser notícia”",
-         "description": "No Antes pelo Contrário em podcast, Daniel Oliveira e Francisco Mendes da Silva analisam a campanha para as presidenciais e as alterações à lei laboral",
-         "link": "https://sicnoticias.pt/podcasts/antes-pelo-contrario-em-podcast/2025-11-12-ventura-esta-viciado-em-atencao-aumentou-a-parada-tao-cedo-que-acho-que-ainda-o-vamos-ver-nu-no-rossio-para-continuar-a-ser-noticia-e8548167",
-         "author": "Antes Pelo Contrário em Podcast",
-         "published": 1762939800000,
-         "created": 1762939800000,
-         "category": "Antes Pelo Contrário em podcast",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-11-12-sn_antes_pelo_contrario_spot_grafico_daniel-francisco_1920x1280.jpg-113638ef/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-11-12-sn_antes_pelo_contrario_spot_grafico_daniel-francisco_1920x1280.jpg-113638ef/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-11-12-sn_antes_pelo_contrario_spot_grafico_daniel-francisco_1920x1280.jpg-113638ef/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
