@@ -101,8 +101,25 @@
          "published": 1762935288000,
          "created": 1762935288000,
          "category": "Meteorologia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-10-19-Tempestade-Mau-Tempo.jpg-5e2b4895/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2023-10-19-Tempestade-Mau-Tempo.jpg-5e2b4895/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2023-10-19-Tempestade-Mau-Tempo.jpg-5e2b4895/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "9b066081-7ec0-4a2b-a290-1737f3672625",
