@@ -43,8 +43,25 @@
          "published": 1763040425000,
          "created": 1763040425000,
          "category": "Sistema financeiro",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-13-euro-digital.jpg-d062210c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-13-euro-digital.jpg-d062210c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-11-13-euro-digital.jpg-d062210c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "a6a0d407-5e15-4cdb-81b0-6f6e7f0b32d0",
