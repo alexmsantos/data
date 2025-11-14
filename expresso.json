@@ -72,8 +72,25 @@
          "published": 1763118010000,
          "created": 1763118010000,
          "category": "Inimigo Público",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-14-sagres_14_nov.jpg-cc7d4a04/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-14-sagres_14_nov.jpg-cc7d4a04/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-11-14-sagres_14_nov.jpg-cc7d4a04/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "e80b8f69-7f32-4f6e-bf0b-5c258cff3350",
