@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "e139a5b1-3d6f-45ba-a8bf-3bf6a47eae3c",
+         "title": "Virgílio Bento: o empreendedor do ano que quer democratizar o acesso à saúde através da IA",
+         "description": "<p>As declarações dos protagonistas da 10ª edição em Portugal do EY Entrepreneur of the Year, prémio de empreendedorismo a que o Expresso e a SIC Notícias se juntam como <i>media partners</i></p>",
+         "link": "https://expresso.pt/iniciativaseprodutos/projetos-expresso/2025-11-18-virgilio-bento-o-empreendedor-do-ano-que-quer-democratizar-o-acesso-a-saude-atraves-da-ia-02713a83",
+         "author": "Expresso",
+         "published": 1763452517000,
+         "created": 1763452517000,
+         "category": "Projetos Expresso",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-17-video.0000007.jpg-cb0a8de5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-17-video.0000007.jpg-cb0a8de5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-11-17-video.0000007.jpg-cb0a8de5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "1abde286-b765-4ba6-82e5-b6281c3a5be8",
          "title": "A grande zaragata a caminho de Belém",
          "description": "<p>A maratona de debates entre candidatos à Presidência da República começou. Até agora, como é que os concorrentes se têm posicionado? Quem gera mais expectativas? Quem está mais dependente da performance televisiva? Ouça aqui o novo episódio de ‘Comissão Política’</p>",
@@ -220,18 +249,6 @@
          }
       },
       {
-         "id": "6e4adffe-e267-478c-9f2b-c6c89fdcf8c8",
-         "title": "Do que precisa a Ucrânia",
-         "description": "<p>O jornalismo enviesado não está a ajudar. O heroísmo ucraniano não precisa de silêncio, precisa de exposição</p>",
-         "link": "https://expresso.pt/opiniao/2025-11-18-do-que-precisa-a-ucrania-4f5df36f",
-         "author": "Clara Ferreira Alves",
-         "published": 1763449200000,
-         "created": 1763449200000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "d3c2aaee-d15a-45f3-8b28-1c6259904828",
          "title": "Presidenciais: haja paciência",
          "description": "<p>Ontem à noite, já depois destas linhas escritas, iniciaram-se os debates presidenciais com Ventura vs. Seguro. Não sei o que se passou, mas espero que Seguro tenha derrotado, convincentemente, o opositor. Agora, até 18 de janeiro – e mais provavelmente até 8 de fevereiro, com uma segunda volta – vai ser necessário um suplemento bastante grande de paciência para se aturar discussões desinteressantes, ataques descabelados, mentiras, interpretações erróneas e tudo o que uma campanha, das modernas, acarreta consigo</p>",
@@ -261,33 +278,16 @@
          }
       },
       {
-         "id": "a90e46c1-1323-4dc0-8fb1-0eceb2c98cee",
-         "title": "The Coin Laundry: que investigação do ICIJ é esta sobre o complexo mundo das criptomoedas?",
-         "description": "<p><span>A nova investigação do Consórcio Internacional de Jornalistas de Investigação (ICIJ) revela como empresas de criptomoedas lucraram com o crime, enquanto as suas vítimas ficaram financeiramente arruinadas</span></p>",
-         "link": "https://expresso.pt/sociedade/2025-11-18-the-coin-laundry-que-investigacao-do-icij-e-esta-sobre-o-complexo-mundo-das-criptomoedas--b8c2221b",
-         "author": "Annys Shin",
+         "id": "6e4adffe-e267-478c-9f2b-c6c89fdcf8c8",
+         "title": "Do que precisa a Ucrânia",
+         "description": "<p>O jornalismo enviesado não está a ajudar. O heroísmo ucraniano não precisa de silêncio, precisa de exposição</p>",
+         "link": "https://expresso.pt/opiniao/2025-11-18-do-que-precisa-a-ucrania-4f5df36f",
+         "author": "Clara Ferreira Alves",
          "published": 1763449200000,
          "created": 1763449200000,
-         "category": "Sociedade",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-11-17-icij_generic-about-the-coin-laundry.jpg-786e7d6d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-11-17-icij_generic-about-the-coin-laundry.jpg-786e7d6d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-11-17-icij_generic-about-the-coin-laundry.jpg-786e7d6d/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
       }
    ]
 }
