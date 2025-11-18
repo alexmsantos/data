@@ -14,8 +14,25 @@
          "published": 1763459545000,
          "created": 1763459545000,
          "category": "Blitz",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-18-maynard.jpeg-1b9b8c30/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-18-maynard.jpeg-1b9b8c30/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-11-18-maynard.jpeg-1b9b8c30/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "906df55a-a3fb-46dd-be84-dcd60cb3d56d",
