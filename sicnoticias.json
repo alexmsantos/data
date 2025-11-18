@@ -6,9 +6,67 @@
    "category": [],
    "items": [
       {
+         "id": "8877bfc2-568f-4619-aa39-66278885c3be",
+         "title": "Supremo do Brasil condena nove indivíduos por tentativa de assassinato de Lula da Silva",
+         "description": "<p><span>O Supremo Tribunal Federal do Brasil condenou, por unanimidade, oito militares e um polícia por terem planeado o assassínio do Presidente Lula da Silva. A decisão insere-se no mesmo processo que levou à condenação de Jair Bolsonaro a 27 anos de prisão.</span></p>",
+         "link": "https://sicnoticias.pt/mundo/brasil/2025-11-18-supremo-do-brasil-condena-nove-individuos-por-tentativa-de-assassinato-de-lula-da-silva-c20e1060",
+         "author": "Lusa",
+         "published": 1763499065000,
+         "created": 1763499065000,
+         "category": "Brasil",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-04-21-lula-da-silva-brasil-.jpg-6fab6229/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-04-21-lula-da-silva-brasil-.jpg-6fab6229/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-04-21-lula-da-silva-brasil-.jpg-6fab6229/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "68143caa-02ee-4edc-a60d-4d22968ccb64",
+         "title": "Portugal retira candidatura à organização do Europeu 2029 feminino",
+         "description": "<p><span>A candidatura à organização do Campeonato da Europa feminino de futebol de 2029 remonta a setembro de 2024, quando a Federação Portuguesa de Futebol era liderada por Fernando Gomes, atual presidente do Comité Olímpico de Portugal.</span></p>",
+         "link": "https://sicnoticias.pt/desporto/2025-11-18-portugal-retira-candidatura-a-organizacao-do-europeu-2029-feminino-8a7ac3bc",
+         "author": "SIC Notícias",
+         "published": 1763497920000,
+         "created": 1763497920000,
+         "category": "Desporto",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-02-24-pedro-proenca-presidente-fpf-6721b9da/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-02-24-pedro-proenca-presidente-fpf-6721b9da/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-02-24-pedro-proenca-presidente-fpf-6721b9da/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "146d7490-c183-4e24-97a7-8bed0254ae9c",
-         "title": "Eleições Presidenciais: o debate entre Luís Marques Mendes e António Filipe",
-         "description": "<p><span>O primeiro debate da corrida às presidenciais na SIC acontece esta terça-feira, colocando frente a frente Luís Marques Mendes e António Filipe. A dupla enfrenta-se depois de António José Seguro e André Ventura terem dado o pontapé de saída na TVI. </span></p>",
+         "title": "Eleições presidenciais: o debate entre Luís Marques Mendes e António Filipe",
+         "description": "<p><span>António Filipe acusa Marques Mendes de \"estar do lado do Governo\" no que respeita à reforma laboral. Marques Mendes opta por defender o \"diálogo social\" e diz acreditar num acordo tripartido.</span></p>",
          "link": "https://sicnoticias.pt/especiais/eleicoes-presidenciais/2025-11-18-eleicoes-presidenciais-o-debate-entre-luis-marques-mendes-e-antonio-filipe-8165d0eb",
          "author": "Marta Ferreira",
          "published": 1763497536000,
@@ -153,9 +211,12 @@
       {
          "id": "4ef5cfcb-c326-4274-8ed1-1ead2ffe9cb7",
          "title": "Divulgação dos ficheiros Epstein aprovada com ampla maioria",
-         "description": "<p><span>Decisão t</span><span>erá ainda de ir ao Senado para que a lei seja promulgada por Donald Trump. Presidente afirmou esta semana que \"assinaria\" a favor da divulgação. </span></p>",
+         "description": "<p><span>Decisão t</span><span>erá ainda de ir ao Senado para que a lei seja promulgada por Donald Trump. Presidente afirmou esta semana que \"assinaria\" a favor da divulgação.</span></p>",
          "link": "https://sicnoticias.pt/mundo/2025-11-18-divulgacao-dos-ficheiros-epstein-aprovada-com-ampla-maioria--88cd3bc5",
-         "author": "SIC Notícias",
+         "author": [
+            "Marta Ferreira",
+            "Cristina Neves"
+         ],
          "published": 1763496283000,
          "created": 1763496283000,
          "category": "Mundo",
@@ -232,64 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-11-18-economia_expresso_1920x1280.png-e0e7bd49/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "1ab03b28-a3ed-4f0a-a039-5b3e4527c2dc",
-         "title": "Tribunal federal trava novo mapa eleitoral no Texas que favorece os republicanos",
-         "description": "<p><span>Novo mapa tinha sido aprovado em agosto após pedido de Trump. O presidente alegava que mais lugares republicanos eram sinónimo de menos criminalidade, mais direitos de posse de armas e \"felicidade e paz\"</span></p>",
-         "link": "https://sicnoticias.pt/mundo/2025-11-18-tribunal-federal-trava-novo-mapa-eleitoral-no-texas-que-favorece-os-republicanos-6afdaa7e",
-         "author": "Marta Ferreira",
-         "published": 1763495971000,
-         "created": 1763495971000,
-         "category": "Mundo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-11-11-donald-trump-3b88c915/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-11-11-donald-trump-3b88c915/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-11-11-donald-trump-3b88c915/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "81ddbb0e-00e7-4694-956f-b5f73ded7d32",
-         "title": "Sánchez defende adesão da Ucrânia à UE após reunião com Zelensky",
-         "description": "<p><span>Presidente do Governo espanhol lembrou as palavras de Zelensky numa intervenção no Parlamento Europeu e disse esperar que a Ucrânia encontre o privilégio \"d</span><span>a prosperidade e do projeto europeu\". </span></p>",
-         "link": "https://sicnoticias.pt/especiais/guerra-russia-ucrania/2025-11-18-sanchez-defende-adesao-da-ucrania-a-ue-apos-reuniao-com-zelensky-9cd5f346",
-         "author": "Marta Ferreira",
-         "published": 1763495065000,
-         "created": 1763495065000,
-         "category": "Guerra Rússia-Ucrânia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-11-18-sanchez-e-zelensky-em-madrid-df6e6044/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-11-18-sanchez-e-zelensky-em-madrid-df6e6044/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-11-18-sanchez-e-zelensky-em-madrid-df6e6044/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
