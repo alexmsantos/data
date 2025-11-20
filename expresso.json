@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "3894acae-9824-4dae-894d-2dc85070eee7",
+         "title": "Vamos falar de política",
+         "description": "<p><span>Da direita à esquerda vai um caminho - não muito longo - de prós e contras. O mais importante? Respeitar sempre o outro</span></p>",
+         "link": "https://expresso.pt/expressinho/2025-11-20-vamos-falar-de-politica-8fdde53c",
+         "author": "Maria Moreira Fernandes",
+         "published": 1763654759000,
+         "created": 1763654759000,
+         "category": "Expressinho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-20-expressinho.jpeg-2310f4ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-20-expressinho.jpeg-2310f4ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-11-20-expressinho.jpeg-2310f4ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "9d4e0b8c-df00-463c-a939-014d47e0bfd3",
          "title": "Bruxelas quer simplificar regras de IA, cibersegurança e dados pessoais",
          "description": "<p><span>Projeto de lei, que pretende ainda reduzir a burocracia, divide empresas tecnológicas e defensores da privacidade dos dados. Críticos acusam a UE de favorecer as grandes tecnológicas</span></p>",
@@ -251,35 +280,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "a228529c-4773-4958-abfa-32a366109464",
-         "title": "O lado oculto da “Black Friday”",
-         "description": "<p><span>A </span><i><span>Black Friday</span></i><span> transformou-se num mês de promoções que, além de oportunidades, esconde práticas desleais, falsos descontos, marketing agressivo e impactos ambientais. Consumir de forma consciente e informada é essencial para evitar estes riscos</span></p>",
-         "link": "https://expresso.pt/opiniao/2025-11-20-o-lado-oculto-da-black-friday-da5b164a",
-         "author": "Jorge Morais Carvalho e Leonor Gambôa Machado",
-         "published": 1763647200000,
-         "created": 1763647200000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-11-19-jorge-morais-carvalho-e-leonor-gamboa-machado-ca432fdf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-11-19-jorge-morais-carvalho-e-leonor-gamboa-machado-ca432fdf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-11-19-jorge-morais-carvalho-e-leonor-gamboa-machado-ca432fdf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
