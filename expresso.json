@@ -14,8 +14,25 @@
          "published": 1763796976000,
          "created": 1763796976000,
          "category": "Desporto",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-22-estadio_benfica_april_2013-1.jpg-42cebddb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-22-estadio_benfica_april_2013-1.jpg-42cebddb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-11-22-estadio_benfica_april_2013-1.jpg-42cebddb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "3a51a781-922d-4366-86ad-9bc7635b515d",
