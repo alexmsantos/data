@@ -17,8 +17,25 @@
          "published": 1764270000000,
          "created": 1764270000000,
          "category": "Presidenciais 2026",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-27-tm2481-_idp.jpg-bd020100/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-11-27-tm2481-_idp.jpg-bd020100/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-11-27-tm2481-_idp.jpg-bd020100/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "ad14c25f-1020-4068-a8d6-97aa7c49d93e",
