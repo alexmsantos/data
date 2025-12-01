@@ -14,8 +14,25 @@
          "published": 1764618662000,
          "created": 1764618662000,
          "category": "Cultura",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-17-antonio-jose-de-barros-veloso.tif-6b4a5c33/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-02-17-antonio-jose-de-barros-veloso.tif-6b4a5c33/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-02-17-antonio-jose-de-barros-veloso.tif-6b4a5c33/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "28420e40-7e1c-4bd8-9d9b-06ea6ac0b238",
