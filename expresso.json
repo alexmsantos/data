@@ -6,6 +6,47 @@
    "category": [],
    "items": [
       {
+         "id": "9cb39b79-ba8b-4f65-8dc3-650f692349d7",
+         "title": "A guerra comercial oculta",
+         "description": "<p><span>Os países da União Europeia estudam pacotes de ajuda para compensarem as empresas pelos impactos das tarifas de Trump, mas quem as vai compensar pelas próprias medidas da UE?</span></p>",
+         "link": "https://expresso.pt/opiniao/2025-12-10-a-guerra-comercial-oculta-c0fb3887",
+         "author": "Rick van der Kwast",
+         "published": 1765394298000,
+         "created": 1765394298000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "57855bda-17ed-4420-bb2b-0a367612ada1",
+         "title": "Portugal: na “economia do ano” para a “The Economist”, o emprego é a surpresa",
+         "description": "<p>Dinamismo do PIB, preços controlados e mais emprego explicam o primeiro lugar</p>",
+         "link": "https://expresso.pt/economia/2025-12-10-portugal-na-economia-do-ano-para-a-the-economist-o-emprego-e-a-surpresa-b4fc844f",
+         "author": "Pedro Carreira Garcia",
+         "published": 1765393980000,
+         "created": 1765393980000,
+         "category": "Economia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-12-10-lb-turistas-lx-01-06-17-0030-_idp.jpg-ea7bf6c0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-12-10-lb-turistas-lx-01-06-17-0030-_idp.jpg-ea7bf6c0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-12-10-lb-turistas-lx-01-06-17-0030-_idp.jpg-ea7bf6c0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "cd816037-7b59-4474-a08b-713ecef5e2e9",
          "title": "TAP vs Ryanair: por que razão o Tribunal voltou a dar razão à empresa portuguesa?",
          "description": "<p>O Tribunal Geral da UE rejeitou o recurso da Ryanair e confirmou que a TAP era elegível para receber a ajuda estatal de 2,55 mil milhões de euros durante a pandemia. O Tribunal considerou que a Comissão avaliou corretamente o plano de reestruturação, que era necessário e proporcional, e que não houve discriminação nem violação das regras de concorrência. Oiça aqui o episódio de Economia Dia a Dia</p>",
@@ -235,64 +276,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-11-12-festival-da-cancao.jpg-73cd8b91/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "052c0861-6644-4450-b0e0-d4bc529c1d27",
-         "title": "Estados Unidos querem pedir histórico de redes sociais a turistas antes de entrarem no país",
-         "description": "<p>A proposta surge na sequência de uma ordem executiva de janeiro emitida por Donald Trump e prevê ainda a recolha de informações sobre números de telemóvel, e-mails e dados familiares. A medida pode representar um obstáculo para potenciais visitantes numa altura em que os EUA se preparam para receber grandes fluxos turísticos</p>",
-         "link": "https://expresso.pt/internacional/eua/2025-12-10-estados-unidos-querem-pedir-historico-de-redes-sociais-a-turistas-antes-de-entrarem-no-pais-929d62e5",
-         "author": "Expresso",
-         "published": 1765383595000,
-         "created": 1765383595000,
-         "category": "EUA",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-12-10-gettyimages-528160900.jpg-1d87dc80/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-12-10-gettyimages-528160900.jpg-1d87dc80/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-12-10-gettyimages-528160900.jpg-1d87dc80/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "9db09b47-3637-4dbd-bfd0-a60a6822ab11",
-         "title": "Investigadores enviam textos a partidos e a Marcelo contra extinção da Fundação para a Ciência e Tecnologia",
-         "description": "<p>Decreto-lei que determina a fusão entre a FCT e a Agência Nacional de Inovação, tutelada pelo Ministério da Economia, continua a suscitar dúvidas</p>",
-         "link": "https://expresso.pt/sociedade/ciencia/2025-12-10-investigadores-enviam-textos-a-partidos-e-a-marcelo-contra-extincao-da-fundacao-para-a-ciencia-e-tecnologia-9dee1182",
-         "author": "Isabel Leiria",
-         "published": 1765383503000,
-         "created": 1765383503000,
-         "category": "Ciência",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2023-10-13-_N3A2770_T-_IDP.jpg-6ea811e6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2023-10-13-_N3A2770_T-_IDP.jpg-6ea811e6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2023-10-13-_N3A2770_T-_IDP.jpg-6ea811e6/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
