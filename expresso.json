@@ -187,18 +187,6 @@
          "media": {}
       },
       {
-         "id": "6ae5a9fa-3b8e-44dc-8432-110751b5aa8e",
-         "title": "A sida é com eles — e o drama somos nós",
-         "description": "<p>Reduzir tudo ao racismo e ao seu combate em Portugal, por mais importante que seja, é ficar a olhar para o nosso umbigo nacional. No mapa‑mundo, África está hoje no olho do furacão, onde a doença é mais violenta e mata mais gente</p>",
-         "link": "https://expresso.pt/opiniao/2025-12-11-a-sida-e-com-eles--e-o-drama-somos-nos-66f623b2",
-         "author": "Eugénia Galvão Teles",
-         "published": 1765493820000,
-         "created": 1765493820000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "a46fb1ec-8800-4684-b6fd-f74cd768e0b7",
          "title": "IA da Google chega aos óculos",
          "description": "<p>Testei um protótipo destes óculos e pude ver coisas como traduções e orientações dos Mapas, com uma qualidade muito interessante e pouco intrusiva</p>",
@@ -209,6 +197,38 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
+      },
+      {
+         "id": "1731badf-55bc-4e0a-8a4b-fad2dd162870",
+         "title": "Um salto à capital do que “ninguém sabe o que é”",
+         "description": "<p>Rope skipping. Portugal ficou no 6º lugar do último Mundial da modalidade que tem quase 30% dos atletas de competição no Molinhas, um clube de Caldas das Taipas, pequena freguesia de Guimarães</p>",
+         "link": "https://expresso.pt/tribuna/2025-12-11-um-salto-a-capital-do-que-ninguem-sabe-o-que-e-0013ed70",
+         "author": [
+            "Francisco Martins",
+            "Rui Duarte Silva"
+         ],
+         "published": 1765493820000,
+         "created": 1765493820000,
+         "category": "Tribuna",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-12-11-rds_02_rope-skipping_3c8a2731_0001_t-_idp.jpg-627a4123/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-12-11-rds_02_rope-skipping_3c8a2731_0001_t-_idp.jpg-627a4123/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-12-11-rds_02_rope-skipping_3c8a2731_0001_t-_idp.jpg-627a4123/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       }
    ]
 }
