@@ -14,8 +14,8 @@
             "$text": " &lt;div class=&quot;flex flex-col text-sm @w-xl/main:pt-header-height pb-25&quot;&gt; \n  &lt;article class=&quot;text-token-text-primary w-full focus:outline-none [--shadow-height:45px] has-data-writing-block:pointer-events-none has-data-writing-block:-mt-(--shadow-height) has-data-writing-block:pt-(--shadow-height) [&amp;amp;:has([data-writing-block])&gt;*]:pointer-events-auto [content-visibility:auto] supports-[content-visibility:auto]:[contain-intrinsic-size:auto_100lvh] scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&quot; data-scroll-anchor=&quot;true&quot; data-testid=&quot;conversation-turn-2&quot; data-turn=&quot;assistant&quot; data-turn-id=&quot;9d01d27c-02a6-4fab-8dce-f6b91ad94667&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot;&gt; \n    &lt;div class=&quot;text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @w-sm/main:[--thread-content-margin:--spacing(6)] @w-lg/main:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&quot;&gt; \n      &lt;div class=&quot;[--thread-content-max-width:40rem] @w-lg/main:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&quot; tabindex=&quot;-1&quot;&gt; \n        &lt;div class=&quot;flex max-w-full flex-col grow&quot;&gt; \n          &lt;div class=&quot;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;amp;]:mt-1&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;422213e5-ec60-4f82-8545-3f3eae49cf68&quot; data-message-model-slug=&quot;gpt-5-2-thinking&quot; dir=&quot;auto&quot;&gt; \n            &lt;div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[1px]&quot;&gt; \n              &lt;div class=&quot;markdown prose dark:prose-invert w-full break-words light markdown-new-styling&quot;&gt; \n                &lt;p data-end=&quot;1748&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot; data-start=&quot;1609&quot;&gt;IPMA indica que o sismo foi sentido esta madrugada. Ainda que, com menor intensidade, tamb&#xe9;m foi sentido em Espanha. Mais tarde foi registada uma r&#xe9;plica de 2,2 em Melga&#xe7;o. Os relatos multiplicam-se nas redes sociais.&lt;/p&gt; \n              &lt;/div&gt; \n            &lt;/div&gt; \n          &lt;/div&gt; \n        &lt;/div&gt; \n        &lt;div class=&quot;z-0 flex min-h-[46px] justify-start&quot;&gt;\n          &amp;#xa0;\n        &lt;/div&gt; \n        &lt;div class=&quot;mt-3 w-full empty:hidden&quot;&gt; \n          &lt;div class=&quot;text-center&quot;&gt;\n            &amp;#xa0;\n          &lt;/div&gt; \n        &lt;/div&gt; \n      &lt;/div&gt; \n    &lt;/div&gt; \n  &lt;/article&gt; \n&lt;/div&gt; \n&lt;div aria-hidden=&quot;true&quot; class=&quot;pointer-events-none h-px w-px absolute bottom-0&quot; data-edge=&quot;true&quot;&gt;\n  &amp;#xa0;\n&lt;/div&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/sismo-de-4-1-com-epicentro-perto-de-celorico-da-beira-sentido-em-varios-distritos/693d244c0cf255913376335e",
-         "published": null,
-         "created": null,
+         "published": 1765614660000,
+         "created": 1765614660000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -29,8 +29,8 @@
             "$text": " Sismo aconteceu esta madrugada em Celorico de Beira e, at&#xe9; ao momento n&#xe3;o causou danos pessoais ou materiais "
          },
          "link": "https://cnnportugal.iol.pt/sismo/terramoto/sismo-de-4-1-na-escala-de-richter-sentido-em-varios-concelhos-do-norte-e-centro/20251213/693d20a1d34e3caad84c5548",
-         "published": null,
-         "created": null,
+         "published": 1765613700000,
+         "created": 1765613700000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -44,8 +44,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;S&#xe9;rgio Sousa Pinto, comentador da CNN Portugal, analisa o impacto da greve geral.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/sergio-sousa-pinto-tem-uma-questao-para-luis-montenegro-qual-e-o-sentido-de-desejar-o-aumento-da-precariedade/693c9fda0cf28fe4304881cc",
-         "published": null,
-         "created": null,
+         "published": 1765582680000,
+         "created": 1765582680000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -59,8 +59,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Maria Castello Branco, comentadora da CNN Portugal, analisa o impacto da greve geral.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/o-candidato-presidencial-do-psd-ja-nao-esta-a-defender-a-reforma-laboral/693ca0fb0cf229bd2f8d643b",
-         "published": null,
-         "created": null,
+         "published": 1765582680000,
+         "created": 1765582680000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -74,8 +74,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Jo&#xe3;o Marques de Almeida, comentador da CNN Portugal, analisa o impacto da greve geral.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/e-uma-greve-que-nao-se-entende-do-ponto-de-vista-laboral-foi-uma-iniciativa-politica/693c9ec10cf28fe4304881ac",
-         "published": null,
-         "created": null,
+         "published": 1765582620000,
+         "created": 1765582620000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -89,8 +89,8 @@
             "$text": "  "
          },
          "link": "https://cnnportugal.iol.pt/podcast/debates-presidenciais/podcast-debates-presidenciais-2026/20251117/691cc52cd34e2bd5c6d4253f",
-         "published": null,
-         "created": null,
+         "published": 1765580880000,
+         "created": 1765580880000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -104,8 +104,8 @@
             "$text": " &lt;p&gt;Os dois candidatos presidenciais estiveram frente a frente esta sexta-feira.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/o-debate-entre-catarina-martins-e-luis-marques-mendes-na-integra/693c9c2a0cf28fe430488145",
-         "published": null,
-         "created": null,
+         "published": 1765580220000,
+         "created": 1765580220000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -119,8 +119,8 @@
             "$text": " &lt;p&gt;O comentador da CNN Portugal analisou a presta&#xe7;&#xe3;o dos dois candidatos presidenciais no debate desta sexta-feira.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/marques-mendes-adormeceu-catarina-martins-e-talvez-alguns-espectadores-a-avaliacao-de-rui-calafate-ao-debate/693c966b0cf2559133762ea8",
-         "published": null,
-         "created": null,
+         "published": 1765579620000,
+         "created": 1765579620000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -134,8 +134,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;O tenente-general Rafael Martins, especialista militar da CNN Portugal, analisa a evolu&#xe7;&#xe3;o das negocia&#xe7;&#xf5;es de paz na Ucr&#xe2;nia.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/nas-negociacoes-de-paz-a-impaciencia-nao-leva-a-resultados-positivos/693c95360cf2c7eb24446de9",
-         "published": null,
-         "created": null,
+         "published": 1765579140000,
+         "created": 1765579140000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -149,8 +149,8 @@
             "$text": " &lt;p&gt;Helena Matos, Jo&#xe3;o Marcelino, Ant&#xf3;nio Costa e Margarida Davim avaliam a presta&#xe7;&#xe3;o dos dois candidatos presidenciais no debate desta sexta-feira.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/as-notas-dos-comentadores-da-cnn-portugal-ao-debate-entre-catarina-martins-e-luis-marques-mendes/693c966b0cf229bd2f8d63a7",
-         "published": null,
-         "created": null,
+         "published": 1765579140000,
+         "created": 1765579140000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -164,8 +164,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Miguel Baumgartner, comentador da CNN Portugal, analisa a evolu&#xe7;&#xe3;o das negocia&#xe7;&#xf5;es de paz na Ucr&#xe2;nia.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/a-europa-nao-pode-voltar-ao-mundo-em-que-atraves-da-forca-os-territorios-sao-tomados/693c95190cf229bd2f8d63a6",
-         "published": null,
-         "created": null,
+         "published": 1765579140000,
+         "created": 1765579140000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -179,8 +179,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Manuel Serrano, comentador da CNN Portugal, analisa a evolu&#xe7;&#xe3;o das negocia&#xe7;&#xf5;es de paz na Ucr&#xe2;nia.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/negociacoes-de-paz-na-ucrania-se-pensarmos-em-tudo-o-que-aconteceu-nao-melhorou/693c94f80cf2c7eb24446de8",
-         "published": null,
-         "created": null,
+         "published": 1765579080000,
+         "created": 1765579080000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -194,8 +194,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Uri&#xe3; Fancelli, comentador da CNN Portugal, analisa a decis&#xe3;o norte-americana de apreender um petroleiro no Mar das Cara&#xed;bas.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/apreensao-de-petroleiro-pelos-eua-e-uma-mensagem-para-intimidar-a-venezuela/693c95bd0cf2559133762ea7",
-         "published": null,
-         "created": null,
+         "published": 1765579080000,
+         "created": 1765579080000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -209,8 +209,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Entrevista a Joana Amaral Dias, candidata &#xe0; Presid&#xea;ncia da Rep&#xfa;blica, esta sexta-feira na CNN.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/presidenciais-a-entrevista-a-joana-amaral-dias-na-integra/693c76610cf28fe43048804c",
-         "published": null,
-         "created": null,
+         "published": 1765578540000,
+         "created": 1765578540000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -224,8 +224,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;A Ucr&#xe2;nia tem apostado em atacar as refinarias russas, numa tentativa de debilitar a economia de Moscovo. Nestes ataques os drones t&#xea;m tido um papel fundamental.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/imagens-exclusivas-e-nesta-fabrica-secreta-que-se-fabricam-os-drones-ucranianos-que-atingem-as-refinarias-russas/693c71e20cf2c7eb24446c43",
-         "published": null,
-         "created": null,
+         "published": 1765578120000,
+         "created": 1765578120000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -239,8 +239,8 @@
             "$text": " Os investigadores do Minist&#xe9;rio P&#xfa;blico e da Pol&#xed;cia Judici&#xe1;ria escreveram &#xe0; Federa&#xe7;&#xe3;o Portuguesa de Futebol (FPF) a perguntar se houve outros potenciais compradores da antiga sede. E pediram para serem identificados todos aqueles que acompanharam o neg&#xf3;cio da venda do im&#xf3;vel. A resposta foi&#x2026; n&#xe3;o sabemos. Porque a Federa&#xe7;&#xe3;o nem sequer ter&#xe1; encontrado no arquivo, ou em qualquer outro lugar das instala&#xe7;&#xf5;es, o contrato do neg&#xf3;cio ou outros documentos "
          },
          "link": "https://cnnportugal.iol.pt/fernando-gomes/operacao-mais-valia/documentos-do-predio-desapareceram-da-sede-da-fpf/20251212/693c6338d34e2bd5c6d50bd9",
-         "published": null,
-         "created": null,
+         "published": 1765577760000,
+         "created": 1765577760000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -254,8 +254,8 @@
             "$text": " Governo quer impor tac&#xf3;grafos &#xe0;s empresas municipais para combater a fraude organizada aos tempos obrigat&#xf3;rios de descanso "
          },
          "link": "https://cnnportugal.iol.pt/tacografos/autocarros/24-dos-motoristas-de-autocarros-de-passageiros-confessam-ja-ter-adormecido-ao-volante-estado-vai-apertar-controlo-ao-descanso/20251212/693c922fd34e2bd5c6d50cfb",
-         "published": null,
-         "created": null,
+         "published": 1765577460000,
+         "created": 1765577460000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -269,8 +269,8 @@
             "$text": "  "
          },
          "link": "https://cnnportugal.iol.pt/china/estados-unidos/a-estrategia-de-seguranca-de-trump-mudou-radicalmente-em-relacao-a-china-porque-agora/20251212/693c6a04d34e2bd5c6d50c19",
-         "published": null,
-         "created": null,
+         "published": 1765576800000,
+         "created": 1765576800000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -284,8 +284,8 @@
             "$text": " &lt;p&gt;Os ca&#xe7;adores de nazis nunca desistem. 80 anos depois do tribunal de Nuremberga, eles sabem que h&#xe1; ainda crimes de guerra, identidades falsas e despojos nazis por descobrir. O fim da 2.&#xaa; Guerra Mundial n&#xe3;o significou castigo para todos os criminosos. No interior da Argentina ou nos cofres da Su&#xed;&#xe7;a, continuam fechadas a sete chaves muitas respostas para a pergunta desta semana na TVI/CNN Portugal: Onde Est&#xe1; Hitler?&lt;/p&gt; \n&lt;p&gt;Este &#xe9; o quarto epis&#xf3;dio de uma &lt;a href=&quot;https://cnnportugal.iol.pt/search?pagina=1&amp;amp;pesquisa=ondeestahitler&quot; target=&quot;_blank&quot;&gt;s&#xe9;rie de sete reportagens&lt;/a&gt; com participa&#xe7;&#xe3;o do jornalista Marcelo Netto (coautor de &#x201c;O Homem que Enterrou Hitler&#x201d;), do escritor Jos&#xe9; Manuel Portero (autor de &#x201c;Nazis en la Costa del Sol&#x201d;), dos historiadores J&#xf6;rg Morr&#xe9; (diretor do Museu de Berlim-Karlshorst) e Jo&#xe3;o Neto (diretor do Museu da Farm&#xe1;cia), que tem ainda o raro testemunho de &#xe9;poca do hoteleiro Ant&#xf3;nio Muchaxo, 95 anos, propriet&#xe1;rio de uma estalagem no Guincho. Autoria de Victor Moura-Pinto, com Ricardo Ferreira (rep&#xf3;rter de imagem), Jo&#xe3;o Ferreira (edi&#xe7;&#xe3;o de imagem), Rita Casaes (grafismo) e Ana Gouveia (produ&#xe7;&#xe3;o).&amp;#xa0;&lt;/p&gt; \n&lt;p&gt;Narra&#xe7;&#xf5;es a cargo dos jornalistas Hugo Matias, Pedro Filipe Silva, Hugo Capela, Paulo Bastos, Isabel Moi&#xe7;&#xf3;, Gon&#xe7;alo Nuno Cabral, Bruno Andrade, Lu&#xed;s Vig&#xe1;rio, Jo&#xe3;o Pedro Olim, Pedro Bello Moraes, Miguel Domingos, Jo&#xe3;o Pedro Oca, Concei&#xe7;&#xe3;o Queiroz, Henrique Mateus, Pedro Carvalhas, Miguel Fernandes e Joaquim Franco.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/onde-esta-hitler-as-rotas-dos-ratos-episodio-4/693c83770cf28fe430488131",
-         "published": null,
-         "created": null,
+         "published": 1765573500000,
+         "created": 1765573500000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -299,8 +299,8 @@
             "$text": " Um dia depois da greve geral, a ministra do Trabalho fez saber que tinha convocado a UGT para uma reuni&#xe3;o na pr&#xf3;xima ter&#xe7;a-feira para retomar as negocia&#xe7;&#xf5;es sobre a reforma da legisla&#xe7;&#xe3;o laboral. De fora ficou a CGTP. H&#xe1; 12 anos que as duas centrais sindicais n&#xe3;o se uniam numa paralisa&#xe7;&#xe3;o nacional "
          },
          "link": "https://cnnportugal.iol.pt/legislacao-laboral/greve-geral/ugt-vai-reunir-se-com-ministra-do-trabalho-mas-avisa-que-e-impossivel-negociar-sozinha/20251212/693c399ad34e3caad84c50ff",
-         "published": null,
-         "created": null,
+         "published": 1765573380000,
+         "created": 1765573380000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -314,8 +314,8 @@
             "$text": " Em jogo est&#xe3;o 17 milh&#xf5;es de euros "
          },
          "link": "https://cnnportugal.iol.pt/chave-euromilhoes/numeros-euromilhoes/euromilhoes-veja-se-acertou-na-chave-desta-sexta-feira/20251212/693c738ad34e3caad84c53c2",
-         "published": null,
-         "created": null,
+         "published": 1765570740000,
+         "created": 1765570740000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -329,8 +329,8 @@
             "$text": " Pais recusaram levar a beb&#xe9; ao m&#xe9;dico. Ana Guedes da Costa, juiz presidente do Tribunal Judicial da Comarca do Porto, explicou que foi aplicada uma medida provis&#xf3;ria de acolhimento familiar, com a dura&#xe7;&#xe3;o de tr&#xea;s meses, a rever no final desse prazo "
          },
          "link": "https://cnnportugal.iol.pt/bebe-gaia/bebe-grijo/exclusivo-negligencia-parental-levou-a-retirada-de-bebe-em-gaia/20251212/693c7177d34e2bd5c6d50c55",
-         "published": null,
-         "created": null,
+         "published": 1765569960000,
+         "created": 1765569960000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -344,8 +344,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;O major-general V&#xed;tor Viana, antigo diretor do Instituto de Defesa Nacional, analisa a potencial ades&#xe3;o da Ucr&#xe2;nia &#xe0; Uni&#xe3;o Europeia at&#xe9; 1 de janeiro de 2027.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/a-ue-pode-constituir-ja-100-brigadas-100-esquadras-de-cacas-e-uma-frota-de-100-navios/693c68b20cf2c7eb24446a49",
-         "published": null,
-         "created": null,
+         "published": 1765569360000,
+         "created": 1765569360000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -359,8 +359,8 @@
             "$text": " Fernando Alexandre adiantou ainda que a tutela vai pagar este ano mais de 20 milh&#xf5;es de euros em horas extraordin&#xe1;rias "
          },
          "link": "https://cnnportugal.iol.pt/fernando-alexandre/horas-extraordinarias/governo-vai-pagar-aos-professores-30-milhoes-de-euros-por-horas-extraordinarias-acumuladas-desde-2018/20251212/693c6b01d34e3caad84c5380",
-         "published": null,
-         "created": null,
+         "published": 1765569060000,
+         "created": 1765569060000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -374,8 +374,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Aline Hall de Beuvink, especialista em Hist&#xf3;ria, fala sobre a potencial ades&#xe3;o da Ucr&#xe2;nia &#xe0; Uni&#xe3;o Europeia at&#xe9; 1 de janeiro de 2027.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/adesao-da-ucrania-a-ue-e-nao-a-nato-e-como-se-estivessemos-a-agradar-a-russia/693c67ee0cf2559133762aaf",
-         "published": null,
-         "created": null,
+         "published": 1765567020000,
+         "created": 1765567020000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -389,8 +389,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Daniel Teixeira, deputado do Chega, antev&#xea; as poss&#xed;veis ondas de choque da greve geral desta quinta-feira.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/a-manifestacao-foi-uma-guerrilha-entre-os-sindicatos-e-o-governo/693c4bad0cf2c7eb24446895",
-         "published": null,
-         "created": null,
+         "published": 1765566780000,
+         "created": 1765566780000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -404,8 +404,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Jo&#xe3;o Torres, deputado do PS, antev&#xea; as poss&#xed;veis ondas de choque da greve geral desta quinta-feira.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/a-greve-geral-foi-muito-bem-sucedida/693c4b930cf255913376292f",
-         "published": null,
-         "created": null,
+         "published": 1765566720000,
+         "created": 1765566720000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -419,8 +419,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Paulo Muacho, deputado do Livre, antev&#xea; as poss&#xed;veis ondas de choque da greve geral desta quinta-feira.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/reforma-laboral-pode-ser-a-primeira-grande-derrota-do-governo-na-opiniao-publica/693c4c9a0cf2c7eb24446896",
-         "published": null,
-         "created": null,
+         "published": 1765566660000,
+         "created": 1765566660000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -434,8 +434,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;O tenente-general Marco Serronha, especialista em seguran&#xe7;a da CNN Portugal, analisa o ponto de situa&#xe7;&#xe3;o das negocia&#xe7;&#xf5;es de paz na Ucr&#xe2;nia.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/a-uniao-europeia-se-nao-sobreviver-a-crise-da-ucrania-vai-acabar/693c54e40cf2559133762935",
-         "published": null,
-         "created": null,
+         "published": 1765566480000,
+         "created": 1765566480000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -449,8 +449,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Marcos Farias Ferreira, especialista em Rela&#xe7;&#xf5;es Internacionais, analisa o ponto de situa&#xe7;&#xe3;o das negocia&#xe7;&#xf5;es de paz na Ucr&#xe2;nia.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/a-adesao-da-ucrania-a-uniao-europeia-transformou-se-numa-questao-geopolitica/693c550d0cf2559133762936",
-         "published": null,
-         "created": null,
+         "published": 1765566480000,
+         "created": 1765566480000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -464,8 +464,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Francisco Cordeiro Ara&#xfa;jo, especialista em Direito Internacional, analisa o ponto de situa&#xe7;&#xe3;o das negocia&#xe7;&#xf5;es de paz na Ucr&#xe2;nia.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/ucrania-na-ue-ate-janeiro-de-2027-o-prazo-parece-me-apertado/693c54c30cf2c7eb2444689c",
-         "published": null,
-         "created": null,
+         "published": 1765566480000,
+         "created": 1765566480000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -479,8 +479,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Ricardo Monteiro, comentador da CNN Portugal, analisa o ponto de situa&#xe7;&#xe3;o das negocia&#xe7;&#xf5;es de paz na Ucr&#xe2;nia.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/problema-da-corrupcao-na-ucrania-e-uma-distracao/693c56240cf2c7eb2444689e",
-         "published": null,
-         "created": null,
+         "published": 1765566420000,
+         "created": 1765566420000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -494,8 +494,8 @@
             "$text": "  "
          },
          "link": "https://cnnportugal.iol.pt/video/paraquedas/video-mostra-momento-em-que-paraquedista-fica-preso-na-cauda-de-um-aviao-a-cerca-de-4-600-metros-de-altitude/20251212/693c5bd6d34e3caad84c52e1",
-         "published": null,
-         "created": null,
+         "published": 1765563900000,
+         "created": 1765563900000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -509,8 +509,8 @@
             "$text": " Produ&#xe7;&#xe3;o russa destes sistemas apresenta debilidades ao n&#xed;vel da depend&#xea;ncia de componentes estrangeiros e dos locais de produ&#xe7;&#xe3;o, aponta relat&#xf3;rio "
          },
          "link": "https://cnnportugal.iol.pt/guerra-na-ucrania/guerra/defesas-aereas-russas-apresentam-vulnerabilidades-serias/20251212/693c5b0bd34e2bd5c6d50b73",
-         "published": null,
-         "created": null,
+         "published": 1765563600000,
+         "created": 1765563600000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -524,8 +524,8 @@
             "$text": "  "
          },
          "link": "https://cnnportugal.iol.pt/caso-epstein/epstein/novas-fotografias-retiradas-do-e-mail-de-jeffrey-epstein-mostram-trump-bannon-clinton-e-outras-figuras-de-topo/20251212/693c52d6d34e2bd5c6d50af7",
-         "published": null,
-         "created": null,
+         "published": 1765562400000,
+         "created": 1765562400000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -539,8 +539,8 @@
             "$text": " Mecanismo pretende garantir que os ativos fiquem congelados at&#xe9; que a R&#xfa;ssia pague repara&#xe7;&#xf5;es de guerra &#xe0; Ucr&#xe2;nia "
          },
          "link": "https://cnnportugal.iol.pt/ucrania/ativos-russos-congelados/uniao-europeia-aprova-mecanismo-legal-para-manter-ativos-russos-congelados-para-sempre/20251212/693c523ed34e2bd5c6d50aed",
-         "published": null,
-         "created": null,
+         "published": 1765561200000,
+         "created": 1765561200000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -554,8 +554,8 @@
             "$text": " Assalto violento ocorreu em Paranhos, no Porto "
          },
          "link": "https://cnnportugal.iol.pt/assalto-porto/assaltos-porto/condutor-abordado-por-falsos-agentes-da-psp-fica-sem-milhares-de-euros/20251212/693c52f0d34e3caad84c5258",
-         "published": null,
-         "created": null,
+         "published": 1765561020000,
+         "created": 1765561020000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -569,8 +569,8 @@
             "$text": " Os democratas na Comiss&#xe3;o de Supervis&#xe3;o da C&#xe2;mara dos Representantes divulgaram, na sexta-feira, fotografias provenientes do patrim&#xf3;nio de Jeffrey Epstein que mostram v&#xe1;rias figuras poderosas do c&#xed;rculo do falecido traficante sexual, incluindo o presidente dos EUA, Donald Trump, o ex-presidente Bill Clinton, Steve Bannon, Bill Gates, Richard Branson, entre outros. "
          },
          "link": "https://cnnportugal.iol.pt/fotos/fotos-as-imagens-do-e-mail-de-jeffrey-epstein/693c5248d34e3caad84c5250",
-         "published": null,
-         "created": null,
+         "published": 1765560900000,
+         "created": 1765560900000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -584,8 +584,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;Carlos Farinha Rodrigues, membro da comiss&#xe3;o de acompanhamento da estrat&#xe9;gia nacional de combate &#xe0; pobreza, analisa a recente descida da taxa de pobreza em Portugal.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/descida-da-taxa-de-pobreza-e-positiva-mas-continuamos-a-ter-um-problema-em-portugal/693c47f20cf255913376292d",
-         "published": null,
-         "created": null,
+         "published": 1765560360000,
+         "created": 1765560360000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -599,8 +599,8 @@
             "$text": " &lt;p&gt;M&#xe1;rio Ramires, diretor do seman&#xe1;rio Sol, analisa a decis&#xe3;o da VASP de colocar um ponto final na distribui&#xe7;&#xe3;o de jornais no interior do pa&#xed;s.&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/a-vasp-nao-vai-distribuir-jornais-para-ninguem-os-comprar/693c47570cf28fe430487bb9",
-         "published": null,
-         "created": null,
+         "published": 1765560360000,
+         "created": 1765560360000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -614,8 +614,8 @@
             "$text": " No que respeita &#xe0;s lojas CTT, das 570 existentes em Portugal, 563 permaneceram abertas "
          },
          "link": "https://cnnportugal.iol.pt/greve-geral/paralisacao/greve-geral-ctt-afirma-que-paralisacao-teve-impacto-reduzido-na-atividade/20251212/693c4686d34e3caad84c51be",
-         "published": null,
-         "created": null,
+         "published": 1765557840000,
+         "created": 1765557840000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -629,8 +629,8 @@
             "$text": " Executivo de Montenegro quer que manobras dilat&#xf3;rias resultem em multas e que o Minist&#xe9;rio P&#xfa;blico tenha &quot;poder de recusar&quot; esses atos "
          },
          "link": "https://cnnportugal.iol.pt/atos-dilatorios/tribunal/governo-quer-aplicar-multas-a-quem-trave-o-andamento-dos-processos-em-tribunal/20251212/693c4137d34e3caad84c5173",
-         "published": null,
-         "created": null,
+         "published": 1765556520000,
+         "created": 1765556520000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -644,8 +644,8 @@
             "$text": " &lt;p&gt;Pedro Tadeu, comentador da CNN Portugal, comenta o debate presidencial entre Andr&#xe9; Ventura e Jorge Pinto, que ocorreu quinta-feira&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/so-agora-e-com-o-sucesso-da-greve-geral-e-que-andre-ventura-comecou-a-tomar-posicoes-sobre-o-pacote-laboral/693c32c00cf2c7eb24446882",
-         "published": null,
-         "created": null,
+         "published": 1765554960000,
+         "created": 1765554960000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -659,8 +659,8 @@
             "$text": " &lt;p&gt;Miguel Pinheiro, comentador da CNN Portugal, analisa o debate de quinta-feira entre Andr&#xe9; Ventura e Jorge Pinto&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/jorge-pinto-tentou-jogar-o-jogo-de-andre-ventura-mas-pelo-caminho-utilizou-mal-uma-tatica-de-catarina-martins/693c336e0cf255913376291e",
-         "published": null,
-         "created": null,
+         "published": 1765554960000,
+         "created": 1765554960000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -674,8 +674,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;A an&#xe1;lise do tenente-general Rafael Martins&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/devemos-comecar-a-aceitar-uma-narrativa-de-perda-para-a-ucrania-e-para-zelensky/693c32d80cf255913376291d",
-         "published": null,
-         "created": null,
+         "published": 1765554840000,
+         "created": 1765554840000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -689,8 +689,8 @@
             "$text": " &lt;p style=&quot;margin-bottom:11px&quot;&gt;O major-general Agostinho Costa faz o ponto da situa&#xe7;&#xe3;o da guerra&lt;/p&gt; "
          },
          "link": "https://cnnportugal.iol.pt/videos/agostinho-costa-anuncia-que-caiu-uma-das-principais-pracas-fortes-do-donbass-ha-tres-anos-que-os-russos-queriam-isto/693c18b80cf2c7eb2444686b",
-         "published": null,
-         "created": null,
+         "published": 1765554600000,
+         "created": 1765554600000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -704,8 +704,8 @@
             "$text": " No total, havia 2,5 milh&#xf5;es de pensionistas de velhice dos regimes p&#xfa;blicos, dos quais dois milh&#xf5;es pertencem ao sistema de Seguran&#xe7;a Social e 440 mil &#xe0; Caixa Geral de Aposenta&#xe7;&#xf5;es "
          },
          "link": "https://cnnportugal.iol.pt/banco-de-portugal/velhice/banco-de-portugal-metade-dos-pensionistas-por-velhice-com-reforma-abaixo-dos-462-euros-em-2024/20251212/693c3999d34e3caad84c50fd",
-         "published": null,
-         "created": null,
+         "published": 1765554540000,
+         "created": 1765554540000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -719,8 +719,8 @@
             "$text": " Funcion&#xe1;rios da SPdH/Menzies em greve a 31 de dezembro e 01 de janeiro\n "
          },
          "link": "https://cnnportugal.iol.pt/aeroporto/handling/aeroportos-trabalhadores-de-handling-em-greve-na-passagem-de-ano/20251212/693c2fb3d34e2bd5c6d50905",
-         "published": null,
-         "created": null,
+         "published": 1765552020000,
+         "created": 1765552020000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -734,8 +734,8 @@
             "$text": " No entender de Ant&#xf3;nio Jos&#xe9; Seguro, o pacote apresentado pelo governo &#x201c;fere um princ&#xed;pio democr&#xe1;tico, porque esta proposta de legisla&#xe7;&#xe3;o laboral n&#xe3;o foi apresentada aos eleitores na campanha eleitoral, depois falhou na concerta&#xe7;&#xe3;o social&#x201d; "
          },
          "link": "https://cnnportugal.iol.pt/antonio-jose-seguro/proposta-laboral/antonio-jose-seguro-desafia-governo-a-retirar-proposta-laboral/20251212/693c2c3ed34e2bd5c6d508bc",
-         "published": null,
-         "created": null,
+         "published": 1765551000000,
+         "created": 1765551000000,
          "category": [],
          "enclosures": [],
          "media": {}
@@ -749,8 +749,8 @@
             "$text": " Questionado sobre quando isso acontecer&#xe1;, o governante apontou ser &#x201c;imposs&#xed;vel dizer&#x201d; "
          },
          "link": "https://cnnportugal.iol.pt/isp/impostos/governo-vai-continuar-a-reduzir-desconto-no-isp-em-novas-baixas-de-preco-dos-combustiveis/20251212/693c2a40d34e3caad84c4fe7",
-         "published": null,
-         "created": null,
+         "published": 1765550580000,
+         "created": 1765550580000,
          "category": [],
          "enclosures": [],
          "media": {}
