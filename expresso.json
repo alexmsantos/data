@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a4174d85-70ec-4d9d-9b77-1a5b6d7d569a",
+         "title": "Seis distritos de Portugal continental sob aviso laranja devido a agitação marítima",
+         "description": "<p><span>IPMA emite aviso laranja para Lisboa, Leiria, Coimbra, Faro, Setúbal e Beja</span></p>",
+         "link": "https://expresso.pt/sociedade/meteorologia/2025-12-15-seis-distritos-de-portugal-continental-sob-aviso-laranja-devido-a-agitacao-maritima-8c6d600b",
+         "author": "Agência Lusa",
+         "published": 1765785135000,
+         "created": 1765785135000,
+         "category": "Meteorologia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-31-fox_mar_0032.jpg-790e1898/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-31-fox_mar_0032.jpg-790e1898/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-01-31-fox_mar_0032.jpg-790e1898/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "d5622dda-7fa3-4f98-ae77-7d7fc02a8211",
          "title": "Realizador Rob Reiner e mulher Michele Singer encontrados mortos em casa",
          "description": "<p><span>Polícia investiga morte violenta do casal, em Los Angeles, nos EUA</span></p>",
@@ -261,35 +290,6 @@
          "category": "Geração E",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "31691b30-3857-481b-8489-4594c1b8c1af",
-         "title": "O Portugal da estatística e o Portugal da estratégia",
-         "description": "<p>O país vive hoje uma encruzilhada entre ter talento científico e sofrer de uma ineficiência sistémica</p>",
-         "link": "https://expresso.pt/opiniao/2025-12-15-o-portugal-da-estatistica-e-o-portugal-da-estrategia-010e2e5e",
-         "author": "João Pereira da Cruz",
-         "published": 1765782000000,
-         "created": 1765782000000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-03-04-Joao-Pereira-da-Cruz_2.png-b6466706-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-03-04-Joao-Pereira-da-Cruz_2.png-b6466706-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-03-04-Joao-Pereira-da-Cruz_2.png-b6466706-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
