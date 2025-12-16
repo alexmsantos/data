@@ -55,8 +55,25 @@
          "published": 1765896412000,
          "created": 1765896412000,
          "category": "Economia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-04-17-alta_gettyimages-1354070884_t-_idp.jpg-6cf23b79/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-04-17-alta_gettyimages-1354070884_t-_idp.jpg-6cf23b79/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-04-17-alta_gettyimages-1354070884_t-_idp.jpg-6cf23b79/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "1ec1cab9-b204-46a3-9f71-4b58d61be68b",
