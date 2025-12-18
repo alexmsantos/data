@@ -6,18 +6,6 @@
    "category": [],
    "items": [
       {
-         "id": "4b64e56c-53a2-4f7a-b328-6e3ab014bf95",
-         "title": "Mimo de Natal",
-         "description": "<p><span>Já trataste dos presentes que tinhas </span><span>na lista? Ainda vais a tempo! Reúne os materiais e cria uma prenda personalizada</span></p>",
-         "link": "https://expresso.pt/expressinho/2025-12-18-mimo-de-natal-f3ec93ab",
-         "author": "Joana Sequeira Nobre - Rosapomposa",
-         "published": 1766082423000,
-         "created": 1766082423000,
-         "category": "Expressinho",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "2df3af7b-dbd3-4e45-b661-9ca593f3c896",
          "title": "Revista \"GQ Portugal\" chega ao fim: edição que está nas bancas é a última",
          "description": "<p><span>Editora </span><span>Lighthouse Publishing, que detém também a \"Vogue Portugal\", </span><span>optou por não renovar a licença e prepara um novo título internacional</span></p>",
@@ -283,6 +271,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-12-18-1000191762.jpg-4c257d1d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "a453f19c-5f83-4ece-b2e4-a6607471b2ff",
+         "title": "Degradação das residências deve-se a “situação crónica de subfinanciamento” do Estado",
+         "description": "<p><span>Ministro da Educação queria promover a liberdade de escolha entre residências e alojamento privado para alunos do ensino superior deslocados. Presidente do Conselho Superior dos Institutos Politécnicos não concorda e critica declarações de Fernando Alexandre</span></p>",
+         "link": "https://expresso.pt/sociedade/ensino/2025-12-18-degradacao-das-residencias-deve-se-a-situacao-cronica-de-subfinanciamento-do-estado-3c376ef2",
+         "author": "Isabel Leiria",
+         "published": 1766077642000,
+         "created": 1766077642000,
+         "category": "Ensino",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2020-01-31-5_T-_IDP.jpg/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2020-01-31-5_T-_IDP.jpg/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2020-01-31-5_T-_IDP.jpg/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
