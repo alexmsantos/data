@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "0b42d94f-1413-425c-ba07-378a275901f7",
+         "title": "Dono da Tesla recorre ao Supremo Tribunal e consegue plano de remuneração de €47,8 mil milhões",
+         "description": "<p><span>Plano foi aprovado pela primeira vez em 2018 pelos acionistas da Tesla</span></p>",
+         "link": "https://expresso.pt/internacional/2025-12-20-dono-da-tesla-recorre-ao-supremo-tribunal-e-consegue-plano-de-remuneracao-de-478-mil-milhoes-37da94f7",
+         "author": "Agência Lusa",
+         "published": 1766221095000,
+         "created": 1766221095000,
+         "category": "Internacional",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-09-27-musk-0a79019c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-09-27-musk-0a79019c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-09-27-musk-0a79019c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "42a6ccd8-1121-40ef-a7e3-646d230c6016",
          "title": "Portugal bate recordes nas energias renováveis, mas arde mais e não trata devidamente o lixo que produz – um retrato ambiental do país",
          "description": "<p><span>Dois relatórios publicados esta sexta-feira, um da Agência Portuguesa para o Ambiente e outro do Instituto Nacional de Estatística, revelam um país em rápida transição energética, mas ainda vulnerável em áreas ambientais críticas e com fragilidades persistentes</span></p>",
@@ -71,7 +100,10 @@
          "title": "Montenegro em Kiev para mostrar “apoio continuado” à Ucrânia, um país com uma proximidade “única”  a Portugal",
          "description": "<p><span>Luís Montenegro deu início a uma visita curta mas “seguramente especial” à capital da Ucrânia, onde vai reunir-se com o Presidente Volodymyr Zelensky e visitar alguns locais importantes que marcam os quatro anos de luta desde a invasão “injustificada e injusta” da Rússia a 24 de fevereiro de 2022</span></p>",
          "link": "https://expresso.pt/internacional/guerra-na-ucrania/2025-12-20-montenegro-em-kiev-para-mostrar-apoio-continuado-a-ucrania-um-pais-com-uma-proximidade-unica--a-portugal-6b4ea5b1",
-         "author": "Ana França",
+         "author": [
+            "Ana França",
+            "enviada a Kiev"
+         ],
          "published": 1766218126000,
          "created": 1766218126000,
          "category": "Guerra na Ucrânia",
@@ -267,35 +299,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-12-19-lpn_irritacoes_thumbnail.jpg-8057e45e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "c094cae5-2f56-4f29-b89e-a470368b2af1",
-         "title": "Estados Unidos lançam \"ataque maciço\" contra infraestruturas do Estado Islâmico na Síria após atentado mortal",
-         "description": "<p>O secretário da Defesa Pete Hegseth classificou a ação como \"uma declaração de vingança\", enquanto o Presidente Trump prometeu continuar a perseguir os responsáveis pelo ataque que matou três norte-americanos</p>",
-         "link": "https://expresso.pt/internacional/eua/2025-12-19-estados-unidos-lancam-ataque-macico-contra-infraestruturas-do-estado-islamico-na-siria-apos-atentado-mortal-aada383b",
-         "author": "Agência Lusa",
-         "published": 1766186735000,
-         "created": 1766186735000,
-         "category": "EUA",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2022-04-17-Bandeira-Estado-Islamico-Daesh-79c566f3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2022-04-17-Bandeira-Estado-Islamico-Daesh-79c566f3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2022-04-17-Bandeira-Estado-Islamico-Daesh-79c566f3/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
