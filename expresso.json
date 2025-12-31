@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "9e30caf2-c0c8-43dc-9738-95b20b114d84",
+         "title": "Sonae Sierra vende participação em centro comercial no Brasil por €95 milhões",
+         "description": "<p><span>Braço imobiliário do grupo Sonae acordou vender a dois fundos brasileiros a participação de 25,86% que detém no centro comercial Parque Dom Pedro, em Campinas</span></p>",
+         "link": "https://expresso.pt/economia/economia_imobiliario/2025-12-31-sonae-sierra-vende-participacao-em-centro-comercial-no-brasil-por-95-milhoes-50f9836d",
+         "author": "Miguel Prado",
+         "published": 1767169364000,
+         "created": 1767169364000,
+         "category": "Imobiliário",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-12-31-shoppingparquedompedro.jpg-358fce42/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-12-31-shoppingparquedompedro.jpg-358fce42/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-12-31-shoppingparquedompedro.jpg-358fce42/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "6162e1f5-6e88-4927-a640-043518b9d794",
          "title": "“Sentia-me sempre um lixo. Acordava, olhava-me ao espelho e tinha nojo”",
          "description": "<p>Ed Sheeran revelou ter adotado uma dieta mais equilibrada e passado a fazer exercício físico, após uma juventude feita de excessos: “ficava até às 6h da manhã a beber shots de tequila e a fumar cigarros. Olhem para como eu era nessa altura e para como sou agora: parecia que tinha 40 anos e agora é que pareço ter 24”</p>",
@@ -29,35 +58,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-12-31-ed-sheeran.jpg-fdc4db45/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "26a29a9f-01fd-4bc1-95f1-4a54b4abe6a9",
-         "title": "Supremo recusa extradição de suspeito de tráfico para a Costa do Marfim e ordena a sua libertação imediata",
-         "description": "<p><span>Espanhol de 30 anos estava preso há cinco meses e foi libertado porque Supremo Tribunal de Justiça não acredita nas garantias da Costa do Marfim de que não será condenado a mais de 25 anos de prisão nem torturado</span></p>",
-         "link": "https://expresso.pt/sociedade/2025-12-31-supremo-recusa-extradicao-de-suspeito-de-trafico-para-a-costa-do-marfim-e-ordena-a-sua-libertacao-imediata-72eeddb8",
-         "author": "Rui Gustavo",
-         "published": 1767168000000,
-         "created": 1767168000000,
-         "category": "Sociedade",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2021-09-02-nb5_6560_T-_IDP.jpg-39f7d26c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2021-09-02-nb5_6560_T-_IDP.jpg-39f7d26c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2021-09-02-nb5_6560_T-_IDP.jpg-39f7d26c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -90,6 +90,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-06-08-_rc07294ritacarmo.jpg-ba0fdc75/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "26a29a9f-01fd-4bc1-95f1-4a54b4abe6a9",
+         "title": "Supremo contraria Ministério Público e Relação e liberta suspeito de tráfico",
+         "description": "<p><span>Espanhol de 30 anos estava preso há cinco meses e foi libertado porque Supremo Tribunal de Justiça não acredita nas garantias da Costa do Marfim de que não será condenado a mais de 25 anos de prisão nem torturado</span></p>",
+         "link": "https://expresso.pt/sociedade/2025-12-31-supremo-recusa-extradicao-de-suspeito-de-trafico-para-a-costa-do-marfim-e-ordena-a-sua-libertacao-imediata-72eeddb8",
+         "author": "Rui Gustavo",
+         "published": 1767168000000,
+         "created": 1767168000000,
+         "category": "Sociedade",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2021-09-02-nb5_6560_T-_IDP.jpg-39f7d26c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2021-09-02-nb5_6560_T-_IDP.jpg-39f7d26c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2021-09-02-nb5_6560_T-_IDP.jpg-39f7d26c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -278,35 +307,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "dddbde21-6017-43b1-918e-73ba3840927f",
-         "title": "Os melhores álbuns de 2025: o fado sem limites de Carminho",
-         "description": "<p>Na reta final de 2025, recordamos os melhores álbuns portugueses do ano para a equipa da BLITZ. Em primeiro lugar, o álbum mais experimental de Carminho, no qual a fadista estica os limites de um fado que até pode ser trágico, mas tem em si uma capacidade inabalável de resistência e transformação</p>",
-         "link": "https://expresso.pt/blitz/2025-12-31-os-melhores-albuns-de-2025-o-fado-sem-limites-de-carminho-183c8660",
-         "author": "Mário Rui Vieira",
-         "published": 1767166200000,
-         "created": 1767166200000,
-         "category": "Blitz",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-12-31-carminho.jpg-53976001/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-12-31-carminho.jpg-53976001/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-12-31-carminho.jpg-53976001/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
