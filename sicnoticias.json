@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "6f7cc914-dfda-4cf0-a499-808ed62b3785",
+         "title": "Campanha para as Presidências arranca no domingo com recorde de candidatos",
+         "description": "<p><span>As eleições presidenciais estão marcadas para 18 de janeiro, com a campanha a terminar no dia 16, para o habitual dia de reflexão na véspera do sufrágio. </span><span>O vencedor vai substituir Marcelo Rebelo de Sousa.</span></p>",
+         "link": "https://sicnoticias.pt/especiais/eleicoes-presidenciais/2026-01-02-campanha-para-as-presidencias-arranca-no-domingo-com-recorde-de-candidatos-2de706e4",
+         "author": "Lusa",
+         "published": 1767346154000,
+         "created": 1767346154000,
+         "category": "Presidenciais",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-01-02-antonio-jose-seguro-1c1633cf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-01-02-antonio-jose-seguro-1c1633cf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-01-02-antonio-jose-seguro-1c1633cf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "5e8b04e9-f49f-40dc-95c6-0fd1b64358d9",
          "title": "Zelensky, Trump, Mamdani e Taylor Swift são as figuras internacionais de 2025 para o Eixo do Mal",
          "description": "Um balanço de 2025 no Eixo do Mal em podcast, com Clara Ferreira Alves, Daniel Oliveira, Luís Pedro Nunes e Pedro Marques Lopes",
@@ -68,7 +97,11 @@
          "title": "O que já se sabe sobre o incêndio numa estância de esqui na Suíça",
          "description": "<p><span>A primeira vítima do incêndio foi identificada esta sexta-feira. Entretanto, foi também divulgada uma fotografia que </span><span>mostra aquele que parece ser o momento em que deflagrou o fogo.</span></p>",
          "link": "https://sicnoticias.pt/mundo/2026-01-02-o-que-ja-se-sabe-sobre-o-incendio-numa-estancia-de-esqui-na-suica-4dbb8194",
-         "author": "SIC Notícias",
+         "author": [
+            "Bárbara Ferreira",
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1767343257000,
          "created": 1767343257000,
          "category": "Mundo",
@@ -87,35 +120,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2026-01-02-bar-le-constellation---suica.jpg-2b0929c5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f9bf1e92-20ae-462e-beab-0c0165ee90eb",
-         "title": "João Cotrim de Figueiredo: “Vou fazer uma coisa que nunca ninguém fez na política em Portugal: sujeitar-me a um roast”",
-         "description": "Cotrim, és um bom partido? Guilherme Geirinhas conversa com João Cotrim de Figueiredo no segundo episódio da quinta temporada de Bom Partido, com os candidatos presidenciais",
-         "link": "https://sicnoticias.pt/podcasts/bom-partido/2026-01-02-joao-cotrim-de-figueiredo-vou-fazer-uma-coisa-que-nunca-ninguem-fez-na-politica-em-portugal-sujeitar-me-a-um-roast-e4c4b19b",
-         "author": "Bom Partido",
-         "published": 1767342000000,
-         "created": 1767342000000,
-         "category": "Bom Partido",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-01-01-cotrim_digital_050--1-.jpg-dcb86944/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-01-01-cotrim_digital_050--1-.jpg-dcb86944/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2026-01-01-cotrim_digital_050--1-.jpg-dcb86944/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -145,6 +149,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2026-01-01-podcast--no-ultimo-episodio---jose-pimentao--5.jpg-058d180b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "f9bf1e92-20ae-462e-beab-0c0165ee90eb",
+         "title": "João Cotrim de Figueiredo: “Vou fazer uma coisa que nunca ninguém fez na política em Portugal: sujeitar-me a um roast”",
+         "description": "Cotrim, és um bom partido? Guilherme Geirinhas conversa com João Cotrim de Figueiredo no segundo episódio da quinta temporada de Bom Partido, com os candidatos presidenciais",
+         "link": "https://sicnoticias.pt/podcasts/bom-partido/2026-01-02-joao-cotrim-de-figueiredo-vou-fazer-uma-coisa-que-nunca-ninguem-fez-na-politica-em-portugal-sujeitar-me-a-um-roast-e4c4b19b",
+         "author": "Bom Partido",
+         "published": 1767342000000,
+         "created": 1767342000000,
+         "category": "Bom Partido",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-01-01-cotrim_digital_050--1-.jpg-dcb86944/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-01-01-cotrim_digital_050--1-.jpg-dcb86944/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-01-01-cotrim_digital_050--1-.jpg-dcb86944/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +294,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-12-29-andre-judice-gloria.jpeg-72e6e1e4-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "0acdc79e-81b9-418e-87d2-777b0622c182",
-         "title": "Candidatos presidenciais defrontam-se no Debate da Rádio",
-         "description": "<p><span>O debate nas rádios começa às 09:30 e vai ter a duração de duas horas. Será transmitido em simultâneo na Antena 1, TSF, Rádio Renascença e Rádio Observador.</span></p>",
-         "link": "https://sicnoticias.pt/especiais/eleicoes-presidenciais/2026-01-02-candidatos-presidenciais-defrontam-se-no-debate-da-radio-a54620bb",
-         "author": "Lusa",
-         "published": 1767340285000,
-         "created": 1767340285000,
-         "category": "Presidenciais",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-08-25-gettyimages-1366572820.jpg-06705812/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-08-25-gettyimages-1366572820.jpg-06705812/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-08-25-gettyimages-1366572820.jpg-06705812/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
