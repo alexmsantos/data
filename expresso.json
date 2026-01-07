@@ -6,6 +6,47 @@
    "category": [],
    "items": [
       {
+         "id": "e6ed9bee-2853-4290-8360-be4d28a0b6b9",
+         "title": "Comissário da Defesa: \"O nosso objetivo é sermos autossuficientes na nossa responsabilidade de defender a Europa\"",
+         "description": "<p><span>O comissário da Defesa e Espaço está esta quarta e quinta em Portugal. Andrius Kubilius justifica a ausência de contratação pública nos planos de rearmamento europeus - incluindo o português - com a urgência face à ameaça russa, mas avisa o Governo que Bruxelas tem mecanismos para vigiar como Portugal vai gastar €5,8 mil milhões</span></p>",
+         "link": "https://expresso.pt/internacional/2026-01-07-comissario-da-defesa-o-nosso-objetivo-e-sermos-autossuficientes-na-nossa-responsabilidade-de-defender-a-europa-3cbc707c",
+         "author": "Susana Frexes",
+         "published": 1767786337000,
+         "created": 1767786337000,
+         "category": "Internacional",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "b0e27d29-e71f-4aea-8254-73e8d00a9a0b",
+         "title": "INEM diz que ativou ambulância em 15 minutos para doente no Seixal mas não havia viaturas disponíveis",
+         "description": "<p><span>Pedido do INEM foi feito aos bombeiros do Seixal para socorro imediato do doente, mas a corporação tinha todas as viaturas retidas no hospital de Almada</span></p>",
+         "link": "https://expresso.pt/sociedade/2026-01-07-inem-diz-que-ativou-ambulancia-em-15-minutos-para-doente-no-seixal-mas-nao-havia-viaturas-disponiveis-90033efc",
+         "author": "Vera Lúcia Arreigoso",
+         "published": 1767786207000,
+         "created": 1767786207000,
+         "category": "Sociedade",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-17-inem-cc528d5e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-08-17-inem-cc528d5e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-08-17-inem-cc528d5e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "280e95d2-f70f-4bc3-904c-9a2ac3c5b51c",
          "title": "Colômbia reconhece Delcy Rodriguez como Presidente interina da Venezuela",
          "description": "<p><span>Em comunicado, a ministra dos Negócios Estrangeiros refere que a decisão do futuro da Venezuela está nos próprios venezuelanos: \"</span><span>podem decidir seu próprio destino\"</span></p>",
@@ -105,35 +146,6 @@
          }
       },
       {
-         "id": "b360bff1-c94f-4f0e-a65b-b1a273b321db",
-         "title": "Cotrim será Presidente se Passos Coelho o apoiar",
-         "description": "<p>O capital político de Passos é agora reconhecido até por pessoas que sempre foram soaristas. O candidato da esquerda começou aliás numa base passista, e agora todos à direita disputam o seu apoio</p>",
-         "link": "https://expresso.pt/opiniao/2026-01-07-cotrim-sera-presidente-se-passos-o-apoiar-e20dfa0f",
-         "author": "Henrique Raposo",
-         "published": 1767783600000,
-         "created": 1767783600000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2020-04-13-henrique-raposo.png-235f7091-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2020-04-13-henrique-raposo.png-235f7091-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2020-04-13-henrique-raposo.png-235f7091-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
          "title": "Todos os concertos marcados para 2026 em Portugal",
          "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para os próximos meses: uma agenda sempre em atualização</p>",
@@ -157,6 +169,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-07-15-_rc09567_ritacarmo.jpg-1cbdc526/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "b360bff1-c94f-4f0e-a65b-b1a273b321db",
+         "title": "Cotrim será Presidente se Passos Coelho o apoiar",
+         "description": "<p>O capital político de Passos é agora reconhecido até por pessoas que sempre foram soaristas. O candidato da esquerda começou aliás numa base passista, e agora todos à direita disputam o seu apoio</p>",
+         "link": "https://expresso.pt/opiniao/2026-01-07-cotrim-sera-presidente-se-passos-o-apoiar-e20dfa0f",
+         "author": "Henrique Raposo",
+         "published": 1767783600000,
+         "created": 1767783600000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2020-04-13-henrique-raposo.png-235f7091-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2020-04-13-henrique-raposo.png-235f7091-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2020-04-13-henrique-raposo.png-235f7091-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -215,64 +256,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-01-07-gettyimages-2151479326.jpg-d174ce8e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "9b3104a4-e37d-4d5f-86cd-a072c6aeb462",
-         "title": "Maduro e mulher feridos durante captura na Venezuela: norte-americanos prestaram os primeiros socorros no local",
-         "description": "<p><span>Cilia Flores terá ficado ferida ao bater com a cabeça enquanto fugia ao lado do marido. </span><span>Maduro e Flores correram e tentaram esconder-se atrás de uma pesada porta de aço dentro da residência onde se encontravam, em Caracas</span></p><p></p>",
-         "link": "https://expresso.pt/internacional/america-latina/venezuela/2026-01-07-maduro-e-mulher-feridos-durante-captura-na-venezuela-advogado-quer-exame-fisico-completo-bbe8d01a",
-         "author": "Agência Lusa",
-         "published": 1767782552000,
-         "created": 1767782552000,
-         "category": "Venezuela",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-01-05-maduro.png-f12711d6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-01-05-maduro.png-f12711d6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-01-05-maduro.png-f12711d6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "10a56a33-e986-47ea-b4fe-ce4bd171fae4",
-         "title": "Habitação: Ministro diz que isenção de IMT chegou a 70 mil jovens e garantia pública usada por 23 mil",
-         "description": "<p>Joaquim Miranda Sarmento afirmou que o Governo está a “apostar na atração de capital humano” com medidas como o IRS Jovem, a isenção de IMT e de Imposto de Selo e a garantia pública para a compra da primeira casa</p>",
-         "link": "https://expresso.pt/geracao-e/2026-01-07-habitacao-ministro-diz-que-isencao-de-imt-chegou-a-70-mil-jovens-e-garantia-publica-usada-por-23-mil-53e7707d",
-         "author": "Agência Lusa",
-         "published": 1767781216000,
-         "created": 1767781216000,
-         "category": "Geração E",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-10-28-orcamento-de-estado-dia-2-luis-montenegro--joaquim-miranda-sarmento-leitao-amaro--governo-c3a95e1b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-10-28-orcamento-de-estado-dia-2-luis-montenegro--joaquim-miranda-sarmento-leitao-amaro--governo-c3a95e1b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-10-28-orcamento-de-estado-dia-2-luis-montenegro--joaquim-miranda-sarmento-leitao-amaro--governo-c3a95e1b/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
