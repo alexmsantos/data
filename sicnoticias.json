@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "728b5b89-d3d6-419c-9537-19a05fab1803",
+         "title": "Governo avança com candidatura de Mário Centeno à vice-presidência do BCE",
+         "description": "<p><span>A candidatura foi entregue na quinta-feira, após Centeno manifestar interesse em suceder a Luis de Guindos, cujo mandato termina em maio de 2026.</span></p>",
+         "link": "https://sicnoticias.pt/pais/2026-01-09-governo-avanca-com-candidatura-de-mario-centeno-a-vice-presidencia-do-bce-3b0c8601",
+         "author": "Lusa",
+         "published": 1767951395000,
+         "created": 1767951395000,
+         "category": "País",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-30-mario-centeno-52b91de0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-07-30-mario-centeno-52b91de0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-07-30-mario-centeno-52b91de0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "9e47d7cb-9c7c-4187-a4c3-accb8d6bbf25",
          "title": "No INEM “a situação está francamente pior do que há dois anos”, mas “continuamos a ter um dos melhores serviços nacionais de saúde do mundo”",
          "description": "Pedro Delgado Alves e José Eduardo Martins analisam a situação no INEM e a campanha das presidenciais, no Antes Pelo Contrário em podcast",
@@ -93,35 +122,6 @@
          }
       },
       {
-         "id": "05bd212b-ed43-489c-a168-7ab96a97cb47",
-         "title": "“As 300 mil casas que estão prontas a entrar no mercado de arrendamento não vêm porque continuamos a ter o tema da confiança por resolver”",
-         "description": "O novo ano traz mudanças para a área da habitação que impactam no mercado imobiliário. Há subidas nas rendas, novas regras para amortização dos créditos e medidas do governo para aumentar a oferta de casas. Fazemos a antecipação de 2026 com a nova presidente da APEMIP. Oiça aqui o podcast",
-         "link": "https://sicnoticias.pt/podcasts/chave-na-mao/2026-01-09-as-300-mil-casas-que-estao-prontas-a-entrar-no-mercado-de-arrendamento-nao-vem-porque-continuamos-a-ter-o-tema-da-confianca-por-resolver-f1707c5f",
-         "author": "Chave na mão",
-         "published": 1767949200000,
-         "created": 1767949200000,
-         "category": "Chave na mão",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-01-08-chave-na-mao---3x2-12-m.jpg-5b65a3b0/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-01-08-chave-na-mao---3x2-12-m.jpg-5b65a3b0/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2026-01-08-chave-na-mao---3x2-12-m.jpg-5b65a3b0/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "3d87c942-214f-4b53-935c-d17febded84d",
          "title": "Trump brinca às invasões na Venezuela e na Gronelândia, os candidatos presidenciais seguem em campanha",
          "description": "A invasão da Venezuela por Trump e a campanha das presidenciais em análise no Eixo do Mal em podcast, com Clara Ferreira Alves, Daniel Oliveira, Luís Pedro Nunes e Pedro Marques Lopes",
@@ -145,6 +145,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2026-01-09-eixo-do-mal-podcast-imagem-1c0054c4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "05bd212b-ed43-489c-a168-7ab96a97cb47",
+         "title": "“As 300 mil casas que estão prontas a entrar no mercado de arrendamento não vêm porque continuamos a ter o tema da confiança por resolver”",
+         "description": "O novo ano traz mudanças para a área da habitação que impactam no mercado imobiliário. Há subidas nas rendas, novas regras para amortização dos créditos e medidas do governo para aumentar a oferta de casas. Fazemos a antecipação de 2026 com a nova presidente da APEMIP. Oiça aqui o podcast",
+         "link": "https://sicnoticias.pt/podcasts/chave-na-mao/2026-01-09-as-300-mil-casas-que-estao-prontas-a-entrar-no-mercado-de-arrendamento-nao-vem-porque-continuamos-a-ter-o-tema-da-confianca-por-resolver-f1707c5f",
+         "author": "Chave na mão",
+         "published": 1767949200000,
+         "created": 1767949200000,
+         "category": "Chave na mão",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-01-08-chave-na-mao---3x2-12-m.jpg-5b65a3b0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-01-08-chave-na-mao---3x2-12-m.jpg-5b65a3b0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-01-08-chave-na-mao---3x2-12-m.jpg-5b65a3b0/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-01-09-no-ultimo-episodio-ivan-nunes-e-o-paulo-pena-05012026-20-mf.jpg-7edfc948/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "50f4b056-4919-4057-ae11-f51a8bd4105b",
-         "title": "Taberneiros, regateiras, quadrilheiros e sangradores: as profissões desaparecidas (ou em vias de extinção) da Baixa de Lisboa",
-         "description": "Neste episódio de ‘Histórias de Lisboa’, o jornalista Miguel Franco de Andrade conversa com a historiadora Delminda Rijo, especialista em demografia histórica, sobre as profissões desaparecidas da antiga Baixa lisboeta",
-         "link": "https://sicnoticias.pt/podcasts/historias-de-lisboa/2026-01-09-taberneiros-regateiras-quadrilheiros-e-sangradores-as-profissoes-desaparecidas--ou-em-vias-de-extincao--da-baixa-de-lisboa-8735f714",
-         "author": "Histórias de Lisboa",
-         "published": 1767945600000,
-         "created": 1767945600000,
-         "category": "Histórias de Lisboa",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-01-08-historias-de-lisboa-delminda-rijo-06012026-08-mf.jpg-302932a3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-01-08-historias-de-lisboa-delminda-rijo-06012026-08-mf.jpg-302932a3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2026-01-08-historias-de-lisboa-delminda-rijo-06012026-08-mf.jpg-302932a3/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
