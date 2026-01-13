@@ -1,10 +1,27 @@
 {
    "title": "Renascença - Noticias",
-   "description": "Em cada momento a rádio com o espirito certo. Na rádio, no digital e em podcast.",
+   "description": "Acompanhe notícias, atualidade, programas e rádio online em Portugal com a Renascença – informação confiável e atualizada diariamente.",
    "link": "https://rr.pt/",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "54994af1-68f0-f011-8195-6045bd91941b",
+         "title": "Poiares Maduro. \"Sobrevivência política da ministra da Saúde é extraordinariamente difícil\"",
+         "description": "No programa \"Conversa de Eleição\" da Renascença, o ex-ministro lembra que os primeiros-ministros costumam deixar desgastar ministros até ao limite, antes de os substituir. Para o socialista Fernando Medina, a ministra faz parte do problema e o que se passa no INEM oscila entre o \"escândalo\" e a \"tragédia\", à espera de uma reforma que classifica de \"farsa\".",
+         "link": "https://rr.pt/noticia/politica/2026/01/13/poiares-maduro-sobrevivencia-politica-da-ministra-da-saude-e-extraordinariamente-dificil/455053/?utm_medium=rss",
+         "published": 1768301197000,
+         "created": 1768301197000,
+         "category": [],
+         "enclosures": [
+            {
+               "url": "https://d1gifpnctlcmg5.cloudfront.net/be03b976-08ec-46ac-b8a1-8cd7b89206b0/assets/a061c434-42fa-4145-98f6-166ac13eb46f/1978c320-2814-4a57-8965-880c31520f23/hls/index.m3u8",
+               "length": "40665",
+               "type": "video/mp4"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "5b5bcc8a-73f0-f011-8195-6045bd91941b",
          "title": "\"Eles não chegam a nós\". Como os jovens sub-30 veem as presidenciais",
@@ -407,23 +424,6 @@
          "enclosures": [
             {
                "url": "https://images.rr.pt/4627991514204c472ccc_standard.jpg",
-               "length": "40665",
-               "type": "image/jpeg"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "683e6677-42f0-f011-8195-6045bd91941b",
-         "title": "​Tempos difíceis para a Ucrânia",
-         "description": "Os tempos não estão fáceis para os ucranianos que defendem a sua pátria da agressão russa. As ajudas à Ucrânia estão agora a um nível mais baixo do que estavam há mais de um ano.",
-         "link": "https://rr.pt/artigo/francisco-sarsfield-cabral/2026/01/13/tempos-dificeis-para-a-ucrania/455031/?utm_medium=rss",
-         "published": 1768278600000,
-         "created": 1768278600000,
-         "category": [],
-         "enclosures": [
-            {
-               "url": "https://images.newrr.rr.pt/sarsfield_cabral_francisco_sarsfield_cabral2105ced6_base.jpg",
                "length": "40665",
                "type": "image/jpeg"
             }
