@@ -43,8 +43,25 @@
          "published": 1768391688000,
          "created": 1768391688000,
          "category": "Saúde",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-30-gravida-gravidez-barriga-be185e26/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-06-30-gravida-gravidez-barriga-be185e26/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-06-30-gravida-gravidez-barriga-be185e26/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "3ef484b6-e26f-4d29-ba23-eea081ce19d9",
