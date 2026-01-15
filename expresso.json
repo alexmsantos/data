@@ -6,6 +6,64 @@
    "category": [],
    "items": [
       {
+         "id": "603a8e8f-1990-4f6e-832b-e49f6c8ecb86",
+         "title": "A 1ª página do Expresso Economia",
+         "description": "",
+         "link": "https://expresso.pt/Capas/2026-01-15-a-1-pagina-do-expresso-economia-0191497f",
+         "author": "Expresso",
+         "published": 1768518018000,
+         "created": 1768518018000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-064029cf-d373-4145-816f-204c6016a6a4.jpg-3c0e2c2d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-064029cf-d373-4145-816f-204c6016a6a4.jpg-3c0e2c2d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-064029cf-d373-4145-816f-204c6016a6a4.jpg-3c0e2c2d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "835e3a7f-085c-445e-b9c7-cf9756a2cd4b",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/Capas/2026-01-15-a-primeira-pagina-do-expresso-aac95cc3",
+         "author": "Expresso",
+         "published": 1768518018000,
+         "created": 1768518018000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-28c63a65-152f-42a4-ae05-6e67042d2e72.jpg-ca835066/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-28c63a65-152f-42a4-ae05-6e67042d2e72.jpg-ca835066/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-28c63a65-152f-42a4-ae05-6e67042d2e72.jpg-ca835066/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "2a3ba054-a10d-437f-9462-2fd9c33b3158",
          "title": "Geografia humana",
          "description": "<p>O que será um diário? Um memento, um protesto, um queixume, um fingimento, um apontamento?</p>",
@@ -76,11 +134,11 @@
          }
       },
       {
-         "id": "cf2b3588-3a37-470e-a023-38f36b3a40fb",
-         "title": "Que raio de coisa é um liberal?",
-         "description": "<p>O Liberalismo é bastante mal tratado por muita gente que nem faz ideia do que se trata. E alguns até se acham liberais</p>",
-         "link": "https://expresso.pt/opiniao/2026-01-15-que-raio-de-coisa-e-um-liberal--c3f282d2",
-         "author": "Henrique Monteiro",
+         "id": "721f6f03-4aa5-4485-aad5-dfec2735daeb",
+         "title": "PSD: ou muda, ou morre",
+         "description": "<p>O eleitorado AD/IL já não aceita viver num mundo apenas definido pelas esquerdas e os mais jovens estão mais do que disponíveis para ouvir coisas novas que — em Portugal — só podem ser da direita clássica europeia</p>",
+         "link": "https://expresso.pt/opiniao/2026-01-15-psd-ou-muda-ou-morre-dd657a52",
+         "author": "Henrique Raposo",
          "published": 1768517820000,
          "created": 1768517820000,
          "category": "Opinião",
@@ -88,11 +146,11 @@
          "media": {}
       },
       {
-         "id": "721f6f03-4aa5-4485-aad5-dfec2735daeb",
-         "title": "PSD: ou muda, ou morre",
-         "description": "<p>O eleitorado AD/IL já não aceita viver num mundo apenas definido pelas esquerdas e os mais jovens estão mais do que disponíveis para ouvir coisas novas que — em Portugal — só podem ser da direita clássica europeia</p>",
-         "link": "https://expresso.pt/opiniao/2026-01-15-psd-ou-muda-ou-morre-dd657a52",
-         "author": "Henrique Raposo",
+         "id": "cf2b3588-3a37-470e-a023-38f36b3a40fb",
+         "title": "Que raio de coisa é um liberal?",
+         "description": "<p>O Liberalismo é bastante mal tratado por muita gente que nem faz ideia do que se trata. E alguns até se acham liberais</p>",
+         "link": "https://expresso.pt/opiniao/2026-01-15-que-raio-de-coisa-e-um-liberal--c3f282d2",
+         "author": "Henrique Monteiro",
          "published": 1768517820000,
          "created": 1768517820000,
          "category": "Opinião",
@@ -161,35 +219,11 @@
          }
       },
       {
-         "id": "34bed58e-d925-4944-94fd-bbe10e93b368",
-         "title": "O embaraço presidencial",
-         "description": "<p>Falou-se de tudo, ou quase, muito pouco da Constituição. Foi uma campanha para chefe de Governo, não para chefe de Estado</p>",
-         "link": "https://expresso.pt/opiniao/2026-01-15-o-embaraco-presidencial-ba574fa7",
-         "author": "Luís Marques",
-         "published": 1768517820000,
-         "created": 1768517820000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "55c86b65-ddc5-44eb-87f5-703ff8bce504",
          "title": "Desordem e coesão",
          "description": "<p>Quem é capaz de exercer a magistratura suprema não como prolongamento da luta partidária, mas como garante da coesão nacional?</p>",
          "link": "https://expresso.pt/opiniao/2026-01-15-desordem-e-coesao-066c924d",
          "author": "Pedro Gomes Sanches",
-         "published": 1768517820000,
-         "created": 1768517820000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "e64f5c3a-fb34-457a-be61-3fad60c8ddb6",
-         "title": "Isto é Estado de direito?",
-         "description": "<p>Um Estado que deixa os seus cidadãos expostos à contingência, que os obriga a negociar o acesso a direitos que deviam ser certos, falha a sua promessa básica</p>",
-         "link": "https://expresso.pt/opiniao/2026-01-15-isto-e-estado-de-direito--ba941027",
-         "author": "Teresa Violante",
          "published": 1768517820000,
          "created": 1768517820000,
          "category": "Opinião",
