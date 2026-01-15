@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "3e5fd965-8a25-49b8-ae22-33160d57c299",
+         "title": "O que se passa na Venezuela?",
+         "description": "<p><span>Depois da captura do Presidente Nicolás Maduro, a Venezuela entrou num momento de grande instabilidade política, social e económica. </span><span>Este cenário está a afetar a vida de milhões de pessoas</span></p>",
+         "link": "https://expresso.pt/expressinho/2026-01-15-o-que-se-passa-na-venezuela--affacfbb",
+         "author": "Joana Leitão",
+         "published": 1768499568000,
+         "created": 1768499568000,
+         "category": "Expressinho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-nicolas-maduro.webp-95197b76/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-nicolas-maduro.webp-95197b76/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-15-nicolas-maduro.webp-95197b76/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "7db5ae3b-029f-4b22-8a41-07a663935d12",
          "title": "Loop Future tem €20 milhões para novas aquisições até 2028",
          "description": "<p>Com a compra na Suíça no final de 2025, a Loop Future, empresa que actua na área da tecnologia e soluções de software, fecha o ano com cinco aquisições</p>",
@@ -184,7 +213,7 @@
       },
       {
          "id": "2c76ba24-305d-48f8-8308-ce5932558cd2",
-         "title": "",
+         "title": "Operação Marquês: ex-assessor não sabe se Sócrates foi pago pelo grupo Lena para mover influências na Venezuela",
          "description": "<p><span>Vítor Escária foi também chefe de gabinete de António Costa, tendo-lhe sido apreendidos mais de 75 mil euros em notas guardadas no Palácio de Belém, no âmbito da Operação Influencer</span></p>",
          "link": "https://expresso.pt/sociedade/justica/2026-01-15-operacao-marques-ex-assessor-nao-sabe-se-socrates-foi-pago-pelo-grupo-lena-para-mover-influencias-na-venezuela-aff57421",
          "author": "Agência Lusa",
@@ -271,18 +300,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "cc5b197f-997d-41b2-b26a-3794e1563bb6",
-         "title": "Podfest Expresso by Toyota 3ª Ediçao",
-         "description": "<p><span>3.ª edição do Expresso Podfest by Toyota no próximo dia 27 de janeiro às 14h00, no Auditório da Universidade NOVA de Lisboa</span></p>",
-         "link": "https://expresso.pt/iniciativaseprodutos/2026-01-15-podfest-expresso-by-toyota-3-edicao-412b24c4",
-         "author": "Expresso",
-         "published": 1768492016000,
-         "created": 1768492016000,
-         "category": "Iniciativas e Produtos",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
