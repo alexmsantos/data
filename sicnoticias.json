@@ -101,8 +101,25 @@
          "published": 1768721863000,
          "created": 1768721863000,
          "category": "Mundo",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-01-18-fuselagem-aviao-indonesia.jpg-396d7576/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-01-18-fuselagem-aviao-indonesia.jpg-396d7576/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-01-18-fuselagem-aviao-indonesia.jpg-396d7576/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "0ba85667-3bd3-4205-8e17-9781b7d51f1b",
