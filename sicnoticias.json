@@ -43,8 +43,25 @@
          "published": 1768848485000,
          "created": 1768848485000,
          "category": "Mundo",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-05-14-uniao-europeia-bruxelas-369011f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-05-14-uniao-europeia-bruxelas-369011f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-05-14-uniao-europeia-bruxelas-369011f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "1290f561-07c6-4447-8a1f-9b36a8a5f030",
@@ -78,7 +95,7 @@
       {
          "id": "854318aa-8940-4b9a-b30c-0eb533b2ffc1",
          "title": "Haas revela monolugar com parceria reforçada da Toyota Gazoo Racing para a próxima temporada na Fórmula 1",
-         "description": "<p><span>A equipa norte-americana foi a segunda a revelar a </span><i><span>livery</span></i><span> dos seus monolugares para a temporada 2026 de Fórmula 1. A escuderia mantém a dupla de pilotos Esteban Ocon e Oliver Bearman, depois de ter terminado o campeonato anterior em 8.º lugar. </span></p>",
+         "description": "<p><span>A equipa norte-americana foi a segunda a revelar a </span><i><span>livery</span></i><span> dos seus monolugares para a temporada 2026 de Fórmula 1. A escuderia mantém a dupla de pilotos Esteban Ocon e Oliver Bearman, depois de ter terminado o campeonato anterior em 8.º lugar.</span></p>",
          "link": "https://sicnoticias.pt/especiais/formula-1/2026-01-19-haas-revela-monolugar-com-parceria-reforcada-da-toyota-gazoo-racing-para-a-proxima-temporada-na-formula-1-073a4d37",
          "author": "Mariana Jerónimo",
          "published": 1768848017000,
