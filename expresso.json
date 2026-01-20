@@ -39,7 +39,10 @@
          "title": "Um morto e pelo menos 14 feridos em acidente ferroviário em Barcelona",
          "description": "<p>Um comboio de passageiros colidiu com um muro de contenção que colapsou sobre os carris. O acidente ocorreu num dia de chuvas intensas em toda a Catalunha</p>",
          "link": "https://expresso.pt/internacional/europa/espanha/2026-01-20-um-morto-e-pelo-menos-14-feridos-em-acidente-ferroviario-em-barcelona-752fed87",
-         "author": "Agência Lusa",
+         "author": [
+            "Agência Lusa",
+            "Expresso"
+         ],
          "published": 1768945239000,
          "created": 1768945239000,
          "category": "Espanha",
