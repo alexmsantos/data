@@ -14,8 +14,25 @@
          "published": 1768945239000,
          "created": 1768945239000,
          "category": "Espanha",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-20-gettyimages-2252746583.jpg-68359b3f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-20-gettyimages-2252746583.jpg-68359b3f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-20-gettyimages-2252746583.jpg-68359b3f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "0f0de814-b706-4749-9642-9673ab22b70e",
