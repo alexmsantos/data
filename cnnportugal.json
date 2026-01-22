@@ -8,7 +8,9 @@
       {
          "title": " Novo acidente de comboio em Espanha ",
          "description": {
-            "img": "",
+            "img": {
+               "src": "https://img.iol.pt/image/id/588f79640cf2fb41491723ca/200.jpg"
+            },
             "$text": "  "
          },
          "link": "https://cnnportugal.iol.pt/geral/novo-acidente-de-comboio-em-espanha/20260122/69720dcbd34e0ec52ec2916e",
