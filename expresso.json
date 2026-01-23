@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "b4d9df9f-4756-4c7a-a18a-a0b74f9ae94a",
+         "title": "Circulação ferroviária suspensa na Linha do Minho após queda de árvore",
+         "description": "<p><span>A empresa já tinha alertado para eventuais constrangimentos à circulação de comboios devido ao agravamento do estado do tempo por causa dos efeitos da passagem da depressão Ingrid</span></p>",
+         "link": "https://expresso.pt/sociedade/meteorologia/2026-01-23-circulacao-ferroviaria-suspensa-na-linha-do-minho-apos-queda-de-arvore-168445f5",
+         "author": "Agência Lusa",
+         "published": 1769154694000,
+         "created": 1769154694000,
+         "category": "Tempo e Meteorologia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-22-linha-de-comboio.jpg-1b496415/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-22-linha-de-comboio.jpg-1b496415/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-22-linha-de-comboio.jpg-1b496415/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "75627ef6-1023-4f22-9596-a88dbc6434ab",
          "title": "Hidrogénio verde vai finalmente chegar a Sines: Galp prevê começar produção a partir de junho",
          "description": "<p>De acordo com a petrolífera, a nova unidade de 100 MW de eletrólise entrará em produção no segundo semestre e deverá produzir até 15 mil toneladas de hidrogénio renovável por ano</p>",
@@ -258,39 +287,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "aebaaa5c-1f42-4015-b294-9bed5b85d504",
-         "title": "Entrevista a André Ventura: “Não gosto do estilo errático de Trump”",
-         "description": "<p><span>O líder do Chega e candidato presidencial prefere Meloni ao Presidente dos EUA e defende o direito dos europeus a defenderem-se. Em entrevista ao Expresso, não garante que, se for eleito, cumpre a tradição de condecorar o Presidente cessante  </span></p>",
-         "link": "https://expresso.pt/politica/eleicoes/presidenciais-2026/2026-01-22-entrevista-a-andre-ventura-nao-gosto-do-estilo-erratico-de-trump-06059259",
-         "author": [
-            "João Pedro Henriques",
-            "Hélio Carvalho",
-            "José Fonseca Fernandes"
-         ],
-         "published": 1769122649000,
-         "created": 1769122649000,
-         "category": "Presidenciais 2026",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-01-22-09-andre-ventura-21012026-jff--1-.jpg-b7511f47/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-01-22-09-andre-ventura-21012026-jff--1-.jpg-b7511f47/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-01-22-09-andre-ventura-21012026-jff--1-.jpg-b7511f47/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
