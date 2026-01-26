@@ -6,6 +6,16 @@
    "category": "noticias.rtp.pt, Rss",
    "items": [
       {
+         "title": "Lei do lobby. Presidente da República promulga lei",
+         "description": " <img src=\"https://cdn-images.rtp.pt/icm/images/f7/f745e1e62151ecc9d1d14faec4908939_N.jpg?\"/>\n      O lóbi vai poder agora ser exercido por pessoas e empresas privadas junto das entidades públicas antes de tomadas de decisões políticas. ",
+         "link": "https://www.rtp.pt/noticias/politica/lei-do-lobby-presidente-da-republica-promulga-lei_v1713090",
+         "published": 1769461607000,
+         "created": 1769461607000,
+         "category": "Política",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "title": "Acesso às redes sociais. Macron quer proibição para menores de 15 anos",
          "description": " <img src=\"https://cdn-images.rtp.pt/icm/images/fa/fac651b1079a4bf942c6922cc9e763a1_N.jpg?\"/>\n      Emmanuel Macron pediu ao Parlamento e ao Senado para acelerarem a aprovação do projeto de lei que proíbe o acesso às redes sociais a menores de 15 anos.  ",
          "link": "https://www.rtp.pt/noticias/mundo/acesso-as-redes-sociais-macron-quer-proibicao-para-menores-de-15-anos_v1713089",
@@ -52,16 +62,6 @@
          "published": 1769460527000,
          "created": 1769460527000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "title": "Morte de Pedro Ferraz-Reis. Portugal manda equipa de investigação a Maputo",
-         "description": " <img src=\"https://cdn-images.rtp.pt/icm/images/4b/4bb161e87628317231e9e654442c03cd_N.jpg?\"/>\n      O Governo português enviou uma equipa para Maputo para investigar a morte do banqueiro Pedro Ferraz Reis. ",
-         "link": "https://www.rtp.pt/noticias/mundo/morte-de-pedro-ferraz-reis-portugal-manda-equipa-de-investigacao-a-maputo_v1713082",
-         "published": 1769460468000,
-         "created": 1769460468000,
-         "category": "Mundo",
          "enclosures": [],
          "media": {}
       },
@@ -198,10 +198,10 @@
       {
          "title": "Minuto Tático. Ventura contra as elites, Seguro contra a desmobilização",
          "description": " <img src=\"https://cdn-images.rtp.pt/icm/noticias/images/52/522f92dc453d92b1b46055fe45b9c07e?w=350&amp;q=50&amp;rect=0,9,1200,658&amp;auto=format\"/>\n      André Ventura a reenquadrar a campanha, pondo a tónica naquilo a que chama de elites contra ele.\n ",
-         "link": "https://www.rtp.pt/noticias/eleicoes-presidenciais-2026-minuto-tatico/minuto-tatico-ventura-contra-as-elites-seguro-contra-a-desmobilizacao_a1713063",
+         "link": "https://www.rtp.pt/noticias/eleicoes-presidenciais-2026/minuto-tatico-ventura-contra-as-elites-seguro-contra-a-desmobilizacao_a1713063",
          "published": 1769453589000,
          "created": 1769453589000,
-         "category": "Presidenciais 2026",
+         "category": "Presidenciais 2026 - Minuto Tático",
          "enclosures": [],
          "media": {}
       },
@@ -241,7 +241,7 @@
          "link": "https://www.rtp.pt/noticias/eleicoes-presidenciais-2026/rumo-a-belem-nada-cativo-ou-adquirido_a1713056",
          "published": 1769452155000,
          "created": 1769452155000,
-         "category": "Presidenciais 2026",
+         "category": "Presidenciais 2026 - Rumo a Belém",
          "enclosures": [],
          "media": {}
       },
@@ -271,7 +271,7 @@
          "link": "https://www.rtp.pt/noticias/eleicoes-presidenciais-2026-vamos-a-votos/vamos-a-votos-a-mim-ninguem-me-captura-seguro-feliz-com-apoios-e-ventura-desvaloriza_a1713057",
          "published": 1769452025000,
          "created": 1769452025000,
-         "category": "Presidenciais 2026",
+         "category": "Presidenciais 2026 - Vamos a Votos",
          "enclosures": [],
          "media": {}
       },
@@ -391,7 +391,7 @@
          "link": "https://www.rtp.pt/noticias/pais/habitacao-e-turismo-portugueses-na-mira-de-empresarios-sauditas_n1713013",
          "published": 1769445989000,
          "created": 1769445989000,
-         "category": "Economia",
+         "category": "País",
          "enclosures": [],
          "media": {}
       },
@@ -491,7 +491,7 @@
          "link": "https://www.rtp.pt/noticias/eleicoes-presidenciais-2026/manual-de-campanha-o-que-esta-mesmo-em-jogo-nestas-eleicoes_a1712948",
          "published": 1769440984000,
          "created": 1769440984000,
-         "category": "Presidenciais 2026",
+         "category": "Presidenciais 2026 - Manual de Campanha",
          "enclosures": [],
          "media": {}
       },
