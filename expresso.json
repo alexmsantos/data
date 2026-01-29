@@ -14,8 +14,25 @@
          "published": 1769642044000,
          "created": 1769642044000,
          "category": "Economia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-22-af-sata-7915_t-_idp.jpg-dcc639d7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-10-22-af-sata-7915_t-_idp.jpg-dcc639d7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-10-22-af-sata-7915_t-_idp.jpg-dcc639d7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "c68d653b-16e3-43fb-a058-8c4f32212ff6",
