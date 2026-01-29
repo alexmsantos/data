@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "8e42c4cd-9779-4535-adca-6a1374a4c77d",
+         "title": "Belle and Sebastian em Lisboa no verão",
+         "description": "<p>A banda escocesa traz a Portugal a sua digressão de 30º aniversário do álbum “If You're Feeling Sinister”, que irá tocar na íntegra</p>",
+         "link": "https://expresso.pt/blitz/2026-01-29-belle-and-sebastian-em-lisboa-no-verao-413577b1",
+         "author": "Expresso",
+         "published": 1769679816000,
+         "created": 1769679816000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-09-01-_RC02214_ritacarmo.jpg-3ed72cdb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-09-01-_RC02214_ritacarmo.jpg-3ed72cdb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-09-01-_RC02214_ritacarmo.jpg-3ed72cdb/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "42915eb3-2472-47c4-9816-4ac3fae4e7d8",
          "title": "“Antes de se comprar uma casa devemos ir lá durante a noite e perceber como é a dinâmica aos fins de semana”",
          "description": "<p>Um dos vários conselhos dados por Patrícia Barão no mais recente episódio de ‘Chica Esperta’.</p>",
@@ -239,38 +268,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "6bc7fc91-fc26-4224-9116-c8c8255f69f3",
-         "title": "Porque foi tão violenta a tempestade Kristin? Devemos esperar outras iguais do comboio de tempestades que está no Atlântico?",
-         "description": "<p>A tempestade Kristin fez cinco mortos e causou muitos estragos, sobretudo na zona centro do país. No Expresso da Manhã, Paulo Baldaia conversa com o climatologista e fundador da Planoclima, Mário Marques</p>",
-         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-01-29-porque-foi-tao-violenta-a-tempestade-kristin--devemos-esperar-outras-iguais-do-comboio-de-tempestades-que-esta-no-atlantico--de315f99",
-         "author": [
-            "Paulo Baldaia",
-            "Gustavo Carvalho"
-         ],
-         "published": 1769671800000,
-         "created": 1769671800000,
-         "category": "Expresso da Manhã",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
