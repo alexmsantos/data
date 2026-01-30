@@ -7,9 +7,9 @@
    "items": [
       {
          "id": "073421d8-2901-4556-ae31-15ecf4d235f7",
-         "title": "Declaração de situação de calamidade \"não teria acrescentado nada às respostas que foram dadas\" ontem, diz Leitão Amaro",
-         "description": "<p>O ministro da Presidência elogiou a liderança da ministra da Administração Interna face à situação provocada pela tempestade Kristin e confirmou esta noite, na SIC Notícias, que serão disponibilizadsa verbas para apoiar quem sofreu prejuízos. Governo vai procurar também conseguir apoio europeu</p>",
-         "link": "https://expresso.pt/sociedade/meteorologia/2026-01-30-declaracao-de-situacao-de-calamidade-nao-teria-acrescentado-nada-as-respostas-que-foram-dadas-ontem-diz-leitao-amaro-2f807d7b",
+         "title": "Declaração de situação de calamidade \"não teria acrescentado nada às respostas que foram dadas\", diz Leitão Amaro",
+         "description": "<p><span>O ministro da Presidência elogiou a liderança da ministra da Administração Interna face à situação provocada pela tempestade Kristin e confirmou esta noite, na SIC Notícias, que serão disponibilizadas verbas para apoiar quem sofreu prejuízos. Governo vai procurar também conseguir apoio europeu</span></p>",
+         "link": "https://expresso.pt/sociedade/meteorologia/2026-01-30-declaracao-de-situacao-de-calamidade-nao-teria-acrescentado-nada-as-respostas-que-foram-dadas-diz-leitao-amaro-2f807d7b",
          "author": "Expresso",
          "published": 1769734111000,
          "created": 1769734111000,
@@ -122,35 +122,6 @@
          }
       },
       {
-         "id": "5da9d34e-399d-4de7-8219-289a74954c5d",
-         "title": "A primeira página do Expresso",
-         "description": "",
-         "link": "https://expresso.pt/semanario/primeiro",
-         "author": "Expresso",
-         "published": 1769727600000,
-         "created": 1769727600000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-01-29-pc_2779.jpg-f5a1535e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-01-29-pc_2779.jpg-f5a1535e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-01-29-pc_2779.jpg-f5a1535e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "6118faf3-0015-431c-bdb5-b7359880fe89",
          "title": "IDEIAS: Quando os primeiros podem ser últimos",
          "description": "",
@@ -174,6 +145,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-01-29-id_2779.jpg-21cc6460/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "5da9d34e-399d-4de7-8219-289a74954c5d",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro",
+         "author": "Expresso",
+         "published": 1769727600000,
+         "created": 1769727600000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-29-pc_2779.jpg-f5a1535e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-29-pc_2779.jpg-f5a1535e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-29-pc_2779.jpg-f5a1535e/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
