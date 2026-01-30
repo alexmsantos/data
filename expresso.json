@@ -122,35 +122,6 @@
          }
       },
       {
-         "id": "6118faf3-0015-431c-bdb5-b7359880fe89",
-         "title": "IDEIAS: Quando os primeiros podem ser últimos",
-         "description": "",
-         "link": "https://expresso.pt/semanario/ideias",
-         "author": "Expresso",
-         "published": 1769727600000,
-         "created": 1769727600000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-01-29-id_2779.jpg-21cc6460/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-01-29-id_2779.jpg-21cc6460/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-01-29-id_2779.jpg-21cc6460/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "5da9d34e-399d-4de7-8219-289a74954c5d",
          "title": "A primeira página do Expresso",
          "description": "",
@@ -174,6 +145,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-01-29-pc_2779.jpg-f5a1535e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "6118faf3-0015-431c-bdb5-b7359880fe89",
+         "title": "IDEIAS: Quando os primeiros podem ser últimos",
+         "description": "",
+         "link": "https://expresso.pt/semanario/ideias",
+         "author": "Expresso",
+         "published": 1769727600000,
+         "created": 1769727600000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-29-id_2779.jpg-21cc6460/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-29-id_2779.jpg-21cc6460/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-29-id_2779.jpg-21cc6460/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
