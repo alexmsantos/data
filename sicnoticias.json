@@ -14,8 +14,25 @@
          "published": 1770287681000,
          "created": 1770287681000,
          "category": "Mundo",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-02-05-20260202-l1041001-06rp-resized.jpg-2bad947f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-02-05-20260202-l1041001-06rp-resized.jpg-2bad947f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-02-05-20260202-l1041001-06rp-resized.jpg-2bad947f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "93d25754-55cb-4472-a6ea-31620f6fe957",
