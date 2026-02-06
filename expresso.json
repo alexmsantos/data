@@ -14,8 +14,25 @@
          "published": 1770380393000,
          "created": 1770380393000,
          "category": "Tempestades",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-04-depressao-kristin-vieira-de-leiria---d726dae7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-04-depressao-kristin-vieira-de-leiria---d726dae7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-04-depressao-kristin-vieira-de-leiria---d726dae7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "d48541f0-c912-4946-8e57-459052efe517",
