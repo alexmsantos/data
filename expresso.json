@@ -14,8 +14,25 @@
          "published": 1770558015000,
          "created": 1770558015000,
          "category": "Internacional",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2016-07-12-Choque-Italia-comboios/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2016-07-12-Choque-Italia-comboios/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2016-07-12-Choque-Italia-comboios/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "2cbdd16a-6b06-4fdf-a116-188c5c03bda1",
@@ -90,19 +107,19 @@
          "category": "Presidenciais 2026",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2026-01-18-foto-geral-dia-eleitoral-presidenciais-votacoes-urna-de-voto-4235cc1f/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2026-01-28-foto-geral-votacoes-urna-de-voto-36c4ac18-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2026-01-18-foto-geral-dia-eleitoral-presidenciais-votacoes-urna-de-voto-4235cc1f/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2026-01-28-foto-geral-votacoes-urna-de-voto-36c4ac18-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-01-18-foto-geral-dia-eleitoral-presidenciais-votacoes-urna-de-voto-4235cc1f/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2026-01-28-foto-geral-votacoes-urna-de-voto-36c4ac18-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
