@@ -17,8 +17,25 @@
          "published": 1770675603000,
          "created": 1770675603000,
          "category": "Presidenciais 2026",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-09-noite-eleitoral-andre-ventura--16-.jpg-bdf02f46/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-09-noite-eleitoral-andre-ventura--16-.jpg-bdf02f46/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-09-noite-eleitoral-andre-ventura--16-.jpg-bdf02f46/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "8d366d24-d58a-490a-a61d-28028949f683",
@@ -113,7 +130,7 @@
       {
          "id": "3d73214d-2fce-404f-b3da-fd2971bd1480",
          "title": "Seguro e Marcelo reuniram-se pela primeira vez e demoraram três horas e meia: \"Reunião foi muito cordial\"",
-         "description": "<p><span>Marcelo diz que reunião decorreu num \"ambiente muito cordial\" e que falaram de assuntos que serão \"prioritários\" para Seguro. </span><span>O Presidente da República em funções e o Presidente eleito estiveram reunidos esta tarde no Palácio de Belém, em Lisboa</span></p>",
+         "description": "<p>Marcelo diz que reunião decorreu num \"ambiente muito cordial\" e que falaram de assuntos que serão \"prioritários\" para Seguro. O Presidente da República em funções e o Presidente eleito estiveram reunidos esta tarde no Palácio de Belém, em Lisboa</p>",
          "link": "https://expresso.pt/politica/eleicoes/presidenciais-2026/2026-02-09-seguro-e-marcelo-reuniram-se-pela-primeira-vez-e-demoraram-tres-horas-e-meia-reuniao-foi-muito-cordial-20f55ad2",
          "author": [
             "Hélio Carvalho",
