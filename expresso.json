@@ -14,8 +14,25 @@
          "published": 1770887789000,
          "created": 1770887789000,
          "category": "Tempestades",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-12-a1-viaduto-tempestade-e52733c9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-12-a1-viaduto-tempestade-e52733c9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-12-a1-viaduto-tempestade-e52733c9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "149b104c-b69f-4666-a093-e582aa262ee8",
