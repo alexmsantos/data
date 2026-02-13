@@ -18,8 +18,25 @@
          "published": 1770937623000,
          "created": 1770937623000,
          "category": "Grande Reportagem SIC",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-02-12-carne.jpg-09ff3673/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-02-12-carne.jpg-09ff3673/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-02-12-carne.jpg-09ff3673/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "090de82c-cb52-4a0a-bdbf-f8ea5c5f5efc",
