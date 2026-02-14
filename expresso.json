@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "1d17b8ac-ec62-4f66-83cf-ead4b4a9cb84",
+         "title": "Primeiro dia de sol num país inundado e onde muito o vento levou: Portugal começa a recompor-se após o comboio de tempestades",
+         "description": "<p>O país respirou o primeiro sopro de sol após dias de tempestades. Apesar do alívio meteorológico, muitas zonas continuam inundadas e isoladas. Em Coimbra, as populações que vivem em zonas ainda alagadas “não devem regressar a casa” para já. A reconstrução será lenta e exigirá cuidado e coordenação</p>",
+         "link": "https://expresso.pt/sociedade/meteorologia/tempestades/2026-02-14-primeiro-dia-de-sol-num-pais-inundado-e-onde-muito-o-vento-levou-portugal-comeca-a-recompor-se-apos-o-comboio-de-tempestades-2310e2cb",
+         "author": "André Manuel Correia",
+         "published": 1771096340000,
+         "created": 1771096340000,
+         "category": "Tempestades",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-13-cheias-coimbra-944f4876/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-13-cheias-coimbra-944f4876/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-13-cheias-coimbra-944f4876/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "e80bac19-f418-4998-9dfc-f6e4c89d13a2",
          "title": "Descodificador: Patrões podem alterar as funções do trabalhador?",
          "description": "<p>Lei prevê a mobilidade funcional, mas sempre com carácter temporário</p>",
@@ -234,35 +263,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "01afc20f-070e-433a-bf5c-242a05c01cf8",
-         "title": "Praias do Algarve sofrem com tempestades: multiplicam-se as derrocadas de arribas",
-         "description": "<p>Semanas de mau tempo e agitação marítima agravaram a erosão costeira em várias praias do Algarve. Além da perda de areia, as derrocadas de arribas têm-se multiplicado</p>",
-         "link": "https://expresso.pt/sociedade/meteorologia/2026-02-14-praias-do-algarve-sofrem-com-tempestades-multiplicam-se-as-derrocadas-de-arribas-137e7f57",
-         "author": "SIC Notícias",
-         "published": 1771087368000,
-         "created": 1771087368000,
-         "category": "Tempo e Meteorologia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-02-14-praia-algarve-48db461f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-02-14-praia-algarve-48db461f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-02-14-praia-algarve-48db461f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
