@@ -101,9 +101,12 @@
       {
          "id": "269d55b6-52ab-4073-9e55-49e04a9db8e8",
          "title": "Homem morre após ter sido baleado em rixa na Cova da Moura",
-         "description": "<p><span>O homem de 35 anos morreu já no Hospital Amadora-Sintra.</span><span> Além da vítima mortal, um </span><span>menor ficou ferido </span><span>durante a rixa no bairro da Cova da Moura, na Amadora, e também foi hospitalizado.</span></p>",
+         "description": "<p><span>O homem morreu já no Hospital Amadora-Sintra.</span><span> Além da vítima mortal, um </span><span>menor ficou ferido </span><span>durante a rixa no bairro da Cova da Moura, na Amadora, e também foi hospitalizado.</span></p>",
          "link": "https://sicnoticias.pt/pais/2026-02-15-homem-morre-apos-ter-sido-baleado-em-rixa-na-cova-da-moura-cbcb3155",
-         "author": "SIC Notícias",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1771152865000,
          "created": 1771152865000,
          "category": "País",
