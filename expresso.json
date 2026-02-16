@@ -43,8 +43,25 @@
          "published": 1771278355000,
          "created": 1771278355000,
          "category": "Estados Unidos",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-16-gettyimages-2251794634.jpg-297c5930/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-16-gettyimages-2251794634.jpg-297c5930/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-16-gettyimages-2251794634.jpg-297c5930/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "aec0f935-19c3-4c37-ad03-5a42ce665831",
