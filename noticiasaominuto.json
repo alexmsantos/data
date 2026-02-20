@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2942900/paris-pessoas-retiradas-de-predios-e-instituicoes-apos-ameacas-de-bomba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Paris: Pessoas retiradas de prédios e instituições após ameaças de bomba",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2942900/paris-pessoas-retiradas-de-predios-e-instituicoes-apos-ameacas-de-bomba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771627644000,
+         "created": 1771627644000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6998e48f45e55.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2942897/ptrr-e-plano-de-intencoes-quando-ja-deveria-ser-de-acao-diz-carneiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PTRR é \"plano de intenções\" quando já deveria ser \"de ação\", diz Carneiro",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67521f9303f09.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/2941607/u2-lancam-novas-musicas-que-incluem-criticas-a-putin-e-ao-ice#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "U2 lançam novas músicas que incluem críticas a Putin e ao ICE",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/cultura/2941607/u2-lancam-novas-musicas-que-incluem-criticas-a-putin-e-ao-ice#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771483834000,
-         "created": 1771483834000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5b9fe40600c61.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzQ1LCJjcm9wSGVpZ2h0IjoxMzE5LCJjcm9wWCI6NjEsImNyb3BZIjoyNTR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyMCwiY3JvcEhlaWdodCI6MTYzNSwiY3JvcFgiOjU0MiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
