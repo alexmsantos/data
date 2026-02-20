@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "1c34e678-03bd-405a-9aeb-c671875f90c0",
+         "title": "Depois das tempestades: “O maior erro foi não termos construído bem. A maior parte dos danos foram em construções mais vulneráveis”",
+         "description": "<p>Nas últimas semanas, Portugal sentiu de forma intensa o impacto de fenómenos climáticos extremos - da tempestade Kristin, às cheias e inundações que afetaram várias regiões do país. Perante esta realidade, é inevitável questionar-nos: As nossas casas estão preparadas para resistir a eventos cada vez mais frequentes e intensos? E que lições retiramos, do ponto de vista técnico, de planeamento e construção, dos acontecimentos em várias zonas do país? Oiça aqui o podcast</p>",
+         "link": "https://expresso.pt/podcasts/chave-na-mao/2026-02-20-depois-das-tempestades-o-maior-erro-foi-nao-termos-construido-bem.-a-maior-parte-dos-danos-foram-em-construcoes-mais-vulneraveis-e51ef54a",
+         "author": [
+            "Rita Neves",
+            "Tomás Delfim"
+         ],
+         "published": 1771571400000,
+         "created": 1771571400000,
+         "category": "Chave na mão",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-04-09-Chave-na-mao---3x2-12-M.jpg-b668c174/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-04-09-Chave-na-mao---3x2-12-M.jpg-b668c174/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-04-09-Chave-na-mao---3x2-12-M.jpg-b668c174/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "a6a1116c-a5d1-4edc-b754-a7e53d2083cd",
          "title": "D.A.M.A.: “The industry was saying we were one hit wonders. then we had a second hit, then a third. People didn’t know how strong our bond w",
          "description": "<p><span>Miguel Cristovinho (Cristo) and Miguel Coimbra, two of the three members of the band D.A.M.A., sit down for a conversation with Tony Gonçalves on the podcast “The Heart & Hustle of Portugal”</span></p>",
@@ -227,18 +259,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "2dbed3fc-6430-4b04-b52d-48b37501c8f4",
-         "title": "Corrupção e democracia: a ilusão populista",
-         "description": "<p>O populismo não chega de fora a uma democracia saudável — cresce dentro da erosão liberal e alimenta-se dela</p>",
-         "link": "https://expresso.pt/opiniao/2026-02-19-corrupcao-e-democracia-a-ilusao-populista-882a7764",
-         "author": "Teresa Violante",
-         "published": 1771541820000,
-         "created": 1771541820000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
