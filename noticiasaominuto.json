@@ -1,10 +1,73 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2942502/glovo-defende-legalidade-de-pagamentos-apos-acusacao-de-exploracao-em-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Glovo defende legalidade de pagamentos após acusação de exploração em Itália",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2942502/glovo-defende-legalidade-de-pagamentos-apos-acusacao-de-exploracao-em-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771593016000,
+         "created": 1771593016000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_661432a33077a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDcwLCJjcm9wSGVpZ2h0IjoxMzg5LCJjcm9wWCI6NDIsImNyb3BZIjo0OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTU4LCJjcm9wSGVpZ2h0IjoxNzAzLCJjcm9wWCI6MTE2MywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2942452/provedora-da-ue-destaca-resposta-construtiva-de-bruxelas-a-3-inqueritos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Provedora da UE destaca \"resposta construtiva\" de Bruxelas a 3 inquéritos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2942452/provedora-da-ue-destaca-resposta-construtiva-de-bruxelas-a-3-inqueritos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771592975000,
+         "created": 1771592975000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_674ed0bacbbde.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDUxLCJjcm9wSGVpZ2h0IjoxMzc5LCJjcm9wWCI6MzIsImNyb3BZIjo0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTkxLCJjcm9wSGVpZ2h0IjoxNzYxLCJjcm9wWCI6NDY1LCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2942506/psp-detem-suspeito-de-trafico-com-210-doses-de-haxixe-na-guarda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PSP detém suspeito de tráfico com 210 doses de haxixe na Guarda",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/2942506/psp-detem-suspeito-de-trafico-com-210-doses-de-haxixe-na-guarda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771592861000,
+         "created": 1771592861000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6706335d161a9.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQxMywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2942517/mais-de-5000-mulheres-morreram-e-14-mil-foram-feridas-na-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mais de 5.000 mulheres morreram e 14 mil foram feridas na Ucrânia",
@@ -14636,69 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_68d70a231d6fa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6ODQ0LCJjcm9wWSI6MH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2941315/quase-3-em-cada-4-angolanos-tiveram-dificuldade-em-alimentar-se-em-2023#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quase 3 em cada 4 angolanos tiveram dificuldade em alimentar-se em 2023",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2941315/quase-3-em-cada-4-angolanos-tiveram-dificuldade-em-alimentar-se-em-2023#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771429591000,
-         "created": 1771429591000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/38454923.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg5LCJjcm9wSGVpZ2h0IjoxNDAwLCJjcm9wWCI6MjQsImNyb3BZIjoyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTU0MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2941299/coordenador-da-estrutura-de-missao-defende-livro-branco-do-dano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Coordenador da Estrutura de Missão defende Livro Branco do Dano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2941299/coordenador-da-estrutura-de-missao-defende-livro-branco-do-dano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771429544000,
-         "created": 1771429544000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6990ca1b77b0e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1N319",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2941313/icad-alerta-para-aumento-de-consumo-de-crack-nas-prisoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ICAD alerta para aumento de consumo de crack nas prisões",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2941313/icad-alerta-para-aumento-de-consumo-de-crack-nas-prisoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771429523000,
-         "created": 1771429523000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/44285477.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTExNiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
