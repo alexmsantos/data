@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2943079/carneiro-diz-que-povo-tem-direito-de-saber-o-que-se-passa-nas-lajes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Carneiro diz que \"povo tem direito de saber\" o que se passa nas Lajes",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/2943079/carneiro-diz-que-povo-tem-direito-de-saber-o-que-se-passa-nas-lajes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771679027000,
+         "created": 1771679027000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68554be6aa13e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjE0OH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2942078/esta-receita-facil-de-arroz-de-marisco-prepara-se-em-15-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Esta receita fácil de arroz de marisco prepara-se em 15 minutos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6723740b94407.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MDEsImNyb3BIZWlnaHQiOjUwNywiY3JvcFgiOjUxLCJjcm9wWSI6MjR9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2941845/relacao-condena-vereador-da-camara-da-maia-a-prisao-suspensa-por-peculato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Relação condena vereador da Câmara da Maia a prisão suspensa por peculato",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2941845/relacao-condena-vereador-da-camara-da-maia-a-prisao-suspensa-por-peculato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771505657000,
-         "created": 1771505657000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6814ecde8ccdc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEzLCJjcm9wWSI6NTU3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDksImNyb3BIZWlnaHQiOjE2ODgsImNyb3BYIjoxMjQ3LCJjcm9wWSI6MjF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
