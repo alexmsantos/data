@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2943108/menino-de-12-anos-perde-autocarro-e-vai-sozinho-de-carro-para-a-escola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Menino de 12 anos perde autocarro e vai (sozinho) de carro para a escola",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2943108/menino-de-12-anos-perde-autocarro-e-vai-sozinho-de-carro-para-a-escola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771687287000,
+         "created": 1771687287000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6999cb50d8947.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDAwLCJjcm9wSGVpZ2h0IjoxMTI1LCJjcm9wWCI6MCwiY3JvcFkiOjEwOTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE2NjQsImNyb3BIZWlnaHQiOjI5NTksImNyb3BYIjoxNTUsImNyb3BZIjo0MX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2943106/cesar-peixoto-confiante-estoril-vai-causar-muitos-problemas-mas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "César Peixoto confiante: \"Estoril vai causar muitos problemas, mas...\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707aeffa3d21.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N319",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2941894/sismo-o-impacto-nos-animais-de-estimacao-e-como-acalma-los#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sismo. O impacto nos animais de estimação e como acalmá-los",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2941894/sismo-o-impacto-nos-animais-de-estimacao-e-como-acalma-los#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771509190000,
-         "created": 1771509190000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69971445ee56e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDYxLCJjcm9wSGVpZ2h0IjoxMzg0LCJjcm9wWCI6MCwiY3JvcFkiOjIxNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6ODE4LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
