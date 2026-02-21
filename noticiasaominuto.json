@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2943219/cristiano-ronaldo-bisa-e-al-nassr-sobe-a-lideranca-com-ajuda-de-conceicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cristiano Ronaldo bisa e Al Nassr sobe à liderança com ajuda de Conceição",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2943219/cristiano-ronaldo-bisa-e-al-nassr-sobe-a-lideranca-com-ajuda-de-conceicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771707674000,
+         "created": 1771707674000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699a159c6fcb0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjI2LCJjcm9wSGVpZ2h0IjoxMjUyLCJjcm9wWCI6NTQsImNyb3BZIjo2M319",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2943223/venezuela-80-presos-politicos-libertados-no-ambito-de-lei-de-amnistia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Venezuela. 80 presos políticos libertados no âmbito de lei de amnistia",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/46557257.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjgwfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2942046/montenegro-anuncia-criacao-de-fundo-de-calamidade-no-ambito-do-ptrr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Montenegro anuncia criação de fundo de calamidade no âmbito do PTRR",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2942046/montenegro-anuncia-criacao-de-fundo-de-calamidade-no-ambito-do-ptrr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771521778000,
-         "created": 1771521778000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46600033.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU4LCJjcm9wSGVpZ2h0IjoxNDM5LCJjcm9wWCI6MCwiY3JvcFkiOjI0NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTE0LCJjcm9wSGVpZ2h0IjoxNjI1LCJjcm9wWCI6MTI0OSwiY3JvcFkiOjgyfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
