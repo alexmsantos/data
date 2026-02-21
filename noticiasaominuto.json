@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2943117/ucrania-ataca-fabrica-de-misseis-balisticos-russa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ucrânia ataca fábrica de mísseis balísticos russa",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2943117/ucrania-ataca-fabrica-de-misseis-balisticos-russa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771689806000,
+         "created": 1771689806000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6935980a5e8c3.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2943118/maritimo-b-bate-sporting-b-e-continua-na-lideranca-isolada-da-ii-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Marítimo bate Sporting B e continua na liderança isolada da II Liga",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/26475628.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE5MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2941795/professores-com-15-anos-a-prazo-violam-diretivas-da-ue-diz-fenprof#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Professores com 15 anos a prazo violam diretivas da UE, diz Fenprof",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2941795/professores-com-15-anos-a-prazo-violam-diretivas-da-ue-diz-fenprof#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771510551000,
-         "created": 1771510551000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6834a1d8c655c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjIwLCJjcm9wSGVpZ2h0Ijo5MTEsImNyb3BYIjowLCJjcm9wWSI6NTV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
