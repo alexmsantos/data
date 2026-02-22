@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2943467/encontrada-segunda-embarcacao-no-rio-mira-com-jerricas-de-combustivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Encontrada segunda embarcação no rio Mira com jerricãs de combustível",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2943467/encontrada-segunda-embarcacao-no-rio-mira-com-jerricas-de-combustivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771784686000,
+         "created": 1771784686000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e7d01e70a251.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2943466/partidos-tentam-acordo-sobre-conselho-de-estado-tc-e-provedor-de-justica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Partidos tentam acordo sobre Conselho de Estado, TC e Provedor de Justiça",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69275f9b1d944.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2942290/canada-encerra-2025-com-o-maior-defice-comercial-desde-2020#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Canadá encerra 2025 com o maior défice comercial desde 2020",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2942290/canada-encerra-2025-com-o-maior-defice-comercial-desde-2020#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771571221000,
-         "created": 1771571221000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_56a406371b3c8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNjg1LCJjcm9wSGVpZ2h0IjoxNTEwLCJjcm9wWCI6NzksImNyb3BZIjoyNzN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
