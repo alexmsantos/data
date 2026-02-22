@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2943340/benfica-sorri-e-coloca-pressao-sobre-sporting-fc-porto-vira-jogo-e-vence#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Benfica sorri e coloca pressão sobre Sporting. FC Porto vira jogo e vence",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2943340/benfica-sorri-e-coloca-pressao-sobre-sporting-fc-porto-vira-jogo-e-vence#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771751564000,
+         "created": 1771751564000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699ac8c8917a1.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2943336/pai-do-cavaleiro-francisco-palha-encontrado-morto-em-samora-correia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pai do cavaleiro Francisco Palha encontrado morto em Samora Correia",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/45107978.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2942029/miguel-oliveira-anteve-temporada-nas-superbikes-sei-onde-estou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Miguel Oliveira antevê temporada nas Superbikes: \"Sei onde estou...\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2942029/miguel-oliveira-anteve-temporada-nas-superbikes-sei-onde-estou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771531393000,
-         "created": 1771531393000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69973abd75e2b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUzLCJjcm9wSGVpZ2h0IjoxNjk0LCJjcm9wWCI6MTEyMiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
