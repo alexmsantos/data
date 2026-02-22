@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2942761/google-lanca-versao-mais-avancada-do-modelo-gemini#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Google lança versão mais avançada do modelo Gemini",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2942761/google-lanca-versao-mais-avancada-do-modelo-gemini#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771747218000,
+         "created": 1771747218000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69989bcf3e0fe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQwLCJjcm9wSGVpZ2h0IjoxNDI4LCJjcm9wWCI6OSwiY3JvcFkiOjEzOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQyLCJjcm9wSGVpZ2h0IjoxNjc0LCJjcm9wWCI6NzYyLCJjcm9wWSI6MTN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2922105/seca-sem-igual-jogou-9-anos-no-sporting-e-nunca-marcou-na-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "'Seca' sem igual. Jogou 9 anos no Sporting... e nunca marcou na I Liga",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/25032123.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2941719/veio-o-diagnostico-estava-acima-do-peso-a-miuda-gira-morreu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Veio o diagnóstico, estava acima do peso. A miúda gira morreu\" ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2941719/veio-o-diagnostico-estava-acima-do-peso-a-miuda-gira-morreu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771529082000,
-         "created": 1771529082000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6996d638cc842.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwOCwiY3JvcEhlaWdodCI6MTA4MCwiY3JvcFgiOjMwMywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
