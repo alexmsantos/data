@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2943482/cerca-de-10-pessoas-tem-de-abandonar-as-casas-devido-a-incendio-em-obidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cerca de 10 pessoas têm de abandonar as casas devido a incêndio em Óbidos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2943482/cerca-de-10-pessoas-tem-de-abandonar-as-casas-devido-a-incendio-em-obidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771786625000,
+         "created": 1771786625000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46620476.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2943473/de-bis-em-bis-arsenal-vence-tottenham-no-derbi-e-descola-no-topo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "De bis em bis, Arsenal vence Tottenham no dérbi e descola no topo",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69980ddaabf7e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4MzEsImNyb3BIZWlnaHQiOjQ2OCwiY3JvcFgiOjAsImNyb3BZIjoyNDJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2942289/detetada-pela-primeira-vez-poluicao-atmosferica-provocada-por-foguetao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Detetada pela primeira vez poluição atmosférica provocada por foguetão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2942289/detetada-pela-primeira-vez-poluicao-atmosferica-provocada-por-foguetao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771572782000,
-         "created": 1771572782000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69980dd2ebdd7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEwLCJjcm9wSGVpZ2h0IjoxNDEyLCJjcm9wWCI6MjIsImNyb3BZIjo3OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQyLCJjcm9wSGVpZ2h0IjoxNjc1LCJjcm9wWCI6ODk2LCJjcm9wWSI6MTZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
