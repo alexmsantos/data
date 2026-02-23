@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2943568/casa-branca-confirma-apoio-na-operacao-que-abateu-lider-de-cartel-mexicano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Casa Branca confirma apoio na operação que abateu líder de cartel mexicano",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2943568/casa-branca-confirma-apoio-na-operacao-que-abateu-lider-de-cartel-mexicano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771827769000,
+         "created": 1771827769000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/20563799.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2943583/mne-discutem-20-pacote-de-sancoes-a-russia-e-colonatos-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "MNE discutem 20.º pacote de sanções à Rússia e colonatos na Cisjordânia",
@@ -78,11 +99,11 @@
          },
          "published": 1771827180000,
          "created": 1771827180000,
-         "category": "País",
+         "category": "Economia",
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46214136.webp",
+               "url": "https://media-manager.noticiasaominuto.com/1920/46214136.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDk0LCJjcm9wSGVpZ2h0IjoxNDAzLCJjcm9wWCI6MzAsImNyb3BZIjo3OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTIxMSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_699835aa0e78e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjYzLCJjcm9wSGVpZ2h0Ijo3MTEsImNyb3BYIjo3LCJjcm9wWSI6MzV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjcwNiwiY3JvcEhlaWdodCI6MTI1NSwiY3JvcFgiOjIyMCwiY3JvcFkiOjh9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2942416/4500-clientes-da-e-redes-sem-energia-na-zona-mais-afetada-pela-depressao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "4.500 clientes da E-Redes sem energia na zona mais afetada pela depressão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2942416/4500-clientes-da-e-redes-sem-energia-na-zona-mais-afetada-pela-depressao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771582940000,
-         "created": 1771582940000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_698ca203e1819.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc2LCJjcm9wSGVpZ2h0IjoxMzkzLCJjcm9wWCI6NDIsImNyb3BZIjo3Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTMzNiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
