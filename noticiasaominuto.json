@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2943719/siria-forcas-norte-americanas-saem-em-marco-avanca-france-presse#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Síria? Forças norte-americanas saem em Março, avança France-Presse",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2943719/siria-forcas-norte-americanas-saem-em-marco-avanca-france-presse#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771845339000,
+         "created": 1771845339000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6755a0f8743e1.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2943726/openai-prepara-lancamento-de-coluna-inteligente-para-o-comeco-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OpenAI prepara lançamento de coluna inteligente para o começo de 2027",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6989c175cc1ae.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjc2MywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2942603/comissao-proposta-pelo-psd-baixa-sem-votacao-e-quer-acompanhar-ptrr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Comissão proposta pelo PSD baixa sem votação e quer acompanhar PTRR",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/2942603/comissao-proposta-pelo-psd-baixa-sem-votacao-e-quer-acompanhar-ptrr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771597459000,
-         "created": 1771597459000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_697b5cbcc0cbe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTU0LCJjcm9wSGVpZ2h0IjoxMDk5LCJjcm9wWCI6NTgsImNyb3BZIjoxODh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjMxNiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
