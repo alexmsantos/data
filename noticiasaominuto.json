@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2944570/robotaxi-da-tesla-tem-taxa-de-acidentes-pior-que-condutores-humanos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Robotáxi da Tesla tem taxa de acidentes pior que condutores humanos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2944570/robotaxi-da-tesla-tem-taxa-de-acidentes-pior-que-condutores-humanos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1771946683000,
+         "created": 1771946683000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699dbcb8728d0.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2944588/mp-brasileiro-pede-condenacao-de-acusados-de-mandar-matar-marielle#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "MP brasileiro pede condenação de acusados de mandar matar Marielle",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6990ac3435764.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2943414/pj-investiga-embarcacao-encalhada-no-rio-mira-e-sem-tripulantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PJ investiga embarcação encalhada no rio Mira e sem tripulantes",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2943414/pj-investiga-embarcacao-encalhada-no-rio-mira-e-sem-tripulantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771772029000,
-         "created": 1771772029000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64943f633ed2f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMDN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQxNiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
