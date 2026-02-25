@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "189340c7-d55b-4466-99c4-3ad626a65f1b",
+         "title": "A sexta carta de José Luís Carneiro a Luís Montenegro",
+         "description": "<p>José Luís Carneiro já escreveu cinco cartas a Luís Montenegro e não obteve resposta. Comovido, decidi poupar-lhe o trabalho e redigir a sexta</p>",
+         "link": "https://expresso.pt/opiniao/2026-02-25-a-sexta-carta-de-jose-luis-carneiro-a-luis-montenegro-f210c7ff",
+         "author": "Manuel Cardoso",
+         "published": 1772003091000,
+         "created": 1772003091000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2023-03-01-Manuel-Cardoso_peqRGB.png-9500d735/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "ad759c17-cd5f-429a-b434-7ff4028fcb56",
          "title": "A nova lei do lóbi: o que muda e porque nos diz respeito a todos",
          "description": "<p>A atividade do lóbi estava numa zona cinzenta em Portugal, uma vez que não existiam regras claras que enquadrassem esta atividade. A nova lei vem mudar este paradigma</p>",
@@ -253,38 +282,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "23df95d8-b46d-409b-9517-1db9569e0ac9",
-         "title": "A banda sonora de Kiev é o som dos geradores",
-         "description": "<p>O dia em que se assinalaram quatro anos da invasão em grande escala da Ucrânia pela Rússia foi também o dia em que os ucranianos mostraram que a vida não pára. No Expresso da Manhã, Paulo Baldaia conversa com Iryna Shev, jornalista correspondente da SIC em Kiev</p>",
-         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-02-25-a-banda-sonora-de-kiev-e-o-som-dos-geradores-e3f40e48",
-         "author": [
-            "Paulo Baldaia",
-            "Gustavo Carvalho"
-         ],
-         "published": 1772001000000,
-         "created": 1772001000000,
-         "category": "Expresso da Manhã",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
