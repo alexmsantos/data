@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2946130/africa-concentra-95-dos-casos-mundiais-e-96-das-mortes-por-malaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "África concentra 95% dos casos mundiais e 96% das mortes por malária",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2946130/africa-concentra-95-dos-casos-mundiais-e-96-das-mortes-por-malaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772132658000,
+         "created": 1772132658000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/45509278.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2946133/tribunal-mantem-pena-maxima-a-homem-que-atropelou-e-matou-ex-namorada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tribunal mantém pena máxima a homem que atropelou e matou ex-namorada",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_63fe548934bbd.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2944361/moby-romance-com-natalie-portman-negado-pela-atriz-e-a-vida-monastica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moby: Romance com Natalie Portman (negado pela atriz) e a vida monástica",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2944361/moby-romance-com-natalie-portman-negado-pela-atriz-e-a-vida-monastica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771974000000,
-         "created": 1771974000000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699d94a75dc55.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDI1LCJjcm9wSGVpZ2h0IjoxMzY0LCJjcm9wWCI6OTUsImNyb3BZIjo2Mjl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE2ODcsImNyb3BIZWlnaHQiOjI5OTgsImNyb3BYIjo3ODQsImNyb3BZIjo1OTh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
