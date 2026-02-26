@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2945682/playstation-desvendou-os-4-jogos-gratuitos-do-mes-de-marco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PlayStation desvendou os 4 jogos gratuitos do mês de março",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2945682/playstation-desvendou-os-4-jogos-gratuitos-do-mes-de-marco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772097488000,
+         "created": 1772097488000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a00f725f9e0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjk5LCJjcm9wSGVpZ2h0Ijo5NTYsImNyb3BYIjo0LCJjcm9wWSI6OTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjY3NiwiY3JvcEhlaWdodCI6MTIwMiwiY3JvcFgiOjU4NCwiY3JvcFkiOjh9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2945661/merz-chega-a-hangzhou-para-2-dia-de-visita-centrado-na-tecnologia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Merz chega a Hangzhou para 2.º dia de visita centrado na tecnologia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2945661/merz-chega-a-hangzhou-para-2-dia-de-visita-centrado-na-tecnologia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772097439000,
+         "created": 1772097439000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46642843.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2945658/de-sem-abrigo-a-superintendente-escolar-quem-e-o-luso-na-mira-do-fbi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "De sem-abrigo a superintendente escolar. Quem é o luso na mira do FBI?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2945658/de-sem-abrigo-a-superintendente-escolar-quem-e-o-luso-na-mira-do-fbi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772097373000,
+         "created": 1772097373000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a0093f561c9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjozN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTM5MSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2945680/irao-apresenta-proposta-para-possivel-acordo-com-os-estados-unidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Irão apresenta proposta para possível acordo com os Estados Unidos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2945680/irao-apresenta-proposta-para-possivel-acordo-com-os-estados-unidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772097341000,
+         "created": 1772097341000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_670695c3c393a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2945678/matou-motociclista-no-brasil-e-fugiu-para-portugal-foi-detido-pela-pj#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Matou motociclista no Brasil e fugiu para Portugal. Foi detido pela PJ",
@@ -322,7 +406,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/economia/2945627/fenomenos-como-a-tempestade-kristin-infelizmente-vao-se-repetir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fenómenos como a tempestade Kristin \"infelizmente vão-se repetir\"",
+         "title": "Fenómenos como a tempestade Kristin \"infelizmente vão repetir-se\"",
          "description": "",
          "link": "https://www.noticiasaominuto.com/economia/2945627/fenomenos-como-a-tempestade-kristin-infelizmente-vao-se-repetir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14615,90 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_699da976398f7.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2944493/lukebakio-abre-livro-sobre-prestianni-se-e-verdade-nao-posso-aceitar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lukebakio abre livro sobre Prestianni: \"Se é verdade, não posso aceitar\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2944493/lukebakio-abre-livro-sobre-prestianni-se-e-verdade-nao-posso-aceitar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771940039000,
-         "created": 1771940039000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699649a436857.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUxfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2944492/macron-muito-cetico-sobre-fim-da-guerra-na-ucrania-a-curto-prazo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Macron \"muito cético\" sobre fim da guerra na Ucrânia a curto prazo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2944492/macron-muito-cetico-sobre-fim-da-guerra-na-ucrania-a-curto-prazo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771939914000,
-         "created": 1771939914000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_682ee86accd04.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk4NCwiY3JvcEhlaWdodCI6MTc1MCwiY3JvcFgiOjkzOCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2944487/israel-permite-saida-de-13-doentes-por-dia-por-passagem-de-rafah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Israel permite saída de 13 doentes por dia por passagem de Rafah",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2944487/israel-permite-saida-de-13-doentes-por-dia-por-passagem-de-rafah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771939785000,
-         "created": 1771939785000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69386672ae64e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2944488/nos-vai-compensar-de-forma-proativa-clientes-que-ficaram-sem-servico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "NOS vai compensar de forma proativa clientes que ficaram sem serviço",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2944488/nos-vai-compensar-de-forma-proativa-clientes-que-ficaram-sem-servico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1771939773000,
-         "created": 1771939773000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e1db447caa75.webp",
                "type": "image/jpeg",
                "length": "0"
             }
