@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2946189/quinta-feira-de-sorte-eis-a-chave-do-eurodreams#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Quinta-feira de sorte? Confira a chave vencedora do EuroDreams",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2946189/quinta-feira-de-sorte-eis-a-chave-do-eurodreams#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772139816000,
+         "created": 1772139816000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66215d4a9c923.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2946185/zelensky-sugere-encontro-trilateral-com-moscovo-e-washington#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Zelensky sugere encontro trilateral com Moscovo e Washington",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_699dc417ec503.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2944934/fundador-da-shein-defende-modelo-de-negocio-em-rara-aparicao-publica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fundador da Shein defende modelo de negócio (em rara aparição pública)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2944934/fundador-da-shein-defende-modelo-de-negocio-em-rara-aparicao-publica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772001324000,
-         "created": 1772001324000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_690c58f54488d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgyLCJjcm9wSGVpZ2h0IjoxMzk2LCJjcm9wWCI6NTQsImNyb3BZIjoyMzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OSwiY3JvcEhlaWdodCI6MTcwNCwiY3JvcFgiOjUwOCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
