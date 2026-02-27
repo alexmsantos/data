@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "96645ca0-5f35-47b7-b076-236312f20f77",
+         "title": "Fantasporto 2026: O cinema como devia ser visto",
+         "description": "<p>Na sua 46ª edição, o festival Fantasporto oferece o tipo de cinema que habitualmente não vemos no circuito comercial, bem como um ambiente em que se pode conversar sobre o que acabou de se ver</p>",
+         "link": "https://expresso.pt/cultura/cartaz_cinema/2026-02-27-fantasporto-2026-o-cinema-como-devia-ser-visto-39f79860",
+         "author": "Rui Cardoso",
+         "published": 1772185685000,
+         "created": 1772185685000,
+         "category": "Cinema",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-27-fantasporto.jfif-a15f7361/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-27-fantasporto.jfif-a15f7361/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-27-fantasporto.jfif-a15f7361/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "307fc258-82a1-4279-bd58-4b91a33211ab",
          "title": "Vénus perde muito menos calor do que a Terra",
          "description": "<p><span>Um novo estudo revela que Vénus perde muito menos calor do que a Terra, arrefecendo lentamente e mantendo uma dinâmica interna muito diferente do nosso planeta</span></p>",
@@ -247,9 +276,12 @@
       {
          "id": "10aa049b-d312-4325-ae2b-77c46080dfe3",
          "title": "Paquistão declara “guerra aberta” ao regime talibã e ataca posições no Afeganistão",
-         "description": "<p><span>O Paquistão declarou ter entrado numa “guerra aberta” com o Afeganistão após combates intensos na fronteira. A escalada inclui bombardeamentos em Cabul e Kandahar, e o primeiro-ministro Shehbaz Sharif prometeu uma resposta “firme” a qualquer incursão talibã</span></p>",
+         "description": "<p>O Paquistão declarou ter entrado numa “guerra aberta” com o Afeganistão após combates intensos na fronteira. A escalada inclui bombardeamentos em Cabul e Kandahar, e o primeiro-ministro Shehbaz Sharif prometeu uma resposta “firme” a qualquer incursão talibã</p>",
          "link": "https://expresso.pt/asia/2026-02-27-escalada-militar-paquistao-assume-guerra-aberta-contra-regime-taliba-e-bombardeia-posicoes-no-afeganistao-df89350c",
-         "author": "Mariana Rebocho",
+         "author": [
+            "Mariana Rebocho",
+            "Jaime Figueiredo"
+         ],
          "published": 1772177904000,
          "created": 1772177904000,
          "category": "Ásia",
@@ -268,39 +300,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-02-27-fe4pcbq3cbouldspb2xahkmkay.avif-9a983557-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "10f71017-086b-4655-bc60-13c7423c1974",
-         "title": "“I want IPMA to be more like the Grammys. All genres of Portuguese music. That’s how you honor a culture”",
-         "description": "<p><span>IPMA founders José “Zach” Xavier and David Saraiva, joined by Manuel da Costa, talk with Tony Gonçalves about diaspora, love for music and the importance of international recognition for Portuguese talent</span></p>",
-         "link": "https://expresso.pt/podcasts/the-heart-and-hustle-of-portugal/2026-02-27-i-want-ipma-to-be-more-like-the-grammys.-all-genres-of-portuguese-music.-thats-how-you-honor-a-culture-55416e9b",
-         "author": [
-            "Tony Gonçalves",
-            "João Luís Amorim",
-            "Matilde Fieschi"
-         ],
-         "published": 1772177853000,
-         "created": 1772177853000,
-         "category": "The Heart and Hustle of Portugal",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-02-26-heart-and-hustle-of-portugal---jose-xavier-david-saraiva-e-manuel-da-costa-3202bc77/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-02-26-heart-and-hustle-of-portugal---jose-xavier-david-saraiva-e-manuel-da-costa-3202bc77/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-02-26-heart-and-hustle-of-portugal---jose-xavier-david-saraiva-e-manuel-da-costa-3202bc77/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
