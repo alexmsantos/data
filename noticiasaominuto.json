@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2946336/russia-atingiu-porto-de-odessa-com-drones-danos-em-infraestruturas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rússia atingiu porto de Odessa com drones: \"Danos em infraestruturas\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2946336/russia-atingiu-porto-de-odessa-com-drones-danos-em-infraestruturas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772180813000,
+         "created": 1772180813000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6361278dde3a5.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2946333/eletrao-encaminhou-para-reciclagem-mais-25-de-pilhas-e-baterias-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Eletrão encaminhou para reciclagem mais 25% de pilhas e baterias em 2025",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2946333/eletrao-encaminhou-para-reciclagem-mais-25-de-pilhas-e-baterias-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772180727000,
+         "created": 1772180727000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/6198202.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2946313/afinal-despedimento-de-amorim-pode-sair-ainda-mais-caro-ao-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Afinal, despedimento de Amorim pode sair ainda mais caro ao United",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2946313/afinal-despedimento-de-amorim-pode-sair-ainda-mais-caro-ao-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772180529000,
+         "created": 1772180529000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_691458bee40ac.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2946317/homem-detido-por-20-crimes-de-furto-na-regiao-oeste#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Homem detido por 20 crimes de furto na região Oeste",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2946317/homem-detido-por-20-crimes-de-furto-na-regiao-oeste#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772180304000,
+         "created": 1772180304000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_57fea14abda5b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM1OCwiY3JvcEhlaWdodCI6NjM3LCJjcm9wWCI6NTI2LCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2946332/ecclestone-teme-que-f1-perca-fas-esta-a-competir-mais-com-a-formula-e#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ecclestone teme que F1 perca fãs: \"Está a competir mais com a Fórmula E\"",
@@ -40,7 +124,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69831b9de22db.webp",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69831b9de22db.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTQ2LCJjcm9wSGVpZ2h0IjoxMDk1LCJjcm9wWCI6MzgsImNyb3BZIjoxMTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg2NCwiY3JvcEhlaWdodCI6MTUzNiwiY3JvcFgiOjYxNiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14615,90 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6388d0f5a1652.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2945027/chilavert-atira-se-a-courtois-roubou-a-namorada-a-de-bruyne#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chilavert atira-se a Courtois: \"Roubou a namorada a De Bruyne\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2945027/chilavert-atira-se-a-courtois-roubou-a-namorada-a-de-bruyne#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772015570000,
-         "created": 1772015570000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699ecf6d4ed3c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2945028/stephen-hawking-apanhado-em-fotografia-em-ilha-de-epstein#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Stephen Hawking apanhado em fotografia na ilha de Epstein",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2945028/stephen-hawking-apanhado-em-fotografia-em-ilha-de-epstein#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772015304000,
-         "created": 1772015304000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699ec8847b891.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MTEsImNyb3BIZWlnaHQiOjM0NCwiY3JvcFgiOjIwLCJjcm9wWSI6Mzh9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2945042/mini-celebra-icone-do-rali-de-monte-carlo-em-nova-edicao-especial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "MINI celebra ícone do Rali de Monte Carlo em nova edição especial",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2945042/mini-celebra-icone-do-rali-de-monte-carlo-em-nova-edicao-especial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772015016000,
-         "created": 1772015016000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699ecbdb5b0f7.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2945035/ong-de-resgate-de-migrantes-open-arms-junta-se-a-nova-flotilha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ONG de resgate de migrantes Open Arms junta-se a nova flotilha",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2945035/ong-de-resgate-de-migrantes-open-arms-junta-se-a-nova-flotilha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772014668000,
-         "created": 1772014668000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d5c017d0b04b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY2LCJjcm9wSGVpZ2h0IjoxMzg3LCJjcm9wWCI6MzAsImNyb3BZIjoxN319",
                "type": "image/jpeg",
                "length": "0"
             }
