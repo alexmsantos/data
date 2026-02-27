@@ -1,10 +1,73 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2946807/camara-de-coimbra-quer-deixar-academica-usar-estadio-para-concertos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Câmara de Coimbra quer deixar Académica usar estádio para concertos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2946807/camara-de-coimbra-quer-deixar-academica-usar-estadio-para-concertos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772220753000,
+         "created": 1772220753000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_60b114077fdb4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjozN319",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2946818/e-um-pouco-pitoresco-aquilo-que-se-esta-a-passar-no-quadro-da-ad#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"É um pouco pitoresco aquilo que se está a passar no quadro da AD\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/2946818/e-um-pouco-pitoresco-aquilo-que-se-esta-a-passar-no-quadro-da-ad#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772220720000,
+         "created": 1772220720000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68ccf8206760d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDUwLCJjcm9wSGVpZ2h0IjoxMzc4LCJjcm9wWCI6MCwiY3JvcFkiOjIyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTAxLCJjcm9wSGVpZ2h0IjoxNjAyLCJjcm9wWCI6MTA1MSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2946821/posse-de-seguro-perante-parlamento-marcada-para-as-10h00-de-9-de-marco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Posse de Seguro perante Parlamento marcada para as 10h00 de 9 de março",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2946821/posse-de-seguro-perante-parlamento-marcada-para-as-10h00-de-9-de-marco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772220654000,
+         "created": 1772220654000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69898f08b4370.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxNDR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk3MSwiY3JvcEhlaWdodCI6MTcyNywiY3JvcFgiOjc3OCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2946803/pietuszewski-fez-historia-pelo-fc-porto-com-este-golo-e-houve-dedicatoria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pietuszewski fez história pelo FC Porto com este golo e houve dedicatória",
@@ -14636,69 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_699f7beb3db54.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjEzNzcsImNyb3BZIjowfSwibGFuZHNjYXBlIjp7ImNyb3BXaWR0aCI6MjM3MiwiY3JvcEhlaWdodCI6MTMzNCwiY3JvcFgiOjE4OCwiY3JvcFkiOjQ1fX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2945548/influencer-obcecado-com-kim-kardashian-morreu-apos-procedimento-estetico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Influencer obcecado com Kim Kardashian morreu após procedimento estético",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2945548/influencer-obcecado-com-kim-kardashian-morreu-apos-procedimento-estetico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772061668000,
-         "created": 1772061668000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699f804322655.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6MjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjQwMCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2945551/um-golo-e-uma-assistencia-o-show-de-cristiano-ronaldo-pelo-al-nassr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Um golo e uma assistência. O show de Cristiano Ronaldo pelo Al Nassr",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2945551/um-golo-e-uma-assistencia-o-show-de-cristiano-ronaldo-pelo-al-nassr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772060999000,
-         "created": 1772060999000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_699f8138ba161.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2945549/eua-monitorizam-incidente-com-tripulacao-de-barco-morta-em-cuba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EUA monitorizam incidente com tripulação de barco morta em Cuba",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2945549/eua-monitorizam-incidente-com-tripulacao-de-barco-morta-em-cuba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772060867000,
-         "created": 1772060867000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68f8b01553285.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEzNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6OTY3LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
