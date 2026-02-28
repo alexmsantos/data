@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2946677/em-direto-jornada-arranca-com-dose-dupla-no-dragao-e-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Vitória SC empata com Alverca após vitória suada do Sp. Braga",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2946677/em-direto-jornada-arranca-com-dose-dupla-no-dragao-e-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772319367000,
+         "created": 1772319367000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a3636189b76.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6MTQwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDA3LCJjcm9wSGVpZ2h0IjoxNzkwLCJjcm9wWCI6Mzc4LCJjcm9wWSI6LTF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2947367/justificacao-de-trump-para-atacar-irao-e-infundada-acusa-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Justificação de Trump para atacar Irão é \"infundada\", acusa Rússia",
@@ -482,27 +503,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a3509d8af69.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2946677/em-direto-jornada-arranca-com-dose-dupla-no-dragao-e-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Vitória SC vai vencendo Alverca após vitória suada do Braga",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2946677/em-direto-jornada-arranca-com-dose-dupla-no-dragao-e-em-alvalade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772310622000,
-         "created": 1772310622000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a3636189b76.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6MTQwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDA3LCJjcm9wSGVpZ2h0IjoxNzkwLCJjcm9wWCI6Mzc4LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
