@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2947077/qatar-intercepta-ataque-de-resposta-iraniana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Qatar intercepta ataque de resposta iraniana",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2947077/qatar-intercepta-ataque-de-resposta-iraniana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772274279000,
+         "created": 1772274279000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a2c26a13635.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2947067/a-promessa-de-rui-costa-vamos-lutar-pelo-39-ate-ao-ultimo-folego#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "A promessa de Rui Costa: \"Vamos lutar pelo 39 até ao último fôlego\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a02de08dcbc.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2945615/greve-no-hospital-de-braga-contra-parque-que-custa-612-por-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Greve no Hospital de Braga contra parque que custa 612€ por ano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2945615/greve-no-hospital-de-braga-contra-parque-que-custa-612-por-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772110241000,
-         "created": 1772110241000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65c36dda03579.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE4NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NzI5LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
