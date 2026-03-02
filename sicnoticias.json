@@ -217,8 +217,25 @@
          "published": 1772465413000,
          "created": 1772465413000,
          "category": "Tensão EUA-Irão",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-03-02-mulher-niqab-irao-d27e29af/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-03-02-mulher-niqab-irao-d27e29af/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-03-02-mulher-niqab-irao-d27e29af/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b95a28e7-a8d5-4899-bb5c-1260111cd093",
