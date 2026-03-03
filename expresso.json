@@ -6,6 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "881efe03-a3a3-4e16-9d30-6983367cf63d",
+         "title": "Pedro, deixa o Luís trabalhar",
+         "description": "<p>As sucessivas intervenções de Passos Coelho e os efeitos de uma nova guerra no Médio Oriente são os temas da <i>Comissão Política</i> desta semana</p>",
+         "link": "https://expresso.pt/podcasts/comissao-politica/2026-03-03-pedro-deixa-o-luis-trabalhar-d56cf6be",
+         "author": [
+            "Eunice Lourenço",
+            "Carlos Paes",
+            "Salomé Rita"
+         ],
+         "published": 1772523600000,
+         "created": 1772523600000,
+         "category": "Comissão Política",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-02-cp-2-marco-sites.jpeg-5ca793fe/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-02-cp-2-marco-sites.jpeg-5ca793fe/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-03-02-cp-2-marco-sites.jpeg-5ca793fe/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "88304ef5-7151-49e7-b850-cbff895e4c0b",
          "title": "PS exige esclarecimentos sobre autorização de uso da base das Lajes no ataque ao Irão",
          "description": "<p>O líder socialista anunciou que colocará estas questões no debate quinzenal de quarta-feira na Assembleia da República</p>",
@@ -251,35 +284,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "dabed169-2b5d-4400-93bd-504477871764",
-         "title": "Mais um réquiem pelo Direito Internacional",
-         "description": "<p><span>Há quem se contente em dizer que o ataque ao Irão violou todos os princípios da carta da ONU. É fácil dizê-lo, até porque é verdade. Mais difícil é entender como chegámos aqui; como foi possível à ONU, durante tantos anos, não respeitar os seus próprios princípios e manter um sistema anquilosado de vetocracia e de complacência com regimes que diariamente violavam o espírito com que as Nações Unidas foram instituídas</span></p>",
-         "link": "https://expresso.pt/opiniao/2026-03-03-mais-um-requiem-pelo-direito-internacional-513ec83f",
-         "author": "Henrique Monteiro",
-         "published": 1772521200000,
-         "created": 1772521200000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-09-17-henrique-monteiro.png-9651e829-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-09-17-henrique-monteiro.png-9651e829-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-09-17-henrique-monteiro.png-9651e829-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
