@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2948213/melhoram-a-digestao-e-nao-so-saiba-o-que-tem-em-comum-estas-5-frutas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Melhoram a digestão (e não só!) Saiba o que têm em comum estas 5 frutas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2948213/melhoram-a-digestao-e-nao-so-saiba-o-que-tem-em-comum-estas-5-frutas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772517626000,
+         "created": 1772517626000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a5beb83a498.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjUxOSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2948463/portugal-e-pais-europeu-com-maior-percentagem-de-mulheres-entre-inventores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Portugal é país europeu com maior percentagem de mulheres entre inventores",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/46661074.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2947348/vai-dar-que-falar-o-penalti-que-valeu-a-vitoria-ao-braga-ante-o-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vai dar que falar. O penálti que valeu a vitória ao Braga ante o Nacional",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2947348/vai-dar-que-falar-o-penalti-que-valeu-a-vitoria-ao-braga-ante-o-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772314549000,
-         "created": 1772314549000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a35e301ee1e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzA3LCJjcm9wSGVpZ2h0Ijo5NjAsImNyb3BYIjo5MiwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQzMiwiY3JvcEhlaWdodCI6NzY4LCJjcm9wWCI6MzUyLCJjcm9wWSI6MjF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
