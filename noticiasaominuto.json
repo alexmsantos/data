@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2948818/guerra-portugal-tem-reservas-energeticas-para-93-dias-de-consumo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guerra: Portugal tem reservas energéticas para 93 dias de consumo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2948818/guerra-portugal-tem-reservas-energeticas-para-93-dias-de-consumo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772551297000,
+         "created": 1772551297000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_697bcea36072b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2948810/sobe-para-9-o-n-de-mortos-no-desabamento-de-edificio-na-africa-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sobe para 9 o n.º de mortos no desabamento de edifício na África do Sul",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/46456790.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2947687/falta-de-eficacia-dita-empate-sem-golos-entre-pacos-e-oliveirense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Falta de eficácia dita empate sem golos entre Paços e Oliveirense",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2947687/falta-de-eficacia-dita-empate-sem-golos-entre-pacos-e-oliveirense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772388494000,
-         "created": 1772388494000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68a9d39b0f5de.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEzMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTU1LCJjcm9wSGVpZ2h0IjoxNjk4LCJjcm9wWCI6NzY3LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
