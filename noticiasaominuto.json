@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2948479/identificado-autor-do-tiroteio-que-fez-4-mortos-em-bar-de-austin-quem-e#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Identificado autor do tiroteio que fez 4 mortos em bar de Austin. Quem é?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2948479/identificado-autor-do-tiroteio-que-fez-4-mortos-em-bar-de-austin-quem-e#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772520261000,
+         "created": 1772520261000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a683d72b4e6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MjgsImNyb3BIZWlnaHQiOjUyMiwiY3JvcFgiOjMsImNyb3BZIjo0NDN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2948506/especialistas-desafiam-governo-a-tirar-do-papel-medidas-contra-obesidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Especialistas desafiam Governo a tirar do papel medidas contra obesidade",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a369e8a19f9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0ODUsImNyb3BIZWlnaHQiOjI3MywiY3JvcFgiOjkwLCJjcm9wWSI6Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTkyLCJjcm9wSGVpZ2h0IjozNDEsImNyb3BYIjoyNDAsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2947380/psg-bate-le-havre-pela-margem-minima-e-aumenta-diferenca-no-topo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PSG bate Le Havre pela margem mínima e aumenta diferença no topo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2947380/psg-bate-le-havre-pela-margem-minima-e-aumenta-diferenca-no-topo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772320259000,
-         "created": 1772320259000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a375d31b9d8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NTYsImNyb3BIZWlnaHQiOjE2OTksImNyb3BYIjo4MjIsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
