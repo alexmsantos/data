@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2948611/preco-do-gas-natural-dispara-33-e-bolsas-acentuam-perdas-para-entre-2-3-e-3-5#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Preço do gás natural dispara 33% e bolsas acentuam perdas para entre 2,3% e 3,5%",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2948611/preco-do-gas-natural-dispara-33-e-bolsas-acentuam-perdas-para-entre-2-3-e-3-5#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772533337000,
+         "created": 1772533337000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/9123307.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY1LCJjcm9wSGVpZ2h0IjoxNDQzLCJjcm9wWCI6LTIsImNyb3BZIjoxNDJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2948608/multas-rodoviarias-deram-87-milhoes-de-euros-ao-estado-no-ano-passado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Multas rodoviárias deram 87 milhões de euros ao Estado no ano passado",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a40e6ba5da9.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzMSwiY3JvcEhlaWdodCI6MTY1NSwiY3JvcFgiOjkyOSwiY3JvcFkiOjQ2fSwibGFuZHNjYXBlIjp7ImNyb3BXaWR0aCI6MjU1MCwiY3JvcEhlaWdodCI6MTQzNCwiY3JvcFgiOjAsImNyb3BZIjoyNjZ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2947499/epidemia-de-colera-em-mocambique-ja-ultrapassa-6500-infetados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Epidemia de cólera em Moçambique já ultrapassa 6.500 infetados",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2947499/epidemia-de-colera-em-mocambique-ja-ultrapassa-6500-infetados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772360141000,
-         "created": 1772360141000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/9188806.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjE3NCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
