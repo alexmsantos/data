@@ -6,6 +6,18 @@
    "category": [],
    "items": [
       {
+         "id": "6fbd3519-5275-483e-adcd-4bb7d91da518",
+         "title": "Saúde mental",
+         "description": "<p>Uma experiência na Dinamarca em 2008 mostrou que, ao pagar pelas consultas de psicoterapia, o SNS poupou noutros serviços e acabou por gastar menos no total</p>",
+         "link": "https://expresso.pt/opiniao/2026-03-04-saude-mental-af985dbd",
+         "author": "Ricardo Reis",
+         "published": 1772649000000,
+         "created": 1772649000000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "id": "1f220a7d-fd6d-4993-b834-0a28734e0714",
          "title": "O segredo da longevidade? Preparar o envelhecimento desde cedo",
          "description": "<p><span>As declarações dos protagonistas da conferência \"</span><span>Longevidade Viver Mais & Melhor”, organizada pela Câmara Municipal de Vila do Conde com o</span><span> </span><span>Expresso como</span><span> </span><i><span>media partner.</span></i></p>",
@@ -122,6 +134,35 @@
          }
       },
       {
+         "id": "f20fae29-b6c2-44eb-a028-6376dba6ebfa",
+         "title": "Plataforma Office.eu lançada como alternativa europeia ao Microsoft Office",
+         "description": "<p><span>Maarten Roelfs, fundador da Office.eu diz que \"d</span><span>urante muitos anos, a Europa dependia de 'software' norte-americano e isso criou um certo risco de dependência, além de termos cedido o controlo dos nossos próprios dados\". Office.eu surge para reforçar a soberania digital europeia</span></p>",
+         "link": "https://expresso.pt/empresas-negocios/2026-03-04-plataforma-office.eu-lancada-como-alternativa-europeia-ao-microsoft-office-de9163d2",
+         "author": "Agência Lusa",
+         "published": 1772646452000,
+         "created": 1772646452000,
+         "category": "Empresas e Negócios",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-03-19-gettyimages-2196389495.jpg-c6686bff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-03-19-gettyimages-2196389495.jpg-c6686bff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-03-19-gettyimages-2196389495.jpg-c6686bff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "c49e6006-1f68-41c7-9f0a-f4a0dd091f4c",
          "title": "O Irão vale bem uma guerra",
          "description": "<p>O mundo de hoje está menos exposto aos riscos de novos choques petrolíferos. E também da produção iraniana</p>",
@@ -215,64 +256,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-10-01-1920x1280_esta_semana.png-7e427dd3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "899d0a23-c5b5-4be3-af5b-d7174acb4a83",
-         "title": "Novo advogado oficioso de Sócrates já tem cópia da Operação Marquês",
-         "description": "<p>Marco António Amaro já está a consultar o processo para o qual foi nomeado pela Ordem dos Advogados, mas ainda não terá decidido se fica com a defesa de José Sócrates. O ex-primeiro-ministro rejeitou todos os advogados oficiosos que lhe foram atribuídos pelo tribunal depois de os advogados que escolheu terem renunciado</p>",
-         "link": "https://expresso.pt/justica/2026-03-04-novo-advogado-oficioso-de-socrates-ja-tem-copia-da-operacao-marques-b6731017",
-         "author": "Rui Gustavo",
-         "published": 1772643568000,
-         "created": 1772643568000,
-         "category": "Justiça",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-09-04-fox_socrates_0011-_idp.jpg-1eace9dc-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-09-04-fox_socrates_0011-_idp.jpg-1eace9dc-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-09-04-fox_socrates_0011-_idp.jpg-1eace9dc-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "1783a47f-6088-44d3-b5d9-7274dbff4af4",
-         "title": "Conflito na Pérsia: os novos confrontos entre os EUA e Irão",
-         "description": "<p>Há quatro anos, durante uma enorme apreensão mundial, começava a primeira grande guerra desde 1945. Após cerca de 1400 dias desde a invasão russa, que garantias existem? Sobretudo de uma paz durável? A análise de Nuno Rogeiro no Jogos de Poder em podcast</p>",
-         "link": "https://expresso.pt/podcasts/jogos-de-poder/2026-03-04-conflito-na-persia-os-novos-confrontos-entre-os-eua-e-irao-08798fa4",
-         "author": "Nuno Rogeiro",
-         "published": 1772642700000,
-         "created": 1772642700000,
-         "category": "Jogos de Poder",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-10-08-jogos-de-poder_1920x1080.png-27a9cbeb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-10-08-jogos-de-poder_1920x1080.png-27a9cbeb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-10-08-jogos-de-poder_1920x1080.png-27a9cbeb/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
