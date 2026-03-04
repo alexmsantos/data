@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2949889/gata-estava-desaparecida-ha-duas-semanas-foi-encontrada-dentro-de-parede#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Gata estava desaparecida há duas semanas. Foi encontrada dentro de parede",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2949889/gata-estava-desaparecida-ha-duas-semanas-foi-encontrada-dentro-de-parede#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772665089000,
+         "created": 1772665089000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a8b4480da82.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2OTAsImNyb3BIZWlnaHQiOjM4OCwiY3JvcFgiOjg3LCJjcm9wWSI6MTMzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozODEsImNyb3BIZWlnaHQiOjY3NywiY3JvcFgiOjI5MiwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2949893/detido-por-violar-e-agredir-a-mulher-em-sintra-1-queixa-foi-em-2023#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Detido por violar e agredir a mulher em Sintra (1.ª queixa foi em 2023)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/39186458.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2948686/armand-duplantis-pode-repetir-premio-de-atleta-do-ano-nos-premios-laureus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Armand Duplantis pode repetir prémio de atleta do ano nos prémios Laureus",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2948686/armand-duplantis-pode-repetir-premio-de-atleta-do-ano-nos-premios-laureus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772539742000,
-         "created": 1772539742000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68c8241ff1c00.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjoxNDYyLCJjcm9wWSI6NzN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
