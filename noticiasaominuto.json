@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2949581/a-playstation-vai-deixar-de-lancar-os-seus-exclusivos-no-pc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "A PlayStation vai deixar de lançar os seus exclusivos no PC",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2949581/a-playstation-vai-deixar-de-lancar-os-seus-exclusivos-no-pc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772658000000,
+         "created": 1772658000000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66f3bcd16d61e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODY2LCJjcm9wSGVpZ2h0IjoxMDUwLCJjcm9wWCI6NCwiY3JvcFkiOjE5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1OTQsImNyb3BIZWlnaHQiOjEwNTUsImNyb3BYIjozMTYsImNyb3BZIjo3fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2949853/irao-espanha-nega-categoricamente-considerar-cooperar-com-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Irão: Espanha \"nega categoricamente\" considerar cooperar com EUA",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a6a5ba69648.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2948631/agencia-nuclear-da-onu-afirma-que-instalacao-iraniana-sofreu-alguns-danos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Agência nuclear da ONU afirma que instalação iraniana sofreu alguns danos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2948631/agencia-nuclear-da-onu-afirma-que-instalacao-iraniana-sofreu-alguns-danos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772534755000,
-         "created": 1772534755000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5d2581e6f35b0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDMyLCJjcm9wSGVpZ2h0IjoxMzY4LCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc3MCwiY3JvcEhlaWdodCI6MTM2OCwiY3JvcFgiOjYzNCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
