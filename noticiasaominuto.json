@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2949414/charlie-hebdo-dedica-capa-a-morte-de-khamenei-com-sanita-e-turbante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Charlie Hebdo dedica capa à morte de Khamenei com sanita e turbante",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2949414/charlie-hebdo-dedica-capa-a-morte-de-khamenei-com-sanita-e-turbante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772629040000,
+         "created": 1772629040000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a82451ecbb9.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2949439/fc-porto-recorre-a-pepe-para-defender-expulsao-de-luis-suarez-no-classico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "FC Porto recorre a Pepe para defender expulsão de Luis Suárez no Clássico",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6619009bd2408.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwMDAsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2948302/incendios-dispositivo-de-combate-deste-ano-orcado-em-cerca-de-50-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Incêndios. Dispositivo de combate deste ano orçado em cerca de 50 milhões",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2948302/incendios-dispositivo-de-combate-deste-ano-orcado-em-cerca-de-50-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772476089000,
-         "created": 1772476089000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_689c409eb325f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDczLCJjcm9wSGVpZ2h0IjoxMzkxLCJjcm9wWCI6MzYsImNyb3BZIjoxMTl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
