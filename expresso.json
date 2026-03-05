@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2026 em Portugal",
+         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para os próximos meses: uma agenda sempre em atualização</p>",
+         "link": "https://expresso.pt/blitz/2026-03-05-todos-os-concertos-marcados-para-2026-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1772706060000,
+         "created": 1772706060000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-31-_rc01860ritacarmo.jpg-ef2b5f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-31-_rc01860ritacarmo.jpg-ef2b5f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-31-_rc01860ritacarmo.jpg-ef2b5f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "d41074a3-a0df-42d5-b498-309045664e46",
          "title": "António Lobo Antunes (1942-2026): Governo lamenta perda de “embaixador da língua portuguesa”, Benfica relembra ligação do escritor ao clube",
          "description": "<p><span>Nascido em Lisboa em 1942, formou-se em Medicina e especializou-se em Psiquiatria antes de se dedicar inteiramente à escrita em 1985</span></p>",
@@ -254,40 +283,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "841feb21-5944-4664-a654-e6991051f943",
-         "title": "“Evite fiambre, salsichas e outras carnes processadas”: as causas da doença inflamatória intestinal e como proteger o seu intestino com a gastroenterologista Ana Rafael",
-         "description": "<p>É um tema que afeta milhões de pessoas, mas que permanece tabu. Provoca dores abdominais, diarreia persistente e, nos casos mais graves, pode mesmo causar hemorragias. Chama-se doença inflamatória intestinal e não é exclusiva às idades mais avançadas. Neste episódio de <i>Consulta Aberta</i>, falamos sobre os sinais de alerta, os tratamentos disponíveis e os cuidados essenciais para proteger a saúde do nosso intestino</p>",
-         "link": "https://expresso.pt/podcasts/consulta-aberta/2026-03-05-evite-fiambre-salsichas-e-outras-carnes-processadas-as-causas-da-doenca-inflamatoria-intestinal-e-como-proteger-o-seu-intestino-06e55378",
-         "author": [
-            "Margarida Graça Santos",
-            "José Fonseca Fernandes",
-            "Salomé Rita",
-            "João Ribeiro"
-         ],
-         "published": 1772698200000,
-         "created": 1772698200000,
-         "category": "Consulta Aberta",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-04-fox_maria_ana_rafael_0005.jpg-f9f136fc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-04-fox_maria_ana_rafael_0005.jpg-f9f136fc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-03-04-fox_maria_ana_rafael_0005.jpg-f9f136fc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
