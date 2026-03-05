@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2950282/35000-tripulantes-e-passageiros-de-navios-bloqueados-no-estreito-de-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "35.000 tripulantes e passageiros de navios bloqueados no estreito de Ormuz",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2950282/35000-tripulantes-e-passageiros-de-navios-bloqueados-no-estreito-de-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772722776000,
+         "created": 1772722776000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a99a3579922.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDk3LCJjcm9wSGVpZ2h0IjoxNDA1LCJjcm9wWCI6MjAsImNyb3BZIjoxNzR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2950269/lucro-do-grupo-prada-sobe-2-em-2025-e-miu-miu-brilhou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lucro do grupo Prada sobe 2% em 2025 (e Miu Miu brilhou)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a775ad4250c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU3OSwiY3JvcEhlaWdodCI6MTAzMCwiY3JvcFgiOjEzMiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2949145/villas-boas-pede-castigo-pesado-a-suarez-na-china-levei-quatro-jogos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Da queixa contra Suárez à impunidade do Sporting. O que disse Villas-Boas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2949145/villas-boas-pede-castigo-pesado-a-suarez-na-china-levei-quatro-jogos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772582343000,
-         "created": 1772582343000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67436140ef390.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ5LCJjcm9wSGVpZ2h0IjoxNjg3LCJjcm9wWCI6OTA0LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
