@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Famalicão e Arouca já deram o pontapé de saída",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772828206000,
+         "created": 1772828206000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68c41d5a12a07.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2951301/eua-avisam-para-ataques-contra-hoteis-na-regiao-curda-do-iraque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EUA avisam para ataques contra hotéis na região curda do Iraque",
@@ -461,27 +482,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69ab2909aefbb.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Famalicão e Arouca abrem ronda que vai ser de emoções fortes",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772824384000,
-         "created": 1772824384000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68c41d5a12a07.webp",
                "type": "image/jpeg",
                "length": "0"
             }
