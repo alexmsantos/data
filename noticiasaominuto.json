@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2950901/volkswagen-trabalha-no-futuro-do-golf-e-ja-ha-um-teaser#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Volkswagen trabalha no futuro do Golf e já há 'teaser'",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2950901/volkswagen-trabalha-no-futuro-do-golf-e-ja-ha-um-teaser#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772802410000,
+         "created": 1772802410000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69aacb1ca0cca.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjE2MjMsImNyb3BZIjoxNDl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2950847/em-direto-rui-borges-faz-a-antevisao-ao-sp-braga-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Villas-Boas sem resposta e \"velinha\" por Suárez. O que disse Rui Borges",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6988db5a9004e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2949794/apagao-no-iraque-rede-eletrica-fora-de-servico-em-todas-as-provincias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Apagão no Iraque. \"Rede elétrica fora de serviço em todas as províncias\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2949794/apagao-no-iraque-rede-eletrica-fora-de-servico-em-todas-as-provincias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772650983000,
-         "created": 1772650983000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69877390d6a27.webp",
                "type": "image/jpeg",
                "length": "0"
             }
