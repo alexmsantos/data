@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2950711/ao-minuto-vem-ai-nova-fase-da-guerra-voo-militar-chega-a-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AO MINUTO: Vem aí \"nova fase\" da guerra; Voo militar chega a Lisboa",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2950711/ao-minuto-vem-ai-nova-fase-da-guerra-voo-militar-chega-a-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772784433000,
+         "created": 1772784433000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69aa85c78217f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2950713/confirmada-pena-maxima-para-portugues-por-matar-quatro-pessoas-em-casamento-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Confirmada pena máxima para português por matar quatro pessoas em casamento em Espanha",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6800219764b16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjczNywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2949552/champalimaud-vai-entrar-em-estudo-de-como-o-cerebro-interage-com-o-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Champalimaud vai entrar em estudo de como o cérebro interage com o cancro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2949552/champalimaud-vai-entrar-em-estudo-de-como-o-cerebro-interage-com-o-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772637638000,
-         "created": 1772637638000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/19426567.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUxLCJjcm9wSGVpZ2h0IjoxNjkxLCJjcm9wWCI6ODg0LCJjcm9wWSI6MTd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
