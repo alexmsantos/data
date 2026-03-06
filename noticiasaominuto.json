@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2950847/em-direto-rui-borges-faz-a-antevisao-ao-sp-braga-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Rui Borges faz a antevisão ao Sp. Braga-Sporting",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2950847/em-direto-rui-borges-faz-a-antevisao-ao-sp-braga-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772800334000,
+         "created": 1772800334000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69737322d9048.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2950882/irao-grecia-vai-enviar-bateria-de-misseis-patriot-para-proteger-bulgaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Irão: Grécia vai enviar bateria de mísseis Patriot para proteger Bulgária",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/36761773.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2949768/autoridades-libanesas-registam-72-mortos-e-83-mil-deslocados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Autoridades libanesas registam 72 mortos e 83 mil deslocados",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2949768/autoridades-libanesas-registam-72-mortos-e-83-mil-deslocados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772649396000,
-         "created": 1772649396000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46683254.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc3OCwiY3JvcEhlaWdodCI6MTM4MywiY3JvcFgiOjQwOSwiY3JvcFkiOjMzN319",
                "type": "image/jpeg",
                "length": "0"
             }
