@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2951675/rui-costa-resgata-empate-para-o-farense-no-ultimo-suspiro-em-penafiel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rui Costa resgata empate para o Farense no último suspiro em Penafiel",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2951675/rui-costa-resgata-empate-para-o-farense-no-ultimo-suspiro-em-penafiel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1772908593000,
+         "created": 1772908593000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6993870b455d5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTUyLCJjcm9wSGVpZ2h0Ijo2NDgsImNyb3BYIjoxNDAsImNyb3BZIjo4MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTY0LCJjcm9wSGVpZ2h0IjoxNzEzLCJjcm9wWCI6MjgyLCJjcm9wWSI6Mzl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2951668/matosinhos-reforca-policiamento-nas-ruas-para-travar-aumento-de-furtos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Matosinhos reforça policiamento nas ruas para \"travar\" aumento de furtos",
@@ -154,7 +175,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Sporting em vantagem na visita ao Sporting de Braga",
+         "title": "EM DIRETO: Sporting de Braga alcança empate com o Sporting",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/45614148.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY5NCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2950259/fa-de-animal-crossing-e-minecraft-este-e-o-pokemon-a-nao-perder#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fã de \"Animal Crossing\" e \"Minecraft\"? Este é o \"Pokémon\" a não perder",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2950259/fa-de-animal-crossing-e-minecraft-este-e-o-pokemon-a-nao-perder#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772735941000,
-         "created": 1772735941000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a9921493fbc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTExLCJjcm9wSGVpZ2h0IjoxMDc1LCJjcm9wWCI6MCwiY3JvcFkiOjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU5NywiY3JvcEhlaWdodCI6MTA2MSwiY3JvcFgiOjUzOCwiY3JvcFkiOjd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
