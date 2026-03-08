@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2952055/oscar-garcia-promovido-como-sucessor-de-fred-grim-no-comando-do-ajax#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Óscar García promovido como sucessor de Fred Grim no comando do Ajax",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2952055/oscar-garcia-promovido-como-sucessor-de-fred-grim-no-comando-do-ajax#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773006321000,
+         "created": 1773006321000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69aded3d25775.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjoxMTgyLCJjcm9wWSI6LTF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2952054/ong-venezuelana-confirma-libertacao-de-670-presos-politicos-desde-janeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "ONG venezuelana confirma libertação de 670 presos políticos desde janeiro",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69aad94e9d778.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2950936/exercito-iraniano-afirma-ter-atingido-petroleiro-norte-americano-no-golfo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Exército iraniano afirma ter atingido petroleiro norte-americano no Golfo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2950936/exercito-iraniano-afirma-ter-atingido-petroleiro-norte-americano-no-golfo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772804339000,
-         "created": 1772804339000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c3ddecc7fb7e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyODAwLCJjcm9wSGVpZ2h0IjoxNTc1LCJjcm9wWCI6MCwiY3JvcFkiOjh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg1NCwiY3JvcEhlaWdodCI6MTUxOCwiY3JvcFgiOjUyMywiY3JvcFkiOjR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
