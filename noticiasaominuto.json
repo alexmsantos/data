@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2952084/emigrante-portugues-morre-em-despiste-de-moto-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Emigrante português morre em despiste de moto na Suíça",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2952084/emigrante-portugues-morre-em-despiste-de-moto-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773013077000,
+         "created": 1773013077000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6890e3700e90a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2952085/gremio-gere-vantagem-da-primeira-mao-e-da-titulo-estadual-a-luis-castro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Grêmio gere vantagem da primeira mão e dá título estadual a Luís Castro",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c6728717ce9e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2950917/bateria-que-carrega-em-12-minutos-vai-chegar-a-europa-com-este-carro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bateria que carrega em 12 minutos vai chegar à Europa com este carro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2950917/bateria-que-carrega-em-12-minutos-vai-chegar-a-europa-com-este-carro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772805698000,
-         "created": 1772805698000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69aad0b2551a5.webp",
                "type": "image/jpeg",
                "length": "0"
             }
