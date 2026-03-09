@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Tondela e Rio Ave encerram a 25.ª jornada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773083811000,
+         "created": 1773083811000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6935e1c18928a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2952672/homens-com-explosivos-em-nova-iorque-disseram-ter-se-inspirado-no-ei#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Homens com explosivos em Nova Iorque disseram ter-se inspirado no EI",
@@ -7013,27 +7034,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69adf9b1c1583.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Santa Clara bate Vitória SC, após empate no Benfica-FC Porto",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2951064/em-direto-famalicao-e-arouca-abrem-ronda-que-vai-ser-de-emocoes-fortes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773009318000,
-         "created": 1773009318000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69add9ad3b9cc.webp",
                "type": "image/jpeg",
                "length": "0"
             }
