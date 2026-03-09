@@ -11,7 +11,7 @@ const instance = axios.create({
 // async await
 (async () => {
 
-    var rss = await parse('https://rr.pt/rssfeed-ultimas', {
+    var rss = await Parser.parse('https://rr.pt/rssfeed-ultimas', {
         headers: {
             'User-Agent': 'Mozilla/5.0 (compatible; DataScraper/1.0)'
         }
