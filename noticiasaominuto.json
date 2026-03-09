@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2952681/nova-semana-e-muitos-sonhos-eis-a-chave-do-eurodreams-desta-2-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Nova semana e muitos sonhos? Eis a chave do EuroDreams desta 2.ª-feira",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2952681/nova-semana-e-muitos-sonhos-eis-a-chave-do-eurodreams-desta-2-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773086797000,
+         "created": 1773086797000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66215d4a9c923.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM4OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAyOSwiY3JvcEhlaWdodCI6MTgyOSwiY3JvcFgiOjY5NiwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2952697/irao-comissao-europeia-alerta-para-implicacoes-de-longo-prazo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Irão: Comissão Europeia alerta para \"implicações de longo prazo\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/45875298.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2951552/kylian-mbappe-namora-com-famosa-atriz-da-serie-elite-ha-fotos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Kylian Mbappé namora com famosa atriz da série \"Elite\"? (Há fotos) ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2951552/kylian-mbappe-namora-com-famosa-atriz-da-serie-elite-ha-fotos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772890130000,
-         "created": 1772890130000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69ac24fa2ae6e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDI5LCJjcm9wSGVpZ2h0IjoxODI5LCJjcm9wWCI6MTEwLCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
