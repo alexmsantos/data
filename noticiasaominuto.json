@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2952394/prisao-preventiva-para-mulher-suspeita-de-trafico-de-droga-na-ilha-do-pico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Prisão preventiva para mulher suspeita de tráfico de droga na ilha do Pico",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2952394/prisao-preventiva-para-mulher-suspeita-de-trafico-de-droga-na-ilha-do-pico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773063892000,
+         "created": 1773063892000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68da63290bb82.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNTJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2952405/ia-da-anthropic-encontrou-22-vulnerabilidades-de-seguranca-no-firefox#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "IA da Anthropic encontrou 22 vulnerabilidades de segurança no Firefox",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64ac083f2d459.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2951382/reino-unido-idoso-com-alzheimer-condenado-por-nao-ter-seguro-no-carro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Idoso com Alzheimer condenado no Reino Unido por não ter seguro no carro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2951382/reino-unido-idoso-com-alzheimer-condenado-por-nao-ter-seguro-no-carro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772839950000,
-         "created": 1772839950000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_639c284694385.webp",
                "type": "image/jpeg",
                "length": "0"
             }
