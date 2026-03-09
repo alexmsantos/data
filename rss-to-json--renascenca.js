@@ -3,7 +3,11 @@ const fs = require('fs');
 // async await
 (async () => {
 
-    var rss = await parse('https://rr.pt/rssfeed-ultimas');
+    var rss = await parse('https://rr.pt/rssfeed-ultimas', {
+        headers: {
+            'User-Agent': 'Mozilla/5.0 (compatible; DataScraper/1.0)'
+        }
+    });
 
     let jsonStringify = JSON.stringify(rss, null, 3);
 
