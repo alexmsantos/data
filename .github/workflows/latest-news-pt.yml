@@ -42,9 +42,9 @@ jobs:
     #- name: RSS to JSON Jornal i
     #  run: node rss-to-json--i.js
     #  continue-on-error: true
-    - name: RSS to JSON Renascença
-      run: node rss-to-json--renascenca.js
-      continue-on-error: true
+    #- name: RSS to JSON Renascença
+    #  run: node rss-to-json--renascenca.js
+    #  continue-on-error: true
     #- name: RSS to JSON Novo
     #  run: node rss-to-json--novo.js
     #  continue-on-error: true
@@ -179,10 +179,10 @@ jobs:
       run: |-
         jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Económico"})' economico.json >digest/latest--economico.json
       continue-on-error: true
-    - name: Edit renascenca.json
-      run: |-
-        jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Renascença"})' renascenca.json >digest/latest--rr.json
-      continue-on-error: true
+    #- name: Edit renascenca.json
+    #  run: |-
+    #    jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 + 3600 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Renascença"})' renascenca.json >digest/latest--rr.json
+    #  continue-on-error: true
     #- name: Edit novo.json
     #  run: |-
     #    jq '.items[:10] | map(.date_published = .published | .url = .link | del(.published, .link)) | map({title, url, date_published: (if .date_published then (.date_published / 1000 | strftime("%Y-%m-%dT%H:%M:%S+00:00")) else empty end), media: "Novo"})' novo.json >digest/latest--novo.json
@@ -231,7 +231,7 @@ jobs:
     #    include: "digest/latest--observador.json"
     - name: Merge files
       run: |-
-        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--rr.json digest/latest--eco.json digest/latest--cnnportugal.json | jq -r tostring > digest/digestpt.json
+        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--eco.json digest/latest--cnnportugal.json | jq -r tostring > digest/digestpt.json
     - name: Commit and push changes
       run: |-
         git diff
