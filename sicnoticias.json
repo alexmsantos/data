@@ -43,8 +43,25 @@
          "published": 1773173492000,
          "created": 1773173492000,
          "category": "Ataques Irão",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-03-10-irao-lego-f41423ef/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-03-10-irao-lego-f41423ef/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-03-10-irao-lego-f41423ef/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "ef95aee2-d639-439a-8f32-d8a1e7558222",
