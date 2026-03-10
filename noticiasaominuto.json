@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2952873/novo-advogado-tambem-recusa-defender-jose-socrates#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novo advogado (também) recusa defender José Sócrates",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2952873/novo-advogado-tambem-recusa-defender-jose-socrates#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773130096000,
+         "created": 1773130096000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6581a08ea77b6.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2952869/openai-comprou-startup-especializada-em-seguranca-de-ia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OpenAI comprou startup especializada em segurança de IA",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_60e45abd6c434.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2951743/estoril-e-casa-pia-empatam-na-amoreira-em-jogo-sem-golos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estoril e Casa Pia empatam na Amoreira em jogo sem golos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2951743/estoril-e-casa-pia-empatam-na-amoreira-em-jogo-sem-golos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1772922942000,
-         "created": 1772922942000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46708108.webp",
                "type": "image/jpeg",
                "length": "0"
             }
