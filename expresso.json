@@ -6,6 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "f29d15de-cb54-42c3-8145-b3d253ee1490",
+         "title": "Lisboa tem 2828 horas de sol por ano, o equivalente a quatro meses de luz solar ininterrupta",
+         "description": "<p><span>Apesar de um início de ano com chuvas históricas, Lisboa está entre as cidades na Europa com mais exposição solar ao longo do ano. A luz do sol traz benefícios à saúde, mas deve ser apreciada com os cuidados apropriados</span></p>",
+         "link": "https://expresso.pt/revista/fisga/2026-03-11-lisboa-tem-2828-horas-de-sol-por-ano-o-equivalente-a-quatro-meses-de-luz-solar-ininterrupta-31394a5a",
+         "author": [
+            "João Sundfeld",
+            "Sofia Miguel Rosa",
+            "Cristiano Salgado"
+         ],
+         "published": 1773220314000,
+         "created": 1773220314000,
+         "category": "Fisga",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-09-horasdeluz_t-bb_idp.jpg-06800c9b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-09-horasdeluz_t-bb_idp.jpg-06800c9b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-03-09-horasdeluz_t-bb_idp.jpg-06800c9b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "db6eb411-4cc7-4432-a7df-b524a233231f",
          "title": "Gonçalo Lopes: “A Câmara de Leiria gastou 300 mil euros a alugar geradores, e não foram para minha casa. Foi para acudir a um falhanço”",
          "description": "<p>Neste episódio do podcast “Perguntar Não Ofende”, Daniel Oliveira conversa com os dois rostos que estiveram na linha da frente da resposta à emergência casada pelas recentes tempestades. Foram elogiados por serem, por um lado, o rosto do Estado que não falhou, e, por outro, a voz das populações quando ela era urgente. Oiça aqui o episódio</p>",
@@ -257,35 +290,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "6f5b05f0-fa80-4780-9c20-d10077232cc6",
-         "title": "Verificação de identidade ou veto de gaveta contra oposição interna? Reconhecimento de assinaturas levanta dúvidas na JS",
-         "description": "<p>Processo de verificação de identidade de novos militantes está a alimentar tensões dentro da Juventude Socialista. O procedimento, fundamentado pela necessidade de evitar militâncias não intencionais, é visto como um entrave seletivo à entrada de jovens</p>",
-         "link": "https://expresso.pt/geracao-e/2026-03-11-verificacao-de-identidade-ou-veto-de-gaveta-contra-oposicao-interna--reconhecimento-de-assinaturas-levanta-duvidas-na-js-0fe796ce",
-         "author": "Expresso",
-         "published": 1773212400000,
-         "created": 1773212400000,
-         "category": "Geração E",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-12-09-08debate-jovens-socialistas-09122024-jff.jpg-427dd66a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-12-09-08debate-jovens-socialistas-09122024-jff.jpg-427dd66a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-12-09-08debate-jovens-socialistas-09122024-jff.jpg-427dd66a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
