@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2953642/porsche-viu-lucro-a-descer-92-mas-garante-posicao-financeira-solida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Porsche viu lucro a descer 92% mas garante \"posição financeira sólida\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2953642/porsche-viu-lucro-a-descer-92-mas-garante-posicao-financeira-solida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773221189000,
+         "created": 1773221189000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b133643b569.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2953617/luiza-abreu-e-joao-moura-caetano-confirmam-sexo-e-nome-do-bebe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Luíza Abreu e João Moura Caetano confirmam sexo e nome do bebé",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6911f9d8a7278.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo3MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTEzNCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2952435/irao-nato-confirma-que-intercetou-missil-destinado-a-turquia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Irão: NATO confirma que intercetou míssil destinado à Turquia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2952435/irao-nato-confirma-que-intercetou-missil-destinado-a-turquia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773065952000,
-         "created": 1773065952000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a3d9455d77a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODk2LCJjcm9wSGVpZ2h0IjoxNTkzLCJjcm9wWCI6OTQyLCJjcm9wWSI6MzF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
