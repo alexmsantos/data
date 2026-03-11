@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2953814/ameaca-de-bomba-obriga-a-evacuar-banco-em-santa-maria-de-lamas-na-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ameaça de bomba obriga a evacuar banco em Santa Maria de Lamas, na Feira",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2953814/ameaca-de-bomba-obriga-a-evacuar-banco-em-santa-maria-de-lamas-na-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773236592000,
+         "created": 1773236592000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b1713ee7c57.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDI3LCJjcm9wSGVpZ2h0Ijo4MDMsImNyb3BYIjoxNjUsImNyb3BZIjoxNH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2953812/inflacao-nos-eua-mantem-se-nos-2-4-em-fevereiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Inflação nos EUA mantém-se nos 2,4% em fevereiro",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_68ea6995e4103.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2952661/mocambique-quer-linha-de-credito-acordada-com-portugal-a-crescer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moçambique quer linha de crédito acordada com Portugal a crescer",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2952661/mocambique-quer-linha-de-credito-acordada-com-portugal-a-crescer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773082052000,
-         "created": 1773082052000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46717268.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjoxMTA0LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
