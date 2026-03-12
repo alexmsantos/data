@@ -40,14 +40,31 @@
       {
          "id": "c373458f-7c7d-40b8-98d1-a407ac97b1c1",
          "title": "O fenómeno Rita Matias",
-         "description": "<p><span>O Parlamento virou cenário, o telemóvel virou tribuna e as redes sociais transformaram-se em canais de comunicação à margem</span></p><p></p>",
+         "description": "<p>O Parlamento virou cenário, o telemóvel virou tribuna e as redes sociais transformaram-se em canais de comunicação à margem</p> <p> </p>",
          "link": "https://expresso.pt/opiniao/2026-03-12-o-fenomeno-rita-matias-5318cd85",
          "author": "Ana Bárbara Pedrosa",
          "published": 1773304624000,
          "created": 1773304624000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-10-ana-barbara-pedrosa_site.png-b39a9714-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-10-ana-barbara-pedrosa_site.png-b39a9714-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-10-ana-barbara-pedrosa_site.png-b39a9714-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "7584481e-226a-49e4-a376-43cc798604e9",
