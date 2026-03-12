@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2954450/novas-cheias-voltam-a-afetar-centro-de-maputo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novas cheias voltam a afetar centro de Maputo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2954450/novas-cheias-voltam-a-afetar-centro-de-maputo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773326389000,
+         "created": 1773326389000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46737857.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA5LCJjcm9wSGVpZ2h0IjoxNDExLCJjcm9wWCI6MjQsImNyb3BZIjoxNDl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2954449/ex-ciclista-raul-matias-recebe-a-medalha-de-ouro-de-castelo-branco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ex-ciclista Raul Matias recebe a medalha de ouro de Castelo Branco",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69aff07f0770d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2953338/piratas-informaticos-iranianos-afirmam-ter-atacado-o-parlamento-albanes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Piratas informáticos iranianos afirmam ter atacado o Parlamento albanês",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2953338/piratas-informaticos-iranianos-afirmam-ter-atacado-o-parlamento-albanes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773165538000,
-         "created": 1773165538000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5fc96c823a75f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
