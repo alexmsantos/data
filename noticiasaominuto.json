@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2954379/volkswagen-id3-sucessor-sera-revelado-em-abril-e-ja-tem-nome#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Volkswagen ID.3: Sucessor será revelado em abril e já tem nome",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2954379/volkswagen-id3-sucessor-sera-revelado-em-abril-e-ja-tem-nome#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773313756000,
+         "created": 1773313756000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b29905ce535.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2954380/hugo-viana-apanhado-a-reuniao-que-pode-abalar-o-mercado-europeu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Hugo Viana 'apanhado'. A reunião que pode abalar o mercado europeu",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6984a765e5d11.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2952991/o-mundo-gira-catarina-miranda-de-volta-a-televisao-para-uma-vinganca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"O mundo gira\"! Catarina Miranda de volta à televisão para \"uma vingança\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2952991/o-mundo-gira-catarina-miranda-de-volta-a-televisao-para-uma-vinganca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773160800000,
-         "created": 1773160800000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6647615877d1d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDQ1LCJjcm9wSGVpZ2h0Ijo1ODgsImNyb3BYIjoxMSwiY3JvcFkiOjh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
