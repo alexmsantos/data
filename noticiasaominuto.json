@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2955294/ordem-dos-medicos-critica-despacho-sobre-medicos-de-familia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ordem dos Médicos critica despacho sobre médicos de família",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2955294/ordem-dos-medicos-critica-despacho-sobre-medicos-de-familia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773421183000,
+         "created": 1773421183000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/17366138.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU2LCJjcm9wSGVpZ2h0IjoxNDM4LCJjcm9wWCI6MCwiY3JvcFkiOjI3MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2955291/fc-porto-aplica-chapa-6-ao-sporting-e-arrasa-no-classico-de-juniores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "FC Porto aplica 'chapa 6' ao Sporting e arrasa no Clássico de juniores",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b1c2a19b139.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0OTUsImNyb3BIZWlnaHQiOjI3OCwiY3JvcFgiOjMsImNyb3BZIjo0OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTgyLCJjcm9wSGVpZ2h0IjozMjMsImNyb3BYIjoxNzgsImNyb3BZIjoyfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2954112/grupo-celeste-pede-insolvencia-mais-de-300-trabalhadores-no-desemprego#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Grupo Celeste pede insolvência. Mais de 300 trabalhadores no desemprego",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2954112/grupo-celeste-pede-insolvencia-mais-de-300-trabalhadores-no-desemprego#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773258042000,
-         "created": 1773258042000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b1c53c156a1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MjUsImNyb3BIZWlnaHQiOjUyMCwiY3JvcFgiOi0xLCJjcm9wWSI6ODh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMyNiwiY3JvcEhlaWdodCI6NTc5LCJjcm9wWCI6MTQxLCJjcm9wWSI6Mjl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
