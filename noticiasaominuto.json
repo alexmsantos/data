@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2955715/lider-parlamentar-iraniano-declara-ucrania-como-alvo-legitimo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Líder parlamentar iraniano declara Ucrânia como \"alvo legítimo\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2955715/lider-parlamentar-iraniano-declara-ucrania-como-alvo-legitimo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773508404000,
+         "created": 1773508404000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b3bb48d5720.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2955711/bayern-munique-com-duas-expulsoes-empata-em-leverkusen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bayern Munique, com duas expulsões, empata em Leverkusen",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64308e6e8bf74.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2954579/homem-abusou-de-tres-irmaos-menores-em-gaia-vitima-mais-velha-denunciou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Homem abusou de três irmãos menores em Gaia. Vítima mais velha denunciou",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2954579/homem-abusou-de-tres-irmaos-menores-em-gaia-vitima-mais-velha-denunciou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773335277000,
-         "created": 1773335277000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_689c82d6ad7f9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTE1LCJjcm9wSGVpZ2h0IjoxMDc3LCJjcm9wWCI6MCwiY3JvcFkiOjMwN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzgxLCJjcm9wSGVpZ2h0IjoxMzg5LCJjcm9wWCI6Mzk2LCJjcm9wWSI6MzJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
