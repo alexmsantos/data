@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2955778/napoles-opera-reviravolta-contra-lecce-e-reforca-terceiro-lugar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Nápoles opera reviravolta contra Lecce e reforça terceiro lugar ",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2955778/napoles-opera-reviravolta-contra-lecce-e-reforca-terceiro-lugar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773520214000,
+         "created": 1773520214000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46752762.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2955773/irao-apela-aos-seus-vizinhos-irmaos-para-que-expulsem-agressores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Irão apela aos seus vizinhos irmãos para que expulsem agressores\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/46011342.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2954665/look-muito-caro-a-margarida-maldonado-freitas-veste-o-que-ela-quiser#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Look muito caro? \"A Margarida Maldonado Freitas veste o que ela quiser\" ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2954665/look-muito-caro-a-margarida-maldonado-freitas-veste-o-que-ela-quiser#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773341387000,
-         "created": 1773341387000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b303f430897.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU1Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTE4MywiY3JvcEhlaWdodCI6MjEwMywiY3JvcFgiOjg5MywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
