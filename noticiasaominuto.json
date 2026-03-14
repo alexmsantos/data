@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2955732/ludogorets-soma-e-segue-com-vitoria-ante-cska-sofia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ludogorets soma e segue com vitória ante CSKA Sofia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2955732/ludogorets-soma-e-segue-com-vitoria-ante-cska-sofia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773510111000,
+         "created": 1773510111000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b59bd1f0566.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2955716/portugues-em-comite-do-nobel-muito-contente-com-reconhecimento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Português em Comité do Nobel \"muito contente\" com reconhecimento",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b2f7633ec76.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2954592/oito-paises-muculmanos-condenam-israel-por-fechar-al-aqsa-no-ramadao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oito países muçulmanos condenam Israel por fechar Al-Aqsa no Ramadão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2954592/oito-paises-muculmanos-condenam-israel-por-fechar-al-aqsa-no-ramadao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773336226000,
-         "created": 1773336226000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b2f6a609a67.webp",
                "type": "image/jpeg",
                "length": "0"
             }
