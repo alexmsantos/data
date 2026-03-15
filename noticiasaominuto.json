@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2954370/mercedes-benz-cla-conduzimos-o-carro-europeu-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mercedes-Benz CLA: Conduzimos o Carro Europeu do Ano",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2954370/mercedes-benz-cla-conduzimos-o-carro-europeu-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773561965000,
+         "created": 1773561965000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b3e36736bb5.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2954411/o-rumor-da-semana-entre-benfica-e-fc-porto-para-onde-ira-andre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O rumor da semana: Entre Benfica e FC Porto, para onde irá André?",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b34c8e25f6e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2954798/mulher-de-ricky-gervais-anuncia-diagnostico-de-cancro-da-mama#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mulher de Ricky Gervais anuncia diagnóstico de cancro da mama ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2954798/mulher-de-ricky-gervais-anuncia-diagnostico-de-cancro-da-mama#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773358171000,
-         "created": 1773358171000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b34744c5204.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMzMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjAxNiwiY3JvcEhlaWdodCI6MzU4NCwiY3JvcFgiOjQyNywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
