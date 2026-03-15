@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2955491/em-direto-derbi-minhoto-abre-ronda-em-guimaraes-antes-do-arouca-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Arranca o Rio Ave-Estrela, antes do FC Porto-Moreirense",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2955491/em-direto-derbi-minhoto-abre-ronda-em-guimaraes-antes-do-arouca-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773597658000,
+         "created": 1773597658000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6784fb653bad2.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2956032/von-der-leyen-pede-uso-de-todos-instrumentos-de-diplomacia-migratoria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Von der Leyen pede uso de \"todos instrumentos de diplomacia migratória\"",
@@ -83,27 +104,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b6ee6d27bf0.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2955491/em-direto-derbi-minhoto-abre-ronda-em-guimaraes-antes-do-arouca-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Estoril e Santa Clara arrancam vitórias",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2955491/em-direto-derbi-minhoto-abre-ronda-em-guimaraes-antes-do-arouca-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773596091000,
-         "created": 1773596091000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6783c32a95142.webp",
                "type": "image/jpeg",
                "length": "0"
             }
