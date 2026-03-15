@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2956063/forca-de-paz-no-libano-relata-ataque-contra-militares-internacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Força de paz no Líbano relata ataque contra militares internacionais",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2956063/forca-de-paz-no-libano-relata-ataque-contra-militares-internacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773602934000,
+         "created": 1773602934000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46756738.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2956055/o-onze-de-farioli-frente-ao-moreirense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Muitas novidades no FC Porto. O onze de Farioli frente ao Moreirense",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b3e91975f18.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2954995/euribor-sobe-de-novo-a-tres-a-seis-e-12-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Euribor sobe de novo a três, a seis e 12 meses",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2954995/euribor-sobe-de-novo-a-tres-a-seis-e-12-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773398227000,
-         "created": 1773398227000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6880b40720e9c.webp",
                "type": "image/jpeg",
                "length": "0"
             }
