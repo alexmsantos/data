@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2956000/bruno-fernandes-historico-e-sesko-endiabrado-man-united-venceu-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bruno Fernandes histórico e Sesko endiabrado. Man. United venceu assim",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2956000/bruno-fernandes-historico-e-sesko-endiabrado-man-united-venceu-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773591677000,
+         "created": 1773591677000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b6dc619b045.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2956002/ciclista-em-estado-grave-helitransportado-apos-acidente-na-serra-darga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ciclista em estado grave helitransportado após acidente na Serra d'Arga",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/46739813.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2954958/israel-pede-a-evacuacao-de-alguns-bairros-em-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Israel pede a evacuação de alguns bairros em Teerão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2954958/israel-pede-a-evacuacao-de-alguns-bairros-em-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773393453000,
-         "created": 1773393453000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67216904d08ba.webp",
                "type": "image/jpeg",
                "length": "0"
             }
