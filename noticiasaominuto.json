@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2956257/china-diz-que-mantem-conversacoes-com-estados-unidos-sobre-visita-de-trump#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "China diz que mantém conversações com Estados Unidos sobre visita de Trump",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2956257/china-diz-que-mantem-conversacoes-com-estados-unidos-sobre-visita-de-trump#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773652581000,
+         "created": 1773652581000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_673da9b175dc9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxODZ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2956258/politecnico-da-guarda-lidera-projeto-para-proteger-e-valorizar-cereja-iberica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Politécnico da Guarda lidera projeto para proteger e valorizar cereja ibérica",
@@ -322,7 +343,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2956238/teerao-ameacou-atacar-as-infraesturas-da-televisao-iran-international#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Teerão ameaçou atacar as infraesturas da televisão Iran International",
+         "title": "Teerão ameaçou atacar as infraestruras da televisão Iran International",
          "description": "",
          "link": "https://www.noticiasaominuto.com/mundo/2956238/teerao-ameacou-atacar-as-infraesturas-da-televisao-iran-international#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_699027a268475.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2955241/dizerem-que-se-nao-ficarmos-em-quarto-lugar-e-um-fracasso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Dizerem que se não ficarmos em quarto lugar é um fracasso...\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2955241/dizerem-que-se-nao-ficarmos-em-quarto-lugar-e-um-fracasso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773418352000,
-         "created": 1773418352000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46674427.webp",
                "type": "image/jpeg",
                "length": "0"
             }
