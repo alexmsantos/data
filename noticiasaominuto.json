@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2956710/nova-direcao-da-adxtur-quer-relancar-rede-das-aldeias-de-xisto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Nova direção da Adxtur quer relançar rede das Aldeias de Xisto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/2956710/nova-direcao-da-adxtur-quer-relancar-rede-das-aldeias-de-xisto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773703319000,
+         "created": 1773703319000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_58eb478b9ee56.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozMTY1LCJjcm9wSGVpZ2h0IjoxNzgwLCJjcm9wWCI6NTgsImNyb3BZIjo1MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTIzMSwiY3JvcEhlaWdodCI6MjE4OSwiY3JvcFgiOjE0MTIsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2956779/drone-cai-no-telhado-de-um-hotel-no-iraque-antes-de-ataque-a-embaixada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Drone cai no telhado de um hotel no Iraque antes de ataque a embaixada",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67cff53660e5b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2955712/ciclista-filma-propria-queda-em-penhasco-e-valioso-continuar-vivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ciclista filma própria queda em penhasco. \"É valioso continuar vivo\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2955712/ciclista-filma-propria-queda-em-penhasco-e-valioso-continuar-vivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773508899000,
-         "created": 1773508899000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b5960c73205.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjoxMjksImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0NTYsImNyb3BIZWlnaHQiOjgxMCwiY3JvcFgiOjgxNCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
