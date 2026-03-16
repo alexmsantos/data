@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2956214/ao-minuto-mne-da-ue-reunidos-trump-avisa-nato-para-futuro-mau#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AO MINUTO: MNE da UE reunidos; Trump avisa NATO para \"futuro mau\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2956214/ao-minuto-mne-da-ue-reunidos-trump-avisa-nato-para-futuro-mau#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773646517000,
+         "created": 1773646517000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b7b0a18207b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2956217/zaidu-devia-ter-sido-expulso-o-polemico-lance-no-fc-porto-moreirense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Zaidu devia ter sido expulso? O polémico lance no FC Porto-Moreirense",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_56b4e4685ee99.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2955176/rumor-aponta-chegada-da-playstation-6-para-o-final-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rumor aponta chegada da PlayStation 6 para o final de 2027",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2955176/rumor-aponta-chegada-da-playstation-6-para-o-final-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773412120000,
-         "created": 1773412120000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6479bf03acab2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI0LCJjcm9wSGVpZ2h0IjoxNDIwLCJjcm9wWCI6MTUsImNyb3BZIjoyMzh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0NiwiY3JvcEhlaWdodCI6MTY4MiwiY3JvcFgiOjQ0MSwiY3JvcFkiOjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
