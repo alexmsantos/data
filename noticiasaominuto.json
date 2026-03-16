@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2955180/liberdade-de-informacao-desde-que-alguem-encontre-o-ficheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Liberdade de Informação: Desde que alguém encontre o ficheiro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2955180/liberdade-de-informacao-desde-que-alguem-encontre-o-ficheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773656720000,
+         "created": 1773656720000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_66f51da716ff2.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjU3OSwiY3JvcFkiOjB9LCJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6InRvcC1yaWdodCJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2956281/roy-keane-nao-esta-convencido-com-carrick-e-sugere-tres-nomes-ao-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Roy Keane não está convencido com Carrick e sugere três nomes ao United",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_693881e6b72a9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2955298/bolsonaro-diagnosticado-com-broncopneumonia-e-internado-nos-intensivos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolsonaro diagnosticado com broncopneumonia (e internado nos intensivos)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2955298/bolsonaro-diagnosticado-com-broncopneumonia-e-internado-nos-intensivos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773422283000,
-         "created": 1773422283000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b448fb86c72.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0OCwiY3JvcEhlaWdodCI6MTY4NiwiY3JvcFgiOjE1MTcsImNyb3BZIjotMX0sImxhbmRzY2FwZSI6eyJjcm9wV2lkdGgiOjI1NjAsImNyb3BIZWlnaHQiOjE0NDAsImNyb3BYIjowLCJjcm9wWSI6MzB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
