@@ -6,6 +6,40 @@
    "category": [],
    "items": [
       {
+         "id": "db6c40b1-148b-4afe-bb7e-90aa04018271",
+         "title": "A pandemia do pagamento de salários por baixo da mesa",
+         "description": "<p>Reportagem: pagamentos de salário por fora estão generalizados em Portugal. Entre os casos relatados ao Expresso, há quem chegue a tirar 2/3 de forma ilegal. Ajudas de custo inventadas, quilómetros não percorridos e dinheiro vivo dominam</p>",
+         "link": "https://expresso.pt/economia/trabalho/2026-03-16-a-pandemia-do-pagamento-de-salarios-por-baixo-da-mesa-d9a68f81",
+         "author": [
+            "Elisabete Miranda",
+            "Isabel Vicente",
+            "Pedro Carreira Garcia",
+            "Helder Oliveira"
+         ],
+         "published": 1773676500000,
+         "created": 1773676500000,
+         "category": "Trabalho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-11-exp_03_01_final_0001_t-_idp.jpg-dab2b0bf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-11-exp_03_01_final_0001_t-_idp.jpg-dab2b0bf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-03-11-exp_03_01_final_0001_t-_idp.jpg-dab2b0bf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "99d874e9-61be-40ea-8d7c-db6c82edb431",
          "title": "Quanto menor a escolaridade e o rendimento, mais baixa é a literacia financeira",
          "description": "<p><span>O Banco de Portugal apresenta dois inquéritos de 2023 e 2022 sobre literacia financeira: um feito a adultos e outro a jovens de 15 anos. A literacia dos portugueses está em linha com a de 16 países da área do euro. Mulheres, jovens e idosos com menor nível de escolaridade e cidadãos com menores rendimentos apresentam baixos níveis de literacia</span></p>",
@@ -66,7 +100,7 @@
       {
          "id": "64926a20-7352-41e5-923c-dda763b9d8db",
          "title": "Não há acordo entre PS e PSD para escolha dos juízes para o Constitucional: novo adiamento das eleições para os órgãos externos",
-         "description": "<p><span>Desta vez foram os socialistas a avançar com o pedido de adiamento, depois de dois pedidos do PSD e de um do Chega. Fator de bloqueio é a escolha de três juízes para o Tribunal Constitucional, eleição que carece de voto favorável de dois terços dos deputados</span></p>",
+         "description": "<p><span>Desta vez foram os socialistas a avançar com o pedido de adiamento, depois de dois pedidos do PSD e de um do Chega. Fator de bloqueio é a escolha de três juízes para o Tribunal Constitucional, eleição que carece de voto favorável de dois terços dos deputados </span></p>",
          "link": "https://expresso.pt/politica/2026-03-16-nao-ha-acordo-entre-ps-e-psd-para-escolha-dos-juizes-para-o-constitucional-novo-adiamento-das-eleicoes-para-os-orgaos-externos-7b870f0a",
          "author": "João Pedro Henriques",
          "published": 1773674893000,
@@ -74,19 +108,19 @@
          "category": "Política",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2024-01-11-TM7929_T-_IDP.jpg-80130e22/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2024-01-11-tm7929_t-_idp.jpg-80130e22/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2024-01-11-TM7929_T-_IDP.jpg-80130e22/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2024-01-11-tm7929_t-_idp.jpg-80130e22/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-01-11-TM7929_T-_IDP.jpg-80130e22/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2024-01-11-tm7929_t-_idp.jpg-80130e22/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -266,35 +300,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-02-18-retoria-da-universidade-nova-de-lisboa-f03721ab/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "b754e1fc-eeef-45e2-9846-3e03d0787038",
-         "title": "Trump ameaça futuro da NATO se aliados não ajudarem no estreito de Ormuz",
-         "description": "<p>O Presidente norte-americano criticou a resposta morna de nações como o Reino Unido, Alemanha, Grécia e Itália, que recusaram participar na guerra dos Estados Unidos e Israel contra o Irão</p>",
-         "link": "https://expresso.pt/medio-oriente/conflito/2026-03-16-trump-ameaca-futuro-da-nato-se-aliados-nao-ajudarem-no-estreito-de-ormuz-2ad0e953",
-         "author": "Expresso",
-         "published": 1773669248000,
-         "created": 1773669248000,
-         "category": "Conflito no Médio Oriente",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-16-donald-trump-8d53e726/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-16-donald-trump-8d53e726/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-03-16-donald-trump-8d53e726/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
