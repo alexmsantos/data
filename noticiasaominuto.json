@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2957342/trafego-de-passageiros-nos-aeroportos-portugueses-cresce-3-4-em-fevereiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tráfego de passageiros nos aeroportos portugueses cresce 3,4% em fevereiro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2957342/trafego-de-passageiros-nos-aeroportos-portugueses-cresce-3-4-em-fevereiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773773441000,
+         "created": 1773773441000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_689867d34e85d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2957337/ucrania-enviou-201-especialistas-para-intercetar-drones-iranianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ucrânia enviou \"201 especialistas\" para intercetar drones iranianos",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_691b08b6ac336.webp",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_691b08b6ac336.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjg4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo4MjgsImNyb3BZIjotMX19",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b7bdb50f2e7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA5LCJjcm9wSGVpZ2h0IjoxNDExLCJjcm9wWCI6MzAsImNyb3BZIjo2M319",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2956223/dois-mortos-apos-naufragio-durante-excursao-escolar-no-sul-do-japao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dois mortos após naufrágio durante excursão escolar no sul do Japão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2956223/dois-mortos-apos-naufragio-durante-excursao-escolar-no-sul-do-japao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773649292000,
-         "created": 1773649292000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_558d81dde9dbe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyODAxLCJjcm9wSGVpZ2h0IjoxNTc2LCJjcm9wWCI6LTEsImNyb3BZIjo4Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA1MCwiY3JvcEhlaWdodCI6MTg2NiwiY3JvcFgiOjI4OSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
