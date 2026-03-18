@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2958180/acores-avanca-com-novo-processo-de-privatizacao-da-azores-airlines#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Açores avança com novo processo de privatização da Azores Airlines",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2958180/acores-avanca-com-novo-processo-de-privatizacao-da-azores-airlines#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773870263000,
+         "created": 1773870263000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/45614143.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjkyMSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2958148/de-khamenei-a-larijani-as-9-figuras-chave-do-regime-mortas-nos-ataques#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "De Khamenei a Larijani: As figuras-chave do regime mortas nos ataques",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_60bdfdd456808.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2956988/conflito-no-medio-oriente-obriga-nissan-a-reduzir-producao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Conflito no Médio Oriente obriga Nissan a reduzir produção",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2956988/conflito-no-medio-oriente-obriga-nissan-a-reduzir-producao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773751355000,
-         "created": 1773751355000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/45938045.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTU4LCJjcm9wWSI6NTI4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo2NDUsImNyb3BZIjoyOTl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
