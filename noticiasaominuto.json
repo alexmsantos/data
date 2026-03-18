@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2957757/dia-de-chuva-combina-com-estas-papas-de-aveia-e-chocolate-negro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dia de chuva combina com estas papas de aveia e chocolate negro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2957757/dia-de-chuva-combina-com-estas-papas-de-aveia-e-chocolate-negro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773853615000,
+         "created": 1773853615000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69baa06c8096a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OCwiY3JvcEhlaWdodCI6MTcwMywiY3JvcFgiOjgzOSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2957985/idoso-morre-apos-ficar-preso-entre-o-carro-e-a-porta-da-garagem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Idoso morre após ficar preso entre o carro e a porta da garagem",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b9073e6184e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2956869/olaf-de-frozen-subiu-ao-palco-da-conferencia-da-nvidia-veja-o-video#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Olaf, de \"Frozen\", subiu ao palco da conferência da Nvidia. Veja o vídeo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2956869/olaf-de-frozen-subiu-ao-palco-da-conferencia-da-nvidia-veja-o-video#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773736380000,
-         "created": 1773736380000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b91150da275.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODk4LCJjcm9wSGVpZ2h0IjoxMDY4LCJjcm9wWCI6NiwiY3JvcFkiOjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwMSwiY3JvcEhlaWdodCI6MTA2OCwiY3JvcFgiOjY5NiwiY3JvcFkiOjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
