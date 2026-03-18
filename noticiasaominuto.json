@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2957622/volkswagen-atualiza-tres-modelos-eletricos-o-que-muda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Volkswagen atualiza três modelos elétricos. O que muda?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2957622/volkswagen-atualiza-tres-modelos-eletricos-o-que-muda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773832829000,
+         "created": 1773832829000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69ba87daeced3.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2957661/lei-felca-produtora-de-gta-vai-deixar-de-vender-jogos-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Lei Felca\". Produtora de \"GTA\" vai deixar de vender jogos no Brasil",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5811f52dbd7c9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2956588/justica-libanesa-acusa-quatro-membros-do-hezbollah-por-posse-de-armas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Justiça libanesa acusa quatro membros do Hezbollah por posse de armas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2956588/justica-libanesa-acusa-quatro-membros-do-hezbollah-por-posse-de-armas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773679710000,
-         "created": 1773679710000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_659dc659a8d16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzc4LCJjcm9wSGVpZ2h0IjoxMzM4LCJjcm9wWCI6OTcsImNyb3BZIjoxNzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQxNiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
