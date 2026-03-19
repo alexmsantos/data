@@ -6,6 +6,96 @@
    "category": [],
    "items": [
       {
+         "id": "42ffd3ea-2dd0-4e00-9011-bde7db69df20",
+         "title": "Comer pão com manteiga pela manhã: um prazer que pode fazer mal?",
+         "description": "<p><span>Quantos pratos nacionais existem sem hidratos de carbono? É a pergunta que Ricardo Felner faz enquanto degusta uma tosta em pão alentejano. Será esta uma moda passageira? Oiça o podcast “O Homem Que Comia Tudo”</span></p>",
+         "link": "https://expresso.pt/podcasts/o-homem-que-comia-tudo/2026-03-19-comer-pao-com-manteiga-pela-manha-um-prazer-que-pode-fazer-mal--6ab10f52",
+         "author": [
+            "Ricardo Dias Felner",
+            "João Luís Amorim"
+         ],
+         "published": 1773907260000,
+         "created": 1773907260000,
+         "category": "O Homem Que Comia Tudo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-25-o-homem-que-comia-tudo-1ead618f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-25-o-homem-que-comia-tudo-1ead618f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-25-o-homem-que-comia-tudo-1ead618f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "ff38a193-947a-47eb-8ef4-878d7abda243",
+         "title": "Palavras Cruzadas nº 1436",
+         "description": "",
+         "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-03-19-palavras-cruzadas-n-1436-4c2b0649",
+         "author": "Atlântico Press",
+         "published": 1773907200000,
+         "created": 1773907200000,
+         "category": "Palavras Cruzadas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-05-palavras-cruzadas.jpg-ce5f3754/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-05-palavras-cruzadas.jpg-ce5f3754/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-03-05-palavras-cruzadas.jpg-ce5f3754/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "061ab6ff-fa89-4e4b-a1ec-33b3600ce5bb",
+         "title": "Entrevista a António Zambujo: “Há qualquer coisa na ordem das palavras, no ritmo que elas têm. Fecho os olhos e mando-me para a frente”",
+         "description": "<p>No centro de “Oração ao Tempo” está uma revisitação da canção homónima que Caetano Veloso ofereceu ao mundo no álbum “Cinema Transcendental”, editado em 1979, quando o pequeno António ainda nem tinha começado a escolaridade. O bejense regressa esta quinta-feira com um álbum em que reflete sobre o inexorável avançar dos dias. O disco pode ser ouvido aqui, na íntegra. Sobre como foi feito ouvimos Zambujo</p>",
+         "link": "https://expresso.pt/blitz/2026-03-19-entrevista-a-antonio-zambujo-ha-qualquer-coisa-na-ordem-das-palavras-no-ritmo-que-elas-tem.-fecho-os-olhos-e-mando-me-para-a-frente-e5a56dda",
+         "author": "Rui Miguel Abreu",
+         "published": 1773907200000,
+         "created": 1773907200000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-16-az_zambujo_dsc3169_bw_fin2_lr_t.jpg-28aa41b8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-16-az_zambujo_dsc3169_bw_fin2_lr_t.jpg-28aa41b8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-03-16-az_zambujo_dsc3169_bw_fin2_lr_t.jpg-28aa41b8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "beb19750-e324-45e9-992b-ab32e3f71ede",
          "title": "“The Hack”: quando um jornalista desmascara o sensacionalismo, o mundo fica mais limpo",
          "description": "<p>“The Hack”, um original da britânica ITV disponível na Filmin, é uma série rara, a falar de um jornalista que teve a coragem de desmascarar o jornalismo</p>",
@@ -198,97 +288,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-03-18-vice-almirante-jose-mendes-cabecadas-junior-a46f8447/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "3f47f479-616d-4054-9569-60caf4d2257a",
-         "title": "Eduardo Barroso: “Devemos confiar no SNS, mesmo com tempos de espera e sem médicos de família para todos. Nos EUA morreu um jovem de 19 anos porque não tinha seguro, em Portugal isso nao acontecia”",
-         "description": "<p>Seguiu a profissão do pai e tornou-se um dos cirurgiões mais reconhecidos do país - mas antes disso é sportinguista e sócio de nascença. Operou três Presidentes da República e foi peça chave na evolução do transplante no SNS. O médico Eduardo Barroso é o convidado do novo episódio do Geração 40</p> <p> </p>",
-         "link": "https://expresso.pt/podcasts/geracao-40/2026-03-19-devemos-confiar-no-sns-mesmo-com-tempos-de-espera-e-sem-medicos-de-familia.-nos-eua-morreu-um-jovem-de-19-anos-porque-nao-tinha-seguro-40af266e",
-         "author": [
-            "Júlio Isidro",
-            "João Martins",
-            "Mariana Óca Ferreira"
-         ],
-         "published": 1773903600000,
-         "created": 1773903600000,
-         "category": "Geração 40",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-18-fox_eduardobarroso_010.jpg-8845b892/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-18-fox_eduardobarroso_010.jpg-8845b892/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-03-18-fox_eduardobarroso_010.jpg-8845b892/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "90348faf-37fe-4cd0-bf97-5534fc66da01",
-         "title": "É cada vez mais fácil gerar música com IA, mas os direitos de autor são respeitados? “Sem regulação estamos em terra de ninguém”",
-         "description": "<p>Especialistas alertam que a falta de transparência relativamente ao uso de dados pela inteligência artificial generativa pode criar situações ilícitas, nomeadamente a apropriação indevida de material artístico protegido por direitos de autor</p>  <p> </p>",
-         "link": "https://expresso.pt/geracao-e/2026-03-19-e-cada-vez-mais-facil-gerar-musica-com-ia-mas-os-direitos-de-autor-sao-respeitados--sem-regulacao-estamos-em-terra-de-ninguem-5eca578d",
-         "author": "Expresso",
-         "published": 1773903600000,
-         "created": 1773903600000,
-         "category": "Geração E",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-11-ia-musica.jpg-18c01998/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-11-ia-musica.jpg-18c01998/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-03-11-ia-musica.jpg-18c01998/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "67351dec-1880-46e6-b50f-3fb191203271",
-         "title": "Leni Riefenstahl: a mestra de mentiras​ do nazismo num documentário imperdível",
-         "description": "<p>Um fascinante documentário de Andres Veiel sobre a cineasta oficial do nazismo alemão, com recurso, pela primeira vez, ao formidável espólio que deixou</p>",
-         "link": "https://expresso.pt/revista/culturas/cinema/2026-03-19-leni-riefenstahl-a-mestra-de-mentiras-do-nazismo-num-documentario-imperdivel-82332f05",
-         "author": "Jorge Leitão Ramos",
-         "published": 1773903600000,
-         "created": 1773903600000,
-         "category": "Cinema",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-16-24f527df-3fe0-4747-b03f-556fde67ee86_t-_idp.jpg-b88e0539/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-16-24f527df-3fe0-4747-b03f-556fde67ee86_t-_idp.jpg-b88e0539/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-03-16-24f527df-3fe0-4747-b03f-556fde67ee86_t-_idp.jpg-b88e0539/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
