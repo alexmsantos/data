@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2957586/em-direto-sp-braga-a-caca-da-remontada-na-pedreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Lyon eliminado e Nottingham no prolongamento antes de FC Porto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2957586/em-direto-sp-braga-a-caca-da-remontada-na-pedreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1773950398000,
+         "created": 1773950398000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bc525ea7376.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2958830/nomeado-grupo-para-elaborar-relatorio-tecnico-sobre-bacia-do-mondego#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nomeado grupo para elaborar relatório técnico sobre Bacia do Mondego",
@@ -1280,27 +1301,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66eeb2c1ec6b2.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2957586/em-direto-sp-braga-a-caca-da-remontada-na-pedreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Lyon eliminado e Nottingham no prolongamento antes de FC Porto",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2957586/em-direto-sp-braga-a-caca-da-remontada-na-pedreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773941970000,
-         "created": 1773941970000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bc525ea7376.webp",
                "type": "image/jpeg",
                "length": "0"
             }
