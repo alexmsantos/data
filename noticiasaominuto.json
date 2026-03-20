@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2959383/guerra-pode-prejudicar-economia-dos-eua-acima-do-previsto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guerra pode prejudicar economia dos EUA acima do previsto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2959383/guerra-pode-prejudicar-economia-dos-eua-acima-do-previsto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774025804000,
+         "created": 1774025804000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bd7c4dc8595.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2959373/obras-condicionam-linha-de-cascais-mas-nao-toda-saiba-quando#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Obras condicionam Linha de Cascais (mas não toda). Saiba quando",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bb30c15af91.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2958204/liverpool-pos-pe-no-acelerador-e-so-descansou-na-goleada-rumo-aos-quartos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Liverpool pôs pé no acelerador e só descansou na goleada rumo aos quartos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2958204/liverpool-pos-pe-no-acelerador-e-so-descansou-na-goleada-rumo-aos-quartos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773875119000,
-         "created": 1773875119000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bb2db7ee9aa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzI2LCJjcm9wSGVpZ2h0Ijo5NzEsImNyb3BYIjo2NCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQzNywiY3JvcEhlaWdodCI6Nzc3LCJjcm9wWCI6NzQ3LCJjcm9wWSI6NDh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
