@@ -14,8 +14,25 @@
          "published": 1774016480000,
          "created": 1774016480000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-11-02-paulo-rangel-7ffec692/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-11-02-paulo-rangel-7ffec692/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-11-02-paulo-rangel-7ffec692/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "dfce3bcc-aa5a-4e2e-b365-80712a518c83",
@@ -52,7 +69,7 @@
       {
          "id": "3f18a222-972f-4c06-8d4e-4f3c6b870e25",
          "title": "Morreu o ator Chuck Norris",
-         "description": "<p><span>O ator Chuck Norris morreu esta sexta-feira aos 86 anos</span><span>. </span><span>A estrela norte-americana de</span><span> </span><span>\"</span><span>Walker, o Ranger do Texas\"</span><span> estava </span><span>hospitalizada desde quinta-feira na ilha de Kauai, no Havai.</span></p>",
+         "description": "<p><span>O ator Chuck Norris morreu aos 86 anos</span><span>. </span><span>A estrela norte-americana de</span><span> </span><span>'</span><span>Walker, o Ranger do Texas'</span><span> estava </span><span>hospitalizada na ilha de Kauai, no Havai.</span></p>",
          "link": "https://sicnoticias.pt/cultura/2026-03-20-morreu-o-ator-chuck-norris-6821bb14",
          "author": [
             "Rafael Carvalho Ferreira",
