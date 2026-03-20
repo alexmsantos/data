@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2959525/fc-porto-critica-timing-do-comunicado-do-benfica-sobre-caso-dos-emails#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "FC Porto critica timing do comunicado do Benfica sobre caso dos emails",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2959525/fc-porto-critica-timing-do-comunicado-do-benfica-sobre-caso-dos-emails#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774037680000,
+         "created": 1774037680000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bc525ea7376.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2959497/andre-mountbatten-windsor-ainda-usa-o-titulo-real-que-perdeu-ha-4-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "André Mountbatten-Windsor ainda usa o título real (que perdeu há 4 meses)",
@@ -616,7 +637,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2959403/em-direto-estrela-da-amadora-e-casa-pia-inauguram-27-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Já há onzes no Estrela da Amadora e Casa Pia  ",
+         "title": "EM DIRETO: Começa a partida entre o Estrela da Amadora e Casa Pia  ",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/2959403/em-direto-estrela-da-amadora-e-casa-pia-inauguram-27-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bbb5bb8c515.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2958264/cosco-preve-algum-impacto-da-guerra-em-terminal-em-abu-dhabi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cosco prevê \"algum impacto\" da guerra em terminal em Abu Dhabi",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2958264/cosco-preve-algum-impacto-da-guerra-em-terminal-em-abu-dhabi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773909304000,
-         "created": 1773909304000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a81ae5931ed.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxOTN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
