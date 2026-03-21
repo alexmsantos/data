@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2959707/estou-disposto-a-fazer-uma-estatua-de-rudiger-e-a-po-la-no-jardim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Estou disposto a fazer uma estátua de Rudiger e a pô-la no jardim\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2959707/estou-disposto-a-fazer-uma-estatua-de-rudiger-e-a-po-la-no-jardim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774089887000,
+         "created": 1774089887000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69be767e19505.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ2fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2959706/ocorrencias-de-incendios-rurais-aumentam-mais-de-30-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ocorrências de incêndios rurais aumentam mais de 30% em 2025",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bbc3f7825aa.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2958537/jeronimo-martins-tem-estado-a-absorver-subida-dos-combustiveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jerónimo Martins tem \"estado a absorver\" subida dos combustíveis",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2958537/jeronimo-martins-tem-estado-a-absorver-subida-dos-combustiveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773928179000,
-         "created": 1773928179000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c4f3a03e8b94.webp",
                "type": "image/jpeg",
                "length": "0"
             }
