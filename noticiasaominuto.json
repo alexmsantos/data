@@ -1,5 +1,5 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
@@ -13,13 +13,34 @@
          "author": {
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
-         "published": 1774111765000,
-         "created": 1774111765000,
-         "category": "Mundo",
+         "published": 1774111900000,
+         "created": 1774111900000,
+         "category": "Economia",
          "content": "",
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69becc23a23b7.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2959799/mourinho-promove-mexidas-e-com-surpresa-os-onzes-do-benfica-vitoria-sc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mourinho promove mexidas e com surpresa. Os onzes do Benfica-Vitória SC",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2959799/mourinho-promove-mexidas-e-com-surpresa-os-onzes-do-benfica-vitoria-sc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774111843000,
+         "created": 1774111843000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69639f1c31410.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66899882aee40.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2958682/pj-realiza-buscas-em-entidades-publicas-da-regiao-da-madeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PJ realiza buscas em entidades públicas da Região da Madeira",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2958682/pj-realiza-buscas-em-entidades-publicas-da-regiao-da-madeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773938268000,
-         "created": 1773938268000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_688e92fa1d8dc.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjg5MywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
