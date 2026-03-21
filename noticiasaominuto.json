@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2959875/protecao-civil-atualiza-para-106-ocorrencias-na-madeira-desde-quinta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Proteção Civil atualiza para 106 ocorrências na Madeira desde quinta-feira",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2959875/protecao-civil-atualiza-para-106-ocorrencias-na-madeira-desde-quinta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774124274000,
+         "created": 1774124274000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67dc885862152.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2959872/pelo-menos-39-feridos-em-ataque-contra-dimona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Irão ataca cidade israelita com centro de investigação nuclear",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2959872/pelo-menos-39-feridos-em-ataque-contra-dimona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774124126000,
+         "created": 1774124126000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69befc2abc826.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2959886/g7-exige-a-teerao-fim-imediato-de-ataques-injustificaveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "G7 exige a Teerão \"fim imediato\" de ataques \"injustificáveis\"",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69afd507c6a86.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2958747/esquadra-de-cedofeita-fecha-atendimento-a-populacao-mas-psp-nega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Esquadra de Cedofeita fecha atendimento à população, mas PSP nega",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2958747/esquadra-de-cedofeita-fecha-atendimento-a-populacao-mas-psp-nega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773943622000,
-         "created": 1773943622000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5a966f1839228.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2958755/trabalhadores-da-ogma-com-aumentos-de-pelo-menos-60-euros-a-partir-de-julho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trabalhadores da OGMA com aumentos de pelo menos 60 euros a partir de julho",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2958755/trabalhadores-da-ogma-com-aumentos-de-pelo-menos-60-euros-a-partir-de-julho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773943597000,
-         "created": 1773943597000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_687e501ac1349.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjEzLCJjcm9wWSI6MjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjg1OSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
