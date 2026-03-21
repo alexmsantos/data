@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2959706/ocorrencias-de-incendios-rurais-aumentam-mais-de-30-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ocorrências de incêndios rurais aumentam mais de 30% em 2025",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2959706/ocorrencias-de-incendios-rurais-aumentam-mais-de-30-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774089611000,
+         "created": 1774089611000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_624d4065e73dc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2959700/divulgadas-imagens-da-detencao-de-justin-timberlake#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Divulgadas imagens da detenção de Justin Timberlake",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5c4f3a03e8b94.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2958540/pentagono-quer-treinar-modelos-de-ia-para-uso-militar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pentágono quer treinar modelos de IA para uso militar",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2958540/pentagono-quer-treinar-modelos-de-ia-para-uso-militar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773928113000,
-         "created": 1773928113000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_692f2d8b373c7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM0LCJjcm9wSGVpZ2h0IjoxNDI2LCJjcm9wWCI6MTIsImNyb3BZIjoxMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ4LCJjcm9wSGVpZ2h0IjoxNjg2LCJjcm9wWCI6ODk2LCJjcm9wWSI6MTB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
