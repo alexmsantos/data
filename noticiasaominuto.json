@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2960167/chuvas-torrenciais-causaram-pelo-menos-81-mortos-no-quenia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Chuvas torrenciais causaram pelo menos 81 mortos no Quénia ",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2960167/chuvas-torrenciais-causaram-pelo-menos-81-mortos-no-quenia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774203961000,
+         "created": 1774203961000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46702837.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2960172/de-volta-ao-topo-manchester-city-bate-arsenal-e-conquista-taca-da-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "De volta ao topo. Manchester City bate Arsenal e conquista Taça da Liga ",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_635a40510529a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2959039/meghan-markle-surge-de-surpresa-em-red-carpet-apos-rumores-sobre-netflix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Meghan Markle surge de surpresa em red carpet após rumores sobre Netflix",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2959039/meghan-markle-surge-de-surpresa-em-red-carpet-apos-rumores-sobre-netflix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773997365000,
-         "created": 1773997365000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bd0807cb78d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjM2LCJjcm9wSGVpZ2h0IjoxMjU4LCJjcm9wWCI6MTYsImNyb3BZIjo4NTl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
