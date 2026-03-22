@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2960225/novos-ataques-de-colonos-na-cisjordania-fazem-13-feridos-palestinianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novos ataques de colonos na Cisjordânia fazem 13 feridos palestinianos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2960225/novos-ataques-de-colonos-na-cisjordania-fazem-13-feridos-palestinianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774214512000,
+         "created": 1774214512000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46805279.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2960210/golo-de-goncalo-moreira-da-triunfo-ao-benfica-b-sobre-o-farense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Golo de Gonçalo Moreira dá triunfo ao Benfica B sobre o Farense",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bd2534e1b48.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2959107/russia-convoca-embaixador-israelita-por-ataque-a-jornalistas-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia convoca embaixador israelita por ataque a jornalistas no Líbano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2959107/russia-convoca-embaixador-israelita-por-ataque-a-jornalistas-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774003078000,
-         "created": 1774003078000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63aaaa580b290.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxMTF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OSwiY3JvcEhlaWdodCI6MTcwNCwiY3JvcFgiOjU0OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
