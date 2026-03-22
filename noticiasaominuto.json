@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2960011/agricultores-alertam-para-aumentos-nos-precos-se-conflito-se-prolongar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Agricultores alertam para aumentos nos preços se conflito se prolongar",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2960011/agricultores-alertam-para-aumentos-nos-precos-se-conflito-se-prolongar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774170830000,
+         "created": 1774170830000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_54a406585f77b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2960015/o-arsenal-pode-ter-30-ou-40-minutos-maus-contra-o-sporting-e-safar-se#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"O Arsenal pode ter 30 ou 40 minutos maus contra o Sporting e safar-se\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bc7617cdd93.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2958891/governo-aprova-venda-de-participacao-da-cgd-no-banco-caixa-geral-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo aprova venda de participação da CGD no Banco Caixa Geral-Brasil",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2958891/governo-aprova-venda-de-participacao-da-cgd-no-banco-caixa-geral-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1773958531000,
-         "created": 1773958531000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a07bc4c021e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMDF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE1MDAsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
