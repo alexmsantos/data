@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2959403/em-direto-estrela-da-amadora-e-casa-pia-inauguram-27-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Estoril-Rio Ave abre domingo de I Liga",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2959403/em-direto-estrela-da-amadora-e-casa-pia-inauguram-27-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774193735000,
+         "created": 1774193735000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68d6444e4d8ae.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2960106/ex-principe-andre-visto-em-publico-pela-primeira-vez-apos-prisao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ex-príncipe André visto em público pela primeira vez após prisão",
@@ -335,27 +356,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_65b978d21fa74.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2959403/em-direto-estrela-da-amadora-e-casa-pia-inauguram-27-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Estoril-Rio Ave abre domingo de I Liga",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2959403/em-direto-estrela-da-amadora-e-casa-pia-inauguram-27-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774187829000,
-         "created": 1774187829000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68d6444e4d8ae.webp",
                "type": "image/jpeg",
                "length": "0"
             }
