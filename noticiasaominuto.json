@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2960335/mais-de-69-mil-hyundai-recolhidos-nos-eua-apos-morte-de-crianca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mais de 69 mil Hyundai recolhidos nos EUA após morte de criança",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2960335/mais-de-69-mil-hyundai-recolhidos-nos-eua-apos-morte-de-crianca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774252577000,
+         "created": 1774252577000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c0f1c38b380.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2943064/o-melhor-11-da-historia-do-futebol-para-a-ia-ronaldo-entre-os-eleitos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O melhor 11 da história do futebol para a IA. Ronaldo entre os eleitos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_68fb49260688c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2959247/deniz-gul-na-lista-alargada-da-turquia-para-o-playoff-do-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Deniz Gul na lista alargada da Turquia para o playoff do Mundial",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2959247/deniz-gul-na-lista-alargada-da-turquia-para-o-playoff-do-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774015850000,
-         "created": 1774015850000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_693f003b07ab7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzY1LCJjcm9wWSI6Mzd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
