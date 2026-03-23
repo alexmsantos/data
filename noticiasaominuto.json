@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2960841/dia-mundial-do-teatro-com-entradas-gratis-e-estreias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dia Mundial do Teatro com entradas grátis e estreias",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/2960841/dia-mundial-do-teatro-com-entradas-gratis-e-estreias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774299667000,
+         "created": 1774299667000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/25122286.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTE1NCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2960833/mau-tempo-reposicao-das-telecomunicacoes-fixas-ainda-bastante-atrasada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mau tempo: Reposição das telecomunicações fixas ainda bastante atrasada",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69be9e3deade8.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2959744/forcas-iranianas-falham-ataque-a-base-naval-diego-garcia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Forças iranianas falham ataque a base naval Diego Garcia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2959744/forcas-iranianas-falham-ataque-a-base-naval-diego-garcia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774099809000,
-         "created": 1774099809000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69be9d667df1b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
