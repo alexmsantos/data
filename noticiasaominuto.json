@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2960811/netanyahu-diz-que-trump-ve-acordo-com-irao-como-solucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Netanyahu diz que Trump vê acordo com Irão como solução",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2960811/netanyahu-diz-que-trump-ve-acordo-com-irao-como-solucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774296830000,
+         "created": 1774296830000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6975361062f49.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg1LCJjcm9wSGVpZ2h0IjoxMzk4LCJjcm9wWCI6MCwiY3JvcFkiOjMxMH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2960828/idosa-encontrada-morta-em-casa-na-madeira-filho-sera-suspeito-em-fuga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Idosa encontrada morta em casa na Madeira. Filho será suspeito (em fuga)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/45984920.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2957644/tradicao-gastronomica-eis-a-receita-do-folar-doce-de-linguica-dos-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tradição gastronómica: Eis a receita do folar doce de linguiça dos Açores",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2957644/tradicao-gastronomica-eis-a-receita-do-folar-doce-de-linguica-dos-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774098086000,
-         "created": 1774098086000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69ba9769b92e4.webp",
                "type": "image/jpeg",
                "length": "0"
             }
