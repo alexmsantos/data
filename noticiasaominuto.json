@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2960311/greve-de-hoje-na-funcao-publica-pode-afetar-sobretudo-saude-e-educacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Greve de hoje na função pública pode afetar sobretudo saúde e educação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2960311/greve-de-hoje-na-funcao-publica-pode-afetar-sobretudo-saude-e-educacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774247212000,
+         "created": 1774247212000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/10758294.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2960303/ex-funcionarias-de-creche-acusadas-de-maus-tratos-comecam-a-ser-julgadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ex-funcionárias de creche acusadas de maus-tratos começam a ser julgadas",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bdb986ce213.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2959329/aumento-de-vendas-na-china-da-a-apple-motivos-para-sorrir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aumento de vendas na China dá à Apple motivos para sorrir",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2959329/aumento-de-vendas-na-china-da-a-apple-motivos-para-sorrir#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774040400000,
-         "created": 1774040400000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69bd67a20bd01.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM2LCJjcm9wSGVpZ2h0IjoxNDI2LCJjcm9wWCI6MTMsImNyb3BZIjo2OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODM5LCJjcm9wSGVpZ2h0IjoxNDkyLCJjcm9wWCI6NjgzLCJjcm9wWSI6MTd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
