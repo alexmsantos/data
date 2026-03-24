@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2960983/em-direto-siga-a-conferencia-de-imprensa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Siga a conferência de imprensa de Mateus Fernandes",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2960983/em-direto-siga-a-conferencia-de-imprensa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774345586000,
+         "created": 1774345586000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6922ea14ccaad.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2960984/moldova-sem-fornecimento-de-energia-eletrica-apos-ataques-russos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Moldova sem fornecimento de energia elétrica após ataques russos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_696e608f91e1b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2959926/mourinho-atira-nao-gostava-que-o-sporting-fosse-campeao-europeu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mourinho atira: \"Não gostava que o Sporting fosse campeão europeu\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2959926/mourinho-atira-nao-gostava-que-o-sporting-fosse-campeao-europeu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774133014000,
-         "created": 1774133014000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69befa445cf4e.webp",
                "type": "image/jpeg",
                "length": "0"
             }
