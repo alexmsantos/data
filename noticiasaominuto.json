@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2962056/albufeira-recusa-que-presidente-do-municipio-discrimine-grupos-ou-etnias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Câmara de Albufeira recusa que autarca discrimine qualquer grupo ou etnia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2962056/albufeira-recusa-que-presidente-do-municipio-discrimine-grupos-ou-etnias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774462480000,
+         "created": 1774462480000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c42613b0c71.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2962019/historico-sarah-mullally-empossada-arcebispa-de-canterbury-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Histórico: Sarah Mullally empossada Arcebispa de Canterbury. As imagens",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c1697910ea4.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2960451/goncalos-viram-dilema-no-benfica-que-futuro-para-oliveira-e-moreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Gonçalos viram dilema no Benfica. Que futuro para Oliveira e Moreira?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2960451/goncalos-viram-dilema-no-benfica-que-futuro-para-oliveira-e-moreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774335584000,
-         "created": 1774335584000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c1202788b1e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDgzLCJjcm9wSGVpZ2h0IjoxMTcyLCJjcm9wWCI6MzA4LCJjcm9wWSI6Mzd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
