@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2962664/witkoff-diz-haver-fortes-indicios-de-acordo-iminente-com-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Witkoff diz haver \"fortes indícios\" de acordo iminente com Teerão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2962664/witkoff-diz-haver-fortes-indicios-de-acordo-iminente-com-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774540528000,
+         "created": 1774540528000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c556f0c0e3c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2962661/concentracao-de-polen-elevada-a-partir-de-6-feira-no-sul-e-centro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Concentração de pólen elevada a partir de 6.ª feira no Sul e Centro",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/43778749.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2961523/desvio-dos-estados-unidos-para-o-medio-oriente-pode-beneficiar-china#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Desvio dos Estados Unidos para o Médio Oriente pode beneficiar China",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2961523/desvio-dos-estados-unidos-para-o-medio-oriente-pode-beneficiar-china#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774419494000,
-         "created": 1774419494000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c38742f27b3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNTV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjg4NCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
