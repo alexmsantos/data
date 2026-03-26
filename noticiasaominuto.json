@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2962861/reparacao-de-sarcofago-de-chernobyl-apos-ataque-custa-500-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Reparação de sarcófago de Chernobyl após ataque custa 500 milhões",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2962861/reparacao-de-sarcofago-de-chernobyl-apos-ataque-custa-500-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774557378000,
+         "created": 1774557378000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46830988.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ3LCJjcm9wSGVpZ2h0IjoxNDMzLCJjcm9wWCI6MCwiY3JvcFkiOjI3NX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2962859/dia-de-sonho-conheca-a-combinacao-vencedora-do-eurodreams#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dia de sonho? Conheça a combinação vencedora do EuroDreams",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c3c8f4a4360.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTAzLCJjcm9wSGVpZ2h0IjoxMDcwLCJjcm9wWCI6OSwiY3JvcFkiOjE0Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODA0LCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6NjUwLCJjcm9wWSI6Nn19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2961695/russia-envia-300-toneladas-de-medicamentos-para-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia envia 300 toneladas de medicamentos para Teerão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2961695/russia-envia-300-toneladas-de-medicamentos-para-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774438545000,
-         "created": 1774438545000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69ac5b28d5d5c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE3NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ0LCJjcm9wSGVpZ2h0IjoxNjc5LCJjcm9wWCI6NzQ3LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
