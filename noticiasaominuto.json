@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2962398/apple-esta-a-testar-iphone-com-camara-de-200mp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Apple está a testar iPhone com câmara de 200MP",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2962398/apple-esta-a-testar-iphone-com-camara-de-200mp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774522535000,
+         "created": 1774522535000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_68d2626ed47a3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTQzLCJjcm9wWSI6MTEzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo2MDAsImNyb3BZIjoxNX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2962399/exposicoes-dos-bancos-da-zona-euro-no-medio-oriente-sao-limitadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Exposições dos bancos da zona euro no Médio Oriente \"são limitadas\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6800219764b16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDcwLCJjcm9wSGVpZ2h0IjoxMzg5LCJjcm9wWCI6MzMsImNyb3BZIjoxMDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjIwNSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2961235/principe-saudita-tera-incentivado-trump-a-continuar-com-guerra-no-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Príncipe saudita terá incentivado Trump a continuar com guerra no Irão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2961235/principe-saudita-tera-incentivado-trump-a-continuar-com-guerra-no-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774368542000,
-         "created": 1774368542000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_691cbc67c372a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc0LCJjcm9wSGVpZ2h0IjoxMzkyLCJjcm9wWCI6ODYsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MTgsImNyb3BIZWlnaHQiOjE2MzIsImNyb3BYIjo4NjQsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
