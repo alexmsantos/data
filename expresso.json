@@ -6,6 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "e5faa37c-7724-45e7-93de-6391940b6ccc",
+         "title": "Isabel Ruth: “Conheci Jean-Luc Godard numa viagem de comboio, perguntou se podia sentar-se connosco. Descascava laranjas e dava-nos os gomos”",
+         "description": "<p>Sempre segura e decidida do que queria ser, com cinco anos sabia que seria bailarina e aos 18 casou-se. Mas também dizia que nunca seria atriz, porque “não tinha jeito para fingir”, mas foi do cinema que fez ofício. Isabel Ruth é a convidada do novo episódio do Geração 40</p>",
+         "link": "https://expresso.pt/podcasts/geracao-40/2026-03-26-conheci-jean-luc-godard-numa-viagem-de-comboio-perguntou-se-podia-sentar-se-connosco.-descascava-laranjas-e-dava-nos-os-gomos-0eb9be7a",
+         "author": [
+            "Júlio Isidro",
+            "João Martins",
+            "Mariana Óca Ferreira"
+         ],
+         "published": 1774509600000,
+         "created": 1774509600000,
+         "category": "Geração 40",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-25-geracao-40-isabel-ruth-16032026-09-mf.jpg-cad3bdf8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-25-geracao-40-isabel-ruth-16032026-09-mf.jpg-cad3bdf8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-03-25-geracao-40-isabel-ruth-16032026-09-mf.jpg-cad3bdf8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "a6a6ce0d-287c-493c-9383-e1afadbca9f4",
          "title": "Em memória das máquinas de fazer pão",
          "description": "<p><span>Antes da pandemia, nunca tinha estado tudo bem, e não havia qualquer razão para acreditar que, depois, viesse a estar. Mas “vai ficar tudo bem”</span></p>",
@@ -88,35 +121,6 @@
          "media": {}
       },
       {
-         "id": "d8e6ec20-00e9-4a65-be96-d7f414c15983",
-         "title": "Claudia Cardinale: a boa rapariga que chegou ao céu em destaque na Cinemateca de Lisboa",
-         "description": "<p>De 1 de abril até meados de maio, a Cinemateca de Lisboa exibe um ciclo dedicado a um dos rostos da época áurea do cinema italiano: Claudia Cardinale</p>",
-         "link": "https://expresso.pt/revista/culturas/cinema/2026-03-26-claudia-cardinale-a-boa-rapariga-que-chegou-ao-ceu-em-destaque-na-cinemateca-de-lisboa-2e2e5910",
-         "author": "Jorge Leitão Ramos",
-         "published": 1774508400000,
-         "created": 1774508400000,
-         "category": "Cinema",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-20-alta_gettyimages-1902174663_t-_idp.jpg-04136a46/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-20-alta_gettyimages-1902174663_t-_idp.jpg-04136a46/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-03-20-alta_gettyimages-1902174663_t-_idp.jpg-04136a46/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "70768abf-f5fa-46a7-919e-e34b9c8e2ddd",
          "title": "O dilema da Europa no Médio Oriente: uma abordagem ambivalente em relação entre Washington, Telavive e Teerão",
          "description": "<p>Perceções divergentes de ameaça entre Estados-membros, capacidades militares limitadas e fragmentação institucional persistente continuam a restringir a capacidade da UE atuar como um ator geopolítico</p>",
@@ -140,6 +144,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-03-25-alberto-cunha-416d0b45/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "d8e6ec20-00e9-4a65-be96-d7f414c15983",
+         "title": "Claudia Cardinale: a boa rapariga que chegou ao céu em destaque na Cinemateca de Lisboa",
+         "description": "<p>De 1 de abril até meados de maio, a Cinemateca de Lisboa exibe um ciclo dedicado a um dos rostos da época áurea do cinema italiano: Claudia Cardinale</p>",
+         "link": "https://expresso.pt/revista/culturas/cinema/2026-03-26-claudia-cardinale-a-boa-rapariga-que-chegou-ao-ceu-em-destaque-na-cinemateca-de-lisboa-2e2e5910",
+         "author": "Jorge Leitão Ramos",
+         "published": 1774508400000,
+         "created": 1774508400000,
+         "category": "Cinema",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-20-alta_gettyimages-1902174663_t-_idp.jpg-04136a46/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-03-20-alta_gettyimages-1902174663_t-_idp.jpg-04136a46/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-03-20-alta_gettyimages-1902174663_t-_idp.jpg-04136a46/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -198,35 +231,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-06-10-liga-dos-inovadores-jorge-graca-16052025-03-mf.jpg-d4ffd8a3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "70917c9d-5e5e-415e-be07-9fc4d4575a63",
-         "title": "Cuba: o que a administração Trump diz, e o que realmente quer",
-         "description": "<p>Para compreender o que Washington quer verdadeiramente, é necessário distinguir entre o discurso público e os objetivos das negociações em curso</p>",
-         "link": "https://expresso.pt/opiniao/2026-03-26-cuba-o-que-a-administracao-trump-diz-e-o-que-realmente-quer-b7a1a547",
-         "author": "Maria Raquel Freire",
-         "published": 1774508400000,
-         "created": 1774508400000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-02-22-Mari-Raquel-Freire_T_A-_IDP.png-b894e8f7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-02-22-Mari-Raquel-Freire_T_A-_IDP.png-b894e8f7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-02-22-Mari-Raquel-Freire_T_A-_IDP.png-b894e8f7/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
