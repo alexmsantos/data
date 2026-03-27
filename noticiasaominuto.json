@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2963001/zero-quer-metro-de-lisboa-aberto-as-5h30-devido-a-subida-dos-combustiveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zero quer Metro de Lisboa aberto às 5h30 devido à subida dos combustíveis",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2963001/zero-quer-metro-de-lisboa-aberto-as-5h30-devido-a-subida-dos-combustiveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774599344000,
+         "created": 1774599344000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/30160272.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2962996/gnr-apanhou-quase-73-mil-carros-sem-inspecao-nas-estradas-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "GNR apanhou quase 73 mil carros sem inspeção nas estradas em 2025",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6945e4ea526b7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQxLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MjAsImNyb3BZIjoyN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTE3NywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2961879/artur-soares-dias-condena-agressoes-a-arbitros-e-torce-por-joao-pinheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Artur Soares Dias torce por João Pinheiro: \"Ao contrário de Mourinho...\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2961879/artur-soares-dias-condena-agressoes-a-arbitros-e-torce-por-joao-pinheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774449921000,
-         "created": 1774449921000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6675aff0af4d0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ0LCJjcm9wSGVpZ2h0IjoxNjc5LCJjcm9wWCI6MTA0MSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
