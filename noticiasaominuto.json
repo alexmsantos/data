@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2963508/lucro-da-media-capital-cai-60-em-2025-para-3-7-milhoes-de-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lucro da Media Capital cai 60% em 2025 para 3,7 milhões de euros",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2963508/lucro-da-media-capital-cai-60-em-2025-para-3-7-milhoes-de-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774639707000,
+         "created": 1774639707000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64cb7f22b0d3e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2963512/oposicao-no-congresso-atrasa-aprovacao-de-orcamento-para-seguranca-interna#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oposição no Congresso atrasa aprovação de orçamento para Segurança Interna",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c4ff0420752.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2962354/xiaomi-vendeu-mais-de-165-milhoes-de-telemoveis-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Xiaomi vendeu mais de 165 milhões de telemóveis em 2025",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2962354/xiaomi-vendeu-mais-de-165-milhoes-de-telemoveis-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774517936000,
-         "created": 1774517936000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5e258e7becb34.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjk3LCJjcm9wSGVpZ2h0Ijo5NTQsImNyb3BYIjoxNjEsImNyb3BZIjoxN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjM2LCJjcm9wSGVpZ2h0IjoxMTMxLCJjcm9wWCI6NjYxLCJjcm9wWSI6MTJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
