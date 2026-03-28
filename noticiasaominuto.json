@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2963730/astronauta-em-orbita-deixou-de-conseguir-falar-nasa-nao-sabe-motivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Astronauta em órbita deixou de conseguir falar. NASA não sabe motivo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2963730/astronauta-em-orbita-deixou-de-conseguir-falar-nasa-nao-sabe-motivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774696719000,
+         "created": 1774696719000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_695f93841bac8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTIxLCJjcm9wSGVpZ2h0IjoxMDgxLCJjcm9wWCI6MCwiY3JvcFkiOjE0OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NDk5LCJjcm9wSGVpZ2h0Ijo4ODYsImNyb3BYIjoyNDIsImNyb3BZIjo0NTd9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2963729/exercito-iraniano-diz-ter-atacado-um-navio-dos-eua-perto-de-porto-de-oma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Exército iraniano diz ter atacado um navio dos EUA perto de porto de Omã",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a16887657ee.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2962639/psacores-diz-que-contas-publicas-confirmam-falhanco-da-governacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PS/Açores diz que contas públicas confirmam \"falhanço da governação\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/2962639/psacores-diz-que-contas-publicas-confirmam-falhanco-da-governacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774538627000,
-         "created": 1774538627000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_63d444b39ad45.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTE0LCJjcm9wWSI6MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODI1LCJjcm9wSGVpZ2h0IjoxNDY3LCJjcm9wWCI6MTM2OSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
