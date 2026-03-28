@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2963925/barcelona-nao-larga-schjelderup-e-espanhois-dizem-que-deco-esta-em-acao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Barcelona não larga Schjelderup e espanhóis dizem que Deco está em ação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2963925/barcelona-nao-larga-schjelderup-e-espanhois-dizem-que-deco-esta-em-acao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774736390000,
+         "created": 1774736390000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6966369d1a1a0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjE0Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTg5NiwiY3JvcEhlaWdodCI6MzM3MSwiY3JvcFgiOjI3NCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2961236/lembra-se-entrou-com-a-atual-e-as-ex-num-reality-e-ainda-arranjou-outra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lembra-se? Entrou com a atual e as ex num reality e ainda arranjou outra ",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_660295ed5a8fe.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2962822/noelia-castillo-morre-apos-ser-eutanasiada-batalha-judicial-2-durou-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Noelia Castillo morre eutanasiada. Batalha judicial durou 2 anos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2962822/noelia-castillo-morre-apos-ser-eutanasiada-batalha-judicial-2-durou-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774554410000,
-         "created": 1774554410000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c5869a78fd2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTUxLCJjcm9wSGVpZ2h0Ijo2NDgsImNyb3BYIjo1MSwiY3JvcFkiOjEzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozNzIsImNyb3BIZWlnaHQiOjY2MSwiY3JvcFgiOjU1MywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
