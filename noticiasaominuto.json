@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2963776/dois-detidos-por-suspeitas-de-sequestro-extorsao-e-roubo-na-covilha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dois detidos por suspeitas de sequestro, extorsão e roubo na Covilhã",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2963776/dois-detidos-por-suspeitas-de-sequestro-extorsao-e-roubo-na-covilha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774705375000,
+         "created": 1774705375000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_590985464b64e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2963775/governo-quer-concluir-ate-30-de-junho-os-processos-de-apoio-as-habitacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo quer concluir processos de apoio às habitações afetadas até junho",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c51541c0a88.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2962681/video-falso-com-imagem-de-antonio-horta-osorio-circula-nas-redes-sociais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vídeo falso com imagem de António Horta Osório circula nas redes sociais",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2962681/video-falso-com-imagem-de-antonio-horta-osorio-circula-nas-redes-sociais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774542228000,
-         "created": 1774542228000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_65837a09d47d7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEyLCJjcm9wWSI6MTk2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjEsImNyb3BIZWlnaHQiOjE2MzgsImNyb3BYIjoxMjUxLCJjcm9wWSI6Njl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
