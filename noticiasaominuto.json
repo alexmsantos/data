@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2963990/israel-atacou-centros-de-comando-moveis-e-fabricas-de-armas-em-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel atacou centros de comando móveis e fábricas de armas em Teerão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2963990/israel-atacou-centros-de-comando-moveis-e-fabricas-de-armas-em-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774774507000,
+         "created": 1774774507000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46844963.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2963987/jovem-detido-pela-psp-por-trafico-em-leiria-escondia-droga-na-rua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jovem detido pela PSP por tráfico em Leiria. Escondia droga na rua",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c5b5a679834.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2962493/este-novo-dobravel-da-samsung-vai-competir-com-o-iphone-fold#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Este novo dobrável da Samsung vai competir com o iPhone Fold",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2962493/este-novo-dobravel-da-samsung-vai-competir-com-o-iphone-fold#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774564865000,
-         "created": 1774564865000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c5264b79d8d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM5LCJjcm9wSGVpZ2h0IjoxNDI4LCJjcm9wWCI6NiwiY3JvcFkiOjEyOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTU4LCJjcm9wSGVpZ2h0IjoxNzAzLCJjcm9wWCI6Nzg3LCJjcm9wWSI6MTJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
