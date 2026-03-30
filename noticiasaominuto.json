@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2964295/fogo-controlado-governo-paga-ate-365-por-hectare-e-funciona-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fogo controlado: Governo paga até 365€ por hectare e funciona assim",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2964295/fogo-controlado-governo-paga-ate-365-por-hectare-e-funciona-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774861500000,
+         "created": 1774861500000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69ca2eed954fc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2964290/iphone-fold-pode-ser-lancado-mais-tarde-do-que-estava-previsto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "iPhone Fold pode ser lançado mais tarde do que estava previsto",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c68f4a3d932.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2963265/familia-pode-ser-retirada-de-casa-devido-a-grande-derrocada-na-madeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Família pode ser retirada de casa devido a grande derrocada na Madeira",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2963265/familia-pode-ser-retirada-de-casa-devido-a-grande-derrocada-na-madeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774620356000,
-         "created": 1774620356000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46835401.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NDUwLCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
