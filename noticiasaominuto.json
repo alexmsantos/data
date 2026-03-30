@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2964353/mocambique-seis-funcionarios-de-saude-detidos-por-desvio-de-medicamentos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Moçambique. Seis funcionários de saúde detidos por desvio de medicamentos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2964353/mocambique-seis-funcionarios-de-saude-detidos-por-desvio-de-medicamentos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774868273000,
+         "created": 1774868273000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/22135939.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2964337/terrorismo-mp-atribui-caso-de-cocktail-molotov-em-marcha-pela-vida-a-pj#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Terrorismo? MP atribui caso de cocktail molotov em Marcha pela Vida à PJ",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_67d9556e44abc.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2963354/inter-miami-faz-o-impensavel-e-dedica-bancada-de-novo-estadio-a-messi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Inter Miami faz o impensável e dedica bancada de novo estádio... a Messi",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2963354/inter-miami-faz-o-impensavel-e-dedica-bancada-de-novo-estadio-a-messi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774626008000,
-         "created": 1774626008000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c6a17c64d9e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTYzLCJjcm9wSGVpZ2h0Ijo2NTQsImNyb3BYIjozOTUsImNyb3BZIjoxMTd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ1NywiY3JvcEhlaWdodCI6ODEzLCJjcm9wWCI6NjgxLCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
