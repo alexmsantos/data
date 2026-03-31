@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2965022/taxa-de-desemprego-tera-subido-para-5-8-em-fevereiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Taxa de desemprego terá subido para 5,8% em fevereiro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2965022/taxa-de-desemprego-tera-subido-para-5-8-em-fevereiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774956753000,
+         "created": 1774956753000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cba30d570a7.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2965008/mae-e-filho-morrem-apos-serem-atropelados-por-autocarro-no-rio-de-janeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mãe e filho morrem após serem atropelados por autocarro no Rio de Janeiro",
@@ -657,10 +678,10 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/tech/2964966/satelite-da-starlink-volta-a-explodir-a-orbita-spacex-sem-explicacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Satélite da Starlink volta a explodir a órbita. SpaceX sem explicações",
+         "id": "https://www.noticiasaominuto.com/tech/2964966/satelite-starlink-volta-a-explodir-a-orbita-spacex-sem-explicacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Satélite Starlink volta a explodir a órbita. SpaceX sem explicações",
          "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2964966/satelite-da-starlink-volta-a-explodir-a-orbita-spacex-sem-explicacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/tech/2964966/satelite-starlink-volta-a-explodir-a-orbita-spacex-sem-explicacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/46844963.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2963987/jovem-detido-pela-psp-por-trafico-em-leiria-escondia-droga-na-rua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jovem detido pela PSP por tráfico em Leiria. Escondia droga na rua",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2963987/jovem-detido-pela-psp-por-trafico-em-leiria-escondia-droga-na-rua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774773981000,
-         "created": 1774773981000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_67a67d3188a4d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjg3NiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
