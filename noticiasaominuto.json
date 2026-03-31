@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2964975/conteudos-gerados-por-inteligencia-artificial-contribuem-para-inseguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Conteúdos gerados por Inteligência Artificial contribuem para insegurança",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2964975/conteudos-gerados-por-inteligencia-artificial-contribuem-para-inseguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774953083000,
+         "created": 1774953083000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_683443788a765.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjIsImNyb3BZIjoyNzd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NSwiY3JvcEhlaWdodCI6MTY5NywiY3JvcFgiOjkyMCwiY3JvcFkiOjJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2964986/efeito-da-guerra-inflacao-da-zona-euro-sobe-para-2-5-em-marco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Efeito da guerra: Inflação da zona euro sobe para 2,5% em março",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c9ac811d2aa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6LTEsImNyb3BZIjoyOTJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc1OCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2963970/proibicao-de-livros-de-bd-esta-a-aumentar-nos-eua-temos-de-lutar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Proibição de livros de BD está a aumentar nos EUA: \"Temos de lutar\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2963970/proibicao-de-livros-de-bd-esta-a-aumentar-nos-eua-temos-de-lutar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774769106000,
-         "created": 1774769106000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_61e11ad055ef4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6Mjc3LCJjcm9wWSI6MzE3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo1MjMsImNyb3BZIjoyNzJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
