@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2964992/novo-cupra-raval-sera-revelado-para-a-semana-o-que-esperar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novo Cupra Raval será revelado para a semana. O que esperar?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2964992/novo-cupra-raval-sera-revelado-para-a-semana-o-que-esperar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1774953394000,
+         "created": 1774953394000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cb95a5eeb9d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2964975/conteudos-gerados-por-inteligencia-artificial-contribuem-para-inseguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Conteúdos gerados por Inteligência Artificial contribuem para insegurança",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_68d8621fe0b87.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2963972/ao-minuto-kuwait-e-eua-alvo-de-misseis-autorizada-passagem-de-20-navios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: Patriarca pede direito à oração; Central no Irão inoperacional",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2963972/ao-minuto-kuwait-e-eua-alvo-de-misseis-autorizada-passagem-de-20-navios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774769241000,
-         "created": 1774769241000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c9ac811d2aa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6LTEsImNyb3BZIjoyOTJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc1OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
