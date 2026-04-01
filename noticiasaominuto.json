@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2966003/autoridade-maritima-aumenta-meios-nas-praias-ate-12-de-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Autoridade Marítima aumenta meios nas praias até 12 de abril",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2966003/autoridade-maritima-aumenta-meios-nas-praias-ate-12-de-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775061140000,
+         "created": 1775061140000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6637e7a03ab9b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjIxMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODQ3LCJjcm9wSGVpZ2h0IjoxNTA2LCJjcm9wWCI6MTMwLCJjcm9wWSI6MzB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2966002/o-golaco-de-francisco-conceicao-pela-juventus-que-lhe-valeu-um-premio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O golaço de Francisco Conceição pela Juventus que lhe valeu um prémio",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/26248151.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjcxMCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2964838/fu-yu-ganha-ultimo-encontro-da-fase-de-grupos-na-taca-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fu Yu ganha último encontro da fase de grupos na Taça do Mundo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2964838/fu-yu-ganha-ultimo-encontro-da-fase-de-grupos-na-taca-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774937120000,
-         "created": 1774937120000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46849018.webp",
                "type": "image/jpeg",
                "length": "0"
             }
