@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2965957/jovem-detido-um-ano-e-meio-apos-roubo-com-arma-de-fogo-em-belas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Jovem detido um ano e meio após roubo com arma de fogo em Belas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2965957/jovem-detido-um-ano-e-meio-apos-roubo-com-arma-de-fogo-em-belas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775058141000,
+         "created": 1775058141000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_563945ec0912b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2965905/russia-preve-aumento-do-comercio-com-irao-via-mar-caspio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rússia prevê aumento do comércio com Irão via mar Cáspio",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69a4a9c56cc57.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2964811/atentado-contra-sinagoga-em-detroit-foi-inspirado-pelo-hezbollah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Atentado contra sinagoga em Detroit foi inspirado pelo Hezbollah",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2964811/atentado-contra-sinagoga-em-detroit-foi-inspirado-pelo-hezbollah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774915685000,
-         "created": 1774915685000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cb5dbbe09d3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE2LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MTksImNyb3BZIjoyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTAwOSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
