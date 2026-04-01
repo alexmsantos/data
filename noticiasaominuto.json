@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2965825/execucao-orcamental-excedente-cai-para-1992-4-milhoes-em-fevereiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Execução orçamental: Excedente cai para 1.992,4 milhões em fevereiro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2965825/execucao-orcamental-excedente-cai-para-1992-4-milhoes-em-fevereiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775047668000,
+         "created": 1775047668000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/ultimahora.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2965827/portugal-sobe-a-quinto-no-ranking-da-fifa-e-franca-e-nova-lider#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal sobe a quinto no ranking da FIFA e França é nova líder",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2965827/portugal-sobe-a-quinto-no-ranking-da-fifa-e-franca-e-nova-lider#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775047641000,
+         "created": 1775047641000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cd05b86739c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2965819/jovem-de-19-anos-gravemente-ferida-apos-ser-baleada-dois-homens-detidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jovem de 19 anos gravemente ferida após ser baleada. Dois homens detidos",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cab53f9b815.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2964569/g7-disposto-a-tomar-medidas-a-estabilidade-e-seguranca-energeticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "G7 disposto a tomar \"medidas\" à estabilidade e segurança energéticas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2964569/g7-disposto-a-tomar-medidas-a-estabilidade-e-seguranca-energeticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774897161000,
-         "created": 1774897161000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cab95d1f2cf.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2964671/seguro-promulga-diploma-de-apoios-excecionais-ao-preco-dos-combustiveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Seguro promulga diploma de apoios excecionais ao preço dos combustíveis",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2964671/seguro-promulga-diploma-de-apoios-excecionais-ao-preco-dos-combustiveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774897066000,
-         "created": 1774897066000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b310b7ce385.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIyMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6Nzk5LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
