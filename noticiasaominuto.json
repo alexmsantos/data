@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2965969/estao-a-circular-imagens-do-novo-topo-de-gama-da-google#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Estão a circular imagens do novo topo de gama da Google",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2965969/estao-a-circular-imagens-do-novo-topo-de-gama-da-google#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775082600000,
+         "created": 1775082600000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cd2e2e51120.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM4LCJjcm9wSGVpZ2h0IjoxNDI3LCJjcm9wWCI6MTEsImNyb3BZIjoxMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODAxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6NjgxLCJjcm9wWSI6MTB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2966194/bayern-munique-e-arsenal-sao-os-primeiros-apurados-para-as-meias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bayern Munique e Arsenal são os primeiros apurados para as 'meias'",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cb95a5eeb9d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2964975/conteudos-gerados-por-inteligencia-artificial-contribuem-para-inseguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Conteúdos gerados por Inteligência Artificial contribuem para insegurança",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2964975/conteudos-gerados-por-inteligencia-artificial-contribuem-para-inseguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1774953083000,
-         "created": 1774953083000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_683443788a765.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjIsImNyb3BZIjoyNzd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NSwiY3JvcEhlaWdodCI6MTY5NywiY3JvcFgiOjkyMCwiY3JvcFkiOjJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
