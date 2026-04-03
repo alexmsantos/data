@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2967085/santos-da-casa-afastaram-susto-inicial-e-sporting-aproxima-se-do-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Santos da casa afastaram susto inicial e Sporting aproxima-se do FC Porto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2967085/santos-da-casa-afastaram-susto-inicial-e-sporting-aproxima-se-do-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775255521000,
+         "created": 1775255521000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d02824869c0.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2967086/exercito-iraniano-diz-que-abateu-segundo-aviao-de-combate-norte-americano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Exército iraniano diz ter abatido segundo avião de combate dos EUA",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/41668054.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2965919/trump-anuncia-pedido-de-cessar-fogo-mas-so-aceita-se-reabrir-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trump anuncia pedido de cessar-fogo, mas só aceita se reabrir Ormuz",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2965919/trump-anuncia-pedido-de-cessar-fogo-mas-so-aceita-se-reabrir-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775054323000,
-         "created": 1775054323000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46859360.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEyMTIsImNyb3BZIjozNDJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
