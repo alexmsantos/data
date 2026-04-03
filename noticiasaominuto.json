@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2960372/guardiola-aperta-cerco-a-ferguson-os-tecnicos-mais-titulados-de-sempre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guardiola aperta cerco a Ferguson. Os técnicos mais titulados de sempre",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2960372/guardiola-aperta-cerco-a-ferguson-os-tecnicos-mais-titulados-de-sempre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775200141000,
+         "created": 1775200141000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69c1028805ac1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjczfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2966865/ataque-com-drones-iranianos-causa-incendio-em-refinaria-no-kuwait#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ataque com drones iranianos causa incêndio em refinaria no Kuwait",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/45216456.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYwMCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2965640/cristina-partilha-duas-coisas-essenciais-a-base-para-a-longevidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cristina partilha \"duas coisas essenciais, a base para a longevidade\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2965640/cristina-partilha-duas-coisas-essenciais-a-base-para-a-longevidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775030636000,
-         "created": 1775030636000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69ccc21398219.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgwLCJjcm9wSGVpZ2h0IjoxMzk1LCJjcm9wWCI6MzMsImNyb3BZIjozM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTE1MiwiY3JvcEhlaWdodCI6MjA0OCwiY3JvcFgiOjE1LCJjcm9wWSI6MTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
