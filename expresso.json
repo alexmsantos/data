@@ -39,7 +39,10 @@
          "title": "Acidente no IC1 faz quatro mortes, incluindo uma criança, e um ferido grave em Santiago do Cacém",
          "description": "<p>O acidente envolveu três carros e levou ao corte da IC1 nos dois sentidos. Além das vítimas mortais, a colisão causou ainda um ferido grave que foi transportado de helicóptero do INEM para o hospital de Santa Maria, em Lisboa</p>",
          "link": "https://expresso.pt/sociedade/2026-04-03-acidente-no-ic1-faz-quatro-mortes-incluindo-uma-crianca-e-um-ferido-grave-em-santiago-do-cacem-bc7c4a1a",
-         "author": "Agência Lusa",
+         "author": [
+            "Expresso",
+            "Agência Lusa"
+         ],
          "published": 1775233373000,
          "created": 1775233373000,
          "category": "Sociedade",
