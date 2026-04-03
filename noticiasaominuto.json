@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2966923/em-direto-francesco-farioli-anteve-rececao-do-fc-porto-ao-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Famalicão, 'seca' de golos e resposta a Varandas. O que disse Farioli",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2966923/em-direto-francesco-farioli-anteve-rececao-do-fc-porto-ao-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775222977000,
+         "created": 1775222977000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b7a76dcde54.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI2LCJjcm9wSGVpZ2h0IjoxNDIxLCJjcm9wWCI6MTcsImNyb3BZIjo5fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2966653/estas-podem-ser-as-primeiras-imagens-do-novo-telemovel-da-sony#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Estas podem ser as primeiras imagens do novo telemóvel da Sony",
@@ -104,27 +125,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_68d6c8c87ff3d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2966923/em-direto-francesco-farioli-anteve-rececao-do-fc-porto-ao-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Francesco Farioli antevê receção do FC Porto ao Famalicão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2966923/em-direto-francesco-farioli-anteve-rececao-do-fc-porto-ao-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775219463000,
-         "created": 1775219463000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b7a76dcde54.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI2LCJjcm9wSGVpZ2h0IjoxNDIxLCJjcm9wWCI6MTcsImNyb3BZIjo5fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
