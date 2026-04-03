@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2966942/em-direto-i-liga-de-volta-com-gil-vicente-avs-no-arranque-da-28-ronda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Gil Vicente e AVS já jogam no arranque da jornada 28 da I Liga",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2966942/em-direto-i-liga-de-volta-com-gil-vicente-avs-no-arranque-da-28-ronda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775230470000,
+         "created": 1775230470000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_642dcea7b2176.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2966986/abre-porta-a-mulher-que-queria-mata-lo-e-fica-atonito-com-alerta-da-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Abre porta a mulher que queria matá-lo e fica \"atónito\" com alerta da PSP",
@@ -20,27 +41,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6707adb13da35.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE1NCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2966942/em-direto-i-liga-de-volta-com-gil-vicente-avs-no-arranque-da-28-ronda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: I Liga de volta com Gil Vicente-AVS no arranque da 28.ª ronda",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2966942/em-direto-i-liga-de-volta-com-gil-vicente-avs-no-arranque-da-28-ronda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775229711000,
-         "created": 1775229711000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_642dcea7b2176.webp",
                "type": "image/jpeg",
                "length": "0"
             }
