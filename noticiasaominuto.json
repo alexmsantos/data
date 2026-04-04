@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2967230/companhia-especial-e-ao-telefone-como-guardiola-viveu-o-city-liverpool#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Companhia especial e ao telefone. Como Guardiola viveu o City-Liverpool",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2967230/companhia-especial-e-ao-telefone-como-guardiola-viveu-o-city-liverpool#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775309952000,
+         "created": 1775309952000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d1030991716.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2967231/sismo-de-magnitude-6-ao-largo-da-costa-norte-da-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sismo de magnitude 6 ao largo da costa norte da Indonésia",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_68364048af6a3.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2966088/vendas-de-automoveis-crescem-8-8-para-73753-unidades-no-1-trimestre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vendas de automóveis crescem 8,8% para 73.753 unidades no 1.º trimestre",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2966088/vendas-de-automoveis-crescem-8-8-para-73753-unidades-no-1-trimestre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775067448000,
-         "created": 1775067448000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_630e1d26403bc.webp",
                "type": "image/jpeg",
                "length": "0"
             }
