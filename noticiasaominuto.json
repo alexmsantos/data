@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2967431/hoje-e-noticia-mariana-fonseca-vai-ao-supremo-hospital-condenado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Hoje é notícia: Mariana Fonseca vai ao Supremo; Hospital condenado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2967431/hoje-e-noticia-mariana-fonseca-vai-ao-supremo-hospital-condenado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775375517000,
+         "created": 1775375517000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d1fcb48faf0.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2966318/skoda-elroq-conduzimos-um-suv-pioneiro-na-gama-skoda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Skoda Elroq. Conduzimos um SUV pioneiro na gama Skoda",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cecf19ea0ec.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2952935/lamine-yamal-e-mais-dez-os-mais-goleadores-na-europa-com-18-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lamine Yamal e mais dez. Os mais goleadores na Europa com 18 anos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2952935/lamine-yamal-e-mais-dez-os-mais-goleadores-na-europa-com-18-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775117247000,
-         "created": 1775117247000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69afec9faa2e1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDA2LCJjcm9wSGVpZ2h0IjoxMzU0LCJjcm9wWCI6OTUsImNyb3BZIjoyODN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
