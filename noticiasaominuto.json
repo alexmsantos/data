@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2967650/forca-aerea-transporta-bebe-dos-acores-para-lisboa-o-2-numa-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Força Aérea transporta bebé dos Açores para Lisboa (o 2.º numa semana)",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2967650/forca-aerea-transporta-bebe-dos-acores-para-lisboa-o-2-numa-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775462369000,
+         "created": 1775462369000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d354ac6c83a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2967646/ao-minuto-ormuz-nao-voltara-a-ser-o-que-era-netanyahu-critica-supremo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "AO MINUTO: Ormuz não voltará a \"ser o que era\"; Netanyahu critica Supremo",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_64dbb154044e4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMTR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOSwiY3JvcFgiOjkyMywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2966609/apos-50-anos-lembrar-padre-max-e-lurdes-e-defender-a-constituicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Após 50 anos, lembrar padre Max e Lurdes é \"defender a Constituição\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2966609/apos-50-anos-lembrar-padre-max-e-lurdes-e-defender-a-constituicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775147957000,
-         "created": 1775147957000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69ce8d78e61d4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgwNCwiY3JvcEhlaWdodCI6MTQyOSwiY3JvcFgiOjM4OSwiY3JvcFkiOjd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
