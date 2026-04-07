@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2968263/populares-denunciam-circulacao-de-supostos-terroristas-em-macomia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Populares denunciam circulação de supostos terroristas em Macomia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2968263/populares-denunciam-circulacao-de-supostos-terroristas-em-macomia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775558944000,
+         "created": 1775558944000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/34291984.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2968262/china-vai-continuar-a-limitar-a-metade-aumento-dos-precos-dos-combustiveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "China vai continuar a limitar a metade aumento dos preços dos combustíveis",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cf0e9154e7c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2966683/ha-mais-um-imagens-desvendam-design-de-um-dos-novos-pixel-11#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Há mais um. Imagens desvendam design de um dos novos Pixel 11",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2966683/ha-mais-um-imagens-desvendam-design-de-um-dos-novos-pixel-11#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775307600000,
-         "created": 1775307600000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cea0911bd80.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMyLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MTQsImNyb3BZIjo5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NDgsImNyb3BIZWlnaHQiOjExNTIsImNyb3BYIjoxMjI4LCJjcm9wWSI6Nn19",
                "type": "image/jpeg",
                "length": "0"
             }
