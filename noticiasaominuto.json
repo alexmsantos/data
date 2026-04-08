@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2969282/f-16-portugueses-acionados-para-identificar-aeronave-russa-nos-balticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "F-16 portugueses acionados para identificar aeronave russa nos Bálticos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2969282/f-16-portugueses-acionados-para-identificar-aeronave-russa-nos-balticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775669150000,
+         "created": 1775669150000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d6800db965d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjEzM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY5LCJjcm9wSGVpZ2h0IjoxMzY2LCJjcm9wWCI6OTEyLCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2969280/libano-nao-foram-incluidos-no-acordo-de-cessar-fogo-diz-trump#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Líbano? \"Não foram incluídos no acordo\" de cessar-fogo, diz Trump",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d4169a37ef9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo3Nn19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2968077/alisson-vence-rafael-leao-e-napoli-sobe-ao-segundo-lugar-ante-ac-milan#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alisson vence Rafael Leão e Napoli sobe ao segundo lugar ante AC Milan",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2968077/alisson-vence-rafael-leao-e-napoli-sobe-ao-segundo-lugar-ante-ac-milan#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775512678000,
-         "created": 1775512678000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d41df18b301.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5OTYsImNyb3BIZWlnaHQiOjE3NzAsImNyb3BYIjo4OTgsImNyb3BZIjotMX19",
                "type": "image/jpeg",
                "length": "0"
             }
