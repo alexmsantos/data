@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2969121/atencao-passageiros-hoje-ha-greve-dos-trabalhadores-do-metro-de-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Atenção, passageiros: Hoje há greve dos trabalhadores do Metro de Lisboa",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2969121/atencao-passageiros-hoje-ha-greve-dos-trabalhadores-do-metro-de-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775718104000,
+         "created": 1775718104000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d64df931f31.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2969529/toquio-pondera-nova-libertacao-de-reservas-de-petroleo-face-a-incerteza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tóquio pondera nova libertação de reservas de petróleo face a incerteza",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_58bff0ec23369.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2968296/prisao-preventiva-para-suspeito-de-matar-ex-companheira-em-albergaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Prisão preventiva para suspeito de matar ex-companheira em Albergaria",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2968296/prisao-preventiva-para-suspeito-de-matar-ex-companheira-em-albergaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775561780000,
-         "created": 1775561780000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_6878e89bd8999.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAzLCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6MTgsImNyb3BZIjoxMDd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
