@@ -14,8 +14,25 @@
          "published": 1775768218000,
          "created": 1775768218000,
          "category": "Liga Europa",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-04-09-doc.20260409.46904113.12878959.jpg-945ef368/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-04-09-doc.20260409.46904113.12878959.jpg-945ef368/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-04-09-doc.20260409.46904113.12878959.jpg-945ef368/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "8de1fb89-b1ec-47e2-a499-3c470fcedb56",
