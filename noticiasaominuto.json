@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2970447/morreu-jose-manuel-matos-fernandes-ex-presidente-da-mag-do-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Morreu José Manuel Matos Fernandes, ex-presidente da MAG do FC Porto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2970447/morreu-jose-manuel-matos-fernandes-ex-presidente-da-mag-do-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775828797000,
+         "created": 1775828797000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d8f116efb87.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2970437/negociacoes-com-duvidas-em-islamabad-e-ceticismo-no-irao-o-que-se-sabe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Negociações com dúvidas em Islamabad e ceticismo no Irão. O que se sabe?",
@@ -40,7 +61,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_694a96fc735a0.webp",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_694a96fc735a0.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjg5NiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d64944dec36.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2969548/gnr-apanhou-40-mil-condutores-ao-telemovel-em-3-anos-50-por-dia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "GNR apanhou 40 mil condutores ao telemóvel em 3 anos. Foram 50 por dia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2969548/gnr-apanhou-40-mil-condutores-ao-telemovel-em-3-anos-50-por-dia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775720280000,
-         "created": 1775720280000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d74990c2977.webp",
                "type": "image/jpeg",
                "length": "0"
             }
