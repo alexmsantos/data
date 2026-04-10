@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2970280/em-direto-rui-borges-faz-a-antevisao-ao-estrela-da-amadora-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Liga é Champions do Sporting e os deslizes dos rivais. O que disse Borges",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2970280/em-direto-rui-borges-faz-a-antevisao-ao-estrela-da-amadora-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775825807000,
+         "created": 1775825807000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69737322d9048.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2970368/quer-ter-um-pedaco-da-torre-eiffel-escadaria-historica-vai-a-leilao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Quer ter um pedaço da Torre Eiffel? Escadaria histórica vai a leilão",
@@ -461,27 +482,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69b2cef5f11eb.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2970280/em-direto-rui-borges-faz-a-antevisao-ao-estrela-da-amadora-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Liga é Champions do Sporting e os deslizes dos rivais. O que disse Borges",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2970280/em-direto-rui-borges-faz-a-antevisao-ao-estrela-da-amadora-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775822618000,
-         "created": 1775822618000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69737322d9048.webp",
                "type": "image/jpeg",
                "length": "0"
             }
