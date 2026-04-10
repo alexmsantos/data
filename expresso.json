@@ -107,8 +107,25 @@
          "published": 1775836958000,
          "created": 1775836958000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-04-10-jose-manuel-matos-fernandes.jpg-01fbc378/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-04-10-jose-manuel-matos-fernandes.jpg-01fbc378/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-04-10-jose-manuel-matos-fernandes.jpg-01fbc378/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "62bbe7b6-aaf7-4392-8149-5a270fee45a6",
