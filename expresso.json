@@ -278,8 +278,25 @@
          "published": 1775918220000,
          "created": 1775918220000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-31-hospital-amadora-sintra-30072025-14-mf_t-_idp.jpg-83d4dc5a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-07-31-hospital-amadora-sintra-30072025-14-mf_t-_idp.jpg-83d4dc5a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-07-31-hospital-amadora-sintra-30072025-14-mf_t-_idp.jpg-83d4dc5a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       }
    ]
 }
