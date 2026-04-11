@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2970909/em-direto-mourinho-faz-a-antevisao-ao-benfica-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Mourinho faz a antevisão ao Benfica-Nacional",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2970909/em-direto-mourinho-faz-a-antevisao-ao-benfica-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775916900000,
+         "created": 1775916900000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d9e7cdecbb9.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2970919/nutricionistas-do-sns-queixam-se-a-provedoria-sobre-salario-de-estagiario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nutricionistas do SNS queixam-se à Provedoria sobre salário de estagiário",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_68a466e926f26.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2969742/fokina-17-do-ranking-mundial-confirmado-no-estoril-open#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fokina, 17.º do ranking mundial, confirmado no Estoril Open",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2969742/fokina-17-do-ranking-mundial-confirmado-no-estoril-open#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775739814000,
-         "created": 1775739814000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/46727910.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTE5LCJjcm9wWSI6MTR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
