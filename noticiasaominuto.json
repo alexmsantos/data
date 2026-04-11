@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2970955/sinner-bate-zverev-e-esta-na-final-do-masters-1000-de-monte-carlo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sinner bate Zverev e está na final do Masters 1.000 de Monte Carlo ",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2970955/sinner-bate-zverev-e-esta-na-final-do-masters-1000-de-monte-carlo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775922952000,
+         "created": 1775922952000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46913074.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2970952/mais-de-800-pessoas-fazem-6800kg-de-guacamole-para-bater-recorde-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mais de 800 pessoas fazem 6.800kg de guacamole para bater recorde mundial",
@@ -57,7 +78,7 @@
          },
          "published": 1775922393000,
          "created": 1775922393000,
-         "category": "Última Hora",
+         "category": "Desporto",
          "content": "",
          "enclosures": [
             {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d7a4977d5dc.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2969774/pinguim-imperador-e-lobo-marinho-antartico-ameacados-pelas-alteracoes-climaticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pinguim-imperador e lobo-marinho-antártico ameaçados pelas alterações climáticas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2969774/pinguim-imperador-e-lobo-marinho-antartico-ameacados-pelas-alteracoes-climaticas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775743412000,
-         "created": 1775743412000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/13005889.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE0LCJjcm9wSGVpZ2h0IjoxNDE0LCJjcm9wWCI6MjYsImNyb3BZIjoxODB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYxOCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
