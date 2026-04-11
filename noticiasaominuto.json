@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2971060/pcp-acusa-chega-de-ser-instrumento-vocal-do-capital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PCP acusa Chega de ser \"instrumento vocal do capital\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/2971060/pcp-acusa-chega-de-ser-instrumento-vocal-do-capital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1775942707000,
+         "created": 1775942707000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_681f8420c61fd.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2971058/eleicoes-na-hungria-orban-e-magyar-fecham-campanha-com-apelo-a-jovens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Eleições na Hungria: Orbán e Magyar fecham campanha com apelo a jovens",
@@ -1687,7 +1708,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2970642/em-direto-i-liga-de-volta-com-famalicao-moreirense-a-abrir-a-29-ronda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Pede-se penálti no Estrela da Amadora-Sporting",
+         "title": "EM DIRETO: Tudo empatado no Estrela da Amadora-Sporting",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/2970642/em-direto-i-liga-de-volta-com-famalicao-moreirense-a-abrir-a-29-ronda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/46902488.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2969942/rei-carlos-iii-e-camila-casaram-se-ha-21-anos-sem-a-rainha-isabel-ii#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rei Carlos III e Camila casaram-se há 21 anos (sem a rainha Isabel II)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2969942/rei-carlos-iii-e-camila-casaram-se-ha-21-anos-sem-a-rainha-isabel-ii#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775756448000,
-         "created": 1775756448000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d7d50aeb9e6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDE0LCJjcm9wSGVpZ2h0IjoxMzU4LCJjcm9wWCI6NjEsImNyb3BZIjo3NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODg0LCJjcm9wSGVpZ2h0IjoxNTcyLCJjcm9wWCI6NDIyLCJjcm9wWSI6MjV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
