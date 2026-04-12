@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2971224/feirense-vence-vizela-e-alcanca-segundo-triunfo-consecutivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Feirense vence Vizela e alcança segundo triunfo consecutivo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2971224/feirense-vence-vizela-e-alcanca-segundo-triunfo-consecutivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776001844000,
+         "created": 1776001844000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69db94d9d456c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDA4LCJjcm9wSGVpZ2h0Ijo3OTIsImNyb3BYIjoxMywiY3JvcFkiOjE0Nn19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2971226/starmer-insta-eua-e-irao-a-encontrarem-uma-solucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Starmer insta EUA e Irão a \"encontrarem uma solução\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_66a27f8ab94c5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxODR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OCwiY3JvcEhlaWdodCI6MTcwMywiY3JvcFgiOjExNjMsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2970174/russia-afirma-estar-cem-por-cento-solidaria-com-cuba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia afirma estar \"cem por cento\" solidária com Cuba",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2970174/russia-afirma-estar-cem-por-cento-solidaria-com-cuba#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775794959000,
-         "created": 1775794959000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5ba4bfa293a54.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyODAxLCJjcm9wSGVpZ2h0IjoxNTc2LCJjcm9wWCI6LTEsImNyb3BZIjoxODN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwNTAsImNyb3BIZWlnaHQiOjE4NjYsImNyb3BYIjoxMTE3LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
