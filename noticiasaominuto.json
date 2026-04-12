@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2971291/sindicato-dos-jornalistas-acusa-autarca-de-coimbra-de-violar-liberdade-de-imprensa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sindicato dos Jornalistas acusa autarca de Coimbra de violar liberdade de imprensa",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2971291/sindicato-dos-jornalistas-acusa-autarca-de-coimbra-de-violar-liberdade-de-imprensa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776015766000,
+         "created": 1776015766000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_5dea5aa02cc8e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIyLCJjcm9wSGVpZ2h0IjoxNDE5LCJjcm9wWCI6MTUsImNyb3BZIjo4OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTA0NiwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2970642/em-direto-i-liga-de-volta-com-famalicao-moreirense-a-abrir-a-29-ronda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Alverca vence, antes de Benfica e Sp. Braga entrarem em ação",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_693c1f07c0cb5.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2970231/lider-mundial-de-chips-atinge-novo-recorde-trimestral-de-receitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Líder mundial de chips atinge novo recorde trimestral de receitas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2970231/lider-mundial-de-chips-atinge-novo-recorde-trimestral-de-receitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1775810426000,
-         "created": 1775810426000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69d8a92ea67e3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM4LCJjcm9wSGVpZ2h0IjoxNDI4LCJjcm9wWCI6OCwiY3JvcFkiOjI4NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA2OCwiY3JvcEhlaWdodCI6MTg5OSwiY3JvcFgiOjc0NiwiY3JvcFkiOjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
