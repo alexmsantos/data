@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2972748/partido-de-corina-machado-denuncia-perseguicao-a-ativistas-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Partido de Corina Machado denuncia \"perseguição\" a ativistas na Venezuela",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2972748/partido-de-corina-machado-denuncia-perseguicao-a-ativistas-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776207850000,
+         "created": 1776207850000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/45823440.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTUyLCJjcm9wSGVpZ2h0IjoxNDM1LCJjcm9wWCI6MCwiY3JvcFkiOjE1MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTE0MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2972207/lewis-capaldi-confundido-com-lewis-hamilton-cantor-reage#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lewis Capaldi confundido com Lewis Hamilton? Cantor reage",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69cd18210774e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2971555/franca-quer-abandonar-windows-e-adotar-linux#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "França quer abandonar Windows e adotar Linux",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2971555/franca-quer-abandonar-windows-e-adotar-linux#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776075934000,
-         "created": 1776075934000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_64537263edffb.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1MSwiY3JvcEhlaWdodCI6MTY5MSwiY3JvcFgiOjU5MywiY3JvcFkiOjV9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM3LCJjcm9wSGVpZ2h0IjoxNDI3LCJjcm9wWCI6MTIsImNyb3BZIjoxNDB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
