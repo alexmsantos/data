@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2972679/aqui-ate-uma-esteira-e-luta-dizem-desalojados-de-benguela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Aqui até uma esteira é luta\", dizem desalojados de Benguela",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2972679/aqui-ate-uma-esteira-e-luta-dizem-desalojados-de-benguela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776197707000,
+         "created": 1776197707000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/46931242.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2972446/geely-quer-bater-japoneses-numa-das-suas-especialidades-e-tem-nova-arma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Geely quer bater japoneses numa das suas especialidades e tem nova \"arma\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_6920af6430763.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2971494/discriminacao-ou-seguranca-peticao-quer-proibir-conducao-aos-75-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Discriminação ou segurança? Petição quer proibir condução aos 75 anos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2971494/discriminacao-ou-seguranca-peticao-quer-proibir-conducao-aos-75-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776070250000,
-         "created": 1776070250000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69dc98ead465b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
