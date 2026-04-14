@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2972753/astronauta-revela-video-do-momento-em-que-capsula-e-aberta-no-pacifico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Astronauta revela vídeo do momento em que cápsula é aberta no Pacífico",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2972753/astronauta-revela-video-do-momento-em-que-capsula-e-aberta-no-pacifico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776209736000,
+         "created": 1776209736000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69debdacb6d9a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjIxLCJjcm9wSGVpZ2h0Ijo5MTIsImNyb3BYIjo1MywiY3JvcFkiOjQ2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1NDgsImNyb3BIZWlnaHQiOjk3NCwiY3JvcFgiOjczOCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2972757/o-erro-que-deixa-o-frango-grelhado-seco-e-sem-graca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O erro que deixa o frango grelhado seco e sem graça",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_69dcba18cc755.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjIzOSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2971567/direcao-do-coligacao-democratica-demite-se-apos-eleicoes-na-hungria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Direção do Coligação Democrática demite-se após eleições na Hungria",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2971567/direcao-do-coligacao-democratica-demite-se-apos-eleicoes-na-hungria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776076725000,
-         "created": 1776076725000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69dcb9ad26388.webp",
                "type": "image/jpeg",
                "length": "0"
             }
