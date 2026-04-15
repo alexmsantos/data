@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2972886/cristina-ha-muito-que-se-tem-posto-a-jeito-com-declaracoes-polemicas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Afinal, quem se \"põe a jeito\"? Cristina soma várias declarações polémicas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/2972886/cristina-ha-muito-que-se-tem-posto-a-jeito-com-declaracoes-polemicas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776247738000,
+         "created": 1776247738000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_692efc959459e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzQ4LCJjcm9wSGVpZ2h0Ijo3NTgsImNyb3BYIjo2NywiY3JvcFkiOjIxM319",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2972908/empresa-de-ia-de-elon-musk-esta-a-oferecer-vagas-com-trabalho-remoto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Empresa de IA de Elon Musk está a oferecer vagas com trabalho remoto",
@@ -1078,7 +1099,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2972816/ao-minuto-comercio-maritimo-do-irao-paralisado-dois-dias-incriveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: Comércio marítimo do Irão \"paralisado\"; \"Dois dias incríveis\"",
+         "title": "AO MINUTO: Irão usou tecnologia chinesa contra EUA; Conflito? \"Loucura\"",
          "description": "",
          "link": "https://www.noticiasaominuto.com/mundo/2972816/ao-minuto-comercio-maritimo-do-irao-paralisado-dois-dias-incriveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -1090,7 +1111,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69df2c9138486.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MTgsImNyb3BZIjoyNDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzOSwiY3JvcEhlaWdodCI6MTY3MCwiY3JvcFgiOjQ5OSwiY3JvcFkiOjE5fX0=",
+               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69df555a7dbac.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/1920/naom_5eeb2c666ccf8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjU2LCJjcm9wWSI6Mjc3fX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2971775/pai-encontra-filha-morta-no-reino-unido-apos-ser-atacada-por-cadela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Reino Unido: Pai encontra filha morta em casa após ser atacada por cadela",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2971775/pai-encontra-filha-morta-no-reino-unido-apos-ser-atacada-por-cadela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776093960000,
-         "created": 1776093960000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/1920/naom_69dcfc54db99a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MzI0LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
