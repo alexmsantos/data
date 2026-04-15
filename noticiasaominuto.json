@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2973213/cabaz-alimentar-volta-a-aumentar-atinge-novo-maximo-de-259-52-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cabaz alimentar volta a aumentar atinge novo máximo de 259,52 euros",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2973213/cabaz-alimentar-volta-a-aumentar-atinge-novo-maximo-de-259-52-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776268025000,
+         "created": 1776268025000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68383a4d47048.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2973207/medio-oriente-ministros-das-financas-apelam-a-resposta-coordenada-a-guerra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministros das Finanças apelam a resposta \"coordenada e proativa\" à guerra",
@@ -217,7 +238,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/tech/2973126/dona-do-snapchat-vai-despedir-mais-cerca-de-mil-pessoas-e-apostar-em-ia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dona do Snapchat vai despedir mais cerca de mil pessoas e apostar em IA",
+         "title": "Dona do Snapchat vai despedir cerca de mil pessoas e apostar em IA",
          "description": "",
          "link": "https://www.noticiasaominuto.com/tech/2973126/dona-do-snapchat-vai-despedir-mais-cerca-de-mil-pessoas-e-apostar-em-ia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69dd6c0d3258b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2972032/guerra-no-medio-oriente-pode-colocar-32-milhoes-de-pessoas-na-pobreza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Guerra no Médio Oriente pode colocar 32 milhões de pessoas na pobreza",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2972032/guerra-no-medio-oriente-pode-colocar-32-milhoes-de-pessoas-na-pobreza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776122390000,
-         "created": 1776122390000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69d894d61ae91.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzgxLCJjcm9wSGVpZ2h0IjoxMzM5LCJjcm9wWCI6NTcsImNyb3BZIjozMjV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcwMCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
