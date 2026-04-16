@@ -6,6 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "f7dd3893-ae1d-4ab9-a3b5-1bfb735c5693",
+         "title": "“O imposto sobre bebidas açucaradas reduziu o consumo em 46%”: Miguel Arriaga fala sobre saúde, prevenção e políticas públicas",
+         "description": "<p>Vacinas, ginásios e cinema. O que têm em comum? Neste episódio de ‘Consulta Aberta’ falamos com Miguel Telo Arriaga, diretor dos Serviços de Prevenção e Promoção da Saúde na DGS, sobre novos caminhos para promover a saúde em Portugal</p>",
+         "link": "https://expresso.pt/podcasts/consulta-aberta/2026-04-16-o-imposto-sobre-bebidas-acucaradas-reduziu-o-consumo-em-46-miguel-arriaga-fala-sobre-saude-prevencao-e-politicas-publicas-d4b284a5",
+         "author": [
+            "Margarida Graça Santos",
+            "João Ribeiro",
+            "Nuno Fox"
+         ],
+         "published": 1776321000000,
+         "created": 1776321000000,
+         "category": "Consulta Aberta",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-04-13-fox_miguel_telo_arriaga_0003.jpg-99bb18a7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-04-13-fox_miguel_telo_arriaga_0003.jpg-99bb18a7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-04-13-fox_miguel_telo_arriaga_0003.jpg-99bb18a7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "d293dd96-cddd-4bfd-b52c-14a9ebeb4a25",
          "title": "A falta de memória das democracias",
          "description": "<p>Talvez seja inevitável que a memória do que foi o salazarismo se esbata com o tempo. O debate público no passado contribuiu para isso e a competição entre partidos gera ciclos</p>",
@@ -125,18 +158,6 @@
          }
       },
       {
-         "id": "9e844e52-b826-44a2-b16c-9f84fab17545",
-         "title": "Se for gay ou trans, manda-se arranjar",
-         "description": "<p><span>É como estar a advogar que a Terra é </span><span>redonda - </span><span>e ainda assim ter de a defender.</span></p>",
-         "link": "https://expresso.pt/opiniao/2026-04-16-se-for-gay-ou-trans-manda-se-arranjar-70b76a98",
-         "author": "Ana Bárbara Pedrosa",
-         "published": 1776319200000,
-         "created": 1776319200000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "cadf04a1-e814-40eb-8b8a-89116c1233dd",
          "title": "Algoritmo, um grande editor político enviesado",
          "description": "<p>No Google, quase 50% das menções políticas em respostas a perguntas neutras referem-se à direita radical. No ChatGPT, ronda os 30%. Se sabemos que um jornal tem linha editorial, ativamos filtros críticos. A simples ordenação enviesada de resultados pode deslocar as preferências eleitorais de indecisos em mais de 20%. E o problema não é apenas a opacidade, é ela ser lida como neutralidade. Se aceitarmos que a política depende cada vez mais do algoritmo, o escrutínio tem de acompanhar essa mudança</p>",
@@ -207,33 +228,16 @@
          }
       },
       {
-         "id": "c3efa7e1-8582-4cf2-aed3-8f60a2bc93dc",
-         "title": "Quando a opinião substitui o jornalismo",
-         "description": "<p>Quando políticos ativos surgem simultaneamente como comentadores pagos, a distinção entre análise e agenda política torna-se mais difícil</p>",
-         "link": "https://expresso.pt/opiniao/2026-04-16-quando-a-opiniao-substitui-o-jornalismo-133df6cd",
-         "author": "José Pedro Dias Pinheiro",
+         "id": "9e844e52-b826-44a2-b16c-9f84fab17545",
+         "title": "Se for gay ou trans, manda-se arranjar",
+         "description": "<p><span>É como estar a advogar que a Terra é </span><span>redonda - </span><span>e ainda assim ter de a defender.</span></p>",
+         "link": "https://expresso.pt/opiniao/2026-04-16-se-for-gay-ou-trans-manda-se-arranjar-70b76a98",
+         "author": "Ana Bárbara Pedrosa",
          "published": 1776319200000,
          "created": 1776319200000,
          "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-14-jose-pedro-dias-pinheiro-eb64c718/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-14-jose-pedro-dias-pinheiro-eb64c718/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-04-14-jose-pedro-dias-pinheiro-eb64c718/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
+         "enclosures": [],
+         "media": {}
       }
    ]
 }
