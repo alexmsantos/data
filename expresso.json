@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "cacd86a2-ef19-470d-847e-fcba9492df03",
+         "title": "Uma das maravilhas da comida de tacho é que permite erros, esquecimentos e atrasos. Só não permite poupar na cebola",
+         "description": "<p><span>Nestes tempos difíceis, Ricardo Felner faz uma apologia da comida de tacho: fácil, barata e muito eficaz. Descubra como pode poupar e comer muito bem neste episódio do podcast “O Homem Que Comia Tudo”</span></p>",
+         "link": "https://expresso.pt/podcasts/o-homem-que-comia-tudo/2026-04-16-uma-das-maravilhas-da-comida-de-tacho-e-que-permite-erros-esquecimentos-e-atrasos.-so-nao-permite-poupar-na-cebola-a86ae67f",
+         "author": [
+            "Ricardo Dias Felner",
+            "João Luís Amorim"
+         ],
+         "published": 1776322860000,
+         "created": 1776322860000,
+         "category": "O Homem Que Comia Tudo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-25-o-homem-que-comia-tudo-1ead618f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-02-25-o-homem-que-comia-tudo-1ead618f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-02-25-o-homem-que-comia-tudo-1ead618f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "5b564f6b-fead-40af-a07d-c480b853c81b",
          "title": "Palavras Cruzadas nº 1455",
          "description": "",
@@ -226,35 +258,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "0b82b89a-11ba-46da-b07c-a734632920a3",
-         "title": "Cinema: “La Grazia” ou os últimos dias do senhor presidente",
-         "description": "<p>No novo filme de Paolo Sorrentino, Toni Servillo dá corpo a Mariano De Santis, Presidente da República italiana em fim de mandato, a braços com coriáceas dúvidas morais</p>",
-         "link": "https://expresso.pt/revista/culturas/cinema/2026-04-16-cinema-la-grazia-ou-os-ultimos-dias-do-senhor-presidente-5f13ac6f",
-         "author": "Jorge Leitão Ramos",
-         "published": 1776319200000,
-         "created": 1776319200000,
-         "category": "Cinema",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-13-la-grazia_t-_idp.jpg-7983de33/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-13-la-grazia_t-_idp.jpg-7983de33/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-04-13-la-grazia_t-_idp.jpg-7983de33/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
