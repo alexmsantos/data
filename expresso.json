@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "3c4177bb-560a-447c-82fe-46d6324e5201",
+         "title": "Morreu José Luís Tinoco, compositor de canções como “No teu poema”",
+         "description": "<p><span>José Luís Tinoco </span><span>morreu na noite de quarta-feira, em Lisboa, aos 93 anos. </span><span>Pianista, criador de canções como \"No teu poema\", era ainda arquiteto</span></p>",
+         "link": "https://expresso.pt/blitz/2026-04-16-morreu-jose-luis-tinoco-compositor-de-cancoes-como-no-teu-poema-ffbfed85-1",
+         "author": "Agência Lusa",
+         "published": 1776325622000,
+         "created": 1776325622000,
+         "category": "Blitz",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-04-16-jose-luis-tinoco.jpg-6bda0c3f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-04-16-jose-luis-tinoco.jpg-6bda0c3f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-04-16-jose-luis-tinoco.jpg-6bda0c3f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "cacd86a2-ef19-470d-847e-fcba9492df03",
          "title": "Uma das maravilhas da comida de tacho é que permite erros, esquecimentos e atrasos. Só não permite poupar na cebola",
          "description": "<p><span>Nestes tempos difíceis, Ricardo Felner faz uma apologia da comida de tacho: fácil, barata e muito eficaz. Descubra como pode poupar e comer muito bem neste episódio do podcast “O Homem Que Comia Tudo”</span></p>",
@@ -246,18 +275,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "cadf04a1-e814-40eb-8b8a-89116c1233dd",
-         "title": "Algoritmo, um grande editor político enviesado",
-         "description": "<p>No Google, quase 50% das menções políticas em respostas a perguntas neutras referem-se à direita radical. No ChatGPT, ronda os 30%. Se sabemos que um jornal tem linha editorial, ativamos filtros críticos. A simples ordenação enviesada de resultados pode deslocar as preferências eleitorais de indecisos em mais de 20%. E o problema não é apenas a opacidade, é ela ser lida como neutralidade. Se aceitarmos que a política depende cada vez mais do algoritmo, o escrutínio tem de acompanhar essa mudança</p>",
-         "link": "https://expresso.pt/opiniao/2026-04-16-algoritmo-um-grande-editor-politico-enviesado-e716d781",
-         "author": "Daniel Oliveira",
-         "published": 1776319200000,
-         "created": 1776319200000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
