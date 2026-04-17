@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2974907/reabertura-do-estreito-de-ormuz-passo-na-direcao-certa-diz-guterres#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Reabertura do Estreito de Ormuz \"passo na direção certa\", diz Guterres",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2974907/reabertura-do-estreito-de-ormuz-passo-na-direcao-certa-diz-guterres#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776452800000,
+         "created": 1776452800000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e276b2e3659.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2974916/ministro-expressa-firme-repudio-por-ataque-em-esquadra-a-agente-da-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministro expressa \"firme repúdio\" por ataque em esquadra a agente da PSP",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/29799669.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2974000/fotografos-ficaram-feridos-apos-celebracoes-no-bayern-munique-real-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fotógrafos ficaram feridos após celebrações no Bayern Munique-Real Madrid",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2974000/fotografos-ficaram-feridos-apos-celebracoes-no-bayern-munique-real-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776358886000,
-         "created": 1776358886000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e1077110f55.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NzgsImNyb3BIZWlnaHQiOjEyMDUsImNyb3BYIjo3NjIsImNyb3BZIjoyNTl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
