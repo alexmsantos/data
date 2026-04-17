@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2975029/incendio-em-predio-faz-um-ferido-grave-no-concelho-da-figueira-da-foz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio em prédio faz um ferido grave no concelho da Figueira da Foz",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2975029/incendio-em-predio-faz-um-ferido-grave-no-concelho-da-figueira-da-foz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776470159000,
+         "created": 1776470159000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6910f161a72c6.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjk4NSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2975024/ladroes-educados-e-40-cofres-arrombados-o-que-se-passou-em-napoles#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ladrões \"educados\" e 40 cofres arrombados: O que se passou em Nápoles?",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/26397625.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2973784/china-nao-confirma-se-xi-assegurou-a-trump-que-nao-fornece-armas-ao-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "China não confirma se Xi assegurou a Trump que não fornece armas ao Irão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2973784/china-nao-confirma-se-xi-assegurou-a-trump-que-nao-fornece-armas-ao-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776341355000,
-         "created": 1776341355000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69788f4c7d1f1.webp",
                "type": "image/jpeg",
                "length": "0"
             }
