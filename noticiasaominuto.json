@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2974781/netanyahu-diz-que-israel-ainda-nao-terminou-o-trabalho-contrahezbollah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Netanyahu diz que Israel \"ainda não terminou o trabalho\" contra Hezbollah",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2974781/netanyahu-diz-que-israel-ainda-nao-terminou-o-trabalho-contrahezbollah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776442087000,
+         "created": 1776442087000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_693889feb7c15.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2974603/snack-proteico-de-rainha-receita-de-ovos-scotch-a-inglesa-com-morcela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Snack proteico de rainha: Receita de ovos scotch à inglesa (com morcela)",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/45164472.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2973857/ex-companheira-de-antonio-pedro-cerdeira-batia-me-de-todas-as-maneiras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ex-companheira de António Pedro Cerdeira: \"Batia-me de todas as maneiras\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2973857/ex-companheira-de-antonio-pedro-cerdeira-batia-me-de-todas-as-maneiras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776346800000,
-         "created": 1776346800000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_637f85f2489af.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTIwLCJjcm9wSGVpZ2h0IjoxMDgwLCJjcm9wWCI6MjI2LCJjcm9wWSI6MjAxfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
