@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2974477/jogo-europeu-apitado-por-joao-pinheiro-descamba-em-caos-total#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Jogo europeu apitado por João Pinheiro descamba em caos total",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2974477/jogo-europeu-apitado-por-joao-pinheiro-descamba-em-caos-total#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776419334000,
+         "created": 1776419334000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e1f3c6891a3.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2974473/erc-abre-procedimento-sobre-o-caso-que-envolve-ana-abrunhosa-e-a-lusa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "ERC abre procedimento sobre o caso que envolve Ana Abrunhosa e a Lusa",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_57a037f615b43.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2973244/declaracoes-do-ministro-das-financas-foram-ofensivas-e-injustas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Declarações do ministro das Finanças foram \"ofensivas\" e \"injustas\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2973244/declaracoes-do-ministro-das-financas-foram-ofensivas-e-injustas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776270221000,
-         "created": 1776270221000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/46936146.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjUyOSwiY3JvcFkiOjM0MX0sImxhbmRzY2FwZSI6eyJjcm9wV2lkdGgiOjIwNDgsImNyb3BIZWlnaHQiOjExNTIsImNyb3BYIjoxNjEsImNyb3BZIjo1NTV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
