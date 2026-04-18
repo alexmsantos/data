@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2972242/este-nissan-vai-voltar-mais-de-10-anos-depois-e-com-motor-v6-com-senao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Este Nissan vai voltar mais de 10 anos depois e com motor V6. Com \"senão\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2972242/este-nissan-vai-voltar-mais-de-10-anos-depois-e-com-motor-v6-com-senao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776517895000,
+         "created": 1776517895000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69de18395484b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/2975039/vulnerabilidades-do-windows-divulgadas-por-investigador-estao-a-ser-exploradas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vulnerabilidades do Windows divulgadas por investigador estão a ser exploradas",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/29799669.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2974000/fotografos-ficaram-feridos-apos-celebracoes-no-bayern-munique-real-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fotógrafos ficaram feridos após celebrações no Bayern Munique-Real Madrid",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2974000/fotografos-ficaram-feridos-apos-celebracoes-no-bayern-munique-real-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776358886000,
-         "created": 1776358886000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e1077110f55.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NzgsImNyb3BIZWlnaHQiOjEyMDUsImNyb3BYIjo3NjIsImNyb3BZIjoyNTl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
