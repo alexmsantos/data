@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2975577/transito-cortado-na-ponte-25-de-abril-no-sentido-sul-norte-devido-a-acidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trânsito cortado na ponte 25 de Abril após acidente com três veículos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2975577/transito-cortado-na-ponte-25-de-abril-no-sentido-sul-norte-devido-a-acidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776616489000,
+         "created": 1776616489000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_656f6d00be6fd.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2975583/atencao-sp-braga-friburgo-vence-na-reta-final-e-ascende-na-tabela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Atenção, Sp. Braga. Friburgo vence na reta final e ascende na tabela",
@@ -41,27 +62,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6877bfc1cfa19.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDcyLCJjcm9wSGVpZ2h0IjoxMzkwLCJjcm9wWCI6MTMsImNyb3BZIjo0M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTA5MSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2975577/transito-cortado-na-ponte-25-de-abril-no-sentido-sul-norte-devido-a-acidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trânsito cortado na ponte 25 de Abril no sentido devido a acidente",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2975577/transito-cortado-na-ponte-25-de-abril-no-sentido-sul-norte-devido-a-acidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776615561000,
-         "created": 1776615561000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_656f6d00be6fd.webp",
                "type": "image/jpeg",
                "length": "0"
             }
