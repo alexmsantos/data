@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2976658/trump-acusa-irao-de-violar-cessar-fogo-e-lanca-incerteza-sobre-negociacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trump acusa Irão de violar cessar-fogo e lança incerteza sobre negociação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2976658/trump-acusa-irao-de-violar-cessar-fogo-e-lanca-incerteza-sobre-negociacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776777684000,
+         "created": 1776777684000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/46953626.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2976650/queixas-na-erc-sobre-declaracoes-de-cristina-ferreira-disparam-para-4200#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Queixas na ERC sobre declarações de Cristina Ferreira disparam para 4.200",
@@ -343,7 +364,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2976614/em-direto-siga-a-antevisao-de-farioli-ao-fc-porto-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Siga a antevisão de Farioli ao FC Porto-Sporting",
+         "title": "Do \"combustível\" à resposta para Borges. O que disse Farioli",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/2976614/em-direto-siga-a-antevisao-de-farioli-ao-fc-porto-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_684f07f2a814c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2975534/medina-alexandra-leitao-e-ana-catarina-mendes-na-comissao-nacional-do-ps#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Medina, Alexandra Leitão e Ana Catarina Mendes na Comissão Nacional do PS",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/2975534/medina-alexandra-leitao-e-ana-catarina-mendes-na-comissao-nacional-do-ps#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776607197000,
-         "created": 1776607197000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68694fbe106c3.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkxMiwiY3JvcEhlaWdodCI6MTYyMSwiY3JvcFgiOjMxNSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
