@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2976972/aprenda-a-fazer-a-tipica-omelete-japonesa-que-se-come-com-pauzinhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Aprenda a fazer a típica omelete japonesa que se come com pauzinhos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2976972/aprenda-a-fazer-a-tipica-omelete-japonesa-que-se-come-com-pauzinhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776801769000,
+         "created": 1776801769000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e7be1674987.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjoyMDQsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2977001/russia-nao-exclui-anexar-transnistria-para-proteger-cidadaos-russos-na-moldova#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rússia não exclui anexar Transnístria para proteger cidadãos russos na Moldova",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/46961376.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2975835/casados-noiva-de-vitor-desistiu-mas-depois-apareceu-o-par-perfeito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Casados\": Noiva de Vítor desistiu, mas depois apareceu o par perfeito",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2975835/casados-noiva-de-vitor-desistiu-mas-depois-apareceu-o-par-perfeito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776677749000,
-         "created": 1776677749000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e5e47b462e3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTg1LCJjcm9wSGVpZ2h0Ijo2NjcsImNyb3BYIjo5MiwiY3JvcFkiOjM2M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTkwLCJjcm9wSGVpZ2h0IjoxMDQ5LCJjcm9wWCI6Mzg1LCJjcm9wWSI6MzY0fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
