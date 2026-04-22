@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2977189/pelo-menos-um-morto-em-ataque-do-exercito-russo-sobre-zaporijia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos um morto em ataque do exercito russo sobre Zaporíjia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2977189/pelo-menos-um-morto-em-ataque-do-exercito-russo-sobre-zaporijia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776848665000,
+         "created": 1776848665000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69432ed4e5dce.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/2977176/formula-1-na-mira-de-autoridade-fiscal-em-italia-o-que-esta-em-causa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fórmula 1 na mira de autoridade fiscal em Itália. O que está em causa?",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6876311c97a0b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2975953/jennifer-aniston-reage-a-nascimento-do-filho-do-ex-marido-justin-theroux#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jennifer Aniston reage a nascimento do filho do ex-marido Justin Theroux",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2975953/jennifer-aniston-reage-a-nascimento-do-filho-do-ex-marido-justin-theroux#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776697496000,
-         "created": 1776697496000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_561148d086e07.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNzM2LCJjcm9wSGVpZ2h0IjoxNTM5LCJjcm9wWCI6MzYsImNyb3BZIjozOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAzMiwiY3JvcEhlaWdodCI6MTgzNCwiY3JvcFgiOjc4OCwiY3JvcFkiOjd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
