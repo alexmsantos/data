@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2978176/psp-multou-95-condutoresdia-em-excesso-de-velocidade-desde-inicio-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PSP multou 95 condutores/dia em excesso de velocidade desde início do ano",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2978176/psp-multou-95-condutoresdia-em-excesso-de-velocidade-desde-inicio-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776961897000,
+         "created": 1776961897000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6800219764b16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIxMn19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2978221/cop-e-coe-assinam-protocolo-para-reforcar-cooperacao-iberica-no-desporto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "COP e COE assinam protocolo para reforçar cooperação ibérica no desporto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2978221/cop-e-coe-assinam-protocolo-para-reforcar-cooperacao-iberica-no-desporto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776961895000,
+         "created": 1776961895000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/46983447.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1MiwiY3JvcEhlaWdodCI6MTY5MiwiY3JvcFgiOjY1MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2978202/ossadas-de-3-criancas-encontradas-em-bosque-nos-eua-ha-anos-por-la#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ossadas de 3 crianças encontradas em bosque nos EUA (\"há anos\" por lá?)",
@@ -20,6 +62,27 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_63c71bcbee25e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE5LCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6NDEsImNyb3BZIjoyNjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyMiwiY3JvcEhlaWdodCI6MTY0MCwiY3JvcFgiOjUyOSwiY3JvcFkiOjY4fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2978214/sergio-godinho-mao-morta-e-linda-martini-no-rock-nordeste-de-vila-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sérgio Godinho, Mão Morta e Linda Martini no Rock Nordeste de Vila Real",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/2978214/sergio-godinho-mao-morta-e-linda-martini-no-rock-nordeste-de-vila-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776961249000,
+         "created": 1776961249000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/40585354.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14636,69 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_696cc55c93fce.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6NDc0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDc4LCJjcm9wSGVpZ2h0IjoxOTE3LCJjcm9wWCI6ODUsImNyb3BZIjotMX19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2977079/lens-esta-na-final-da-taca-de-franca-e-adeptos-festejaram-com-invasao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lens está na final da Taça de França e adeptos festejaram... com invasão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2977079/lens-esta-na-final-da-taca-de-franca-e-adeptos-festejaram-com-invasao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776814252000,
-         "created": 1776814252000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e7fa417fcaa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIwMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ0LCJjcm9wSGVpZ2h0IjoxNjc4LCJjcm9wWCI6ODk2LCJjcm9wWSI6MTV9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2977073/cinco-presos-mortos-durante-uma-rixa-numa-cadeia-venezuelana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cinco presos mortos durante uma rixa numa cadeia venezuelana",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2977073/cinco-presos-mortos-durante-uma-rixa-numa-cadeia-venezuelana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776814071000,
-         "created": 1776814071000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_673a183ab2158.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OCwiY3JvcEhlaWdodCI6MTcwMywiY3JvcFgiOjUxMiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2977075/traficantes-lancam-fardos-de-droga-contra-policia-maritima-em-perseguicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Traficantes lançam fardos de droga contra Polícia Marítima em perseguição",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2977075/traficantes-lancam-fardos-de-droga-contra-policia-maritima-em-perseguicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776814015000,
-         "created": 1776814015000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e7f7f8efc7d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTM3LCJjcm9wSGVpZ2h0Ijo4NjUsImNyb3BYIjotMSwiY3JvcFkiOjY5NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODI3LCJjcm9wSGVpZ2h0IjoxNDcwLCJjcm9wWCI6NzEwLCJjcm9wWSI6NTc4fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
