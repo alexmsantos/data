@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2978453/recluso-ferido-ligeiro-apos-fogo-na-prisao-de-santa-cruz-do-bispo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Recluso ferido ligeiro após fogo na prisão de Santa Cruz do Bispo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2978453/recluso-ferido-ligeiro-apos-fogo-na-prisao-de-santa-cruz-do-bispo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1776985982000,
+         "created": 1776985982000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67f2bff47310b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjM5OCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2978450/villarreal-empata-com-o-ultimo-mas-segue-tranquilo-no-terceiro-lugar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Villarreal empata com o último mas segue tranquilo no terceiro lugar",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67c6e0027f622.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2976093/febre-dos-perfumes-arabes-explicacao-e-novidades-da-estetica-ao-luxo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Febre dos perfumes árabes: Explicação e novidades \"da estética ao luxo\" ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2976093/febre-dos-perfumes-arabes-explicacao-e-novidades-da-estetica-ao-luxo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776856810000,
-         "created": 1776856810000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e780e8ea56d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTA1LCJjcm9wSGVpZ2h0IjoxMDcxLCJjcm9wWCI6ODUsImNyb3BZIjoxMDB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
