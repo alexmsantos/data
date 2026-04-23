@@ -41,9 +41,12 @@
       {
          "id": "39b3d0ac-0340-4186-b65c-09bb7a58696e",
          "title": "Colisão frontal entre dois comboios na Dinamarca faz vários feridos",
-         "description": "<p><span>Relatos indicam que cerca de dez pessoas ficaram feridas no acidente</span></p><p></p>",
+         "description": "<p><span>Relatos indicam que cerca de </span><span>dezassete</span><span> </span><span>pessoas ficaram feridas no acidente</span></p><p></p>",
          "link": "https://expresso.pt/europa/2026-04-23-colisao-frontal-entre-dois-comboios-na-dinamarca-faz-varios-feridos-e44f4534",
-         "author": "Agência Lusa",
+         "author": [
+            "Expresso",
+            "Agência Lusa"
+         ],
          "published": 1776928686000,
          "created": 1776928686000,
          "category": "Europa",
