@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2979079/google-planeia-investir-ate-34000-milhoes-na-anthropic#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Google planeia investir até 34.000 milhões na Anthropic",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2979079/google-planeia-investir-ate-34000-milhoes-na-anthropic#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777063187000,
+         "created": 1777063187000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_698af51a5ea66.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2979084/preventiva-para-homem-procurado-no-brasil-apos-matar-namorado-da-mae#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Preventiva para homem procurado no Brasil após matar namorado da mãe",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2979084/preventiva-para-homem-procurado-no-brasil-apos-matar-namorado-da-mae#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777063127000,
+         "created": 1777063127000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68397142c739a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2979083/tribunal-no-quenia-anula-decisao-que-confirmava-direito-ao-aborto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tribunal no Quénia anula decisão que confirmava direito ao aborto",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/46975412.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2977875/leonardo-jardim-sorri-na-taca-do-brasil-artur-jorge-nem-por-isso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Leonardo Jardim sorri na Taça do Brasil, Artur Jorge nem por isso",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2977875/leonardo-jardim-sorri-na-taca-do-brasil-artur-jorge-nem-por-isso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776928176000,
-         "created": 1776928176000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69b2631dabe03.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjN9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2977877/varios-feridos-em-colisao-de-dois-comboios-na-dinamarca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Colisão de comboios na Dinamarca fez pelo menos 17 feridos (5 graves)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2977877/varios-feridos-em-colisao-de-dois-comboios-na-dinamarca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776928032000,
-         "created": 1776928032000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e9be98e7c87.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzM2LCJjcm9wSGVpZ2h0IjoxMzE0LCJjcm9wWCI6LTEsImNyb3BZIjozODF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjU1MSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
