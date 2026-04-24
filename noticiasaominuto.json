@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2978714/um-doce-com-tradicao-a-receita-de-tigelada-mas-com-toque-de-chocolate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Um doce com tradição: A receita de tigelada (mas com toque de chocolate)",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2978714/um-doce-com-tradicao-a-receita-de-tigelada-mas-com-toque-de-chocolate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777046384000,
+         "created": 1777046384000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69eb4f0c45ae5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4OTEsImNyb3BIZWlnaHQiOjUwMSwiY3JvcFgiOjIwLCJjcm9wWSI6MTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjI1NSwiY3JvcEhlaWdodCI6NDUzLCJjcm9wWCI6MTcxLCJjcm9wWSI6MTh9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2978900/ryanair-encerra-base-em-berlim-devido-ao-aumento-das-taxas-aeroportuarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ryanair encerra base em Berlim devido ao aumento das taxas aeroportuárias",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69e92972407c6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2977721/colonos-israelitas-matam-a-tiro-o-3-palestiniano-na-cisjordania-em-24h#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Colonos israelitas matam a tiro o 3.º palestiniano na Cisjordânia em 24h",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2977721/colonos-israelitas-matam-a-tiro-o-3-palestiniano-na-cisjordania-em-24h#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1776891716000,
-         "created": 1776891716000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69d781d51defc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NDA2LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
