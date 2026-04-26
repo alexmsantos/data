@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2979061/em-direto-alverca-e-arouca-abrem-as-contas-da-jornada-31-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Estoril-Famalicão abre domingo de I Liga",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2979061/em-direto-alverca-e-arouca-abrem-as-contas-da-jornada-31-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777217507000,
+         "created": 1777217507000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68d6444e4d8ae.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2979720/filme-justa-de-teresa-villaverde-premiado-em-festival-de-cinema-de-pequim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Filme \"Justa\" de Teresa Villaverde premiado em festival de cinema de Pequim",
@@ -293,27 +314,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69ee0bcf12c98.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTE1OSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2979061/em-direto-alverca-e-arouca-abrem-as-contas-da-jornada-31-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Estoril-Famalicão abre domingo de I Liga",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2979061/em-direto-alverca-e-arouca-abrem-as-contas-da-jornada-31-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777211844000,
-         "created": 1777211844000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68d6444e4d8ae.webp",
                "type": "image/jpeg",
                "length": "0"
             }
