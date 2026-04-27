@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2026 em Portugal",
+         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para os próximos meses: uma agenda sempre em atualização</p>",
+         "link": "https://expresso.pt/blitz/agenda/2026-04-27-todos-os-concertos-marcados-para-2026-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1777278660000,
+         "created": 1777278660000,
+         "category": "Agenda",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-31-_rc01860ritacarmo.jpg-ef2b5f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-01-31-_rc01860ritacarmo.jpg-ef2b5f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-01-31-_rc01860ritacarmo.jpg-ef2b5f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "1dcc9c34-987a-4f43-98f2-3d8698fa63f1",
          "title": "Mais de 400 mil pessoas dependem dos Bancos Alimentares face ao aumento do custo de vida",
          "description": "<p><span>Quase 4% da população em Portugal depende já de ajuda alimentar. O perfil de quem pede apoio mudou e inclui famílias jovens, imigrantes e pessoas qualificadas atualmente desempregadas</span></p>",
@@ -257,35 +286,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "e8014ea5-da07-411d-af51-fe399a5bad17",
-         "title": "Elon Musk contra OpenAI: embate de titãs em tribunal decide futuro da IA",
-         "description": "<p>Homem mais rico do mundo quer desmantelar a casa-mãe do ChatGPT e retirar Sam Altman da liderança. Julgamento começa esta segunda-feira na Califórnia</p>",
-         "link": "https://expresso.pt/big-tech/2026-04-27-elon-musk-contra-openai-embate-de-titas-em-tribunal-decide-futuro-da-ia-8e31b59d",
-         "author": "Ana Rita Guerra",
-         "published": 1777270318000,
-         "created": 1777270318000,
-         "category": "Big Tech",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-27-musk-e-open-ai.jpg-666e808a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-27-musk-e-open-ai.jpg-666e808a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-04-27-musk-e-open-ai.jpg-666e808a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
