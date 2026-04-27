@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2980250/varios-golpes-de-faca-jovem-detido-por-tentativa-de-homicidio-no-cacem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Vários golpes de faca\". Jovem detido por tentativa de homicídio no Cacém",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2980250/varios-golpes-de-faca-jovem-detido-por-tentativa-de-homicidio-no-cacem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777307184000,
+         "created": 1777307184000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6881f2cecb6ae.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ4NywiY3JvcEhlaWdodCI6ODY2LCJjcm9wWCI6MTY1LCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2980254/soam-os-alarmes-na-croacia-modric-vai-ser-operado-a-fratura-na-face#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Soam os alarmes na Croácia. Modric vai ser operado a fratura na face ",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69ad25b340d59.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyNn19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2979144/papa-contra-a-pena-de-morte-dignidade-nao-se-perde-mesmo-apos-crime#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Papa contra a pena de morte. Dignidade \"não se perde\" mesmo após crime",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2979144/papa-contra-a-pena-de-morte-dignidade-nao-se-perde-mesmo-apos-crime#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777074073000,
-         "created": 1777074073000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e60129c9e68.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NDI2LCJjcm9wWSI6MTY4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDksImNyb3BIZWlnaHQiOjE2ODgsImNyb3BYIjo5OTYsImNyb3BZIjoyMH19",
                "type": "image/jpeg",
                "length": "0"
             }
