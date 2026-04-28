@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2980699/bharein-tomou-medidas-contra-cidadaos-alegadamente-apoiantes-de-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bharein tomou medidas contra cidadãos alegadamente apoiantes de Teerão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2980699/bharein-tomou-medidas-contra-cidadaos-alegadamente-apoiantes-de-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777379990000,
+         "created": 1777379990000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_619bcbcf6b3ce.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2MCwiY3JvcEhlaWdodCI6MTM1MSwiY3JvcFgiOjM3OCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2980695/aprovada-exigencia-de-mais-200-mil-milhoes-de-euros-em-orcamento-da-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Aprovada exigência de mais 200 mil milhões de euros em orçamento da UE",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69eb39e42b897.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2977955/o-rumor-da-semana-doumbia-um-reforco-ao-alcance-de-sporting-e-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O rumor da semana: Doumbia, um reforço ao alcance de Sporting e Benfica?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2977955/o-rumor-da-semana-doumbia-um-reforco-ao-alcance-de-sporting-e-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777188901000,
-         "created": 1777188901000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e9e4478c04f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjUzLCJjcm9wSGVpZ2h0IjoxMjY3LCJjcm9wWCI6MjksImNyb3BZIjoxOH0sInN0YW1wIjp7ImNhdGVnb3J5IjoiZGVzcG9ydG8iLCJsYWJlbCI6InJ1bW9yX2RhX3NlbWFuYSIsImNvbG9yIjoicHJldG8iLCJwb3NpdGlvbiI6ImJvdHRvbS1yaWdodCJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
