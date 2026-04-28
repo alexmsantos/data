@@ -6,6 +6,18 @@
    "category": [],
    "items": [
       {
+         "id": "fabfae31-9b18-4870-bc33-8ee159178c6d",
+         "title": "Tecnofascismo ou progresso",
+         "description": "<p>Os povos e as elites europeias há muito abandonaram qualquer propósito de reflexão ou filosofia</p>",
+         "link": "https://expresso.pt/opiniao/2026-04-28-tecnofascismo-ou-progresso-c1e7e2f0",
+         "author": "Clara Ferreira Alves",
+         "published": 1777358820000,
+         "created": 1777358820000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "id": "27322cd1-02e1-4f35-91f9-85c43f020b64",
          "title": "A Veneziana de Ventura",
          "description": "<p><span>A</span><span> proposta prevê uma divulgação nominativa dos donativos, mas sem número de identificação fiscal, sem morada, sem qualquer elemento que permita verificar se o nome corresponde a uma pessoa real ou a uma combinação de sílabas com conta bancária</span></p>",
@@ -58,6 +70,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2022-06-21-Henrique-Burnay.png-0edf0dd0-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "0bad9844-0715-4b37-8d22-58605eb8763c",
+         "title": "Austrália quer forçar Meta, Google e TikTok a pagar pelos conteúdos noticiosos",
+         "description": "<p><span>Mais de metade dos australianos utiliza as redes sociais como fonte de informação, segundo a Universidade de Canberra</span></p>",
+         "link": "https://expresso.pt/big-tech/2026-04-28-australia-quer-forcar-meta-google-e-tiktok-a-pagar-pelos-conteudos-noticiosos-7e3fcede",
+         "author": "Agência Lusa",
+         "published": 1777358028000,
+         "created": 1777358028000,
+         "category": "Big Tech",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2021-02-25-google-australia-facebook-a7cf67c0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2021-02-25-google-australia-facebook-a7cf67c0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2021-02-25-google-australia-facebook-a7cf67c0/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -239,67 +280,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2024-09-17-henrique-monteiro.png-9651e829-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "1305d7d2-0d49-4bc2-a6e4-798bf4e94122",
-         "title": "Cláudia Custódio: “Quando me perguntavam o que queria ser quando fosse crescida, dizia que queria ir trabalhar para 'O Tal Canal', com o Herman José\"",
-         "description": "<p>Qual é a relação entre o que nos faz rir e a disciplina que atormenta mais alunos na escola? Cláudia Custódio é professora catedrática de Finanças, no Imperial College, em Londres, mas decidiu investigar sobre “Riso, Humor e… Matemática”. É este o nome do seu livro, publicado pela Fundação Francisco Manuel dos Santos</p>",
-         "link": "https://expresso.pt/podcasts/humor-a-primeira-vista/2026-04-28-quando-me-perguntavam-o-que-queria-ser-quando-fosse-crescida-dizia-que-queria-ir-trabalhar-para-o-tal-canal-com-o-herman-jose-6c729c81",
-         "author": [
-            "Gustavo Carvalho",
-            "José Fonseca Fernandes"
-         ],
-         "published": 1777356000000,
-         "created": 1777356000000,
-         "category": "Humor à Primeira Vista",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-27-20260417_01_humor-a-primeira-vista-claudia-custodio_jff.jpg-e8b54209/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-27-20260417_01_humor-a-primeira-vista-claudia-custodio_jff.jpg-e8b54209/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-04-27-20260417_01_humor-a-primeira-vista-claudia-custodio_jff.jpg-e8b54209/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "defc007a-b07b-4af9-8e19-db63c396eeca",
-         "title": "180 mil alunas tiveram produtos menstruais gratuitos mas há escolas sem stock",
-         "description": "<p><span>Produtos menstruais estão a ser disponibilizados nas escolas e centros de saúde há um ano. Governo quer alargar medida a </span><span>centros de acolhimento</span><span>, </span><span>casas de abrigo de vítimas de violência doméstica e a prisões</span></p>",
-         "link": "https://expresso.pt/sociedade/saude/2026-04-28-180-mil-alunas-tiveram-produtos-menstruais-gratuitos-mas-ha-escolas-sem-stock-091460ae",
-         "author": "Ana Margarida Alves",
-         "published": 1777356000000,
-         "created": 1777356000000,
-         "category": "Saúde",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2022-08-15-Periodo_Menstruacao-9e2a3579/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2022-08-15-Periodo_Menstruacao-9e2a3579/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2022-08-15-Periodo_Menstruacao-9e2a3579/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
