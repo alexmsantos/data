@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "1d11a19b-df18-4629-b42a-da6490dfd8f3",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro",
+         "author": "Agência Lusa",
+         "published": 1777586400000,
+         "created": 1777586400000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-04-30-primeira.jpg-c28ad0ef/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-04-30-primeira.jpg-c28ad0ef/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-04-30-primeira.jpg-c28ad0ef/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "db965789-b75c-431e-ab25-673e1b031bb9",
          "title": "Com quantos drones se faz um unicórnio português, para ler na revista E",
          "description": "",
@@ -200,39 +229,6 @@
          "category": "Editorial",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "afee019a-42e0-483e-aa86-bcfb66aab008",
-         "title": "Greve geral à vista, chumbo no Parlamento também. Lei laboral pode nem chegar a Seguro",
-         "description": "<p>Governo já antecipa chumbo do pacote laboral. Carneiro com a CGTP no 1º de Maio, dia de anúncio da greve</p>",
-         "link": "https://expresso.pt/politica/2026-04-30-greve-geral-a-vista-chumbo-no-parlamento-tambem.-lei-laboral-pode-nem-chegar-a-seguro-28722227",
-         "author": [
-            "Paula Caeiro Varela",
-            "Hélio Carvalho",
-            "João Pedro Henriques"
-         ],
-         "published": 1777586222000,
-         "created": 1777586222000,
-         "category": "Política",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-30-ds_01_greve-geral-2025-manifestacao-porto_3c8a7513-_idp.jpg-681b3a70/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-30-ds_01_greve-geral-2025-manifestacao-porto_3c8a7513-_idp.jpg-681b3a70/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-04-30-ds_01_greve-geral-2025-manifestacao-porto_3c8a7513-_idp.jpg-681b3a70/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
