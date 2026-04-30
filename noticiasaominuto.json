@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2982539/lucro-semestral-da-apple-cresce-17-para-72-mil-milhoes-de-dolares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lucro semestral da Apple cresce 17% para 72 mil milhões de dólares",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2982539/lucro-semestral-da-apple-cresce-17-para-72-mil-milhoes-de-dolares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777592744000,
+         "created": 1777592744000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69300a4314249.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjg5NiwiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDUxLCJjcm9wSGVpZ2h0IjoxMzc5LCJjcm9wWCI6MzAsImNyb3BZIjoyMDF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2982537/crystal-palace-e-rayo-vallecano-ganham-vantagem-na-corrida-a-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Crystal Palace e Rayo Vallecano ganham vantagem na corrida à final",
@@ -7567,7 +7588,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2981907/ao-minuto-eua-planeiam-ataques-curtos-e-fortes-42-navios-bloqueados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: Portugueses na flotilha? Lisboa exige explicações a Telavive",
+         "title": "AO MINUTO: Trump critica Espanha e Itália; EUA condenam flotilha",
          "description": "",
          "link": "https://www.noticiasaominuto.com/mundo/2981907/ao-minuto-eua-planeiam-ataques-curtos-e-fortes-42-navios-bloqueados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -7579,7 +7600,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f38b792c214.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f3db924e1a4.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69f1ce4893c34.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2981300/bruxelas-quer-verificar-idade-nas-redes-sociais-ate-ao-final-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bruxelas quer verificar idade nas redes sociais até ao final do ano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2981300/bruxelas-quer-verificar-idade-nas-redes-sociais-ate-ao-final-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777458208000,
-         "created": 1777458208000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_697736456319a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ2LCJjcm9wSGVpZ2h0IjoxNDMyLCJjcm9wWCI6OSwiY3JvcFkiOjEzN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTU0LCJjcm9wSGVpZ2h0IjoxNjk2LCJjcm9wWCI6MTAxOCwiY3JvcFkiOjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
