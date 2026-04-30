@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2981930/tvi-volta-a-juntar-a-dupla-maria-cerqueira-gomes-e-pedro-teixeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "TVI volta a juntar a dupla Maria Cerqueira Gomes e Pedro Teixeira",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/2981930/tvi-volta-a-juntar-a-dupla-maria-cerqueira-gomes-e-pedro-teixeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777558120000,
+         "created": 1777558120000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_60d1afcd28eea.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDQ1LCJjcm9wSGVpZ2h0Ijo1ODgsImNyb3BYIjoyOCwiY3JvcFkiOjc2fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2982194/dazn-reforca-direitos-da-champions-sporttv-com-primeiras-escolhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "DAZN reforça direitos da Champions. SportTV com primeiras escolhas",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6943d5e14f60b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEzNH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2980762/korn-lancam-musica-para-marcar-chegada-de-nova-expansao-para-diablo-iv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Korn lançam música para marcar chegada de nova expansão para \"Diablo IV\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2980762/korn-lancam-musica-para-marcar-chegada-de-nova-expansao-para-diablo-iv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777399661000,
-         "created": 1777399661000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f0ae40d5cfd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM0LCJjcm9wSGVpZ2h0IjoxNDI1LCJjcm9wWCI6MTMsImNyb3BZIjoxNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MzM4LCJjcm9wSGVpZ2h0Ijo2MDIsImNyb3BYIjoxNDQ0LCJjcm9wWSI6MTZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
