@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2982184/incendio-em-predio-das-financas-na-amadora-faz-7-feridos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio em prédio das Finanças na Amadora faz 7 feridos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2982184/incendio-em-predio-das-financas-na-amadora-faz-7-feridos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777556343000,
+         "created": 1777556343000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f34d34cb418.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6NTM5fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2982120/escritora-maria-azenha-vence-premio-literario-gloria-de-santanna#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Escritora Maria Azenha vence Prémio Literário Glória de Sant'Anna",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_698f4fa3bab97.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjc0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDQ3LCJjcm9wSGVpZ2h0IjoxODYxLCJjcm9wWCI6NzcwLCJjcm9wWSI6LTF9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2980945/vitima-de-homicidio-em-franca-identificada-apos-20-anos-suspeito-detido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vítima de homicídio em França identificada após 20 anos. Suspeito detido",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2980945/vitima-de-homicidio-em-franca-identificada-apos-20-anos-suspeito-detido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777398797000,
-         "created": 1777398797000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f0deeab5085.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI0LCJjcm9wSGVpZ2h0Ijo1NzYsImNyb3BYIjowLCJjcm9wWSI6MzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjI5MCwiY3JvcEhlaWdodCI6NTE1LCJjcm9wWCI6MTQwLCJjcm9wWSI6MTI5fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
