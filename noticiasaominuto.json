@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2982498/medio-oriente-15-mortos-em-novos-ataques-israelitas-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Médio Oriente: 15 mortos em novos ataques israelitas no Líbano",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2982498/medio-oriente-15-mortos-em-novos-ataques-israelitas-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777585802000,
+         "created": 1777585802000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ee3558c4ad1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDk3LCJjcm9wSGVpZ2h0IjoxNDA0LCJjcm9wWCI6MzMsImNyb3BZIjoxODh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjQ4NCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2982323/musica-humor-e-novo-circo-marcam-programacao-do-convento-sao-francisco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Música, humor e novo circo marcam programação do Convento São Francisco ",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69f1bbddaa26b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2981246/preco-do-petroleo-brent-ultrapassa-os-112-50-dolares-por-barril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Preço do petróleo Brent ultrapassa os 112,50 dólares por barril",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2981246/preco-do-petroleo-brent-ultrapassa-os-112-50-dolares-por-barril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777453576000,
-         "created": 1777453576000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_55b8bc500aa46.webp",
                "type": "image/jpeg",
                "length": "0"
             }
