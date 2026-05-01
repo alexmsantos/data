@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2982829/apple-e-queda-do-petroleo-levam-wall-street-a-novos-maximos-historicos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Apple e queda do petróleo levam Wall Street a novos máximos históricos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2982829/apple-e-queda-do-petroleo-levam-wall-street-a-novos-maximos-historicos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777678877000,
+         "created": 1777678877000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_53e935045756e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2982828/novo-gyokeres-a-caminho-de-lisboa-benfica-de-olho-em-goleador-sueco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Novo Gyokeres a caminho de Lisboa? Benfica de olho em goleador sueco",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69f228133a44d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2981245/entre-recuperacao-e-recuo-o-arranque-de-ano-da-tesla#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Entre recuperação e recuo: O arranque de ano da Tesla",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2981245/entre-recuperacao-e-recuo-o-arranque-de-ano-da-tesla#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777489509000,
-         "created": 1777489509000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f1ba4ece151.webp",
                "type": "image/jpeg",
                "length": "0"
             }
