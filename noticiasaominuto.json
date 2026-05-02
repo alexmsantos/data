@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2982904/em-direto-nacional-estrela-arouca-e-santa-clara-jogam-sobrevivencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Nacional, Estrela, Arouca e Santa Clara jogam 'sobrevivência'",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2982904/em-direto-nacional-estrela-arouca-e-santa-clara-jogam-sobrevivencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777735941000,
+         "created": 1777735941000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_64d8735f467d3.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2982964/zelensky-alerta-para-atividade-invulgar-na-fronteira-com-bielorrussia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Zelensky alerta para \"atividade invulgar\" na fronteira com Bielorrússia",
@@ -335,27 +356,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69f2817b96fab.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjk1LCJjcm9wWSI6LTF9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2982904/em-direto-nacional-estrela-arouca-e-santa-clara-jogam-sobrevivencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Nacional, Estrela, Arouca e Santa Clara jogam 'sobrevivência'",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2982904/em-direto-nacional-estrela-arouca-e-santa-clara-jogam-sobrevivencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777729999000,
-         "created": 1777729999000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_64d8735f467d3.webp",
                "type": "image/jpeg",
                "length": "0"
             }
