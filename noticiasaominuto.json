@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2983213/em-direto-rui-borges-faz-o-lancamento-do-sporting-vitoria-sc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Do título do FC Porto à ultrapassagem ao Benfica. O que disse Rui Borges",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2983213/em-direto-rui-borges-faz-o-lancamento-do-sporting-vitoria-sc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777812985000,
+         "created": 1777812985000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69a0210a37915.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2983255/israel-prolonga-por-2-dias-detencao-de-ativistas-da-flotilha-para-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Israel prolonga por 2 dias detenção de ativistas da Flotilha para Gaza",
@@ -146,27 +167,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_681458d6aea24.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2983213/em-direto-rui-borges-faz-o-lancamento-do-sporting-vitoria-sc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Rui Borges faz o lançamento do Sporting-Vitória SC",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2983213/em-direto-rui-borges-faz-o-lancamento-do-sporting-vitoria-sc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777810043000,
-         "created": 1777810043000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69a0210a37915.webp",
                "type": "image/jpeg",
                "length": "0"
             }
