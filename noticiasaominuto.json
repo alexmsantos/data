@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2983818/bce-poder-militar-europeu-pode-reforcar-confianca-no-euro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "BCE: Poder militar europeu pode reforçar confiança no euro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2983818/bce-poder-militar-europeu-pode-reforcar-confianca-no-euro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777910743000,
+         "created": 1777910743000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6981c4e75cdef.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIwLCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6NDAsImNyb3BZIjo3NX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2983813/incendio-em-predio-faz-tres-mortos-em-nova-iorque-operacao-perigosa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Incêndio em prédio faz três mortos em Nova Iorque: \"Operação perigosa\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/46785482.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OSwiY3JvcEhlaWdodCI6MTcwNSwiY3JvcFgiOjEwNDksImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2982784/trump-reforca-sancoes-contra-cuba-ameaca-extraordinaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trump reforça sanções contra Cuba: \"Ameaça extraordinária\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2982784/trump-reforca-sancoes-contra-cuba-ameaca-extraordinaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777666737000,
-         "created": 1777666737000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f4fca3260f3.webp",
                "type": "image/jpeg",
                "length": "0"
             }
