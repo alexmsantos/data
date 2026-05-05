@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2984733/rede-siresp-com-mais-estacoes-e-autonomia-energetica-superior-a-24h#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rede SIRESP com mais estações e autonomia energética superior a 24h",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2984733/rede-siresp-com-mais-estacoes-e-autonomia-energetica-superior-a-24h#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778017456000,
+         "created": 1778017456000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_595d2cc4dbd56.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODE1LCJjcm9wSGVpZ2h0IjoxMDIxLCJjcm9wWCI6LTEsImNyb3BZIjoxMjl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2984732/siria-anuncia-ter-desmantelado-nova-celula-ligada-ao-hezbollah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Síria anuncia ter desmantelado nova célula ligada ao Hezbollah",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_65a11a342369e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjg2LCJjcm9wSGVpZ2h0IjoxMjg2LCJjcm9wWCI6MTUyLCJjcm9wWSI6MjY1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDgsImNyb3BIZWlnaHQiOjE2ODYsImNyb3BYIjoxMDA5LCJjcm9wWSI6MTJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2983522/aeroporto-do-dubai-com-quebra-de-21-de-passageiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aeroporto do Dubai com quebra de 21% de passageiros",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2983522/aeroporto-do-dubai-com-quebra-de-21-de-passageiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777887848000,
-         "created": 1777887848000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_57eb9b6f9eaaf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0OTcxLCJjcm9wSGVpZ2h0IjoyNzk2LCJjcm9wWCI6MTA2LCJjcm9wWSI6NTQ4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxOTMwLCJjcm9wSGVpZ2h0IjozNDMwLCJjcm9wWCI6Mjg0LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
