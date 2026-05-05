@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2984165/identificados-sete-casos-de-hantavirus-no-navio-hondius-como-evoluiram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Identificados sete casos de hantavírus no navio Hondius. Como evoluíram?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2984165/identificados-sete-casos-de-hantavirus-no-navio-hondius-como-evoluiram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1777968738000,
+         "created": 1777968738000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f9962470504.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2984162/met-gala-georgina-faz-homenagem-a-nossa-senhora-de-fatima-e-a-familia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Met Gala. Georgina faz homenagem a Nossa Senhora de Fátima e à família",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6820bde21cef7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIzM319",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2983079/al-hilal-vence-e-ruben-neves-mantem-pressao-a-cristiano-ronaldo-e-felix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Al Hilal vence e Ruben Neves mantém pressão a Cristiano Ronaldo e Félix",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2983079/al-hilal-vence-e-ruben-neves-mantem-pressao-a-cristiano-ronaldo-e-felix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777755312000,
-         "created": 1777755312000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f65607702b3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjM4LCJjcm9wSGVpZ2h0Ijo5MjIsImNyb3BYIjowLCJjcm9wWSI6MzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjExMjksImNyb3BIZWlnaHQiOjIwMDcsImNyb3BYIjoyOTMsImNyb3BZIjoyN319",
                "type": "image/jpeg",
                "length": "0"
             }
