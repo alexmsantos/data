@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "f05d8910-b37e-4757-8560-bd3ba10ad605",
+         "title": "A ausência alemã",
+         "description": "<p><span>Na semana em que se pegou com Trump, Friedrich Merz falhou o encontro da Europa com os seus vizinhos. Uma ausência que resume um ano deste governo alemão</span></p>",
+         "link": "https://expresso.pt/opiniao/2026-05-05-a-ausencia-alema-38e09e08",
+         "author": "Henrique Burnay",
+         "published": 1777963501000,
+         "created": 1777963501000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-06-21-Henrique-Burnay.png-0edf0dd0-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-06-21-Henrique-Burnay.png-0edf0dd0-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-06-21-Henrique-Burnay.png-0edf0dd0-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "3747ca57-b9db-44da-86db-3713edefc85b",
          "title": "Asma grave em Portugal: respirar não devia ser um privilégio",
          "description": "<p><span>Com inúmeros desafios diários, quem vive com asma grave encontra nos medicamentos biológicos, que reduzem crises e internamentos, uma esperança. Porém, o acesso em Portugal é limitado</span></p>",
@@ -241,35 +270,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "fc05240b-037f-40ff-a349-57b41d77b889",
-         "title": "Reino tudo menos unido",
-         "description": "<p>Um admirável mundo novo de raiva e ressentimento dominará a política e a geopolítica</p>",
-         "link": "https://expresso.pt/opiniao/2026-05-05-reino-tudo-menos-unido-04b0ed2a",
-         "author": "Clara Ferreira Alves",
-         "published": 1777959000000,
-         "created": 1777959000000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
