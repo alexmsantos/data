@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2984823/pirete-de-abel-e-alivio-de-luis-castro-animam-a-america-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pirete de Abel e alívio de Luís Castro animam a América do Sul",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2984823/pirete-de-abel-e-alivio-de-luis-castro-animam-a-america-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778050666000,
+         "created": 1778050666000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69fad834a3330.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjEyMjEsImNyb3BZIjoxNDZ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2984820/comunidade-israelita-contra-apoios-publicos-a-concerto-de-kanye-no-algarve#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Comunidade Israelita contra apoios públicos a concerto de Kanye no Algarve",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6037e613db7a6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2983641/skyshowtime-eis-tudo-o-que-podera-ver-no-servico-em-maio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "SkyShowtime. Eis tudo o que poderá ver no serviço em maio",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2983641/skyshowtime-eis-tudo-o-que-podera-ver-no-servico-em-maio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1777895080000,
-         "created": 1777895080000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f8786ae0e35.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODc3LCJjcm9wSGVpZ2h0IjoxMDU2LCJjcm9wWCI6NiwiY3JvcFkiOjEyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0ODYsImNyb3BIZWlnaHQiOjg2NCwiY3JvcFgiOjk3OCwiY3JvcFkiOjl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
