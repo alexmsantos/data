@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2986115/real-madrid-confirma-processos-disciplinares-a-valverde-e-tchouameni#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Real Madrid confirma processos disciplinares a Valverde e Tchouaméni",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2986115/real-madrid-confirma-processos-disciplinares-a-valverde-e-tchouameni#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778185807000,
+         "created": 1778185807000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69fce8511371b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2986104/pessoa-amiga-de-todos-barcelos-de-luto-por-morte-de-jovem-paraquedista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Pessoa amiga de todos\". Barcelos de luto por morte de jovem paraquedista",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69d188433ba2a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyOCwiY3JvcEhlaWdodCI6MTY0OSwiY3JvcFgiOjI0MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2984853/ucrania-chefe-de-recrutamento-regional-detido-por-aceitar-suborno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ucrânia: Chefe de Recrutamento Regional detido por aceitar suborno",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2984853/ucrania-chefe-de-recrutamento-regional-detido-por-aceitar-suborno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778057211000,
-         "created": 1778057211000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_622c8cee90aca.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDI3LCJjcm9wSGVpZ2h0IjoxMzY1LCJjcm9wWCI6ODIsImNyb3BZIjoyNzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjI3MCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
