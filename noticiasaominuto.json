@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "TC declara inconstitucional perda de nacionalidade como pena acessória",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778265045000,
+         "created": 1778265045000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_51596f75bc343.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2986746/diz-ao-papa-trump-enviou-mensagem-a-leao-xiv-atraves-de-rubio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Diz ao Papa...\" Trump enviou mensagem a Leão XIV através de Rubio",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69fc33265150e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc5LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6OSwiY3JvcFkiOjI5OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM5LCJjcm9wSGVpZ2h0IjoxNjY5LCJjcm9wWCI6NTg1LCJjcm9wWSI6MjF9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2985538/sistema-imunitario-fraco-9-habitos-diarios-que-afetam-a-sua-saude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sistema imunitário fraco? 9 hábitos diários que afetam a sua saúde",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2985538/sistema-imunitario-fraco-9-habitos-diarios-que-afetam-a-sua-saude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778139486000,
-         "created": 1778139486000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69fc323356c8c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOSwiY3JvcFgiOjQ1MywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
