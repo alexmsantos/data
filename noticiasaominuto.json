@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2986785/primeiro-ministro-do-qatar-nos-eua-para-reuniao-sobre-conflito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Primeiro-ministro do Qatar nos EUA para reunião sobre conflito",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2986785/primeiro-ministro-do-qatar-nos-eua-para-reuniao-sobre-conflito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778268560000,
+         "created": 1778268560000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_594e5f8848d87.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjM4LCJjcm9wSGVpZ2h0Ijo2OTcsImNyb3BYIjowLCJjcm9wWSI6Mzh9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2986786/ministro-acusa-ps-e-chega-de-destruir-consenso-de-50-anos-em-materias-de-soberania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministro acusa PS e Chega de destruir consenso de 50 anos em matérias de soberania",
@@ -1225,7 +1246,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/2986677/irmaos-fizeram-100-mil-a-chantagear-com-divulgacao-de-imagens-intimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Irmãos fizeram 100 mil € a chantagear com divulgação de imagens íntimas",
+         "title": "Irmãos fizeram 100 mil € com ameaças de divulgação de imagens íntimas",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/2986677/irmaos-fizeram-100-mil-a-chantagear-com-divulgacao-de-imagens-intimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6735b2cf71128.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2985554/google-deepmind-vai-treinar-ia-recorrendo-a-popular-jogo-online#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Google DeepMind vai treinar IA recorrendo a popular jogo online",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2985554/google-deepmind-vai-treinar-ia-recorrendo-a-popular-jogo-online#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778143187000,
-         "created": 1778143187000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69fc40ece7f18.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjEyLCJjcm9wSGVpZ2h0Ijo5MDcsImNyb3BYIjo0LCJjcm9wWSI6MzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYyMSwiY3JvcEhlaWdodCI6MTEwNCwiY3JvcFgiOjQ0OCwiY3JvcFkiOjd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
