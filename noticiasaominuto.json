@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2987158/putin-acredita-que-o-conflito-na-ucrania-esta-a-chegar-ao-fim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Putin acredita que o conflito na Ucrânia está \"a chegar ao fim\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2987158/putin-acredita-que-o-conflito-na-ucrania-esta-a-chegar-ao-fim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778358002000,
+         "created": 1778358002000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_696923a2e07fc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2987154/ja-campeao-de-italia-inter-vence-lazio-fora-de-portas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Já campeão de Itália, Inter vence Lazio fora de portas",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_673a183ab2158.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2986072/mau-tempo-nunca-o-estado-disponibilizou-apoio-efetivo-tao-rapidamente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mau Tempo: \"Nunca o Estado disponibilizou apoio efetivo tão rapidamente\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2986072/mau-tempo-nunca-o-estado-disponibilizou-apoio-efetivo-tao-rapidamente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778182287000,
-         "created": 1778182287000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5aacd1579f6c0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1ODEyLCJjcm9wSGVpZ2h0IjozMjY5LCJjcm9wWCI6LTIsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
