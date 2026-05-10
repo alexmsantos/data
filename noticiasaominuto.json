@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2987231/cruzeiro-mv-hondius-da-entrada-no-porto-de-granadilla-em-tenerife#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cruzeiro MV Hondius dá entrada no porto de Granadilla em Tenerife",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2987231/cruzeiro-mv-hondius-da-entrada-no-porto-de-granadilla-em-tenerife#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778395384000,
+         "created": 1778395384000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a001c86d6332.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2987230/artur-jorge-guia-cruzeiro-de-volta-as-vitorias-entre-polemica-e-juventude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Artur Jorge guia Cruzeiro de volta às vitórias entre polémica e juventude",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6994fc5ad1563.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2986117/cloud-soberana-dividida-entre-infraestruturas-e-reforma-do-estado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cloud soberana dividida entre Infraestruturas e Reforma do Estado",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2986117/cloud-soberana-dividida-entre-infraestruturas-e-reforma-do-estado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778189788000,
-         "created": 1778189788000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_665ee4dbcc504.webp",
                "type": "image/jpeg",
                "length": "0"
             }
