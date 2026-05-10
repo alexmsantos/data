@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/2987284/diana-monteiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Diana Monteiro fala sobre perda do seu cão: \"Agora está em paz\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/2987284/diana-monteiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778420477000,
+         "created": 1778420477000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0066d2527f9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODI5LCJjcm9wSGVpZ2h0IjoxMDI5LCJjcm9wWCI6MCwiY3JvcFkiOjQ5OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAyOSwiY3JvcEhlaWdodCI6MTgyOSwiY3JvcFgiOjM1NCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2987302/ct-acusa-governo-de-querer-desmantelar-inem-com-nova-reforma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "CT acusa Governo de querer desmantelar INEM com nova reforma",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5a6210d1b8e0c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2986256/exercito-chines-defende-pena-de-morte-com-suspensao-a-dois-ex-ministros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Exército chinês defende pena de morte com suspensão a dois ex-ministros",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2986256/exercito-chines-defende-pena-de-morte-com-suspensao-a-dois-ex-ministros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778221543000,
-         "created": 1778221543000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5cf362252016f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MSwiY3JvcEhlaWdodCI6MTY3MywiY3JvcFgiOjQ3OSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
