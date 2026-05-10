@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2987345/nottingham-forest-empata-e-aston-villa-complica-vida-a-benfica-e-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Nottingham Forest empata e Aston Villa complica vida a Benfica e Sporting",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2987345/nottingham-forest-empata-e-aston-villa-complica-vida-a-benfica-e-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778428636000,
+         "created": 1778428636000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a00943a709a8.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2987349/moscovo-quer-explicacao-da-armenia-sobre-convite-a-zelensky#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Moscovo quer explicação da Arménia sobre convite a Zelensky",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69fc37c07c5af.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2986268/leomarte-desiste-do-desafio-final-nao-me-sinto-confortavel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Leomarte desiste do \"Desafio Final\": \"Não me sinto confortável\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2986268/leomarte-desiste-do-desafio-final-nao-me-sinto-confortavel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778227279000,
-         "created": 1778227279000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ef69cb9901c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6Njl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjM0NywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
