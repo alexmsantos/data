@@ -1,13 +1,34 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/mundo/2988100/mocambique-com-maior-numero-de-deslocados-devido-a-catastrofes-em-africa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Moçambique com maior número de deslocados devido a catástrofes em África ",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2988100/mocambique-com-maior-numero-de-deslocados-devido-a-catastrofes-em-africa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778541216000,
+         "created": 1778541216000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/46493479.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/desporto/2988089/napoli-derrotado-nos-descontos-na-rececao-ao-bolonha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Napoli derrotado nos descontos na receção ao Bolonha",
+         "title": "Napoli derrotado nos descontos na receção ao Bologna",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/2988089/napoli-derrotado-nos-descontos-na-rececao-ao-bolonha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47026934.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2986978/zulmira-vive-esse-inferno-ainda-sorri-e-um-sorriso-humano-fragil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Zulmira vive esse inferno. Ainda sorri. É um sorriso humano, frágil\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2986978/zulmira-vive-esse-inferno-ainda-sorri-e-um-sorriso-humano-fragil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778326892000,
-         "created": 1778326892000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ff008e38514.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMwMCwiY3JvcEhlaWdodCI6NTM0LCJjcm9wWCI6MjI4LCJjcm9wWSI6MH0sImxhbmRzY2FwZSI6eyJjcm9wV2lkdGgiOjgwNSwiY3JvcEhlaWdodCI6NDUzLCJjcm9wWCI6NSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
