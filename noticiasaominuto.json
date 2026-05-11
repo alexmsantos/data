@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2986373/maria-helena-veja-o-horoscopo-desta-semana-para-todos-os-signos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Maria Helena. Veja o horóscopo desta semana para todos os signos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2986373/maria-helena-veja-o-horoscopo-desta-semana-para-todos-os-signos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778497680000,
+         "created": 1778497680000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a018bdb98c5e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NTcsImNyb3BIZWlnaHQiOjI1NywiY3JvcFgiOjUzLCJjcm9wWSI6NzV9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2987652/gnr-identifica-quatro-homens-suspeitos-apos-rixa-em-aldeia-de-beja#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "GNR identifica quatro homens suspeitos após rixa em aldeia de Beja",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_699205ba62fed.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2986580/croata-josko-gvardiol-recuperado-apos-ausencia-de-quatro-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Croata Josko Gvardiol recuperado após ausência de quatro meses",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2986580/croata-josko-gvardiol-recuperado-apos-ausencia-de-quatro-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778252895000,
-         "created": 1778252895000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69fdee1dcd8d7.webp",
                "type": "image/jpeg",
                "length": "0"
             }
