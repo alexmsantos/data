@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2987886/il-recomenda-ao-governo-o-reforco-do-policiamento-de-proximidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "IL recomenda ao Governo \"o reforço do policiamento de proximidade\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/2987886/il-recomenda-ao-governo-o-reforco-do-policiamento-de-proximidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778518363000,
+         "created": 1778518363000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_665b850585c07.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2987892/putin-nunca-esteve-tao-fraco-mas-e-cedo-para-falar-em-negociacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Putin \"nunca esteve tão fraco\", mas é cedo para falar em negociações",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2987892/putin-nunca-esteve-tao-fraco-mas-e-cedo-para-falar-em-negociacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778518304000,
+         "created": 1778518304000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6958fd20093b5.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2987871/adiado-acordao-do-caso-das-agressoes-a-enfermeiros-no-hospital-de-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Adiado acórdão do caso das agressões a enfermeiros em Famalicão",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/43958434.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkwOSwiY3JvcEhlaWdodCI6MTYxNiwiY3JvcFgiOjc1NywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2986819/al-hilal-faz-reviravolta-e-conquista-a-taca-do-rei-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Al Hilal, de Rúben Neves, faz reviravolta e conquista Taça do Rei saudita",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2986819/al-hilal-faz-reviravolta-e-conquista-a-taca-do-rei-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778274162000,
-         "created": 1778274162000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69fe362542bd7.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2986829/boris-vallaud-abandona-direcao-do-ps-frances-e-aprofunda-crise-interna#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Boris Vallaud abandona direção do PS francês e aprofunda crise interna",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2986829/boris-vallaud-abandona-direcao-do-ps-frances-e-aprofunda-crise-interna#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778273743000,
-         "created": 1778273743000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69fe3f9c2c6aa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEyLCJjcm9wWSI6MjY2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MzUsImNyb3BIZWlnaHQiOjE2NjMsImNyb3BYIjoxMzAwLCJjcm9wWSI6NDV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
