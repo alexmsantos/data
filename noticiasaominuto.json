@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2988343/o-delicioso-bolo-de-caneca-de-chocolate-que-os-mais-gulosos-vao-adorar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O delicioso bolo de caneca de chocolate que os mais gulosos vão adorar",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2988343/o-delicioso-bolo-de-caneca-de-chocolate-que-os-mais-gulosos-vao-adorar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778605511000,
+         "created": 1778605511000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a030063afbab.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2988557/nottingham-forest-pensa-despedir-vitor-pereira-e-olha-para-marco-silva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nottingham Forest pensa despedir Vítor Pereira e olha para... Marco Silva",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a00a38f7d55a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2987383/antigo-pm-candidata-se-as-presidenciais-para-fazer-avancar-a-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Antigo PM candidata-se às presidenciais para \"fazer avançar a França\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2987383/antigo-pm-candidata-se-as-presidenciais-para-fazer-avancar-a-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778433186000,
-         "created": 1778433186000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5b829dda8c007.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNzU0LCJjcm9wSGVpZ2h0IjoxNTQ5LCJjcm9wWCI6MTMsImNyb3BZIjozMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA1MCwiY3JvcEhlaWdodCI6MTg2NiwiY3JvcFgiOjYwNiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
