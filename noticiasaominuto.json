@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2988679/brandon-clarke-dos-memphis-grizzlies-morre-aos-29-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Brandon Clarke, dos Memphis Grizzlies, morre aos 29 anos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2988679/brandon-clarke-dos-memphis-grizzlies-morre-aos-29-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778613337000,
+         "created": 1778613337000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a036d698e5db.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2988673/russia-anuncia-teste-bem-sucedido-de-novo-missil-nuclear-intercontinental#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rússia anuncia teste bem-sucedido de novo míssil nuclear intercontinental",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_696abfd32e82f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2987468/reacao-tardou-atalanta-bate-ac-milan-e-acende-luta-pelo-acesso-a-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Reação tardou. Atalanta bate AC Milan e acende luta pelo acesso à Europa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2987468/reacao-tardou-atalanta-bate-ac-milan-e-acende-luta-pelo-acesso-a-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778453435000,
-         "created": 1778453435000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a00fcb94ed0d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTYwLCJjcm9wSGVpZ2h0IjoxMjE1LCJjcm9wWCI6MCwiY3JvcFkiOjE2MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTczMSwiY3JvcEhlaWdodCI6MzA3OCwiY3JvcFgiOjMwMiwiY3JvcFkiOjgxfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
