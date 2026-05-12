@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2988531/agente-de-ia-gere-um-cafe-em-estocolmo-chama-se-mona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Agente de IA gere um café em Estocolmo. Chama-se Mona",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2988531/agente-de-ia-gere-um-cafe-em-estocolmo-chama-se-mona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778602204000,
+         "created": 1778602204000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a03429ae7db4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ3LCJjcm9wSGVpZ2h0IjoxNDMyLCJjcm9wWCI6MTIsImNyb3BZIjoxNDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MiwiY3JvcEhlaWdodCI6MTY3NCwiY3JvcFgiOjEyNjQsImNyb3BZIjoxNX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2988528/turista-detido-em-italia-apos-mergulhar-na-fontana-di-trevi-ha-video#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Turista detido em Itália após mergulhar na Fontana di Trevi. Há vídeo",
@@ -3745,7 +3766,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2988192/ao-minuto-ultimos-voos-aterraram-poderiam-ter-se-reduzido-riscos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: Italiano internado com sintomas; EMA procura tratamentos",
+         "title": "AO MINUTO: Jovem italiano em quarentena; EMA procura tratamentos",
          "description": "",
          "link": "https://www.noticiasaominuto.com/mundo/2988192/ao-minuto-ultimos-voos-aterraram-poderiam-ter-se-reduzido-riscos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -3757,7 +3778,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a032e1013e98.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwMDAsImNyb3BZIjowfX0=",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a03423873a9c.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/40038520.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEyOTYsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2987350/so-vai-haver-paz-na-europa-quando-sentarmos-a-russia-na-mesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Só vai haver paz na Europa quando sentarmos a Rússia na mesa\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2987350/so-vai-haver-paz-na-europa-quando-sentarmos-a-russia-na-mesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778427692000,
-         "created": 1778427692000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68529c0bdb045.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTAzLCJjcm9wSGVpZ2h0IjoxMDcwLCJjcm9wWCI6MjIsImNyb3BZIjoyMDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjcyNywiY3JvcEhlaWdodCI6MTI5MywiY3JvcFgiOjU4OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
