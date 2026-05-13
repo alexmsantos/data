@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2989026/central-tiago-simoes-renova-com-desportivo-de-chaves-ate-2029#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Central Tiago Simões renova com Desportivo de Chaves até 2029",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2989026/central-tiago-simoes-renova-com-desportivo-de-chaves-ate-2029#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778677278000,
+         "created": 1778677278000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a046328b35be.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2989087/catarina-furtado-declara-se-a-mae-em-dia-especial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Catarina Furtado declara-se à mãe em dia especial",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6523c44570dc6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2987908/camara-rejeita-responsabilidade-na-nao-realizacao-da-queima-das-fitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Câmara \"surpresa\" e sem \"responsabilidade\" por Queima de Lisboa cancelada",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2987908/camara-rejeita-responsabilidade-na-nao-realizacao-da-queima-das-fitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778519608000,
-         "created": 1778519608000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_63f76fe8f0146.webp",
                "type": "image/jpeg",
                "length": "0"
             }
