@@ -6,6 +6,105 @@
    "category": [],
    "items": [
       {
+         "id": "a0e1f19a-a5ad-43b5-8f04-6e053c080fab",
+         "title": "O exemplo de Alexandre Soares dos Santos",
+         "description": "<p>O pacote do Governo chama-se Trabalho XXI, mas foi no ambiente laboral do século XX que as negociações decorreram</p>",
+         "link": "https://expresso.pt/opiniao/2026-05-14-o-exemplo-de-alexandre-soares-dos-santos-d164484c",
+         "author": "Luís Marques",
+         "published": 1778763600000,
+         "created": 1778763600000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "9dcdc116-d7e9-469e-a3c1-0e53596165da",
+         "title": "Portugal cumpre regras europeias das contas públicas? Quatro perguntas e respostas",
+         "description": "<p>O ministro das Finanças garante que cumpre os limites para a despesa e que o excedente deixa respirar. Mas a margem pode encurtar já no final deste ano</p>",
+         "link": "https://expresso.pt/semanario/economia/descodificador/2026-05-14-portugal-cumpre-regras-europeias-das-contas-publicas--quatro-perguntas-e-respostas-b27afeb7",
+         "author": "Gonçalo Almeida",
+         "published": 1778763600000,
+         "created": 1778763600000,
+         "category": "Descodificador",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-doc.20260513.47093749.jsg_8681_1_t-_idp.jpg-84e45fa5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-doc.20260513.47093749.jsg_8681_1_t-_idp.jpg-84e45fa5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-doc.20260513.47093749.jsg_8681_1_t-_idp.jpg-84e45fa5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "7409b000-3d75-4494-bf0e-e52d00aba964",
+         "title": "Poema do Mês: Talvez",
+         "description": "",
+         "link": "https://expresso.pt/expressinho/2026-05-14-poema-do-mes-talvez-e69c078a",
+         "author": "Expresso",
+         "published": 1778763600000,
+         "created": 1778763600000,
+         "category": "Expressinho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-12-03-poema-do-mes.jpg-6af969e6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-12-03-poema-do-mes.jpg-6af969e6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-12-03-poema-do-mes.jpg-6af969e6/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "da50a8d5-4aec-4ee1-acca-d4b84e41c9da",
+         "title": "Missão da semana: prepara a sobremesa preferida lá de casa!",
+         "description": "<p><span>No dia 15 de maio, assinala-se o Dia da Família e a missão de hoje é surpreendê-los com uma sobremesa especial. Mas não é uma sobremesa qualquer: é um bolo de iogurte com fruta!</span></p>",
+         "link": "https://expresso.pt/expressinho/2026-05-14-missao-da-semana-prepara-a-sobremesa-preferida-la-de-casa-cd36a869",
+         "author": "Conteúdo patrocinado",
+         "published": 1778763600000,
+         "created": 1778763600000,
+         "category": "Expressinho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-foto-missao-continente.jpg-a37d6777/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-foto-missao-continente.jpg-a37d6777/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-foto-missao-continente.jpg-a37d6777/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "2a520cc2-a18c-4138-872f-21b2a6a30e4e",
          "title": "Tiago Oliveira sai da liderança da agência integrada para os fogos após mais de oito anos no cargo",
          "description": "<p><span>O pedido de renúncia ao cargo foi apresentado em março pelo próprio e esta sexta-feira, dia em que arranca a “Fase Bravo” de combate aos incêndios, é o último dia na AGIF do especialista que desde sempre alertou para o risco de o</span><span> sistema estar “preso na armadilha do combate”</span></p>",
@@ -160,122 +259,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-05-11-foto-jose-carlos-carvalho--3-_t-_idp.jpg-ccfac6f0/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f2953023-40f7-461b-a98d-e0ea36f86aac",
-         "title": "Samsung usou a cara de Dua Lipa em caixotes de TV: artista pede 15 milhões de dólares de compensação",
-         "description": "<p>A cantora britânica Dua Lipa processou a marca de tecnologia Samsung por uso indevido da sua imagem em embalagens de televisores. Em declaração enviada à BLITZ, a marca rejeita “quaisquer alegações de utilização indevida intencional”</p>",
-         "link": "https://expresso.pt/blitz/noticias/2026-05-14-samsung-usou-a-cara-de-dua-lipa-em-caixotes-de-tv-artista-pede-15-milhoes-de-dolares-de-compensacao-773b53a8",
-         "author": "BLITZ",
-         "published": 1778759745000,
-         "created": 1778759745000,
-         "category": "Notícias",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-11-dualipa.jpg-ff7e8460/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-11-dualipa.jpg-ff7e8460/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-05-11-dualipa.jpg-ff7e8460/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "ea7a2e45-e522-4a26-b8cb-b1d3c15f12a7",
-         "title": "Instagram lançou uma nova aplicação. Chama-se Instants e é uma mistura de BeReal e Snapchat",
-         "description": "<p>As fotos tiradas pelos utilizadores têm uma duração de 24 horas, só podem ser vistas pelos amigos e não é possível fazer captura de ecrã</p>",
-         "link": "https://expresso.pt/redes-sociais/2026-05-14-instagram-lancou-uma-nova-aplicacao.-chama-se-instants-e-e-uma-mistura-de-bereal-e-snapchat-e299886e",
-         "author": "Rita Robalo Rosa",
-         "published": 1778758612000,
-         "created": 1778758612000,
-         "category": "Redes Sociais",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-instants-instagram-799d5065/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-instants-instagram-799d5065/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-instants-instagram-799d5065/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "02b4bd03-ab21-4ce9-9c94-f3b428a0ce69",
-         "title": "Madonna, Shakira e BTS: à moda da Super Bowl, a final do Campeonato do Mundo de futebol também vai ter um espetáculo de intervalo",
-         "description": "<p>Já são conhecidos os nomes que vão atuar no “espetáculo de intervalo” que a FIFA está a preparar para a final do Campeonato do Mundo de futebol, que se realiza nos Estados Unidos, Canadá e México a partir de junho</p>",
-         "link": "https://expresso.pt/blitz/noticias/2026-05-14-madonna-shakira-e-bts-a-moda-da-super-bowl-a-final-do-campeonato-do-mundo-de-futebol-tambem-vai-ter-um-espetaculo-de-intervalo-b3954843",
-         "author": "Paulo André Cecílio",
-         "published": 1778758070000,
-         "created": 1778758070000,
-         "category": "Notícias",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-shakira-9acfa365/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-shakira-9acfa365/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-shakira-9acfa365/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "7793e1b2-60c7-4185-97a7-810f7cae3047",
-         "title": "A que brindaram Xi e Trump? À \"estabilidade estratégica” de uma \"relação marcante\"",
-         "description": "<p><span>Presidente chinês Xi Jinping alertou no discurso do banquete de Estado para que as duas partes “nunca estraguem” a sua relação</span></p>",
-         "link": "https://expresso.pt/china/2026-05-14-a-que-brindaram-xi-e-trump--a-estabilidade-estrategica-de-uma-relacao-marcante-a1565ab0",
-         "author": "Salomé Fernandes",
-         "published": 1778758035000,
-         "created": 1778758035000,
-         "category": "China",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-trump-xi-jantar.jpg-d682f2cf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-trump-xi-jantar.jpg-d682f2cf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-05-14-trump-xi-jantar.jpg-d682f2cf/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
