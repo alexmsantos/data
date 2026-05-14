@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2989636/dbrs-deve-manter-rating-de-portugal-dizem-analistas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "DBRS deve manter rating de Portugal, dizem analistas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2989636/dbrs-deve-manter-rating-de-portugal-dizem-analistas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778752691000,
+         "created": 1778752691000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5f561b65d2387.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYwNSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2989640/primeira-ministra-da-letonia-demite-se-apos-intrusao-de-drones-ucranianos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Primeira-ministra da Letónia demite-se após intrusão de drones ucranianos",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_64e79f2eb8b28.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_64e79f2eb8b28.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDcyLCJjcm9wSGVpZ2h0IjoxMzkxLCJjcm9wWCI6NDgsImNyb3BZIjoxMzB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjQ4MSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a032b88346da.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM5LCJjcm9wSGVpZ2h0IjoxNDI4LCJjcm9wWCI6MCwiY3JvcFkiOjY1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MzYsImNyb3BIZWlnaHQiOjE0ODYsImNyb3BYIjo3NDUsImNyb3BZIjoxNH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2988442/video-de-reencontro-entre-vladimir-putin-e-antiga-professora-fica-viral#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vídeo de reencontro entre Vladimir Putin e antiga professora fica viral",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2988442/video-de-reencontro-entre-vladimir-putin-e-antiga-professora-fica-viral#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778596589000,
-         "created": 1778596589000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a032a5accb46.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTE2LCJjcm9wSGVpZ2h0Ijo2MjgsImNyb3BYIjowLCJjcm9wWSI6NjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQyMCwiY3JvcEhlaWdodCI6NzQ2LCJjcm9wWCI6MzUxLCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
