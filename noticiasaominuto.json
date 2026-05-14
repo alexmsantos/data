@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2989682/funicular-da-graca-alarga-horario-para-operar-mais-seis-horas-diarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Funicular da Graça alarga horário para operar mais seis horas diárias",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2989682/funicular-da-graca-alarga-horario-para-operar-mais-seis-horas-diarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778757476000,
+         "created": 1778757476000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_65f23a18d19b9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA2LCJjcm9wSGVpZ2h0IjoxNDEwLCJjcm9wWCI6MzksImNyb3BZIjoxNDN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2989676/os-luso-britanico-soma-please-apresentam-o-ep-de-estreia-ballet#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Luso-britânicos Soma Please apresentam o EP de estreia \"Ballet\"",
@@ -561,7 +582,7 @@
          },
          "published": 1778753093000,
          "created": 1778753093000,
-         "category": "País",
+         "category": "Economia",
          "content": "",
          "enclosures": [
             {
@@ -763,7 +784,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/fama/2989629/kate-middleton-o-menino-que-roubou-as-atencoes-e-a-surper-fa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Kate Middleton: O menino que roubou as atenções e a (surper) fã",
+         "title": "Kate Middleton: O menino que roubou as atenções e a (super) fã",
          "description": "",
          "link": "https://www.noticiasaominuto.com/fama/2989629/kate-middleton-o-menino-que-roubou-as-atencoes-e-a-surper-fa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a033c6ec9df3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1NjcsImNyb3BIZWlnaHQiOjMxOSwiY3JvcFgiOjQsImNyb3BZIjoxNzl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM4MywiY3JvcEhlaWdodCI6NjgxLCJjcm9wWCI6MTQ5LCJjcm9wWSI6MjF9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2988529/cop-apresentou-proposta-ao-governo-para-melhorar-verbas-por-medalha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "COP apresentou proposta ao Governo para melhorar verbas por medalha",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2988529/cop-apresentou-proposta-ao-governo-para-melhorar-verbas-por-medalha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778601050000,
-         "created": 1778601050000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/46823100.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjgyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDUsImNyb3BIZWlnaHQiOjE2ODAsImNyb3BYIjo4MjYsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
