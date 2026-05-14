@@ -14,8 +14,25 @@
          "published": 1778760457000,
          "created": 1778760457000,
          "category": "Reino Unido",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-gettyimages-2275957018.jpg-4fa9d297/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-gettyimages-2275957018.jpg-4fa9d297/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-05-13-gettyimages-2275957018.jpg-4fa9d297/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "828af4ab-d836-44b4-8d3c-9faaeffe1384",
