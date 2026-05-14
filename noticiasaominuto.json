@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2989949/executado-homem-condenado-por-assassinar-ex-e-filha-de-7-meses-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Executado homem condenado por assassinar 'ex' e filha de 7 meses nos EUA",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2989949/executado-homem-condenado-por-assassinar-ex-e-filha-de-7-meses-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778779562000,
+         "created": 1778779562000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6388d0f5a1652.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2989951/proposta-do-governo-repoe-duracao-dos-contratos-e-fim-do-travao-ao-outsourcing#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Proposta do Governo repõe duração dos contratos e fim do travão ao outsourcing",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69f76016a85c7.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQ3NywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2988753/sporting-recorda-pedro-feist-como-figura-relevante-do-andebol-do-clube#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sporting recorda Pedro Feist como figura relevante do andebol do clube",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2988753/sporting-recorda-pedro-feist-como-figura-relevante-do-andebol-do-clube#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778623133000,
-         "created": 1778623133000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_677d737584757.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MDgsImNyb3BIZWlnaHQiOjM0MiwiY3JvcFgiOjcwLCJjcm9wWSI6NTd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjIxNCwiY3JvcEhlaWdodCI6MzgwLCJjcm9wWCI6MjczLCJjcm9wWSI6NDh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
