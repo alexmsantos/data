@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2990293/zelensky-acusa-russia-de-manter-importacao-de-material-belico-esquemas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zelensky acusa Rússia de manter importação de material bélico: \"Esquemas\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2990293/zelensky-acusa-russia-de-manter-importacao-de-material-belico-esquemas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778839169000,
+         "created": 1778839169000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47082769.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc1LCJjcm9wSGVpZ2h0IjoxMzkyLCJjcm9wWCI6NDUsImNyb3BZIjo5Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTk2LCJjcm9wSGVpZ2h0IjoxNzcxLCJjcm9wWCI6NjEzLCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2990286/metro-com-operacao-especial-no-sabado-para-festa-do-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Metro com operação especial no sábado para festa do FC Porto",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68ece4d184f5f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgxLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6MTE4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MjUsImNyb3BIZWlnaHQiOjExMTEsImNyb3BYIjoyNjgsImNyb3BZIjoxMDR9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2989435/agora-e-oficial-le-mans-do-luso-frances-patrick-videira-sobe-a-ligue-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Agora é oficial. Le Mans, do luso-francês Patrick Videira, sobe à Ligue 1",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2989435/agora-e-oficial-le-mans-do-luso-frances-patrick-videira-sobe-a-ligue-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778710611000,
-         "created": 1778710611000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a04e9cdb38f4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIwOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUxLCJjcm9wSGVpZ2h0IjoxNjkxLCJjcm9wWCI6ODk2LCJjcm9wWSI6OH19",
                "type": "image/jpeg",
                "length": "0"
             }
