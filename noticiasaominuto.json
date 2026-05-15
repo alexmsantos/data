@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2990684/arbitros-espanhois-pedem-sancoes-disciplinares-a-florentino-perez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Árbitros espanhóis pedem sanções disciplinares a Florentino Pérez",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2990684/arbitros-espanhois-pedem-sancoes-disciplinares-a-florentino-perez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778867738000,
+         "created": 1778867738000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0740aaea7b7.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2990681/maputo-reagenda-avaliacoes-de-alunos-apos-chuvas-e-falta-de-transporte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Maputo reagenda avaliações de alunos após chuvas e falta de transporte",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a05c77258ac7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTU3LCJjcm9wSGVpZ2h0Ijo2NTEsImNyb3BYIjowLCJjcm9wWSI6NTh9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2989805/estudo-alerta-para-poluicao-gerada-pelo-lancamento-de-satelites#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estudo alerta para poluição gerada pelo lançamento de satélites",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2989805/estudo-alerta-para-poluicao-gerada-pelo-lancamento-de-satelites#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778767617000,
-         "created": 1778767617000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a05c8c371e69.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkzLCJjcm9wSGVpZ2h0IjoxNDAzLCJjcm9wWCI6MzMsImNyb3BZIjoyMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Nzk4LCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MTA3NSwiY3JvcFkiOjh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
