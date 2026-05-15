@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "35cf014b-b897-4e37-a343-3fce0599b9ef",
+         "title": "Comprar casa vai ficar mais difícil, o Banco de Portugal quer defender clientes e bancos",
+         "description": "<p>Governador do Banco de Portugal vai apresentar medidas na próxima semana para travar o aumento de crédito à habitação, que tem um stock acumulado de 113 mil milhões de euros. No Expresso da Manhã, Paulo Baldaia conversa com Isabel Vicente, a jornalista que escreve esta notícia no Expresso</p>",
+         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-05-15-comprar-casa-vai-ficar-mais-dificil-o-banco-de-portugal-quer-defender-clientes-e-bancos-afb326ae",
+         "author": [
+            "Paulo Baldaia",
+            "Gustavo Carvalho"
+         ],
+         "published": 1778823000000,
+         "created": 1778823000000,
+         "category": "Expresso da Manhã",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "944b24c6-d5b5-4371-bb53-75eceb87116d",
          "title": "Delegados eleitos na quota da Juventude Popular vão poder participar no congresso do CDS",
          "description": "<p><span>Uma militante da JP apresentou no domingo um </span><span>pedido de impugnação</span><span> da eleição dos delegados desta estrutura ao congresso do CDS, que decorre este fim de semana em Alcobaça</span></p>",
@@ -192,30 +224,6 @@
          }
       },
       {
-         "id": "189e0653-ff0b-4d12-821e-de5c04d0a493",
-         "title": "Para que queremos energia renovável?",
-         "description": "<p>Importa ter em mente que renovável não é sinónimo de sustentável</p>",
-         "link": "https://expresso.pt/opiniao/2026-05-14-para-que-queremos-energia-renovavel--f71d518f",
-         "author": "Humberto Delgado Rosa",
-         "published": 1778795820000,
-         "created": 1778795820000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "4ee5be54-e38a-4991-9d2e-581dc91929ff",
-         "title": "Transportes, animais de estimação, correios e têxteis nos Altos e Baixos da Economia",
-         "description": "<p>Alguns dos protagonistas da área económica nos últimos dias em Portugal</p>",
-         "link": "https://expresso.pt/semanario/primeiro/em-destaque/altos--baixos/2026-05-14-transportes-animais-de-estimacao-correios-e-texteis-nos-altos-e-baixos-da-economia-f6f47ff0",
-         "author": "Pedro Lima",
-         "published": 1778795820000,
-         "created": 1778795820000,
-         "category": "Altos & Baixos",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "30da52cc-4860-400d-b3a0-775698fc194b",
          "title": "Elon Musk contra Sam Altman: na Califórnia, a batalha em torno da OpenAI continua",
          "description": "<p>O julgamento que envolve Elon Musk e a OpenAI continua nos Estados Unidos da América (EUA)</p>",
@@ -243,6 +251,18 @@
                "medium": "image"
             }
          }
+      },
+      {
+         "id": "189e0653-ff0b-4d12-821e-de5c04d0a493",
+         "title": "Para que queremos energia renovável?",
+         "description": "<p>Importa ter em mente que renovável não é sinónimo de sustentável</p>",
+         "link": "https://expresso.pt/opiniao/2026-05-14-para-que-queremos-energia-renovavel--f71d518f",
+         "author": "Humberto Delgado Rosa",
+         "published": 1778795820000,
+         "created": 1778795820000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
       }
    ]
 }
