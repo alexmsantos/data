@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/2991141/o-cds-vai-propor-duplicar-deducoes-fiscais-a-partir-do-3-filho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"O CDS vai propor duplicar deduções fiscais a partir do 3.º filho\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/2991141/o-cds-vai-propor-duplicar-deducoes-fiscais-a-partir-do-3-filho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1778963632000,
+         "created": 1778963632000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_66266e70c314c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjMwNywiY3JvcFkiOjE4M319",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2991124/morreu-felicien-kabuga-acusado-de-crimes-contra-a-humanidade-no-ruanda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Morreu Félicien Kabuga, acusado de crimes contra a humanidade no Ruanda",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67fcece4b178c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2989674/uma-das-melhores-opcoes-do-spotify-vai-chegar-a-versao-gratuita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Uma das melhores opções do Spotify vai chegar à versão gratuita",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2989674/uma-das-melhores-opcoes-do-spotify-vai-chegar-a-versao-gratuita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778787138000,
-         "created": 1778787138000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a059aa39411b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzMwLCJjcm9wSGVpZ2h0IjoxMzExLCJjcm9wWCI6MTIsImNyb3BZIjoyOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzQxLCJjcm9wSGVpZ2h0IjoxMzE3LCJjcm9wWCI6ODk3LCJjcm9wWSI6MzN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
