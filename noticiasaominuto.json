@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2991479/droga-lanchas-rapidas-proibidas-entre-as-21h-e-7h-para-combater-trafico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Droga: Lanchas rápidas proibidas entre as 21h e 7h para combater tráfico",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2991479/droga-lanchas-rapidas-proibidas-entre-as-21h-e-7h-para-combater-trafico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779049908000,
+         "created": 1779049908000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_56056c8722498.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2991477/mesas-de-voto-em-cabo-verde-fecham-e-arranca-contagem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mesas de voto em Cabo Verde fecham e arranca contagem",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69ce8bee1c4da.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2990291/novo-vw-id-polo-apresentado-em-portugal-custara-menos-de-25000#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Novo VW ID. Polo apresentado em Portugal. Custará menos de 25.000€",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2990291/novo-vw-id-polo-apresentado-em-portugal-custara-menos-de-25000#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778848125000,
-         "created": 1778848125000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a06f7d8277e6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODg4LCJjcm9wSGVpZ2h0IjoxMDYyLCJjcm9wWCI6Mjk5LCJjcm9wWSI6NzU3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjQsImNyb3BIZWlnaHQiOjE2NDMsImNyb3BYIjo5ODUsImNyb3BZIjoyMjl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
