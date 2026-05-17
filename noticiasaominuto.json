@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2991376/e-vao-20-foi-assim-que-bruno-fernandes-fez-historia-na-premier-league#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "E vão 20. Foi assim que Bruno Fernandes fez história na Premier League",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2991376/e-vao-20-foi-assim-que-bruno-fernandes-fez-historia-na-premier-league#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779028592000,
+         "created": 1779028592000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a09c46f2dd80.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/2991373/pcp-critica-pacote-laboral-e-apela-a-paralisacao-no-dia-3-de-junho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PCP critica pacote laboral e apela à paralisação no dia 3 de junho",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_682e2b6fe1db9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2990233/israel-emite-alertas-para-evacuacao-de-cinco-aldeias-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Israel emite alertas para evacuação de cinco aldeias no Líbano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2990233/israel-emite-alertas-para-evacuacao-de-cinco-aldeias-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778836545000,
-         "created": 1778836545000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a06d633e0aeb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjc3NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTQ0MCwiY3JvcEhlaWdodCI6MjU2MCwiY3JvcFgiOjc1NiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
