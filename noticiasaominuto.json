@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2991467/incendio-em-habitacao-deixa-quatro-desalojados-em-vendas-novas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio em habitação deixa quatro desalojados em Vendas Novas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2991467/incendio-em-habitacao-deixa-quatro-desalojados-em-vendas-novas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779047024000,
+         "created": 1779047024000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68774e3211379.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2991462/pequeno-elversberg-surpreende-e-assegura-subida-inedita-a-bundesliga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pequeno Elversberg surpreende e assegura subida inédita à Bundesliga",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a06fdbd3d857.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo3MjksImNyb3BZIjo3Mn19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2990099/fim-de-semana-chega-com-duas-feiras-medievais-muitos-doces-e-cachaca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fim de semana chega com duas feiras medievais, muitos doces e cachaça",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2990099/fim-de-semana-chega-com-duas-feiras-medievais-muitos-doces-e-cachaca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778846441000,
-         "created": 1778846441000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a063158d8649.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzIxLCJjcm9wSGVpZ2h0IjoxMzA2LCJjcm9wWCI6MCwiY3JvcFkiOjM1Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM3LCJjcm9wSGVpZ2h0IjoxNjY2LCJjcm9wWCI6NzA3LCJjcm9wWSI6Mzl9LCJzdGFtcCI6eyJjYXRlZ29yeSI6ImxpZmVzdHlsZSIsImxhYmVsIjoib25kZV9pciIsImNvbG9yIjoiYnJhbmNvIiwicG9zaXRpb24iOiJjZW50ZXItcmlnaHQifX0=",
                "type": "image/jpeg",
                "length": "0"
             }
