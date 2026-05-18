@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2991527/africa-subsaariana-condenou-mais-pessoas-a-morte-em-2025-executou-menos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "África Subsaariana condenou mais pessoas à morte em 2025, executou menos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2991527/africa-subsaariana-condenou-mais-pessoas-a-morte-em-2025-executou-menos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779084761000,
+         "created": 1779084761000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/10973888.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/2990702/o-que-acontece-ao-figado-quando-bebe-cafe-todos-os-dias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O que acontece ao fígado quando bebe café todos os dias",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_65dca1a7af3fa.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2990456/governo-diverge-na-leitura-rubio-so-afirmou-que-portugal-nao-recusou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo diverge na leitura: Rubio só afirmou que Portugal \"não recusou\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2990456/governo-diverge-na-leitura-rubio-so-afirmou-que-portugal-nao-recusou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778852543000,
-         "created": 1778852543000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69fde6d0a4204.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDUzLCJjcm9wSGVpZ2h0IjoxMzgwLCJjcm9wWCI6MCwiY3JvcFkiOjI2OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM3LCJjcm9wSGVpZ2h0IjoxNjY1LCJjcm9wWCI6ODI2LCJjcm9wWSI6Mjh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
