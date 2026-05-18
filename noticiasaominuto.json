@@ -1,10 +1,115 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/2991558/centenas-de-atividades-de-entrada-livre-celebram-dia-dos-museus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Centenas de atividades de entrada livre celebram Dia dos Museus",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/2991558/centenas-de-atividades-de-entrada-livre-celebram-dia-dos-museus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779085030000,
+         "created": 1779085030000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/28843168.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2991407/sem-champions-benfica-revive-200809-a-procura-de-novo-jorge-jesus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sem Champions? Benfica revive 2008/09 à procura de novo Jorge Jesus",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2991407/sem-champions-benfica-revive-200809-a-procura-de-novo-jorge-jesus#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779085029000,
+         "created": 1779085029000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a09d936363df.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2991552/julgamento-de-odair-nas-alegacoes-finais-posse-de-faca-marcou-sessoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Julgamento de Odair nas alegações finais: Posse de faca marcou sessões",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2991552/julgamento-de-odair-nas-alegacoes-finais-posse-de-faca-marcou-sessoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779084999000,
+         "created": 1779084999000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/45893087.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2991545/detido-colaborador-de-maria-corina-machado-ao-regressar-a-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Detido colaborador de Maria Corina Machado ao regressar à Venezuela",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2991545/detido-colaborador-de-maria-corina-machado-ao-regressar-a-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779084836000,
+         "created": 1779084836000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/46950548.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2991531/pena-de-morte-em-2025-com-o-numero-mais-elevado-desde-1981#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pena de morte em 2025 com o número mais elevado desde 1981",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2991531/pena-de-morte-em-2025-com-o-numero-mais-elevado-desde-1981#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779084807000,
+         "created": 1779084807000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/46678393.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2991527/africa-subsaariana-condenou-mais-pessoas-a-morte-em-2025-executou-menos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "África Subsaariana condenou mais pessoas à morte em 2025, executou menos",
@@ -14594,111 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5f0f583204232.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDA1LCJjcm9wSGVpZ2h0IjoxMzUzLCJjcm9wWCI6NjcsImNyb3BZIjoyMTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYwOSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2990476/vai-ja-daqui-premio-de-golo-do-mes-da-i-liga-segue-para-guimaraes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Vai já daqui'. Prémio de golo do mês da I Liga segue para Guimarães",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2990476/vai-ja-daqui-premio-de-golo-do-mes-da-i-liga-segue-para-guimaraes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778853007000,
-         "created": 1778853007000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a07164ea396c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2990471/nato-minimiza-cancelamento-do-envio-de-tropas-dos-eua-para-a-polonia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "NATO minimiza cancelamento do envio de tropas dos EUA para a Polónia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2990471/nato-minimiza-cancelamento-do-envio-de-tropas-dos-eua-para-a-polonia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778852874000,
-         "created": 1778852874000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68566d14ed7c8.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzMCwiY3JvcEhlaWdodCI6MTY1MywiY3JvcFgiOjk2NiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2990469/trump-e-xi-com-aproximacao-mas-mantem-divergencias-sobre-taiwan-e-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trump e Xi com aproximação, mas mantêm divergências sobre Taiwan e Irão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2990469/trump-e-xi-com-aproximacao-mas-mantem-divergencias-sobre-taiwan-e-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778852837000,
-         "created": 1778852837000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a07154c5195d.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjU0NSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2990470/reabertas-a-banhos-praias-do-inatel-e-dos-pescadores-em-albufeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Reabertas a banhos praias do Inatel e dos Pescadores em Albufeira",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2990470/reabertas-a-banhos-praias-do-inatel-e-dos-pescadores-em-albufeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778852627000,
-         "created": 1778852627000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_553e4787356fc.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2990467/lei-de-retorno-de-estrangeiros-seguiu-para-debate-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lei de retorno de estrangeiros seguiu para debate na especialidade",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2990467/lei-de-retorno-de-estrangeiros-seguiu-para-debate-na-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778852599000,
-         "created": 1778852599000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_65dca1a7af3fa.webp",
                "type": "image/jpeg",
                "length": "0"
             }
