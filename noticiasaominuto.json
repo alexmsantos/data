@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2991533/sete-mortos-e-15-feridos-em-novos-ataques-israelitas-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sete mortos e 15 feridos em novos ataques israelitas no Líbano",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2991533/sete-mortos-e-15-feridos-em-novos-ataques-israelitas-no-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779086167000,
+         "created": 1779086167000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a043206d9829.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcxMywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2991539/controlo-de-fronteiras-ultrapassou-duas-horas-no-aeroporto-do-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Controlo de fronteiras ultrapassou duas horas no aeroporto do Porto",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_696618e12112c.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_696618e12112c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkxLCJjcm9wSGVpZ2h0IjoxNDAxLCJjcm9wWCI6NDgsImNyb3BZIjoyMjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYzMywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6894a8b9dd215.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY5LCJjcm9wSGVpZ2h0IjoxMzg5LCJjcm9wWCI6MjUsImNyb3BZIjoyODd9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2990480/sindicato-alerta-abrir-vagas-para-medicos-nao-garante-mais-contratacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sindicato: Abrir mais vagas para médicos não garante mais contratações",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2990480/sindicato-alerta-abrir-vagas-para-medicos-nao-garante-mais-contratacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1778853451000,
-         "created": 1778853451000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/20320061.webp",
                "type": "image/jpeg",
                "length": "0"
             }
