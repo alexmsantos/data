@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2993043/presidente-de-junta-apanhado-com-1-7gl-de-alcool-apos-feira-do-queijo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Presidente de Junta apanhado com 1,7g/l de álcool após Feira do Queijo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2993043/presidente-de-junta-apanhado-com-1-7gl-de-alcool-apos-feira-do-queijo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779320874000,
+         "created": 1779320874000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6707ae11e5045.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTU5OSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2993041/morreu-yume-a-cadela-que-o-japao-ofereceu-a-putin-em-2012#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Morreu Yume, a cadela que o Japão ofereceu a Putin em 2012",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/46213252.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2992013/afinal-em-quem-e-que-georgina-rodriguez-se-inspirou-para-ficar-loira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Em quem é que Georgina se inspirou para ficar loira? (uma famosa cantora)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2992013/afinal-em-quem-e-que-georgina-rodriguez-se-inspirou-para-ficar-loira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779128838000,
-         "created": 1779128838000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0b47bfbad31.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIxMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjE2MCwiY3JvcEhlaWdodCI6Mzg0MCwiY3JvcFgiOjI0OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
