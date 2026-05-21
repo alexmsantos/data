@@ -136,19 +136,19 @@
          "category": "Internacional",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2026-05-21-anton-jager.jpg-cdf252f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2026-05-21-anton-jager.webp-5f7cd5d5-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2026-05-21-anton-jager.jpg-cdf252f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2026-05-21-anton-jager.webp-5f7cd5d5-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-05-21-anton-jager.jpg-cdf252f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2026-05-21-anton-jager.webp-5f7cd5d5-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -278,7 +278,10 @@
          "title": "Portugueses detidos por Israel na flotilha devem regressar esta quinta-feira a Portugal",
          "description": "<p><span>Os dois médicos portugueses, Maria Beatriz Bartilotti Matos e Gonçalo Reis Dias, foram detidos na segunda-feira pelas autoridades israelitas, no âmbito da missão \"Sumud Global Flotilla\", que seguia para Gaza</span></p>",
          "link": "https://expresso.pt/governo/2026-05-21-portugueses-detidos-por-israel-na-flotilha-devem-regressar-esta-quinta-feira-a-portugal-9061c7dc",
-         "author": "Agência Lusa",
+         "author": [
+            "Agência Lusa",
+            "Expresso"
+         ],
          "published": 1779353809000,
          "created": 1779353809000,
          "category": "Governo",
