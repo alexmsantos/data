@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2993242/skoda-octavia-vai-ter-novas-motorizacoes-hibridas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Skoda Octavia vai ter novas motorizações híbridas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2993242/skoda-octavia-vai-ter-novas-motorizacoes-hibridas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779363098000,
+         "created": 1779363098000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0ede8fb1496.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2993240/estados-unidos-defenderam-reforco-militar-norte-americano-na-gronelandia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Estados Unidos defenderam reforço militar norte-americano na Gronelândia",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68a42ff1b1ff2.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2992511/flotilha-governo-a-agir-para-garantir-seguranca-de-medicos-detidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Flotilha? Governo a agir para garantir \"segurança\" de médicos detidos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2992511/flotilha-governo-a-agir-para-garantir-seguranca-de-medicos-detidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779202316000,
-         "created": 1779202316000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6435ce8c86b27.webp",
                "type": "image/jpeg",
                "length": "0"
             }
