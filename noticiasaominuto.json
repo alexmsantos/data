@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2993434/stellantis-tem-plano-de-60-mil-milhoes-e-60-novos-carros-ate-203#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Stellantis tem plano de €60 mil milhões e 60 novos carros até 2030",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2993434/stellantis-tem-plano-de-60-mil-milhoes-e-60-novos-carros-ate-203#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779379258000,
+         "created": 1779379258000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0f1840d94b8.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2993450/governo-nunca-quis-estigmatizar-o-ensino-profissional-pelo-contrario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Governo nunca quis estigmatizar o ensino profissional, pelo contrário\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2993450/governo-nunca-quis-estigmatizar-o-ensino-profissional-pelo-contrario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779379061000,
+         "created": 1779379061000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0f1b4d1474f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk1NCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2993441/portugueses-detidos-por-israel-bem-de-saude-mas-bastante-marcados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Portugueses detidos já repatriados. \"Bem de saúde, mas bastante marcados\"",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0c28feba9fd.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2992343/eua-vao-testar-missil-balistico-intercontinental-minuteman-iii-sem-ogiva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EUA vão testar míssil balístico intercontinental Minuteman III sem ogiva",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2992343/eua-vao-testar-missil-balistico-intercontinental-minuteman-iii-sem-ogiva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779190491000,
-         "created": 1779190491000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6388d0f5a1652.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2992372/sporting-treina-no-relvado-do-jamor-a-pensar-na-taca-com-quatro-ausencias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sporting treina no relvado do Jamor a pensar na Taça com quatro ausentes",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2992372/sporting-treina-no-relvado-do-jamor-a-pensar-na-taca-com-quatro-ausencias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779190260000,
-         "created": 1779190260000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69de08b203a80.webp",
                "type": "image/jpeg",
                "length": "0"
             }
