@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/2994127/stellantis-anuncia-parceria-para-conducao-automatizada-em-larga-escala#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Stellantis anuncia parceria para condução automatizada em larga escala",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/2994127/stellantis-anuncia-parceria-para-conducao-automatizada-em-larga-escala#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779479051000,
+         "created": 1779479051000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a105f693f2bc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2994233/em-direto-antonio-nobre-anteve-final-da-taca-entre-sporting-e-torreense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Hjulmand e invasões. O que disse a equipa de arbitragem de António Nobre",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68451f8a05ddd.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2993078/colombia-destitui-representante-diplomatico-boliviano-em-bogota#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Colômbia destitui representante diplomático boliviano em Bogotá",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2993078/colombia-destitui-representante-diplomatico-boliviano-em-bogota#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779345047000,
-         "created": 1779345047000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69aaa374e7a9d.webp",
                "type": "image/jpeg",
                "length": "0"
             }
