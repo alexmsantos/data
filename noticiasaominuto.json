@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2994661/pelo-menos-18-mortos-em-ataque-a-escola-em-territorio-anexado-por-moscovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos 18 mortos em ataque a escola em território anexado por Moscovo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2994661/pelo-menos-18-mortos-em-ataque-a-escola-em-territorio-anexado-por-moscovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779560244000,
+         "created": 1779560244000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_630b9f4bad797.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2994658/adolescente-apanhado-a-tentar-furtar-carro-em-vila-nova-de-gaia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Adolescente apanhado a tentar furtar carro em Vila Nova de Gaia",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/14626893.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2993401/dias-quentes-combinam-com-pudim-de-chia-anote-esta-receita-com-chocolate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dias quentes combinam com pudim de chia! Anote esta receita com chocolate",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2993401/dias-quentes-combinam-com-pudim-de-chia-anote-esta-receita-com-chocolate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779383198000,
-         "created": 1779383198000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0f0cadd159f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
