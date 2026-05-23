@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2994563/relatorio-da-presidencia-aberta-deve-ter-acao-consequente-diz-autarca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Relatório da Presidência Aberta deve ter ação consequente, diz autarca",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2994563/relatorio-da-presidencia-aberta-deve-ter-acao-consequente-diz-autarca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779542109000,
+         "created": 1779542109000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6996d8d15a567.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDEzLCJjcm9wSGVpZ2h0Ijo3OTUsImNyb3BYIjoyMCwiY3JvcFkiOjIwMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTgxLCJjcm9wSGVpZ2h0IjoxMDMzLCJjcm9wWCI6MzY4LCJjcm9wWSI6Mjd9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2994560/governo-chines-anuncia-investigacao-a-explosao-de-gas-em-mina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo chinês anuncia investigação à explosão de gás em mina",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0ee060d2d7c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2NSwiY3JvcEhlaWdodCI6MTM2MSwiY3JvcFgiOjEzODIsImNyb3BZIjozNDB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2993355/meta-fara-mais-despedimentos-serao-afetadas-perto-de-8-mil-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Meta fará mais despedimentos. Serão afetadas perto de 8 mil pessoas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2993355/meta-fara-mais-despedimentos-serao-afetadas-perto-de-8-mil-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779371403000,
-         "created": 1779371403000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_66a22695f3a55.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQwLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MTMsImNyb3BZIjoxOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ2LCJjcm9wSGVpZ2h0IjoxNjgyLCJjcm9wWCI6NzcwLCJjcm9wWSI6MTB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
