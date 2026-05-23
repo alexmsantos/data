@@ -6,6 +6,18 @@
    "category": [],
    "items": [
       {
+         "id": "8736ac33-7358-469e-ae3d-b58d900a2f35",
+         "title": "Previsão de chuva e trovoada coloca 10 distritos sob aviso amarelo",
+         "description": "<p>Norte e centro do continente estarão este sãbado sob aviso amarelo devido à previsão de precipitação e trovoada</p>",
+         "link": "https://expresso.pt/meteorologia/2026-05-23-previsao-de-chuva-e-trovoada-coloca-10-distritos-sob-aviso-amarelo-60e4e360",
+         "author": "Agência Lusa",
+         "published": 1779524466000,
+         "created": 1779524466000,
+         "category": "Tempo e Meteorologia",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "id": "dccf92ff-262e-48e0-91bb-1f3a195afd60",
          "title": "Presidência da República aponta descoordenação à gestão do Governo nas tempestades",
          "description": "<p><span>Relatório da Presidência Aberta de António José Seguro na zona Centro, realizada há pouco mais de um mês, aponta “prioridades de acção”, como a necessidade de “desbloquear pagamentos”</span></p>",
@@ -32,6 +44,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-04-25-antonio-jose-seguro-984973c4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "88fadaed-08df-45d8-a65a-edb04907b9b5",
+         "title": "Estruturas de defesa da Caparica sofreram impacto de ondas com 14 a 15 metros",
+         "description": "<p>Durante os meses de janeiro e fevereiro, com o país afetado por sucessivas depressões atlânticas, a Costa da Caparica esteve sujeita a agitação marítima \"muito elevada a extrema\" que gerou danos nas suas estruturas de defesa, aponta investigador do MARE</p>",
+         "link": "https://expresso.pt/sociedade/2026-05-23-estruturas-de-defesa-da-caparica-sofreram-impacto-de-ondas-com-14-a-15-metros-43754a65",
+         "author": "Agência Lusa",
+         "published": 1779523202000,
+         "created": 1779523202000,
+         "category": "Sociedade",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-11-fox_praias_00031.jpg-d2fc34a7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-11-fox_praias_00031.jpg-d2fc34a7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-05-11-fox_praias_00031.jpg-d2fc34a7/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -242,64 +283,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2022-03-05-Programa-Cujo-Nome-Estamos-Legalmente-Impedidos-de-Dizer-bc19d64f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "065c6543-7859-4c62-84d7-a8add4a08753",
-         "title": "Livros da semana: fósforos, BD francesa, língua e BD portuguesa",
-         "description": "<p>Os livros na estante de Carlos Vaz Marques, Ricardo Araújo Pereira, João Miguel Tavares e Pedro Mexia, no Programa Cujo Nome Estamos Legalmente Impedidos de Dizer em podcast</p>",
-         "link": "https://expresso.pt/podcasts/governo-sombra/2026-05-23-livros-da-semana-fosforos-bd-francesa-lingua-e-bd-portuguesa-98968fa9",
-         "author": "SIC Notícias",
-         "published": 1779516000000,
-         "created": 1779516000000,
-         "category": "Programa Cujo Nome Estamos Legalmente Impedidos de Dizer",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2022-03-05-Programa-Cujo-Nome-Estamos-Legalmente-Impedidos-de-Dizer-bc19d64f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2022-03-05-Programa-Cujo-Nome-Estamos-Legalmente-Impedidos-de-Dizer-bc19d64f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2022-03-05-Programa-Cujo-Nome-Estamos-Legalmente-Impedidos-de-Dizer-bc19d64f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "44d9fe9b-f50d-434c-871f-c9214f974b6b",
-         "title": "Depósito de petróleo russo em chamas após ataque de drones ucranianos",
-         "description": "<P>Um incêndio deflagrou num depósito de petróleo em Novorossiysk, na costa do mar Negro, sul da Rússia, após um ataque de drones ucranianos, anunciaram hoje as autoridades locais.</P>",
-         "link": "https://expresso.pt/guerra-ucrania/2026-05-23-deposito-de-petroleo-russo-em-chamas-apos-ataque-de-drones-ucranianos-c0bcb58a",
-         "author": "Agência Lusa",
-         "published": 1779513007000,
-         "created": 1779513007000,
-         "category": "Guerra da Ucrânia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-17-guerra-ucrania-81c4e46b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-03-17-guerra-ucrania-81c4e46b/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-03-17-guerra-ucrania-81c4e46b/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
