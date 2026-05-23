@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2994564/zelensky-agradece-as-forcas-armadas-ucranianas-ataque-em-territorio-russo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zelensky agradece às Forças Armadas ucranianas ataque em território russo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2994564/zelensky-agradece-as-forcas-armadas-ucranianas-ataque-em-territorio-russo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779542815000,
+         "created": 1779542815000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ff1b23c08c7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI4LCJjcm9wSGVpZ2h0IjoxNDIyLCJjcm9wWCI6MTUsImNyb3BZIjoxNDZ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2994490/em-direto-rui-borges-anteve-o-sporting-torreense-da-final-da-taca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Do futuro de Hjulmand ao toque a Roberto Martínez. O que disse Rui Borges",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0dbfc930701.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2993365/stellantis-revela-arquitetura-modular-stla-one-deve-chegar-em-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Stellantis revela arquitetura modular STLA One. Deve chegar em 2027",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2993365/stellantis-revela-arquitetura-modular-stla-one-deve-chegar-em-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779372257000,
-         "created": 1779372257000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0f024ddda6e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTM2LCJjcm9wSGVpZ2h0Ijo4NjQsImNyb3BYIjo1NDYsImNyb3BZIjoxOTV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
