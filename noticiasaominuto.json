@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2994439/vitoria-fc-aprovou-projeto-para-reduzir-divida-e-regressar-a-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Vitória FC aprovou projeto para reduzir dívida e regressar à I Liga",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2994439/vitoria-fc-aprovou-projeto-para-reduzir-divida-e-regressar-a-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779514698000,
+         "created": 1779514698000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/30092193.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2994411/sismo-de-magnitude-2-4-na-escala-de-richter-sentido-na-ilha-do-pico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sismo de magnitude 2,4 na escala de Richter sentido na ilha do Pico",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0ec3dde60f3.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2993136/acoes-de-ministro-israelita-refletem-a-mentalidade-de-um-estado-doente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ações de ministro israelita \"refletem a mentalidade de um Estado doente\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2993136/acoes-de-ministro-israelita-refletem-a-mentalidade-de-um-estado-doente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779355986000,
-         "created": 1779355986000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68b4505e1911f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjE2MywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
