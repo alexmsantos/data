@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2994924/bernardo-silva-despede-se-do-man-city-com-guarda-de-honra-e-lagrimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bernardo Silva despede-se do Man. City com guarda de honra e lágrimas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2994924/bernardo-silva-despede-se-do-man-city-com-guarda-de-honra-e-lagrimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779645865000,
+         "created": 1779645865000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a132eaa4a847.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2994928/quatro-mortos-em-ataque-russo-causam-medo-e-destruicao-em-kyiv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Quatro mortos em ataque russo causam medo e destruição em Kyiv",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2994928/quatro-mortos-em-ataque-russo-causam-medo-e-destruicao-em-kyiv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779645797000,
+         "created": 1779645797000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a132ea06d112.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/2993516/apple-quer-acelerar-desenvolvimento-de-novos-produtos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Apple quer acelerar desenvolvimento de novos produtos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/2993516/apple-quer-acelerar-desenvolvimento-de-novos-produtos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779645742000,
+         "created": 1779645742000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_66852f6592a7d.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg3OSwiY3JvcEhlaWdodCI6MTU2MywiY3JvcFgiOjEyOTIsImNyb3BZIjo5Mn19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2994922/em-dia-de-despedidas-aston-villa-bate-city-e-da-prenda-ao-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Em dia de despedidas, Aston Villa bate City e dá 'prenda'... ao Sporting",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2994922/em-dia-de-despedidas-aston-villa-bate-city-e-da-prenda-ao-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779645650000,
+         "created": 1779645650000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a132700b0621.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjk4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MzMsImNyb3BIZWlnaHQiOjE2NTgsImNyb3BYIjo4OTYsImNyb3BZIjoyNH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2994925/multidao-sem-lei-ben-gvir-condena-herzog-nao-merece-ser-presidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Multidão sem lei\"? Ben-Gvir condena Herzog: \"Não merece ser presidente\"",
@@ -14615,90 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1001288aa05.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2993829/lei-laboral-tem-dias-contados-ps-vota-contra-e-chega-para-la-caminha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lei laboral tem dias contados? PS vota contra... e Chega para lá caminha",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/2993829/lei-laboral-tem-dias-contados-ps-vota-contra-e-chega-para-la-caminha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779440483000,
-         "created": 1779440483000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_65dca1a31dd54.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzMsImNyb3BZIjo0MjF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjQ1OSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2993845/o-mau-habito-a-noite-que-esta-tornar-o-seu-coracao-mais-fraco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O mau hábito à noite que está a tornar o seu coração mais fraco",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2993845/o-mau-habito-a-noite-que-esta-tornar-o-seu-coracao-mais-fraco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779440241000,
-         "created": 1779440241000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a100a58d5c1e.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjE5MywiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEyLCJjcm9wSGVpZ2h0IjoxNDEzLCJjcm9wWCI6MjgsImNyb3BZIjoxNDF9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2993844/colbert-finalmente-acabou-na-cbs-incrivel-que-tenha-durado-tanto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Colbert, finalmente, acabou na CBS. Incrível que tenha durado tanto!\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2993844/colbert-finalmente-acabou-na-cbs-incrivel-que-tenha-durado-tanto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779439846000,
-         "created": 1779439846000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e4d74c03d7b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcyNSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2992978/nuvem-vitoria-ler-historias-a-noite-e-levar-casa-a-criancas-internadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nuvem Vitória. Ler histórias à noite (e levar casa) a crianças internadas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2992978/nuvem-vitoria-ler-historias-a-noite-e-levar-casa-a-criancas-internadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779439200000,
-         "created": 1779439200000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0dc8c9e13ae.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjMwOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODY0LCJjcm9wSGVpZ2h0IjoxNTM2LCJjcm9wWCI6NjcsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
