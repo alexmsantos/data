@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2995220/ex-benfica-discutiu-com-nuno-espirito-santo-e-recusou-jogar-pelo-west-ham#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ex-Benfica discutiu com Nuno Espírito Santo e recusou jogar pelo West Ham",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2995220/ex-benfica-discutiu-com-nuno-espirito-santo-e-recusou-jogar-pelo-west-ham#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779712425000,
+         "created": 1779712425000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a14336d372e1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjA5LCJjcm9wWSI6NzR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2995213/lembra-se-deles-a-reconciliacao-de-cesar-matoso-e-gabriela-santana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lembra-se deles? A reconciliação de César Matoso e Gabriela Santana ",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a107fe0460d6.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM4OSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2994228/ha-duas-novas-crias-no-jardim-zoologico-e-uma-e-um-koala-conheca-as#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Há duas novas crias no Jardim Zoológico (e uma é um coala)! Conheça-as",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2994228/ha-duas-novas-crias-no-jardim-zoologico-e-uma-e-um-koala-conheca-as#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779469867000,
-         "created": 1779469867000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a107cc6cb35f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6NDYwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MDgsImNyb3BIZWlnaHQiOjEwODAsImNyb3BYIjoyMzYsImNyb3BZIjoxMzV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
