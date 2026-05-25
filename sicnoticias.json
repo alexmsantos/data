@@ -14,8 +14,25 @@
          "published": 1779706930000,
          "created": 1779706930000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-09-29-Aeroporto-de-Lisboa.jpg-a50c37d0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-09-29-Aeroporto-de-Lisboa.jpg-a50c37d0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2022-09-29-Aeroporto-de-Lisboa.jpg-a50c37d0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b3a22c7d-fc38-46a2-b615-d47aac7d7803",
