@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2995166/libertadas-11-mulheres-e-adolescente-vitimas-de-rede-de-prostituicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Libertadas 11 mulheres e adolescente vítimas de rede de prostituição",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2995166/libertadas-11-mulheres-e-adolescente-vitimas-de-rede-de-prostituicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779707483000,
+         "created": 1779707483000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_56458fc0ec9fb.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/2995169/endividamento-da-economia-acelera-para-868-1-mil-milhoes-ate-marco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Endividamento da economia acelera para 868,1 mil milhões até março",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6984e4fe24ae6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNTd9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2994150/investimento-em-certificados-de-aforro-sobe-para-41-7-mil-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Investimento em certificados de aforro sobe para 41,7 mil milhões",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2994150/investimento-em-certificados-de-aforro-sobe-para-41-7-mil-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779464272000,
-         "created": 1779464272000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_52541cca80ef8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4MjEsImNyb3BIZWlnaHQiOjQ2MiwiY3JvcFgiOjAsImNyb3BZIjo0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozNTYsImNyb3BIZWlnaHQiOjYzMywiY3JvcFgiOjE3MywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
