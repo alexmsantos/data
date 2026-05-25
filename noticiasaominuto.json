@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2995181/psp-deixa-de-publicar-lista-com-localizacoes-dos-radares-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PSP deixa de publicar lista com localizações dos radares. Porquê?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2995181/psp-deixa-de-publicar-lista-com-localizacoes-dos-radares-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779710105000,
+         "created": 1779710105000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6454b2c93534d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2995196/papa-pede-desarmamento-da-ia-para-impedir-que-domine-a-humanidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Papa pede \"desarmamento\" da IA para \"impedir que domine a humanidade\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6707aeec95ecf.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2994189/bancos-tem-de-responder-a-todas-as-reclamacoes-no-prazo-de-15-dias-uteis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bancos têm de responder a todas as reclamações no prazo de 15 dias úteis",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2994189/bancos-tem-de-responder-a-todas-as-reclamacoes-no-prazo-de-15-dias-uteis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779467456000,
-         "created": 1779467456000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/19764345.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMDV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
