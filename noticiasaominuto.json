@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2995968/rajadas-de-vento-podem-ter-atingido-100-kmh-na-regiao-centro-no-sabado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rajadas de vento podem ter atingido 100 km/h na região Centro no sábado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2995968/rajadas-de-vento-podem-ter-atingido-100-kmh-na-regiao-centro-no-sabado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779814234000,
+         "created": 1779814234000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_55ed6420efdc7.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2995966/flotilha-franca-pondera-recorrer-a-justica-por-atos-odiosos-de-israel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Flotilha? França pondera recorrer à justiça por \"atos odiosos\" de Israel",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2995966/flotilha-franca-pondera-recorrer-a-justica-por-atos-odiosos-de-israel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779813983000,
+         "created": 1779813983000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_691b76836e9e6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjoxMjExLCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2995957/exercito-israelita-afasta-procuradora-que-denunciou-abusos-a-palestiniano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Exército israelita afasta procuradora que denunciou abusos a palestiniano",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0f20d38f97e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2994850/estado-vende-imoveis-abaixo-do-preco-de-mercado-e-falso-diz-governo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estado vende imóveis abaixo do preço de mercado? \"É falso\", diz Governo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2994850/estado-vende-imoveis-abaixo-do-preco-de-mercado-e-falso-diz-governo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779627755000,
-         "created": 1779627755000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6854159bf3807.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI4LCJjcm9wSGVpZ2h0IjoxNDIyLCJjcm9wWCI6MjEsImNyb3BZIjozMH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NzUyLCJjcm9wWSI6MH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2994844/fc-porto-sagra-se-campeao-nacional-de-juvenis-contra-o-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "FC Porto sagra-se campeão nacional de juvenis contra o Benfica",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2994844/fc-porto-sagra-se-campeao-nacional-de-juvenis-contra-o-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779627733000,
-         "created": 1779627733000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a12e9ab8524f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
