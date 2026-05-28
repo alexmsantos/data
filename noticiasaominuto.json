@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2997578/presidente-de-junta-em-ponte-de-lima-morre-em-acidente-de-trator#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Presidente de junta em Ponte de Lima morre em acidente de trator",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2997578/presidente-de-junta-em-ponte-de-lima-morre-em-acidente-de-trator#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780010880000,
+         "created": 1780010880000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5fac60db2eed5.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2997583/zelensky-garante-que-pressiona-eua-para-obter-mais-misseis-patriot#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Zelensky garante que pressiona EUA para obter mais mísseis Patriot",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69d628d717196.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2996346/vendas-de-automoveis-subiram-5-1-por-cento-na-ue-em-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vendas de automóveis subiram 5,1 por cento na UE em abril",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2996346/vendas-de-automoveis-subiram-5-1-por-cento-na-ue-em-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779877144000,
-         "created": 1779877144000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a16b6ba08708.webp",
                "type": "image/jpeg",
                "length": "0"
             }
