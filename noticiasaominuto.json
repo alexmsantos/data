@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2997092/oficial-fc-porto-nao-aciona-clausula-de-compra-e-moffi-esta-de-saida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: FC Porto não aciona cláusula de compra e Moffi está de saída",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2997092/oficial-fc-porto-nao-aciona-clausula-de-compra-e-moffi-esta-de-saida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1779964442000,
+         "created": 1779964442000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2997086/psp-detem-em-setubal-alegado-homicida-procurado-pelo-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PSP detém em Setúbal alegado homicida procurado pelo Brasil",
@@ -238,7 +259,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2997077/quatro-pessoas-esfaqueadas-em-estacao-de-comboios-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quatro pessoas esfaqueadas em estação de comboios na Suíça",
+         "title": "Três pessoas feridas em ataque com faca em estação de comboios na Suíça",
          "description": "",
          "link": "https://www.noticiasaominuto.com/mundo/2997077/quatro-pessoas-esfaqueadas-em-estacao-de-comboios-na-suica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_57d178a1bb830.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2995902/von-der-leyen-pede-protocolo-europeu-para-responder-a-incursoes-de-drones#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Von der Leyen pede protocolo europeu para responder a incursões de drones",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2995902/von-der-leyen-pede-protocolo-europeu-para-responder-a-incursoes-de-drones#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779811330000,
-         "created": 1779811330000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68b5a1d605a12.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NjM5LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
