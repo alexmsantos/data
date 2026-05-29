@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/2998114/oe2026-defice-do-estado-agrava-se-para-1548-milhoes-ate-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OE2026: Défice do Estado agrava-se para 1.548 milhões até abril",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/2998114/oe2026-defice-do-estado-agrava-se-para-1548-milhoes-ate-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780078745000,
+         "created": 1780078745000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69c7dc4b87ec7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ3LCJjcm9wSGVpZ2h0IjoxNDMzLCJjcm9wWCI6MCwiY3JvcFkiOjE5Nn19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/2998031/hoje-30-da-populacao-nao-nasceu-em-portugal-mas-e-a-cultura-de-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Em Lisboa hoje, 30% não nasceram em Portugal, é cultura aberta ao mundo\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a17480f86492.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NzksImNyb3BIZWlnaHQiOjE3NDAsImNyb3BYIjo3NDQsImNyb3BZIjozfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2996855/amt-imt-e-ansr-pedem-reforco-da-seguranca-nos-tvde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AMT, IMT e ANSR pedem reforço da segurança nos TVDE",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2996855/amt-imt-e-ansr-pedem-reforco-da-seguranca-nos-tvde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779915265000,
-         "created": 1779915265000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_660fd05e7993a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY4LCJjcm9wSGVpZ2h0IjoxMzY2LCJjcm9wWCI6MTc5MiwiY3JvcFkiOjM0Mn19",
                "type": "image/jpeg",
                "length": "0"
             }
