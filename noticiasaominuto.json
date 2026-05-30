@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/2998354/morreu-sociologo-e-filosofo-edgar-morin-tinha-104-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Morreu sociólogo e filósofo Edgar Morin. Tinha 104 anos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/2998354/morreu-sociologo-e-filosofo-edgar-morin-tinha-104-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780132618000,
+         "created": 1780132618000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1a9cfcef99b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/2998362/vinicius-lembra-benfica-e-elogia-jorge-jesus-mourinho-emarco-silva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Vinícius lembra Benfica e elogia Jorge Jesus, Mourinho e...Marco Silva",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/2998362/vinicius-lembra-benfica-e-elogia-jorge-jesus-mourinho-emarco-silva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780132202000,
+         "created": 1780132202000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5dba30d6040cf.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/2996341/penelope-cruz-sofreu-aneurisma-cerebral-durante-gravacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Penélope Cruz sofreu aneurisma cerebral durante gravações",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69bc8d2bceeb6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2997144/riqueza-das-familias-sobe-entre-2020-e-2024-impulsionada-pelas-casas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Riqueza das famílias sobe entre 2020 e 2024 impulsionada pelas casas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2997144/riqueza-das-familias-sobe-entre-2020-e-2024-impulsionada-pelas-casas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779968753000,
-         "created": 1779968753000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5fa2c5dd7f368.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2997137/cascais-empregada-interna-apanhada-com-joias-da-patroa-valiam-23-mil-#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cascais: Empregada interna apanhada com joias da patroa. Valiam 23 mil €",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2997137/cascais-empregada-interna-apanhada-com-joias-da-patroa-valiam-23-mil-#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1779968719000,
-         "created": 1779968719000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6706335d161a9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjU0OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
