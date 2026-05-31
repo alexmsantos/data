@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/2996608/o-fumo-do-tabaco-aumenta-o-risco-de-cancro-nos-animais-domesticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"O fumo do tabaco aumenta o risco de cancro nos animais domésticos\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/2996608/o-fumo-do-tabaco-aumenta-o-risco-de-cancro-nos-animais-domesticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780240037000,
+         "created": 1780240037000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1839de8354c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc2LCJjcm9wSGVpZ2h0IjoxMzkzLCJjcm9wWCI6MzMsImNyb3BZIjozMTR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/2998605/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6388d0f5a1652.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2997611/medicos-operam-no-utero-materno-feto-com-os-intestinos-fora-do-corpo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Médicos operam no útero materno feto com os intestinos fora do corpo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2997611/medicos-operam-no-utero-materno-feto-com-os-intestinos-fora-do-corpo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780035705000,
-         "created": 1780035705000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6594196d06357.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM3MCwiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6OTEsImNyb3BZIjo1MzR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
