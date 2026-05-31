@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2998791/morreu-o-antigo-ministro-social-democrata-carlos-brito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Morreu o antigo ministro social-democrata Carlos Brito",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2998791/morreu-o-antigo-ministro-social-democrata-carlos-brito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780268903000,
+         "created": 1780268903000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_52b13f7f2ade8.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/2998793/magoa-e-tristeza-seguro-lamenta-morte-do-ator-joao-barbosa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Mágoa e tristeza\". Seguro lamenta morte do ator João Barbosa",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a194c259646a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MTUsImNyb3BIZWlnaHQiOjIzNCwiY3JvcFgiOjE5NiwiY3JvcFkiOjE5NH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/2997720/nacoes-unidas-declaram-prioridade-proteger-criancas-do-mundo-digital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nações Unidas declaram \"prioridade\" proteger crianças do mundo digital",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/2997720/nacoes-unidas-declaram-prioridade-proteger-criancas-do-mundo-digital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780047864000,
-         "created": 1780047864000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5da2fc08d15b1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjkwLCJjcm9wWSI6NTQzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDMsImNyb3BIZWlnaHQiOjE2NzcsImNyb3BYIjoxMTgxLCJjcm9wWSI6OX19",
                "type": "image/jpeg",
                "length": "0"
             }
