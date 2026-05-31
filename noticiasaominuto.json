@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/2998706/associacao-madeirense-com-42-nadadores-salvadores-para-epoca-balnear#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Associação madeirense com 42 nadadores-salvadores para época balnear",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/2998706/associacao-madeirense-com-42-nadadores-salvadores-para-epoca-balnear#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780244113000,
+         "created": 1780244113000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_677ab384d6e7d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/2998708/discussao-entre-casal-termina-com-parte-da-casa-demolida-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Discussão entre casal termina com parte da casa demolida nos EUA",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_66a292a84e47d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2997636/fujimori-lidera-sondagem-para-segunda-volta-das-presidenciais-no-peru#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fujimori lidera sondagem para segunda volta das presidenciais no Peru",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2997636/fujimori-lidera-sondagem-para-segunda-volta-das-presidenciais-no-peru#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780037048000,
-         "created": 1780037048000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5bbe3c2b4097f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODA2LCJjcm9wSGVpZ2h0IjoxMDE2LCJjcm9wWCI6NzIsImNyb3BZIjozOTN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg0NywiY3JvcEhlaWdodCI6MTUwNSwiY3JvcFgiOjQ4OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
