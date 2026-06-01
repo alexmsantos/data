@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "1bd31136-ee47-444f-beec-7fcf75d18b31",
+         "title": "Ontem, fomos ouvir quem vai decidir a vida do país e do mundo em 2046",
+         "description": "<p>Como três jovens de 11, 13 e 18 anos já fazem rádio de Portugal para o mundo</p>",
+         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-06-01-ontem-fomos-ouvir-quem-vai-decidir-a-vida-do-pais-e-do-mundo-em-2046-aa599f2e",
+         "author": [
+            "Paulo Baldaia",
+            "Ana Marisa Silva"
+         ],
+         "published": 1780294811000,
+         "created": 1780294811000,
+         "category": "Expresso da Manhã",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-31-expresso-da-manha---dc2026.png-ef326f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-31-expresso-da-manha---dc2026.png-ef326f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-05-31-expresso-da-manha---dc2026.png-ef326f35/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "20066384-b6e9-4f53-8261-1f781af8f287",
          "title": "Gastrenterologia convencionada: um pilar esquecido do SNS",
          "description": "<p>O reforço da resposta nacional em gastrenterologia exige uma visão estratégica integrada entre setor público, setor social e setor convencionada</p>",
@@ -260,38 +292,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "e1eac6f0-c2ff-4fc4-a45c-65be0f7f6438",
-         "title": "Uns meses de espera podem valer dezenas de milhares de euros. Será que compensa reformar-se já? Pedro Andersson ajuda a decidir",
-         "description": "<p>A idade da reforma vai voltar a subir em Portugal e pedir a reforma antecipada sem fazer bem as contas pode transformar-se num dos erros financeiros mais caros da sua vida, segundo Pedro Andersson</p>",
-         "link": "https://expresso.pt/podcasts/contas-poupanca/2026-06-01-uns-meses-de-espera-podem-valer-dezenas-de-milhares-de-euros.-sera-que-compensa-reformar-se-ja--pedro-andersson-ajuda-a-decidir-13aa59cc",
-         "author": [
-            "Pedro Andersson",
-            "Filipe Cruz"
-         ],
-         "published": 1780292400000,
-         "created": 1780292400000,
-         "category": "Contas Poupança",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-05-22-contas-poupanca-3x2-91ed7604/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-05-22-contas-poupanca-3x2-91ed7604/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2026-05-22-contas-poupanca-3x2-91ed7604/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
