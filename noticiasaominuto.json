@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3000030/exercito-de-israel-diminui-restricoes-no-norte-do-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Exército de Israel diminui restrições no norte do país",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3000030/exercito-de-israel-diminui-restricoes-no-norte-do-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780440684000,
+         "created": 1780440684000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6523c44570dc6.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3000023/governo-prepara-reforco-da-protecao-do-lobo-diz-ministra-do-ambiente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo prepara reforço da proteção do lobo, diz ministra do Ambiente",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_62f3a0a94a44b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2998937/passageiros-metro-de-lisboa-encerra-ja-amanha-e-so-abre-na-5-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Passageiros, Metro de Lisboa encerra já amanhã e só abre na 5.ª-feira",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2998937/passageiros-metro-de-lisboa-encerra-ja-amanha-e-so-abre-na-5-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780308503000,
-         "created": 1780308503000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68274336dea4f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
