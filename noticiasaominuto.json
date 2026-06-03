@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3000331/benfica-bate-leoes-de-porto-salvo-e-apura-se-para-final-de-futsal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Benfica bate Leões de Porto Salvo e apura-se para final de futsal",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3000331/benfica-bate-leoes-de-porto-salvo-e-apura-se-para-final-de-futsal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780527766000,
+         "created": 1780527766000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_690fbeec25294.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3000318/israel-acusa-quatro-ong-espanholas-de-canalizarem-fundos-para-o-hamas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Israel acusa quatro ONG espanholas de canalizarem fundos para o Hamas",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1dc1b78eb9a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2999268/carolina-santiago-garante-grupo-unido-e-define-objetivo-da-selecao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Carolina Santiago fala em grupo \"unido\" e define objetivo da seleção",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2999268/carolina-santiago-garante-grupo-unido-e-define-objetivo-da-selecao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780338466000,
-         "created": 1780338466000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1dc0764d7c2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjQ5LCJjcm9wSGVpZ2h0IjoxMjY1LCJjcm9wWCI6MTQsImNyb3BZIjo4OX19",
                "type": "image/jpeg",
                "length": "0"
             }
