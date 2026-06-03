@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3000224/casa-pia-anuncia-saida-a-custo-zero-de-peso-pesado-do-plantel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Casa Pia anuncia saída a custo zero de peso pesado do plantel",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3000224/casa-pia-anuncia-saida-a-custo-zero-de-peso-pesado-do-plantel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780503833000,
+         "created": 1780503833000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2046f1dd902.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3000215/proximo-presidente-vance-e-rubio-seriam-dificeis-de-vencer-diz-trump#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Próximo presidente? \"Vance e Rubio seriam difíceis de vencer\", diz Trump",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d96ac5f606.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/2999106/sydney-sweeney-e-scooter-braun-completamente-disfarcados-na-times-square#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sydney Sweeney e Scooter Braun completamente disfarçados em Times Square",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/2999106/sydney-sweeney-e-scooter-braun-completamente-disfarcados-na-times-square#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780327517000,
-         "created": 1780327517000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d888b23268.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTMyLCJjcm9wSGVpZ2h0Ijo2MzcsImNyb3BYIjo0LCJjcm9wWSI6MTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjM1NSwiY3JvcEhlaWdodCI6NjMyLCJjcm9wWCI6ODM5LCJjcm9wWSI6MjJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
