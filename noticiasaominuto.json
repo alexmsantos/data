@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3000289/seis-detidos-apos-confrontos-entre-manifestantes-e-policia-junto-a-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Seis detidos após confrontos entre manifestantes e polícia junto à AR",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3000289/seis-detidos-apos-confrontos-entre-manifestantes-e-policia-junto-a-ar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780519329000,
+         "created": 1780519329000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2062cfa9e3c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMjN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3000281/polonia-e-lituania-tentam-ter-um-papel-maior-na-dissuasao-nuclear#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Polónia e Lituânia tentam ter um papel maior na dissuasão nuclear",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5418291ae6b04.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2999239/cortes-deixam-130000-criancas-guineenses-vulneraveis-a-fome#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cortes deixam 130.000 crianças guineenses vulneráveis à fome",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2999239/cortes-deixam-130000-criancas-guineenses-vulneraveis-a-fome#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780334645000,
-         "created": 1780334645000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/19523783.webp",
                "type": "image/jpeg",
                "length": "0"
             }
