@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3000074/eua-sancionam-maior-bolsa-de-ativos-digitais-iraniana-e-outras-tres#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EUA sancionam maior bolsa de ativos digitais iraniana (e outras três)",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3000074/eua-sancionam-maior-bolsa-de-ativos-digitais-iraniana-e-outras-tres#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780467210000,
+         "created": 1780467210000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1fb7afe6997.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjg4NywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3000075/encontrados-naufragios-de-6-navios-afundados-por-piratas-das-caraibas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Encontrados naufrágios de 6 navios afundados por \"piratas das Caraíbas\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d4f6f0ad59.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/2998971/cinco-dicas-para-pais-que-querem-comecar-a-investir-para-os-filhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cinco dicas para pais que querem começar a investir para os filhos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/2998971/cinco-dicas-para-pais-que-querem-comecar-a-investir-para-os-filhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780311465000,
-         "created": 1780311465000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d5a22c3c7b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
