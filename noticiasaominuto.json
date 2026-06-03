@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3000297/israel-anuncia-morte-de-alto-responsavel-da-jihad-islamica-em-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel anuncia morte de alto responsável da Jihad Islâmica em Gaza",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3000297/israel-anuncia-morte-de-alto-responsavel-da-jihad-islamica-em-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780521146000,
+         "created": 1780521146000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_678cb970b29e5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI1LCJjcm9wSGVpZ2h0IjoxNDIwLCJjcm9wWCI6MTQsImNyb3BZIjo2NH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3000298/mourinho-confirmado-por-florentino-perez-no-real-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mourinho confirmado por Florentino Pérez no Real Madrid",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3000298/mourinho-confirmado-por-florentino-perez-no-real-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780521043000,
+         "created": 1780521043000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3000296/ue-procura-reduzir-dependencia-tecnologica-dos-eua-e-china#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "UE procura reduzir dependência tecnológica dos EUA e China",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1db61b2ab4c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2999249/beirute-acusa-israel-de-danificar-hospital-em-tiro-apos-novo-ataque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Beirute acusa Israel de danificar hospital em Tiro após novo ataque",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2999249/beirute-acusa-israel-de-danificar-hospital-em-tiro-apos-novo-ataque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780335583000,
-         "created": 1780335583000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6740a4622b1a2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MTMsImNyb3BZIjoxMDd9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2999251/centros-de-triagem-de-migrantes-irregulares-terao-o-menos-simbolos-da-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Centros de triagem de migrantes irregulares terão menos símbolos da PSP",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2999251/centros-de-triagem-de-migrantes-irregulares-terao-o-menos-simbolos-da-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780335521000,
-         "created": 1780335521000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6706335d161a9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ2LCJjcm9wSGVpZ2h0IjoxNDMyLCJjcm9wWCI6MCwiY3JvcFkiOjE3MX19",
                "type": "image/jpeg",
                "length": "0"
             }
