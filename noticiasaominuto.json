@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/3000175/ps-quer-que-parlamento-condene-incursao-de-drone-russo-na-romenia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PS quer que Parlamento condene incursão de drone russo na Roménia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/3000175/ps-quer-que-parlamento-condene-incursao-de-drone-russo-na-romenia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780490329000,
+         "created": 1780490329000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_659c1a0538d58.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3000171/dois-homens-detidos-por-roubos-e-sequestros-em-famalicao-conseguiram-21#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dois homens detidos por roubos e sequestros em Famalicão. Conseguiram 21€",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6881f2cecb6ae.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2999013/espanha-7-parques-de-diversoes-para-levar-toda-a-familia-este-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Espanha. 7 parques de diversões para levar toda a família este verão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2999013/espanha-7-parques-de-diversoes-para-levar-toda-a-familia-este-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780322760000,
-         "created": 1780322760000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d6669638c0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6Mjk1LCJjcm9wWSI6MjY0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo5MzUsImNyb3BZIjoxMjV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
