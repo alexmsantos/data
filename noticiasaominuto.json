@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3000176/empresa-que-produz-o-iphone-lancou-novo-suv-eletrico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Empresa que produz o iPhone lançou novo SUV elétrico",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3000176/empresa-que-produz-o-iphone-lancou-novo-suv-eletrico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780509639000,
+         "created": 1780509639000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a201131d016d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3000241/bomba-no-sporting-suarez-tera-acordo-com-candidato-a-lider-do-fenerbahce#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bomba no Sporting? Suárez terá acordo com candidato a líder do Fenerbahçe",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_678197e4bed56.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/2999172/pacto-europeu-de-asilo-implica-reformas-e-nao-fica-tudo-feito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pacto europeu de asilo implica reformas e não fica \"tudo feito\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/2999172/pacto-europeu-de-asilo-implica-reformas-e-nao-fica-tudo-feito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780329729000,
-         "created": 1780329729000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67605b9f284b9.webp",
                "type": "image/jpeg",
                "length": "0"
             }
