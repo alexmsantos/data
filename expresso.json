@@ -14,8 +14,25 @@
          "published": 1780508863000,
          "created": 1780508863000,
          "category": "Política",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-12-doc.20260512.47087077.es1120260512.jpg-355436a7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-12-doc.20260512.47087077.es1120260512.jpg-355436a7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-05-12-doc.20260512.47087077.es1120260512.jpg-355436a7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "4225fd01-7623-42cb-940b-e8c39d1ca829",
