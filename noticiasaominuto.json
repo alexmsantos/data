@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "MP investiga caso de mulher que morreu após 30 minutos à espera do INEM",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780499280000,
+         "created": 1780499280000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_59369cc930b06.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3000204/gp-do-monaco-e-este-fim-de-semana-os-horarios-e-informacoes-essenciais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "GP do Mónaco é este fim de semana. Os horários e informações essenciais",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3000204/gp-do-monaco-e-este-fim-de-semana-os-horarios-e-informacoes-essenciais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780499227000,
+         "created": 1780499227000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2034b037915.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3000083/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d8ef05ac2e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEwLCJjcm9wSGVpZ2h0IjoxNDEyLCJjcm9wWCI6MjUsImNyb3BZIjoxNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzkyLCJjcm9wSGVpZ2h0IjoxNDA3LCJjcm9wWCI6OTg3LCJjcm9wWSI6MTZ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2999124/quatro-corpos-carbonizados-encontrados-dentro-de-carro-na-calabria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quatro corpos carbonizados encontrados dentro de carro na Calábria",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2999124/quatro-corpos-carbonizados-encontrados-dentro-de-carro-na-calabria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780325490000,
-         "created": 1780325490000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_564efc76674b1.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/2999119/inaceitavel-professora-reformada-agredida-durante-protesto-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Inaceitável\". Professora reformada agredida durante protesto em Espanha",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/2999119/inaceitavel-professora-reformada-agredida-durante-protesto-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780325305000,
-         "created": 1780325305000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d8b0209aa5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1ODEsImNyb3BIZWlnaHQiOjMyNywiY3JvcFgiOjAsImNyb3BZIjoxMjN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQzOCwiY3JvcEhlaWdodCI6Nzc4LCJjcm9wWCI6NCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
