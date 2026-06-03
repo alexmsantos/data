@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3000225/portugal-eleito-membro-nao-permanente-do-conselho-de-seguranca-da-onu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal eleito membro não permanente do Conselho de Segurança da ONU",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3000225/portugal-eleito-membro-nao-permanente-do-conselho-de-seguranca-da-onu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780504375000,
+         "created": 1780504375000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3000224/casa-pia-anuncia-saida-a-custo-zero-de-peso-pesado-do-plantel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Casa Pia anuncia saída a custo zero de peso pesado do plantel",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5aa6d6ff371cd.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2999154/mg-superou-os-100-milhoes-de-clientes-globais-com-um-mg4-ev-urban#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "MG superou os 100 milhões de clientes globais com um MG4 EV Urban",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2999154/mg-superou-os-100-milhoes-de-clientes-globais-com-um-mg4-ev-urban#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780327673000,
-         "created": 1780327673000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d96ac5f606.webp",
                "type": "image/jpeg",
                "length": "0"
             }
