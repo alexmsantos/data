@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3000618/e-oficial-benfica-confirma-intencao-do-real-madrid-levar-mourinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "É oficial. Benfica confirma intenção do Real Madrid levar Mourinho",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3000618/e-oficial-benfica-confirma-intencao-do-real-madrid-levar-mourinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780590627000,
+         "created": 1780590627000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0829b24e179.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3000615/aiea-sem-acesso-as-instalacoes-nucleares-no-irao-desde-junho-de-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "AIEA sem acesso às instalações nucleares no Irão desde junho de 2025",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69d508f82d99e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/2999529/cavaco-alerta-montenegro-usar-inteligencia-e-nao-ceder-a-burocratas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cavaco alerta Montenegro: usar \"inteligência\" e não ceder a \"burocratas\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/2999529/cavaco-alerta-montenegro-usar-inteligencia-e-nao-ceder-a-burocratas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780395954000,
-         "created": 1780395954000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a083b8f646cf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc1LCJjcm9wSGVpZ2h0IjoxMzkyLCJjcm9wWCI6NDgsImNyb3BZIjoyMTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc0MywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
