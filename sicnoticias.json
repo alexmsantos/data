@@ -37,9 +37,12 @@
       {
          "id": "906322d3-7d97-449b-af70-1a87e13e178a",
          "title": "Mundial 2026: seleção nacional prossegue preparação com mais um treino na Cidade do Futebol",
-         "description": "<P>A seleção portuguesa segue hoje a preparação para a fase final do Mundial2026 de futebol, que arranca em 11 de junho nos Estados Unidos, Canadá e México, com mais um treino na Cidade do Futebol, em Oeiras.</P>",
+         "description": "<p><span>Portugal tem uma sessão agendada para as 18:00, com os primeiros 15 minutos abertos à comunicação social. Antes, às 17:00, um jogador ainda designar irá falar aos jornalistas em conferência de imprensa.</span></p>",
          "link": "https://sicnoticias.pt/especiais/mundial-de-futebol-2026/2026-06-04-mundial-2026-selecao-nacional-prossegue-preparacao-com-mais-um-treino-na-cidade-do-futebol-5ffd1f4b",
-         "author": "Lusa",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1780562916000,
          "created": 1780562916000,
          "category": "Mundial de Futebol 2026",
@@ -122,35 +125,6 @@
          }
       },
       {
-         "id": "1106dc73-cf09-447e-b3ee-d4a820a2b543",
-         "title": "Ana Galvão: “Há muitas pessoas que têm o habito de: queima a panela, compra outra, e não pode ser. Isso é desperdício”",
-         "description": "Oiça aqui o mais recente episódio de ‘Chica Esperta’ em podcast.",
-         "link": "https://sicnoticias.pt/podcasts/chica-esperta/2026-06-04-ana-galvao-ha-muitas-pessoas-que-tem-o-habito-de-queima-a-panela-compra-outra-e-nao-pode-ser.-isso-e-desperdicio-9d2e84d2",
-         "author": "Chica Esperta",
-         "published": 1780561800000,
-         "created": 1780561800000,
-         "category": "Chica Esperta",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-06-03-mafl9871.jpg-9cb83cbd/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-06-03-mafl9871.jpg-9cb83cbd/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2026-06-03-mafl9871.jpg-9cb83cbd/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "1c54ae9f-d1cb-4bc4-984b-cd3bd584bbaf",
          "title": "Vencedora do Global Teacher Prize: \"Quando queremos mudar um território, temos de começar pelas crianças\"",
          "description": "<p><span>Uma professora do agrupamento de escolas Alpendorada em Marco de Canavezes venceu o Global Teacher Prize Portugal. </span><span>Marisa Teixeira foi distinguida por </span><span>desenvolver projetos inovadores de cidadania no pré-escolar, envolvendo crianças e comunidade em iniciativas de solidariedade, ciência e segurança.</span></p>",
@@ -177,6 +151,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2026-06-02-marisa-teixeira.jpg-c83ac81f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "1106dc73-cf09-447e-b3ee-d4a820a2b543",
+         "title": "Ana Galvão: “Há muitas pessoas que têm o habito de: queima a panela, compra outra, e não pode ser. Isso é desperdício”",
+         "description": "Oiça aqui o mais recente episódio de ‘Chica Esperta’ em podcast.",
+         "link": "https://sicnoticias.pt/podcasts/chica-esperta/2026-06-04-ana-galvao-ha-muitas-pessoas-que-tem-o-habito-de-queima-a-panela-compra-outra-e-nao-pode-ser.-isso-e-desperdicio-9d2e84d2",
+         "author": "Chica Esperta",
+         "published": 1780561800000,
+         "created": 1780561800000,
+         "category": "Chica Esperta",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-06-03-mafl9871.jpg-9cb83cbd/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-06-03-mafl9871.jpg-9cb83cbd/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-06-03-mafl9871.jpg-9cb83cbd/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
