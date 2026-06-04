@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3000552/queda-de-avioneta-faz-pelo-menos-quatro-mortos-perto-da-costa-croata#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Queda de avioneta faz pelo menos quatro mortos perto da costa croata",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3000552/queda-de-avioneta-faz-pelo-menos-quatro-mortos-perto-da-costa-croata#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780580177000,
+         "created": 1780580177000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a21717a035cb.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3000555/joao-mota-revela-que-vai-ser-pai-pela-primeira-vez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "João Mota revela que vai ser pai pela primeira vez",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d89bd8ff53.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/2999486/williams-quer-voltar-a-gloria-na-formula-1-e-define-prazo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Williams quer voltar à glória na Fórmula 1 e define \"prazo\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/2999486/williams-quer-voltar-a-gloria-na-formula-1-e-define-prazo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780387329000,
-         "created": 1780387329000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1e7a3f97e86.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzksImNyb3BZIjoyNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY4LCJjcm9wSGVpZ2h0IjoxMzY1LCJjcm9wWCI6NDI5LCJjcm9wWSI6MzB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
