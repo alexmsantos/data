@@ -6,6 +6,64 @@
    "category": [],
    "items": [
       {
+         "id": "fc971a91-7f7d-47df-91f5-a83bd62384ff",
+         "title": "A 1ª página do Expresso Economia",
+         "description": "",
+         "link": "https://expresso.pt/semanario/economia",
+         "author": "Expresso",
+         "published": 1780610489000,
+         "created": 1780610489000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-04-eco_2797.jpg-a8b27818/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-04-eco_2797.jpg-a8b27818/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-04-eco_2797.jpg-a8b27818/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "050194b5-4d38-442e-8466-210daae489d4",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro",
+         "author": "Expresso",
+         "published": 1780610426000,
+         "created": 1780610426000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-04-pc_2797.jpg-a20d44ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-04-pc_2797.jpg-a20d44ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-04-pc_2797.jpg-a20d44ff/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "0cdd48c0-2775-4bb0-b074-e9237acc33c7",
          "title": "IDEIAS: O elo perdido do poder militar europeu",
          "description": "",
@@ -242,47 +300,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "47fbbc2f-32b3-4608-ae67-cf03a7167e3a",
-         "title": "“Quem se sente respeitado trabalha melhor”",
-         "description": "<p>Ellen Langer, professora de Psicologia na Universidade de Harvard</p>",
-         "link": "https://expresso.pt/semanario/ideias/2026-06-04-quem-se-sente-respeitado-trabalha-melhor-a70c3b4e",
-         "author": "Helena Bento",
-         "published": 1780610220000,
-         "created": 1780610220000,
-         "category": "Ideias",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-06-04-ellen-langer_00_t-_idp.jpg-25c5acda/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-06-04-ellen-langer_00_t-_idp.jpg-25c5acda/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-06-04-ellen-langer_00_t-_idp.jpg-25c5acda/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "6b375692-813b-4dd6-926a-7569210b6ff3",
-         "title": "Tudo o que se passa à volta da falecida",
-         "description": "<p>Uma das filhas saía da casa de banho, onde tinha retocado a maquilhagem por não querer estar pior do que as primas. Dois bebés tratavam o velório como um parque de diversões</p>",
-         "link": "https://expresso.pt/opiniao/2026-06-04-tudo-o-que-se-passa-a-volta-da-falecida-c85f2b59",
-         "author": "Ana Bárbara Pedrosa",
-         "published": 1780610220000,
-         "created": 1780610220000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
