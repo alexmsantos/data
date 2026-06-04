@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3000486/portugal-e-chile-voltam-a-encontrar-se-apos-a-desilusao-de-kazan#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal e Chile voltam a encontrar-se após a desilusão de Kazan",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3000486/portugal-e-chile-voltam-a-encontrar-se-apos-a-desilusao-de-kazan#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780569038000,
+         "created": 1780569038000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2145237d3b7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjY2LCJjcm9wSGVpZ2h0IjoxMjc1LCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3000487/ebola-africa-oriental-acorda-medidas-urgentes-para-reforcar-resposta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ébola: África Oriental acorda medidas \"urgentes\" para reforçar resposta",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/44522850.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDU4LCJjcm9wSGVpZ2h0IjoxMzgyLCJjcm9wWCI6MzksImNyb3BZIjoxMTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjg1MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/2999446/portugal-cumpre-segundo-dia-de-estagio-a-pensar-no-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal cumpre segundo dia de estágio a pensar no Mundial",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/2999446/portugal-cumpre-segundo-dia-de-estagio-a-pensar-no-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780380268000,
-         "created": 1780380268000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47215563.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjcyLCJjcm9wWSI6NTh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
