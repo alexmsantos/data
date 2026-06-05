@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3000976/jamor-o-nome-dos-jogadores-tal-como-o-meu-ficarao-imortalizados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Jamor? O nome dos jogadores, tal como o meu, ficarão imortalizados\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3000976/jamor-o-nome-dos-jogadores-tal-como-o-meu-ficarao-imortalizados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780670863000,
+         "created": 1780670863000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47171308.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE4NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM3LCJjcm9wSGVpZ2h0IjoxNjY2LCJjcm9wWCI6NzYzLCJjcm9wWSI6MzB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3001059/teerao-disparou-misseis-de-aviso-contra-dois-navios-norte-americanos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Teerão disparou \"mísseis de aviso\" contra dois navios norte-americanos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a08a18124591.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjY0LCJjcm9wSGVpZ2h0Ijo3MTEsImNyb3BYIjowLCJjcm9wWSI6ODJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3000034/finlandia-apreende-quatro-milhoes-de-euros-de-fundos-russos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Finlândia apreende quatro milhões de euros de fundos russos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3000034/finlandia-apreende-quatro-milhoes-de-euros-de-fundos-russos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780439833000,
-         "created": 1780439833000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/46429089.webp",
                "type": "image/jpeg",
                "length": "0"
             }
