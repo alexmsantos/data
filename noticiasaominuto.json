@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3000968/farmacias-recebem-30mes-por-cada-beneficiario-em-programa-de-metadona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Farmácias recebem 30€/mês por cada beneficiário em programa de metadona",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3000968/farmacias-recebem-30mes-por-cada-beneficiario-em-programa-de-metadona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780664025000,
+         "created": 1780664025000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/43403236.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3000952/vao-existir-mais-renault-neo-classicos-saiba-o-que-diz-a-marca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vão existir mais Renault \"neo clássicos\"? Saiba o que diz a marca",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69c10c25c6141.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDcyLCJjcm9wSGVpZ2h0IjoxMTY2LCJjcm9wWCI6MCwiY3JvcFkiOjE4NH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/2999954/sardinhas-na-air-fryer-o-truque-para-assar-em-casa-sem-fumo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sardinhas na air fryer: O truque para assar em casa sem fumo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/2999954/sardinhas-na-air-fryer-o-truque-para-assar-em-casa-sem-fumo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780430598000,
-         "created": 1780430598000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1f19db1a5ea.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjE0LCJjcm9wWSI6MzQ5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo0ODYsImNyb3BZIjozMjN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
