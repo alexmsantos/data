@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3001060/carros-autonomos-testes-em-portugal-podem-em-julho-e-estas-sao-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Carros autónomos: Testes em Portugal em julho com regras rigorosas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3001060/carros-autonomos-testes-em-portugal-podem-em-julho-e-estas-sao-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780672137000,
+         "created": 1780672137000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a22d879e8791.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3001053/top-gun-espanhola-detida-por-alegados-maus-tratos-aos-filhos-adotivos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Top gun espanhola\" detida por alegados maus-tratos aos filhos adotivos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1f4b766a740.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwOSwiY3JvcEhlaWdodCI6MTA4MiwiY3JvcFgiOjQ0MiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3000042/benfica-na-corrida-pelo-cristiano-ronaldo-marroquino-dizem-em-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Benfica na corrida pelo \"Cristiano Ronaldo marroquino\", dizem em França",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3000042/benfica-na-corrida-pelo-cristiano-ronaldo-marroquino-dizem-em-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780441863000,
-         "created": 1780441863000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1f50aa5c530.webp",
                "type": "image/jpeg",
                "length": "0"
             }
