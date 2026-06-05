@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3001085/em-direto-a-conferencia-de-imprensa-de-roberto-martinez-e-um-jogador#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Roberto Martínez: \"Foco não é ganhar ao Chile, mas melhorar como equipa\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3001085/em-direto-a-conferencia-de-imprensa-de-roberto-martinez-e-um-jogador#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780682166000,
+         "created": 1780682166000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1fe5fdd3755.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3001180/maximas-sobem-na-proxima-semana-e-podem-chegar-aos-40-c-nesta-regiao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Máximas sobem na próxima semana (e podem chegar aos 40ºC nesta região)",
@@ -28,7 +49,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/3001190/confrontos-na-ar-tres-dos-detidos-aguardam-julgamento-em-liberdade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Confrontos na AR: Três dos detidos aguardam julgamento em liberdade",
+         "title": "Confrontos junto à AR: 3 dos detidos com Termo de Identidade e Residência",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/3001190/confrontos-na-ar-tres-dos-detidos-aguardam-julgamento-em-liberdade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -461,27 +482,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/26248158.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3001085/em-direto-a-conferencia-de-imprensa-de-roberto-martinez-e-um-jogador#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: A conferência de imprensa de Roberto Martínez e Samu Costa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3001085/em-direto-a-conferencia-de-imprensa-de-roberto-martinez-e-um-jogador#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780678103000,
-         "created": 1780678103000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1fe5fdd3755.webp",
                "type": "image/jpeg",
                "length": "0"
             }
