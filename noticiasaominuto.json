@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3001593/talho-encerrado-em-queluz-por-falta-de-condicoes-estruturais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Talho encerrado em Queluz por falta de \"condições estruturais\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3001593/talho-encerrado-em-queluz-por-falta-de-condicoes-estruturais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780781019000,
+         "created": 1780781019000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_56d18afa30a9c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3001591/leao-com-estreia-no-mundial-em-risco-o-que-diz-o-regulamento-da-fifa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Leão com estreia no Mundial em risco? O que diz o regulamento da FIFA",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68ca66dd6da09.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI2N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6Nzk1LCJjcm9wWSI6LTF9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3000518/jovem-detido-por-trafico-de-droga-na-amadora-seguia-em-mota-sem-seguro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jovem detido por tráfico de droga na Amadora. Seguia em mota sem seguro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3000518/jovem-detido-por-trafico-de-droga-na-amadora-seguia-em-mota-sem-seguro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780574366000,
-         "created": 1780574366000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a21571767187.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQ4LCJjcm9wSGVpZ2h0Ijo4MTUsImNyb3BYIjowLCJjcm9wWSI6MzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU1MCwiY3JvcEhlaWdodCI6OTc4LCJjcm9wWCI6MjQyLCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
