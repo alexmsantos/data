@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3001490/ferido-com-gravidade-em-acidente-em-sabrosa-helitransportado-para-vila-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ferido com gravidade em acidente em Sabrosa helitransportado para Vila Real",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3001490/ferido-com-gravidade-em-acidente-em-sabrosa-helitransportado-para-vila-real#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780753822000,
+         "created": 1780753822000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5854470e609f5.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3001420/portugal-vai-jogar-em-miami-num-dos-principais-palcos-do-superbowl#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Portugal vai jogar em Miami num dos principais palcos do Superbowl",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/23626449.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo3OTUsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3000400/partido-democratico-vence-maioria-das-autarquias-na-coreia-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Partido Democrático vence maioria das autarquias na Coreia do Sul",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3000400/partido-democratico-vence-maioria-das-autarquias-na-coreia-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780555356000,
-         "created": 1780555356000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2110501d357.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjcyLCJjcm9wSGVpZ2h0IjoxMjc4LCJjcm9wWCI6LTEsImNyb3BZIjoxMDR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgzNCwiY3JvcEhlaWdodCI6MTQ4MywiY3JvcFgiOjcyOSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
