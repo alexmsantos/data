@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3001694/tiroteio-em-posto-de-gasolina-em-israel-causa-um-morto-e-um-ferido-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tiroteio em posto de gasolina em Israel causa um morto e um ferido grave",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3001694/tiroteio-em-posto-de-gasolina-em-israel-causa-um-morto-e-um-ferido-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780829499000,
+         "created": 1780829499000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5be223b25695b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3001698/papa-felicita-misericordias-portuguesas-e-pede-firmeza-na-difusao-da-caridade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Papa felicita Misericórdias Portuguesas e pede firmeza na difusão da caridade",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1a787831ccc.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3000863/portugues-fingia-estar-ca-mas-estava-na-tailandia-mae-descobriu-por-sms#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Português fingia estar cá, mas estava na Tailândia. Mãe descobriu por SMS",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3000863/portugues-fingia-estar-ca-mas-estava-na-tailandia-mae-descobriu-por-sms#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780655469000,
-         "created": 1780655469000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2294ddb9e87.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgyLCJjcm9wSGVpZ2h0IjoxMzk2LCJjcm9wWCI6MzAsImNyb3BZIjoyODN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
