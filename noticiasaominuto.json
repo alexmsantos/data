@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3001720/kyiv-denuncia-ataque-russo-perto-de-deposito-de-combustivel-nuclear#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Kyiv denuncia ataque russo perto de depósito de combustível nuclear",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3001720/kyiv-denuncia-ataque-russo-perto-de-deposito-de-combustivel-nuclear#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780835069000,
+         "created": 1780835069000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_62545088be5df.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3001719/esqueceu-se-do-passe-a-caminho-do-comboio-agora-so-precisa-do-telemovel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Esqueceu-se do passe a caminho do comboio? Agora só precisa do telemóvel",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0d83772918f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3000054/10-truques-de-cozinha-que-vao-mudar-a-sua-vida-para-sempre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "10 truques de cozinha que vão mudar a sua vida (para sempre)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3000054/10-truques-de-cozinha-que-vao-mudar-a-sua-vida-para-sempre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780592539000,
-         "created": 1780592539000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1f593e087cf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzM3LCJjcm9wSGVpZ2h0IjoxMzE1LCJjcm9wWCI6NywiY3JvcFkiOjI5Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA2LCJjcm9wWCI6NzExLCJjcm9wWSI6NDV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
