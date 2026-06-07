@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3001870/pelo-menos-9-feridos-em-tiroteio-perto-da-sede-do-mundial-de-inglaterra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos 9 feridos em tiroteio perto da sede do Mundial de Inglaterra",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3001870/pelo-menos-9-feridos-em-tiroteio-perto-da-sede-do-mundial-de-inglaterra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780871531000,
+         "created": 1780871531000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3001864/fogo-em-herdade-em-moura-dominado-protecao-civil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fogo em herdade em Moura dominado - Proteção Civil",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47173702.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ2LCJjcm9wSGVpZ2h0IjoxNDMyLCJjcm9wWCI6NSwiY3JvcFkiOjIwN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ1LCJjcm9wSGVpZ2h0IjoxNjgwLCJjcm9wWCI6NzI1LCJjcm9wWSI6MTR9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3000777/video-mostra-reacao-do-principe-william-apos-fas-dizer-amo-te#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vídeo mostra reação do príncipe William após fã dizer \"amo-te\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3000777/video-mostra-reacao-do-principe-william-apos-fas-dizer-amo-te#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780643793000,
-         "created": 1780643793000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a22696ed0945.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc2LCJjcm9wSGVpZ2h0IjoxMzkzLCJjcm9wWCI6NTUsImNyb3BZIjoxMDR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
