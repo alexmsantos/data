@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3001985/benfica-apresenta-nova-camisola-para-202627-inspirada-na-formacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Benfica apresenta nova camisola para 2026/27 inspirada na formação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3001985/benfica-apresenta-nova-camisola-para-202627-inspirada-na-formacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780909826000,
+         "created": 1780909826000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2678c790648.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3001980/nissan-pode-vir-a-fabricar-carros-de-construtor-chines-no-reino-unido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nissan pode vir a fabricar carros de construtor chinês no Reino Unido",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_688e92f505fc4.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3000899/spin-off-da-feup-anuncia-uma-alternativa-limpa-as-baterias-descartaveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Spin-off' da FEUP anuncia uma alternativa limpa às baterias descartáveis",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3000899/spin-off-da-feup-anuncia-uma-alternativa-limpa-as-baterias-descartaveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780658645000,
-         "created": 1780658645000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5706265aabae3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1MTI0LCJjcm9wSGVpZ2h0IjoyODgzLCJjcm9wWCI6MzAsImNyb3BZIjoyNDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE5MjUsImNyb3BIZWlnaHQiOjM0MjMsImNyb3BYIjoxNzI4LCJjcm9wWSI6MTB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
