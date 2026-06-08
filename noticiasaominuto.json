@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3001936/ford-focus-podera-voltar-mas-nao-como-o-conhecemos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ford Focus poderá voltar, mas não como o conhecemos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3001936/ford-focus-podera-voltar-mas-nao-como-o-conhecemos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780904298000,
+         "created": 1780904298000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a26627cd3773.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3001938/regresso-ao-dragao-a-vista-fc-porto-planeia-o-proximo-passo-de-eustaquio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Regresso ao Dragão à vista. FC Porto planeia o próximo passo de Eustáquio",
@@ -125,27 +146,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2570c84241e.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6InRvcC1yaWdodCJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3001936/ford-focus-podera-voltar-mas-nao-como-o-conhecemos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ford Focus poderá voltar, mas não como o conhecemos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3001936/ford-focus-podera-voltar-mas-nao-como-o-conhecemos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780902367000,
-         "created": 1780902367000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a26627cd3773.webp",
                "type": "image/jpeg",
                "length": "0"
             }
