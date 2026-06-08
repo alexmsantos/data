@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3001988/bolsas-em-baixa-devido-a-subida-do-petroleo-e-a-queda-de-wall-street#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bolsas em baixa devido à subida do petróleo e a queda de Wall Street",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3001988/bolsas-em-baixa-devido-a-subida-do-petroleo-e-a-queda-de-wall-street#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1780913746000,
+         "created": 1780913746000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ef21467f883.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3002011/ue-sauda-vitoria-eleitoral-de-partido-pro-ue-na-armenia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "UE saúda vitória eleitoral de partido pró-UE na Arménia",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5c42d94897a75.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3000938/acores-lidera-projeto-para-monitorizar-remotamente-emissoes-de-co2#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Açores lidera projeto para monitorizar remotamente emissões de CO2 ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3000938/acores-lidera-projeto-para-monitorizar-remotamente-emissoes-de-co2#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780661174000,
-         "created": 1780661174000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/46013834.webp",
                "type": "image/jpeg",
                "length": "0"
             }
