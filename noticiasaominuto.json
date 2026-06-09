@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/3000038/e-uma-belissima-maldicao-amaldicoados-nao-resistem-a-comprar-livros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"É uma belíssima maldição. Amaldiçoados não resistem a comprar livros\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/3000038/e-uma-belissima-maldicao-amaldicoados-nao-resistem-a-comprar-livros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781001000000,
+         "created": 1781001000000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1f4d88ebc4a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE5LCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6MzUsImNyb3BZIjoyMTB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3002566/assunto-a-tratar-com-a-seg-social-agora-ha-triagem-de-pedidos-online#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Assunto a tratar com a Seg. Social? Agora, há triagem de pedidos online",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68a88594223e7.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc0NiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3001529/pai-morre-a-defender-filha-de-namorado-violento-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pai morre a defender filha de namorado violento nos EUA",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3001529/pai-morre-a-defender-filha-de-namorado-violento-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780765439000,
-         "created": 1780765439000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_575562f4ac9ce.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjQwLCJjcm9wSGVpZ2h0IjoxMjYwLCJjcm9wWCI6MzUzLCJjcm9wWSI6NjA2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3OTEsImNyb3BIZWlnaHQiOjE0MDYsImNyb3BYIjo5NzAsImNyb3BZIjo0NjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
