@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3003246/missao-da-onu-o-libano-para-investigar-violacoes-do-direito-internacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Missão da ONU investiga violações do direito internacional no Líbano",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3003246/missao-da-onu-o-libano-para-investigar-violacoes-do-direito-internacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781105979000,
+         "created": 1781105979000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e40cf9a3bb9.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3003265/luis-castro-salvou-o-levante-na-laliga-e-ja-e-cobicadoate-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Luís Castro salvou o Levante na LaLiga e já é cobiçado...até em Portugal",
@@ -20,27 +41,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a120e2473541.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3003246/missao-da-onu-o-libano-para-investigar-violacoes-do-direito-internacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Missão da ONU o Líbano para investigar violações do direito internacional",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3003246/missao-da-onu-o-libano-para-investigar-violacoes-do-direito-internacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781105738000,
-         "created": 1781105738000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e40cf9a3bb9.webp",
                "type": "image/jpeg",
                "length": "0"
             }
