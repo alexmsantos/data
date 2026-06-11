@@ -6,6 +6,93 @@
    "category": [],
    "items": [
       {
+         "id": "a20b0dc9-6296-43b4-9ec0-694740326d8d",
+         "title": "A primeira página do Expresso",
+         "description": "",
+         "link": "https://expresso.pt/semanario/primeiro",
+         "author": "Expresso",
+         "published": 1781215259000,
+         "created": 1781215259000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-pc_2798.jpg-0a77be22/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-pc_2798.jpg-0a77be22/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-pc_2798.jpg-0a77be22/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "3e2da709-e87c-45ea-ade7-40adbc555cad",
+         "title": "A 1ª página do Expresso Economia",
+         "description": "",
+         "link": "https://expresso.pt/semanario/economia",
+         "author": "Expresso",
+         "published": 1781215255000,
+         "created": 1781215255000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-eco_2798.jpg-b1c57265/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-eco_2798.jpg-b1c57265/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-eco_2798.jpg-b1c57265/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "5b7c98ec-cb72-4761-9363-de52dd34518e",
+         "title": "Ébola: o vírus que volta a assustar o mundo, na revista E",
+         "description": "",
+         "link": "https://expresso.pt/semanario/revista-e",
+         "author": "Expresso",
+         "published": 1781215249000,
+         "created": 1781215249000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-e_2798.jpg-45c4329d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-e_2798.jpg-45c4329d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-11-e_2798.jpg-45c4329d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "3b70d6c3-7979-46f5-9cdb-39873c9a7bea",
          "title": "IDEIAS: A eleição presidencial de 2026 e os seus significados",
          "description": "",
@@ -160,76 +247,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "0ba36363-ef87-4f72-8951-d99123f70faa",
-         "title": "Teatro: Da Palestina para o CCB, um “Exercício de Montagem”",
-         "description": "<p>Em três viagens, Joana Craveiro foi tentar saber como vivem os palestinianos na Cisjordânia. O resultado é um espetáculo complexo, empenhado e poético</p>",
-         "link": "https://expresso.pt/teatro-danca/2026-06-11-teatro-da-palestina-para-o-ccb-um-exercicio-de-montagem-99c5a3d5",
-         "author": "João Carneiro",
-         "published": 1781215020000,
-         "created": 1781215020000,
-         "category": "Teatro & Dança",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-06-09-2025_citemor_tetaro_do_vestido_susana_paiva_06_t-_idp.jpg-eb6844cb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-06-09-2025_citemor_tetaro_do_vestido_susana_paiva_06_t-_idp.jpg-eb6844cb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-06-09-2025_citemor_tetaro_do_vestido_susana_paiva_06_t-_idp.jpg-eb6844cb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "dcebe95c-c7cc-4be4-b95f-1397e085ae9e",
-         "title": "Quando Krugman estudou o comércio interestelar",
-         "description": "<p><span>Economista recebeu o Nobel pela teoria do comércio internacional. Em 1978, escrevia sobre viagens à velocidade da luz</span></p>",
-         "link": "https://expresso.pt/economia/2026-06-11-quando-krugman-estudou-o-comercio-interestelar-a34acfbd",
-         "author": "João Silvestre",
-         "published": 1781215020000,
-         "created": 1781215020000,
-         "category": "Economia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-06-10-gettyimages-83250092-_idp.jpg-4f5cbc38/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-06-10-gettyimages-83250092-_idp.jpg-4f5cbc38/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-06-10-gettyimages-83250092-_idp.jpg-4f5cbc38/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "5ea4d52f-dbe9-412b-914d-062ea035c718",
-         "title": "Como escrever uma coluna de política internacional?",
-         "description": "<p>Escrever esta coluna foi uma tarefa bem mais exigente do que pensei inicialmente</p>",
-         "link": "https://expresso.pt/opiniao/2026-06-11-como-escrever-uma-coluna-de-politica-internacional--7a8d1170",
-         "author": "Miguel Monjardino",
-         "published": 1781215020000,
-         "created": 1781215020000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
