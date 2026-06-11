@@ -1,10 +1,73 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3003467/kuwait-reabre-espaco-aereo-encerrado-apos-ataques-de-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Kuwait reabre espaço aéreo encerrado após ataques de Teerão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3003467/kuwait-reabre-espaco-aereo-encerrado-apos-ataques-de-teerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781168597000,
+         "created": 1781168597000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1fcbf882557.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3003483/onze-detidos-por-suspeita-de-trafico-em-varios-concelhos-do-grande-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Onze detidos por suspeita de tráfico em vários concelhos do Grande Porto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3003483/onze-detidos-por-suspeita-de-trafico-em-varios-concelhos-do-grande-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781168527000,
+         "created": 1781168527000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_683576a51eb34.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3003481/tres-marinheiros-indianos-mortos-em-ataque-dos-eua-no-golfo-de-oma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Três marinheiros indianos mortos em ataque dos EUA no Golfo de Omã",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3003481/tres-marinheiros-indianos-mortos-em-ataque-dos-eua-no-golfo-de-oma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781168277000,
+         "created": 1781168277000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68775ebf8d257.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3003484/conducao-automatizada-da-tesla-aprovada-em-mais-um-pais-da-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Condução automatizada da Tesla aprovada em mais um país da Europa",
@@ -608,27 +671,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2a503d5a3dd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MjgsImNyb3BIZWlnaHQiOjQxMCwiY3JvcFgiOjAsImNyb3BZIjoxOTN9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3003436/vem-ai-40c-tempo-quente-poe-todos-os-distritos-do-continente-a-amarelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vêm aí 40ºC! Tempo quente põe todos os distritos do continente a amarelo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3003436/vem-ai-40c-tempo-quente-poe-todos-os-distritos-do-continente-a-amarelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781161830000,
-         "created": 1781161830000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6897028d93372.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69edd72bc9bad.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjEwNzAsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3002392/segundo-premio-do-eurodreams-volta-a-sair-em-portugal-e-o-1-em-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Segundo prémio do EuroDreams volta a sair em Portugal (e o 1.º em França)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3002392/segundo-premio-do-eurodreams-volta-a-sair-em-portugal-e-o-1-em-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780954644000,
-         "created": 1780954644000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_657187b072fd6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3002393/benfica-faz-proposta-milionaria-para-segurar-schjelderup-mas-ha-entrave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Benfica faz proposta milionária para segurar Schjelderup, mas há entrave",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3002393/benfica-faz-proposta-milionaria-para-segurar-schjelderup-mas-ha-entrave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780954310000,
-         "created": 1780954310000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a272436ded04.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ3LCJjcm9wSGVpZ2h0IjoxNjg0LCJjcm9wWCI6OTIwLCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
