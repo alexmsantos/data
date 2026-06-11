@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3003977/israel-libertou-um-dos-fundadores-do-hamas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel libertou um dos fundadores do Hamas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3003977/israel-libertou-um-dos-fundadores-do-hamas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781222280000,
+         "created": 1781222280000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_688fc67605fb0.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3003440/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a282fb4a1d08.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/ultima-hora/3002844/oficial-atalanta-anuncia-saida-do-treinador-raffaele-palladino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oficial: Atalanta anuncia saída do treinador Raffaele Palladino",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/ultima-hora/3002844/oficial-atalanta-anuncia-saida-do-treinador-raffaele-palladino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781028533000,
-         "created": 1781028533000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a284854b2165.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIyMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjEzMCwiY3JvcEhlaWdodCI6Mzc4NiwiY3JvcFgiOjQwMywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
