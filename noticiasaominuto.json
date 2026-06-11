@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3003652/eua-apreenderam-terceiro-petroleiro-em-ormuz-por-violar-bloqueio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EUA apreenderam terceiro petroleiro em Ormuz por violar bloqueio",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3003652/eua-apreenderam-terceiro-petroleiro-em-ormuz-por-violar-bloqueio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781185519000,
+         "created": 1781185519000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1d8e719f7d6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNzF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3003642/luis-quintais-vence-grande-premio-de-literatura-dst-com-obra-nocturama#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Luís Quintais vence Grande Prémio de Literatura dst com obra \"Nocturama\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6453bf9abe938.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk3NSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3002541/ai-esta-a-terceira-camisola-do-fc-porto-para-2627-em-azul-celeste#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aí está a terceira camisola do FC Porto para 26/27... em azul celeste",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3002541/ai-esta-a-terceira-camisola-do-fc-porto-para-2627-em-azul-celeste#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780997723000,
-         "created": 1780997723000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a27ced13de85.webp",
                "type": "image/jpeg",
                "length": "0"
             }
