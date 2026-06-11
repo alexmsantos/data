@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3003448/la-fora-arranca-a-ultima-danca-de-cristiano-ronaldo-e-messi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lá fora: Arranca a \"última dança\" de Cristiano Ronaldo e Messi",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3003448/la-fora-arranca-a-ultima-danca-de-cristiano-ronaldo-e-messi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781162401000,
+         "created": 1781162401000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2a529e3fd3b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3NTAsImNyb3BIZWlnaHQiOjQyMiwiY3JvcFgiOjAsImNyb3BZIjoxOTJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3003438/fronteiras-da-ue-passam-a-ter-maior-controlo-a-partir-de-sexta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fronteiras da UE passam a ter maior controlo a partir de sexta-feira",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2710c051207.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3002357/promessas-e-apelos-a-financiamento-marcam-arranque-da-conferencia-de-bona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Promessas e apelos a financiamento marcam arranque da conferência de Bona",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3002357/promessas-e-apelos-a-financiamento-marcam-arranque-da-conferencia-de-bona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1780948559000,
-         "created": 1780948559000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a27103e5c389.webp",
                "type": "image/jpeg",
                "length": "0"
             }
