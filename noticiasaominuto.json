@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3004082/nato-reduz-missao-no-kosovo-devido-a-melhoria-das-condicoes-de-seguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "NATO reduz missão no Kosovo devido a melhoria das condições de segurança",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3004082/nato-reduz-missao-no-kosovo-devido-a-melhoria-das-condicoes-de-seguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781255905000,
+         "created": 1781255905000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6213b5127565a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3004055/lisboa-tem-cheiro-de-marchas-manjericos-e-arraiais-o-guia-completo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lisboa tem cheiro de marchas, manjericos e arraiais. O guia completo",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_60af8646f0bc9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNTN9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3002942/moreirense-oficializa-equipa-de-sub-23-com-henrique-abreu-a-treinador#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moreirense oficializa equipa de sub-23 com Henrique Abreu a treinador",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3002942/moreirense-oficializa-equipa-de-sub-23-com-henrique-abreu-a-treinador#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781037400000,
-         "created": 1781037400000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69be9ff3e191d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQxLCJjcm9wSGVpZ2h0IjoxNjczLCJjcm9wWCI6ODk2LCJjcm9wWSI6MTd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
