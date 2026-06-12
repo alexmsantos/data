@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3004441/incendio-em-gondomar-mobiliza-mais-de-100-operacionais-e-2-meios-aereos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio em Gondomar mobiliza mais de 100 operacionais e 2 meios aéreos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3004441/incendio-em-gondomar-mobiliza-mais-de-100-operacionais-e-2-meios-aereos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781284698000,
+         "created": 1781284698000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2c30e41ea5d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NDgsImNyb3BIZWlnaHQiOjI1MiwiY3JvcFgiOjQsImNyb3BZIjoxNTl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3004435/presidente-russo-promete-rede-de-satelites-superior-a-starlink#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Presidente russo promete rede de satélites superior a Starlink",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/38661330.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3003207/irao-demoraram-a-negociar-acordo-que-teria-sido-otimo-agora-vao-pagar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Irão? \"Demoraram a negociar acordo que teria sido ótimo. Agora vão pagar\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3003207/irao-demoraram-a-negociar-acordo-que-teria-sido-otimo-agora-vao-pagar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781097995000,
-         "created": 1781097995000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a295800d5165.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkzLCJjcm9wSGVpZ2h0IjoxNDAzLCJjcm9wWCI6MCwiY3JvcFkiOjMwNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTA2NCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
