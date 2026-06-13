@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3004829/homem-e-crianca-de-12-anos-resgatados-do-mar-na-praia-da-areia-branca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Homem e criança de 12 anos resgatados do mar na praia da Areia Branca",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3004829/homem-e-crianca-de-12-anos-resgatados-do-mar-na-praia-da-areia-branca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781386456000,
+         "created": 1781386456000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2dbe2b9bea1.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUxNiwiY3JvcEhlaWdodCI6OTE4LCJjcm9wWCI6MTIwMywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3004827/recem-nascido-abandonado-em-floresta-em-franca-mae-de-19-anos-acusada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Recém-nascido abandonado em floresta em França. Mãe de 19 anos acusada",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2aa697a564b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTc3LCJjcm9wWSI6MjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3003639/prestacao-da-casa-vai-mesmo-subir-bce-aumenta-taxas-de-juro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Prestação da casa vai mesmo subir: BCE aumenta taxas de juro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3003639/prestacao-da-casa-vai-mesmo-subir-bce-aumenta-taxas-de-juro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781183700000,
-         "created": 1781183700000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2aa6dcf2716.webp",
                "type": "image/jpeg",
                "length": "0"
             }
