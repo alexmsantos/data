@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3004652/por-ca-marco-silva-quer-ser-campeao-e-villas-boas-nega-lewandowski#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Por cá: Marco Silva quer ser \"campeão\" e Villas-Boas nega Lewandowski",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3004652/por-ca-marco-silva-quer-ser-campeao-e-villas-boas-nega-lewandowski#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781335467000,
+         "created": 1781335467000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2cf5fdd366d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NjAsImNyb3BIZWlnaHQiOjQ4NCwiY3JvcFgiOjAsImNyb3BZIjoxNzR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3004635/mulher-em-estado-critico-apos-ser-mordida-por-tubarao-no-sul-da-australia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mulher em estado crítico após ser mordida por tubarão no sul da Austrália",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_689fb8adc88d2.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3003401/trump-diz-que-teerao-pede-a-washington-para-cessar-ataques#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trump diz que Teerão pede a Washington para cessar ataques",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3003401/trump-diz-que-teerao-pede-a-washington-para-cessar-ataques#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781145700000,
-         "created": 1781145700000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69bdb39467d87.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjgzNSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
