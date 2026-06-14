@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3005057/em-direto-siga-a-conferencia-de-imprensa-de-um-jogador-de-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Conferência de imprensa de Portugal cancelada. Treino em risco",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3005057/em-direto-siga-a-conferencia-de-imprensa-de-um-jogador-de-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781479981000,
+         "created": 1781479981000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47286333.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzMiwiY3JvcEhlaWdodCI6MTY1NywiY3JvcFgiOjE3MiwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3005076/trump-confirma-acordo-e-anuncia-reabertura-do-estreito-de-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Trump confirma acordo e anuncia reabertura do Estreito de Ormuz",
@@ -104,27 +125,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_696dd5b337954.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjY2MywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3005057/em-direto-siga-a-conferencia-de-imprensa-de-um-jogador-de-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Conferência de imprensa de Portugal cancelada. Treino em risco",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3005057/em-direto-siga-a-conferencia-de-imprensa-de-um-jogador-de-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781476382000,
-         "created": 1781476382000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2f29d36b7e7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIxMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM3LCJjcm9wSGVpZ2h0IjoxNjY2LCJjcm9wWCI6NzI1LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
