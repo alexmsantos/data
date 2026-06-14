@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3004898/entendeu-a-pergunta-que-deixou-ancelotti-de-mao-na-cabeca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Entendeu?\". A pergunta que deixou Ancelotti de mão na cabeça",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3004898/entendeu-a-pergunta-que-deixou-ancelotti-de-mao-na-cabeca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781424365000,
+         "created": 1781424365000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2e51ec21453.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3004309/precisa-de-atestar-saiba-se-e-melhor-ir-ja-a-bomba-ou-esperar-por-amanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Precisa de atestar? Saiba se é melhor ir já à bomba ou esperar por amanhã",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/45931474.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3003704/subida-das-taxas-de-juro-nao-era-absolutamente-necessaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Subida das taxas de juro \"não era absolutamente necessária\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3003704/subida-das-taxas-de-juro-nao-era-absolutamente-necessaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781190000000,
-         "created": 1781190000000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/46717913.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQyLCJjcm9wSGVpZ2h0IjoxNjc1LCJjcm9wWCI6NzQ2LCJjcm9wWSI6MTV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
