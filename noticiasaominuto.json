@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3004966/ja-ha-arbitro-para-o-jogo-de-estreia-de-portugal-no-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Já há árbitro para o jogo de estreia de Portugal no Mundial",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3004966/ja-ha-arbitro-para-o-jogo-de-estreia-de-portugal-no-mundial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781444460000,
+         "created": 1781444460000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3004960/russia-acusa-londres-de-desviar-atencoes-com-petroleiro-de-frota-fantasma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rússia acusa Londres de desviar atenções com petroleiro de frota fantasma",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_689b9c2564a5f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMTZ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3003505/f1-chega-a-peninsula-iberica-horarios-e-novidades-do-gp-de-barcelona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "F1 chega à Península Ibérica: Horários (e novidades) do GP de Barcelona",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3003505/f1-chega-a-peninsula-iberica-horarios-e-novidades-do-gp-de-barcelona#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781200951000,
-         "created": 1781200951000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2a7367c97c3.webp",
                "type": "image/jpeg",
                "length": "0"
             }
