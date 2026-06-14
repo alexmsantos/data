@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3004938/pela-primeira-vez-uma-selecao-jogou-no-mundial-so-com-estrangeiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pela primeira vez, uma seleção jogou no Mundial só com 'estrangeiros' ",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3004938/pela-primeira-vez-uma-selecao-jogou-no-mundial-so-com-estrangeiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781438922000,
+         "created": 1781438922000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2e897f056d1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIyMH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3004944/uls-amadora-sintra-apela-a-dadiva-de-sangue-com-maratona-solidaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "ULS Amadora-Sintra apela à dádiva de sangue com maratona solidária",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3004944/uls-amadora-sintra-apela-a-dadiva-de-sangue-com-maratona-solidaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781438920000,
+         "created": 1781438920000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5c12439e95654.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3004942/sismo-nas-filipinas-provoca-subida-do-fundo-do-oceano-ate-dois-metros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sismo nas Filipinas provoca subida do fundo do oceano até dois metros",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6975fd76afe92.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjMwfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3003777/angola-tem-28-milhoes-de-utilizadores-de-telemoveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Angola tem 28 milhões de utilizadores de telemóveis",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3003777/angola-tem-28-milhoes-de-utilizadores-de-telemoveis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781198276000,
-         "created": 1781198276000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/30582022.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3003772/prova-digital-ar-tem-duvidas-e-remete-proposta-para-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Prova digital? AR tem dúvidas e remete proposta para especialidade",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3003772/prova-digital-ar-tem-duvidas-e-remete-proposta-para-especialidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781197982000,
-         "created": 1781197982000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67d672201e18c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjcyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDYsImNyb3BYIjozNjgsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
