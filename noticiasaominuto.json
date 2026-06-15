@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3005236/sporting-entra-na-corrida-por-aurelien-guernier-mas-nao-esta-sozinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sporting entra na corrida por Aurelien Guernier, mas não está sozinho",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3005236/sporting-entra-na-corrida-por-aurelien-guernier-mas-nao-esta-sozinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781519288000,
+         "created": 1781519288000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2fc586cdbe4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6NTd9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3005235/psp-reforca-vigilancia-em-zonas-mais-procuradas-durante-o-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PSP reforça vigilância em zonas mais procuradas durante o verão",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_686f984cb2ebc.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3004092/sai-irritado-da-seguranca-social-das-caldas-da-rainha-e-agride-gravida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Homem sai irritado da Segurança Social e agride grávida nas Caldas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3004092/sai-irritado-da-seguranca-social-das-caldas-da-rainha-e-agride-gravida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781257393000,
-         "created": 1781257393000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67fd21a4d20ee.webp",
                "type": "image/jpeg",
                "length": "0"
             }
