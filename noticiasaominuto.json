@@ -1,10 +1,73 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3005323/sidny-cabral-fala-do-benfica-e-de-mourinho-se-tivesse-ficado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sidny Cabral fala do Benfica e de Mourinho: \"Se tivesse ficado...\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3005323/sidny-cabral-fala-do-benfica-e-de-mourinho-se-tivesse-ficado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781525693000,
+         "created": 1781525693000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1fbf44384f0.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3005329/carros-da-opel-chamados-a-oficina-por-risco-de-incendio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Carros da Opel chamados à oficina por risco de incêndio",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3005329/carros-da-opel-chamados-a-oficina-por-risco-de-incendio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781525630000,
+         "created": 1781525630000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2fde1b88443.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/fama/3005296/catarina-miranda-apaixonada-por-vestido-de-227-euros-de-cristina-ferreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Catarina Miranda apaixonada por vestido de 227 euros de Cristina Ferreira",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/3005296/catarina-miranda-apaixonada-por-vestido-de-227-euros-de-cristina-ferreira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781525367000,
+         "created": 1781525367000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2fd1dc52d23.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDUsImNyb3BZIjoxMDE4fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3005316/apav-apoiou-8540-idosos-vitimas-de-violencia-em-cinco-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "APAV apoiou 8.540 idosos vítimas de violência em cinco anos",
@@ -14636,69 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67deeb489d20c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3004216/luisa-neto-falha-eleicao-para-o-cargo-de-provedora-da-justica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Luísa Neto falha eleição para o cargo de provedora da Justiça",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3004216/luisa-neto-falha-eleicao-para-o-cargo-de-provedora-da-justica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781268166000,
-         "created": 1781268166000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68679b2b8a25f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzk2LCJjcm9wSGVpZ2h0IjoxMzQ4LCJjcm9wWCI6NjcsImNyb3BZIjozMzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjczMSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3004206/dupla-detida-durante-furto-de-quiosque-no-barreiro-perdas-em-3-mil-#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dupla detida durante furto de quiosque no Barreiro. Perdas de 3 mil€",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3004206/dupla-detida-durante-furto-de-quiosque-no-barreiro-perdas-em-3-mil-#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781268085000,
-         "created": 1781268085000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_555a728f319fd.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3004185/oms-epidemia-do-ebola-continua-a-alastrar-se-na-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "OMS: Epidemia do ébola continua a alastrar-se na RDCongo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3004185/oms-epidemia-do-ebola-continua-a-alastrar-se-na-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781268048000,
-         "created": 1781268048000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_53eb4e63a2393.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNzAxLCJjcm9wSGVpZ2h0IjoxNTE5LCJjcm9wWCI6NTYsImNyb3BZIjoyNzB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwNTAsImNyb3BIZWlnaHQiOjE4NjYsImNyb3BYIjoxMjgxLCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
