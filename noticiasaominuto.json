@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3006356/bombardeiro-despenha-se-em-missao-na-ucrania-ha-dois-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bombardeiro despenha-se em missão na Ucrânia. Há dois mortos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3006356/bombardeiro-despenha-se-em-missao-na-ucrania-ha-dois-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781651069000,
+         "created": 1781651069000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6920af6430763.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3006139/lealdade-e-dinheiro-saiba-o-que-vao-atrair-brevemente-estes-3-signos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lealdade e dinheiro: Saiba o que vão atrair (brevemente) estes 3 signos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47286969.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3005095/treino-de-portugal-cancelado-devido-a-tempestade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Treino de Portugal cancelado devido a tempestade",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3005095/treino-de-portugal-cancelado-devido-a-tempestade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781503293000,
-         "created": 1781503293000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47286387.webp",
                "type": "image/jpeg",
                "length": "0"
             }
