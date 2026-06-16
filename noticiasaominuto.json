@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3006298/pneu-desprende-se-de-camiao-e-mata-homem-em-leiria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pneu desprende-se de camião e mata homem em Leiria",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3006298/pneu-desprende-se-de-camiao-e-mata-homem-em-leiria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781641413000,
+         "created": 1781641413000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5b05b3507ba6f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyODAwLCJjcm9wSGVpZ2h0IjoxNTc1LCJjcm9wWCI6MCwiY3JvcFkiOjIzN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA1MSwiY3JvcEhlaWdodCI6MTg2OCwiY3JvcFgiOjExNywiY3JvcFkiOi0xfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3006102/agora-sem-condutor-xiaomi-tera-batido-novo-recorde-em-nurburgring#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Agora sem condutor? Xiaomi terá batido novo recorde em Nürburgring",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47283387.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MCwiY3JvcEhlaWdodCI6MTY3MSwiY3JvcFgiOjEzMDcsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3005030/antonio-jose-seguro-felicita-medalhas-nos-europeus-de-canoagem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "António José Seguro felicita medalhas nos europeus de canoagem",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3005030/antonio-jose-seguro-felicita-medalhas-nos-europeus-de-canoagem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781462916000,
-         "created": 1781462916000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69898ec997f85.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIwNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM1LCJjcm9wSGVpZ2h0IjoxNjYzLCJjcm9wWCI6ODA5LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
