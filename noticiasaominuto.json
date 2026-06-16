@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3006244/tribunal-condena-chefe-da-marinha-a-multa-de-816-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tribunal condena chefe da Marinha a multa de 816 euros",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3006244/tribunal-condena-chefe-da-marinha-a-multa-de-816-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781635487000,
+         "created": 1781635487000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6707aeffa3d21.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3006088/fastback-chines-da-hyundai-debita-225-cv-e-supera-600-km-de-autonomia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fastback chinês da Hyundai debita 225 cv e supera 600 km de autonomia",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67e681e37fadb.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3004979/irao-ameaca-romper-negociacoes-apos-ataque-israelita-ao-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Irão ameaça romper negociações após ataque israelita ao Líbano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3004979/irao-ameaca-romper-negociacoes-apos-ataque-israelita-ao-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781450108000,
-         "created": 1781450108000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69c5681c9579f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
