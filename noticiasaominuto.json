@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3006600/em-direto-benfica-conhece-adversario-para-a-2-pre-eliminatoria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Benfica já sabe quem irá defrontar na segunda pré-eliminatória ",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3006600/em-direto-benfica-conhece-adversario-para-a-2-pre-eliminatoria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781699332000,
+         "created": 1781699332000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6702af07c6918.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3006583/apos-polemica-catarina-miranda-anuncia-nova-conquista-nao-foi-sorte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Após polémica, Catarina Miranda anuncia nova conquista: \"Não foi sorte\"",
@@ -440,27 +461,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_685e9e5443cd3.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImNlbnRlci1yaWdodCJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3006600/em-direto-benfica-conhece-adversario-para-a-2-pre-eliminatoria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Benfica conhece adversário para a 2.ª pré-eliminatória",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3006600/em-direto-benfica-conhece-adversario-para-a-2-pre-eliminatoria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781696700000,
-         "created": 1781696700000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6702af07c6918.webp",
                "type": "image/jpeg",
                "length": "0"
             }
