@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3007171/depois-do-desaire-portugal-ja-so-pensa-no-duelo-com-o-uzbequistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Depois do desaire, Portugal já só pensa no duelo com o Uzbequistão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3007171/depois-do-desaire-portugal-ja-so-pensa-no-duelo-com-o-uzbequistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781778871000,
+         "created": 1781778871000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a33bb7117e68.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3007274/taxa-euribor-sobe-a-tres-a-seis-e-a-12-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Taxa Euribor sobe a três, a seis e a 12 meses",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/46774186.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3005958/mourinho-decide-carreras-saida-na-calha-um-ano-apos-chegar-do-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mourinho decide Carreras. Saída na calha, um ano após chegar do Benfica",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3005958/mourinho-decide-carreras-saida-na-calha-um-ano-apos-chegar-do-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781612387000,
-         "created": 1781612387000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69d4c7a79362f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzU5LCJjcm9wWSI6Mzl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
