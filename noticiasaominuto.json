@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3007955/preso-em-franca-um-homem-acusado-de-espionagem-a-soldo-da-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Preso em frança um homem acusado de espionagem a soldo da Rússia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3007955/preso-em-franca-um-homem-acusado-de-espionagem-a-soldo-da-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781871365000,
+         "created": 1781871365000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_685d17eb65768.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3007930/encontra-tres-cadaveres-em-casa-que-comprou-em-leilao-por-meio-milhao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Encontra três cadáveres em casa que comprou em leilão por meio milhão",
@@ -15,7 +36,7 @@
          },
          "published": 1781871039000,
          "created": 1781871039000,
-         "category": "País",
+         "category": "Mundo",
          "content": "",
          "enclosures": [
             {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3299dd9473c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3006687/governo-preve-maioria-dos-pedidos-concluida-ate-30-de-junho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo prevê maioria dos pedidos concluída até 30 de junho",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3006687/governo-preve-maioria-dos-pedidos-concluida-ate-30-de-junho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781704280000,
-         "created": 1781704280000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47301752.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjY1NywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
