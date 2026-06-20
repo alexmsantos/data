@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3008580/em-direto-acompanhe-a-conferencia-de-imprensa-da-selecao-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O peso de Cristiano Ronaldo e os críticos de Portugal. O que disse Dalot",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3008580/em-direto-acompanhe-a-conferencia-de-imprensa-da-selecao-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781971577000,
+         "created": 1781971577000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a369f862beed.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3008586/pelo-menos-cinco-mortos-em-ataques-israelitas-a-faixa-de-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pelo menos cinco mortos em ataques israelitas à Faixa de Gaza",
@@ -104,27 +125,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6825b9281c541.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3008580/em-direto-acompanhe-a-conferencia-de-imprensa-da-selecao-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Acompanhe a conferência de imprensa de Diogo Dalot",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3008580/em-direto-acompanhe-a-conferencia-de-imprensa-da-selecao-nacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781968080000,
-         "created": 1781968080000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a369f862beed.webp",
                "type": "image/jpeg",
                "length": "0"
             }
