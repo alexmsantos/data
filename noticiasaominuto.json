@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Já começou o duelo entre os Países Baixos e Suécia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1781978416000,
+         "created": 1781978416000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a369fff8d7db.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3008622/encontrado-corpo-de-homem-desaparecido-em-barragem-em-alcacer-do-sal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Encontrado corpo de homem desaparecido em barragem em Alcácer do Sal",
@@ -272,27 +293,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2ffbea096d5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI3Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjE2MCwiY3JvcEhlaWdodCI6Mzg0MCwiY3JvcFgiOjMyOCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Décimo dia arranca com Gyokeres em ação ante Países Baixos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781974794000,
-         "created": 1781974794000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a369fff8d7db.webp",
                "type": "image/jpeg",
                "length": "0"
             }
