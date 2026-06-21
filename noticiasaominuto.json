@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3008979/incendio-rural-no-distrito-de-beja-ja-esta-em-fase-de-rescaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio rural no distrito de Beja já está em fase de rescaldo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3008979/incendio-rural-no-distrito-de-beja-ja-esta-em-fase-de-rescaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782083830000,
+         "created": 1782083830000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6910f161a72c6.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3008980/mbappe-diz-que-messi-e-o-melhor-mas-nao-esquece-cristiano-ronaldo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mbappé diz que Messi é o melhor, mas não esquece Cristiano Ronaldo",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6900fe1858fdd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3005883/por-me-em-causa-como-cantor-e-dificil-nunca-ouvi-dizer-o-toy-desafina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Pôr-me em causa como cantor é difícil. Nunca ouvi dizer o Toy desafina\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3005883/por-me-em-causa-como-cantor-e-dificil-nunca-ouvi-dizer-o-toy-desafina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781858100000,
-         "created": 1781858100000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a315cbe14e35.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTIxLCJjcm9wSGVpZ2h0Ijo4NTYsImNyb3BYIjo4ODcsImNyb3BZIjo1OTh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEyNTksImNyb3BZIjozMTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
