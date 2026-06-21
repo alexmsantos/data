@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Japão 'destrói' Tunísia após madrugada histórica para Curaçau",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782024962000,
+         "created": 1782024962000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a376b30608ab.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/3008759/festival-de-annecy-comeca-com-cinema-portugues-de-animacao-na-competicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Festival de Annecy começa com cinema português de animação na competição",
@@ -461,27 +482,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a372a47ed1d4.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Joga-se o Tunísia-Japão depois de Curaçau fazer história",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3008582/em-direto-decimo-dia-arranca-com-gyokeres-em-acao-ante-paises-baixos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781999798000,
-         "created": 1781999798000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a376b30608ab.webp",
                "type": "image/jpeg",
                "length": "0"
             }
