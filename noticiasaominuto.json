@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3008961/israel-anuncia-levantamento-de-restricoes-junto-a-fronteira-com-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel anuncia levantamento de restrições junto à fronteira com Líbano",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3008961/israel-anuncia-levantamento-de-restricoes-junto-a-fronteira-com-libano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782074988000,
+         "created": 1782074988000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1ab129d29bc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3008958/oscar-garcia-esta-de-saida-do-ajax-apos-maus-resultados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Óscar Garcia está de saída do Ajax após maus resultados",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68892df6ef05c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3007843/segundo-bmw-da-nova-era-ja-pode-ser-encomendado-estes-sao-os-precos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Segundo BMW da nova era já pode ser encomendado. Estes são os preços",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3007843/segundo-bmw-da-nova-era-ja-pode-ser-encomendado-estes-sao-os-precos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781855465000,
-         "created": 1781855465000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a34e6af3445d.webp",
                "type": "image/jpeg",
                "length": "0"
             }
