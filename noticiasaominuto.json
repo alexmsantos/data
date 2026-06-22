@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3009362/avistou-um-lobo-marinho-na-praia-estas-sao-as-boas-praticas-a-adotar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Avistou um lobo-marinho na praia? Estas são as \"boas práticas\" a adotar",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3009362/avistou-um-lobo-marinho-na-praia-estas-sao-as-boas-praticas-a-adotar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782144464000,
+         "created": 1782144464000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a394b4b7e509.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3009366/ferrari-luce-obrigatorio-para-aceder-a-outros-modelos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ferrari Luce \"obrigatório\" para aceder a outros modelos?",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3570a07f60b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3008241/mne-paquistanes-reune-se-domingo-com-homologos-do-medio-oriente-no-cairo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "MNE paquistanês reúne-se domingo com homólogos do Médio Oriente no Cairo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3008241/mne-paquistanes-reune-se-domingo-com-homologos-do-medio-oriente-no-cairo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781891754000,
-         "created": 1781891754000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68cac2c01d233.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OCwiY3JvcEhlaWdodCI6MTcwMywiY3JvcFgiOjk0NiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
