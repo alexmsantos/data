@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3009783/40-pessoas-morreram-afogadas-em-franca-desde-inicio-de-onda-calor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "40 pessoas morreram afogadas em França desde início de onda calor ",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3009783/40-pessoas-morreram-afogadas-em-franca-desde-inicio-de-onda-calor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782211192000,
+         "created": 1782211192000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3009771/oficial-norberto-alves-deixa-benfica-por-razoes-de-ordem-pessoal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oficial: Norberto Alves deixa Benfica por \"razões de ordem pessoal\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69c5641670898.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjExMTYsImNyb3BZIjoxOH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3008596/por-nao-suportarem-nao-estar-no-governo-fizeram-da-reforma-uma-afronta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Por não suportarem não estar no Governo, fizeram da reforma uma afronta\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3008596/por-nao-suportarem-nao-estar-no-governo-fizeram-da-reforma-uma-afronta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1781973219000,
-         "created": 1781973219000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a36bc77954cb.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjUzNCwiY3JvcFkiOjB9LCJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjo3OH19",
                "type": "image/jpeg",
                "length": "0"
             }
