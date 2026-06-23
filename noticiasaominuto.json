@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3010131/ministerio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Prova de matemática online? \"Lamentável, mas sem impacto\", diz ministério",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3010131/ministerio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782243853000,
+         "created": 1782243853000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5b473bfc7234e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3010120/selecao-do-brasil-quer-ser-pioneira-na-neutralidade-carbonica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Seleção do Brasil quer ser pioneira na neutralidade carbónica",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_562b8c20680ed.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3008887/mario-branco-perentorio-pavlidis-vai-ficar-no-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mário Branco perentório: \"Pavlidis vai ficar no Benfica\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3008887/mario-branco-perentorio-pavlidis-vai-ficar-no-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782053646000,
-         "created": 1782053646000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69dbde32a2d4f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
