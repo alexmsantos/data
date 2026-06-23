@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "462c8611-3f65-4f64-ac75-78a8e1d73e4b",
+         "title": "Há gente internada por menos",
+         "description": "<p><span>A falência do estado nas mãos de Trump é um espetáculo agradável para um libertário como Peter Thiel</span></p>",
+         "link": "https://expresso.pt/opiniao/2026-06-23-ha-gente-internada-por-menos-781a8ce8",
+         "author": "Clara Ferreira Alves",
+         "published": 1782195753000,
+         "created": 1782195753000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "c9e057ee-5193-4051-9a33-5587afe77023",
          "title": "Portugal não sabe quantas Unidades Locais de Proteção Civil tem",
          "description": "<p><span>Apesar da reorganização da Proteção Civil, ninguém sabe quantas estruturas locais existem, com que meios e como se coordenam estas unidades que deveriam representar </span><span>a </span><span>primeira linha de prevenção e proteção dos territórios</span></p>",
@@ -205,38 +234,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "69e18002-4c35-4052-ba43-09b61e6d2e3a",
-         "title": "Sete líderes em 10 anos: O Reino Unido não se governa, nem se deixa governar?",
-         "description": "<p>À procura de entender a política britânica, conversamos com o editor de Internacional do Expresso, Pedro Cordeiro</p>",
-         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-06-23-sete-lideres-em-10-anos-o-reino-unido-nao-se-governa-nem-se-deixa-governar--7bada122",
-         "author": [
-            "Paulo Baldaia",
-            "Rúben Tiago Pereira"
-         ],
-         "published": 1782192600000,
-         "created": 1782192600000,
-         "category": "Expresso da Manhã",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
