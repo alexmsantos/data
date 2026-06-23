@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/3009887/medica-alerta-para-sintoma-de-cancro-da-pele-que-costuma-ser-ignorado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Médica alerta para sintoma de cancro da pele que costuma ser ignorado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/3009887/medica-alerta-para-sintoma-de-cancro-da-pele-que-costuma-ser-ignorado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782223952000,
+         "created": 1782223952000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3a83f64b7bd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYzMywiY3JvcEhlaWdodCI6MTEyNSwiY3JvcFgiOjI3MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3009886/pulseira-da-selecao-dedicada-a-diogo-jota-junta-se-a-luta-contra-o-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pulseira da seleção dedicada a Diogo Jota junta-se à luta contra o cancro",
@@ -511,7 +532,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/tech/3009856/oracle-corta-23000-postos-de-trabalho-devido-a-ia-e-nao-ficara-por-aqui#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oracle corta 23.000 postos de trabalho devido à IA. E não ficará por aqui",
+         "title": "Oracle corta 21.000 postos de trabalho devido à IA. E não ficará por aqui",
          "description": "",
          "link": "https://www.noticiasaominuto.com/tech/3009856/oracle-corta-23000-postos-de-trabalho-devido-a-ia-e-nao-ficara-por-aqui#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a38001c3b1b9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3008733/estragos-a-vista-yamal-treina-regresso-a-forma-ja-com-pontaria-afinada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estragos à vista? Yamal treina regresso à forma, já com pontaria afinada",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3008733/estragos-a-vista-yamal-treina-regresso-a-forma-ja-com-pontaria-afinada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782000300000,
-         "created": 1782000300000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a372a47ed1d4.webp",
                "type": "image/jpeg",
                "length": "0"
             }
