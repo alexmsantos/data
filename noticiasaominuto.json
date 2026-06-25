@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3011006/ha-um-novo-porsche-911-com-500-cv-nao-o-vai-poder-conduzir-na-estrada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Há um novo Porsche 911 com 500 cv. Não o vai poder conduzir na estrada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3011006/ha-um-novo-porsche-911-com-500-cv-nao-o-vai-poder-conduzir-na-estrada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782417836000,
+         "created": 1782417836000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3ce14245437.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3011328/em-direto-ultima-ronda-do-mundial-prossegue-e-portugal-pode-apurar-se#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Última ronda do Mundial prossegue e Portugal pode apurar-se",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6889160793fde.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIyNH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3010217/cristiano-ronaldo-fez-historia-por-portugal-no-mundial-e-reagiu-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cristiano Ronaldo fez história por Portugal no Mundial e reagiu... assim",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3010217/cristiano-ronaldo-fez-historia-por-portugal-no-mundial-e-reagiu-assim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782257270000,
-         "created": 1782257270000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3b078000bcd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDIxLCJjcm9wSGVpZ2h0Ijo3OTksImNyb3BYIjotMSwiY3JvcFkiOjU2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0ODcsImNyb3BIZWlnaHQiOjg2NSwiY3JvcFgiOjUzMiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
