@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3011887/ue-renova-sancoes-contra-nove-individuos-e-uma-entidade-no-haiti#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "UE renova sanções contra nove indivíduos e uma entidade no Haiti",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3011887/ue-renova-sancoes-contra-nove-individuos-e-uma-entidade-no-haiti#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782485913000,
+         "created": 1782485913000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5684d95041b7c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3011883/venezuela-equipa-portuguesa-tem-muita-experiencia-de-onde-vem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Venezuela. Equipa portuguesa tem \"muita experiência\". De onde vêm?",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a35ba5f1dbd1.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3010626/sociedade-portuguesa-questiona-rigor-e-equidade-do-exame-de-matematica-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sociedade Portuguesa questiona rigor e equidade do exame de Matemática A",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3010626/sociedade-portuguesa-questiona-rigor-e-equidade-do-exame-de-matematica-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782319815000,
-         "created": 1782319815000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6979fe6888437.webp",
                "type": "image/jpeg",
                "length": "0"
             }
