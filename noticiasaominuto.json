@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3011543/sucesso-no-mundial-recorde-de-assistencia-com-3605357-espetadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sucesso no Mundial. Recorde de assistência com 3.605.357 espetadores",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3011543/sucesso-no-mundial-recorde-de-assistencia-com-3605357-espetadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782464839000,
+         "created": 1782464839000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3e3323ccf70.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3011636/empilhados-procuradora-critica-mp-por-falhar-prazos-nos-inqueritos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Empilhados\". Procuradora critica MP por falhar prazos nos inquéritos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3baceb9dbde.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3010416/dias-de-calor-humido-perigoso-mais-que-duplicaram-desde-1970#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dias de calor húmido perigoso mais que duplicaram desde 1970",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3010416/dias-de-calor-humido-perigoso-mais-que-duplicaram-desde-1970#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782299171000,
-         "created": 1782299171000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47182153.webp",
                "type": "image/jpeg",
                "length": "0"
             }
