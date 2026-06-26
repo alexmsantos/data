@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3011776/venezuela-onu-estima-que-ate-6-76-milhoes-tenham-sido-afetados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Venezuela: ONU estima que até 6,76 milhões tenham sido afetados",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3011776/venezuela-onu-estima-que-ate-6-76-milhoes-tenham-sido-afetados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782477123000,
+         "created": 1782477123000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3e6344c51b8.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3011769/francisco-costa-eleito-o-melhor-andebolista-jovem-da-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Francisco Costa eleito o melhor andebolista jovem da Europa",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3bd8f6033ee.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3010570/fenprof-critica-reducao-de-vagas-para-professores-de-portugues-e-frances#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fenprof critica redução de vagas para professores de Português e Francês",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3010570/fenprof-critica-reducao-de-vagas-para-professores-de-portugues-e-frances#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782313334000,
-         "created": 1782313334000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a27054c98d87.webp",
                "type": "image/jpeg",
                "length": "0"
             }
