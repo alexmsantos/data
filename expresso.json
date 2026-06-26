@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "51c2a554-add6-43f7-b727-1ab09d6feac6",
+         "title": "“I completely lost my voice. I thought that I wasn’t going to sing again. I don't know how to do anything that's not related to music”",
+         "description": "<p><span>Sophia Tavares was nominated for Best New Talent at the 2026 IPMA. She sat down with Tony Gonçalves to talk about her love for music and how she almost lost her voice</span></p>",
+         "link": "https://expresso.pt/podcasts/the-heart-and-hustle-of-portugal/2026-06-26-i-completely-lost-my-voice.-i-thought-that-i-wasnt-going-to-sing-again.-i-dont-know-how-to-do-anything-thats-not-related-to-music-e39d4a0b",
+         "author": [
+            "Tony Gonçalves",
+            "João Luís Amorim"
+         ],
+         "published": 1782453660000,
+         "created": 1782453660000,
+         "category": "The Heart and Hustle of Portugal",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-25-sophia-tavares-3bc1f47f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-25-sophia-tavares-3bc1f47f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-25-sophia-tavares-3bc1f47f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "870ad805-45f9-47e3-9131-a95fe04aa7d6",
          "title": "Por que os sismos matam na Venezuela e poupam vidas no Japão? E quando for em Portugal?",
          "description": "<p>Na Venezuela, dois sismos gémeos de magnitude 7,2 e 7,5, provocaram centenas de mortes. Meia hora depois, um sismo de magnitude 7,2 no Japão não registou vítimas. E quando for em Portugal, que continuam a construir hospitais sem protecção sísmica? À procura de respostas, Paulo Baldaia conversa com Mónica Amaral Ferreira, investigadora na área do risco sísmico do Centro Europeu de Riscos Urbanos e do CERIS/Instituto Superior Técnico, no Expresso da Manhã</p>",
@@ -186,35 +218,6 @@
          "category": "Sociedade",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "dfeec236-5943-42b6-9922-97a47001877a",
-         "title": "Uma goleada contra o barulho e para aliviar a porrada",
-         "description": "<p>Após o empate a abrir, Portugal derrotou (5-0) o Usbequistão, com bis de Ronaldo. Segue-se a difícil Colômbia</p>",
-         "link": "https://expresso.pt/tribuna/2026-06-25-uma-goleada-contra-o-barulho-e-para-aliviar-a-porrada-58f2ae4d",
-         "author": "Pedro Barata",
-         "published": 1782424620000,
-         "created": 1782424620000,
-         "category": "Tribuna",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-06-25-alta-2282997508_t-_idp.jpg-dbfb0920/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-06-25-alta-2282997508_t-_idp.jpg-dbfb0920/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-06-25-alta-2282997508_t-_idp.jpg-dbfb0920/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
