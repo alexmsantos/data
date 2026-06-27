@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3012383/joao-diogo-manteigas-desafia-rui-costa-e-atira-skriniar-ou-gimenez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "João Diogo Manteigas desafia Rui Costa e atira: \"Skriniar ou Giménez?\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3012383/joao-diogo-manteigas-desafia-rui-costa-e-atira-skriniar-ou-gimenez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782588668000,
+         "created": 1782588668000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68fccefd8f114.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI0LCJjcm9wSGVpZ2h0Ijo1NzYsImNyb3BYIjowLCJjcm9wWSI6MTQ0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1MDgsImNyb3BIZWlnaHQiOjkwMiwiY3JvcFgiOjIyMywiY3JvcFkiOjJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3012382/sao-tome-atos-de-campanha-antes-do-periodo-oficial-serao-penalizados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "São Tomé: Atos de campanha antes do período oficial serão penalizados",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69d75db39c634.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3011257/michelle-bolsonaro-rompe-com-candidatura-de-flavio-bolsonaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Michelle Bolsonaro rompe com candidatura de Flávio Bolsonaro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3011257/michelle-bolsonaro-rompe-com-candidatura-de-flavio-bolsonaro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782401283000,
-         "created": 1782401283000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/43174686.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODE1LCJjcm9wSGVpZ2h0IjoxMDIxLCJjcm9wWCI6MCwiY3JvcFkiOjI2M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODM4LCJjcm9wSGVpZ2h0IjoxNDg5LCJjcm9wWCI6NDE3LCJjcm9wWSI6MjV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
