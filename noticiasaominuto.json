@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3012432/ministra-das-financas-reafirma-apoio-do-reino-unido-a-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ministra das Finanças reafirma apoio do Reino Unido à Ucrânia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3012432/ministra-das-financas-reafirma-apoio-do-reino-unido-a-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782602977000,
+         "created": 1782602977000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67e340bcc97c1.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc2OCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3012430/roberto-martinez-explica-titularidade-de-ruben-neves-no-colombia-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Roberto Martínez explica titularidade de Rúben Neves no Colômbia-Portugal",
@@ -364,7 +385,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3012325/em-direto-carlos-queiroz-e-nao-so-dao-mote-antes-do-colombia-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Reviravolta no grupo L pode ditar Portugal-Inglaterra",
+         "title": "EM DIRETO: Inglaterra volta à liderança e afasta-se de Portugal",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/3012325/em-direto-carlos-queiroz-e-nao-so-dao-mote-antes-do-colombia-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -376,7 +397,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4046e778e16.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a404edce9248.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d492267b27.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3011329/ministro-avisa-ps-e-chega-no-orcamento-quem-ficar-de-fora-e-inutil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ministro avisa PS e Chega: No Orçamento, quem ficar de fora é \"inútil\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3011329/ministro-avisa-ps-e-chega-no-orcamento-quem-ficar-de-fora-e-inutil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782406976000,
-         "created": 1782406976000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_636d7756dea5b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAwLCJjcm9wSGVpZ2h0IjoxNDA2LCJjcm9wWCI6MCwiY3JvcFkiOjE1OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM4LCJjcm9wSGVpZ2h0IjoxNjY4LCJjcm9wWCI6MTA5NywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
