@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3012366/george-russell-conquista-pole-position-para-o-gp-da-austria-de-formula-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "George Russell conquista pole position para o GP da Áustria de Fórmula 1",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3012366/george-russell-conquista-pole-position-para-o-gp-da-austria-de-formula-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782585569000,
+         "created": 1782585569000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47364025.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3012370/diogo-jota-o-dia-a-seguir-a-noticia-foi-o-mais-dificil-da-minha-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Diogo Jota? O dia a seguir à notícia foi o mais difícil da minha vida\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d326cbd10e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3011234/rede-social-x-tera-sido-desbloqueada-na-venezuela-apos-sismos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rede social X terá sido desbloqueada na Venezuela após sismos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3011234/rede-social-x-tera-sido-desbloqueada-na-venezuela-apos-sismos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782399214000,
-         "created": 1782399214000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_653f76b8aa304.webp",
                "type": "image/jpeg",
                "length": "0"
             }
