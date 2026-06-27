@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3012233/mais-de-900-mil-imigrantes-pediram-regularizacao-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mais de 900 mil imigrantes pediram regularização em Espanha",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3012233/mais-de-900-mil-imigrantes-pediram-regularizacao-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782575954000,
+         "created": 1782575954000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_56458fc0ec9fb.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3012331/taremi-arrasa-fifa-e-mundial-fizeram-tudo-para-nos-eliminar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Taremi arrasa FIFA e Mundial: \"Fizeram tudo para nos eliminar\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/45423537.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3011164/chapo-defende-combate-a-corrupcao-para-desenvolver-mocambique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chapo defende combate à corrupção para desenvolver Moçambique",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3011164/chapo-defende-combate-a-corrupcao-para-desenvolver-mocambique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782393215000,
-         "created": 1782393215000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/46169048.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6NDUsImNyb3BZIjoxMjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
