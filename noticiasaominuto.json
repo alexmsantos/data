@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3012693/ucrania-russia-diz-estar-a-espera-de-eua-para-retomar-negociacoes-de-paz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ucrânia? Rússia diz estar à espera de EUA para retomar negociações de paz",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3012693/ucrania-russia-diz-estar-a-espera-de-eua-para-retomar-negociacoes-de-paz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782691271000,
+         "created": 1782691271000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69db93df8922a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjg5MywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3012523/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/40018664.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3011650/como-deixar-os-tenis-brancos-limpos-e-como-novos-sem-lixivia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Como deixar os ténis brancos limpos e brilhantes sem lixívia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3011650/como-deixar-os-tenis-brancos-limpos-e-como-novos-sem-lixivia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782465615000,
-         "created": 1782465615000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3e2fe36a800.webp",
                "type": "image/jpeg",
                "length": "0"
             }
