@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3012605/ai-ogura-alcanca-1-vitoria-em-motogp-e-jorge-martin-e-o-novo-lider#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ai Ogura alcança 1.ª vitória em MotoGP e Jorge Martín é o novo líder",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3012605/ai-ogura-alcanca-1-vitoria-em-motogp-e-jorge-martin-e-o-novo-lider#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782661918000,
+         "created": 1782661918000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47367580.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3012604/homem-baleado-na-cabeca-na-amadora-suspeito-em-fuga-e-psp-com-reforcos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Homem baleado na cabeça na Amadora. Suspeito em fuga (e PSP com reforços)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69b2cef1e0619.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3011522/aeroportos-venezuelanos-estao-operacionais-exceto-o-de-caracas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aeroportos venezuelanos estão operacionais exceto o de Caracas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3011522/aeroportos-venezuelanos-estao-operacionais-exceto-o-de-caracas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782431711000,
-         "created": 1782431711000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d97c359d8b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
