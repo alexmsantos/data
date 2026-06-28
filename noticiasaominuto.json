@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/3012500/ps-reune-comissao-nacional-e-inicia-jornadas-sobre-custo-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PS reúne Comissão Nacional e inicia jornadas sobre custo de vida",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/3012500/ps-reune-comissao-nacional-e-inicia-jornadas-sobre-custo-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782626865000,
+         "created": 1782626865000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47025658.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3012472/reviravolta-sela-inedito-apuramento-da-rd-congo-e-afasta-uzbequistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Reviravolta sela inédito apuramento da RD Congo e afasta Uzbequistão",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d52d916db0.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwMywiY3JvcEhlaWdodCI6MTA3MiwiY3JvcFgiOjEwNTgsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3011331/luz-do-dia-mostra-a-enorme-destruicao-apos-sismos-na-venezuela-veja#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Luz do dia mostra a (enorme) destruição após sismos na Venezuela: Veja",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3011331/luz-do-dia-mostra-a-enorme-destruicao-apos-sismos-na-venezuela-veja#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782408085000,
-         "created": 1782408085000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d5144538c4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA5LCJjcm9wSGVpZ2h0IjoxNDExLCJjcm9wWCI6MTcsImNyb3BZIjoyMDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM1NSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
