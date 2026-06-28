@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3012576/antonio-silva-tem-um-principio-de-acordo-com-o-milan-dizem-em-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "António Silva tem um princípio de acordo com o Milan, dizem em Itália",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3012576/antonio-silva-tem-um-principio-de-acordo-com-o-milan-dizem-em-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782651231000,
+         "created": 1782651231000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68518a524a7c1.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3012575/aviao-despenha-se-no-nordeste-de-franca-morreram-11-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Avião despenha-se no nordeste de França. Morreram 11 pessoas",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d97cab903f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3011487/joao-pinheiro-nomeado-para-jogo-dos-16-avos-de-final-do-mundial2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "João Pinheiro nomeado para jogo dos 16 avos de final do Mundial2026",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3011487/joao-pinheiro-nomeado-para-jogo-dos-16-avos-de-final-do-mundial2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782424874000,
-         "created": 1782424874000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d970805ff9.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk3MywiY3JvcEhlaWdodCI6MTczMCwiY3JvcFgiOjQ0MiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
