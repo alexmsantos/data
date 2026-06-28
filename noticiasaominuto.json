@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3012536/programa-para-tratar-dependencia-de-videojogos-abre-amanha-no-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Programa para tratar dependência de videojogos abre amanhã no Porto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3012536/programa-para-tratar-dependencia-de-videojogos-abre-amanha-no-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782649746000,
+         "created": 1782649746000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a41059b42906.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3012570/preventiva-para-4-homens-detidos-em-setubal-com-4-toneladas-de-haxixe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Preventiva para 4 homens detidos em Setúbal com 4 toneladas de haxixe",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_623372057b275.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkzMCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3011483/venezuela-jogador-em-panico-apos-desaparecimento-da-mulher-e-dos-filhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Venezuela. Jogador em pânico após desaparecimento da mulher e dos filhos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3011483/venezuela-jogador-em-panico-apos-desaparecimento-da-mulher-e-dos-filhos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782423589000,
-         "created": 1782423589000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d9267101b5.webp",
                "type": "image/jpeg",
                "length": "0"
             }
