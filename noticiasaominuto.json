@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3012545/clima-portugal-mobiliza-bem-depois-do-desastre-e-mal-antes-dele#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Clima. \"Portugal mobiliza bem depois do desastre e mal antes dele\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3012545/clima-portugal-mobiliza-bem-depois-do-desastre-e-mal-antes-dele#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782647812000,
+         "created": 1782647812000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a40fe3298660.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3012562/ia-promete-maior-produtividade-mas-riscos-para-mercados-de-trabalho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "IA promete maior produtividade, mas \"riscos\" para mercados de trabalho",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d50c2701a2.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3011475/hotel-de-familia-madeirense-ruiu-em-la-guaira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Hotel de família madeirense ruiu em La Guaira",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3011475/hotel-de-familia-madeirense-ruiu-em-la-guaira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782421616000,
-         "created": 1782421616000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3d8a4548de5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE0LCJjcm9wSGVpZ2h0IjoxNDE0LCJjcm9wWCI6MjEsImNyb3BZIjo3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MTEsImNyb3BIZWlnaHQiOjE0NDEsImNyb3BYIjoxNjE1LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
