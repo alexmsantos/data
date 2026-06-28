@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3012690/maria-corina-machado-diz-que-chegou-a-hora-de-regressar-a-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Maria Corina Machado diz que \"chegou a hora\" de regressar à Venezuela",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3012690/maria-corina-machado-diz-que-chegou-a-hora-de-regressar-a-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782689667000,
+         "created": 1782689667000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68e944decda00.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkzMywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3012688/benfica-conquista-bicampeonato-no-futsal-e-festeja-assim-ante-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Benfica conquista bicampeonato no futsal e festeja assim... ante Sporting",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68bec3fdf0513.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3011605/a-hora-das-decisoes-cabo-verde-decide-apuramento-frente-a-arabia-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "A hora das decisões. Cabo Verde decide apuramento frente à Arábia Saudita",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3011605/a-hora-das-decisoes-cabo-verde-decide-apuramento-frente-a-arabia-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782465332000,
-         "created": 1782465332000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3e34a11607d.webp",
                "type": "image/jpeg",
                "length": "0"
             }
