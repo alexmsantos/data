@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3013313/oficial-robert-lewandowski-assina-pelo-chicago-fire#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: Robert Lewandowski assina pelo Chicago Fire",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3013313/oficial-robert-lewandowski-assina-pelo-chicago-fire#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782768840000,
+         "created": 1782768840000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_696e4385b5d70.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3013309/brasil-critica-iniciativas-unilaterais-no-mercosul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Brasil critica iniciativas unilaterais no Mercosul",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47324064.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3012249/do-relvado-a-festa-rija-no-balneario-as-imagens-da-gloria-de-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Do relvado à festa rija no balneário. As imagens da glória de Cabo Verde",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3012249/do-relvado-a-festa-rija-no-balneario-as-imagens-da-gloria-de-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782551718000,
-         "created": 1782551718000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3f8086528ee.webp",
                "type": "image/jpeg",
                "length": "0"
             }
