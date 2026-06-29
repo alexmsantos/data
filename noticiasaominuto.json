@@ -1,10 +1,73 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3013099/estrela-da-amadora-ja-arrancou-a-preparacao-para-202627#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Estrela da Amadora já arrancou a preparação para 2026/27",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3013099/estrela-da-amadora-ja-arrancou-a-preparacao-para-202627#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782750336000,
+         "created": 1782750336000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6515891970d8f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3012752/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3012752/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782750301000,
+         "created": 1782750301000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ce3b8140c5b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3013112/missao-da-ue-quer-que-eleicoes-corram-bem-por-sao-tome-e-principe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Missão da UE quer que eleições corram bem por São Tomé e Príncipe",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3013112/missao-da-ue-quer-que-eleicoes-corram-bem-por-sao-tome-e-principe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782750165000,
+         "created": 1782750165000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/34262351.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3013097/homem-acusado-de-14-crimes-de-furto-em-evora-era-o-seu-modo-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Homem acusado de 14 crimes de furto em Évora. Era o seu \"modo de vida\"",
@@ -4241,27 +4304,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0daf51af45a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3012752/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Siga os rumores e os negócios de um mercado que já mexe",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3012752/em-direto-siga-os-rumores-e-os-negocios-de-um-mercado-que-ja-mexe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782719351000,
-         "created": 1782719351000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ce3b8140c5b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10247,48 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/41408991.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAzLCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6MjMsImNyb3BZIjoxNzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM0NiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3012347/morte-a-voces-os-dois-e-bomba-ventura-e-esposa-ameacados-de-morte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Morte a vocês os dois\" e \"bomba\": Ventura e esposa ameaçados de morte",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3012347/morte-a-voces-os-dois-e-bomba-ventura-e-esposa-ameacados-de-morte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782580140000,
-         "created": 1782580140000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6825db59a7ad7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjQxLCJjcm9wWSI6NDExfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDYsImNyb3BYIjoxMDc2LCJjcm9wWSI6MH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3012350/benfica-sagra-se-tridecacampeao-feminino-de-hoquei-em-patins#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Benfica sagra-se tridecacampeão feminino em jogo envolto de polémica",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3012350/benfica-sagra-se-tridecacampeao-feminino-de-hoquei-em-patins#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782580071000,
-         "created": 1782580071000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/14989812.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjg2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDUsImNyb3BIZWlnaHQiOjE2ODAsImNyb3BYIjozODksImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
