@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3013056/em-direto-mais-um-dia-de-16avos-com-brasil-em-acao-frente-ao-japao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Golo anulado no prolongamento do Alemanha-Paraguai",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3013056/em-direto-mais-um-dia-de-16avos-com-brasil-em-acao-frente-ao-japao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782778248000,
+         "created": 1782778248000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a42e2f70e96b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3013355/reino-unido-investe-mais-de-5-8-mil-milhoes-de-euros-em-drones-militares#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Reino Unido investe mais de 5,8 mil milhões de euros em drones militares",
@@ -608,27 +629,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_696e4385b5d70.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3013056/em-direto-mais-um-dia-de-16avos-com-brasil-em-acao-frente-ao-japao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Golo anulado no prolongamento do Alemanha-Paraguai",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3013056/em-direto-mais-um-dia-de-16avos-com-brasil-em-acao-frente-ao-japao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782768600000,
-         "created": 1782768600000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a42e2f70e96b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
