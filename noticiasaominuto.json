@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3013145/governo-assegura-que-reforma-do-estado-e-para-todos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Governo assegura que reforma do Estado é para todos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3013145/governo-assegura-que-reforma-do-estado-e-para-todos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782752935000,
+         "created": 1782752935000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69260f5d7f3c3.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2OCwiY3JvcEhlaWdodCI6MTcyMSwiY3JvcFgiOjY5MiwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3013125/biden-chama-trump-de-falhado-e-uma-vergonha-para-o-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Biden chama Trump de \"falhado\": \"É uma vergonha para o país\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3ecf6fcfaff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6Mjc2LCJjcm9wWSI6MzY5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjEsImNyb3BIZWlnaHQiOjE2MzcsImNyb3BYIjo5NjksImNyb3BZIjoxNjl9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3012085/swatch-processa-samsung-em-150-milhoes-de-euros-por-clonar-relogios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Swatch processa Samsung em 150 milhões por réplicas digitais de relógios",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3012085/swatch-processa-samsung-em-150-milhoes-de-euros-por-clonar-relogios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782508654000,
-         "created": 1782508654000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5952335ec13ea.webp",
                "type": "image/jpeg",
                "length": "0"
             }
