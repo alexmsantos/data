@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3012705/protesto-na-contra-governo-e-presidente-que-anunciou-querer-demitir-se#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Protesto na contra governo e presidente (que anunciou querer demitir-se)",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3012705/protesto-na-contra-governo-e-presidente-que-anunciou-querer-demitir-se#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782715143000,
+         "created": 1782715143000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4204af6c75b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3012701/salman-rushdie-lembrou-oz-e-shakespeare-no-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Salman Rushdie lembrou \"Oz\" e Shakespeare no Porto",
@@ -15,11 +36,32 @@
          },
          "published": 1782714885000,
          "created": 1782714885000,
-         "category": "País",
+         "category": "Cultura",
          "content": "",
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4203f9b4a4b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3012709/venezuela-comunidade-portuguesa-tem-esperanca-de-encontrar-sobreviventes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Venezuela. Comunidade portuguesa tem esperança de encontrar sobreviventes",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3012709/venezuela-comunidade-portuguesa-tem-esperanca-de-encontrar-sobreviventes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782713582000,
+         "created": 1782713582000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a420595bd732.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/26251030.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/3011658/the-offspring-cantam-taylor-swift-e-metaleiros-amaram-esta-love-story#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "The Offspring cantam Taylor Swift: E metaleiros amaram esta \"Love Story\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/cultura/3011658/the-offspring-cantam-taylor-swift-e-metaleiros-amaram-esta-love-story#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782466453000,
-         "created": 1782466453000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3e36ab725f4.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3011642/o-que-portugal-precisa-de-fazer-para-assegurar-a-lideranca-do-grupo-k#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O que Portugal precisa de fazer para assegurar a liderança do Grupo K?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3011642/o-que-portugal-precisa-de-fazer-para-assegurar-a-lideranca-do-grupo-k#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782466315000,
-         "created": 1782466315000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3e3854c3d0a.webp",
                "type": "image/jpeg",
                "length": "0"
             }
