@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3014003/fogo-em-murca-com-duas-frentes-ativas-mas-de-menor-intensidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fogo em Murça com duas frentes ativas, mas de menor intensidade",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3014003/fogo-em-murca-com-duas-frentes-ativas-mas-de-menor-intensidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782857174000,
+         "created": 1782857174000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_689b86e40d848.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3013999/vitoria-sc-volta-sem-reforcos-e-uma-ausencia-em-lote-de-32-jogadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vitória SC volta sem reforços e uma ausência em lote de 32 jogadores",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a422a841d15f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3012777/lusodescente-de-11-anos-desaparecido-na-venezuela-familiares-fazem-apelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lusodescendente de 11 anos desaparecido na Venezuela. Familiares apelam",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3012777/lusodescente-de-11-anos-desaparecido-na-venezuela-familiares-fazem-apelo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782724318000,
-         "created": 1782724318000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4220dfb30ab.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1MTYsImNyb3BIZWlnaHQiOjI5MCwiY3JvcFgiOjMsImNyb3BZIjo5NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Mjk5LCJjcm9wSGVpZ2h0Ijo1MzIsImNyb3BYIjozMCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
