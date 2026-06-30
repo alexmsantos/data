@@ -221,14 +221,31 @@
       {
          "id": "3a4a589c-4fc5-4e60-8981-4191cc08be64",
          "title": "O orgulho pátrio",
-         "description": "<p>A nossa equipa é um espelho do que somos. A culpa é coletiva. Os portugueses perderam a garra</p>",
+         "description": "<p><span>A nossa equipa é um espelho do que somos. A culpa é coletiva. Os portugueses perderam a garra</span></p>",
          "link": "https://expresso.pt/opiniao/2026-06-30-o-orgulho-patrio-32cd7a05",
          "author": "Clara Ferreira Alves",
          "published": 1782799020000,
          "created": 1782799020000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "a725fdf0-86e4-4046-bf2d-7e8e4ec0f071",
