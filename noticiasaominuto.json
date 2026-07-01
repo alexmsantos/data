@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3014085/irlanda-ocupa-presidencia-da-ue-focada-em-orcamento-eua-e-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Irlanda ocupa presidência da UE focada em orçamento, EUA e Ucrânia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3014085/irlanda-ocupa-presidencia-da-ue-focada-em-orcamento-eua-e-ucrania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1782890757000,
+         "created": 1782890757000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_56571b4fb1fca.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3014095/regulador-sul-coreano-investiga-google-por-abuso-de-posicao-dominante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Regulador sul-coreano investiga Google por abuso de posição dominante",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6722c67d0c291.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3012880/novo-hyundai-elantra-revelado-na-coreia-do-sul-chegara-a-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Novo Hyundai Elantra revelado na Coreia do Sul. Chegará à Europa?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3012880/novo-hyundai-elantra-revelado-na-coreia-do-sul-chegara-a-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782733878000,
-         "created": 1782733878000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a424cd870653.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjg3LCJjcm9wSGVpZ2h0Ijo5NDksImNyb3BYIjoxNjIsImNyb3BZIjo5N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTc4LCJjcm9wSGVpZ2h0IjoxMDI3LCJjcm9wWCI6MTk0LCJjcm9wWSI6MzB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
