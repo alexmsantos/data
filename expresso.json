@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "94de9d6e-a8e4-4dfe-8bd6-3be4f16d62d2",
+         "title": "Unicórnios, gazelas e empresas liliputianas",
+         "description": "<p>As empresas são pequenas e, pior, não crescem. Assim não há produtividade que resista. E a Portugal só resta ficar longe da UE e dos EUA</p>",
+         "link": "https://expresso.pt/opiniao/2026-07-02-unicornios-gazelas-e-empresas-liliputianas-d5273fea",
+         "author": "João Silvestre",
+         "published": 1782974349000,
+         "created": 1782974349000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2020-04-17-JoaoSilvestre.png-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2020-04-17-JoaoSilvestre.png-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2020-04-17-JoaoSilvestre.png-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "10b16a6a-2fbe-4618-8b99-ca184d259acd",
          "title": "Milícia neonazi tinha esconderijos para armas e mantimentos em Monsanto e na Arrábida",
          "description": "<p><span>Buscas da PJ revelaram que os buracos escavados na terra escondiam bidões de 60 litros com enlatados e álcool. Mas não foram detetadas armas</span></p>",
@@ -234,39 +263,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "fc01a62d-9424-49d9-8d2f-7e9a75183705",
-         "title": "Mário Cláudio: “Tínhamos uma criada e a função dela era brincar comigo e evitar que fizesse asneias. Era um universo que hoje me arrepia e um resquício de escravatura”",
-         "description": "<p><span>Rui Manuel e Mário Cláudio são duas identidades na mesma pessoa, mas não podiam ser mais diferentes. Para a família e os amigos, é conhecido pelo nome de nascimento; para os milhares que o ouvem e leem, é Mário Cláudio. Ouça aqui o novo episódio do Geração 40</span></p>",
-         "link": "https://expresso.pt/podcasts/geracao-40/2026-07-02-tinhamos-uma-criada-e-a-funcao-dela-era-brincar-comigo-e-evitar-que-fizesse-asneias.-era-um-universo-que-hoje-me-arrepia-b12dd1a5",
-         "author": [
-            "Júlio Isidro",
-            "João Martins",
-            "Mariana Óca Ferreira"
-         ],
-         "published": 1782971100000,
-         "created": 1782971100000,
-         "category": "Geração 40",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-01-fox_marioclaudio_0004.jpg-ef0fda7e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-01-fox_marioclaudio_0004.jpg-ef0fda7e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-07-01-fox_marioclaudio_0004.jpg-ef0fda7e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
