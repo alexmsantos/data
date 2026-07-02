@@ -68,7 +68,10 @@
          "title": "Homem resgatado na Venezuela com ajuda de equipa portuguesa",
          "description": "<p><span>Hernán Gil foi retirado dos escombros ao fim de oito dias soterrado. O</span><span>peração, que contou com socorristas, militares e paramédicos, </span><span>decorreu ao longo de três dias.</span></p>",
          "link": "https://sicnoticias.pt/especiais/sismos-na-venezuela/2026-07-02-homem-resgatado-na-venezuela-com-ajuda-de-equipa-portuguesa-6f7ea4af",
-         "author": "Lusa",
+         "author": [
+            "Lusa",
+            "SIC Notícias"
+         ],
          "published": 1782999141000,
          "created": 1782999141000,
          "category": "Sismos Venezuela",
