@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3016202/dois-romenos-condenados-no-reino-unido-por-ataque-a-jornalista-iraniano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dois romenos condenados no Reino Unido por ataque a jornalista iraniano",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3016202/dois-romenos-condenados-no-reino-unido-por-ataque-a-jornalista-iraniano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783112782000,
+         "created": 1783112782000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a30dfb683a1c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3016200/a-emotiva-mensagem-de-cristiano-ronaldo-para-jovem-resgatado-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "A emotiva mensagem de Cristiano Ronaldo para jovem resgatado na Venezuela",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4273f553a6e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3014974/calor-situacao-de-alerta-a-partir-da-meia-noite-diz-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Onda de calor? MAI avisa: \"Situação de alerta a partir da meia-noite\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3014974/calor-situacao-de-alerta-a-partir-da-meia-noite-diz-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1782988983000,
-         "created": 1782988983000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69a8afec7b287.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo5OX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAyNCwiY3JvcEhlaWdodCI6MTgyMSwiY3JvcFgiOjg0OSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
