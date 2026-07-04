@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3016419/incendio-em-mangualde-esta-dominado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio em Mangualde está dominado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3016419/incendio-em-mangualde-esta-dominado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783174017000,
+         "created": 1783174017000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47401572.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3013352/apos-20-anos-alanis-morissette-fala-sobre-noivado-com-ryan-reynolds#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Após 20 anos, Alanis Morissette fala sobre noivado com Ryan Reynolds ",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69e72bb9dabe8.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3015254/portugal-tem-talento-mas-orcamento-do-setor-espacial-e-limitado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal tem talento, mas orçamento do setor espacial é limitado",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3015254/portugal-tem-talento-mas-orcamento-do-setor-espacial-e-limitado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783010041000,
-         "created": 1783010041000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6944100816d3c.webp",
                "type": "image/jpeg",
                "length": "0"
             }
