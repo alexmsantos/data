@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3016458/primeiro-teste-falhado-caldas-empata-benfica-no-primeiro-jogo-treino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Primeiro teste... falhado. Caldas empata Benfica no primeiro jogo-treino",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3016458/primeiro-teste-falhado-caldas-empata-benfica-no-primeiro-jogo-treino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783180917000,
+         "created": 1783180917000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4918acb0827.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI0LCJjcm9wSGVpZ2h0Ijo1NzYsImNyb3BYIjowLCJjcm9wWSI6NTF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ0MiwiY3JvcEhlaWdodCI6Nzg2LCJjcm9wWCI6MTE2LCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3013665/nicole-scherzinger-exibe-curvas-em-biquini-nos-festejos-dos-48-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nicole Scherzinger exibe curvas em biquíni nos festejos dos 48 anos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68892df6ef05c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3015296/irlanda-avisa-que-paises-da-ue-terao-de-fazer-cedencias-no-orcamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Irlanda avisa que países da UE terão de fazer cedências no orçamento",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3015296/irlanda-avisa-que-paises-da-ue-terao-de-fazer-cedencias-no-orcamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783013198000,
-         "created": 1783013198000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_61d5b1f6edef8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjM1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDg2LCJjcm9wSGVpZ2h0IjoxOTMwLCJjcm9wWCI6NjA4LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
