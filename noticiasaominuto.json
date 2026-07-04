@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3016331/portugal-obrigado-a-repetir-munique-para-seguir-para-os-quartos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal obrigado a repetir Munique para seguir para os quartos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3016331/portugal-obrigado-a-repetir-munique-para-seguir-para-os-quartos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783156807000,
+         "created": 1783156807000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a48c1eb1f272.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3015918/as-ferias-grandes-e-o-problema-que-o-estado-finge-nao-ver#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "As férias grandes (e o problema que o Estado finge não ver!)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a466dfe053c9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3015066/onda-de-calor-agricultura-sem-grande-impacto-se-for-breve-diz-ministro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Onda de calor? Agricultura sem grande impacto se for breve, diz ministro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3015066/onda-de-calor-agricultura-sem-grande-impacto-se-for-breve-diz-ministro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783002357000,
-         "created": 1783002357000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_66e522cedbc79.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
