@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3016465/em-direto-canada-e-marrocos-dao-o-pontape-de-saida-nos-oitavos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Paraguai-França no intervalo... e ainda sem golos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3016465/em-direto-canada-e-marrocos-dao-o-pontape-de-saida-nos-oitavos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783205592000,
+         "created": 1783205592000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a49760801f41.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxODd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk3MywiY3JvcEhlaWdodCI6MTcyOSwiY3JvcFgiOjgyNywiY3JvcFkiOjV9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/3016580/douro-porto-wine-festival-regressa-a-2-e-3-de-julho-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Douro & Porto Wine Festival regressa a 2 e 3 de julho de 2027",
@@ -125,27 +146,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69e9fc7a186b9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg3LCJjcm9wSGVpZ2h0IjoxMzk5LCJjcm9wWCI6NTUsImNyb3BZIjo0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTE1MiwiY3JvcEhlaWdodCI6MjA0OCwiY3JvcFgiOjcxLCJjcm9wWSI6Mjl9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3016465/em-direto-canada-e-marrocos-dao-o-pontape-de-saida-nos-oitavos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Pontapé de saída após receios de tempestade no Paraguai-França",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3016465/em-direto-canada-e-marrocos-dao-o-pontape-de-saida-nos-oitavos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783202254000,
-         "created": 1783202254000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a49760801f41.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxODd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk3MywiY3JvcEhlaWdodCI6MTcyOSwiY3JvcFgiOjgyNywiY3JvcFkiOjV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
