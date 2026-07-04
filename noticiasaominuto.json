@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3016449/menino-atacado-por-crocodilo-passou-por-5-cirurgias-e-precisa-de-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Menino atacado por crocodilo passou por 5 cirurgias e precisa de mais",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3016449/menino-atacado-por-crocodilo-passou-por-5-cirurgias-e-precisa-de-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783180448000,
+         "created": 1783180448000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5a4fe03e74e83.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3016452/surpresa-rybakina-eliminada-na-terceira-ronda-de-wimbledon#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Surpresa. Rybakina eliminada na terceira ronda de WImbledon",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6925eadcc11ce.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3015300/cada-euro-gerado-pelo-setor-espacial-cria-mais-1-17-euros-na-economia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cada euro gerado pelo setor espacial cria mais 1,17 euros na economia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3015300/cada-euro-gerado-pelo-setor-espacial-cria-mais-1-17-euros-na-economia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783012929000,
-         "created": 1783012929000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68f0a12b194ca.webp",
                "type": "image/jpeg",
                "length": "0"
             }
