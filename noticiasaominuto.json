@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3016694/portugal-perde-com-estados-unidos-na-estreia-na-nations-cup-de-raguebi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Portugal perde com Estados Unidos na estreia na Nations Cup de râguebi",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3016694/portugal-perde-com-estados-unidos-na-estreia-na-nations-cup-de-raguebi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783252309000,
+         "created": 1783252309000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/40491486.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3016691/rocadora-com-disco-causa-fogo-em-alvaiazere-gnr-deteve-proprietario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Roçadora com disco\" causa fogo em Alvaiázere. GNR deteve proprietário",
@@ -910,7 +931,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/3016634/ao-minuto-vouzela-e-santo-tirso-preocupam-populacao-a-sofrer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: Sete distritos a 'vermelho'; Fogo em Vouzela continua ativo",
+         "title": "AO MINUTO: \"Dia longo\" em Vouzela; Uma bombeira ferida em Santo Tirso",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/3016634/ao-minuto-vouzela-e-santo-tirso-preocupam-populacao-a-sofrer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -922,7 +943,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/47406784.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4a37a5ad225.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47389821.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3015563/acidente-em-guimaraes-com-um-morto-e-um-ferido-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Acidente em Guimarães com um morto e um ferido grave",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3015563/acidente-em-guimaraes-com-um-morto-e-um-ferido-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783038145000,
-         "created": 1783038145000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc316314.webp",
                "type": "image/jpeg",
                "length": "0"
             }
