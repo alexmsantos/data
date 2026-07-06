@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3017358/com-calor-consumo-de-eletricidade-registou-maximos-na-semana-passada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Com calor, consumo de eletricidade registou máximos na semana passada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3017358/com-calor-consumo-de-eletricidade-registou-maximos-na-semana-passada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783360746000,
+         "created": 1783360746000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_60c36d7fccf13.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3017359/um-ferido-leve-apos-colisao-de-motociclo-e-veiculo-ligeiro-em-caxias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Um ferido leve após colisão de motociclo e veículo ligeiro em Caxias",
@@ -272,6 +293,27 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68b803e13c557.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3017344/madeira-passa-a-ter-duas-equipas-de-militares-a-reforcar-vigilancia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Madeira passa a ter duas equipas de militares a reforçar vigilância",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3017344/madeira-passa-a-ter-duas-equipas-de-militares-a-reforcar-vigilancia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783359239000,
+         "created": 1783359239000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_57a9d27b96195.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47398666.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3016050/erro-da-apple-esta-a-revelar-enderecos-de-e-mail-dos-utilizadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Erro da Apple está a revelar endereços de e-mail dos utilizadores",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3016050/erro-da-apple-esta-a-revelar-enderecos-de-e-mail-dos-utilizadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783153038000,
-         "created": 1783153038000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67ea66683a9f2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjIsImNyb3BZIjoxNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODU4LCJjcm9wSGVpZ2h0IjoxNTI0LCJjcm9wWCI6ODUxLCJjcm9wWSI6MTJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3016320/brasil-em-periodo-de-defeso-eleitoral-e-lula-tera-de-restringir-agenda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Brasil em período de defeso eleitoral e Lula terá de restringir agenda",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3016320/brasil-em-periodo-de-defeso-eleitoral-e-lula-tera-de-restringir-agenda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783152953000,
-         "created": 1783152953000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/39652344.webp",
                "type": "image/jpeg",
                "length": "0"
             }
