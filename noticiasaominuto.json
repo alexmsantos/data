@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/3017008/lisistrata-de-aristofanes-marca-estreia-de-manuela-couto-na-encenacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Lisístrata\", de Aristófanes, marca estreia de Manuela Couto na encenação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/3017008/lisistrata-de-aristofanes-marca-estreia-de-manuela-couto-na-encenacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783331007000,
+         "created": 1783331007000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_604166668685c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MzIsImNyb3BIZWlnaHQiOjM1NiwiY3JvcFgiOjMsImNyb3BZIjoxMjR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3017012/google-maps-ajudara-a-fazer-pedido-enquanto-esta-a-caminho-de-restaurante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Google Maps ajudará a fazer pedido enquanto está a caminho de restaurante",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a47c49089dc5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDk2LCJjcm9wSGVpZ2h0Ijo4NDIsImNyb3BYIjozMzYsImNyb3BZIjoxMDc4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NDEsImNyb3BIZWlnaHQiOjEzMTcsImNyb3BYIjo3ODcsImNyb3BZIjo2NjV9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3015946/antes-de-serem-acoitado-casal-indonesio-esteve-4-meses-na-prisao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Antes de ser açoitado, casal indonésio esteve quatro meses na prisão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3015946/antes-de-serem-acoitado-casal-indonesio-esteve-4-meses-na-prisao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783091851000,
-         "created": 1783091851000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a47becc0bbf6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI0N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTM1NywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
