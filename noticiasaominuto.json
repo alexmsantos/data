@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3017302/ministro-da-saude-critica-mau-atendimento-aos-doentes-em-mocambique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ministro da Saúde critica mau atendimento aos doentes em Moçambique",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3017302/ministro-da-saude-critica-mau-atendimento-aos-doentes-em-mocambique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783355965000,
+         "created": 1783355965000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/17366137.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3017298/eis-os-conselhos-da-protecao-civil-para-saber-como-se-proteger-da-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Eis os conselhos da Proteção Civil para saber como \"se proteger da água\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6e43983c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3016245/23-dia-do-mundial2026-em-imagens-frieza-egipcia-e-sonho-de-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "23.º dia do Mundial2026 em imagens: Frieza egípcia e sonho de Cabo Verde",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3016245/23-dia-do-mundial2026-em-imagens-frieza-egipcia-e-sonho-de-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783122748000,
-         "created": 1783122748000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a483b2230c60.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYyMiwiY3JvcEhlaWdodCI6MTEwNiwiY3JvcFgiOjc4NywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
