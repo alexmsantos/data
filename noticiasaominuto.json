@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3017379/incendio-em-habitacao-em-tomar-provoca-um-morto-e-um-ferido-ligeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio em habitação em Tomar provoca um morto e um ferido ligeiro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3017379/incendio-em-habitacao-em-tomar-provoca-um-morto-e-um-ferido-ligeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783362504000,
+         "created": 1783362504000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_64dbb154044e4.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3017373/rubio-defende-decisao-da-fifa-de-levantar-suspensao-de-balogun#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rubio defende decisão da FIFA de levantar suspensão de Balogun",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a48c3b5ab9f0.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3016323/sindicatos-da-funcao-publica-atentos-a-inflacao-admitem-exigir-aumentos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sindicatos da Função Pública atentos à inflação admitem exigir aumentos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3016323/sindicatos-da-funcao-publica-atentos-a-inflacao-admitem-exigir-aumentos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783157175000,
-         "created": 1783157175000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/46064115.webp",
                "type": "image/jpeg",
                "length": "0"
             }
