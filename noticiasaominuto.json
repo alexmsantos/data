@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3017960/benfica-exige-consequencias-para-gustavo-correia-e-incompreensivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Benfica exige consequências para Gustavo Correia: \"É incompreensível...\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3017960/benfica-exige-consequencias-para-gustavo-correia-e-incompreensivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783444048000,
+         "created": 1783444048000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1223506db37.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1MywiY3JvcEhlaWdodCI6MTY5NCwiY3JvcFgiOjgzMCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3017946/pelo-menos-40-pessoas-com-sintomas-de-intoxicacao-nas-caldas-da-rainha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pelo menos 40 pessoas com sintomas de intoxicação nas Caldas da Rainha",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_626a734eb2c09.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1MywiY3JvcEhlaWdodCI6MTY5NSwiY3JvcFgiOjI2NywiY3JvcFkiOjh9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3016839/motociclista-com-cerca-de-40-anos-morre-em-colisao-em-aveiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Motociclista com cerca de 40 anos morre em colisão em Aveiro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3016839/motociclista-com-cerca-de-40-anos-morre-em-colisao-em-aveiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783278287000,
-         "created": 1783278287000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc316314.webp",
                "type": "image/jpeg",
                "length": "0"
             }
