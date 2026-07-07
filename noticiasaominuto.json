@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3017880/em-direto-messi-e-salah-medem-forcas-rumo-aos-quartos-de-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Messi e Salah medem forças rumo aos quartos de final",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3017880/em-direto-messi-e-salah-medem-forcas-rumo-aos-quartos-de-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783438299000,
+         "created": 1783438299000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4d09cb79409.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ3LCJjcm9wSGVpZ2h0IjoxNjg0LCJjcm9wWCI6NzcxLCJjcm9wWSI6LTF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3017873/nigel-farage-demite-se-de-deputado-e-recandidata-se-contra-o-sistema#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nigel Farage demite-se de deputado e recandidata-se \"contra o sistema\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4a73a11399e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3016774/kyiv-diz-ter-quase-duplicado-os-ataques-contra-alvos-na-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Kyiv diz ter quase duplicado os ataques contra alvos na Rússia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3016774/kyiv-diz-ter-quase-duplicado-os-ataques-contra-alvos-na-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783267530000,
-         "created": 1783267530000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4a72bb050cd.webp",
                "type": "image/jpeg",
                "length": "0"
             }
