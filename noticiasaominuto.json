@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3017703/autarca-de-sintra-quem-perdeu-a-vida-era-gente-de-trabalho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Acidente no Cacém. \"Quem perdeu vida era gente de trabalho\", diz autarca",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3017703/autarca-de-sintra-quem-perdeu-a-vida-era-gente-de-trabalho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783425005000,
+         "created": 1783425005000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5980c32f68285.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3017674/e-cantora-quase-namorou-com-ronaldo-e-hoje-nao-poupa-elogios-heroi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "É cantora, quase namorou com Ronaldo e hoje não poupa elogios: \"Herói\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a44d3985c0cc.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3016098/playstation-vai-ficar-sem-jogos-fisicos-fabrica-ja-esta-a-ser-convertida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PlayStation vai ficar sem jogos físicos. Fábrica já está a ser convertida",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3016098/playstation-vai-ficar-sem-jogos-fisicos-fabrica-ja-esta-a-ser-convertida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783238400000,
-         "created": 1783238400000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a47e848877b9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQzLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6OSwiY3JvcFkiOjEzOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM2LCJjcm9wSGVpZ2h0IjoxNjY0LCJjcm9wWCI6MTA5NSwiY3JvcFkiOjl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
