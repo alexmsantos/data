@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3017647/atentados-em-damasco-fizeram-18-feridos-durante-visita-de-macron#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Atentados em Damasco fizeram 18 feridos durante visita de Macron",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3017647/atentados-em-damasco-fizeram-18-feridos-durante-visita-de-macron#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783420242000,
+         "created": 1783420242000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4cc695b9ab3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxNjV9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3017649/acidente-com-autocarro-faz-dois-mortos-no-cacem-e-14-feridos-4-graves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Acidente com autocarro faz dois mortos no Cacém e 14 feridos (4 graves)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a49ec77c1c8d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3016610/venezuela-anuncia-medidas-economicas-apos-sismos-sob-tensao-social#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Venezuela anuncia medidas económicas após sismos sob tensão social",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3016610/venezuela-anuncia-medidas-economicas-apos-sismos-sob-tensao-social#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783222071000,
-         "created": 1783222071000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47397164.webp",
                "type": "image/jpeg",
                "length": "0"
             }
