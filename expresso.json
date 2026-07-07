@@ -127,7 +127,7 @@
       {
          "id": "883dd4b6-37aa-40bd-b6ec-06e16ecd78fb",
          "title": "Biólogos alertam: não pode haver gado a pastar em terrenos contaminados junto à Base das Lajes",
-         "description": "<p><span>Há vacas a pastar em terrenos da ilha Terceira onde a água está contaminada com hidrocarbonetos cancerígeno. “As vacas têm de sair de lá”, dizem ao Expresso dois investigadores especialistas nestas matérias, sob risco de contaminação da cadeia alimentar</span></p>",
+         "description": "<p><span>Há vacas a pastar em terrenos da ilha Terceira onde a água está contaminada com hidrocarbonetos potencialmente cancerígenos. “As vacas têm de sair de lá”, dizem ao Expresso dois investigadores especialistas nestas matérias, sob risco de contaminação da cadeia alimentar</span></p>",
          "link": "https://expresso.pt/saude-publica/2026-07-07-biologos-alertam-nao-pode-haver-gado-a-pastar-em-terrenos-contaminados-junto-a-base-das-lajes-b1abdac6",
          "author": "Vítor Matos",
          "published": 1783405800000,
@@ -257,16 +257,33 @@
          }
       },
       {
-         "id": "68657e8a-c6b8-4b02-9d5c-87188c80d4e8",
-         "title": "Corrigir um erro estratégico: liderar uma reforma estrutural",
-         "description": "<p>A dimensão do desafio que o país enfrenta não se coaduna com gestão operacional de curto prazo. A resposta requer continuidade, qualificações e o melhor conhecimento disponível para apoio à decisão. O país precisa de uma Agência para a Gestão Integrada de Fogos Rurais forte, com autoridade para coordenar, avaliar e exigir melhoria contínua</p>",
-         "link": "https://expresso.pt/opiniao/2026-07-07-corrigir-um-erro-estrategico-liderar-uma-reforma-estrutural-e8ced538",
-         "author": "Filipe Beja",
+         "id": "950bc038-9c18-4aeb-b3d0-4c53d261588c",
+         "title": "Portugal também exporta método",
+         "description": "<p>A Europa precisa que os projetos financiados sejam executados de forma exemplar. Mas precisa, igualmente, de países que saibam aprender com a execução e transformar essa aprendizagem em boas práticas</p>",
+         "link": "https://expresso.pt/opiniao/2026-07-07-portugal-tambem-exporta-metodo-0d68f004",
+         "author": "Fernando Alfaiate",
          "published": 1783404000000,
          "created": 1783404000000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-06-fernando-alfaiate_autor.png-4bf06d43/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-06-fernando-alfaiate_autor.png-4bf06d43/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-06-fernando-alfaiate_autor.png-4bf06d43/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       }
    ]
 }
