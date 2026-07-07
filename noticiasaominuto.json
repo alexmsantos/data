@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/3017673/ana-moura-abre-cartaz-de-concertos-nas-festas-de-peniche#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ana Moura abre cartaz de concertos nas Festas de Peniche",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/3017673/ana-moura-abre-cartaz-de-concertos-nas-festas-de-peniche#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783422990000,
+         "created": 1783422990000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_638384af1e2b3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMDR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3017668/olhei-para-os-meus-filhos-e-vi-lhes-lagrimas-agradeco-o-teu-legado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Olhei para os meus filhos e vi-lhes lágrimas. Agradeço o teu legado\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a49f63af23f6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3016453/texas-e-palco-de-novo-rodeo-iberico-com-portugal-de-olho-em-munique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Texas é palco de novo 'rodeo' ibérico com Portugal de olho em Munique",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3016453/texas-e-palco-de-novo-rodeo-iberico-com-portugal-de-olho-em-munique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783235329000,
-         "created": 1783235329000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a491914e846e.webp",
                "type": "image/jpeg",
                "length": "0"
             }
