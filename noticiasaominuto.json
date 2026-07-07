@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3017880/em-direto-messi-e-salah-medem-forcas-rumo-aos-quartos-de-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Messi e Salah medem forças rumo aos quartos de final",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3017880/em-direto-messi-e-salah-medem-forcas-rumo-aos-quartos-de-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783443565000,
+         "created": 1783443565000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4d09cb79409.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ3LCJjcm9wSGVpZ2h0IjoxNjg0LCJjcm9wWCI6NzcxLCJjcm9wWSI6LTF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3017942/sistema-eletrico-de-cuba-continua-a-recuperar-de-terceiro-apagao-do-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sistema elétrico de Cuba continua a recuperar de terceiro apagão do ano",
@@ -881,27 +902,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69736d6b2ed26.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3017880/em-direto-messi-e-salah-medem-forcas-rumo-aos-quartos-de-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Messi e Salah medem forças rumo aos quartos de final",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3017880/em-direto-messi-e-salah-medem-forcas-rumo-aos-quartos-de-final#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783438299000,
-         "created": 1783438299000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4d09cb79409.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ3LCJjcm9wSGVpZ2h0IjoxNjg0LCJjcm9wWCI6NzcxLCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
