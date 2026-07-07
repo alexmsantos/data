@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/3017603/marco-costa-sofre-acidente-de-mota-um-senhor-nao-parou-no-stop#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Marco Costa sofre acidente de mota. \"Um senhor não parou no STOP\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/3017603/marco-costa-sofre-acidente-de-mota-um-senhor-nao-parou-no-stop#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783417194000,
+         "created": 1783417194000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_65c39133c1c3c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDQ1LCJjcm9wSGVpZ2h0Ijo1ODgsImNyb3BYIjoyNCwiY3JvcFkiOjQ1M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTU2LCJjcm9wSGVpZ2h0Ijo5ODksImNyb3BYIjozMDgsImNyb3BZIjoxNjF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3017547/argentina-e-colombia-na-pole-position-para-seguirem-rumo-aos-quartos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Argentina e Colômbia na 'pole position' para seguirem rumo aos 'quartos'",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4977d3144fa.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3014232/jacob-elordi-ainda-nao-foi-apresentado-a-familia-de-kendall-jenner#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jacob Elordi ainda não foi \"apresentado\" à família de Kendall Jenner",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3014232/jacob-elordi-ainda-nao-foi-apresentado-a-familia-de-kendall-jenner#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783203001000,
-         "created": 1783203001000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e9fc7a186b9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg3LCJjcm9wSGVpZ2h0IjoxMzk5LCJjcm9wWCI6NTUsImNyb3BZIjo0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTE1MiwiY3JvcEhlaWdodCI6MjA0OCwiY3JvcFgiOjcxLCJjcm9wWSI6Mjl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
