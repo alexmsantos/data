@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3018221/lavado-em-lagrimas-messi-festejou-assim-o-triunfo-da-argentina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lavado em lágrimas. Messi festejou assim o triunfo da Argentina",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3018221/lavado-em-lagrimas-messi-festejou-assim-o-triunfo-da-argentina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783498560000,
+         "created": 1783498560000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4df91a3491c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3018218/tem-este-habito-sem-dar-conta-pode-aumentar-risco-de-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tem este hábito sem dar conta? Pode aumentar o risco de cancro",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68dfc22c2554d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3017066/novo-teleferico-em-gaia-ligara-praia-das-pedras-amarelas-a-arrabida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Novo teleférico em Gaia ligará praia das Pedras Amarelas à Arrábida",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3017066/novo-teleferico-em-gaia-ligara-praia-das-pedras-amarelas-a-arrabida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783336604000,
-         "created": 1783336604000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5f06f32a55a47.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjkyfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
