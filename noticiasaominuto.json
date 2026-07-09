@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3019085/incendio-em-fabrica-de-calcado-na-china-faz-28-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio em fábrica de calçado na China faz 28 mortos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3019085/incendio-em-fabrica-de-calcado-na-china-faz-28-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783610572000,
+         "created": 1783610572000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4fae8d8b686.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjI4NSwiY3JvcEhlaWdodCI6NTA3LCJjcm9wWCI6NDI1LCJjcm9wWSI6NTN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3019077/apanhado-a-conduzir-alcoolizado-ameaca-policias-em-campo-de-ourique#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Apanhado a conduzir alcoolizado ameaça polícias em Campo de Ourique",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6707adb4cca8c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3017879/alteracoes-constitucionais-para-desmantelar-sistema-de-orban-vao-a-votos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alterações constitucionais para desmantelar sistema de Orbán vão a votos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3017879/alteracoes-constitucionais-para-desmantelar-sistema-de-orban-vao-a-votos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783439742000,
-         "created": 1783439742000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69874f5cb4f2b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
