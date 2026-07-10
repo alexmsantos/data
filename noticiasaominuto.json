@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3019389/autorizado-rotulo-em-estrangeiro-em-medicamentos-para-obstipacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Autorizado rótulo em estrangeiro em medicamentos para obstipação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3019389/autorizado-rotulo-em-estrangeiro-em-medicamentos-para-obstipacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783667936000,
+         "created": 1783667936000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_58db77d5c6875.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MjYxLCJjcm9wSGVpZ2h0IjoyMzk3LCJjcm9wWCI6LTIsImNyb3BZIjozMDF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3019382/ministerio-publico-sul-coreano-pede-13-anos-para-lider-da-seita-moon#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministério Público sul-coreano pede 13 anos para líder da seita Moon",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4df37a2b19a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3018202/la-fora-milagre-polemico-da-argentina-domina-as-manchetes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lá fora: Milagre (polémico) da Argentina domina as manchetes",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3018202/la-fora-milagre-polemico-da-argentina-domina-as-manchetes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783496775000,
-         "created": 1783496775000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4df1fc616d9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NzAsImNyb3BIZWlnaHQiOjU0NiwiY3JvcFgiOjAsImNyb3BZIjoyNjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
