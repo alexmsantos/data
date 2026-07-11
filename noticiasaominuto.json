@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/3020146/livre-acusa-ministro-da-educacao-de-ser-negacionista-do-caos-dos-exames#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Livre acusa ministro da Educação de ser \"negacionista do caos dos exames\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/3020146/livre-acusa-ministro-da-educacao-de-ser-negacionista-do-caos-dos-exames#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783804343000,
+         "created": 1783804343000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/44187954.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDM5LCJjcm9wSGVpZ2h0IjoxMzcyLCJjcm9wWCI6NDIsImNyb3BZIjoxMDB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjkzMywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3020143/fernando-pimenta-vence-k1-1000-da-taca-do-mundo-de-montreal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Fernando Pimenta vence K1 1.000 da Taça do Mundo de Montreal",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5a0c361661155.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyODcwLCJjcm9wSGVpZ2h0IjoxNjE1LCJjcm9wWCI6MTEyLCJjcm9wWSI6NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTExOSwiY3JvcEhlaWdodCI6MTk4OSwiY3JvcFgiOjEyODcsImNyb3BZIjotMX19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3019030/herman-jose-mostra-video-com-bonnie-tyler-apaixonada-por-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Herman José mostra vídeo com Bonnie Tyler. \"Apaixonada por Portugal\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3019030/herman-jose-mostra-video-com-bonnie-tyler-apaixonada-por-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783606062000,
-         "created": 1783606062000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4f9c968247a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1OTIsImNyb3BIZWlnaHQiOjMzMywiY3JvcFgiOjcsImNyb3BZIjozMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjQ3LCJjcm9wSGVpZ2h0Ijo0MzksImNyb3BYIjozMTUsImNyb3BZIjoxNX19",
                "type": "image/jpeg",
                "length": "0"
             }
