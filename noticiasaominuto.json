@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3020408/sobe-para-4490-total-de-vitimas-mortais-apos-sismos-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sobe para 4.490 total de vítimas mortais após sismos na Venezuela",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3020408/sobe-para-4490-total-de-vitimas-mortais-apos-sismos-na-venezuela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1783900737000,
+         "created": 1783900737000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a541c3721f46.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3020378/lideranca-e-ator-global-reacoes-a-morte-do-antigo-emir-do-qatar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Liderança\" e \"ator global\": Reações à morte do antigo emir do Qatar",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a50f96891994.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3019604/arrendamentos-be-alerta-para-pandemia-de-despejos-com-novas-medidas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Arrendamentos? BE alerta para \"pandemia de despejos\" com novas medidas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3019604/arrendamentos-be-alerta-para-pandemia-de-despejos-com-novas-medidas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783695942000,
-         "created": 1783695942000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_65f232c792b20.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI1LCJjcm9wSGVpZ2h0Ijo1NzcsImNyb3BYIjotMSwiY3JvcFkiOjQzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozODQsImNyb3BIZWlnaHQiOjY4MywiY3JvcFgiOjM5NiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
