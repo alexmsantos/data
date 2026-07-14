@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3021352/supremo-valida-acao-civil-de-ex-ceo-da-tap-confianca-na-justica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Supremo valida ação civil de ex-CEO da TAP: \"Confiança na justiça\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3021352/supremo-valida-acao-civil-de-ex-ceo-da-tap-confianca-na-justica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784046515000,
+         "created": 1784046515000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_633e86e0c649c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjU2fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3021289/dias-quentes-no-interior-6-sugestoes-de-praias-fluviais-de-norte-a-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dias quentes no interior? 6 sugestões de praias fluviais de norte a sul",
@@ -13,8 +34,8 @@
          "author": {
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
-         "published": 1784046320000,
-         "created": 1784046320000,
+         "published": 1784046345000,
+         "created": 1784046345000,
          "category": "Lifestyle",
          "content": "",
          "enclosures": [
@@ -70,7 +91,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/3021345/jovem-de-17-anos-desapareu-junto-a-margem-do-douro-no-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Jovem de 17 anos desapareu junto à margem do Douro no Porto",
+         "title": "Jovem de 17 anos desapareceu junto à margem do Douro no Porto",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/3021345/jovem-de-17-anos-desapareu-junto-a-margem-do-douro-no-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc665a5c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM2LCJjcm9wSGVpZ2h0IjoxNDI2LCJjcm9wWCI6MjQsImNyb3BZIjoxMzJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3020531/iphone-17-pro-perdeu-cor-laranja-eis-o-que-deve-fazer-para-evitar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "iPhone 17 Pro perdeu cor laranja? Eis o que deve fazer para evitar",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3020531/iphone-17-pro-perdeu-cor-laranja-eis-o-que-deve-fazer-para-evitar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783939037000,
-         "created": 1783939037000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6904708a69c95.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjIsImNyb3BZIjoyNzd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0NSwiY3JvcEhlaWdodCI6MTY4MSwiY3JvcFgiOjY0MiwiY3JvcFkiOjEyfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
