@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3021720/alema-morre-na-madeira-apos-ser-empurrada-por-vizinho-durante-discussao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Alemã morre na Madeira após ser empurrada por vizinho durante discussão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3021720/alema-morre-na-madeira-apos-ser-empurrada-por-vizinho-durante-discussao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784108969000,
+         "created": 1784108969000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68946e1e1ba80.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3021705/pneus-que-nao-furam-chegam-as-estradas-mas-ha-um-senao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pneus que não furam chegam às estradas. Mas há um \"senão\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5614d05789c2a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3020546/vaga-de-detencoes-na-turquia-antes-do-aniversario-da-tentativa-de-golpe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vaga de detenções na Turquia antes do aniversário da tentativa de golpe",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3020546/vaga-de-detencoes-na-turquia-antes-do-aniversario-da-tentativa-de-golpe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1783940226000,
-         "created": 1783940226000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5874e5fbdbb9d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozNTAwLCJjcm9wSGVpZ2h0IjoxOTY5LCJjcm9wWCI6MCwiY3JvcFkiOjY5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxNDAxLCJjcm9wSGVpZ2h0IjoyNDkxLCJjcm9wWCI6MTAwOSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
