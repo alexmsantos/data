@@ -43,8 +43,25 @@
          "published": 1784095806000,
          "created": 1784095806000,
          "category": "Guerra Rússia-Ucrânia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-07-15-volodymyr-zelensky-ursula-von-der-leyen-429d4b10/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-07-15-volodymyr-zelensky-ursula-von-der-leyen-429d4b10/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-07-15-volodymyr-zelensky-ursula-von-der-leyen-429d4b10/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "c6a678a5-1bf3-4834-90f8-0a0a0091322b",
