@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3022530/trabalhadores-do-conta-la-reunidos-na-procura-de-solucoes-para-o-canal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trabalhadores do Conta Lá reunidos na procura de soluções para o canal",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3022530/trabalhadores-do-conta-la-reunidos-na-procura-de-solucoes-para-o-canal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784211668000,
+         "created": 1784211668000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_65c1f886b22cb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxNjV9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3022522/zelensky-pede-unidade-apos-demissao-contestada-do-ministro-da-defesa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Zelensky pede unidade após demissão contestada do ministro da Defesa",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5729695537f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIyLCJjcm9wSGVpZ2h0IjoxNDE5LCJjcm9wWCI6MTksImNyb3BZIjoyODh9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3021683/os-telemoveis-da-xiaomi-que-vao-deixar-de-receber-novas-atualizacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Os telemóveis da Xiaomi que vão deixar de receber novas atualizações",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3021683/os-telemoveis-da-xiaomi-que-vao-deixar-de-receber-novas-atualizacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784105772000,
-         "created": 1784105772000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a573cc58a285.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTI0LCJjcm9wSGVpZ2h0IjoxMTk1LCJjcm9wWCI6MTUsImNyb3BZIjoxMDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc4MywiY3JvcEhlaWdodCI6MTM5MywiY3JvcFgiOjE1NywiY3JvcFkiOjN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
