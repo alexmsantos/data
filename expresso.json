@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "e5ce9b04-d44b-404c-81e2-1e5322b00e5e",
+         "title": "D.A.M.A.:‌ ”O dinheiro, para nós, é só uma consequencia do amor pela música. A conexão máxima que temos com o público é no palco”",
+         "description": "<p><span>Os D.A.M.A. voltam a conversar com Tony Gonçalves, antes da sua atuação nos IPMA, para falar sobre herança portuguesa, gastronomia e o que significa ser um género musical. Oiça a conversa em Inglês</span></p>",
+         "link": "https://expresso.pt/podcasts/the-heart-and-hustle-of-portugal/2026-07-17-d.a.m.a.-o-dinheiro-para-nos-e-so-uma-consequencia-do-amor-pela-musica.-a-conexao-maxima-que-temos-com-o-publico-e-no-palco-86b4aa53",
+         "author": [
+            "Tony Gonçalves",
+            "João Luís Amorim"
+         ],
+         "published": 1784269200000,
+         "created": 1784269200000,
+         "category": "The Heart and Hustle of Portugal",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-16-d.a.m.a-b9a09d6e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-16-d.a.m.a-b9a09d6e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-16-d.a.m.a-b9a09d6e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "5109a8a5-a878-403a-a25d-ce514712dcd7",
          "title": "Álvaro Covões: “Em janeiro, quando há menos trabalho, vou ao Brasil, vivo dois verões. Os portugueses deviam ter o privilégio de viver dois verões”",
          "description": "<p>Álvaro Covões, diretor-geral da Everything is New e o responsável pelo festival NOS Alive, conversa com Conceição Lino ao vivo no espaço da NOS dedicado aos podcasts no festival. Uma conversa sobre cultura, políticas de apoio à cultura e memórias</p>",
@@ -131,18 +163,6 @@
          }
       },
       {
-         "id": "da3a62b9-198a-4a22-88b0-72e372bf83e4",
-         "title": "A crise mais democrática",
-         "description": "<p>O caso dos exames atinge famílias de todas as classes, geografias e simpatias partidárias. O risco é evidente</p>",
-         "link": "https://expresso.pt/semanario/primeiro/editorial/2026-07-16-a-crise-mais-democratica-2b015260",
-         "author": "Expresso",
-         "published": 1784239079000,
-         "created": 1784239079000,
-         "category": "Editorial",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "c842622a-b57a-410e-8118-083d23abaeff",
          "title": "Águas que nos ligam",
          "description": "<p>As águas freáticas não são coelhos que se tirem de uma cartola sem fundo. Essas águas têm um papel determinante não só na segurança hídrica como na saúde ambiental do país, ou seja, na nossa</p>",
@@ -151,6 +171,18 @@
          "published": 1784239079000,
          "created": 1784239079000,
          "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "da3a62b9-198a-4a22-88b0-72e372bf83e4",
+         "title": "A crise mais democrática",
+         "description": "<p>O caso dos exames atinge famílias de todas as classes, geografias e simpatias partidárias. O risco é evidente</p>",
+         "link": "https://expresso.pt/semanario/primeiro/editorial/2026-07-16-a-crise-mais-democratica-2b015260",
+         "author": "Expresso",
+         "published": 1784239079000,
+         "created": 1784239079000,
+         "category": "Editorial",
          "enclosures": [],
          "media": {}
       },
@@ -206,35 +238,6 @@
          "category": "Editorial",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "1412f7cb-8892-4cc7-9de1-7526efb1cb39",
-         "title": "Moda: O luxo não tira férias (e não precisa de ser complicado)",
-         "description": "<p>Um guarda-roupa descontraído pode aliar conforto e sofisticação</p>",
-         "link": "https://expresso.pt/moda/2026-07-16-moda-o-luxo-nao-tira-ferias--e-nao-precisa-de-ser-complicado--1dfeac9b",
-         "author": "Gabriela Pinheiro",
-         "published": 1784239020000,
-         "created": 1784239020000,
-         "category": "Moda",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-14-w600.jpg-e7b5bb32/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-14-w600.jpg-e7b5bb32/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-07-14-w600.jpg-e7b5bb32/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
