@@ -1,10 +1,73 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/3023199/as-fotos-da-familia-de-ronaldo-na-casa-de-cascais-mas-sem-georgina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "As fotos da família de Ronaldo na casa de Cascais (mas sem Georgina)",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/3023199/as-fotos-da-familia-de-ronaldo-na-casa-de-cascais-mas-sem-georgina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784302262000,
+         "created": 1784302262000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5a3634b97a5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODc3LCJjcm9wSGVpZ2h0IjoxMDU2LCJjcm9wWCI6OTUsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3MTksImNyb3BIZWlnaHQiOjEyNzgsImNyb3BYIjoxMDAxLCJjcm9wWSI6MTZ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023204/detidos-2-homens-procurados-no-brasil-e-angola-serao-extraditados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Detidos dois homens procurados no Brasil e Angola. Serão extraditados",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023204/detidos-2-homens-procurados-no-brasil-e-angola-serao-extraditados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784302125000,
+         "created": 1784302125000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69cf74ef9559c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4OTIsImNyb3BIZWlnaHQiOjE1ODcsImNyb3BYIjoxMDgsImNyb3BZIjo1NH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023215/exames-fenprof-ja-fez-denuncia-na-pgr-e-fala-em-ilicito-criminal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Exames: Fenprof já fez denúncia na PGR e fala em \"ilícito criminal\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023215/exames-fenprof-ja-fez-denuncia-na-pgr-e-fala-em-ilicito-criminal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784301989000,
+         "created": 1784301989000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a27054c98d87.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDIwLCJjcm9wSGVpZ2h0IjoxMzYxLCJjcm9wWCI6MjcsImNyb3BZIjoxNDV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxOSwiY3JvcEhlaWdodCI6MTQ1NiwiY3JvcFgiOjEyMjAsImNyb3BZIjozNn19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3023221/apple-supera-nvidia-reconquista-titulo-de-empresa-mais-valiosa-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Apple supera Nvidia reconquista título de empresa mais valiosa do mundo",
@@ -14636,69 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_66c39bc400809.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQwLCJjcm9wSGVpZ2h0IjoxMTQ4LCJjcm9wWCI6MCwiY3JvcFkiOjExOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODQ0LCJjcm9wSGVpZ2h0IjoxNTAwLCJjcm9wWCI6MTE0NywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/3021977/retratos-de-alice-neel-chegam-ao-museu-de-serralves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Retratos de Alice Neel chegam ao Museu de Serralves",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/cultura/3021977/retratos-de-alice-neel-chegam-ao-museu-de-serralves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784130565000,
-         "created": 1784130565000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47466751.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjg5fX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3021978/com-visto-previo-portugal-teria-que-devolver-mil-milhoes-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Com visto prévio Portugal teria que devolver \"mil milhões\" do PRR",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3021978/com-visto-previo-portugal-teria-que-devolver-mil-milhoes-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784130474000,
-         "created": 1784130474000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47465024.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE5LCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6MCwiY3JvcFkiOjczfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo3NTYsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3021910/autoridades-de-imigracao-vao-continuar-abordagens-a-veiculos-em-operacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pausa no ICE? \"Não acontecerá enquanto eu estiver no cargo\", diz Trump",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3021910/autoridades-de-imigracao-vao-continuar-abordagens-a-veiculos-em-operacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784130353000,
-         "created": 1784130353000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a579c9b8585b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjIwNX19",
                "type": "image/jpeg",
                "length": "0"
             }
