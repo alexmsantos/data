@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3023359/teerao-avisa-que-se-aproxima-a-hora-zero-para-ataques-a-navios-dos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Teerão avisa que se aproxima a \"hora zero\" para ataques a navios dos EUA",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3023359/teerao-avisa-que-se-aproxima-a-hora-zero-para-ataques-a-navios-dos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784319357000,
+         "created": 1784319357000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69666f29569ff.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3023366/homem-com-enfarte-do-miocardio-resgatado-pela-marinha-nos-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Homem com \"enfarte do miocárdio\" resgatado pela Marinha nos Açores",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a58b780d40eb.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3022418/pneus-em-mau-estado-conheca-os-riscos-e-os-cuidados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pneus em mau estado? Conheça os riscos e os cuidados",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3022418/pneus-em-mau-estado-conheca-os-riscos-e-os-cuidados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784202607000,
-         "created": 1784202607000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a58b2d25cef8.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkxMCwiY3JvcEhlaWdodCI6MTYxOCwiY3JvcFgiOjY1MCwiY3JvcFkiOjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
