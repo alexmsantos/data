@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3023513/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3023513/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784357620000,
+         "created": 1784357620000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5b14b70a063.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3023497/taiwan-suspende-programa-de-facilitacao-de-visto-para-cambojanos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Taiwan suspende programa de facilitação de visto para cambojanos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68354b521b1ff.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxODN9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3022253/trump-anuncia-libertacao-de-cidada-norte-americana-detida-no-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trump anuncia libertação de cidadã norte-americana detida no Irão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3022253/trump-anuncia-libertacao-de-cidada-norte-americana-detida-no-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784167658000,
-         "created": 1784167658000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f4fca3260f3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg5LCJjcm9wSGVpZ2h0IjoxNDAwLCJjcm9wWCI6NTEsImNyb3BZIjo3M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM2LCJjcm9wSGVpZ2h0IjoxNjY0LCJjcm9wWCI6NTk3LCJjcm9wWSI6MTV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
