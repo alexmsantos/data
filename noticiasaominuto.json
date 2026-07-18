@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3023656/eua-devolvem-ao-mexico-cartas-que-criticavam-abusos-sobre-migrantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EUA devolvem ao México cartas que criticavam abusos sobre migrantes",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3023656/eua-devolvem-ao-mexico-cartas-que-criticavam-abusos-sobre-migrantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784401907000,
+         "created": 1784401907000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5bc1e52db8c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3023682/homem-morre-em-cais-de-descargas-de-supermercado-em-guimaraes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Homem morre em cais de descargas de supermercado em Guimarães",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a58c4c723262.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3022483/presidente-da-camara-de-setubal-suspende-mandato-por-motivos-de-saude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Presidente da Câmara de Setúbal suspende mandato por motivos de saúde",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3022483/presidente-da-camara-de-setubal-suspende-mandato-por-motivos-de-saude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784206882000,
-         "created": 1784206882000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5977bb10cb83d.webp",
                "type": "image/jpeg",
                "length": "0"
             }
