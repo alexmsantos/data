@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023480/hoje-e-noticia-atestar-em-espanha-menos-17-mais-42-medicos-de-familia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Hoje é notícia: Atestar em Espanha? Menos 17€; Mais 42 médicos de família",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023480/hoje-e-noticia-atestar-em-espanha-menos-17-mais-42-medicos-de-familia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784361249000,
+         "created": 1784361249000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5b221c098be.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5ODAsImNyb3BIZWlnaHQiOjU1MSwiY3JvcFgiOjAsImNyb3BZIjoxMjF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3022324/este-lotus-ficou-ligado-para-sempre-a-portugal-pode-ve-lo-no-caramulo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Este Lotus ficou ligado para sempre a Portugal. Pode vê-lo no Caramulo",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5870739401f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNTN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcxMywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3022263/myanmar-mais-de-500-refugiados-rohingya-podem-ter-morrido-em-naufragios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Myanmar. Mais de 500 refugiados rohingya podem ter morrido em naufrágios",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3022263/myanmar-mais-de-500-refugiados-rohingya-podem-ter-morrido-em-naufragios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784184032000,
-         "created": 1784184032000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_65fbefc975929.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEwLCJjcm9wSGVpZ2h0IjoxNDEyLCJjcm9wWCI6MjksImNyb3BZIjoxMTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NSwiY3JvcEhlaWdodCI6MTY5NywiY3JvcFgiOjkzMCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
