@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023714/antigo-presidente-do-jne-contra-generalizacao-da-correcao-digital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Antigo presidente do JNE contra generalização da correção digital",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023714/antigo-presidente-do-jne-contra-generalizacao-da-correcao-digital#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784412865000,
+         "created": 1784412865000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a30fb3d7326e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3023713/vitoria-sc-derrota-academica-em-jogo-particular-com-golos-jovens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vitória SC derrota Académica em jogo particular com golos 'jovens'",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a59cab68bfdf.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjgxMiwiY3JvcFkiOi0xfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3022895/bebe-com-10-meses-que-foi-violentamente-atacada-violada-perdeu-a-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Bebé com 10 meses que foi violentamente atacada, violada. Perdeu a vida\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3022895/bebe-com-10-meses-que-foi-violentamente-atacada-violada-perdeu-a-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784273040000,
-         "created": 1784273040000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68511f00d880e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTUyLCJjcm9wSGVpZ2h0Ijo2NDgsImNyb3BYIjoxMDQsImNyb3BZIjozMjF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwOCwiY3JvcEhlaWdodCI6MTA4MCwiY3JvcFgiOjM3MCwiY3JvcFkiOjI3M319",
                "type": "image/jpeg",
                "length": "0"
             }
