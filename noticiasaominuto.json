@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023643/dominado-incendio-florestal-que-deflagrou-em-ovar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dominado incêndio florestal que deflagrou em Ovar",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023643/dominado-incendio-florestal-que-deflagrou-em-ovar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784390698000,
+         "created": 1784390698000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_62d06dbbe0708.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3023644/oficial-sporting-confirma-saida-de-francisco-trincao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oficial: Sporting confirma saída de Francisco Trincão",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a58b87620cd0.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3022423/negocio-da-glovo-em-portugal-vendido-a-fundo-norte-americano-ssw-partners#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Negócio da Glovo em Portugal vendido a fundo norte-americano SSW Partners",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3022423/negocio-da-glovo-em-portugal-vendido-a-fundo-norte-americano-ssw-partners#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784202036000,
-         "created": 1784202036000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6876270bc1fed.webp",
                "type": "image/jpeg",
                "length": "0"
             }
