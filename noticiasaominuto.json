@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023595/gnr-detem-nove-pessoas-e-apreende-droga-em-operacao-na-margem-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "GNR detém nove pessoas e apreende droga em operação na Margem Sul",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023595/gnr-detem-nove-pessoas-e-apreende-droga-em-operacao-na-margem-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784379408000,
+         "created": 1784379408000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_624d4065e73dc.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjEyOTMsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/3023594/mai-temos-um-ministro-envolto-num-conjunto-de-trapalhadas-insolitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "MAI? Temos um ministro envolto num conjunto de trapalhadas insólitas\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6da4255d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3022776/intervalo-da-final-do-mundial-gera-polemica-mas-ha-precedentes-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Intervalo da final do Mundial gera polémica, mas há precedentes nos EUA",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3022776/intervalo-da-final-do-mundial-gera-polemica-mas-ha-precedentes-nos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784232733000,
-         "created": 1784232733000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a592786d7622.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE2OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTU4LCJjcm9wSGVpZ2h0IjoxNzAzLCJjcm9wWCI6ODA5LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
