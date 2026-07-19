@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3023917/cuba-fica-hoje-novamente-sem-luz-em-64-da-ilha-durante-a-tarde-e-noite#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cuba fica hoje novamente sem luz em 64% da ilha durante a tarde e noite",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3023917/cuba-fica-hoje-novamente-sem-luz-em-64-da-ilha-durante-a-tarde-e-noite#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784485348000,
+         "created": 1784485348000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5d07d6e6357.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3023920/almada-identificados-diversos-pontos-com-perdas-significativas-de-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Almada: Identificados \"diversos pontos com perdas significativas\" de água",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69fe1566e5471.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjY1LCJjcm9wWSI6Mjd9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3022809/oficial-yeimar-mosquera-reforca-vitoria-sc-ate-2030#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oficial: Yeimar Mosquera reforça Vitória SC até 2030",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3022809/oficial-yeimar-mosquera-reforca-vitoria-sc-ate-2030#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784238742000,
-         "created": 1784238742000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5944c00bfb5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzUwLCJjcm9wSGVpZ2h0Ijo3NjAsImNyb3BYIjowLCJjcm9wWSI6OTF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzMSwiY3JvcEhlaWdodCI6MTY1NSwiY3JvcFgiOjIyNSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
