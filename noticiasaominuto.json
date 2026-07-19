@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023805/calor-volta-a-apertar-na-proxima-semana-maximas-podem-chegar-aos-40-c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Calor volta a apertar na próxima semana. Máximas podem chegar aos 40 ºC",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023805/calor-volta-a-apertar-na-proxima-semana-maximas-podem-chegar-aos-40-c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784456015000,
+         "created": 1784456015000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_688d248ce6076.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3023802/urnas-abrem-em-ambiente-tranquilo-e-sem-filas-em-sao-tome-e-principe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Urnas abrem em ambiente tranquilo e sem filas em São Tomé e Príncipe",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a58f3ec00868.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3022635/boris-nadejdine-putin-conduz-a-russia-para-uma-catastrofe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Boris Nadejdine: \"Putin conduz a Rússia para uma catástrofe\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3022635/boris-nadejdine-putin-conduz-a-russia-para-uma-catastrofe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784220843000,
-         "created": 1784220843000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a58fe9e45170.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMxMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTg2LCJjcm9wSGVpZ2h0IjoxNzUyLCJjcm9wWCI6MTAzOSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
