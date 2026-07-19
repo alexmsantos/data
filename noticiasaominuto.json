@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3023895/agencia-da-onu-investiga-alegado-dos-eua-a-central-nuclear-no-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Agência da ONU investiga alegado dos EUA a central nuclear no Irão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3023895/agencia-da-onu-investiga-alegado-dos-eua-a-central-nuclear-no-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784482990000,
+         "created": 1784482990000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_63c1bcd2325e7.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3023912/estreante-para-os-dois-lados-benfica-e-braga-conhecem-arbitros-na-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dois em um. Benfica e Sp. Braga conhecem árbitros para a ronda europeia",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_657213831767e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE5LCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6MTYsImNyb3BZIjoyNzV9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3022791/oficial-mohamed-ouahbi-continua-no-comando-tecnico-de-marrocos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oficial: Mohamed Ouahbi continua no comando técnico de Marrocos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3022791/oficial-mohamed-ouahbi-continua-no-comando-tecnico-de-marrocos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784237376000,
-         "created": 1784237376000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a593ed8c55bc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjExNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAxNywiY3JvcEhlaWdodCI6MTgwOCwiY3JvcFgiOjY5NywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
