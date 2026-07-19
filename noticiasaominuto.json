@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023856/pj-investiga-assalto-com-recurso-a-explosivos-em-supermercado-de-coimbra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PJ investiga assalto com recurso a explosivos em supermercado de Coimbra",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023856/pj-investiga-assalto-com-recurso-a-explosivos-em-supermercado-de-coimbra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784468798000,
+         "created": 1784468798000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_61b8a030dca14.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNTgsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3023854/preventiva-para-professor-suspeito-de-abusar-menores-no-grande-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Preventiva para professor suspeito de abusar menores no Grande Porto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3023854/preventiva-para-professor-suspeito-de-abusar-menores-no-grande-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784468635000,
+         "created": 1784468635000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6707aeec95ecf.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3023853/nito-dabreu-apela-ao-voto-e-diz-que-respeitara-resultados-sem-fraude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nito d'Abreu apela ao voto e diz que respeitará resultados \"sem fraude\"",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_685966b41fb4e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3022745/europa-com-12-mil-mortes-em-excesso-no-auge-da-onda-de-calor-em-junho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Europa com 12 mil mortes em excesso no auge da onda de calor em junho",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3022745/europa-com-12-mil-mortes-em-excesso-no-auge-da-onda-de-calor-em-junho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784229380000,
-         "created": 1784229380000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47435390.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3022729/festival-iminente-rejeita-expulsao-de-sem-abrigos-para-evento-e-cml#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Festival Iminente rejeita \"expulsão\" de sem-abrigo para evento. E CML?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3022729/festival-iminente-rejeita-expulsao-de-sem-abrigos-para-evento-e-cml#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784229193000,
-         "created": 1784229193000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5f815d433f5a8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTI2LCJjcm9wSGVpZ2h0IjoxMTk2LCJjcm9wWCI6LTEsImNyb3BZIjo0MzN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkwMSwiY3JvcEhlaWdodCI6MTYwMSwiY3JvcFgiOjIwNSwiY3JvcFkiOjQ2fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
