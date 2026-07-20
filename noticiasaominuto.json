@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3024312/eua-acusam-cuba-de-decadas-de-atividades-subversivas-contra-washington#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EUA acusam Cuba de décadas de atividades subversivas contra Washington",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3024312/eua-acusam-cuba-de-decadas-de-atividades-subversivas-contra-washington#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784560590000,
+         "created": 1784560590000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a36272215ddf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3024270/pepa-assume-que-vao-ter-de-entrar-novos-jogadores-no-estrela-da-amadora#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pepa assume que \"vão ter de entrar novos jogadores\" no Estrela da Amadora",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69b907b7e8d59.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/3023573/plataforma-de-visitas-virtuais-a-museus-e-monumentos-ja-esta-disponivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Plataforma de visitas virtuais a museus e monumentos já está disponível",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/cultura/3023573/plataforma-de-visitas-virtuais-a-museus-e-monumentos-ja-esta-disponivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784374315000,
-         "created": 1784374315000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/23739625.webp",
                "type": "image/jpeg",
                "length": "0"
             }
