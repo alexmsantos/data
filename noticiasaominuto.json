@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3024056/de-2016-ate-agora-as-polemicas-e-acusacoes-contra-os-irmaos-tate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "De 2016 até agora: As polémicas e acusações contra os irmãos Tate",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3024056/de-2016-ate-agora-as-polemicas-e-acusacoes-contra-os-irmaos-tate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784535764000,
+         "created": 1784535764000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67ab5eb9a202c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MzE0LCJjcm9wWSI6MTJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjQ3NywiY3JvcFkiOjl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3024053/telemovel-com-ia-ajuda-a-controlar-doencas-respiratorias-em-criancas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Telemóvel com IA ajuda a controlar doenças respiratórias em crianças",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_579e6ade5d42b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3022976/bombeiros-de-oakland-dao-oxigenio-a-pombo-apos-incendio-e-ha-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bombeiros de Oakland dão oxigénio a pombo após incêndio – e há imagens",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3022976/bombeiros-de-oakland-dao-oxigenio-a-pombo-apos-incendio-e-ha-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784283733000,
-         "created": 1784283733000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a59f1c38c1e1.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQzNCwiY3JvcEhlaWdodCI6NzcyLCJjcm9wWCI6Nzc1LCJjcm9wWSI6MH0sImxhbmRzY2FwZSI6eyJjcm9wV2lkdGgiOjU2MywiY3JvcEhlaWdodCI6MzE3LCJjcm9wWCI6NjUyLCJjcm9wWSI6Mjk1fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
