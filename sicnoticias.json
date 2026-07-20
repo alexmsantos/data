@@ -37,7 +37,7 @@
       {
          "id": "11c5271a-18a9-471a-b50c-c8e28dccf905",
          "title": "Calendário de acesso ao Ensino Superior mantém-se, mas será criada época especial em setembro",
-         "description": "<p><span>A possibilidade de realização de exames numa “época especial” será dada aos \"</span><span>alunos que não dispõem de toda a informação necessária para decidir se devem ir à 2ª fase\" e </span><span>\"cuja classificação venha a ser alterada em resultado das desconformidades da digitalização”.</span></p>",
+         "description": "<p><span>A possibilidade de realização de exames numa “época especial” será dada aos </span><span>alunos </span><span>\"cuja classificação venha a ser alterada em resultado das desconformidades da digitalização”.</span></p>",
          "link": "https://sicnoticias.pt/pais/educacao/2026-07-20-calendario-de-acesso-ao-ensino-superior-mantem-se-mas-sera-criada-epoca-especial-em-setembro-713c4256",
          "author": "SIC Notícias",
          "published": 1784546653000,
@@ -126,7 +126,10 @@
          "title": "Bruxelas multa AliExpress em 550 milhões de euros por venda de produtos ilegais, inseguros ou contrafeitos",
          "description": "<p><span>É a terceira e maior coima aplicada pela UE</span><span> </span><span>por violação da Lei dos Serviços Digitais</span><span> após X e Temu. </span><span>A AliExpress diz que a multa foi desproporcional.</span></p>",
          "link": "https://sicnoticias.pt/economia/2026-07-20-bruxelas-multa-aliexpress-em-550-milhoes-de-euros-por-venda-de-produtos-ilegais-inseguros-ou-contrafeitos-7ad49faa",
-         "author": "SIC Notícias",
+         "author": [
+            "SIC Notícias",
+            "Lusa"
+         ],
          "published": 1784543421000,
          "created": 1784543421000,
          "category": "Economia",
