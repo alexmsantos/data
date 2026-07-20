@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3024062/retomadas-buscas-por-jovem-desaparecido-no-rio-minho-em-caminha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Retomadas buscas por jovem desaparecido no rio Minho em Caminha",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3024062/retomadas-buscas-por-jovem-desaparecido-no-rio-minho-em-caminha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784536172000,
+         "created": 1784536172000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5ed781f7e6b52.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjk4LCJjcm9wSGVpZ2h0IjoxMjkyLCJjcm9wWCI6MTIxLCJjcm9wWSI6NzB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3024056/de-2016-ate-agora-as-polemicas-e-acusacoes-contra-os-irmaos-tate#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "De 2016 até agora: As polémicas e acusações contra os irmãos Tate",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a59f6e243b7e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/3022877/musicas-do-mundo-regressam-a-porto-covo-e-sines-com-concertos-e-nao-so#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Músicas do Mundo regressam a Porto Covo e Sines com concertos e não só",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/cultura/3022877/musicas-do-mundo-regressam-a-porto-covo-e-sines-com-concertos-e-nao-so#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784284259000,
-         "created": 1784284259000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_579e6ade5d42b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
