@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2026 em Portugal",
+         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para os próximos meses: uma agenda sempre em atualização</p>",
+         "link": "https://expresso.pt/blitz/agenda/2026-07-20-todos-os-concertos-marcados-para-2026-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1784536500000,
+         "created": 1784536500000,
+         "category": "Agenda",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "dd4695c9-78d2-4cf3-9757-aed800de894b",
          "title": "Ataque russo contra navio mercante com bandeira da Guiné-Bissau faz pelo menos seis mortos",
          "description": "<p><span>Rússia </span><span>e Ucrânia têm realizado ataques diários contra petroleiros e cargueiros de bandeira estrangeira que atraquem em portos ucranianos ou ocupados pelos russos </span></p>",
@@ -222,38 +251,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "d2dcfeca-cea8-41f7-9f39-d8e88cf8be88",
-         "title": "Pais e alunos à beira de um ataque de nervos",
-         "description": "<p>As últimas notas chegaram ontem, o prazo para inscrição na segunda fase dos exames termina hoje e as provas dessa fase começam amanhã. Espera-se por um aumento dos pedidos de revisão de nota. Neste episódio, conversamos com a jornalista Isabel Leiria</p>",
-         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-07-20-pais-e-alunos-a-beira-de-um-ataque-de-nervos-35f71c6b",
-         "author": [
-            "Paulo Baldaia",
-            "Salomé Rita"
-         ],
-         "published": 1784525400000,
-         "created": 1784525400000,
-         "category": "Expresso da Manhã",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
