@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3024204/alunos-da-soares-dos-reis-no-porto-exigem-responsabilizacao-pelas-falhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Alunos da Soares dos Reis no Porto exigem responsabilização pelas falhas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3024204/alunos-da-soares-dos-reis-no-porto-exigem-responsabilizacao-pelas-falhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784550656000,
+         "created": 1784550656000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_51beeb2a91d24.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozNTAyLCJjcm9wSGVpZ2h0IjoxOTcwLCJjcm9wWCI6LTEsImNyb3BZIjoxNTR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3024199/palestina-sauda-belgica-por-proibir-importacoes-de-colonatos-israelitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Palestina saúda Bélgica por proibir importações de colonatos israelitas",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ce290737884.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTUwLCJjcm9wSGVpZ2h0IjoxNDM0LCJjcm9wWCI6MTEsImNyb3BZIjoyN319",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ce290737884.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTUwLCJjcm9wSGVpZ2h0IjoxNDM0LCJjcm9wWCI6MTEsImNyb3BZIjoyN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTIzNSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -154,7 +175,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/3024193/ao-minuto-ministro-da-educacao-ja-fala-ao-pais-sobre-exames-nacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "AO MINUTO: Governo mantém calendário da 1.ª fase de acesso ao Superior",
+         "title": "AO MINUTO: \"Não há razão\" para alterar calendário de acesso ao Superior",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/3024193/ao-minuto-ministro-da-educacao-ja-fala-ao-pais-sobre-exames-nacionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5a70f6b6607.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3023445/reforcos-antigos-resolvem-antes-da-estreia-benfica-villarreal-a-lupa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "'Reforços' antigos resolvem antes da estreia. Benfica-Villarreal à lupa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3023445/reforcos-antigos-resolvem-antes-da-estreia-benfica-villarreal-a-lupa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784359927000,
-         "created": 1784359927000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5a9eec8adf5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo0MjJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
