@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3024690/onda-de-calor-na-europa-por-ca-termometros-podem-chegar-aos-40c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Onda de calor na Europa. Por cá, termómetros podem chegar aos 40ºC",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3024690/onda-de-calor-na-europa-por-ca-termometros-podem-chegar-aos-40c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784627356000,
+         "created": 1784627356000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5f268b6fe2b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3024705/jennifer-finch-das-l7-morre-aos-59-anos-logo-apos-falarem-de-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jennifer Finch, das L7, morre aos 59 anos logo após falarem de cancro",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67f62cd0e56ac.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3023648/vitoria-sc-goleia-penafiel-em-teste-de-pre-epoca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vitória SC goleia Penafiel em teste de pré-época",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3023648/vitoria-sc-goleia-penafiel-em-teste-de-pre-epoca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784391841000,
-         "created": 1784391841000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5b9a6c50ce8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTM3LCJjcm9wSGVpZ2h0Ijo4NjQsImNyb3BYIjowLCJjcm9wWSI6NTQwfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
