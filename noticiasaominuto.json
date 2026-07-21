@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3024956/ataques-xenofobos-levam-1472-mocambicanos-a-deixar-africa-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ataques xenófobos levam 1.472 moçambicanos a deixar África do Sul",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3024956/ataques-xenofobos-levam-1472-mocambicanos-a-deixar-africa-do-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784650399000,
+         "created": 1784650399000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/8357253.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3024950/mundial2030-gera-polemica-e-tebas-pede-cabeca-de-infantino-uma-mentira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mundial2030 dá polémica e Tebas pede a cabeça de Infantino: \"Uma mentira\"",
@@ -6412,7 +6433,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/politica/3024437/chega-pede-a-montenegro-e-seguro-que-atuem-sobre-ministro-do-mai#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chega pede a Montenegro e Seguro que atuem sobre ministro Luís Nevez",
+         "title": "Chega pede a Montenegro e Seguro que atuem sobre ministro Luís Neves",
          "description": "",
          "link": "https://www.noticiasaominuto.com/politica/3024437/chega-pede-a-montenegro-e-seguro-que-atuem-sobre-ministro-do-mai#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47456435.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6MCwiY3JvcFkiOjN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjY5OCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3024070/caso-balogun-irao-malvinas-e-nao-so-as-polemicas-do-mundial2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Caso Balogun, Irão, Malvinas e não só. As polémicas do Mundial2026",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3024070/caso-balogun-irao-malvinas-e-nao-so-as-polemicas-do-mundial2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784538506000,
-         "created": 1784538506000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5dd6b61b5a4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzc2LCJjcm9wSGVpZ2h0IjoxMzM3LCJjcm9wWCI6MCwiY3JvcFkiOjM3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4NzksImNyb3BIZWlnaHQiOjE1NjMsImNyb3BYIjoxMTg2LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
