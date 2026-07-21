@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3025126/exames-medias-baixam-a-portugues-e-biologia-e-sobem-a-matematica-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Exames: Médias baixam a Português e Biologia e sobem a Matemática A",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3025126/exames-medias-baixam-a-portugues-e-biologia-e-sobem-a-matematica-a#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784664947000,
+         "created": 1784664947000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6490952887072.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3025119/luis-figo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "A escapadinha de Luís Figo e a família em Nova Iorque: Veja as imagens",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5e0e776b707.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3024229/presidente-iraniano-diz-que-pais-esta-em-guerra-total-com-os-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Presidente iraniano diz que país está em \"guerra total\" com os EUA",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3024229/presidente-iraniano-diz-que-pais-esta-em-guerra-total-com-os-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784552565000,
-         "created": 1784552565000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47311509.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQwLCJjcm9wSGVpZ2h0IjoxMTQ4LCJjcm9wWCI6NTEwLCJjcm9wWSI6MzU3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NTcsImNyb3BIZWlnaHQiOjE3MDEsImNyb3BYIjoxMzg3LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
