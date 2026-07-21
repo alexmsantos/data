@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3025104/franca-proibe-acesso-as-redes-sociais-a-menores-de-15-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "França proíbe acesso às redes sociais a menores de 15 anos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3025104/franca-proibe-acesso-as-redes-sociais-a-menores-de-15-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784662893000,
+         "created": 1784662893000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_666c27ea7a5a7.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3025102/am-recomenda-a-cml-que-cesse-remocoes-coercivas-de-cartazes-politicos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "AM recomenda à CML que cesse remoções coercivas de cartazes políticos",
@@ -49,7 +70,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/economia/3025097/pinto-luz-elogia-arrojo-do-porto-pelos-transportes-publicos-gratis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pinto Luz elogia \"arrojo\" do Porto pelos transportes públicos grátis",
+         "title": "Transporte público grátis? Pinto Luz elogia \"arrojo e inovação\" do Porto",
          "description": "",
          "link": "https://www.noticiasaominuto.com/economia/3025097/pinto-luz-elogia-arrojo-do-porto-pelos-transportes-publicos-gratis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_51beeb2a91d24.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozNTAyLCJjcm9wSGVpZ2h0IjoxOTcwLCJjcm9wWCI6LTEsImNyb3BZIjoxNTR9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3024199/palestina-sauda-belgica-por-proibir-importacoes-de-colonatos-israelitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Palestina saúda Bélgica por proibir importações de colonatos israelitas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3024199/palestina-sauda-belgica-por-proibir-importacoes-de-colonatos-israelitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784550258000,
-         "created": 1784550258000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ce290737884.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTUwLCJjcm9wSGVpZ2h0IjoxNDM0LCJjcm9wWCI6MTEsImNyb3BZIjoyN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTIzNSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
