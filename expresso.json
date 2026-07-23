@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "708d5ee0-3eb3-4a24-8adc-001d5f96d825",
+         "title": "Quem quer ser líder digital? Segurança online pode começar contigo!",
+         "description": "<p><span>Marta Gonçalves é estudante de Engenharia Física e Tecnológica </span><span>no Instituto Superior Técnico e participa em muitos projetos (em </span><span>Portugal e na Europa) que ajudam a usar o mundo digital de forma mais </span><span>segura. Já ouviste falar dos Líderes Digitais?</span></p>",
+         "link": "https://expresso.pt/expressinho/2026-07-23-quem-quer-ser-lider-digital--seguranca-online-pode-comecar-contigo-9e6119a2",
+         "author": "Expresso",
+         "published": 1784804901000,
+         "created": 1784804901000,
+         "category": "Expressinho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-23-photo_marta.jpeg-944a547e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-23-photo_marta.jpeg-944a547e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-23-photo_marta.jpeg-944a547e/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "a930cce0-7a1f-4502-85f1-44bde1998efe",
          "title": "Poema do mês: O relógio de bolso",
          "description": "",
@@ -248,35 +277,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "9baaf78d-7e6e-4262-beb0-364b93bb4820",
-         "title": "Acusado de usar IA, Papa Leão XIV certifica encíclica anti-inteligência artificial como obra humana",
-         "description": "<p><span>O Vaticano certificou como integralmente humana a encíclica \"Magnifica Humanitas\", do Papa Leão XIV, após acusações de que partes do documento teriam sido produzidas com recurso à inteligência artificial. A validação foi realizada por uma empresa especializada, recorrendo também a ferramentas de análise baseadas em IA para comparar estilos de escrita</span></p>",
-         "link": "https://expresso.pt/religiao/2026-07-23-papa-leao-xiv-prova-que-enciclica-anti-ia-nao-foi-escrita-por-inteligencia-artificial-bee689b9",
-         "author": "Expresso",
-         "published": 1784799388000,
-         "created": 1784799388000,
-         "category": "Religião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-23-papa-leao-xiv-b7c600d9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-23-papa-leao-xiv-b7c600d9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-07-23-papa-leao-xiv-b7c600d9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
