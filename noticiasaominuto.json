@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3026118/fia-profundamente-consternada-com-morte-de-talento-portugues#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "FIA \"profundamente consternada\" com morte de talento português",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3026118/fia-profundamente-consternada-com-morte-de-talento-portugues#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784806224000,
+         "created": 1784806224000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a61ec028cb3a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3026114/ben-gvir-celebra-sentimento-de-posse-sobre-a-esplanada-das-mesquitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ben Gvir celebra sentimento de posse sobre a esplanada das Mesquitas",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6164411ba8bf6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3025166/observacao-de-eclipse-astrofisico-alerta-para-uso-de-oculos-certificados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Observação de eclipse? Astrofísico alerta para uso de óculos certificados",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3025166/observacao-de-eclipse-astrofisico-alerta-para-uso-de-oculos-certificados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784672139000,
-         "created": 1784672139000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67e722ce8dbda.webp",
                "type": "image/jpeg",
                "length": "0"
             }
