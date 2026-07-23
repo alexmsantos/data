@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "ad3ada05-b4e1-409d-827d-11e6986fbf06",
+         "title": "Bebé morre após ser esquecida numa carrinha escolar em Almada",
+         "description": "<p><span>Óbito foi declarado no local. A menina terá ficado esquecida numa viatura da escola </span></p>",
+         "link": "https://expresso.pt/sociedade/2026-07-23-bebe-morre-apos-ser-esquecida-numa-carrinha-escolar-em-almada-98b15a94",
+         "author": "Expresso",
+         "published": 1784824665000,
+         "created": 1784824665000,
+         "category": "Sociedade",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-02-psp-agente-geral.jpg-e8761630/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-02-psp-agente-geral.jpg-e8761630/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-02-psp-agente-geral.jpg-e8761630/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "e8a44a4c-1ae0-4da3-8ee7-8e29eea900f1",
          "title": "Escaldado pelo regresso da guerra ao Médio Oriente, BCE vê nuvens negras na inflação. Lagarde fica, para já, ao leme",
          "description": "<p><span>As mudanças rápidas na situação internacional podem ter tido o efeito nefasto de tornar os mercados cépticos em relação a qualquer nova tentativa de paz, disse Lagarde, o que poderá manter os preços da energia nos píncaros. Os analistas concordam que um aumento em setembro parece garantido</span></p>",
@@ -126,7 +155,10 @@
          "title": "Erros na classificação automática afetaram 25 mil exames, maioria dos alunos acabou por ter notas mais altas",
          "description": "<p><span>Geografia, Física e Química, História e Português Língua Não Materna foram os exames em que a c</span><span>have para a classificação automática estava errada. Notas dos alunos afetados pelos erros voltaram a ser revistas, no caso de Geografia, por duas vezes</span></p>",
          "link": "https://expresso.pt/educacao/ensino-secundario/2026-07-23-erros-na-classificacao-automatica-afetaram-25-mil-exames-maioria-dos-alunos-acabou-por-ter-notas-mais-altas-348131b4",
-         "author": "Isabel Leiria",
+         "author": [
+            "Isabel Leiria",
+            "Joana Pereira Bastos"
+         ],
          "published": 1784821221000,
          "created": 1784821221000,
          "category": "Ensino Secundário",
@@ -261,35 +293,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-07-21-exames-nacionais-de-portugues-no-liceu-camoes-fd78d6bd/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "518d64c2-fc69-4574-8dbe-aaf66a8e275c",
-         "title": "A capela no promontório e duas praias unidas por um túnel para descobrir em Lagoa, no Algarve",
-         "description": "<p>Pescadores, grutas, duas praias unidas por um túnel e uma capela no topo da falésia destacam-se neste roteiro de descoberta no município de Lagoa, no Algarve. Para ver sábado (Horário indicativo: 11h35)</p>",
-         "link": "https://expresso.pt/boa-cama-boa-mesa/viagens-hoteis/roteiros-escapadinhas/2026-07-23-a-capela-no-promontorio-e-duas-praias-unidas-por-um-tunel-para-descobrir-em-lagoa-no-algarve-1003a096",
-         "author": "BCBM",
-         "published": 1784817660000,
-         "created": 1784817660000,
-         "category": "Roteiros e Escapadinhas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-capela-cm-lagoa-1.jpg-471e0eef/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-capela-cm-lagoa-1.jpg-471e0eef/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-08-21-capela-cm-lagoa-1.jpg-471e0eef/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
