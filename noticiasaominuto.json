@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3027302/vincent-janssen-e-hipotese-para-o-fc-porto-a-custo-zero#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Vincent Janssen é hipótese para o FC Porto a 'custo zero'",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3027302/vincent-janssen-e-hipotese-para-o-fc-porto-a-custo-zero#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784980575000,
+         "created": 1784980575000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a64961d41fed.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3027297/o-casamento-de-gianluigi-donnarumma-com-erling-haaland-em-destaque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "O casamento de Gianluigi Donnarumma (com Erling Haaland em destaque)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68c29fffa8c30.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3026076/policia-da-albania-usou-gas-lacrimogeneo-contra-manifestacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Polícia da Albânia usou gás lacrimogéneo contra manifestação",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3026076/policia-da-albania-usou-gas-lacrimogeneo-contra-manifestacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784803176000,
-         "created": 1784803176000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a61e0b4ae105.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMzJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
