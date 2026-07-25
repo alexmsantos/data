@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/3027490/panteao-e-coliseu-de-roma-vao-ter-horarios-noturnos-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Panteão e Coliseu de Roma vão ter horários noturnos em agosto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/3027490/panteao-e-coliseu-de-roma-vao-ter-horarios-noturnos-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785023941000,
+         "created": 1785023941000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6541a8328ca.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3027233/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a623fc1a6959.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjg3MSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3026357/nao-acredito-que-estou-a-escrever-isto-o-meu-pai-morreu-repentinamente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Não acredito que estou a escrever isto, o meu pai morreu repentinamente\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3026357/nao-acredito-que-estou-a-escrever-isto-o-meu-pai-morreu-repentinamente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784825786000,
-         "created": 1784825786000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a623404eb459.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQyLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MTgsImNyb3BZIjotMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6Nzk3LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
