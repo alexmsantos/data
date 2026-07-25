@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3027331/oficial-tomas-tavares-volta-a-portugal-para-jogar-no-maritimo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: Tomás Tavares volta a Portugal para jogar no Marítimo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3027331/oficial-tomas-tavares-volta-a-portugal-para-jogar-no-maritimo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1784987264000,
+         "created": 1784987264000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a64b04f21c8b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6NzN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3027325/conheca-sami-a-nova-cria-de-golfinho-roaz-do-zoomarine-destemido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Conheça SAMI, a nova cria de golfinho-roaz do Zoomarine: \"Destemido\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_62021f22d3c5c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3026126/google-multada-em-890-milhoes-por-favorecer-servicos-proprios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Google multada em 890 milhões por favorecer serviços próprios",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3026126/google-multada-em-890-milhoes-por-favorecer-servicos-proprios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784807182000,
-         "created": 1784807182000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1fdbd831ea5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MTgsImNyb3BZIjo1Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQwLCJjcm9wSGVpZ2h0IjoxNjcyLCJjcm9wWCI6NjA3LCJjcm9wWSI6MTh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
