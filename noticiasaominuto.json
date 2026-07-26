@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3027602/bartlett-e-mariana-van-zeller-em-conferencia-sobre-futuro-do-trabalho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bartlett e Mariana van Zeller em conferência sobre futuro do trabalho",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3027602/bartlett-e-mariana-van-zeller-em-conferencia-sobre-futuro-do-trabalho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785075852000,
+         "created": 1785075852000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a660a3b0febd.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwOCwiY3JvcEhlaWdodCI6MTA4MCwiY3JvcFgiOjEwNzIsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3027604/presidente-da-republica-felicita-campeoes-da-europa-de-hoquei-em-patins#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Presidente da República felicita campeões da Europa de hóquei em patins",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/28543551.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3026555/casa-branca-nega-pedido-de-netanyahu-sobre-acordo-nuclear-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Casa Branca nega pedido de Netanyahu sobre acordo nuclear saudita",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3026555/casa-branca-nega-pedido-de-netanyahu-sobre-acordo-nuclear-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784844630000,
-         "created": 1784844630000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_689b86f80150f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQxLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MTksImNyb3BZIjo3M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6Nzk4LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
