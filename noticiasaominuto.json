@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3027899/siria-negoceia-com-eua-relancamento-de-oleoduto-do-iraque-alternativo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Síria negoceia com EUA relançamento de oleoduto do Iraque alternativo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3027899/siria-negoceia-com-eua-relancamento-de-oleoduto-do-iraque-alternativo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785153678000,
+         "created": 1785153678000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6978f9b04f809.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoyNDF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3027894/despedimento-por-justa-causa-nao-exclui-acesso-a-prestacao-social-unica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Despedimento por justa causa não exclui acesso à Prestação Social Única",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a644bd9e5352.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3026878/do-fracasso-em-alvalade-ao-duelo-com-cr7-o-que-e-feito-de-marian-had#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Do fracasso em Alvalade ao duelo com CR7. O que é feito de Marian Had?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3026878/do-fracasso-em-alvalade-ao-duelo-com-cr7-o-que-e-feito-de-marian-had#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784961226000,
-         "created": 1784961226000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a635209bdcb1.webp",
                "type": "image/jpeg",
                "length": "0"
             }
