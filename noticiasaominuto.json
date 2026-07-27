@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3028045/alverca-volta-a-treinar-em-casa-apos-inaugurar-novo-campo-relvado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Alverca volta a treinar em casa após inaugurar novo campo relvado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3028045/alverca-volta-a-treinar-em-casa-apos-inaugurar-novo-campo-relvado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785168033000,
+         "created": 1785168033000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a67725e53832.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3028048/mau-tempo-doze-municipios-gestores-de-paisagem-receberam-18-5-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mau tempo: Doze municípios gestores de paisagem receberam 18,5 milhões",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3028048/mau-tempo-doze-municipios-gestores-de-paisagem-receberam-18-5-milhoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785167977000,
+         "created": 1785167977000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/46504412.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3028050/formula-e-toquio-felix-da-costa-frustrado-e-mais-longe-do-titulo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fórmula E, Tóquio: Félix da Costa frustrado e mais longe do título",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3028050/formula-e-toquio-felix-da-costa-frustrado-e-mais-longe-do-titulo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785167967000,
+         "created": 1785167967000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a677205ae02c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3028043/apos-consumir-cocaina-e-agredir-amiga-homem-ataca-agentes-da-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Após consumir cocaína e agredir amiga, homem ataca agentes da PSP",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3028043/apos-consumir-cocaina-e-agredir-amiga-homem-ataca-agentes-da-psp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785167890000,
+         "created": 1785167890000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67fd21a4d20ee.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk3MiwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3028011/tenta-embarcar-com-passaporte-falso-no-aeroporto-de-faro-psp-deteve-o#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tenta embarcar com \"passaporte falso\" no Aeroporto de Faro. PSP deteve-o",
@@ -10205,90 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a64a306e4ce3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTY2LCJjcm9wWSI6MzJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjQ0NCwiY3JvcFkiOjQyfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3027309/resgatados-11-turistas-europeus-e-tripulante-apos-naufragio-na-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Resgatados 11 turistas europeus e tripulante após naufrágio na Indonésia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3027309/resgatados-11-turistas-europeus-e-tripulante-apos-naufragio-na-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784982110000,
-         "created": 1784982110000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5b534f2462afe.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3027308/oficial-atletico-de-madrid-compra-lee-kang-in-ao-psg#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Oficial: Atlético de Madrid compra Lee Kang-In ao PSG",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3027308/oficial-atletico-de-madrid-compra-lee-kang-in-ao-psg#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784981672000,
-         "created": 1784981672000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a649a86638f8.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3027307/tribunal-declara-ilicito-despedimento-em-modelo-de-contratacao-internacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tribunal declara ilícito despedimento em modelo de contratação internacional",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3027307/tribunal-declara-ilicito-despedimento-em-modelo-de-contratacao-internacional#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784981584000,
-         "created": 1784981584000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6707aeec95ecf.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3027206/eua-recebem-50-dos-lucros-de-ponte-com-canada-trump-reivindica-merito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EUA recebem 50% dos lucros de ponte com Canadá: Trump reivindica mérito",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3027206/eua-recebem-50-dos-lucros-de-ponte-com-canada-trump-reivindica-merito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1784981462000,
-         "created": 1784981462000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f4fca3260f3.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYzMCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
