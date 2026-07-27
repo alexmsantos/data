@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3028231/oficial-vitoria-sc-renova-com-campeao-mundial-sub-17-santiago-verdi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: Vitória SC renova com campeão mundial sub-17 Santiago Verdi",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3028231/oficial-vitoria-sc-renova-com-campeao-mundial-sub-17-santiago-verdi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785187584000,
+         "created": 1785187584000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a67bead5b697.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3028230/vila-verde-190-operacionais-combatem-fogo-meios-aereos-desmobilizaram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vila Verde: 190 operacionais combatem fogo, meios aéreos desmobilizaram",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6536bfaf2b0.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3027456/maritimo-empata-a-zeros-com-ad-machico-em-jogo-particular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Marítimo empata a zeros com AD Machico em jogo particular",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3027456/maritimo-empata-a-zeros-com-ad-machico-em-jogo-particular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785016962000,
-         "created": 1785016962000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_63badb9532448.webp",
                "type": "image/jpeg",
                "length": "0"
             }
