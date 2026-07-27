@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3028184/sinistros-participados-devido-ao-mau-tempo-ultrapassam-os-219-mil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sinistros participados devido ao mau tempo ultrapassam os 219 mil",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3028184/sinistros-participados-devido-ao-mau-tempo-ultrapassam-os-219-mil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785179509000,
+         "created": 1785179509000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/46645637.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/politica/3028179/pcp-pede-regulacao-dos-combustiveis-e-critica-chega-ps-e-il#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PCP pede regulação dos combustíveis e critica Chega, PS e IL",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47334138.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3027404/vizela-perde-com-sp-braga-b-por-3-2-em-jogo-particular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vizela perde com Sp. Braga B por 3-2 em jogo particular",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3027404/vizela-perde-com-sp-braga-b-por-3-2-em-jogo-particular#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785002419000,
-         "created": 1785002419000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a64eb6b40d35.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzM4LCJjcm9wSGVpZ2h0IjoxMzE1LCJjcm9wWCI6LTEsImNyb3BZIjo3NTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
