@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3028174/fogo-no-concelho-de-braganca-em-zona-isolada-entra-em-fase-de-resolucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fogo no concelho de Bragança em \"zona isolada\" entra em fase de resolução",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3028174/fogo-no-concelho-de-braganca-em-zona-isolada-entra-em-fase-de-resolucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785178876000,
+         "created": 1785178876000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68892df6ef05c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3028134/oma-discute-acordo-justo-para-ormuz-com-paises-do-golfo-persico-e-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Omã discute \"acordo justo\" para Ormuz com países do Golfo Pérsico e Irão",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a64ea557a84d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3027395/israel-mata-diretor-da-policia-do-hamas-em-gaza-apos-ataque-aereo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": " Israel mata diretor da polícia do Hamas em Gaza após ataque aéreo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3027395/israel-mata-diretor-da-policia-do-hamas-em-gaza-apos-ataque-aereo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785001852000,
-         "created": 1785001852000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a64e96f26103.webp",
                "type": "image/jpeg",
                "length": "0"
             }
