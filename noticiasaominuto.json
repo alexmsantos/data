@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3028230/vila-verde-190-operacionais-combatem-fogo-meios-aereos-desmobilizaram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Vila Verde: 190 operacionais combatem fogo, meios aéreos desmobilizaram",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3028230/vila-verde-190-operacionais-combatem-fogo-meios-aereos-desmobilizaram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785186966000,
+         "created": 1785186966000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4968cae6881.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3028177/alto-risco-de-infestacao-nunca-faca-isto-quando-voltar-de-ferias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Alto risco de infestação!\" Nunca faça isto quando voltar de férias",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_63badb9532448.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3027457/fc-porto-bate-aston-villa-no-ultimo-teste-antes-do-duelo-para-a-supertaca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "FC Porto bate Aston Villa no último teste antes do duelo para a Supertaça",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3027457/fc-porto-bate-aston-villa-no-ultimo-teste-antes-do-duelo-para-a-supertaca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785016725000,
-         "created": 1785016725000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a651e1062646.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0NSwiY3JvcEhlaWdodCI6MTY4MCwiY3JvcFgiOjcwOSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
