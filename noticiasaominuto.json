@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3028798/fpf-e-arquivo-nacional-inauguram-exposicao-para-recordar-mundiais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "FPF e Arquivo Nacional inauguram exposição para recordar Mundiais",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3028798/fpf-e-arquivo-nacional-inauguram-exposicao-para-recordar-mundiais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785272281000,
+         "created": 1785272281000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6909b2a8909.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3028753/furtaram-todas-as-torneiras-de-cemiterio-em-freguesia-da-figueira-da-foz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Furtaram todas as torneiras de cemitério em freguesia da Figueira da Foz",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a674d13e01f3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTg4LCJjcm9wSGVpZ2h0Ijo2NjgsImNyb3BYIjo4LCJjcm9wWSI6Njl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU2OSwiY3JvcEhlaWdodCI6MTAxMSwiY3JvcFgiOjIxLCJjcm9wWSI6MTN9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3027953/nova-mercadona-em-torres-novas-gera-criticas-do-bloco-de-esquerda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nova Mercadona em Torres Novas gera críticas do Bloco de Esquerda",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3027953/nova-mercadona-em-torres-novas-gera-criticas-do-bloco-de-esquerda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785159803000,
-         "created": 1785159803000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_692f14c460f9c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI0NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ1LCJjcm9wSGVpZ2h0IjoxNjc5LCJjcm9wWCI6NjU3LCJjcm9wWSI6MTJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
