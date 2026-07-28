@@ -6,6 +6,47 @@
    "category": [],
    "items": [
       {
+         "id": "a62e375a-cf09-4bea-950f-7ea46d952e86",
+         "title": "Uma odisseia americana",
+         "description": "<p>É impossível consumir uma obra-prima sem os orgulhos e preconceitos do tempo. E a subjetividade, que molda as paixões</p>",
+         "link": "https://expresso.pt/opiniao/2026-07-28-uma-odisseia-americana-71e781b9",
+         "author": "Clara Ferreira Alves",
+         "published": 1785219840000,
+         "created": 1785219840000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "3ece6eb3-50f0-40eb-a095-eb3f3bc31cd2",
+         "title": "“O incêndio desceu pela encosta qual bola de fogo”: a luta a contrarrelógio contra a destruição",
+         "description": "<p>Para esta quarta-feira prevê-se nova vaga de calor com ventos fortes, que poderão reativar os fogos que assolam o centro de Espanha. Governo promete ação, mas populações desesperam</p>",
+         "link": "https://expresso.pt/espanha/2026-07-28-o-incendio-desceu-pela-encosta-qual-bola-de-fogo-a-luta-a-contrarrelogio-contra-a-destruicao-d9528647",
+         "author": "Gorka Castillo",
+         "published": 1785219840000,
+         "created": 1785219840000,
+         "category": "Espanha",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-27-gettyimages-2287144924.jpg-5614f580/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-27-gettyimages-2287144924.jpg-5614f580/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-27-gettyimages-2287144924.jpg-5614f580/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "73babcd5-52a2-461d-bec5-65ca6133b78b",
          "title": "Sai mais um sobre a Odisseia",
          "description": "<p><span>Aquilo que projectamos na queda da Idade do Bronze será, porventura, o nosso próprio receio de que uma ordem global, interligada e frágil, se esteja a desmanchar, e fica no ar uma pergunta que o filme tem o bom gosto de deixar sem resposta: se essa convicção é lucidez, ou se é antes a vaidade, o gozo secreto de ser a nossa época a viver o fim de uma era</span></p>",
@@ -225,64 +266,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-07-21-exames-nacionais-de-portugues-no-liceu-camoes-fd78d6bd/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "66ace099-ef64-4464-a3c0-8ca59934f2f3",
-         "title": "Israel libertou e enviou para Gaza 60 prisioneiros palestinianos",
-         "description": "<p>Trata-se do maior grupo de habitantes do enclave libertado desde o acordo de troca de reféns em outubro passado, informou o Comité Internacional da Cruz Vermelha</p>",
-         "link": "https://expresso.pt/medio-oriente/conflito/2026-07-27-israel-libertou-e-enviou-para-gaza-60-prisioneiros-palestinianos-02199b1c",
-         "author": "Expresso",
-         "published": 1785187036000,
-         "created": 1785187036000,
-         "category": "Conflito no Médio Oriente",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-02-26-prisioneiros-palestinianos-Israel-9ad32f00/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-02-26-prisioneiros-palestinianos-Israel-9ad32f00/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-02-26-prisioneiros-palestinianos-Israel-9ad32f00/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "12b07c2e-769e-4ee5-b267-277fdc9ad447",
-         "title": "Putin pressiona Arménia a realizar referendo sobre adesão à União Europeia",
-         "description": "<p>Pedido surge num momento de forte tensão diplomática e retaliações económicas por parte de Moscovo, na sequência do recente alinhamento geopolítico de Erevan com os países ocidentais</p>",
-         "link": "https://expresso.pt/russia/2026-07-27-putin-pressiona-armenia-a-realizar-referendo-sobre-adesao-a-uniao-europeia-9f9aeb98",
-         "author": "Agência Lusa",
-         "published": 1785186856000,
-         "created": 1785186856000,
-         "category": "Rússia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-27-gettyimages-1245017002.jpg-bd41bacf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-27-gettyimages-1245017002.jpg-bd41bacf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-07-27-gettyimages-1245017002.jpg-bd41bacf/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
