@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3029212/policia-militar-e-4-suspeitos-morrem-em-perseguicao-e-tiroteio-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Polícia militar e 4 suspeitos morrem em perseguição e tiroteio no Brasil",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3029212/policia-militar-e-4-suspeitos-morrem-em-perseguicao-e-tiroteio-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785341190000,
+         "created": 1785341190000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_59556c187e870.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3029208/jovem-de-18-anos-em-prisao-preventiva-apos-ameacar-irmaos-menores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jovem de 18 anos em prisão preventiva após ameaçar irmãos menores ",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/23939073.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3028400/china-nega-excesso-de-capacidade-industrial-em-resposta-a-parceiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "China nega excesso de capacidade industrial em resposta a parceiros",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3028400/china-nega-excesso-de-capacidade-industrial-em-resposta-a-parceiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785233053000,
-         "created": 1785233053000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/45003262.webp",
                "type": "image/jpeg",
                "length": "0"
             }
