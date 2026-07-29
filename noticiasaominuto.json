@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3028891/reserva-federal-americana-anuncia-hoje-decisao-sobre-taxas-de-juro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Reserva Federal americana anuncia hoje decisão sobre taxas de juro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3028891/reserva-federal-americana-anuncia-hoje-decisao-sobre-taxas-de-juro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785307836000,
+         "created": 1785307836000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/40455714.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3028890/oito-distritos-com-dezenas-de-concelhos-em-perigo-maximo-de-incendio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oito distritos com dezenas de concelhos em perigo máximo de incêndio",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/17701426.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3028094/atleta-do-benfica-recebe-alta-mais-de-tres-meses-apos-acidente-de-viacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Atleta do Benfica recebe alta mais de três meses após acidente de viação",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3028094/atleta-do-benfica-recebe-alta-mais-de-tres-meses-apos-acidente-de-viacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785173123000,
-         "created": 1785173123000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a67838067195.webp",
                "type": "image/jpeg",
                "length": "0"
             }
