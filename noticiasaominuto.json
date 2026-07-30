@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3029933/fogo-em-valpacos-mantem-se-ativo-e-obriga-ao-corte-da-en213-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fogo em Valpaços mantém-se ativo e obriga ao corte da EN213-1",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3029933/fogo-em-valpacos-mantem-se-ativo-e-obriga-ao-corte-da-en213-1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785432762000,
+         "created": 1785432762000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a64b866111de.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3029926/venezuela-delcy-rodriguez-rejeita-cedencia-de-soberania-aos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Venezuela. Delcy Rodríguez rejeita cedência de soberania aos EUA",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a69dba42a789.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3029009/milhoes-de-clientes-da-unitel-ainda-sem-rede-apos-ataque-informatico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Milhões de clientes da Unitel ainda sem rede após ataque informático",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3029009/milhoes-de-clientes-da-unitel-ainda-sem-rede-apos-ataque-informatico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785325894000,
-         "created": 1785325894000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5f282bae4a100.webp",
                "type": "image/jpeg",
                "length": "0"
             }
