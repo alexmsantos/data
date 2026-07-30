@@ -6,6 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "bfbde63c-14b6-466c-a4f5-24c63f617a2d",
+         "title": "“O ordenado de um fisioterapeuta no SNS, de facto, deixa-nos a todos tristes. É cerca de 1000 euros”: os problemas no acesso à fisioterapia do SNS",
+         "description": "<p>Neste episódio do \"Consulta Aberta\", Margarida Santos conversa com o fisioterapeuta Vítor Hugo Azevedo sobre os desafios da fisioterapia no SNS em Portugal</p>",
+         "link": "https://expresso.pt/podcasts/consulta-aberta/2026-07-30-o-ordenado-de-um-fisioterapeuta-no-sns-de-facto-deixa-nos-a-todos-tristes.-e-cerca-de-1000-euros-ad4f383e",
+         "author": [
+            "Margarida Graça Santos",
+            "João Ribeiro",
+            "Matilde Fieschi"
+         ],
+         "published": 1785393900000,
+         "created": 1785393900000,
+         "category": "Consulta Aberta",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-30-consulta-aberta-vitor-hugo-16072026-16-mf.jpg-9c873db0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-30-consulta-aberta-vitor-hugo-16072026-16-mf.jpg-9c873db0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-30-consulta-aberta-vitor-hugo-16072026-16-mf.jpg-9c873db0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "86a511f2-0a03-4774-ba82-5211af601bb9",
          "title": "As férias são um direito? Para quem? Como surgiu o direito a 15 dias de férias pagas por ano?",
          "description": "<p><span>Esta semana, no último episódio antes das férias, Rui Tavares leva-nos até ao verão de 1936, quando França aprovou 15 dias de férias pagas a todos os trabalhadores</span></p>",
@@ -230,10 +263,10 @@
       },
       {
          "id": "22a75336-9429-4000-bdf0-ed63834f8b2c",
-         "title": "Governo alarga proibição do uso de 'smartphones' até ao 9.º ano",
-         "description": "<p><span>Executivo avança com o alargamento da proibição dos smartphones ao 3.º ciclo, invocando evidência científica e estudos que apontam para mais socialização, menos indisciplina e menos bullying. </span><span>Escolas terão um período de adaptação até ao final de 2026</span></p>",
-         "link": "https://expresso.pt/educacao/2026-07-30-governo-alarga-proibicao-do-uso-de-smartphones-ate-ao-9.-ano-7a61858e-1",
-         "author": "Agência Lusa",
+         "title": "Telemóveis proibidos até ao 9.º ano: o que muda nas escolas e quando entram em vigor as novas regras",
+         "description": "<p><span>A medida entra em vigor a 1 de janeiro de 2027, após um período de adaptação das escolas. O Governo diz que os estudos apontam para mais socialização e menos indisciplina</span></p>",
+         "link": "https://expresso.pt/educacao/2026-07-30-governo-alarga-proibicao-do-uso-de-smartphones-ate-ao-9.-ano-7a61858e",
+         "author": "Expresso",
          "published": 1785391200000,
          "created": 1785391200000,
          "category": "Educação",
@@ -256,18 +289,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "d3c242c2-d845-428e-b013-89be78cfc62b",
-         "title": "Além dos Títulos",
-         "description": "<p><span>\"Vamos normalizar o</span><span> </span><span>bullying</span><span>, já há demasiadas gordas a acharem-se importantes\"</span><span> </span></p>",
-         "link": "https://expresso.pt/opiniao/2026-07-30-alem-dos-titulos-68b1c404",
-         "author": "João Massano",
-         "published": 1785391200000,
-         "created": 1785391200000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
