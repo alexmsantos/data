@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3030645/viuva-com-dois-filhos-despejada-em-lisboa-gebalis-diz-que-seguiu-regras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Viúva com dois filhos despejada em Lisboa. Gebalis diz que seguiu regras",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3030645/viuva-com-dois-filhos-despejada-em-lisboa-gebalis-diz-que-seguiu-regras#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785528648000,
+         "created": 1785528648000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_624465ccb8600.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MDgsImNyb3BIZWlnaHQiOjIzMCwiY3JvcFgiOjcsImNyb3BZIjoyM319",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3030636/este-salmao-com-espargos-fica-pronto-em-15-minutos-na-air-fryer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Este salmão com espargos fica pronto em 15 minutos na air fryer",
@@ -187,7 +208,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69b2cef5f11eb.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/47549860.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6997ce279e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDYxLCJjcm9wSGVpZ2h0Ijo1OTcsImNyb3BYIjoxMSwiY3JvcFkiOjEyfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3029462/agosto-traz-calor-e-possibilidade-de-chuva-fraca-que-vai-durar-pouco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Agosto traz calor e possibilidade de \"chuva fraca\" (que vai durar pouco)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3029462/agosto-traz-calor-e-possibilidade-de-chuva-fraca-que-vai-durar-pouco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785368120000,
-         "created": 1785368120000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a46918e81514.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDUxLCJjcm9wSGVpZ2h0IjoxMzc5LCJjcm9wWCI6NzksImNyb3BZIjoyNjV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjgzMiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
