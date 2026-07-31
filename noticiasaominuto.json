@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/3030137/pianista-joachim-kuhn-abre-hoje-42-jazz-em-agosto-da-gulbenkian#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pianista Joachim Kühn abre hoje 42.º Jazz em Agosto da Gulbenkian",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/3030137/pianista-joachim-kuhn-abre-hoje-42-jazz-em-agosto-da-gulbenkian#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785478008000,
+         "created": 1785478008000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/15593819.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3030114/donald-trump-anuncia-acordo-para-desarmamento-total-do-hamas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Donald Trump anuncia acordo para \"desarmamento total\" do Hamas",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6a109794994.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3029242/dois-bombeiros-morrem-a-combater-fogo-na-ilha-grega-de-creta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dois bombeiros morrem a combater fogo na ilha grega de Creta",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3029242/dois-bombeiros-morrem-a-combater-fogo-na-ilha-grega-de-creta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785343200000,
-         "created": 1785343200000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6a1db864817.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDU0LCJjcm9wSGVpZ2h0IjoxMzgxLCJjcm9wWCI6NTQsImNyb3BZIjoyNTZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjMyMiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
