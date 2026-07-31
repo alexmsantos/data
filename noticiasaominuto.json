@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3030400/gloria-governo-assegura-que-nao-existem-autopsias-por-realizar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Glória. Governo assegura que \"não existem autópsias por realizar\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3030400/gloria-governo-assegura-que-nao-existem-autopsias-por-realizar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785505441000,
+         "created": 1785505441000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68b95d7e7da2c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNjV9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3030407/petit-da-mote-para-o-santa-clara-olhar-para-cima-nunca-para-baixo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Petit dá mote para o Santa Clara: \"Olhar para cima, nunca para baixo\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6aeebde9089.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3029536/varandas-afasta-as-roma-e-fecha-a-porta-de-saida-a-fresneda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Varandas afasta AS Roma e fecha a porta de saída a Fresneda",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3029536/varandas-afasta-as-roma-e-fecha-a-porta-de-saida-a-fresneda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785396390000,
-         "created": 1785396390000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6aeaffe1de2.webp",
                "type": "image/jpeg",
                "length": "0"
             }
