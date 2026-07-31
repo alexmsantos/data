@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3030666/bruxelas-avisa-italia-controlos-com-espanha-tem-de-ser-justificados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bruxelas avisa Itália: Controlos com Espanha têm de ser justificados",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3030666/bruxelas-avisa-italia-controlos-com-espanha-tem-de-ser-justificados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785531994000,
+         "created": 1785531994000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6d004dceddc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3030213/joao-baiao-esta-nomeado-para-os-globos-mas-torce-por-outra-pessoa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "João Baião está nomeado para os Globos mas torce por outra pessoa",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6ae0ecb2a5b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc1LCJjcm9wSGVpZ2h0IjoxMzkyLCJjcm9wWCI6MzEsImNyb3BZIjoyNH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3029493/escandalo-abala-governo-de-petro-a-poucos-dias-do-fim-do-mandato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Escândalo abala governo de Petro a poucos dias do fim do mandato",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3029493/escandalo-abala-governo-de-petro-a-poucos-dias-do-fim-do-mandato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785372000000,
-         "created": 1785372000000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67359d13f2028.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo4NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTIxNywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
