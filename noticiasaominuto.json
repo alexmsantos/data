@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3030681/pedro-proenca-quebra-silencio-com-os-arbitros-e-fala-em-enorme-talento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pedro Proença quebra silêncio com os árbitros e fala em \"enorme talento\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3030681/pedro-proenca-quebra-silencio-com-os-arbitros-e-fala-em-enorme-talento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785534331000,
+         "created": 1785534331000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a691e8aea939.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDYxLCJjcm9wSGVpZ2h0IjoxODg2LCJjcm9wWCI6NzQ0LCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3030674/novos-estatutos-do-inem-sao-mera-reorganizacao-administrativa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Novos estatutos do INEM são mera \"reorganização\" administrativa",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6957f60aaee52.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE4M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTUzLCJjcm9wSGVpZ2h0IjoxNjk0LCJjcm9wWCI6MTA4MywiY3JvcFkiOi0xfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3029500/ventos-fortes-causam-cinco-mortes-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ventos fortes causam cinco mortes no Brasil. Há danos e cortes de energia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3029500/ventos-fortes-causam-cinco-mortes-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785392075000,
-         "created": 1785392075000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6adddacef54.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNzF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
