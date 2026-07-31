@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3030565/italia-suspende-acordo-schengen-com-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Itália suspende acordo Schengen com Espanha",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3030565/italia-suspende-acordo-schengen-com-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785519300000,
+         "created": 1785519300000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6ca34407658.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3030561/vondrousova-recusou-se-ao-controlo-antidoping-e-acaba-suspensa-por-4-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vondrousova recusou-se ao controlo antidoping e acaba suspensa por 4 anos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4968cae6881.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3029365/reserva-federal-americana-volta-a-deixar-taxas-de-juro-inalteradas-#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Reserva Federal americana volta a deixar taxas de juro inalteradas   ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3029365/reserva-federal-americana-volta-a-deixar-taxas-de-juro-inalteradas-#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785352929000,
-         "created": 1785352929000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/40455715.webp",
                "type": "image/jpeg",
                "length": "0"
             }
