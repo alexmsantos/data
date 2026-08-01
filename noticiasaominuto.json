@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3030952/incendio-em-gaia-combatido-por-mais-de-100-bombeiros-em-conclusao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incêndio em Gaia combatido por mais de 100 bombeiros em conclusão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3030952/incendio-em-gaia-combatido-por-mais-de-100-bombeiros-em-conclusao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785613795000,
+         "created": 1785613795000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_689fb8adc88d2.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3030934/oficial-hope-linus-e-samuel-ntanda-reforcam-uniao-de-leiria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oficial: Hope Linus e Samuel Ntanda reforçam União de Leiria",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6c4446ac1e8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDg0LCJjcm9wSGVpZ2h0IjoxMzk3LCJjcm9wWCI6NDIsImNyb3BZIjoyMzZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjcxMiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3030163/empresas-chinesas-criticam-propostas-da-ue-sobre-ciberseguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Empresas chinesas criticam propostas da UE sobre cibersegurança",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3030163/empresas-chinesas-criticam-propostas-da-ue-sobre-ciberseguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785484089000,
-         "created": 1785484089000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6c44f1b0ce4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMyLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MTMsImNyb3BZIjo0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ4LCJjcm9wSGVpZ2h0IjoxNjg1LCJjcm9wWCI6ODU2LCJjcm9wWSI6MTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
