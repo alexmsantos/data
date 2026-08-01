@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3030843/lideres-da-ue-pedem-videoconferencia-de-emergencia-para-debater-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Líderes da UE pedem \"videoconferência de emergência\" para debater Ceuta",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3030843/lideres-da-ue-pedem-videoconferencia-de-emergencia-para-debater-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785587357000,
+         "created": 1785587357000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6dd89379c96.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNzl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3030830/afc-felicita-retirada-de-proposta-da-fifa-e-fala-em-dialogo-coletivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "AFC felicita retirada de proposta da FIFA e fala em \"diálogo coletivo\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6b9eae1db90.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3030030/aviao-da-tap-declara-pan-pan-apos-perder-motor-e-volta-a-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Avião da TAP declara \"pan-pan\" após perder motor e volta a Lisboa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3030030/aviao-da-tap-declara-pan-pan-apos-perder-motor-e-volta-a-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785443123000,
-         "created": 1785443123000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69d20e8132934.webp",
                "type": "image/jpeg",
                "length": "0"
             }
