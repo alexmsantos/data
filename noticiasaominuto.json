@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3031342/menino-de-2-anos-desaparecido-varias-horas-encontrado-com-vida-em-mato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Menino de 2 anos desaparecido várias horas encontrado com vida em mato",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3031342/menino-de-2-anos-desaparecido-varias-horas-encontrado-com-vida-em-mato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785752393000,
+         "created": 1785752393000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6875158e97036.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxOTF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY0NSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3025027/taxa-mista-vs-variavel-o-que-compensa-mais-no-credito-habitacao-em-2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Taxa Mista vs Variável: O que compensa mais no Crédito Habitação em 2026?",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6c8b141a1e7.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3030353/ue-cria-equipa-para-controlar-empresas-de-inteligencia-artificial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "UE cria equipa para controlar empresas de Inteligência Artificial",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3030353/ue-cria-equipa-para-controlar-empresas-de-inteligencia-artificial#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785501716000,
-         "created": 1785501716000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69f31c8890f25.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI2LCJjcm9wSGVpZ2h0IjoxNDIxLCJjcm9wWCI6MTcsImNyb3BZIjoxM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Nzk1LCJjcm9wSGVpZ2h0IjoxNDEzLCJjcm9wWCI6OTA1LCJjcm9wWSI6MTN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
