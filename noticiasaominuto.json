@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3031339/de-heroi-a-desaparecido-toluca-explica-finalmente-o-caso-de-paulinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "De herói a desaparecido. Toluca explica (finalmente) o caso de Paulinho",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3031339/de-heroi-a-desaparecido-toluca-explica-finalmente-o-caso-de-paulinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785752760000,
+         "created": 1785752760000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69ae787871597.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTczLCJjcm9wWSI6MTE0fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3031345/estreia-mercadona-revela-data-de-abertura-num-novo-distrito-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Estreia! Mercadona revela data de abertura num novo distrito em Portugal",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3031345/estreia-mercadona-revela-data-de-abertura-num-novo-distrito-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785752700000,
+         "created": 1785752700000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_618cf4666aa14.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3031342/menino-de-2-anos-desaparecido-varias-horas-encontrado-com-vida-em-mato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Menino de 2 anos desaparecido várias horas encontrado com vida em mato",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6c8d6cd6423.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3030363/fogo-em-chaves-com-alguns-pontos-quentes-e-90-ja-em-resolucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fogo em Chaves com alguns pontos quentes e 90% já em resolução",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3030363/fogo-em-chaves-com-alguns-pontos-quentes-e-90-ja-em-resolucao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785502199000,
-         "created": 1785502199000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6c8bbcca9c9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3030365/gnr-resgata-cao-enterrado-vivo-em-mafra-popular-deu-alerta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "GNR resgata cão \"enterrado vivo\" em Mafra. Popular deu alerta",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3030365/gnr-resgata-cao-enterrado-vivo-em-mafra-popular-deu-alerta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785502174000,
-         "created": 1785502174000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6c8b141a1e7.webp",
                "type": "image/jpeg",
                "length": "0"
             }
