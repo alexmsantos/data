@@ -7,7 +7,7 @@
    "items": [
       {
          "id": "1ba699c1-7e1a-423d-bf2c-e1105a6c38f6",
-         "title": "Economia resiste às tempestades e à crise no Médio Oriente e pode crescer acima de 2% este ano",
+         "title": "Nem a guerra travou a economia: Portugal pode crescer mais de 2% este ano",
          "description": "<p>Economias europeias resistiram mais à guerra do Médio Oriente e à crise energética do que o antecipado. Aceleração da economia portuguesa no segundo trimestre, acima do esperado, tornou muito mais provável que o crescimento em 2026 atinja o valor projetado pelo Executivo de Luís Montenegro</p>",
          "link": "https://expresso.pt/economia/2026-08-03-economia-resiste-as-tempestades-e-a-crise-no-medio-oriente-e-pode-crescer-acima-de-2-este-ano-81cacc3c",
          "author": [
@@ -64,6 +64,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-08-03-europapress_7698734_varios_migrantes_agosto_2026_ceuta_espana_crisis_migratoria_desatada_pasado.jpg-b97794f4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "a0cef754-66b7-4e72-a851-35dd2e6e6bc1",
+         "title": "Chinesa Alibaba apresenta o modelo de IA mais avançado desenvolvido pela empresa",
+         "description": "<p><span>Com 2,4 biliões de parâmetros e capacidade para desenvolver projetos de forma autónoma durante mais de dez dias, o Qwen3.8-Max é a nova aposta da Alibaba para disputar a liderança mundial nos modelos de inteligência artificial dedicados à programação</span></p>",
+         "link": "https://expresso.pt/ia-inteligencia-artificial/2026-08-03-chinesa-alibaba-apresenta-o-modelo-de-ia-mais-avancado-desenvolvido-pela-empresa-96c81bda",
+         "author": "Agência Lusa",
+         "published": 1785757115000,
+         "created": 1785757115000,
+         "category": "Inteligência Artificial",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-02-24-alibaba/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-02-24-alibaba/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-02-24-alibaba/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -220,7 +249,7 @@
       {
          "id": "bafe0fb9-3af9-4b69-8770-498b1e5675f5",
          "title": "Dívida pública sobe para 92,9% do PIB no 2.º trimestre",
-         "description": "<p>Aumento deve-se ao crescimento dos depósitos do Estado, justifica o Banco de Portugal. Governo reafirmou a redução do rácio em 2026 para 87,5% do PIB</p>",
+         "description": "<p>Aumento deve-se ao crescimento dos depósitos do Estado, justifica o Banco de Portugal. Governo reafirma redução do rácio em 2026 para 87,5% do PIB</p>",
          "link": "https://expresso.pt/financas-publicas/2026-08-03-divida-publica-sobe-para-929-do-pib-no-2.-trimestre-4ca935b9",
          "author": "Agência Lusa",
          "published": 1785752046000,
@@ -228,19 +257,19 @@
          "category": "Finanças Públicas",
          "enclosures": [
             {
-               "url": "https://images.impresa.pt/expresso/2020-03-23-economia_covid-19_lisboa_terreiro-do-paco-9e1f1f93/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2020-03-23-economia_covid-19_lisboa_terreiro-do-paco-f5416ad4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "length": "0"
             },
             {
-               "url": "https://images.impresa.pt/expresso/2020-03-23-economia_covid-19_lisboa_terreiro-do-paco-9e1f1f93/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2020-03-23-economia_covid-19_lisboa_terreiro-do-paco-f5416ad4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
          ],
          "media": {
             "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2020-03-23-economia_covid-19_lisboa_terreiro-do-paco-9e1f1f93/1.91x1/mw-1200?outputFormat=jpeg",
+               "url": "https://images.impresa.pt/expresso/2020-03-23-economia_covid-19_lisboa_terreiro-do-paco-f5416ad4/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -270,35 +299,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-07-31-incendio-valpacos.jpg-3b6c3ddb/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "8e5c130f-7ada-42fe-bec6-b6b4627dc4fe",
-         "title": "Irão nega negociações com os EUA apesar das garantias de Trump",
-         "description": "<p><span>O Irão negou esta segunda-feira que tenham sido retomadas negociações com os Estados Unidos, contrariando as declarações de Donald Trump, que garantiu no domingo que Teerão e Washington voltariam à mesa das conversações</span></p>",
-         "link": "https://expresso.pt/medio-oriente/conflito/2026-08-03-irao-nega-negociacoes-com-os-eua-apesar-das-garantias-de-trump-1e5cb490",
-         "author": "Agência Lusa",
-         "published": 1785749918000,
-         "created": 1785749918000,
-         "category": "Conflito no Médio Oriente",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-03-gettyimages-2287992333.jpg-88bd8979-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-03-gettyimages-2287992333.jpg-88bd8979-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-08-03-gettyimages-2287992333.jpg-88bd8979-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
