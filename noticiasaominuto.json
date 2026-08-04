@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3031999/pergunta-ao-chat-a-nova-geracao-esta-a-deixar-de-googlar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Pergunta ao Chat\". A nova geração está a deixar de \"Googlar\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3031999/pergunta-ao-chat-a-nova-geracao-esta-a-deixar-de-googlar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785875455000,
+         "created": 1785875455000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a71ecfa05147.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTI4LCJjcm9wWSI6NDA5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDEsImNyb3BIZWlnaHQiOjE2NzQsImNyb3BYIjo4MzcsImNyb3BZIjoxNX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3032180/eis-a-chave-de-hoje-do-euromilhoes-e-hoje-vale-98-milhoes-de-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Eis a chave do Euromilhões (e hoje vale 98 milhões de euros)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a68d768f08ef.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OSwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEzNTgsImNyb3BZIjoxNzF9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3031117/mateus-fernandes-da-toque-a-roberto-martinez-foi-muito-dececionante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mateus Fernandes 'dá toque' a Roberto Martínez: \"Foi muito dececionante\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3031117/mateus-fernandes-da-toque-a-roberto-martinez-foi-muito-dececionante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785672903000,
-         "created": 1785672903000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a6f2690a706b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ2MH19",
                "type": "image/jpeg",
                "length": "0"
             }
