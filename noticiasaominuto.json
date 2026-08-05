@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3032666/pelo-2-ano-consecutivo-ha-menos-incidentes-em-eventos-desportivos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo 2.º ano consecutivo, há menos incidentes em eventos desportivos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3032666/pelo-2-ano-consecutivo-ha-menos-incidentes-em-eventos-desportivos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785958644000,
+         "created": 1785958644000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_60aa4449d0253.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3032681/mp-abre-inquerito-ao-caso-de-homem-que-fotografou-menores-em-aljezur#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "MP abre inquérito ao caso de homem que fotografou menores em Aljezur",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5f686265312ae.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3031813/homofobia-antonio-bravo-e-o-namorado-foram-ameacados-por-homem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Homofobia. António Bravo e o namorado foram ameaçados por homem",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3031813/homofobia-antonio-bravo-e-o-namorado-foram-ameacados-por-homem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785839987000,
-         "created": 1785839987000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6616bf0b3126b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6NDB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc1OSwiY3JvcEhlaWdodCI6MTM1MCwiY3JvcFgiOjIyNCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
