@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3032499/em-direto-marco-silva-e-um-jogador-anteveem-o-benfica-hearts#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Problema central, os capitães e Schjelderup. Tudo o que disse Marco Silva",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3032499/em-direto-marco-silva-e-um-jogador-anteveem-o-benfica-hearts#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785946261000,
+         "created": 1785946261000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7335f81999b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3032572/procurado-pelo-reino-unido-apanhado-em-madrid-tatuagens-tramaram-no#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Procurado pelo Reino Unido apanhado em Madrid. Tatuagens tramaram-no",
@@ -314,27 +335,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7349d7c9ed3.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3032499/em-direto-marco-silva-e-um-jogador-anteveem-o-benfica-hearts#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Marco Silva antevê duelo europeu do Benfica diante do Hearts",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3032499/em-direto-marco-silva-e-um-jogador-anteveem-o-benfica-hearts#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785943876000,
-         "created": 1785943876000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7335f81999b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
