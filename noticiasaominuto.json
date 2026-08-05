@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3032621/trabalhadores-desafiam-montenegro-sobre-refinaria-de-sines#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trabalhadores desafiam Montenegro sobre refinaria de Sines",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3032621/trabalhadores-desafiam-montenegro-sobre-refinaria-de-sines#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785950857000,
+         "created": 1785950857000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5a6b37bf982c7.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3032626/flavio-bolsonaro-escolhe-alfredo-gaspar-para-vice-presidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Flávio Bolsonaro escolhe Alfredo Gaspar para vice-presidente",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3032626/flavio-bolsonaro-escolhe-alfredo-gaspar-para-vice-presidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785950772000,
+         "created": 1785950772000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47569078.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyOX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3032633/sporting-abordou-jovem-lateral-direito-cobicado-pelo-napoli#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sporting abordou jovem lateral direito cobiçado pelo Napoli",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3032633/sporting-abordou-jovem-lateral-direito-cobicado-pelo-napoli#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785950734000,
+         "created": 1785950734000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7362d74e354.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkzLCJjcm9wSGVpZ2h0IjoxNDAzLCJjcm9wWCI6MzMsImNyb3BZIjoyN319",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3032616/adolescente-dos-eua-torna-se-o-professor-universitario-mais-novo-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Adolescente dos EUA torna-se o professor universitário mais novo do mundo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3032616/adolescente-dos-eua-torna-se-o-professor-universitario-mais-novo-do-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785950614000,
+         "created": 1785950614000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a735e8675a8c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI3LCJjcm9wSGVpZ2h0Ijo1NzgsImNyb3BYIjoxMywiY3JvcFkiOjExfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3032540/omv-aplaude-socorro-animal-na-protecao-civil-mas-alerta-para-falhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OMV aplaude socorro animal na proteção civil, mas alerta para falhas",
@@ -10205,90 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/42353673.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjM3LCJjcm9wSGVpZ2h0IjoxMjU5LCJjcm9wWCI6MjA3LCJjcm9wWSI6MzE3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjoxMTMxLCJjcm9wWSI6MH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3031801/bebe-de-20-meses-morre-apos-ser-esquecido-no-interior-de-carro-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bebé de 20 meses morre após ser esquecido no interior de carro em Espanha",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3031801/bebe-de-20-meses-morre-apos-ser-esquecido-no-interior-de-carro-em-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785834288000,
-         "created": 1785834288000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a719866d835e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjY5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjYsImNyb3BIZWlnaHQiOjE3MTcsImNyb3BYIjo2NjIsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3031805/guerra-a-fifa-ceferin-e-al-khelaifi-ameacam-derrubar-mundial-de-clubes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Guerra\" à FIFA. Ceferin e Al Khelaifi ameaçam derrubar Mundial de Clubes",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3031805/guerra-a-fifa-ceferin-e-al-khelaifi-ameacam-derrubar-mundial-de-clubes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785834240000,
-         "created": 1785834240000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a719ccd5cfa1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjQyLCJjcm9wWSI6NTN9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3031803/mocambique-pondera-autarquicas-legislativas-e-presidenciais-num-so-dia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moçambique pondera autárquicas, legislativas e presidenciais num só dia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3031803/mocambique-pondera-autarquicas-legislativas-e-presidenciais-num-so-dia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785834223000,
-         "created": 1785834223000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/41658863.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjExMjUsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3031806/japao-deve-reforcar-exercito-com-sentimento-de-urgencia-e-de-crise#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Japão deve reforçar exército com \"sentimento de urgência e de crise\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3031806/japao-deve-reforcar-exercito-com-sentimento-de-urgencia-e-de-crise#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785834187000,
-         "created": 1785834187000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47007319.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgyLCJjcm9wSGVpZ2h0IjoxMzk2LCJjcm9wWCI6NDgsImNyb3BZIjo0NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTU2OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
