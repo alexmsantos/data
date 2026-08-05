@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3032670/nato-discute-mais-defesa-aerea-para-ucrania-apos-ataque-mortal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "NATO discute mais defesa aérea para Ucrânia após ataque mortal",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3032670/nato-discute-mais-defesa-aerea-para-ucrania-apos-ataque-mortal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1785963050000,
+         "created": 1785963050000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_698cba87c17e6.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3032683/erc-esta-a-acompanhar-com-atencao-situacao-da-rtp-sobre-relatorio-da-igf#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "ERC está a acompanhar com atenção situação da RTP sobre relatório da IGF",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6213b5127565a.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk0NSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3031877/quase-todas-as-bacias-hidrograficas-com-quantidade-de-agua-acima-do-normal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quase todas as bacias hidrográficas com quantidade de água acima do normal",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3031877/quase-todas-as-bacias-hidrograficas-com-quantidade-de-agua-acima-do-normal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785842907000,
-         "created": 1785842907000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/42336169.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgyLCJjcm9wSGVpZ2h0IjoxMzk2LCJjcm9wWCI6NDIsImNyb3BZIjoyMTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcxMCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
