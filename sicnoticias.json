@@ -14,8 +14,25 @@
          "published": 1786007150000,
          "created": 1786007150000,
          "category": "Ciência",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-08-06-sol-2.jpg-e3fc66f7-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-08-06-sol-2.jpg-e3fc66f7-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-08-06-sol-2.jpg-e3fc66f7-2/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "834b57ae-888c-4c91-a1c6-4b3c8209476e",
