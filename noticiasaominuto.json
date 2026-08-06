@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3032863/mau-tempo-67-pessoas-retiradas-de-parque-de-campismo-na-ilha-terceira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mau tempo: 67 pessoas retiradas de parque de campismo na ilha Terceira",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3032863/mau-tempo-67-pessoas-retiradas-de-parque-de-campismo-na-ilha-terceira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786007518000,
+         "created": 1786007518000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/31307771.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3032852/rotula-de-abade-roubada-por-menino-de-11-anos-devolvida-70-anos-depois#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rótula de abade \"roubada\" por menino de 11 anos devolvida… 70 anos depois",
@@ -616,7 +637,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/3032799/hoje-e-noticia-mais-vigilancia-partidos-recusaram-saem-quando-esgotar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Hoje é notícia: Mais vigilância? Partidos recusaram; Saem quando esgotar",
+         "title": "É notícia: Mais videovigilância? Partidos recusaram; Portugal sem manuais",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/3032799/hoje-e-noticia-mais-vigilancia-partidos-recusaram-saem-quando-esgotar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47563277.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3032049/oms-ve-avancos-promissores-em-tratamentos-e-vacinas-para-ebola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "OMS vê avanços \"promissores\" em tratamentos e vacinas para Ébola",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3032049/oms-ve-avancos-promissores-em-tratamentos-e-vacinas-para-ebola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785863220000,
-         "created": 1785863220000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_541de7ea4d3f0.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEzMTMsImNyb3BIZWlnaHQiOjIzMzUsImNyb3BYIjoxNjc2LCJjcm9wWSI6LTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
