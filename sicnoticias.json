@@ -66,7 +66,7 @@
       {
          "id": "9043cf72-a585-4087-ae08-53a7ad4c3ce3",
          "title": "Eclipse solar pode reduzir produção fotovoltaica na Península Ibérica, alerta sistema elétrico espanhol",
-         "description": "<P>O eclipse total do sol de 12 de agosto deverá reduzir a produção de energia solar na Península Ibérica em cerca de cinco gigawatts (GW), o equivalente a 13% da procura máxima registada numa típica quarta-feira de agosto.</P>",
+         "description": "<p><span>O eclipse total do sol de 12 de agosto deverá reduzir a produção de energia solar na Península Ibérica em cerca de cinco gigawatts (GW), o equivalente a 13% da procura máxima registada numa típica quarta-feira de agosto.</span></p>",
          "link": "https://sicnoticias.pt/mundo/2026-08-06-eclipse-solar-pode-reduzir-producao-fotovoltaica-na-peninsula-iberica-alerta-sistema-eletrico-espanhol-36d9e5a1",
          "author": "SIC Notícias",
          "published": 1786015889000,
@@ -116,6 +116,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2024-04-23-algemas-af22f033/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "00332345-f228-47a7-8069-a590cd28dffc",
+         "title": "Israel acusa colono pela morte de líder palestiniano na Cisjordânia",
+         "description": "<p><span>Pela primeira vez desde o início da guerra desencadeada pelos ataques de 7 de outubro de 2023, a Justiça israelita acusou um colono pelo homicídio de um palestiniano na Cisjordânia ocupada. A vítima era um conhecido ativista e participou no documentário vencedor do Óscar </span><i><i><span><i>No Other Land</i></span></i></i><span>.</span></p>",
+         "link": "https://sicnoticias.pt/especiais/guerra-no-medio-oriente/2026-08-06-israel-acusa-colono-pela-morte-de-lider-palestiniano-na-cisjordania-a2e11717",
+         "author": "SIC Notícias",
+         "published": 1786013134000,
+         "created": 1786013134000,
+         "category": "Conflito Israel-Hamas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-08-13-colonatos-israelitas-cisjordania-b69cc965/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-08-13-colonatos-israelitas-cisjordania-b69cc965/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-08-13-colonatos-israelitas-cisjordania-b69cc965/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2023-05-12-isqueiro-chama.jpg-52f80882/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f874bca8-1691-4381-8fe7-00deb1cc95ad",
-         "title": "Três mortos em ataque russo à cidade de Balakilia na Ucrânia",
-         "description": "<p><span>Pelo menos três pessoas morreram num ataque russo durante a noite na cidade de Balakilia, localizada na região de Kharkiv, na Ucrânia, informou esta quinta-feira o Serviço de Emergência Estatal (SEAS) através do Facebook.</span></p>",
-         "link": "https://sicnoticias.pt/mundo/2026-08-06-tres-mortos-em-ataque-russo-a-cidade-de-balakilia-na-ucrania-33a157bd",
-         "author": "SIC Notícias",
-         "published": 1786007754000,
-         "created": 1786007754000,
-         "category": "Mundo",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-08-06-ataque-em-balakliia-20ed1c7f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-08-06-ataque-em-balakliia-20ed1c7f/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2026-08-06-ataque-em-balakliia-20ed1c7f/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
