@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3033832/cerca-de-400-mil-pessoas-esperadas-nas-festas-do-povo-de-campo-maior#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cerca de 400 mil pessoas esperadas nas Festas do Povo de Campo Maior",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3033832/cerca-de-400-mil-pessoas-esperadas-nas-festas-do-povo-de-campo-maior#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786169882000,
+         "created": 1786169882000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47435076.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcxMCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3033812/colombia-novo-presidente-promete-combater-narcoterrorismo-sem-treguas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Colômbia. Novo presidente promete combater narcoterrorismo \"sem tréguas\"",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/47580094.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/47580094.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzM0LCJjcm9wSGVpZ2h0Ijo3NTEsImNyb3BYIjowLCJjcm9wWSI6NjJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjUwMCwiY3JvcEhlaWdodCI6ODg5LCJjcm9wWCI6NDM1LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a73a0ca2f79e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NTMsImNyb3BIZWlnaHQiOjQ4MCwiY3JvcFgiOjAsImNyb3BZIjoyMTB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3032723/presidente-iraniano-diz-que-contacto-com-lider-supremo-e-muito-dificil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Presidente iraniano diz que contacto com líder supremo é \"muito difícil\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3032723/presidente-iraniano-diz-que-contacto-com-lider-supremo-e-muito-dificil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785966499000,
-         "created": 1785966499000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69500e78abd16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjMwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5OTYsImNyb3BIZWlnaHQiOjE3NzAsImNyb3BYIjo4NzYsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
