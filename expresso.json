@@ -138,8 +138,25 @@
          "published": 1786186755000,
          "created": 1786186755000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-13-ambulancia-inem--3-.jpg-f42f714d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-13-ambulancia-inem--3-.jpg-f42f714d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-13-ambulancia-inem--3-.jpg-f42f714d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "eeb062f5-eb1d-4b56-b5dd-97c7d38864bf",
