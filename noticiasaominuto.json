@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3033935/farol-do-cabo-da-roca-abre-terreiro-para-observacao-do-eclipse-solar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Farol do Cabo da Roca abre terreiro para observação do eclipse solar",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3033935/farol-do-cabo-da-roca-abre-terreiro-para-observacao-do-eclipse-solar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786194722000,
+         "created": 1786194722000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a771d157254c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3033931/oposicao-italiana-critica-meloni-por-crise-sem-fundamento-com-espanha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oposição italiana critica Meloni por crise \"sem fundamento\" com Espanha",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5d542568eb4be.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3032841/tres-equipas-na-champions-em-202728-e-chamariz-de-nova-epoca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Três equipas na Champions em 2027/28 é 'chamariz' de nova época",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3032841/tres-equipas-na-champions-em-202728-e-chamariz-de-nova-epoca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786008600000,
-         "created": 1786008600000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6970048248705.webp",
                "type": "image/jpeg",
                "length": "0"
             }
