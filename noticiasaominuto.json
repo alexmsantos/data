@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3033840/eclipse-solar-e-experiencia-sensorial-diz-astronoma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Eclipse solar é \"experiência sensorial\", diz astrónoma",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3033840/eclipse-solar-e-experiencia-sensorial-diz-astronoma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786173899000,
+         "created": 1786173899000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7371193af02.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3033839/jovem-de-18-anos-detido-por-conducao-perigosa-no-concelho-de-paredes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jovem de 18 anos detido por condução perigosa no concelho de Paredes",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a299108421ff.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3032745/nomeacao-de-gustavo-correia-cria-polemica-ninguem-tem-vergonha-na-cara#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nomeação de Gustavo Correia cria polémica: \"Ninguém tem vergonha na cara\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3032745/nomeacao-de-gustavo-correia-cria-polemica-ninguem-tem-vergonha-na-cara#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1785972120000,
-         "created": 1785972120000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6446a83b3cc75.webp",
                "type": "image/jpeg",
                "length": "0"
             }
