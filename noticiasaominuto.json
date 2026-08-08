@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3033976/negocio-fechado-ousmane-diomande-deixa-sporting-e-ja-tem-viagem-marcada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Negócio fechado. Ousmane Diomande deixa Sporting e já tem viagem marcada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3033976/negocio-fechado-ousmane-diomande-deixa-sporting-e-ja-tem-viagem-marcada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786204203000,
+         "created": 1786204203000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6908c7d954fbe.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3033974/ministra-da-cultura-destaca-grande-significado-das-festa-de-campo-maior#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministra da Cultura destaca \"grande significado\" das festa de Campo Maior",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/28425868.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3032890/bernardina-partilha-impressionante-antes-e-depois-de-perder-55-kgs#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bernardina partilha (impressionante) antes e depois de perder 55 kgs",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3032890/bernardina-partilha-impressionante-antes-e-depois-de-perder-55-kgs#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786013667000,
-         "created": 1786013667000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_661d67216c4f5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6Nzd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc1OSwiY3JvcEhlaWdodCI6MTM1MCwiY3JvcFgiOjc5LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
