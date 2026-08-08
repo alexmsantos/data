@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3033894/psp-detem-homem-procurado-pela-interpol-no-aeroporto-de-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PSP detém homem procurado pela Interpol no aeroporto de Lisboa",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3033894/psp-detem-homem-procurado-pela-interpol-no-aeroporto-de-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786185479000,
+         "created": 1786185479000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_62c52a9098105.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3033891/medicos-pedem-intervencao-em-ceuta-de-ministerio-da-saude-espanhol#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Médicos pedem intervenção em Ceuta de Ministério da Saúde espanhol",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a561f8fb908d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3032418/do-benfica-para-o-sporting-em-busca-do-ouro-nel-luta-contra-fama-leonina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Do Benfica para o Sporting em busca do ouro. Nel luta contra fama leonina",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3032418/do-benfica-para-o-sporting-em-busca-do-ouro-nel-luta-contra-fama-leonina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786003369000,
-         "created": 1786003369000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a73114ab3710.webp",
                "type": "image/jpeg",
                "length": "0"
             }
