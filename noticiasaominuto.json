@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3034197/lisboa-psp-detem-14-em-operacao-este-domingo-houve-60-contraordenacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lisboa: PSP detém 14 em operação este domingo (houve 60 contraordenações)",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3034197/lisboa-psp-detem-14-em-operacao-este-domingo-houve-60-contraordenacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786278770000,
+         "created": 1786278770000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_66cc452bdb111.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3034195/exercito-israelita-mata-palestiniano-apos-quatro-dias-sem-ataques-mortais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Exército israelita mata palestiniano após quatro dias sem ataques mortais",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_57f220687020e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3033178/residencias-estudantis-so-cobrem-12-dos-alunos-longe-de-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Residências estudantis só cobrem 12% dos alunos longe de casa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3033178/residencias-estudantis-so-cobrem-12-dos-alunos-longe-de-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786041191000,
-         "created": 1786041191000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_62e266774f195.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6LTEsImNyb3BZIjo0NjF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
