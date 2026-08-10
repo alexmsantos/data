@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/3034419/ao-lado-da-fronteira-as-praias-de-agua-doce-que-fazem-inveja-ao-mar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ao lado da fronteira: As praias de água doce que \"fazem inveja ao mar\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/3034419/ao-lado-da-fronteira-as-praias-de-agua-doce-que-fazem-inveja-ao-mar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786357342000,
+         "created": 1786357342000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7988b5c10ac.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEyLCJjcm9wSGVpZ2h0IjoxNDEzLCJjcm9wWCI6MTQsImNyb3BZIjo3MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3034453/leonardo-jardim-nega-guerra-no-flamengo-foram-buscar-4-ou-5-gajos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Leonardo Jardim nega \"guerra\" no Flamengo: \"Foram buscar 4 ou 5 gajos...\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a75a9a0e7f47.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTQsImNyb3BZIjoxOH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3032991/lua-em-carneiro-e-marte-em-gemeos-o-alinhamento-que-favorece-5-signos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lua em Carneiro e Marte em Gémeos: O alinhamento que favorece 5 signos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3032991/lua-em-carneiro-e-marte-em-gemeos-o-alinhamento-que-favorece-5-signos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786100727000,
-         "created": 1786100727000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a747f4ea27f3.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6NDI4LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
