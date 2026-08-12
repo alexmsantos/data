@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3035399/aie-reve-em-baixa-previsoes-da-oferta-e-procura-de-petroleo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "AIE revê em baixa previsões da oferta e procura de petróleo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3035399/aie-reve-em-baixa-previsoes-da-oferta-e-procura-de-petroleo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786527609000,
+         "created": 1786527609000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_55b8bc500aa46.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3035390/medicos-querem-avaliacao-nacional-da-resiliencia-dos-hospitais-perante-sismos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Médicos querem avaliação nacional da resiliência dos hospitais perante sismos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a42118ad9f01.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3034192/alerta-na-baliza-do-sporting-rui-silva-luta-contra-o-sindrome-adan#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alerta na baliza do Sporting. Rui Silva luta contra a 'síndrome Adán'",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3034192/alerta-na-baliza-do-sporting-rui-silva-luta-contra-o-sindrome-adan#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786345413000,
-         "created": 1786345413000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7865237db75.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTEsImNyb3BZIjoyNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODcxLCJjcm9wSGVpZ2h0IjoxNTQ4LCJjcm9wWCI6MzY3LCJjcm9wWSI6MzB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
