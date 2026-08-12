@@ -6,6 +6,18 @@
    "category": [],
    "items": [
       {
+         "id": "1758e71a-0bd0-4d9d-bc50-739b92f93c5f",
+         "title": "Os livros guilhotinados pela IA",
+         "description": "<p>As empresas de IA estão a comprar, digitalizar e destruir milhões de livros antigos. O conhecimento existente na internet estava a esgotar-se. O modelo é insaciável</p>",
+         "link": "https://expresso.pt/opiniao/2026-08-12-os-livros-guilhotinados-pela-ia-803dbe02",
+         "author": "Luís Pedro Nunes",
+         "published": 1786515913000,
+         "created": 1786515913000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "id": "55ef2ec5-a8f5-4d80-afb7-6e4a14359953",
          "title": "Usa o Claude para escrever textos? Anthropic passa a identificar textos gerados por IA",
          "description": "<p><span>A Anthropic vai começar a incluir marcas invisíveis nos textos gerados pelos novos modelos do Claude. A medida faz parte dos compromissos assumidos pela empresa no âmbito das novas regras de transparência da União Europeia</span></p>",
@@ -240,38 +252,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "50777e30-cd2e-4000-964e-11a2f34b1e63",
-         "title": "João Maria Jonet: “Os jornalistas usados como isco devem perder o fascínio e perceber que, para Trump, são descartáveis”",
-         "description": "<p>Serviços Secretos consideraram credível ameaça iraniana e engendraram uma “operação de engano” em que jornalistas e pessoal da Casa Branca foram usados como isco. No Expresso da Manhã, Paulo Baldaia conversa com o comentador SIC João Maria Jonet</p>",
-         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-08-12-joao-maria-jonet-os-jornalistas-usados-como-isco-devem-perder-o-fascinio-e-perceber-que-para-trump-sao-descartaveis-b182e8c5",
-         "author": [
-            "Paulo Baldaia",
-            "Gustavo Carvalho"
-         ],
-         "published": 1786512600000,
-         "created": 1786512600000,
-         "category": "Expresso da Manhã",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
