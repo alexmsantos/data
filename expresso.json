@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "912041d8-841b-4f7c-993a-5c2528171eef",
+         "title": "Cinema: Um “Homem-Aranha” mal reciclado com demasiadas reviravoltas",
+         "description": "<p>A par de “A Odisseia”, é o filme que salvou as salas de cinema neste verão, mas “Homem-Aranha — Um Novo Dia” vende a alma do seu herói à ditadura aborrecida da Marvel</p>",
+         "link": "https://expresso.pt/revista/culturas/cinema/2026-08-12-cinema-um-homem-aranha-mal-reciclado-com-demasiadas-reviravoltas-839d8a72",
+         "author": "Rui Pedro Tendinha",
+         "published": 1786521600000,
+         "created": 1786521600000,
+         "category": "Cinema",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-08-10-spiderman_t-_idp.jpg-d8823483/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-08-10-spiderman_t-_idp.jpg-d8823483/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-08-10-spiderman_t-_idp.jpg-d8823483/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "aea90fa0-df68-4a9a-a57b-7e5f1327a422",
          "title": "José Mourinho, o homem que nunca foi igual ao seu pai: já vimos o documentário da Netflix",
          "description": "<p>Minissérie de três episódios da Netflix sobre o mais importante treinador português da era moderna</p>",
@@ -241,35 +270,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "b6ec16ec-ee0c-4853-81c0-f9feeeebf164",
-         "title": "A santa padroeira da Europa?",
-         "description": "<p><span>Uma adversária da</span><span> </span><span>UE</span><span> </span><span>que entende as instituições europeias é politicamente mais</span><span> </span><span>perigosa</span><span> </span><span>do que uma eurocética que passa a vida a gritar contra Bruxelas à porta</span><span> </span><span>do edifício Europa</span></p>",
-         "link": "https://expresso.pt/opiniao/2026-08-12-a-santa-padroeira-da-europa--0d0ebdf4",
-         "author": "Manuel Serrano",
-         "published": 1786514820000,
-         "created": 1786514820000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-11-manuel-serrano_00.png-0f3be409/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-04-11-manuel-serrano_00.png-0f3be409/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-04-11-manuel-serrano_00.png-0f3be409/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
