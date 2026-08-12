@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3035773/unico-e-magico-do-eclipse-total-visto-por-centenas-em-rio-de-onor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Único\" e \"mágico\" do eclipse total visto por centenas em Rio de Onor",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3035773/unico-e-magico-do-eclipse-total-visto-por-centenas-em-rio-de-onor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786571406000,
+         "created": 1786571406000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7cc083a0a97.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIyLCJjcm9wSGVpZ2h0IjoxNDE5LCJjcm9wWCI6MTUsImNyb3BZIjoyNH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3035778/nato-acusa-russia-de-perigosas-e-inaceitaveis-violacoes-do-espaco-aereo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "NATO acusa Rússia de \"perigosas e inaceitáveis\" violações do espaço aéreo",
@@ -70,7 +91,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/3035777/marcelo-rebelo-de-sousa-ja-saiu-do-hospital-sinto-me-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Marcelo Rebelo de Sousa já saiu do hospital: \"Sinto-me bem\"",
+         "title": "Após \"vários exames\", Marcelo Rebelo de Sousa teve alta: \"Sinto-me bem\"",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/3035777/marcelo-rebelo-de-sousa-ja-saiu-do-hospital-sinto-me-bem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5f0355eb90e60.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3034689/o-sumo-inesperado-que-vai-deixar-o-seu-banana-bread-mais-saboroso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O sumo inesperado que vai deixar o seu banana bread mais saboroso",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3034689/o-sumo-inesperado-que-vai-deixar-o-seu-banana-bread-mais-saboroso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786386745000,
-         "created": 1786386745000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a79f9c15bd16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjE3LCJjcm9wSGVpZ2h0IjoxMjQ3LCJjcm9wWCI6MTQzLCJjcm9wWSI6MjU1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MjcsImNyb3BIZWlnaHQiOjE2NDcsImNyb3BYIjo4MTYsImNyb3BZIjo2MX19",
                "type": "image/jpeg",
                "length": "0"
             }
