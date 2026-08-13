@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3036029/oficial-fc-porto-empresta-gabriel-bras-ao-nec-com-opcao-de-compra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: FC Porto empresta Gabriel Brás ao NEC com opção de compra",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3036029/oficial-fc-porto-empresta-gabriel-bras-ao-nec-com-opcao-de-compra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786624095000,
+         "created": 1786624095000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7daa2b1d82e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTM3LCJjcm9wSGVpZ2h0Ijo4NjQsImNyb3BYIjowLCJjcm9wWSI6MjI1fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3035952/concorrencia-autoriza-negocio-entre-empresas-ligadas-a-automoveis-de-luxo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Concorrência autoriza negócio entre empresas ligadas a automóveis de luxo",
@@ -61,7 +82,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7da66543eab.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_625ec3c4d1b93.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -82,7 +103,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5457cb503266d.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5457cb503266d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozMjg1LCJjcm9wSGVpZ2h0IjoxODQ4LCJjcm9wWCI6NzAsImNyb3BZIjoyNzV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEyNTIsImNyb3BIZWlnaHQiOjIyMjUsImNyb3BYIjoxMTkxLCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7b7169c5f3d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDI4LCJjcm9wSGVpZ2h0Ijo4MDMsImNyb3BYIjoxMiwiY3JvcFkiOjQ0Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NjUzLCJjcm9wSGVpZ2h0IjoxMTYxLCJjcm9wWCI6NDE2LCJjcm9wWSI6MzU1fX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3035149/nao-sao-so-mais-caras-eis-as-5-grandes-vantagens-das-televisoes-oled#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Não são só mais caras. Eis as 5 grandes vantagens das televisões OLED",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3035149/nao-sao-so-mais-caras-eis-as-5-grandes-vantagens-das-televisoes-oled#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786482295000,
-         "created": 1786482295000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7b4318884e8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ0LCJjcm9wSGVpZ2h0IjoxNDMxLCJjcm9wWCI6MiwiY3JvcFkiOjI1N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTI2LCJjcm9wSGVpZ2h0IjoxNjQ1LCJjcm9wWCI6NTEwLCJjcm9wWSI6MjE3fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
