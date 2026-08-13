@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3036270/uma-m-azul-e-branca-beto-sorri-a-canticos-de-miudos-do-liverpool#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Uma m**** azul e branca\". Beto sorri a cânticos de miúdos do Liverpool",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3036270/uma-m-azul-e-branca-beto-sorri-a-canticos-de-miudos-do-liverpool#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786652003000,
+         "created": 1786652003000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7e10a19072d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzIxLCJjcm9wSGVpZ2h0Ijo5NjgsImNyb3BYIjowLCJjcm9wWSI6NDR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU4MCwiY3JvcEhlaWdodCI6MTAzMSwiY3JvcFgiOjUzMSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3036240/peregrinacao-de-agosto-reune-milhares-de-emigrantes-em-fatima-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Peregrinação de agosto reúne milhares de emigrantes em Fátima. As imagens",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7c426060b43.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3035415/setubal-javalis-nao-vao-so-a-praia-estao-na-cidade-e-usam-passadeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Setúbal: Javalis não vão só à praia. Estão na cidade e... usam passadeira",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3035415/setubal-javalis-nao-vao-so-a-praia-estao-na-cidade-e-usam-passadeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786533118000,
-         "created": 1786533118000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7c37f0c5057.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyOTcsImNyb3BIZWlnaHQiOjE2NywiY3JvcFgiOjYsImNyb3BZIjoyMDR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjI4OSwiY3JvcEhlaWdodCI6NTE0LCJjcm9wWCI6MywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
