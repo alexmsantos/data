@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3035576/eletricidade-novos-periodos-horarios-vao-ter-impacto-na-fatura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Eletricidade: Novos períodos horários vão ter impacto na fatura?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3035576/eletricidade-novos-periodos-horarios-vao-ter-impacto-na-fatura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786608089000,
+         "created": 1786608089000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7c73764b9e1.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3035885/mae-de-catarina-gouveia-diagnosticada-com-sepsis-grave-preciso-de-ti#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mãe de Catarina Gouveia diagnosticada com \"sépsis grave\": \"Preciso de ti\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6876311c97a0b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3034828/trump-assegura-que-relacao-com-netanyahu-e-boa-apesar-de-divergencias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trump assegura que relação com Netanyahu \"é boa\" apesar de divergências",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3034828/trump-assegura-que-relacao-com-netanyahu-e-boa-apesar-de-divergencias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786404091000,
-         "created": 1786404091000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7a4c3b2bea7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMDZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjExMTksImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
