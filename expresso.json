@@ -43,8 +43,25 @@
          "published": 1786613561000,
          "created": 1786613561000,
          "category": "Educação",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-30-_resultados-exames-nacionais-matosinhos_rds_6599_t-_idp.jpg-4dc20f70/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-30-_resultados-exames-nacionais-matosinhos_rds_6599_t-_idp.jpg-4dc20f70/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-30-_resultados-exames-nacionais-matosinhos_rds_6599_t-_idp.jpg-4dc20f70/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "53cdd170-aaf1-427c-92fd-fb7e71951665",
