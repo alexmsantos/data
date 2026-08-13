@@ -96,35 +96,6 @@
          }
       },
       {
-         "id": "3a52a967-853c-4489-a645-1a561d573f30",
-         "title": "A 1ª página do Expresso Economia",
-         "description": "",
-         "link": "https://expresso.pt/semanario/economia",
-         "author": "Expresso",
-         "published": 1786658280000,
-         "created": 1786658280000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-13-eco_2807.jpg-8bb3b2cf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-13-eco_2807.jpg-8bb3b2cf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-08-13-eco_2807.jpg-8bb3b2cf/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "4f8da262-77f0-428e-a00a-052a24896701",
          "title": "IDEIAS: A medição incorreta da produtividade na Europa",
          "description": "",
@@ -148,6 +119,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-08-13-id_2807.jpg-76281fd5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "3a52a967-853c-4489-a645-1a561d573f30",
+         "title": "A 1ª página do Expresso Economia",
+         "description": "",
+         "link": "https://expresso.pt/semanario/economia",
+         "author": "Expresso",
+         "published": 1786658280000,
+         "created": 1786658280000,
+         "category": "Capas",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-08-13-eco_2807.jpg-8bb3b2cf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-08-13-eco_2807.jpg-8bb3b2cf/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-08-13-eco_2807.jpg-8bb3b2cf/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
