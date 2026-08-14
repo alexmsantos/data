@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3036526/pelo-menos-um-morto-e-17-feridos-em-ataque-russo-a-kramatorsk#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos um morto e 17 feridos em ataque russo a Kramatorsk",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3036526/pelo-menos-um-morto-e-17-feridos-em-ataque-russo-a-kramatorsk#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786709206000,
+         "created": 1786709206000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7ef6d0e854f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3036527/estas-pataniscas-de-camarao-sabem-bem-acompanhadas-ou-como-petisco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Estas pataniscas de camarão sabem bem acompanhadas ou como petisco",
@@ -490,7 +511,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/pais/3036495/supreende-nos-a-marcacao-da-greve-geral-do-inem-afirma-ministra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Greve geral do INEM? Ministra pede a técnicos que \"repensem a situação\"",
+         "title": "Greve geral do INEM? Ministra surpreendida pede a técnicos que \"repensem\"",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/3036495/supreende-nos-a-marcacao-da-greve-geral-do-inem-afirma-ministra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47093717.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjcyMiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3035381/cristiano-ronaldo-casou-se-memes-fotos-falsas-e-os-detalhes-verdadeiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cristiano Ronaldo casou-se: Memes, fotos falsas e os detalhes verdadeiros",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3035381/cristiano-ronaldo-casou-se-memes-fotos-falsas-e-os-detalhes-verdadeiros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786530235000,
-         "created": 1786530235000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7c3a85033e6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTkyLCJjcm9wSGVpZ2h0Ijo2NzAsImNyb3BYIjo0LCJjcm9wWSI6MTMxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1NDAsImNyb3BIZWlnaHQiOjk2MCwiY3JvcFgiOjYzMCwiY3JvcFkiOjE0fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
