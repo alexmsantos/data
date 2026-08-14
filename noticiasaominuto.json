@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3036537/mp-acusa-homem-de-homicidio-qualificado-de-tia-em-portalegre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "MP acusa homem de homicídio qualificado de tia em Portalegre",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3036537/mp-acusa-homem-de-homicidio-qualificado-de-tia-em-portalegre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786710236000,
+         "created": 1786710236000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6707aeec95ecf.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3036471/em-direto-farioli-faz-a-antevisao-ao-rio-ave-fc-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Farioli faz a antevisão ao Rio Ave-FC Porto",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/28160458.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3035425/petrolifera-tornou-posto-de-combustivel-em-ponto-de-carregamento-eletrico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Petrolífera tornou posto de combustível em ponto de carregamento elétrico",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3035425/petrolifera-tornou-posto-de-combustivel-em-ponto-de-carregamento-eletrico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786531106000,
-         "created": 1786531106000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7c3bf13143b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
