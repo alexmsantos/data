@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3036629/pepa-e-o-sporting-podia-ter-descambado-mas-nao-descambou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pepa e o Sporting: \"Podia ter descambado, mas não descambou\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3036629/pepa-e-o-sporting-podia-ter-descambado-mas-nao-descambou#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786719264000,
+         "created": 1786719264000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47582905.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTEsImNyb3BZIjo4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjo0NzAsImNyb3BZIjo0NX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/3036608/paulo-branco-scorsese-e-fanny-ardant-marcam-rentree-da-cinemateca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Paulo Branco, Scorsese e Fanny Ardant marcam rentrée da Cinemateca",
@@ -691,7 +712,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68a1c0cb6087b.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7f1db11a44e.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -1951,7 +1972,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7ec6587ff61.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzE3LCJjcm9wSGVpZ2h0IjoxMzAzLCJjcm9wWCI6MCwiY3JvcFkiOjc3MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTczNywiY3JvcEhlaWdodCI6MzA4OCwiY3JvcFgiOjM1MSwiY3JvcFkiOjB9fQ==",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7ec6587ff61.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTI0LCJjcm9wSGVpZ2h0IjoxMTk1LCJjcm9wWCI6NDEsImNyb3BZIjo5MzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE3MzcsImNyb3BIZWlnaHQiOjMwODgsImNyb3BYIjozNTEsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/23123274.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3035494/papa-envia-1-ajuda-de-100-mil-euros-para-vitimas-de-sismo-na-colombia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Papa envia 1.ª ajuda de 100 mil euros para vítimas de sismo na Colômbia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3035494/papa-envia-1-ajuda-de-100-mil-euros-para-vitimas-de-sismo-na-colombia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786537837000,
-         "created": 1786537837000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47596785.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
