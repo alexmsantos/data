@@ -1,10 +1,73 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/3036797/dgartes-divulga-avisos-de-seis-concursos-de-apoio-sustentado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "DGArtes divulga avisos de seis concursos de apoio sustentado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/3036797/dgartes-divulga-avisos-de-seis-concursos-de-apoio-sustentado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786738602000,
+         "created": 1786738602000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/24005312.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjIwM319",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EM DIRETO: Sporting e Vitória SC dão pontapé de saída na segunda jornada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786738515000,
+         "created": 1786738515000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7d761bad24a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3036507/monstro-de-1600-cv-homenageia-carro-que-nunca-cumpriu-o-seu-proposito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Monstro\" de 1.600 cv homenageia carro que nunca cumpriu o seu propósito",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3036507/monstro-de-1600-cv-homenageia-carro-que-nunca-cumpriu-o-seu-proposito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786738428000,
+         "created": 1786738428000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7eed9d192c3.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3036788/imprensa-brasileira-identifica-mae-morta-pelo-filho-de-15-anos-em-alges#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Imprensa brasileira identifica mãe morta pelo filho de 15 anos em Algés",
@@ -19,7 +82,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7f63316f11b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjI1MiwiY3JvcEhlaWdodCI6NDQ4LCJjcm9wWCI6MjM3LCJjcm9wWSI6MH19",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7f63316f11b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjI1MiwiY3JvcEhlaWdodCI6NDQ4LCJjcm9wWCI6MjM3LCJjcm9wWSI6MH0sImxhbmRzY2FwZSI6eyJjcm9wV2lkdGgiOjc1OCwiY3JvcEhlaWdodCI6NDI2LCJjcm9wWCI6NSwiY3JvcFkiOjExfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -587,27 +650,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6234aca9afbbf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo2MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTU4LCJjcm9wSGVpZ2h0IjoxNzAzLCJjcm9wWCI6OTk4LCJjcm9wWSI6MH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Sporting e Vitória SC dão pontapé de saída na segunda jornada",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3036341/em-direto-sporting-e-vitoria-sc-dao-pontape-de-saida-na-segunda-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786731704000,
-         "created": 1786731704000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7d761bad24a.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10247,48 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7d92df3d41f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyNTd9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3035416/ha-uma-regra-silenciosa-nesta-epoca-mas-a-dor-cronica-nao-tira-ferias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Há uma regra silenciosa nesta época. Mas a dor crónica não tira férias",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3035416/ha-uma-regra-silenciosa-nesta-epoca-mas-a-dor-cronica-nao-tira-ferias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786617981000,
-         "created": 1786617981000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7c39a32d652.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg0MCwiY3JvcEhlaWdodCI6MTQ5NCwiY3JvcFgiOjMxNSwiY3JvcFkiOjB9LCJzdGFtcCI6eyJjYXRlZ29yeSI6Im1pc2MiLCJsYWJlbCI6ImFydGlnb19kZV9vcGluaWFvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6ImJvdHRvbS1yaWdodCJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3035967/internato-medico-tera-2400-vagas-em-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Internato médico terá 2.400 vagas em 2027",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3035967/internato-medico-tera-2400-vagas-em-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786617789000,
-         "created": 1786617789000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a441486dbb9f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
