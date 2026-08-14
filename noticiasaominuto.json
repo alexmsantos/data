@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3036516/mulher-de-92-anos-morre-apos-queda-no-rio-tejo-estava-em-cais-de-almada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mulher de 92 anos morre após queda no rio Tejo. Estava em cais de Almada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3036516/mulher-de-92-anos-morre-apos-queda-no-rio-tejo-estava-em-cais-de-almada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786707587000,
+         "created": 1786707587000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7ef016b03f9.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3036504/palhinha-quer-villa-ou-benfica-mas-bayern-munique-nao-baixa-fasquia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Palhinha quer Villa ou Benfica\", mas Bayern Munique não baixa fasquia",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7c33fb9d3c8.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3035410/liga-chama-ninguem-atende-e-vai-para-o-voice-mail-vai-ter-de-pagar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Liga, chama, ninguém atende e segue para \"voice mail\": Vai ter de pagar?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3035410/liga-chama-ninguem-atende-e-vai-para-o-voice-mail-vai-ter-de-pagar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786528260000,
-         "created": 1786528260000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7c343d4a447.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEyNjksImNyb3BZIjoxNTJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
