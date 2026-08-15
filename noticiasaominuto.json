@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3036959/mulher-com-limitacoes-alvo-de-tentativa-de-violacao-em-coimbra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mulher com \"limitações\" alvo de tentativa de violação em Coimbra",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3036959/mulher-com-limitacoes-alvo-de-tentativa-de-violacao-em-coimbra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786789260000,
+         "created": 1786789260000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a80301fd4368.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3036953/marrocos-trava-entrada-de-centenas-de-migrantes-em-ceuta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Marrocos trava entrada de centenas de migrantes em Ceuta",
@@ -28,7 +49,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/fama/3036951/morreu-mark-rydell-realizador-de-filme-como-a-casa-do-lago#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Morreu Mark Rydell, realizador de filme como \"A Casa do Lago\"",
+         "title": "Morreu Mark Rydell, realizador de filmes como \"A Casa do Lago\"",
          "description": "",
          "link": "https://www.noticiasaominuto.com/fama/3036951/morreu-mark-rydell-realizador-de-filme-como-a-casa-do-lago#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7de0eadf4dd.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3036140/passageiro-apanhado-com-mais-de-um-quilo-de-cocaina-em-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Passageiro apanhado com mais de um quilo de cocaína em Cabo Verde",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3036140/passageiro-apanhado-com-mais-de-um-quilo-de-cocaina-em-cabo-verde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786638224000,
-         "created": 1786638224000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/30895648.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDA3LCJjcm9wSGVpZ2h0Ijo3OTIsImNyb3BYIjotMSwiY3JvcFkiOjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
