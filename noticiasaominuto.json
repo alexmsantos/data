@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3037339/sobrevivente-de-acidente-na-hungria-revela-aconteceu-em-segundos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sobrevivente de acidente na Hungria revela: \"Aconteceu em segundos\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3037339/sobrevivente-de-acidente-na-hungria-revela-aconteceu-em-segundos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786910832000,
+         "created": 1786910832000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8206a755579.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3037342/arouca-goleia-moreirense-e-agarra-fc-porto-no-topo-da-tabela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Arouca goleia Moreirense e agarra FC Porto no topo da tabela",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/47619887.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/47619887.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDcsImNyb3BZIjoyMX19",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_686c10914ddf6.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNDB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3036248/3-minutos-por-dia-o-que-fazer-para-reduzir-risco-de-13-tipos-de-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "3 minutos por dia? O que fazer para reduzir risco de 13 tipos de cancro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3036248/3-minutos-por-dia-o-que-fazer-para-reduzir-risco-de-13-tipos-de-cancro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786655734000,
-         "created": 1786655734000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7e09bfd2ad9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEyOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODM0LCJjcm9wSGVpZ2h0IjoxNDgyLCJjcm9wWCI6NDM3LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
