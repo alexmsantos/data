@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3037337/felix-da-costa-ajuda-jaguar-a-conquistar-mundial-de-equipas-na-formula-e#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Félix da Costa ajuda Jaguar a conquistar Mundial de equipas na Fórmula E",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3037337/felix-da-costa-ajuda-jaguar-a-conquistar-mundial-de-equipas-na-formula-e#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786909343000,
+         "created": 1786909343000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/46463445.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3037335/mais-de-100-operacionais-combatem-incendio-em-oliveira-de-azemeis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mais de 100 operacionais combatem incêndio em Oliveira de Azeméis",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47602651.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3036262/viagem-de-deputado-do-ps-a-russia-gera-polemica-com-o-chega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Deputado do PS visita Rússia e é acusado de \"falta de noção\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3036262/viagem-de-deputado-do-ps-a-russia-gera-polemica-com-o-chega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786655012000,
-         "created": 1786655012000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a78b50e9aae0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NTAsImNyb3BIZWlnaHQiOjI1MywiY3JvcFgiOjQsImNyb3BZIjoxMX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTkzLCJjcm9wSGVpZ2h0IjozNDMsImNyb3BYIjoxNTMsImNyb3BZIjo1fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
