@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3037199/acidente-com-autocarro-na-hungria-faz-12-mortos-e-10-feridos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Acidente com autocarro na Hungria faz 12 mortos e 10 feridos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3037199/acidente-com-autocarro-na-hungria-faz-12-mortos-e-10-feridos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786864740000,
+         "created": 1786864740000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8157398f28d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3037157/lei-farioli-chegou-e-sobrou-para-fc-porto-confirmar-deja-vu-do-campeao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "'Lei Farioli' chegou e sobrou para FC Porto confirmar déjà vu do campeão",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7dd72e11be4.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3036120/homem-morre-colhido-por-comboio-em-aveiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Homem morre colhido por comboio em Aveiro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3036120/homem-morre-colhido-por-comboio-em-aveiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786635426000,
-         "created": 1786635426000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_689cf61220cb3.webp",
                "type": "image/jpeg",
                "length": "0"
             }
