@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3037384/fogo-em-torre-de-moncorvo-alastrou-para-carrazeda-de-ansiaes-em-2-frentes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fogo em Torre de Moncorvo alastrou para Carrazeda de Ansiães em 2 frentes",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3037384/fogo-em-torre-de-moncorvo-alastrou-para-carrazeda-de-ansiaes-em-2-frentes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1786921519000,
+         "created": 1786921519000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a47f6e0a2858.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3037377/maritimo-soma-segunda-vitoria-no-campeonato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Marítimo soma segunda vitória no campeonato",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5ff31cbd94b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3036329/policia-do-equador-apreende-369-quilos-de-droga-com-cara-de-haaland#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Polícia do Equador apreende 369 quilos de droga... com cara de Haaland",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3036329/policia-do-equador-apreende-369-quilos-de-droga-com-cara-de-haaland#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786662516000,
-         "created": 1786662516000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a57e0d8737d0.webp",
                "type": "image/jpeg",
                "length": "0"
             }
