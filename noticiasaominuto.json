@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3037800/trump-recusa-se-a-confirmar-apoio-a-netanyahu-em-eleicoes-israelitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trump recusa-se a confirmar apoio a Netanyahu em eleições israelitas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3037800/trump-recusa-se-a-confirmar-apoio-a-netanyahu-em-eleicoes-israelitas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787001295000,
+         "created": 1787001295000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68db7acb23bea.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjcwMSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3037799/ct-do-inem-congratula-se-com-inclusao-de-medicos-nas-horas-extra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "CT do INEM congratula-se com inclusão de médicos nas \"horas extra\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1ef62e69cde.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3037052/numero-de-mortos-devido-ao-sismo-na-colombia-subiu-para-294#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Número de mortos devido ao sismo na Colômbia subiu para 294",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3037052/numero-de-mortos-devido-ao-sismo-na-colombia-subiu-para-294#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786810284000,
-         "created": 1786810284000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a80816e79e57.webp",
                "type": "image/jpeg",
                "length": "0"
             }
