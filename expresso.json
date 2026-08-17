@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "b2b2441f-21c8-4fdf-be49-3a7081f68af6",
+         "title": "Interior Norte e Centro em perigo máximo de incêndio num dia em que se preveem chuva e trovoadas",
+         "description": "<p><span>Instituto Português do Mar e da Atmosfera prevê ainda uma pequena subida de temperatura, com todo o território continental sob aviso amarelo devido ao calor</span></p>",
+         "link": "https://expresso.pt/meteorologia/2026-08-17-interior-norte-e-centro-em-perigo-maximo-de-incendio-num-dia-em-que-se-preveem-chuva-e-trovoadas-88d0ca1c",
+         "author": "Agência Lusa",
+         "published": 1786951665000,
+         "created": 1786951665000,
+         "category": "Tempo e Meteorologia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-05-incendio-em-vouzela-744cfce0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-05-incendio-em-vouzela-744cfce0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-05-incendio-em-vouzela-744cfce0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "0240c7de-a281-4459-ba69-7f4a0b20520f",
          "title": "Palavras Cruzadas nº 1539",
          "description": "",
@@ -255,35 +284,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "4efa2bbf-0330-4d4a-9c6f-6d1baab11bb8",
-         "title": "Ecrãs novos, processos velhos",
-         "description": "<p><span>Trocar papel por ecrãs não é transformação digital. A transição só valerá a pena se servir para repensar a forma como fazemos as coisas e não deixar ninguém para trás. Caso contrário, pagaremos caro por um futuro que, na realidade, será um retrocesso</span></p>",
-         "link": "https://expresso.pt/opiniao/2026-08-17-ecras-novos-processos-velhos-7e0dff26",
-         "author": "Filipe Araújo",
-         "published": 1786946400000,
-         "created": 1786946400000,
-         "category": "Opinião",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2025-11-11-filipe-araujo-89f7631e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2025-11-11-filipe-araujo-89f7631e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2025-11-11-filipe-araujo-89f7631e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
