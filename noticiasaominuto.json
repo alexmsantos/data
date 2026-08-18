@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3037950/este-ford-esta-a-venda-por-quase-dois-milhoes-de-euros-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Este Ford está à venda por quase dois milhões de euros. Porquê?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3037950/este-ford-esta-a-venda-por-quase-dois-milhoes-de-euros-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787060776000,
+         "created": 1787060776000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a84165b4106a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3038089/televisoes-cumprem-regras-de-acessibilidade-mas-erc-quer-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Televisões cumprem regras de acessibilidade, mas ERC quer mais",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5f2d463da39b6.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5f2d463da39b6.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjg5OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/47605016.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3037042/quase-50-mortos-em-novo-balanco-do-sismo-que-atingiu-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Quase 50 mortos em novo balanço do sismo que atingiu Indonésia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3037042/quase-50-mortos-em-novo-balanco-do-sismo-que-atingiu-indonesia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786807774000,
-         "created": 1786807774000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/47613928.webp",
                "type": "image/jpeg",
                "length": "0"
             }
