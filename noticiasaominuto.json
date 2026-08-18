@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3038327/al-nassr-nos-oitavos-da-taca-saudita-com-bis-e-assistencia-de-joao-felix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Al Nassr nos oitavos da Taça saudita com bis e assistência de João Félix",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3038327/al-nassr-nos-oitavos-da-taca-saudita-com-bis-e-assistencia-de-joao-felix#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787090189000,
+         "created": 1787090189000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a84c7027666d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3038326/mocambique-quer-investir-1400-milhoes-para-mais-produtividade-agricola#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Moçambique quer investir 1.400 milhões para mais produtividade agrícola",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7f1e2bb4457.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3037242/gustavo-santo-pede-desculpa-a-joana-marques-nao-estive-ao-meu-nivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Gustavo Santos pede desculpa a Joana Marques. \"Não estive ao meu nível\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3037242/gustavo-santo-pede-desculpa-a-joana-marques-nao-estive-ao-meu-nivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786880407000,
-         "created": 1786880407000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a81938a4f0e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3NDEsImNyb3BIZWlnaHQiOjQxNywiY3JvcFgiOjEzLCJjcm9wWSI6ODR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMzMSwiY3JvcEhlaWdodCI6NTg5LCJjcm9wWCI6NDA1LCJjcm9wWSI6NDV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
