@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3038175/nao-leio-comentarios-conseguimos-mesmo-ignorar-o-que-dizem-sobre-nos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Não leio comentários. Conseguimos mesmo ignorar o que dizem sobre nós?\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3038175/nao-leio-comentarios-conseguimos-mesmo-ignorar-o-que-dizem-sobre-nos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787068559000,
+         "created": 1787068559000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a71e13a36ef1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4MjcsImNyb3BIZWlnaHQiOjQ2NSwiY3JvcFgiOjE3LCJjcm9wWSI6MjA2fSwic3RhbXAiOnsiY2F0ZWdvcnkiOiJtaXNjIiwibGFiZWwiOiJhcnRpZ29fZGVfb3BpbmlhbyIsImNvbG9yIjoicHJldG8iLCJwb3NpdGlvbiI6InRvcC1yaWdodCJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3038168/toneladas-de-material-nuclear-encontradas-em-local-nao-declarado-na-siria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Toneladas de material nuclear encontradas em local não declarado na Síria",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a80adea8847f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3037043/catarina-gouveia-atualiza-estado-de-saude-da-mae-e-agradece-apoio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Catarina Gouveia atualiza estado de saúde da mãe e agradece apoio",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3037043/catarina-gouveia-atualiza-estado-de-saude-da-mae-e-agradece-apoio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1786820459000,
-         "created": 1786820459000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8077391d86b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzYsImNyb3BIZWlnaHQiOjUyNywiY3JvcFgiOjIxOCwiY3JvcFkiOjU2Nn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MzcwLCJjcm9wSGVpZ2h0Ijo2NTgsImNyb3BYIjo2MTIsImNyb3BZIjo1NTR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
