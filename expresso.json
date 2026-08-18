@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "b1109a29-b946-4844-9a11-872610a143c6",
+         "title": "Morreu aos 46 anos a fadista Sónia Santos",
+         "description": "<p>Natural de Elvas, a fadista Sónia Santos cantou em várias casas de fado de Lisboa e participou em concursos como “The Voice”</p>",
+         "link": "https://expresso.pt/blitz/2026-08-18-morreu-aos-46-anos-a-fadista-sonia-santos-eab38c14",
+         "author": "BLITZ",
+         "published": 1787045686000,
+         "created": 1787045686000,
+         "category": "BLITZ",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-08-18-sonia-santos-2.jpg-2d359930/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-08-18-sonia-santos-2.jpg-2d359930/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-08-18-sonia-santos-2.jpg-2d359930/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "a16640c2-248a-4f83-8719-5534d4a7b69b",
          "title": "Siga esta rota fresca de verão para banhos de água doce no Algarve",
          "description": "<p>Cascatas, praias fluviais e piscinas alimentadas por águas frescas de fontes e ribeiras são atrações nesta rota de água doce para mergulhar este verão no Algarve. Entre novidades e locais quase secretos, há muito para explorar na região</p>",
@@ -231,35 +260,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "e2d1ff36-04bf-4b55-b2d5-bfdac18e4853",
-         "title": "Palavras Cruzadas nº 1540",
-         "description": "",
-         "link": "https://expresso.pt/jogos/palavras-cruzadas/2026-08-18-palavras-cruzadas-n-1540-11a75ac0",
-         "author": "Atlântico Press",
-         "published": 1787036400000,
-         "created": 1787036400000,
-         "category": "Palavras Cruzadas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-20-w600.jpeg-7c4ed7a7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-07-20-w600.jpeg-7c4ed7a7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-07-20-w600.jpeg-7c4ed7a7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
