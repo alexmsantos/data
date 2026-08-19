@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3038863/fc-barcelona-conquista-gamper-ao-bater-al-ahly-no-fecho-da-pre-temporada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "FC Barcelona conquista Gamper ao bater Al Ahly no fecho da pré-temporada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3038863/fc-barcelona-conquista-gamper-ao-bater-al-ahly-no-fecho-da-pre-temporada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787175069000,
+         "created": 1787175069000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8612992760e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3038851/ong-pede-ao-tpi-para-monitorizar-o-quenia-face-a-aumento-da-violencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "ONG pede ao TPI para monitorizar o Quénia face a aumento da violência",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a842bf3db7a0.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3037993/ministros-de-israel-entre-mais-votados-nas-primarias-do-likud#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ministros de Israel entre mais votados nas primárias do Likud",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3037993/ministros-de-israel-entre-mais-votados-nas-primarias-do-likud#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787051731000,
-         "created": 1787051731000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a843087cc66d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDY3LCJjcm9wSGVpZ2h0IjoxMzg3LCJjcm9wWCI6NjcsImNyb3BZIjoxNjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjUxNCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
