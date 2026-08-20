@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/3039375/habito-que-aumenta-risco-de-cancro-pode-ser-corrigido-em-3-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Hábito que aumenta risco de cancro pode ser corrigido em 3 minutos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/3039375/habito-que-aumenta-risco-de-cancro-pode-ser-corrigido-em-3-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787263569000,
+         "created": 1787263569000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8769534fb15.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3039377/sporting-de-braga-bate-austria-viena-e-aproxima-se-da-fase-de-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sporting de Braga bate Áustria Viena e aproxima-se da fase de liga",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/41975180.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3038533/justin-chatwin-trabalhou-com-hayden-no-ultimo-filme-estava-a-sofrer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Justin Chatwin trabalhou com Hayden no último filme. \"Estava a sofrer\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3038533/justin-chatwin-trabalhou-com-hayden-no-ultimo-filme-estava-a-sofrer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787139227000,
-         "created": 1787139227000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8585fe2c67d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkxLCJjcm9wSGVpZ2h0IjoxNDAxLCJjcm9wWCI6MzMsImNyb3BZIjo4Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTE1MiwiY3JvcEhlaWdodCI6MjA0OCwiY3JvcFgiOjU1LCJjcm9wWSI6NDR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
