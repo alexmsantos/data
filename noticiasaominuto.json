@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3039115/barco-ligado-ao-trafico-desvenda-abastecimento-de-gasolina-em-aljezur#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Barco ligado ao tráfico desvenda abastecimento de gasolina em Aljezur",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3039115/barco-ligado-ao-trafico-desvenda-abastecimento-de-gasolina-em-aljezur#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787234277000,
+         "created": 1787234277000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a86f1edbbc4a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3039111/fui-preso-pelo-meu-primeiro-filho-pelas-mentiras-que-criaram#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Fui preso pelo meu primeiro filho, pelas mentiras que criaram\"",
@@ -36,7 +57,7 @@
          },
          "published": 1787233909000,
          "created": 1787233909000,
-         "category": "País",
+         "category": "Economia",
          "content": "",
          "enclosures": [
             {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a84998652826.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3038261/ana-maria-lopes-nomeada-diretora-geral-da-microsoft-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ana Maria Lopes nomeada diretora-geral da Microsoft Portugal",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3038261/ana-maria-lopes-nomeada-diretora-geral-da-microsoft-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787082889000,
-         "created": 1787082889000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6089231c09ad4.webp",
                "type": "image/jpeg",
                "length": "0"
             }
