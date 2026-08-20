@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3039219/japao-lanca-sonda-para-trazer-amostras-de-uma-lua-de-marte-a-terra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Japão lança sonda para trazer amostras de uma lua de Marte à Terra",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3039219/japao-lanca-sonda-para-trazer-amostras-de-uma-lua-de-marte-a-terra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787242703000,
+         "created": 1787242703000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a871a8d1c38b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3039217/concordaste-com-isto-haaland-provoca-bernardo-silva-apos-este-video#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Concordaste com isto?\". Haaland provoca Bernardo Silva após este vídeo",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8431c51df7f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAyLCJjcm9wSGVpZ2h0IjoxNDA3LCJjcm9wWCI6MzMsImNyb3BZIjoxNTl9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3038045/escapadinha-de-outono-estas-4-ilhas-na-europa-estao-a-sua-espera#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Escapadinha de outono? Estas 4 ilhas na Europa estão à sua espera",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3038045/escapadinha-de-outono-estas-4-ilhas-na-europa-estao-a-sua-espera#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787058138000,
-         "created": 1787058138000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a843d13e00cb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIzLCJjcm9wSGVpZ2h0IjoxNDE5LCJjcm9wWCI6NywiY3JvcFkiOjIyNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM0LCJjcm9wSGVpZ2h0IjoxNjYwLCJjcm9wWCI6MTAxNiwiY3JvcFkiOjQ3fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
