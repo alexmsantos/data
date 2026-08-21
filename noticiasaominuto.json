@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3039682/kyiv-ue-nota-solidariedade-inabalavel-em-aniversario-da-independencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Kyiv: UE nota \"solidariedade inabalável\" em aniversário da independência",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3039682/kyiv-ue-nota-solidariedade-inabalavel-em-aniversario-da-independencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787326918000,
+         "created": 1787326918000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/47640285.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3039683/harry-enfrenta-derrota-judicial-principe-vai-pagar-milhoes-ao-daily-mail#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Harry enfrenta derrota judicial. Príncipe vai pagar milhões ao Daily Mail",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/41975180.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3038533/justin-chatwin-trabalhou-com-hayden-no-ultimo-filme-estava-a-sofrer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Justin Chatwin trabalhou com Hayden no último filme. \"Estava a sofrer\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3038533/justin-chatwin-trabalhou-com-hayden-no-ultimo-filme-estava-a-sofrer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787139227000,
-         "created": 1787139227000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8585fe2c67d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkxLCJjcm9wSGVpZ2h0IjoxNDAxLCJjcm9wWCI6MzMsImNyb3BZIjo4Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTE1MiwiY3JvcEhlaWdodCI6MjA0OCwiY3JvcFgiOjU1LCJjcm9wWSI6NDR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
