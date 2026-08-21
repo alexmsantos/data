@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3039643/exercito-israelita-e-colono-matam-dois-palestinianos-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Exército israelita e colono matam dois palestinianos na Cisjordânia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3039643/exercito-israelita-e-colono-matam-dois-palestinianos-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787324824000,
+         "created": 1787324824000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a74e91e63ddb.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3039656/ministerio-lamenta-profundamente-morte-de-militares-do-exercito-na-a1#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministério \"lamenta profundamente\" morte de militares do Exército na A1",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8569367393d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3038503/hilary-duff-frankie-muniz-e-solange-knowles-entre-as-homenagens-a-hayden#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Hilary Duff, Frankie Muniz e Solange Knowles entre as homenagens a Hayden",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3038503/hilary-duff-frankie-muniz-e-solange-knowles-entre-as-homenagens-a-hayden#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787137909000,
-         "created": 1787137909000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a85815d930d8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTI1LCJjcm9wSGVpZ2h0IjoxMDgzLCJjcm9wWCI6MjYsImNyb3BZIjoxNDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEzNTAsImNyb3BIZWlnaHQiOjI0MDAsImNyb3BYIjo1MjgsImNyb3BZIjoxNTJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
