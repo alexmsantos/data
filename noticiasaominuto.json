@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3040094/irao-e-egito-discutem-regresso-a-mesa-de-negociacoes-com-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Irão e Egito discutem regresso à mesa de negociações com EUA",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3040094/irao-e-egito-discutem-regresso-a-mesa-de-negociacoes-com-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787427140000,
+         "created": 1787427140000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_66b3a3fa3cd72.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3040090/ex-autarca-de-santa-comba-dao-joao-lourenco-morre-aos-63-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ex-autarca de Santa Comba Dão João Lourenço morre aos 63 anos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3040090/ex-autarca-de-santa-comba-dao-joao-lourenco-morre-aos-63-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787427031000,
+         "created": 1787427031000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5fac60db2eed5.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3040095/tadej-pogacar-vence-contrarrelogio-e-e-o-primeiro-lider-da-vuelta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tadej Pogacar vence contrarrelógio e é o primeiro líder da Vuelta",
@@ -14657,48 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a86c49beeb01.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTk4LCJjcm9wWSI6Mzl9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3039001/gnr-deteve-oito-pessoas-no-festival-o-sol-da-caparica-seis-por-trafico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "GNR deteve oito pessoas no festival O Sol da Caparica. Seis por tráfico",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3039001/gnr-deteve-oito-pessoas-no-festival-o-sol-da-caparica-seis-por-trafico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787220745000,
-         "created": 1787220745000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a86c1fd2eed2.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3039008/metodos-que-precisa-de-conhecer-para-eliminar-a-cache-do-iphone#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Métodos que precisa de conhecer para eliminar a cache do iPhone",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3039008/metodos-que-precisa-de-conhecer-para-eliminar-a-cache-do-iphone#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787220635000,
-         "created": 1787220635000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a86c45a32bc8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM3LCJjcm9wSGVpZ2h0IjoxNDI3LCJjcm9wWCI6MTIsImNyb3BZIjoxNDB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0NSwiY3JvcEhlaWdodCI6MTY4MSwiY3JvcFgiOjU3MiwiY3JvcFkiOjEwfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
