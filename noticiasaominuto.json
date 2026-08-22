@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3040044/detido-por-atear-dois-incendios-em-foz-coa-dizia-estar-a-limpar-o-mato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Detido por atear dois incêndios em Foz Côa: Dizia estar a limpar o mato",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3040044/detido-por-atear-dois-incendios-em-foz-coa-dizia-estar-a-limpar-o-mato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787417042000,
+         "created": 1787417042000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_578c709c8bcb3.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3040036/amarante-conquista-primeiro-ponto-nos-campeonatos-profissionais-em-vizela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Amarante conquista primeiro ponto nos campeonatos profissionais em Vizela",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8012b4bbf03.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzE0LCJjcm9wSGVpZ2h0IjoxMzAyLCJjcm9wWCI6NjUsImNyb3BZIjoxMDR9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3038956/seis-sismos-sentidos-na-provincia-espanhola-de-granada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Seis sismos sentidos na província espanhola de Granada",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3038956/seis-sismos-sentidos-na-provincia-espanhola-de-granada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787214142000,
-         "created": 1787214142000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a843bfcd852e.webp",
                "type": "image/jpeg",
                "length": "0"
             }
