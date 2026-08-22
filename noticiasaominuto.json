@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3040134/kevin-de-bruyne-salta-do-banco-para-desbloquear-triunfo-do-napoli#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Kevin De Bruyne salta do banco para desbloquear triunfo do Napoli",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3040134/kevin-de-bruyne-salta-do-banco-para-desbloquear-triunfo-do-napoli#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787438572000,
+         "created": 1787438572000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8a17549c000.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3040138/lula-e-flavio-bolsonaro-realizam-comicios-simultaneos-no-rio-de-janeiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lula e Flávio Bolsonaro realizam comícios simultâneos no Rio de Janeiro",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67fe9d6835d98.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3039058/tudo-a-fazer-pilates-georgina-rodriguez-filma-aula-com-as-filhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tudo a fazer pilates... Georgina Rodríguez filma aula com as filhas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3039058/tudo-a-fazer-pilates-georgina-rodriguez-filma-aula-com-as-filhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787226717000,
-         "created": 1787226717000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a86db183409b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjIzLCJjcm9wSGVpZ2h0Ijo2ODgsImNyb3BYIjoxNDUsImNyb3BZIjoxMTJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQxMiwiY3JvcEhlaWdodCI6NzMzLCJjcm9wWCI6NDc0LCJjcm9wWSI6MzV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
