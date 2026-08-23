@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3040289/adiado-fogo-de-artificio-da-romaria-dagonia-por-causa-do-mau-tempo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Adiado fogo de artifício da Romaria d'Agonia por causa do mau tempo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3040289/adiado-fogo-de-artificio-da-romaria-dagonia-por-causa-do-mau-tempo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787495449000,
+         "created": 1787495449000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_659280cc6b0c4.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3040286/mali-libertados-cerca-de-20-soldados-detidos-pelos-rebeldes-tuaregues#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mali. Libertados cerca de 20 soldados detidos pelos rebeldes tuaregues",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8719e6a50df.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3039227/detido-grupo-que-assaltava-bancos-em-valencia-3-roubo-desde-novembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Detido grupo que assaltava bancos em Valência (3.º roubo desde novembro)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3039227/detido-grupo-que-assaltava-bancos-em-valencia-3-roubo-desde-novembro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787245597000,
-         "created": 1787245597000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a871b94c8a85.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjc5LCJjcm9wSGVpZ2h0Ijo5NDQsImNyb3BYIjowLCJjcm9wWSI6MTV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU0MCwiY3JvcEhlaWdodCI6OTU5LCJjcm9wWCI6MTEwNywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
