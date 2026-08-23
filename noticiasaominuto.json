@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3040328/sem-rodrigo-mora-e-com-mexidas-os-onzes-do-fc-porto-arouca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sem Rodrigo Mora e com mexidas. Os onzes do FC Porto-Arouca",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3040328/sem-rodrigo-mora-e-com-mexidas-os-onzes-do-fc-porto-arouca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787512512000,
+         "created": 1787512512000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a81cb702bd4c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3038758/antro-de-germes-7-coisas-que-a-maioria-das-pessoas-se-esquece-de-lavar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Antro de germes. 7 coisas que a maioria das pessoas se esquece de lavar",
@@ -49,7 +70,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3040342/sporting-varandas-e-a-polemica-com-suarez-para-desgosto-de-muitos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sporting. Varandas e a polémica com Suárez: \"Para desgosto de muitos...\"",
+         "title": "Suárez, Morten Hjulmand, áudios e Palhinha. Varandas o quebra silêncio",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/3040342/sporting-varandas-e-a-polemica-com-suarez-para-desgosto-de-muitos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a87493bb314a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3039334/trezza-orgulhoso-pelos-100-jogos-ao-servico-do-arouca-tenho-muito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trezza orgulhoso pelos 100 jogos ao serviço do Arouca: \"Tenho muito...\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3039334/trezza-orgulhoso-pelos-100-jogos-ao-servico-do-arouca-tenho-muito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787255818000,
-         "created": 1787255818000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a874d5bb66fc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDkzLCJjcm9wSGVpZ2h0IjoxOTQzLCJjcm9wWCI6MTAwOSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
