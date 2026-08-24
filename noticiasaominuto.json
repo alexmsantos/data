@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3040604/bombeiros-feridos-em-arouca-que-continuam-internados-estao-a-melhorar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bombeiros feridos em Arouca que continuam internados estão a melhorar",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3040604/bombeiros-feridos-em-arouca-que-continuam-internados-estao-a-melhorar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787576485000,
+         "created": 1787576485000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_66eacfca45bc8.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3040599/eua-cancelam-exercicio-militar-com-coreia-do-sul-devido-a-guerra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EUA cancelam exercício militar com Coreia do Sul devido à guerra",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68ece4d184f5f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo4NjQsImNyb3BIZWlnaHQiOjQ4NiwiY3JvcFgiOjgwLCJjcm9wWSI6MzQ3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2MDgsImNyb3BIZWlnaHQiOjEwODAsImNyb3BYIjoyOTIsImNyb3BZIjoxMDJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3039573/mark-cuban-medicos-deviam-ensinar-pacientes-a-usarem-ia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mark Cuban: Médicos devem ensinar pacientes a usarem IA",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3039573/mark-cuban-medicos-deviam-ensinar-pacientes-a-usarem-ia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787314600000,
-         "created": 1787314600000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a883364b4663.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTY0LCJjcm9wSGVpZ2h0Ijo4ODAsImNyb3BYIjo5ODUsImNyb3BZIjo0NDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjE1NTMsImNyb3BZIjoxNTV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
