@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3040670/ia-na-musica-algumas-pessoas-tem-medo-de-aprender-coisas-novas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "IA na música? \"Algumas pessoas têm medo de aprender coisas novas\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3040670/ia-na-musica-algumas-pessoas-tem-medo-de-aprender-coisas-novas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787583509000,
+         "created": 1787583509000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8c4d9351794.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM0LCJjcm9wSGVpZ2h0IjoxNDI1LCJjcm9wWCI6MjEsImNyb3BZIjoxODJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1MSwiY3JvcEhlaWdodCI6MTY5MCwiY3JvcFgiOjk2MywiY3JvcFkiOjV9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3040652/estabelecimento-suspenso-em-agualva-cacem-perigo-iminente-e-na-cave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Estabelecimento suspenso em Agualva-Cacém: \"Perigo iminente\". E na cave?",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8056e805472.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3039589/livre-pcp-e-be-forcam-debate-parlamentar-sobre-prestacao-social-unica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Livre, PCP e BE forçam debate parlamentar sobre Prestação Social Única",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3039589/livre-pcp-e-be-forcam-debate-parlamentar-sobre-prestacao-social-unica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787323078000,
-         "created": 1787323078000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_65dca1a7af3fa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI1N30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM0LCJjcm9wSGVpZ2h0IjoxNjYwLCJjcm9wWCI6ODA4LCJjcm9wWSI6MTR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
