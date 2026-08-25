@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3041337/catorze-autores-portugueses-semifinalistas-de-premio-literario-oceanos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Catorze autores portugueses semifinalistas de prémio literário Oceanos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3041337/catorze-autores-portugueses-semifinalistas-de-premio-literario-oceanos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787688015000,
+         "created": 1787688015000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5753d5dc33ea6.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3041330/transito-cortado-no-ip3-nas-noites-de-quarta-quinta-e-sexta-feira-em-tondela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tondela: Trânsito cortado no IP3 nas noites de 4.ª, 5.ª e sexta-feira",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5af721573c379.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3037811/hayden-panettiere-teve-relacao-toxica-com-violencia-domestica-a-historia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Hayden Panettiere teve relação tóxica com violência doméstica: A história",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3037811/hayden-panettiere-teve-relacao-toxica-com-violencia-domestica-a-historia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787479478000,
-         "created": 1787479478000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8375bf7016d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQyLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MTgsImNyb3BZIjoxNzV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjU4NSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
