@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "69ecf2d9-b808-4290-b050-97e57cf6ebeb",
+         "title": "Coaching de saúde: “Parece que nós estamos a querer inventar problemas para justificar uma solução que alguém quer muito vender ao Estado”",
+         "description": "<div>  <div>   <div>    <div>     <p>Esta semana, o médico Francisco Goiana da Silva analisa a decisão do SNS de avançar com um programa de <i>coaching</i> de saúde, com um custo de 900 mil euros, o número de médicos reformados a trabalhar no SNS, que atingiu um novo recorde, e o aumento das interrupções voluntárias da gravidez</p>    </div>   </div>  </div> </div>",
+         "link": "https://expresso.pt/podcasts/raio-x-por-francisco-goiana-da-silva/2026-08-25-coaching-de-saude-parece-que-nos-estamos-a-querer-inventar-problemas-para-justificar-uma-solucao-que-alguem-quer-muito-vender-ao-estado-a8ff1bdc",
+         "author": "Expresso",
+         "published": 1787658600000,
+         "created": 1787658600000,
+         "category": "Raio-X por Francisco Goiana da Silva",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-08-25-goiana-2408.jpg-63421f8a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-08-25-goiana-2408.jpg-63421f8a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-08-25-goiana-2408.jpg-63421f8a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "9a2d9d53-1d6b-4f2f-bbfc-99b45c87f520",
          "title": "Com entrada livre, festival em Almeirim serve mais de 4 mil litros de Sopa da Pedra",
          "description": "<p>O Festival da Sopa da Pedra celebra o prato mais emblemático de Almeirim entre 26 a 30 de agosto. Servida com caralhotas, pão típico apenas confecionado localmente, diz a lenda que a receita nasceu da astúcia de um frade. A entrada é livre</p>",
@@ -97,7 +126,10 @@
          "title": "Carneiro e Assis rejeitam colagem ao Chega: \"O PS faz oposição ao Governo, o Chega faz oposição ao regime\"",
          "description": "<p><span>Dirigentes do PS acusam Hugo Soares de declarações levianas. Segretário-geral insiste que tem de haver uma “palavra pública” de Montenegro sobre Segurança Social </span></p>",
          "link": "https://expresso.pt/partidos-politicos/2026-08-25-carneiro-e-assis-rejeitam-colagem-ao-chega-o-ps-faz-oposicao-ao-governo-o-chega-faz-oposicao-ao-regime-52ee44ac",
-         "author": "Agência Lusa",
+         "author": [
+            "Agência Lusa",
+            "Expresso"
+         ],
          "published": 1787656364000,
          "created": 1787656364000,
          "category": "Partidos Políticos",
@@ -265,18 +297,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "be901d60-0549-4151-8d7f-af56929ffeb8",
-         "title": "“Não mostrem as contas aos portugueses. Não mostrem nada. Vamos esconder tudo e acreditar nesta grande ficção [do excedente recorde da Segurança Social]”",
-         "description": "<div>   <div>    <div>     <div>      <p>Esta semana, Miguel Morgado analisa o estudo encomendado pelo Governo sobre a sustentabilidade da Segurança Social e os novos desenvolvimentos no caso Luís Neves, passando ainda por uma polémica em torno do jornal <i>El País</i> e olhando também para o que foi feito na sequência do relatório Draghi</p>     </div>    </div>   </div>  </div>  <div>  </div>  <div>  </div>",
-         "link": "https://expresso.pt/podcasts/torto-e-direito-miguel-morgado/2026-08-25-nao-mostrem-as-contas-aos-portugueses.-vamos-esconder-tudo-e-acreditar-nesta-grande-ficcao-do-excedente-recorde-da-seguranca-social-c053de65",
-         "author": "SIC Notícias",
-         "published": 1787652600000,
-         "created": 1787652600000,
-         "category": "Torto e Direito Miguel Morgado",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
