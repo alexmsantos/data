@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/3040958/rainha-letizia-apanhada-com-outro-homem-em-iate-saiba-tudo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rainha Letizia apanhada com outro homem em iate? Saiba tudo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/3040958/rainha-letizia-apanhada-com-outro-homem-em-iate-saiba-tudo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787642769000,
+         "created": 1787642769000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8d346e6e7ea.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkyLCJjcm9wSGVpZ2h0IjoxNDAyLCJjcm9wWCI6MzUsImNyb3BZIjo0ODF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3040946/china-tera-nova-lei-rodoviaria-e-regras-especificas-para-carros-autonomos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "China terá nova lei rodoviária e regras específicas para carros autónomos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8932e733440.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3039915/detido-em-salvaterra-de-magos-por-violencia-psicologica-a-ex-namorada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Detido em Salvaterra de Magos por violência psicológica à ex-namorada",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3039915/detido-em-salvaterra-de-magos-por-violencia-psicologica-a-ex-namorada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787380130000,
-         "created": 1787380130000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_683576a51eb34.webp",
                "type": "image/jpeg",
                "length": "0"
             }
