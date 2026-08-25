@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3041240/cisternas-de-gas-natural-carregadas-durante-greve-na-ren-atlantico-a-caminho-madeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Greve em Sines: Madeira assegura chegada de nove cisternas de gás",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3041240/cisternas-de-gas-natural-carregadas-durante-greve-na-ren-atlantico-a-caminho-madeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787676221000,
+         "created": 1787676221000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_64c3ab9c89e49.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE0MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODkxLCJjcm9wSGVpZ2h0IjoxNTg0LCJjcm9wWCI6MTkyLCJjcm9wWSI6Mjl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3041238/franceses-colocam-dodi-lukebakio-de-saida-do-benfica-e-apontam-valor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Franceses colocam Dodi Lukebakio de saída do Benfica e apontam valor",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8a1c75b3d0b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3040145/chuva-esta-de-regresso-o-que-esperar-para-este-domingo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chuva está de regresso: O que esperar para este domingo?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3040145/chuva-esta-de-regresso-o-que-esperar-para-este-domingo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787439462000,
-         "created": 1787439462000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a72ea99ac1ca.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkxNywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
