@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3041276/pogacar-vence-quarta-etapa-da-vuelta-e-destaca-se-ainda-mais-na-frente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pogacar vence quarta etapa da Vuelta e destaca-se ainda mais na frente",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3041276/pogacar-vence-quarta-etapa-da-vuelta-e-destaca-se-ainda-mais-na-frente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787679968000,
+         "created": 1787679968000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8dc02b0d49f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3041257/caso-lindsay-clancy-sinto-pena-e-compaixao-reconheco-bem-o-cansaco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Caso Lindsay Clancy: \"Sinto pena e compaixão. Reconheço bem o cansaço\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8a8a464d1fb.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3040168/taiwan-lanca-primeiro-foguetao-sonda-de-fabrico-interno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Taiwan lança primeiro foguetão sonda de fabrico interno",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3040168/taiwan-lanca-primeiro-foguetao-sonda-de-fabrico-interno#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787467692000,
-         "created": 1787467692000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8a8906502da.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzkyLCJjcm9wSGVpZ2h0Ijo3ODMsImNyb3BYIjo1NTIsImNyb3BZIjoyMDF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
