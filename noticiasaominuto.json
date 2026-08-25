@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3041220/menino-de-11-anos-perde-26-mil-euros-em-burla-com-cartas-de-pokemon#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Menino de 11 anos perde 26 mil euros em burla com cartas de Pokémon",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3041220/menino-de-11-anos-perde-26-mil-euros-em-burla-com-cartas-de-pokemon#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787674286000,
+         "created": 1787674286000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69e25ce014295.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3041192/oficial-benfica-reforca-meio-campo-e-contrata-jogadora-ao-tottenham#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Oficial: Benfica reforça meio-campo e contrata jogadora ao Tottenham",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8a0d1b9fbb3.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3040130/motociclista-morre-apos-colisao-entre-motociclo-e-carro-em-alfeizerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Motociclista morre após colisão entre motociclo e carro em Alfeizerão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3040130/motociclista-morre-apos-colisao-entre-motociclo-e-carro-em-alfeizerao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787436599000,
-         "created": 1787436599000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67fd1bc316314.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxMzN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
