@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3041210/negocio-fechado-stephen-eustaquio-deixa-fc-porto-em-definitivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Negócio fechado. Stephen Eustáquio deixa FC Porto em definitivo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3041210/negocio-fechado-stephen-eustaquio-deixa-fc-porto-em-definitivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787672421000,
+         "created": 1787672421000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6980eabcf18fe.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3041198/volkswagen-aperta-o-cinto-ceo-admite-mais-medidas-de-poupanca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Volkswagen \"aperta o cinto\". CEO admite mais medidas de poupança",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a89e8d6f0a93.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3040111/seguro-diz-que-romaria-dagonia-mostra-o-melhor-que-povo-portugues-tem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Seguro diz que Romaria d'Agonia mostra \"o melhor que povo português tem\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3040111/seguro-diz-que-romaria-dagonia-mostra-o-melhor-que-povo-portugues-tem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787431696000,
-         "created": 1787431696000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6967a5c721ccc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
