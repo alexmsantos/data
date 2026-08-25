@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3040963/novo-mitsubishi-pajero-ja-tem-data-de-estreia-regresso-esta-proximo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novo Mitsubishi Pajero já tem data de estreia. Regresso está próximo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3040963/novo-mitsubishi-pajero-ja-tem-data-de-estreia-regresso-esta-proximo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787643679000,
+         "created": 1787643679000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1972df1df54.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3040959/troca-de-ataques-aereos-entre-ucrania-e-russia-faz-quatro-mortos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Troca de ataques aéreos entre Ucrânia e Rússia faz quatro mortos",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a89351f3e1e5.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3039936/china-planeia-medidas-para-impulsionar-consumo-interno-no-2-semestre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "China planeia medidas para impulsionar consumo interno no 2.º semestre",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3039936/china-planeia-medidas-para-impulsionar-consumo-interno-no-2-semestre#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787380368000,
-         "created": 1787380368000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a89347ee41e9.webp",
                "type": "image/jpeg",
                "length": "0"
             }
