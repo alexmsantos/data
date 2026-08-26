@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3041469/novo-suv-da-polestar-revelado-na-proxima-semana-o-que-esperar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novo SUV da Polestar revelado na próxima semana. O que esperar?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3041469/novo-suv-da-polestar-revelado-na-proxima-semana-o-que-esperar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787729231000,
+         "created": 1787729231000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8e86d363058.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3041464/incendio-mata-14-recem-nascidos-em-hospital-na-capital-do-paquistao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Incêndio mata 14 recém-nascidos em hospital na capital do Paquistão",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a871b01765ad.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg2MiwiY3JvcEhlaWdodCI6MTUzMiwiY3JvcFgiOjE2MiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3040312/desmoronamento-de-aterro-sanitario-provoca-varios-mortos-na-guine-conacri#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Desmoronamento de aterro sanitário provoca vários mortos na Guiné Conacri",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3040312/desmoronamento-de-aterro-sanitario-provoca-varios-mortos-na-guine-conacri#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787503884000,
-         "created": 1787503884000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8b168f69c58.webp",
                "type": "image/jpeg",
                "length": "0"
             }
