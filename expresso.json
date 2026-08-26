@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2026 em Portugal",
+         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para os próximos meses: uma agenda sempre em atualização</p>",
+         "link": "https://expresso.pt/blitz/agenda/2026-08-26-todos-os-concertos-marcados-para-2026-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1787736420000,
+         "created": 1787736420000,
+         "category": "Agenda",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "55b5a824-d5d1-4607-8e0a-4342da06eb60",
          "title": "Em Vieira do Minho, entre o rio e a montanha, este novo alojamento inspira-se na natureza",
          "description": "<p>a oferta de alojamento do Pousadela Village, em Vieira do Minho, ganha nove novas casas na Encosta de Louredo, em plena serra da Cabreira. Inspiradas nos elementos da natureza gozam de vista para o rio e para a montanha que enquadram esta zona do Parque Nacional da Peneda-Gerês</p>",
@@ -269,18 +298,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "5395bb25-f577-4687-bca1-c56c023a39ba",
-         "title": "Os dois Krzysztofs",
-         "description": "<p>A quem lhe perguntou por um pessimismo menos intenso, Kieslowski respondeu que continuava pessimista, mas que agora se dedicava a filmar indivíduos</p>",
-         "link": "https://expresso.pt/opiniao/2026-08-26-os-dois-krzysztofs-1e4eab1e",
-         "author": "Pedro Mexia",
-         "published": 1787725980000,
-         "created": 1787725980000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
