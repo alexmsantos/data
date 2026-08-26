@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3041936/ha-mais-um-portugues-desaparecido-apos-inundacoes-no-nepal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Confirmam-se dois portugueses desaparecidos após inundações no Nepal",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3041936/ha-mais-um-portugues-desaparecido-apos-inundacoes-no-nepal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787778636000,
+         "created": 1787778636000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8f482884f18.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3041927/lce-carlos-vicens-quer-sporting-de-braga-sem-pensar-na-vantagem-ganha-em-casa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Carlos Vicens quer Sporting de Braga sem pensar na vantagem ganha em casa",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5adf18d6a5660.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyODAxLCJjcm9wSGVpZ2h0IjoxNTc2LCJjcm9wWCI6LTEsImNyb3BZIjoxNTV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwNTAsImNyb3BIZWlnaHQiOjE4NjYsImNyb3BYIjoxNzUxLCJjcm9wWSI6MH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3040745/suica-mne-confirma-morte-de-portuguesa-em-fogo-sentidas-condolencias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Suíça: MNE confirma morte de portuguesa em fogo. \"Sentidas condolências\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3040745/suica-mne-confirma-morte-de-portuguesa-em-fogo-sentidas-condolencias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787591565000,
-         "created": 1787591565000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8c6bf38e075.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5MzcsImNyb3BIZWlnaHQiOjUyNywiY3JvcFgiOjAsImNyb3BZIjozMDV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxNSwiY3JvcEhlaWdodCI6MTQ0OSwiY3JvcFgiOjAsImNyb3BZIjoyNDV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
