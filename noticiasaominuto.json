@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3042848/epidemia-de-ebola-alastra-se-a-duas-novas-localidades-na-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Epidemia de Ébola alastra-se a duas novas localidades na RDCongo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3042848/epidemia-de-ebola-alastra-se-a-duas-novas-localidades-na-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787920618000,
+         "created": 1787920618000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a91726d17e69.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3042833/crianca-leva-mochila-com-droga-para-campo-de-ferias-na-maia-camara-reage#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Criança leva mochila com droga para campo de férias na Maia. Câmara reage",
@@ -321,10 +342,10 @@
          "media": {}
       },
       {
-         "id": "https://www.noticiasaominuto.com/tech/3042805/estudo-maioria-dos-consumidores-nao-esta-interessado-no-iphone-dobravel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estudo: Maioria dos consumidores não está interessado no iPhone dobrável",
+         "id": "https://www.noticiasaominuto.com/tech/3042805/estudo-maioria-dos-consumidores-nao-esta-interessada-no-iphone-dobravel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Estudo: Maioria dos consumidores não está interessada no iPhone dobrável",
          "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3042805/estudo-maioria-dos-consumidores-nao-esta-interessado-no-iphone-dobravel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "link": "https://www.noticiasaominuto.com/tech/3042805/estudo-maioria-dos-consumidores-nao-esta-interessada-no-iphone-dobravel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_63735ca907eb9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3041636/desde-2005-detalhe-na-apresentacao-de-palhinha-no-benfica-salta-a-vista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Surpreende? Detalhe na apresentação de Palhinha no Benfica salta à vista",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3041636/desde-2005-detalhe-na-apresentacao-de-palhinha-no-benfica-salta-a-vista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787748803000,
-         "created": 1787748803000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8ed16da7a0f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzQ4LCJjcm9wSGVpZ2h0Ijo3NTgsImNyb3BYIjoxNzYsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1ODcsImNyb3BIZWlnaHQiOjEwNDMsImNyb3BYIjo1ODUsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
