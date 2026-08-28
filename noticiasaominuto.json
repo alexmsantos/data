@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/3042749/rei-felipe-vi-junta-se-casa-real-belga-e-paises-baixos-no-luto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Rei Felipe VI junta-se à casa real belga e Países Baixos no luto",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/3042749/rei-felipe-vi-junta-se-casa-real-belga-e-paises-baixos-no-luto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787912854000,
+         "created": 1787912854000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_66f6bbea55a88.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTg5LCJjcm9wWSI6NDQyfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjUsImNyb3BYIjo4MzUsImNyb3BZIjozMTd9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3042748/xiaomi-da-novo-passo-para-levar-os-seus-carros-a-europa-e-nao-so#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Xiaomi dá novo passo para levar os seus carros à Europa (e não só)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6978999bdbfef.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3041553/irao-netanyahu-diz-que-e-impossivel-chegar-a-acordo-com-esses-selvagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Duvido que com aqueles selvagens seja possível chegar a um acordo\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3041553/irao-netanyahu-diz-que-e-impossivel-chegar-a-acordo-com-esses-selvagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787742085000,
-         "created": 1787742085000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8eb8da42a4b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE1LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6MjksImNyb3BZIjoxODB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYxMiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
