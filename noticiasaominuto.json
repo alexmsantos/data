@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3042976/tres-feridos-apos-colisao-entre-eletrico-e-autocarro-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Lisboa: Colisão entre elétrico e autocarro faz 3 feridos (2 são crianças)",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3042976/tres-feridos-apos-colisao-entre-eletrico-e-autocarro-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787933297000,
+         "created": 1787933297000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5512941b673a4.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3042974/em-direto-siga-os-rumores-e-os-negocios-do-mercado-de-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Siga os rumores e os negócios do mercado de verão",
@@ -691,7 +712,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_699205d77c3f5.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MiwiY3JvcEhlaWdodCI6MTY3NSwiY3JvcFgiOjExOTMsImNyb3BZIjo5fX0=",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a7f1db11a44e.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8ef7dfe8e3b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3041745/ucrania-russia-reivindica-controlo-de-duas-localidades-em-sumy-e-zaporijia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia reivindica controlo de duas localidades em Sumy e Zaporíjia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3041745/ucrania-russia-reivindica-controlo-de-duas-localidades-em-sumy-e-zaporijia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787758831000,
-         "created": 1787758831000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_66f7f0a79088e.webp",
                "type": "image/jpeg",
                "length": "0"
             }
