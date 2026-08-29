@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3043271/entrevista-ia-nao-e-a-solucao-para-todos-os-problemas-adverte-virginia-dignum-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "IA não é a solução para todos os problemas, adverte Virginia Dignum",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3043271/entrevista-ia-nao-e-a-solucao-para-todos-os-problemas-adverte-virginia-dignum-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787998216000,
+         "created": 1787998216000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a86ee02f0bbe.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3043261/obitoharoldo-v-trump-lamenta-morte-de-homem-forte-orgulhoso-e-respeitado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Trump lamenta morte de rei \"forte, orgulhoso e respeitado\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6864edc3b035a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3042094/psp-desmantela-grupo-violento-e-apreende-26-mil-euros-nas-caldas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PSP desmantela grupo \"violento\" e apreende 26 mil euros nas Caldas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3042094/psp-desmantela-grupo-violento-e-apreende-26-mil-euros-nas-caldas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787823725000,
-         "created": 1787823725000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8ff6cd2b8b2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjA0LCJjcm9wSGVpZ2h0Ijo5MDIsImNyb3BYIjowLCJjcm9wWSI6NzF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
