@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3043268/perseguicao-policial-em-lisboa-acaba-em-acidente-ha-um-ferido-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Perseguição policial em Lisboa acaba em acidente. Há um ferido grave",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3043268/perseguicao-policial-em-lisboa-acaba-em-acidente-ha-um-ferido-grave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1787995132000,
+         "created": 1787995132000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/ultimahora.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3042709/employer-of-record-empresas-recorrem-mais-a-esta-contratacao-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Employer of Record\". Empresas recorrem mais a esta contratação - porquê?",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6762ca2bdf73e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3042009/tufao-saudel-aproxima-se-do-leste-da-china-apos-passagem-do-narra-pelo-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Tufão Saudel aproxima-se do leste da China após passagem do Narra pelo sul",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3042009/tufao-saudel-aproxima-se-do-leste-da-china-apos-passagem-do-narra-pelo-sul#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787822934000,
-         "created": 1787822934000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8fab05e0374.webp",
                "type": "image/jpeg",
                "length": "0"
             }
