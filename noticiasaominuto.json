@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3043655/super-bruno-fernandes-de-volta-hattrick-vale-primeira-vitoria-ao-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Super Bruno Fernandes de volta. Hattrick vale primeira vitória ao United",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3043655/super-bruno-fernandes-de-volta-hattrick-vale-primeira-vitoria-ao-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788114437000,
+         "created": 1788114437000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a945f66e19a6.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3043659/nepal-numero-de-vitimas-mortais-ultrapassa-os-800#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Número de mortos no Nepal chega aos 804. Mais de 3 mil desaparecidos",
@@ -700,7 +721,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3043011/em-direto-4-jornada-arranca-em-vila-do-conde-com-um-rio-ave-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Domingo começa animado com golo cedo na Choupana",
+         "title": "EM DIRETO: Estrela vence na Choupana e Casa Pia-Moreirense em andamento",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/3043011/em-direto-4-jornada-arranca-em-vila-do-conde-com-um-rio-ave-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -712,7 +733,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6783c32a95142.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_65f71a1c74807.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67ef043811df9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3042586/cabo-verde-assina-protocolo-para-reforcar-combate-ao-trafico-de-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cabo Verde assina protocolo para reforçar combate ao tráfico de pessoas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3042586/cabo-verde-assina-protocolo-para-reforcar-combate-ao-trafico-de-pessoas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787869032000,
-         "created": 1787869032000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a90a82660fb5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxOTJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkyMCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
