@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3044152/irao-guterres-considera-muito-lamentavel-retomar-dos-ataques-e-pede-contencao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guterres lamenta retoma dos ataques entre EUA e Irão e pede contenção",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3044152/irao-guterres-considera-muito-lamentavel-retomar-dos-ataques-e-pede-contencao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788207389000,
+         "created": 1788207389000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8c66c240bfe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDU1LCJjcm9wSGVpZ2h0Ijo1OTMsImNyb3BYIjowLCJjcm9wWSI6NTZ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3044159/ventura-acusa-governo-de-viver-numa-realidade-paralela-apos-polemica-com-exames#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ventura acusa Governo de viver numa \"realidade paralela\" nos exames",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a930af3a1f34.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3043369/alverca-empata-com-o-santa-clara-e-continua-sem-triunfos-na-prova#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alverca empata com o Santa Clara e continua sem triunfos na prova",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3043369/alverca-empata-com-o-santa-clara-e-continua-sem-triunfos-na-prova#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788025582000,
-         "created": 1788025582000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a930cb8b7f05.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NTcsImNyb3BIZWlnaHQiOjI1NywiY3JvcFgiOjExLCJjcm9wWSI6MjV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
