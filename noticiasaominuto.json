@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3043610/benfica-estoril-porta-aberta-e-estreia-a-vista-na-luz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Benfica-Estoril: Porta aberta e estreia à vista na Luz",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3043610/benfica-estoril-porta-aberta-e-estreia-a-vista-na-luz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788157202000,
+         "created": 1788157202000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a78b8789cab7.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3043751/eua-confirmam-ataque-de-precisao-contra-iranianos-no-estreito-de-ormuz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EUA confirmam ataque \"de precisão\" contra iranianos no estreito de Ormuz",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a912a427d35b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NywiY3JvcEhlaWdodCI6MTcwMiwiY3JvcFgiOjIxMCwiY3JvcFkiOjJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3042684/morreu-o-rei-harald-v-da-noruega-tinha-89-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Morreu o rei Harald V da Noruega. Tinha 89 anos ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3042684/morreu-o-rei-harald-v-da-noruega-tinha-89-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787902883000,
-         "created": 1787902883000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a912dbbd8ee2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjcxLCJjcm9wSGVpZ2h0IjoxMjc3LCJjcm9wWCI6MTQ2LCJjcm9wWSI6MzJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYzMywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
