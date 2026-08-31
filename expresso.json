@@ -9,11 +9,11 @@
          "id": "5460b09a-4b73-4f83-824c-49d817f7d331",
          "title": "Expresso mantém-se como o jornal mais vendido em Portugal",
          "description": "<p><span>Circulação digital subiu quase 6% </span><span>face ao período homólogo, para </span><span>mais de 52 mil exemplares vendidos por edição</span></p>",
-         "link": "https://expresso.pt/boa-cama-boa-mesa/iniciativas-produtos/2026-08-31-expresso-mantem-se-como-o-jornal-mais-vendido-em-portugal-555a26bb",
+         "link": "https://expresso.pt/iniciativaseprodutos/2026-08-31-expresso-mantem-se-como-o-jornal-mais-vendido-em-portugal-555a26bb",
          "author": "Expresso",
          "published": 1788193186000,
          "created": 1788193186000,
-         "category": "Iniciativas e produtos",
+         "category": "Iniciativas e Produtos",
          "enclosures": [
             {
                "url": "https://images.impresa.pt/expresso/2026-08-31-redacao-jornal-expresso.jpg-653d1a05/1.91x1/mw-1200?outputFormat=jpeg",
@@ -29,6 +29,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-08-31-redacao-jornal-expresso.jpg-653d1a05/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "7bb78f5f-008e-45d6-8e72-bd32e9d05817",
+         "title": "Putin quer aprofundar cooperação com a China e tornar permanente regime de isenção de vistos",
+         "description": "<p><span>O turismo entre os dois países aumentou</span><span> 43% no primeiro semestre devido à dispensa de vistos</span></p><p><br></p>",
+         "link": "https://expresso.pt/russia/2026-08-31-putin-quer-aprofundar-cooperacao-com-a-china-e-tornar-permanente-regime-de-isencao-de-vistos-b70b7f05",
+         "author": "Agência Lusa",
+         "published": 1788192431000,
+         "created": 1788192431000,
+         "category": "Rússia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2021-05-05-putin-xi-jinping.jpg-9cfb1d34/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2021-05-05-putin-xi-jinping.jpg-9cfb1d34/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2021-05-05-putin-xi-jinping.jpg-9cfb1d34/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -258,35 +287,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "cb132dbe-196f-4699-b5f2-4bdcc557a8ef",
-         "title": "Chefs e produtores celebram os sabores do Algarve nesta festa gastronómica em Portimão",
-         "description": "<p>Com entrada livre e ambiente descontraído, o Arrebita Portimão celebra ingredientes e cozinha algarvia nos dias 5 e 6 de setembro. 24 <i>chefs</i>, 10 produtores, música e animação são os principais ingredientes do evento</p>",
-         "link": "https://expresso.pt/boa-cama-boa-mesa/restaurantes-gastronomia/aberturas-novidades/2026-08-31-chefs-e-produtores-celebram-os-sabores-do-algarve-nesta-festa-gastronomica-em-portimao-8b3d089e",
-         "author": "BCBM",
-         "published": 1788185984000,
-         "created": 1788185984000,
-         "category": "Aberturas e Novidades",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-25-arrebita-portimao.jpg-92f0b2a9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-25-arrebita-portimao.jpg-92f0b2a9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-08-25-arrebita-portimao.jpg-92f0b2a9/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
