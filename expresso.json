@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "a9fcc2f2-ea5f-4e94-9bda-7bc920c6998d",
+         "title": "Todos os concertos marcados para 2026 em Portugal",
+         "description": "<p>Tudo o que precisa de saber sobre os concertos e festivais marcados para os próximos meses: uma agenda sempre em atualização</p>",
+         "link": "https://expresso.pt/blitz/agenda/2026-08-31-todos-os-concertos-marcados-para-2026-em-portugal-53436cea",
+         "author": "BLITZ",
+         "published": 1788165480000,
+         "created": 1788165480000,
+         "category": "Agenda",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-06-21-_rc05204ritacarmo.jpg-f786033f/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "9e3081ea-653f-47c2-b216-02b196819b94",
          "title": "Cheia repentina no Grand Canyon deixa mais de 20 pessoas desaparecidas",
          "description": "<p><span>Dezenas de visitantes foram retirados da zona e várias áreas permanecem encerradas devido aos estragos causados pela cheia</span></p>",
@@ -254,38 +283,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "ecb4c474-ed9b-4ce8-b377-39af7899153e",
-         "title": "O seu dinheiro é à prova de crises? Aprenda a proteger e multiplicar o seu salário",
-         "description": "<p>Para Pedro Andersson, ter o dinheiro “à prova de crises” não significa ter dinheiro suficiente para garantir que nada de mau acontece. Isso é impossível. Significa ter opções quando alguma coisa corre mal. Se a próxima crise começasse amanhã, estaria preparado?</p>",
-         "link": "https://expresso.pt/podcasts/contas-poupanca/2026-08-31-o-seu-dinheiro-e-a-prova-de-crises--aprenda-a-proteger-e-multiplicar-o-seu-salario-ada73ba1",
-         "author": [
-            "Pedro Andersson",
-            "Filipe Cruz"
-         ],
-         "published": 1788156600000,
-         "created": 1788156600000,
-         "category": "Contas Poupança",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-07-26-contas-poupanca-3x2-02855e65/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2026-07-26-contas-poupanca-3x2-02855e65/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2026-07-26-contas-poupanca-3x2-02855e65/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
