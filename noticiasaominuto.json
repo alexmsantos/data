@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3043853/novo-apple-watch-a-caminho-ja-sabemos-as-duas-grandes-novidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Novo Apple Watch a caminho. Já sabemos as duas grandes novidades",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3043853/novo-apple-watch-a-caminho-ja-sabemos-as-duas-grandes-novidades#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788173090000,
+         "created": 1788173090000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68a2e774b9944.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTYxLCJjcm9wSGVpZ2h0IjoxMjE2LCJjcm9wWCI6MzQwLCJjcm9wWSI6MjQ0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDUsImNyb3BIZWlnaHQiOjE2ODAsImNyb3BYIjoxMTQyLCJjcm9wWSI6MTV9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3043849/duas-medalhas-de-ouro-levam-fernando-pimenta-a-novos-recordes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Duas medalhas de ouro levam Fernando Pimenta a novos recordes",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8fdd6254866.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3042774/e-mesmo-necessario-reiniciar-o-telemovel-apos-atualizacao-saiba-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "É mesmo necessário reiniciar o telemóvel após atualização? Saiba porquê",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3042774/e-mesmo-necessario-reiniciar-o-telemovel-apos-atualizacao-saiba-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1787914923000,
-         "created": 1787914923000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_63bd749d84901.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQwLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6NSwiY3JvcFkiOjIwN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ1LCJjcm9wSGVpZ2h0IjoxNjgxLCJjcm9wWCI6NjE1LCJjcm9wWSI6MTB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
