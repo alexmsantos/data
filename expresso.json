@@ -273,16 +273,33 @@
          }
       },
       {
-         "id": "3fecd81b-933c-461e-9d0e-3c2df57f4c2b",
-         "title": "O estranho caso do polícia ilícito",
-         "description": "<p><span>Num estado de Direito como a Alemanha, Luís Neves estaria preso. Outros polícias colocavam-lhe as algemas</span></p>",
-         "link": "https://expresso.pt/opiniao/2026-09-01-o-estranho-caso-do-policia-ilicito-b36a1b71",
-         "author": "Clara Ferreira Alves",
-         "published": 1788240600000,
-         "created": 1788240600000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "id": "4eb4d3de-6f0a-4205-be15-16f3f8f84184",
+         "title": "Temperaturas chegam aos 42 graus e onze distritos ficam sob aviso amarelo",
+         "description": "<p><span>Onze distrito vão estar estar na quinta-feira sob aviso amarelo devido às temperaturas máximas elevadas, segundo o IPMA</span></p>",
+         "link": "https://expresso.pt/meteorologia/2026-09-01-temperaturas-chegam-aos-42-graus-e-onze-distritos-ficam-sob-aviso-amarelo-b529ff38",
+         "author": "Expresso",
+         "published": 1788241924000,
+         "created": 1788241924000,
+         "category": "Tempo e Meteorologia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-02-calor-extremo-pessoas-refrescam-se-junto-ao-cais-das-colunas-em-lisboa-9280e67b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-02-calor-extremo-pessoas-refrescam-se-junto-ao-cais-das-colunas-em-lisboa-9280e67b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-02-calor-extremo-pessoas-refrescam-se-junto-ao-cais-das-colunas-em-lisboa-9280e67b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       }
    ]
 }
