@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "3ed20d0a-9029-4ed3-80b8-4e67f6c0c9c0",
+         "title": "Os Campeões",
+         "description": "<p><span>Ninguém escreveu ainda que o árbitro ganhou o dérbi por ter dado ao Benfica uma grande penalidade, nem que perdeu o campeonato na noite em que o videoárbitro lhe corrigiu o lance</span></p>",
+         "link": "https://expresso.pt/opiniao/2026-09-01-os-campeoes-012af696",
+         "author": "Maria Castello Branco",
+         "published": 1788242460000,
+         "created": 1788242460000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-maria-castelo-branco.png-41fe04a8-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-maria-castelo-branco.png-41fe04a8-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-maria-castelo-branco.png-41fe04a8-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "f46ab555-8e68-47b9-a50b-6941080e84eb",
          "title": "Simplificar o complexo",
          "description": "<p><span>Uma sociedade com cada vez menos pensamento, cada vez menos vocábulos, cada vez menos tolerância, cada vez mais arrogância e presunção tem tendência a pretender que tudo tenha uma explicação simples. A avalanche no Nepal sublinha bem esta deriva</span></p>",
@@ -234,35 +263,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "a809eb5a-f33d-41b5-ab4d-4e0ef8003286",
-         "title": "Morreu Édouard Balladur, ex-primeiro-ministro de França, aos 97 anos",
-         "description": "<p><span>Édouard Balladur, primeiro-ministro de França entre 1993 e 1995, morreu esta segunda-feira em Paris, aos 97 anos. Figura central da direita francesa, ficou marcado pela rivalidade com Jacques Chirac na eleição presidencial de 1995, que pôs fim às suas ambições de chegar ao Eliseu</span></p>",
-         "link": "https://expresso.pt/franca/2026-08-31-morreu-edouard-balladur-ex-primeiro-ministro-de-franca-aos-97-anos-cc1a9d60",
-         "author": "Agência Lusa",
-         "published": 1788206853000,
-         "created": 1788206853000,
-         "category": "França",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-31-gettyimages-542409260.jpg-e90abdbc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-31-gettyimages-542409260.jpg-e90abdbc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-08-31-gettyimages-542409260.jpg-e90abdbc/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
