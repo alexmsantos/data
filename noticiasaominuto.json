@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3045230/apoio-europeu-de-30-me-para-energia-e-fertilizantes-ja-foi-pago-ministro-agricultura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Apoio de 30 milhões para energia e fertilizantes \"foi integralmente pago\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3045230/apoio-europeu-de-30-me-para-energia-e-fertilizantes-ja-foi-pago-ministro-agricultura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788362927000,
+         "created": 1788362927000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6674ad3c89323.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3045225/seguranca-social-alerta-para-tentativas-de-fraude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Esteja atento! Segurança Social alerta para tentativas de fraude",
@@ -15,7 +36,7 @@
          },
          "published": 1788362796000,
          "created": 1788362796000,
-         "category": "País",
+         "category": "Economia",
          "content": "",
          "enclosures": [
             {
@@ -166,7 +187,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5df82322670e5.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a983239ddb9a.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a958d9722934.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3044059/argentinos-dao-conta-de-negociacoes-avancadas-do-benfica-por-echeverri#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Argentinos dão conta de negociações avançadas do Benfica por Echeverri",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3044059/argentinos-dao-conta-de-negociacoes-avancadas-do-benfica-por-echeverri#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788191848000,
-         "created": 1788191848000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9591fd55143.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NSwiY3JvcEhlaWdodCI6MTY5OCwiY3JvcFgiOjgzNywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
