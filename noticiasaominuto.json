@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3045382/camara-de-matosinhos-manda-encerrar-parque-de-autocaravanas-ilegal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Câmara de Matosinhos manda encerrar parque de autocaravanas ilegal",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3045382/camara-de-matosinhos-manda-encerrar-parque-de-autocaravanas-ilegal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788375670000,
+         "created": 1788375670000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68a73a037fbf9.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3045381/rsf-chatbots-de-ia-permitem-acesso-a-conteudos-de-desinformacao-russos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "RSF: Chatbots de IA permitem acesso a conteúdos de desinformação russos",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5213a942910af.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3044484/cmvm-alerta-para-aumento-de-fraudes-em-supostos-investimentos-no-mercado-de-capitais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "CMVM alerta para aumento de fraudes em supostos investimentos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3044484/cmvm-alerta-para-aumento-de-fraudes-em-supostos-investimentos-no-mercado-de-capitais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788263148000,
-         "created": 1788263148000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_696e565e4f4fa.webp",
                "type": "image/jpeg",
                "length": "0"
             }
