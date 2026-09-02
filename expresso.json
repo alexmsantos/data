@@ -14,8 +14,25 @@
          "published": 1788390684000,
          "created": 1788390684000,
          "category": "Partidos Políticos",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-03-video.jpg-3c5ea9e9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-03-video.jpg-3c5ea9e9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-09-03-video.jpg-3c5ea9e9/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "494fbe38-91cc-4178-b947-ad702c2dc598",
