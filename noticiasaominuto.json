@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3044959/acidenteelevador-um-ano-apos-a-tragedia-pouco-se-sabe-e-faltam-indemnizacoes-para-36-vitimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Glória: Um ano após tragédia pouco se sabe e faltam indemnizações",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3044959/acidenteelevador-um-ano-apos-a-tragedia-pouco-se-sabe-e-faltam-indemnizacoes-para-36-vitimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788335765000,
+         "created": 1788335765000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_64921c13843f0.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3044972/dezasseis-mortos-em-acidente-de-autocarro-no-egito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Dezasseis mortos em acidente de autocarro no Egito",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_639300b75afe1.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3043776/revista-de-imprensa-atualizada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Hoje é notícia: Hospitais não conseguem enfermeiros; Estado deve milhões",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3043776/revista-de-imprensa-atualizada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788160889000,
-         "created": 1788160889000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a951be375bb2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NjgsImNyb3BIZWlnaHQiOjU0NSwiY3JvcFgiOjAsImNyb3BZIjo5NX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTM1LCJjcm9wSGVpZ2h0Ijo5NTAsImNyb3BYIjowLCJjcm9wWSI6MTZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
