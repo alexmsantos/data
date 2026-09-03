@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3046102/casa-pia-empresta-ponta-de-lanca-clau-mendes-ao-penafiel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Casa Pia empresta ponta de lança Clau Mendes ao Penafiel",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3046102/casa-pia-empresta-ponta-de-lanca-clau-mendes-ao-penafiel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788475620000,
+         "created": 1788475620000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_66852f45f2961.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1OTksImNyb3BIZWlnaHQiOjMzNywiY3JvcFgiOjksImNyb3BZIjoxNTJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/3046100/video-leclerc-tenta-ser-dj-ao-lado-de-peggy-gou-e-hamilton-mas-falha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vídeo: Leclerc tenta ser DJ ao lado de Peggy Gou e Hamilton... mas falha",
@@ -40,7 +61,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67ab42002671f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNTN9fQ==",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67ab42002671f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyNTN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY5MSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_53e370653e735.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3044922/medio-oriente-eua-anunciam-conclusao-de-ataques-ao-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Estados Unidos anunciam conclusão de ataques ao Irão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3044922/medio-oriente-eua-anunciam-conclusao-de-ataques-ao-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788308765000,
-         "created": 1788308765000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_66d6b2ba37fbe.webp",
                "type": "image/jpeg",
                "length": "0"
             }
