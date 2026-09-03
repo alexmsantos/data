@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3045936/quase-200-operacionais-e-cinco-meios-aereos-combatem-fogo-em-porto-de-mos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Quase 200 operacionais e cinco meios aéreos combatem fogo em Porto de Mós",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3045936/quase-200-operacionais-e-cinco-meios-aereos-combatem-fogo-em-porto-de-mos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788455946000,
+         "created": 1788455946000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a999ab22addd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTEyLCJjcm9wSGVpZ2h0IjoxNDEzLCJjcm9wWCI6NDUsImNyb3BZIjoxMTN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3045941/xiaomi-fecha-primeiros-acordos-para-vender-veiculos-eletricos-na-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Xiaomi fecha primeiros acordos para vender veículos elétricos na Europa",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a999ba29f543.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a999ba29f543.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIzLCJjcm9wSGVpZ2h0IjoxNDE5LCJjcm9wWCI6MTYsImNyb3BZIjoyNjR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9702b5eb3f0.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3044750/mocambique-quer-aumentar-producao-de-algodao-para-60-mil-toneladas-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Moçambique quer aumentar produção de algodão para 60 mil toneladas/ano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3044750/mocambique-quer-aumentar-producao-de-algodao-para-60-mil-toneladas-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788286681000,
-         "created": 1788286681000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9702031e07f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
