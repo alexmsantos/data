@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3045710/doclisboa-convoca-as-vidas-de-salman-rushdie-elza-soares-ou-kate-bush#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "DocLisboa convoca as vidas de Salman Rushdie, Elza Soares ou Kate Bush",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3045710/doclisboa-convoca-as-vidas-de-salman-rushdie-elza-soares-ou-kate-bush#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788438926000,
+         "created": 1788438926000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a4203f9b4a4b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3045666/em-direto-acompanhe-a-antevisao-de-farioli-ao-fc-porto-moreirense#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Acompanhe a antevisão de Farioli ao FC Porto-Moreirense",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_617baff58eb27.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjg2LCJjcm9wSGVpZ2h0IjoxMjg2LCJjcm9wWCI6NjYsImNyb3BZIjoxMTB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjQ0NiwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3044548/agencia-meteorologica-indiana-diz-que-o-pais-registou-um-recorde-de-calor-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Índia teve o agosto mais quente desde que há registos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3044548/agencia-meteorologica-indiana-diz-que-o-pais-registou-um-recorde-de-calor-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788268807000,
-         "created": 1788268807000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_664b4bb40519b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NDIsImNyb3BZIjoxNTh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
