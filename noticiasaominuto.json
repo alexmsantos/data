@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3045600/opel-corsa-mais-potente-de-sempre-estreia-se-em-portugal-e-ja-ha-preco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Opel Corsa mais potente de sempre estreia-se em Portugal e já há preço",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3045600/opel-corsa-mais-potente-de-sempre-estreia-se-em-portugal-e-ja-ha-preco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788432067000,
+         "created": 1788432067000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a993ad2826eb.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NSwiY3JvcEhlaWdodCI6MTY5OSwiY3JvcFgiOjk5OSwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3045637/mulher-desaparecida-de-casa-de-acolhimento-em-paredes-de-coura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mulher desaparecida de casa de acolhimento em Paredes de Coura",
@@ -910,7 +931,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3045563/giorgia-meloni-estabelece-recorde-a-frente-do-governo-mais-duradouro-de-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Meloni estabelece recorde à frente do Governo mais duradouro de Itália",
+         "title": "Governo mais duradouro de Itália: Meloni estabelece recorde (1.413 dias)",
          "description": "",
          "link": "https://www.noticiasaominuto.com/mundo/3045563/giorgia-meloni-estabelece-recorde-a-frente-do-governo-mais-duradouro-de-italia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a96a39726d41.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3044466/sem-tempo-a-perder-souza-e-gimenez-ja-conheceram-colegas-no-olival#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sem tempo a perder. Souza e Giménez já conheceram colegas no Olival",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3044466/sem-tempo-a-perder-souza-e-gimenez-ja-conheceram-colegas-no-olival#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788261261000,
-         "created": 1788261261000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a96a46a0b89c.webp",
                "type": "image/jpeg",
                "length": "0"
             }
