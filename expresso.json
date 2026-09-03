@@ -6,6 +6,50 @@
    "category": [],
    "items": [
       {
+         "id": "d8ee1dd1-d51f-4a6f-bbde-24c8a94b1b74",
+         "title": "José Milhazes: “Nós estamos em guerra. Putin só entende a linguagem da força, mas encurralado pode ameaçar com o nuclear”",
+         "description": "<p>O governo alemão acusou a Rússia de ser responsável por um ataque no aeroporto de Leipzig. No Expresso da Manhã, Paulo Baldaia conversa com o comentador da SIC José Milhazes</p>",
+         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-09-03-jose-milhazes-nos-estamos-em-guerra.-putin-so-entende-a-linguagem-da-forca-mas-encurralado-pode-ameacar-com-o-nuclear-d41cdebd",
+         "author": [
+            "Paulo Baldaia",
+            "Gustavo Carvalho"
+         ],
+         "published": 1788413400000,
+         "created": 1788413400000,
+         "category": "Expresso da Manhã",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "a902daeb-aae4-4929-9e19-0f455bf8e3bf",
+         "title": "Estou bem arranjado com isto",
+         "description": "<p>De acordo com a minha experiência, a parte mais interessante das melhores festas é o momento em que as pessoas tiram a roupa com que foram à festa</p>",
+         "link": "https://expresso.pt/opiniao/2026-09-03-estou-bem-arranjado-com-isto-2b6abbc1",
+         "author": "Ricardo Araújo Pereira",
+         "published": 1788413400000,
+         "created": 1788413400000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
          "id": "0ac6d6f1-c76d-4450-85f3-0be9a0a88cc3",
          "title": "Hugo Soares defende Luís Neves, ataca Ventura e remata a Seguro: não acredita que Presidente \"mande recados por amigos\"",
          "description": "<p><span>A moção do Chega é \"ridícula\", afirmou o número dois do PSD, que questiona porque é que o líder do Chega não fala mais sobre o assalto ao seu gabinete. O líder parlamentar do PSD duvida da existência de um alegado ultimato presidencial e respondeu a mais uma das condições do PS para o Orçamento</span></p>",
@@ -235,68 +279,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-09-04-fox_ascensor_gloria_0023.jpg-229b24a6/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f2971d99-e1bb-457a-8258-23ff967b02e5",
-         "title": "Primus Inter Pares abre candidaturas com nova bolsa de 15 mil euros para o vencedor",
-         "description": "<p><span>O Prémio Primus Inter Pares está de regresso para a 22.ª edição e distingue, pela primeira vez, um grande vencedor com uma bolsa de 15.000 euros para a realização de um mestrado em Portugal. As candidaturas estão abertas até 31 de outubro.</span></p>",
-         "link": "https://expresso.pt/iniciativaseprodutos/2026-09-02-primus-inter-pares-abre-candidaturas-com-nova-bolsa-de-15-mil-euros-para-o-vencedor-aa2c8d09",
-         "author": "Expresso",
-         "published": 1788376056000,
-         "created": 1788376056000,
-         "category": "Iniciativas e Produtos",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-02-expresso---primus-inter-pares-2026-2027-e0cbd622/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-02-expresso---primus-inter-pares-2026-2027-e0cbd622/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-09-02-expresso---primus-inter-pares-2026-2027-e0cbd622/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "2870f57d-a4a9-457d-87a5-cb700b4afbac",
-         "title": "Entrevista de vida a Paulo Branco: “Posso ser arrogante, mas o que mais detesto é o pretensiosismo”",
-         "description": "<p>Aos 76 anos, o produtor de cinema Paulo Branco é homenageado com uma retrospetiva integral na Cinemateca Portuguesa. A partir de 11 de setembro, e ao longo de cerca de 30 meses, vão ser exibidos mais de 270 filmes por si produzidos. Em entrevista, o maior <i>maverick </i>do cinema português partilha histórias de aventura que se confundem com a vida e recordações de filmes ‘impossíveis’ de produzir, como “Non, ou Vã Glória de Mandar”, de Manoel de Oliveira, e “Cosmopolis”, de David Cronenberg</p>",
-         "link": "https://expresso.pt/semanario/revista-e/-e/2026-09-02-entrevista-de-vida-a-paulo-branco-posso-ser-arrogante-mas-o-que-mais-detesto-e-o-pretensiosismo-d48bb82a",
-         "author": [
-            "Miguel Cadete",
-            "Rui Pedro Tendinha",
-            "Tiago Miranda"
-         ],
-         "published": 1788375600000,
-         "created": 1788375600000,
-         "category": "+E",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-31-tm4937-copy_tt-_idp.jpg-ae56e25f-2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-08-31-tm4937-copy_tt-_idp.jpg-ae56e25f-2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-08-31-tm4937-copy_tt-_idp.jpg-ae56e25f-2/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
