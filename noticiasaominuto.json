@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3046531/hamas-pede-oposicao-a-intencao-israelita-de-retirar-populacao-de-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Hamas pede oposição a intenção israelita de retirar população de Gaza",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3046531/hamas-pede-oposicao-a-intencao-israelita-de-retirar-populacao-de-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788544651000,
+         "created": 1788544651000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9af7ae0d11f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA2LCJjcm9wSGVpZ2h0IjoxNDEwLCJjcm9wWCI6MTksImNyb3BZIjozMDB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3046528/policia-maritima-faz-buscas-por-jovem-ingles-desaparecido-em-alcantara#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Polícia Marítima faz buscas por jovem inglês desaparecido em Alcântara",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a95105c6aea3.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3045562/pontos-essenciais-meloni-bate-recorde-de-longevidade-em-italia-mas-reeleicao-esta-tremida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Meloni bate recorde de longevidade em Itália, mas reeleição está tremida",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3045562/pontos-essenciais-meloni-bate-recorde-de-longevidade-em-italia-mas-reeleicao-esta-tremida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788427971000,
-         "created": 1788427971000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69d4defdeb3a9.webp",
                "type": "image/jpeg",
                "length": "0"
             }
