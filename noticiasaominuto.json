@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3046207/taiwan-denuncia-perseguicao-politica-da-china-contra-joshua-wong#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Taiwan denuncia \"perseguição política\" da China contra Joshua Wong",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3046207/taiwan-denuncia-perseguicao-politica-da-china-contra-joshua-wong#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788515500000,
+         "created": 1788515500000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9a827dda0bf.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3046201/da-gama-de-modelos-aos-despedimentos-o-plano-de-choque-da-volkswagen#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Da gama de modelos aos despedimentos. O plano \"de choque\" da Volkswagen",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5c54a76924bb9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3045022/colera-em-mocambique-com-mais-de-9700-infetados-e-91-mortos-num-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Cólera em Moçambique com mais de 9.700 infetados e 91 mortos num ano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3045022/colera-em-mocambique-com-mais-de-9700-infetados-e-91-mortos-num-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788342660000,
-         "created": 1788342660000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a97dd62131cb.webp",
                "type": "image/jpeg",
                "length": "0"
             }
