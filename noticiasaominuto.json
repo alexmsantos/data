@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/3046724/boris-ou-sara-saiba-quem-venceu-o-big-brother-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Boris ou Sara? Saiba quem venceu o \"Big Brother Verão\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/3046724/boris-ou-sara-saiba-quem-venceu-o-big-brother-verao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788569835000,
+         "created": 1788569835000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a42118ad9f01.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3046456/em-direto-mercado-de-transferencias-fecha-daqui-a-oito-horas-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Mercado de transferências fecha oficialmente em Portugal",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68774e3211379.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3045840/producao-mundial-de-calcado-estagna-em-2025-com-portugal-como-18-produtor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Produção mundial de calçado estagna. Portugal é o 18.º produtor",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3045840/producao-mundial-de-calcado-estagna-em-2025-com-portugal-como-18-produtor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788448704000,
-         "created": 1788448704000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5866895ea485f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
