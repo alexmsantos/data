@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3047092/incendios-fogo-que-deflagrou-no-sabado-na-serra-dossa-em-fase-de-resolucao-protecao-civil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fogo que deflagrou no sábado na Serra d´Ossa em fase de resolução ",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3047092/incendios-fogo-que-deflagrou-no-sabado-na-serra-dossa-em-fase-de-resolucao-protecao-civil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788687511000,
+         "created": 1788687511000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9d272aa9a0e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3045180/de-pijama-e-blazer-look-de-amal-clooney-em-veneza-criticado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"De pijama e blazer\". Look de Amal Clooney em Veneza criticado",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a99aea609d8d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDQ0LCJjcm9wSGVpZ2h0IjoxODU2LCJjcm9wWCI6MTEzMSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3045994/sydney-sweeney-e-scooter-braun-muito-apaixonados-por-veneza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sydney Sweeney e Scooter Braun muito apaixonados por Veneza",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3045994/sydney-sweeney-e-scooter-braun-muito-apaixonados-por-veneza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788459740000,
-         "created": 1788459740000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a99a784afd3f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDM2LCJjcm9wSGVpZ2h0IjoxMzcwLCJjcm9wWCI6OTEsImNyb3BZIjozOTd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE3MjgsImNyb3BIZWlnaHQiOjMwNzIsImNyb3BYIjozNTQsImNyb3BZIjoxNjh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
