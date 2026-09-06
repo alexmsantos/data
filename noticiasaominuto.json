@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3047214/francisco-calhau-campeao-nacional-sofre-acidente-e-acaba-hospitalizado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Francisco Calhau, campeão nacional, sofre acidente e acaba hospitalizado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3047214/francisco-calhau-campeao-nacional-sofre-acidente-e-acaba-hospitalizado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788714351000,
+         "created": 1788714351000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9d8e11f3ed1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6MTMxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo1MzMsImNyb3BIZWlnaHQiOjk0OCwiY3JvcFgiOjQ3MSwiY3JvcFkiOjEyfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3046124/ha-mais-de-25-novos-vinhos-para-renovar-a-garrafeira-custam-desde-2-69#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": " Há mais de 25 novos vinhos para renovar a garrafeira. Custam desde 2,69€",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a99fa4177713.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQwLCJjcm9wSGVpZ2h0Ijo4MTAsImNyb3BYIjowLCJjcm9wWSI6MjE5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4MTAsImNyb3BIZWlnaHQiOjE0NDAsImNyb3BYIjo0OTIsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3046125/conselho-de-supervisao-da-volkswagen-aprova-plano-que-preve-despedir-50-mil-trabalhadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Volkswagen: Aprovado plano que prevê despedir 50 mil trabalhadores",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3046125/conselho-de-supervisao-da-volkswagen-aprova-plano-que-preve-despedir-50-mil-trabalhadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788479850000,
-         "created": 1788479850000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8da83302160.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo2MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NzEwLCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
