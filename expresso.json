@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "87b4c5e8-d282-4675-af5c-35dbe679da7b",
+         "title": "Calor: sete distritos do Centro e Sul com aviso amarelo, 19 concelhos em perigo máximo de incêndio",
+         "description": "<p><span>Beja, Castelo Branco, Évora, Faro, Lisboa, Setúbal e Portalegre estão sob aviso amarelo devido às temperaturas elevadas</span></p>",
+         "link": "https://expresso.pt/meteorologia/2026-09-07-calor-sete-distritos-do-centro-e-sul-com-aviso-amarelo-19-concelhos-em-perigo-maximo-de-incendio-aa62b803",
+         "author": [
+            "Expresso",
+            "Agência Lusa"
+         ],
+         "published": 1788768369000,
+         "created": 1788768369000,
+         "category": "Tempo e Meteorologia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-07-bombeiro-incendio-guarda-64c6a395/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-07-bombeiro-incendio-guarda-64c6a395/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-09-07-bombeiro-incendio-guarda-64c6a395/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "9b227c90-49a2-4a1b-abf1-2a91b585a848",
          "title": "Defesa: a nova fronteira de competitividade para a indústria portuguesa",
          "description": "<p><span>Portugal dificilmente competirá em escala com as maiores potências industriais </span><span>europeias, m</span><span>as pode competir em especialização</span><span> técnica</span><span>, inovação e capacidade de resposta</span></p>",
@@ -258,35 +290,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "ef8d8a75-0db2-4787-8add-d3f307f81862",
-         "title": "Guerra já gerou sobrecusto de €1,3 mil milhões nos combustíveis em Portugal",
-         "description": "<p><span>Nos seis meses após o início da guerra no Irão a fatura nacional do gasóleo, o combustível dominante nas estradas portuguesas, encareceu 22% face ao ano passado, enquanto o custo da gasolina subiu 17%. E esta semana há novo disparo dos preços</span></p>",
-         "link": "https://expresso.pt/economia/economia_energia/2026-09-07-guerra-ja-gerou-sobrecusto-de-13-mil-milhoes-nos-combustiveis-em-portugal-86bc5b62",
-         "author": "Miguel Prado",
-         "published": 1788760800000,
-         "created": 1788760800000,
-         "category": "Energia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-03-gasolina-a8aee00e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-04-03-gasolina-a8aee00e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-04-03-gasolina-a8aee00e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
