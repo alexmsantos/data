@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3048274/medio-oriente-israel-encerra-consulado-britanico-em-resposta-a-sancoes-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Israel fecha consulado britânico em Jerusalém em retaliação a sanções",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3048274/medio-oriente-israel-encerra-consulado-britanico-em-resposta-a-sancoes-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788892269000,
+         "created": 1788892269000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67a3b59213c7a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6MCwiY3JvcFkiOjExM319",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3048332/ja-temos-melhor-golo-da-champions-a-obra-de-arte-de-marin-no-aek-lask#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Já temos melhor golo da Champions? A obra de arte de Marin no AEK-LASK",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3048332/ja-temos-melhor-golo-da-champions-a-obra-de-arte-de-marin-no-aek-lask#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788892195000,
+         "created": 1788892195000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa04460c2862.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjkzLCJjcm9wSGVpZ2h0Ijo5NTIsImNyb3BYIjoxMDUsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0MjgsImNyb3BIZWlnaHQiOjc2MiwiY3JvcFgiOjY2OSwiY3JvcFkiOjEyOX19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3048308/arcensura-brilhante-dias-considera-que-mocao-do-chega-e-de-confianca-no-ps#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Brilhante Dias: Censura do Chega tornou-se \"moção de confiança no PS\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3048308/arcensura-brilhante-dias-considera-que-mocao-do-chega-e-de-confianca-no-ps#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788892158000,
+         "created": 1788892158000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_698caebf942df.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3048234/este-vw-polo-bateu-no-prototipo-de-um-bugatti-milionario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Este VW Polo bateu no protótipo de um Bugatti milionário",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3048234/este-vw-polo-bateu-no-prototipo-de-um-bugatti-milionario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788892141000,
+         "created": 1788892141000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa025deb3150.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3048328/gnr-descartou-hipotese-de-atropelamento-em-morte-de-imigrante-mas-pj-recusou-investigar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "GNR descartou hipótese de atropelamento em morte de imigrante",
@@ -10205,90 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9e6a4653bb0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzA3LCJjcm9wSGVpZ2h0Ijo3MzUsImNyb3BYIjozMywiY3JvcFkiOjM2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjAsImNyb3BIZWlnaHQiOjEzNTAsImNyb3BYIjoyNzYsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3047432/veteranos-da-libertacao-de-mocambique-terao-10-dos-projetos-agricolas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Veteranos da libertação de Moçambique terão 10% dos projetos agrícolas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3047432/veteranos-da-libertacao-de-mocambique-terao-10-dos-projetos-agricolas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788774639000,
-         "created": 1788774639000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9e791a99e8f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3047427/governo-britanico-condena-protestos-contra-migrantes-no-sul-de-inglaterra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo britânico condena protestos contra migrantes no sul de Inglaterra",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3047427/governo-britanico-condena-protestos-contra-migrantes-no-sul-de-inglaterra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788774591000,
-         "created": 1788774591000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_581b59f175ecd.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3047425/a-voz-critica-em-paginas-censuradas-em-lourenco-marques-ha-70-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "A voz crítica em páginas censuradas em Lourenço Marques há 70 anos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3047425/a-voz-critica-em-paginas-censuradas-em-lourenco-marques-ha-70-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788774508000,
-         "created": 1788774508000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9e751f1795b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3047436/ha-2-grandes-razoes-para-nao-poupar-num-carregador-de-telemovel-barato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Há 2 grandes razões para não poupar num carregador de telemóvel",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3047436/ha-2-grandes-razoes-para-nao-poupar-num-carregador-de-telemovel-barato#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788774449000,
-         "created": 1788774449000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9e79d897114.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI3LCJjcm9wSGVpZ2h0IjoxNDIyLCJjcm9wWCI6MTgsImNyb3BZIjoxMjJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk4OCwiY3JvcEhlaWdodCI6MTc1NiwiY3JvcFgiOjExMjAsImNyb3BZIjo5fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
