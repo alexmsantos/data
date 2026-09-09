@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "4f15ce36-72b0-4d1e-8eff-561d3e40503b",
+         "title": "Realizador de documentário sobre Elon Musk diz que encontrou um “medo tremendo” de falar sobre o empresário",
+         "description": "<p><span>Documentário retrata a ascensão de Musk, o seu poder e a influência política que conquistou nos últimos anos, com a ajuda de Trump. Já se estreou em Veneza</span></p>",
+         "link": "https://expresso.pt/cultura/cartaz_cinema/2026-09-09-realizador-de-documentario-sobre-elon-musk-diz-que-encontrou-um-medo-tremendo-de-falar-sobre-o-empresario-475b92e9",
+         "author": "Expresso",
+         "published": 1788966730000,
+         "created": 1788966730000,
+         "category": "Cinema",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-musk_gibney-458b7b21/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-musk_gibney-458b7b21/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-musk_gibney-458b7b21/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "0a0aaa79-751a-4d23-838f-aeecea64ef85",
          "title": "“Vi uma pessoa em cacos, parecia um esqueleto. Foi assustador: eu não sabia que estava assim, com os ossos todos à mostra”",
          "description": "<p>A filha de Ozzy Osbourne, de 41 anos, falou pela primeira vez sobre as razões da sua recente e extrema perda de peso</p>",
@@ -251,38 +280,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "6a6f7e95-2528-4f86-87cd-22c613c681e0",
-         "title": "Australianos 'fogem' ao algoritmo: Governo quer obrigar redes sociais a permitir que utilizadores desativem conteúdos sugeridos",
-         "description": "<p><span>Há dois anos, a Austrália limitou o acesso a redes sociais a menores de 18 anos e agora quer responsabilizar as plataformas por conteúdos perigosos e violentos</span></p>",
-         "link": "https://expresso.pt/redes-sociais/2026-09-09-australianos-fogem-ao-algoritmo-governo-quer-obrigar-redes-sociais-a-permitir-que-utilizadores-desativem-conteudos-sugeridos-90ca674e",
-         "author": [
-            "Expresso",
-            "Agência Lusa"
-         ],
-         "published": 1788958287000,
-         "created": 1788958287000,
-         "category": "Redes Sociais",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-02-26-redes-sociais-telemovel-76c9e0af/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-02-26-redes-sociais-telemovel-76c9e0af/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-02-26-redes-sociais-telemovel-76c9e0af/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
