@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3048952/ceuta-servicos-de-informacoes-espanhois-alertaram-para-convocatorias-massivas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Espanha foi alertada na véspera de \"assalto\" a Ceuta convocado nas redes",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3048952/ceuta-servicos-de-informacoes-espanhois-alertaram-para-convocatorias-massivas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788981732000,
+         "created": 1788981732000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa19e3174a5f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3048966/incendio-em-lar-em-viana-do-castelo-obriga-a-retirada-de-idosos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Incêndio em lar em Viana do Castelo obriga à retirada de idosos",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_54a406585f77b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3048057/volume-de-negocios-na-industria-cresce-5-6-em-julho-ine#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Volume de negócios na indústria cresce 5,6% em julho  ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3048057/volume-de-negocios-na-industria-cresce-5-6-em-julho-ine#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788869324000,
-         "created": 1788869324000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68a4589813237.webp",
                "type": "image/jpeg",
                "length": "0"
             }
