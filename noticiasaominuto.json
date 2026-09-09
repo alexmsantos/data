@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3048924/apple-tem-finalmente-um-telemovel-dobravel-conheca-o-iphone-duo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Apple tem (finalmente) um telemóvel dobrável. Conheça o iPhone Duo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3048924/apple-tem-finalmente-um-telemovel-dobravel-conheca-o-iphone-duo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788980219000,
+         "created": 1788980219000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa19ddd5d53e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3048937/jurado-admitiu-ter-duvidas-mas-recusou-absolver-lindsay-clancy#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jurados revelam tensão no julgamento de Clancy: \"Era muito arrogante\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69e275feac574.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3048039/medio-oriente-rebeldes-do-iemen-reivindicam-ataques-contra-a-arabia-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rebeldes do Iémen reivindicam ataques contra a Arábia Saudita",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3048039/medio-oriente-rebeldes-do-iemen-reivindicam-ataques-contra-a-arabia-saudita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788868007000,
-         "created": 1788868007000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_64391eb6a3fcc.webp",
                "type": "image/jpeg",
                "length": "0"
             }
