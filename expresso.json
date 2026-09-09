@@ -14,8 +14,25 @@
          "published": 1788961925000,
          "created": 1788961925000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-13-joao-costa_03.png-ddcd5d9b-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2025-01-13-joao-costa_03.png-ddcd5d9b-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2025-01-13-joao-costa_03.png-ddcd5d9b-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "13af58ce-4027-4714-8afa-14996973dd2f",
@@ -41,6 +58,38 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-09-09-luis-montenegro-primeiro-ministro-governo-debate-quinzenal-parlamento-66335495/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "30791f44-beaf-4597-a324-8d036ca52b66",
+         "title": "Montenegro promete apoios para transportes, bombeiros e IPSS: decisão só na próxima semana",
+         "description": "<p><span>Medidas </span><span>pretendem \"</span><span>d</span><span>iminuir o impacto que é de facto muito, muito significativo do aumento do preço dos combustíveis na vida das pessoas</span><span>, na vida das famílias, na vida das empresas, na vida das instituições\" </span></p>",
+         "link": "https://expresso.pt/governo/2026-09-09-montenegro-promete-apoios-para-transportes-bombeiros-e-ipss-decisao-so-na-proxima-semana-dd44b247",
+         "author": [
+            "Expresso",
+            "Agência Lusa"
+         ],
+         "published": 1788959928000,
+         "created": 1788959928000,
+         "category": "Governo",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-luis-montenegro-conselho-de-ministros--cb0d833d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-luis-montenegro-conselho-de-ministros--cb0d833d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-luis-montenegro-conselho-de-ministros--cb0d833d/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -230,35 +279,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-09-09-natalie-harp-assessora-de-donald-trump-fa652435-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "73a36c1f-1d8b-4b54-b312-e604fac3c1eb",
-         "title": "Restaurantes: a cozinha turca vive em Odivelas",
-         "description": "<p>Turquaz, um novo restaurante de cozinha turca em Odivelas, aposta em pratos típicos e refinados</p>",
-         "link": "https://expresso.pt/restaurantes/2026-09-09-restaurantes-a-cozinha-turca-vive-em-odivelas-02c3418d-1",
-         "author": "Fortunato da Câmara",
-         "published": 1788951600000,
-         "created": 1788951600000,
-         "category": "Restaurantes",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-08-tm7576-copy_t-_idp.jpg-cd519b95/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-08-tm7576-copy_t-_idp.jpg-cd519b95/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-09-08-tm7576-copy_t-_idp.jpg-cd519b95/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
