@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3048824/medio-oriente-mne-israelita-afasta-plano-para-expulsar-habitantes-de-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Gaza? Não há \"qualquer intenção de expulsar ou deportar ninguém\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3048824/medio-oriente-mne-israelita-afasta-plano-para-expulsar-habitantes-de-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1788970069000,
+         "created": 1788970069000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67a5c5f42f6eb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjo3MzcsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3048822/i-liga-pepa-considera-chumbo-do-estadio-jose-gomes-estranho-e-revoltante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pepa considera chumbo do Estádio José Gomes \"estranho\" e \"revoltante\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9f37f5869d9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDI0LCJjcm9wSGVpZ2h0Ijo1NzYsImNyb3BYIjowLCJjcm9wWSI6MTU1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0NTEsImNyb3BIZWlnaHQiOjgwMSwiY3JvcFgiOjI4OCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3047415/rui-borges-alinha-rota-do-sporting-e-deixa-eduardo-quaresma-a-ver-navios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rui Borges alinha rota do Sporting… e deixa Eduardo Quaresma a ver navios",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3047415/rui-borges-alinha-rota-do-sporting-e-deixa-eduardo-quaresma-a-ver-navios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788854261000,
-         "created": 1788854261000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9e750dcdbed.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTEsImNyb3BZIjoxN30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NzY4LCJjcm9wSGVpZ2h0IjoxMzY1LCJjcm9wWCI6NTIwLCJjcm9wWSI6Mzd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
