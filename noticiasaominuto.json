@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3049675/angola-aposta-no-gas-com-plano-de-mais-de-11-mil-me-de-investimento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Angola aposta no gás com plano de mais de 11 mil milhões de investimento",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3049675/angola-aposta-no-gas-com-plano-de-mais-de-11-mil-me-de-investimento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789081262000,
+         "created": 1789081262000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_687546491f1b8.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3049669/urgencias-do-hospital-de-aveiro-poderao-entrar-em-obras-antes-da-desejada-ampliacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Urgências de Aveiro poderão entrar em obras antes da desejada ampliação",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa15c4cb598f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3048740/filme-sobre-a-openai-e-o-lider-sam-altman-recebeu-trailer-arrepiante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Filme sobre a OpenAI e o líder Sam Altman recebeu trailer (arrepiante)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3048740/filme-sobre-a-openai-e-o-lider-sam-altman-recebeu-trailer-arrepiante#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788963459000,
-         "created": 1788963459000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa15bf646084.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NTgsImNyb3BIZWlnaHQiOjUzOSwiY3JvcFgiOjUsImNyb3BZIjo3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoyNDYsImNyb3BIZWlnaHQiOjQzNywiY3JvcFgiOjEzNywiY3JvcFkiOjR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
