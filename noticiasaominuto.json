@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3049241/taxa-de-inflacao-aumentou-para-3-3-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Taxa de inflação aumentou para 3,3% em agosto. Culpa é do gasóleo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3049241/taxa-de-inflacao-aumentou-para-3-3-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789038521000,
+         "created": 1789038521000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa27fd36778c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3049242/idosos-regressam-durante-o-dia-ao-lar-em-viana-do-castelo-apos-incendio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Idosos regressam durante o dia ao lar em Viana do Castelo após incêndio",
@@ -41,27 +62,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a8edcb768ab5.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3049241/taxa-de-inflacao-aumentou-para-3-3-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Taxa de inflação aumentou para 3,3% em agosto",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3049241/taxa-de-inflacao-aumentou-para-3-3-em-agosto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789038000000,
-         "created": 1789038000000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa27fd36778c.webp",
                "type": "image/jpeg",
                "length": "0"
             }
