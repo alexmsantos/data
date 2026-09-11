@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3049925/homem-morre-em-acidente-com-maquina-de-rasto-no-ameixial-em-loule#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Homem morre em acidente com máquina de rasto no Ameixial em Loulé",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3049925/homem-morre-em-acidente-com-maquina-de-rasto-no-ameixial-em-loule#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789140727000,
+         "created": 1789140727000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_576986a3dc51c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3050020/presidente-timorense-defende-reforco-da-parceria-economica-com-a-china#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Presidente timorense defende reforço da parceria económica com a China",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa21d74f2ce9.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3049090/irao-trump-preve-que-guerra-pare-imediatamente-apos-legislativas-nos-estados-unidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trump prevê que guerra pare \"imediatamente\" após legislativas nos EUA",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3049090/irao-trump-preve-que-guerra-pare-imediatamente-apos-legislativas-nos-estados-unidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789011600000,
-         "created": 1789011600000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa2517ab0ed5.webp",
                "type": "image/jpeg",
                "length": "0"
             }
