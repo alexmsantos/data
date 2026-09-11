@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3050029/procurado-no-uzbequistao-e-detido-no-porto-pode-ser-condenado-a-8-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Procurado no Uzbequistão e detido no Porto: Pode ser condenado a 8 anos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3050029/procurado-no-uzbequistao-e-detido-no-porto-pode-ser-condenado-a-8-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789142111000,
+         "created": 1789142111000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69cf75b1c5e79.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE3LCJjcm9wSGVpZ2h0IjoxNDE2LCJjcm9wWCI6MTUsImNyb3BZIjoxMn19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3050034/samsung-continua-a-picar-apple-desta-vez-com-ajuda-de-sosia-do-ex-ceo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Samsung continua a \"picar\" Apple. Desta vez com ajuda de sósia do ex-CEO",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_660bd42f5eac4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDYwLCJjcm9wSGVpZ2h0Ijo1OTYsImNyb3BYIjoxNCwiY3JvcFkiOjE4M319",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3048752/aos-11-anos-aponta-a-formula-1-filho-de-raikkonen-assina-pela-red-bull#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aos 11 anos, aponta à Fórmula 1. Filho de Räikkönen assina pela Red Bull",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3048752/aos-11-anos-aponta-a-formula-1-filho-de-raikkonen-assina-pela-red-bull#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788965427000,
-         "created": 1788965427000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa15e28d80c9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjAxLCJjcm9wWSI6NDMwfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MzQsImNyb3BIZWlnaHQiOjE2NjEsImNyb3BYIjo3MTksImNyb3BZIjo5fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
