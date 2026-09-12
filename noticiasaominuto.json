@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3050502/carril-na-linha-onde-se-deu-acidente-ferroviario-em-franca-mp-afasta-para-ja-sabotagem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Barra de ferro de 300 kg\" pode ter causado descarrilamento em França",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3050502/carril-na-linha-onde-se-deu-acidente-ferroviario-em-franca-mp-afasta-para-ja-sabotagem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789244382000,
+         "created": 1789244382000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa5a5d02a7bf.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgyLCJjcm9wSGVpZ2h0IjoxMzk2LCJjcm9wWCI6MTEsImNyb3BZIjoxODN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3050504/henrique-araujo-ambicioso-apesar-da-derrota-a-equipa-esta-em-crescendo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Henrique Araújo ambicioso apesar da derrota: \"A equipa está em crescendo\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa290f72b62f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3049293/mtic-quanto-vai-realmente-pagar-pelo-seu-credito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "MTIC: Quanto vai realmente pagar pelo seu crédito?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3049293/mtic-quanto-vai-realmente-pagar-pelo-seu-credito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789042288000,
-         "created": 1789042288000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa2912235f13.webp",
                "type": "image/jpeg",
                "length": "0"
             }
