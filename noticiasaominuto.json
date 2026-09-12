@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3050484/mocambique-3-detidos-por-tentaremroubar800000-litros-de-combustivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Moçambique: 3 detidos por tentarem roubar 800.000 litros de combustível",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3050484/mocambique-3-detidos-por-tentaremroubar800000-litros-de-combustivel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789240094000,
+         "created": 1789240094000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa594169dd5a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3050474/estrasburgo-e-hugo-oliveira-roubam-primeiros-pontos-ao-monaco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Estrasburgo e Hugo Oliveira roubam primeiros pontos ao AS Monaco",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa28037ad821.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDQ1LCJjcm9wSGVpZ2h0Ijo1ODgsImNyb3BYIjoyNSwiY3JvcFkiOjMwNH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3049269/noruega-tribunal-aceita-recurso-de-marius-borg-condenado-por-violacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Noruega. Tribunal aceita recurso de Marius Borg condenado por violação",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3049269/noruega-tribunal-aceita-recurso-de-marius-borg-condenado-por-violacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789040738000,
-         "created": 1789040738000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa2898461d8f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxOTcyLCJjcm9wSGVpZ2h0IjoxMTA5LCJjcm9wWCI6MTEsImNyb3BZIjoyMDV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
