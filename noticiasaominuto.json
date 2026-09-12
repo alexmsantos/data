@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/cultura/3050322/nova-temporada-do-teatro-d-maria-ii-com-mais-de-30-espetaculos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Nova temporada do Teatro D. Maria II com mais de 30 espetáculos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/cultura/3050322/nova-temporada-do-teatro-d-maria-ii-com-mais-de-30-espetaculos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789202666000,
+         "created": 1789202666000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa4ffb9f3bd3.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3050307/solavancos-e-pedras-a-voar-o-que-se-sabe-de-descarrilamento-em-franca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Solavancos e pedras a voar\". O que se sabe de descarrilamento em França",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa1ddc3c71fa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTcwLCJjcm9wWSI6MjJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3049065/general-condenado-a-12-anos-de-prisao-por-corrupcao-na-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "General condenado a 12 anos de prisão por corrupção na Rússia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3049065/general-condenado-a-12-anos-de-prisao-por-corrupcao-na-russia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1788996534000,
-         "created": 1788996534000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6722c67d0c291.webp",
                "type": "image/jpeg",
                "length": "0"
             }
