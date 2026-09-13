@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3050658/tio-e-sobrinho-pontapeados-na-cabeca-por-recusar-cigarro-a-agressores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tio e sobrinho pontapeados na cabeça por recusar cigarro a agressores",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3050658/tio-e-sobrinho-pontapeados-na-cabeca-por-recusar-cigarro-a-agressores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789303306000,
+         "created": 1789303306000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_604718477c297.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3050655/ps-aponta-fernando-alexandre-como-candidato-a-pior-ministro-da-educacao-desde-o-25-de-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PS aponta Fernando Alexandre como candidato a pior ministro da Educação",
@@ -141,7 +162,7 @@
          },
          "published": 1789301346000,
          "created": 1789301346000,
-         "category": "País",
+         "category": "Cultura",
          "content": "",
          "enclosures": [
             {
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa2db1c7eacc.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3049499/liliana-oliveira-faz-cirurgia-estetica-e-assume-realizei-um-sonho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Liliana Oliveira faz cirurgia estética e assume: \"Realizei um sonho\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3049499/liliana-oliveira-faz-cirurgia-estetica-e-assume-realizei-um-sonho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789061411000,
-         "created": 1789061411000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa2d7db9bb78.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjAwLCJjcm9wSGVpZ2h0Ijo2NzUsImNyb3BYIjowLCJjcm9wWSI6MjQ4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MDAsImNyb3BIZWlnaHQiOjE2MDAsImNyb3BYIjoxNTksImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
