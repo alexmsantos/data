@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3050693/cidade-chinesa-serve-2500-porcoes-de-prato-tradicional-e-atinge-recorde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Cidade chinesa serve 2.500 porções de prato tradicional e atinge recorde",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3050693/cidade-chinesa-serve-2500-porcoes-de-prato-tradicional-e-atinge-recorde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789316342000,
+         "created": 1789316342000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa6b43e7df46.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3050700/kimi-antonelli-vence-em-madrid-e-e-cada-vez-mais-lider#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Kimi Antonelli vence em Madrid e é cada vez mais líder",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa2f7cdcc1ad.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3049604/ceuta-rangel-critica-medidas-com-efeito-chamada-de-migrantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ceuta: Rangel critica medidas com \"efeito chamada\" de migrantes",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3049604/ceuta-rangel-critica-medidas-com-efeito-chamada-de-migrantes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789068940000,
-         "created": 1789068940000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa2f7e8474c2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTM4LCJjcm9wSGVpZ2h0IjoxNDI4LCJjcm9wWCI6MCwiY3JvcFkiOjE0Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTIwLCJjcm9wSGVpZ2h0IjoxNjM1LCJjcm9wWCI6NTI2LCJjcm9wWSI6MzB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
