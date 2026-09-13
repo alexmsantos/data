@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3050726/confusao-entre-bruno-fernandes-e-foden-da-expulsao-no-derbi-de-manchester#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Confusão entre Bruno Fernandes e Foden dá expulsão no dérbi de Manchester",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3050726/confusao-entre-bruno-fernandes-e-foden-da-expulsao-no-derbi-de-manchester#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789319356000,
+         "created": 1789319356000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa6c93047195.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNDQ1LCJjcm9wSGVpZ2h0Ijo4MTMsImNyb3BYIjoyNTIsImNyb3BZIjoxMTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjU3MiwiY3JvcEhlaWdodCI6MTAxNiwiY3JvcFgiOjY5MCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3050707/novo-governo-de-albin-kurti-aprovado-pelo-parlamento-do-kosovo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Novo Governo de Albin Kurti aprovado pelo parlamento do Kosovo",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa3080630846.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3049566/medio-oriente-opositor-israelita-processa-mulher-de-netanyahu-por-teorias-da-conspiracao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Opositor processa Sara Netanyahu por insinuar que sabia do 7 de Outubro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3049566/medio-oriente-opositor-israelita-processa-mulher-de-netanyahu-por-teorias-da-conspiracao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789072939000,
-         "created": 1789072939000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a01ebdf3dc48.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MCwiY3JvcFkiOjEzOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTI4LCJjcm9wSGVpZ2h0IjoxNjUwLCJjcm9wWCI6MzkyLCJjcm9wWSI6MjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
