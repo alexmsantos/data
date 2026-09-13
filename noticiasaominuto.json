@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3050571/hoje-e-noticia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Hoje é notícia: Trabalho sexual agora é conteúdo; Mulher morre engasgada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3050571/hoje-e-noticia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789285917000,
+         "created": 1789285917000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa63a0550c75.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo5NjYsImNyb3BIZWlnaHQiOjU0NCwiY3JvcFgiOjAsImNyb3BZIjoxMzd9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3049213/mini-jcw-20-experimentamos-o-hot-hatch-com-231-cv#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "MINI JCW 2.0: Experimentámos o hot hatch com 231 cv",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_691d9754383d8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAyLCJjcm9wSGVpZ2h0IjoxNDA3LCJjcm9wWCI6NTgsImNyb3BZIjozMDB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3049414/motogp-rins-vice-campeao-mundial-de-motociclismo-retira-se-aos-30-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "MotoGP: Rins, vice-campeão mundial de motociclismo, retira-se aos 30 anos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3049414/motogp-rins-vice-campeao-mundial-de-motociclismo-retira-se-aos-30-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789054007000,
-         "created": 1789054007000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa2bcfb204f5.webp",
                "type": "image/jpeg",
                "length": "0"
             }
