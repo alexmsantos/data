@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3050673/ucrania-ataque-sistematico-em-curso-na-rede-ferroviaria-ucraniana-operadora#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ataque \"sistemático\" em curso na rede ferroviária ucraniana",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3050673/ucrania-ataque-sistematico-em-curso-na-rede-ferroviaria-ucraniana-operadora#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789306732000,
+         "created": 1789306732000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_569cd8f00fc77.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3050672/vicens-assume-frustracao-e-quer-sporting-de-braga-mais-agressivo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Vicens assume frustração e quer Sporting de Braga \"mais agressivo\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa29e6aed52d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3049344/nothing-esta-a-preparar-anuncio-de-novos-auscultadores-premium#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nothing está a preparar anúncio de novos auscultadores premium",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3049344/nothing-esta-a-preparar-anuncio-de-novos-auscultadores-premium#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789065061000,
-         "created": 1789065061000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68650a087fda8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTI2LCJjcm9wSGVpZ2h0IjoxNDIxLCJjcm9wWCI6MTcsImNyb3BZIjoxNn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Nzk2LCJjcm9wSGVpZ2h0IjoxNDE1LCJjcm9wWCI6ODgyLCJjcm9wWSI6MTZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
