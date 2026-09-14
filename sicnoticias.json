@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "5fca7200-1fb3-48e7-81f0-61a6452bf650",
+         "title": "\"É muito difícil proibir um partido e dizer que é fascista\", assume juíza do TC",
+         "description": "<p><span>Maria Benedita Urbano confirmou que o TC recebeu um requerimento para a extinção do Chega. </span><span>A magistrada sublinhou que acredita que \"partidos de extremos </span><span>deveriam ser proibidos em Portugal\", mas sublinhou que </span><span>\"é muito difícil proibir um partido e dizer que é fascista\".</span></p>",
+         "link": "https://sicnoticias.pt/pais/politica/2026-09-14-e-muito-dificil-proibir-um-partido-e-dizer-que-e-fascista-assume-juiza-do-tribunal-constitucional-747fe3c2",
+         "author": "SIC Notícias",
+         "published": 1789368937000,
+         "created": 1789368937000,
+         "category": "Política",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-05-31-tribunal-constitucional-1cae5496-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-05-31-tribunal-constitucional-1cae5496-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2022-05-31-tribunal-constitucional-1cae5496-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "773da540-3b85-4031-8a0b-1d33ebcbc796",
          "title": "China pede \"barreira de segurança\" para IA perante avanços internos e alertas nos EUA",
          "description": "<p><span>O ministro chinês da Segurança do Estado </span><span>afirmou que a Inteligência Artificial se tornou um dos principais campos da competição tecnológica mundial e uma nova frente da “rivalidade entre grandes potências”.</span></p>",
@@ -93,35 +122,6 @@
          }
       },
       {
-         "id": "1c8b15ab-933d-4d64-931a-1d4b4db8b89b",
-         "title": "Daniel Rey, professor de matemática: “Se o ministro continuar assim, não vai haver emprego para os professores“",
-         "description": "<p><span>Daniel Rey, professor de matemática e criador do canal Rey da Matemática, é o convidado de Ricardo Araújo Pereira, oiça a entrevista na íntegra</span></p>",
-         "link": "https://sicnoticias.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-09-14-daniel-rey-professor-de-matematica-se-o-ministro-continuar-assim-nao-vai-haver-emprego-para-os-professores-f78b1172",
-         "author": "Isto é Gozar com Quem Trabalha",
-         "published": 1789366800000,
-         "created": 1789366800000,
-         "category": "Isto é Gozar com Quem Trabalha",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-13-daniel-rey-isto-e-gozar-com-quem-trabalha-01c7c1b8/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-13-daniel-rey-isto-e-gozar-com-quem-trabalha-01c7c1b8/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-09-13-daniel-rey-isto-e-gozar-com-quem-trabalha-01c7c1b8/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "76f24ce6-0a23-4108-96db-80d563f3c2c5",
          "title": "Vai conseguir ter uma boa reforma? Descubra o que pode fazer já sem depender da Segurança Social",
          "description": "<p><span>A Segurança Social vai conseguir pagar pensões suficientes no futuro? E o que pode cada um de nós fazer já, sem ficar à espera das decisões dos próximos governos?</span></p>",
@@ -145,6 +145,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2026-07-26-contas-poupanca-3x2-02855e65/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "1c8b15ab-933d-4d64-931a-1d4b4db8b89b",
+         "title": "Daniel Rey, professor de matemática: “Se o ministro continuar assim, não vai haver emprego para os professores“",
+         "description": "<p><span>Daniel Rey, professor de matemática e criador do canal Rey da Matemática, é o convidado de Ricardo Araújo Pereira, oiça a entrevista na íntegra</span></p>",
+         "link": "https://sicnoticias.pt/podcasts/isto-e-gozar-com-quem-trabalha/2026-09-14-daniel-rey-professor-de-matematica-se-o-ministro-continuar-assim-nao-vai-haver-emprego-para-os-professores-f78b1172",
+         "author": "Isto é Gozar com Quem Trabalha",
+         "published": 1789366800000,
+         "created": 1789366800000,
+         "category": "Isto é Gozar com Quem Trabalha",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-13-daniel-rey-isto-e-gozar-com-quem-trabalha-01c7c1b8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-13-daniel-rey-isto-e-gozar-com-quem-trabalha-01c7c1b8/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-09-13-daniel-rey-isto-e-gozar-com-quem-trabalha-01c7c1b8/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -261,35 +290,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2023-05-23-Boris-Johnson.jpg-915412c7/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "78d95e68-49f3-4464-ba68-117e8045258a",
-         "title": "Não é possível recrutar os melhores para o governo? “Os dados desmentem essa tese”, diz António Costa Pinto",
-         "description": "<p><span>António Costa Pinto, historiador e um dos autores do estudo “Quem Governa Portugal?”, é o convidado de Paulo Baldaia neste episódio do podcast Expresso da Manhã</span></p>",
-         "link": "https://sicnoticias.pt/podcasts/expresso-da-manha/2026-09-14-nao-e-possivel-recrutar-os-melhores-para-o-governo--os-dados-desmentem-essa-tese-diz-antonio-costa-pinto-90d94d56",
-         "author": "Expresso da Manhã",
-         "published": 1789365600000,
-         "created": 1789365600000,
-         "category": "Expresso da Manhã",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
