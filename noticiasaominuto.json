@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3051118/campeoes-do-mundo-de-kickboxing-e-futebol-sub-17-sao-embaixadores-do-alto-tamega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Campeões Catarina Dias e Romário Cunha são embaixadores do Alto Tâmega",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3051118/campeoes-do-mundo-de-kickboxing-e-futebol-sub-17-sao-embaixadores-do-alto-tamega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789398932000,
+         "created": 1789398932000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa80121ca8e9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo0OH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTAwNSwiY3JvcEhlaWdodCI6MTc4NiwiY3JvcFgiOjcxMCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3051083/stellantis-prepara-11-novos-comerciais-de-varias-marcas-ate-2030#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Stellantis prepara 11 novos comerciais de várias marcas até 2030",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa4272c51db4.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3050100/temos-de-esmagar-cristiano-ronaldo-da-discurso-arrepiante-no-al-nassr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Temos de esmagar\". Cristiano Ronaldo dá discurso arrepiante no Al Nassr",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3050100/temos-de-esmagar-cristiano-ronaldo-da-discurso-arrepiante-no-al-nassr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789146880000,
-         "created": 1789146880000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa427f167487.webp",
                "type": "image/jpeg",
                "length": "0"
             }
