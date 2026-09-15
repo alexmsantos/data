@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "20115f93-0b6b-4cb2-b4ca-e88c16dc15ff",
+         "title": "Mais de 800 bombeiros combatem dois incêndios em Proença-a-Nova",
+         "description": "<p><span>Dois incêndios rurais mantêm um vasto dispositivo de combate no concelho de Proença-a-nova, no distrito de Castelo Branco</span></p>",
+         "link": "https://expresso.pt/incendios/2026-09-15-mais-de-800-bombeiros-combatem-dois-incendios-em-proenca-a-nova-141ac6df",
+         "author": "Agência Lusa",
+         "published": 1789462312000,
+         "created": 1789462312000,
+         "category": "Incêndios",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-11-doc.20260702.47395592.pn5348260702.jpg-f7a0d905/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-11-doc.20260702.47395592.pn5348260702.jpg-f7a0d905/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-09-11-doc.20260702.47395592.pn5348260702.jpg-f7a0d905/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "48e010dd-e6fe-463f-9fa5-d71adcbf07d4",
          "title": "Novos leilões de baterias derrapam para outubro: fase de candidaturas abre \"dentro de três a quatro semanas\"",
          "description": "<p><span>A ministra do Ambiente e da Energia, Graça Carvalho, admitiu que os dois leilões anunciados pelo Governo para projetos de armazenamento de energia só serão lançados “dentro de três a quatro semanas”. O prazo de candidaturas devia ter começado esta segunda-feira, 14 de setembro</span></p>",
@@ -257,38 +286,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "51977eeb-96d0-445d-b557-b0febc00776b",
-         "title": "Quantos alunos estão sem escola? Vieram do privado? A restruturação do Ministério contribuiu? As respostas possíveis e as que estão por dar",
-         "description": "<p><span>Aulas começaram esta semana para a maioria dos alunos, mas há quem ainda aguarde para saber em que escola terá vaga. Ministério não dá números, mas garante que todos terão lugar numa escola pública. Esta segunda-feira o problema em Lisboa terá sido resolvido numa reunião com diretores, mas falta o resto do país</span></p>",
-         "link": "https://expresso.pt/educacao/2026-09-15-quantos-alunos-estao-sem-escola--vieram-do-privado--a-restruturacao-do-ministerio-contribuiu--as-respostas-possiveis-e-as-que-estao-por-dar-55390352",
-         "author": [
-            "Isabel Leiria",
-            "Joana Pereira Bastos"
-         ],
-         "published": 1789452000000,
-         "created": 1789452000000,
-         "category": "Educação",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2020-03-13-sala-de-aula-escola-vazia-mesas-quadro.jpg-2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2020-03-13-sala-de-aula-escola-vazia-mesas-quadro.jpg-2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2020-03-13-sala-de-aula-escola-vazia-mesas-quadro.jpg-2/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
