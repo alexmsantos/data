@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3051889/incidentes-na-meo-foram-provocados-por-ataque-de-negacao-de-servico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Incidentes na Meo foram provocados por ataque de negação de serviço",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3051889/incidentes-na-meo-foram-provocados-por-ataque-de-negacao-de-servico#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789491313000,
+         "created": 1789491313000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa96a1b334aa.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NDU0LCJjcm9wWSI6MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA2NCwiY3JvcEhlaWdodCI6MTg5MiwiY3JvcFgiOjEwMjUsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3051885/incendios-mais-de-120-operacionais-combatem-fogo-que-consome-mato-em-mirandela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Mais de 120 operacionais combatem fogo que consome mato em Mirandela",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa6d71bf3822.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MSwiY3JvcEhlaWdodCI6MTcwOCwiY3JvcFgiOjc1OSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3050739/ceo-da-anthropic-denuncia-mentiras-sobre-ia-e-pede-intervencao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"A indústria mentiu\". CEO da Anthropic denuncia perigos sobre IA",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3050739/ceo-da-anthropic-denuncia-mentiras-sobre-ia-e-pede-intervencao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789323793000,
-         "created": 1789323793000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa6db47b4c93.webp",
                "type": "image/jpeg",
                "length": "0"
             }
