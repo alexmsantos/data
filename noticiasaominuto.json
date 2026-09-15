@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3052039/zelensky-revela-que-russia-tentou-atacar-o-seu-aviao-duas-vezes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Zelensky revela que Rússia tentou atacar o seu avião duas vezes",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3052039/zelensky-revela-que-russia-tentou-atacar-o-seu-aviao-duas-vezes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789512019000,
+         "created": 1789512019000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67e563c355e54.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3052041/argentina-despede-se-de-messi-em-06-de-outubro-com-prestianni#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Última despedida. Messi convocado pela Argentina ao lado de Prestianni",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa7a27d09934.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3050887/la-fora-polemica-em-inglaterra-e-barcelona-nao-perdoa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Lá fora: Polémica em Inglaterra e Barcelona não perdoa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3050887/la-fora-polemica-em-inglaterra-e-barcelona-nao-perdoa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789374586000,
-         "created": 1789374586000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa79f3432825.webp",
                "type": "image/jpeg",
                "length": "0"
             }
