@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3052471/helder-cristovao-assume-comando-tecnico-do-al-muharraq-do-bahrain#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Oficial: Hélder Cristóvão assume comando técnico do Al Muharraq",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3052471/helder-cristovao-assume-comando-tecnico-do-al-muharraq-do-bahrain#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789573895000,
+         "created": 1789573895000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_678ea946e664b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOi0xfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoxMDE2LCJjcm9wSGVpZ2h0IjoxODA3LCJjcm9wWCI6Nzg4LCJjcm9wWSI6LTF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3052487/sete-homens-detidos-apos-rixa-e-agressoes-a-gnr-nas-festas-da-moita#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sete homens detidos após rixa e agressões a GNR nas Festas da Moita",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a733d288525e.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYxMSwiY3JvcEhlaWdodCI6MTA4NywiY3JvcFgiOjE5MiwiY3JvcFkiOi0yODB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3051647/infarmed-promove-campanha-digital-sobre-aquisicao-de-preservativos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Infarmed promove campanha digital sobre aquisição de preservativos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3051647/infarmed-promove-campanha-digital-sobre-aquisicao-de-preservativos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789474700000,
-         "created": 1789474700000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa92942a05d4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDAyLCJjcm9wSGVpZ2h0Ijo1NjQsImNyb3BYIjoxNTMsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjozMTUsImNyb3BIZWlnaHQiOjU2MCwiY3JvcFgiOjE4MCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
