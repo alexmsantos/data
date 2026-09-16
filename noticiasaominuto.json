@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Lifestyle",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3052249/pelo-menos-60-mortos-num-desabamento-de-uma-mina-de-ouro-no-sudao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pelo menos 60 mortos num desabamento de uma mina de ouro no Sudão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3052249/pelo-menos-60-mortos-num-desabamento-de-uma-mina-de-ouro-no-sudao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789555014000,
+         "created": 1789555014000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6155f273d836d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/lifestyle/3052248/diarreia-em-prova-de-hyrox-perigos-e-doencas-que-podem-ser-transmitidas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Diarreia em prova de Hyrox. Perigos e doenças que podem ser transmitidas",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6269059be1889.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3051094/mali-pelo-menos-50-soldados-e-cinco-paramilitares-mortos-em-ataque-terrorista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ataque terrorista mata pelo menos 50 militares no Mali",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3051094/mali-pelo-menos-50-soldados-e-cinco-paramilitares-mortos-em-ataque-terrorista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789397791000,
-         "created": 1789397791000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a492bf938268.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDM0LCJjcm9wSGVpZ2h0IjoxMzY5LCJjcm9wWCI6MTAzLCJjcm9wWSI6Mzd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
