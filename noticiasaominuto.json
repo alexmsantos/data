@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3052511/esta-eleito-o-carro-eletrico-do-ano-do-acp-2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Está eleito o Carro Elétrico do Ano do ACP 2026",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3052511/esta-eleito-o-carro-eletrico-do-ano-do-acp-2026#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789576068000,
+         "created": 1789576068000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaab40cc54e8.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjExMzEsImNyb3BZIjoxNDB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3052510/psp-de-leiria-relata-historia-com-carolina-de-deus-fazer-a-diferenca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PSP de Leiria relata história com Carolina de Deus. \"Fazer a diferença\"",
@@ -61,7 +82,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68fb49260688c.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaab49f0e276.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk3MSwiY3JvcEhlaWdodCI6MTcyNywiY3JvcFgiOjEzOSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa934b4dbea7.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIzLCJjcm9wSGVpZ2h0IjoxNDE5LCJjcm9wWCI6MzcsImNyb3BZIjoyNDN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg5NCwiY3JvcEhlaWdodCI6MTU4OSwiY3JvcFgiOjE0NzYsImNyb3BZIjoxMTl9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3051698/aprovada-2-fase-do-amalia-verba-e-de-1-8-milhoes-de-euros-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Aprovada 2.ª  fase do Amalia. Verba é de 1,8 milhões de euros do PRR",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3051698/aprovada-2-fase-do-amalia-verba-e-de-1-8-milhoes-de-euros-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789477364000,
-         "created": 1789477364000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa93293b0b72.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIxLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MjAsImNyb3BZIjoxMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQ2LCJjcm9wSGVpZ2h0IjoxNjgyLCJjcm9wWCI6NzE4LCJjcm9wWSI6MTN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
