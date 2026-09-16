@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3052402/seguro-pede-novo-impulso-nas-politicas-de-educacao-para-a-leitura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Seguro pede novo impulso nas políticas de educação para a leitura",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3052402/seguro-pede-novo-impulso-nas-politicas-de-educacao-para-a-leitura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789567916000,
+         "created": 1789567916000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaa94f2b871a.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6NTEyLCJjcm9wWSI6MTQ3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MTQsImNyb3BIZWlnaHQiOjE2MjYsImNyb3BYIjoxNjIzLCJjcm9wWSI6NjJ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3052366/eletricos-ficam-mais-baratos-carregar-custa-menos-do-que-abastecer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Elétricos ficam mais baratos: carregar custa menos do que abastecer",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_67868f7037a0b.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3051265/buscas-por-banhista-desaparecido-na-praia-da-costa-nova-em-aveiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Buscas por banhista desaparecido na praia da Costa Nova em Aveiro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3051265/buscas-por-banhista-desaparecido-na-praia-da-costa-nova-em-aveiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789413457000,
-         "created": 1789413457000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_661c2311610ec.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTAzLCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6MTgsImNyb3BZIjoyMjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk4MSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
