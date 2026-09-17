@@ -1,20 +1,41 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/lifestyle/3053201/tem-cadernos-com-receitas-de-familia-a-ganhar-po-eis-quanto-podem-valer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tem cadernos com receitas de família a ganhar pó? Eis quanto podem valer",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/3053201/tem-cadernos-com-receitas-de-familia-a-ganhar-po-eis-quanto-podem-valer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789675011000,
+         "created": 1789675011000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aac155c3ec87.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/desporto/3052490/em-direto-tecnico-portugues-entra-em-acao-antes-do-ac-milan-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Portugueses em ação na Bulgária antes da estreia do Torreense",
+         "title": "EM DIRETO: Portugueses perdem na Bulgária antes da estreia do Torreense",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/3052490/em-direto-tecnico-portugues-entra-em-acao-antes-do-ac-milan-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
             "xmlns:dc": "http://purl.org/dc/elements/1.1/"
          },
-         "published": 1789674794000,
-         "created": 1789674794000,
+         "published": 1789674842000,
+         "created": 1789674842000,
          "category": "Desporto",
          "content": "",
          "enclosures": [
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaa32bdc7c63.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/fama/3052117/big-brother-all-stars-teresa-foi-expulsa-apos-agressao-com-copo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Big Brother All Stars\". Teresa expulsa após exaltar-se e partir copo",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/fama/3052117/big-brother-all-stars-teresa-foi-expulsa-apos-agressao-com-copo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789542499000,
-         "created": 1789542499000,
-         "category": "Fama",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_601119304189f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjgwLCJjcm9wSGVpZ2h0Ijo3MjAsImNyb3BYIjowLCJjcm9wWSI6NjI5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5ODIsImNyb3BIZWlnaHQiOjE3NDUsImNyb3BYIjoxMDMsImNyb3BZIjoxMjF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
