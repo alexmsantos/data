@@ -14,8 +14,25 @@
          "published": 1789629065000,
          "created": 1789629065000,
          "category": "Inteligência Artificial",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-22-gettyimages-2218344194.jpg-cf8e91aa-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-07-22-gettyimages-2218344194.jpg-cf8e91aa-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-07-22-gettyimages-2218344194.jpg-cf8e91aa-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "3cd8217d-8255-443e-91dc-3a539914d7f8",
