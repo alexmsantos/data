@@ -169,8 +169,25 @@
          "published": 1789723179000,
          "created": 1789723179000,
          "category": "Projetos Expresso",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-18-pexels-cottonbro-5723883.jpg-70f0acb7-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-18-pexels-cottonbro-5723883.jpg-70f0acb7-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-09-18-pexels-cottonbro-5723883.jpg-70f0acb7-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "cd756ec0-25ae-45f1-bc45-7d3d0ca044cc",
