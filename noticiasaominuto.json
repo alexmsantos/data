@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3054303/ia-trump-rejeita-abrandar-pelo-contrario-vamos-ajudar-e-cuidar-dela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "IA? Trump rejeita abrandar: \"Pelo contrário, vamos ajudar e cuidar dela\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3054303/ia-trump-rejeita-abrandar-pelo-contrario-vamos-ajudar-e-cuidar-dela#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789859120000,
+         "created": 1789859120000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaf0668a0090.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3054301/goncalo-inacio-da-a-cara-apos-tropecao-vamos-dar-a-volta-por-cima#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Gonçalo Inácio dá a cara após tropeção: \"Vamos dar a volta por cima\"",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aac019e1311f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3053177/portugal-vence-angola-na-estreia-no-torneio-goldencat#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal vence Angola na estreia no torneio GoldenCat",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3053177/portugal-vence-angola-na-estreia-no-torneio-goldencat#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789663642000,
-         "created": 1789663642000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aac099e1ae16.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkyNiwiY3JvcEhlaWdodCI6MTY0NiwiY3JvcFgiOjk2OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
