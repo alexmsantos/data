@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3054190/servicos-secretos-apreendem-credenciais-de-jornalistas-na-casa-branca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Serviços Secretos apreendem credenciais de jornalistas na Casa Branca",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3054190/servicos-secretos-apreendem-credenciais-de-jornalistas-na-casa-branca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789838242000,
+         "created": 1789838242000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaeaef21cf23.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3054189/benfica-com-baixa-de-vulto-no-classico-enzo-barrenechea-operado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Benfica com baixa de vulto no Clássico. Enzo Barrenechea vai ser operado",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa5be57d21ef.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjR9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3053016/pm-do-canada-desvaloriza-ameacas-de-trump-face-a-parceria-com-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Carney responde a Trump: \"Ninguém nos vai dizer\" com quem fazer acordos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3053016/pm-do-canada-desvaloriza-ameacas-de-trump-face-a-parceria-com-ue#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789652503000,
-         "created": 1789652503000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_681a90367bc8f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzU0LCJjcm9wSGVpZ2h0IjoxMzI0LCJjcm9wWCI6MjA3LCJjcm9wWSI6MzA0fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MDAsImNyb3BIZWlnaHQiOjE1OTksImNyb3BYIjoxMTI0LCJjcm9wWSI6NDN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
