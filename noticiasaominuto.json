@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3054158/pedro-porro-desolado-regresso-ao-tottenham-durou-19-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Pedro Porro desolado. Regresso ao Tottenham durou... 19 minutos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3054158/pedro-porro-desolado-regresso-ao-tottenham-durou-19-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789829811000,
+         "created": 1789829811000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aae945b15df4.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3054155/ipma-alarga-periodo-de-aviso-amarelo-para-nove-distritos-devido-ao-calor#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "IPMA alarga período de aviso amarelo para nove distritos devido ao calor",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aabd20e662d7.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3053010/ps-vota-contra-comissao-de-inquerito-pedida-pelo-jpp-sobre-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "PS vota contra comissão de inquérito pedida pelo JPP sobre Luís Neves",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3053010/ps-vota-contra-comissao-de-inquerito-pedida-pelo-jpp-sobre-luis-neves#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789650169000,
-         "created": 1789650169000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aabd6828e104.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzgyLCJjcm9wSGVpZ2h0IjoxMzQwLCJjcm9wWCI6NDUsImNyb3BZIjoxMTN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
