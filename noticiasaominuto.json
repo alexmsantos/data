@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3054530/mulher-e-tres-menores-resgatados-apos-serem-arrastados-por-agueiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mulher e três menores resgatados após serem arrastados por agueiro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3054530/mulher-e-tres-menores-resgatados-apos-serem-arrastados-por-agueiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789936938000,
+         "created": 1789936938000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab02b5f1860b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3054528/sao-tomeeleicoes-economia-tem-de-comecar-a-crescer-mais-de-3-4-ao-ano-pm-caudio-e-cfoto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Eleições em São Tomé: Economia \"tem de começar a crescer mais\", diz PM",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aacddc397cf6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3053374/torreense-leva-carnaval-ate-a-europa-numa-noite-que-ficou-para-a-historia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Torreense leva Carnaval até à Europa numa noite que ficou para a história",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3053374/torreense-leva-carnaval-ate-a-europa-numa-noite-que-ficou-para-a-historia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789717874000,
-         "created": 1789717874000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aac57f87104e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIxLCJjcm9wSGVpZ2h0IjoxNDE4LCJjcm9wWCI6MjEsImNyb3BZIjoyNzd9LCJzdGFtcCI6eyJjYXRlZ29yeSI6ImRlc3BvcnRvIiwibGFiZWwiOiJub3Rhc19kb19qb2dvIiwiY29sb3IiOiJicmFuY28iLCJwb3NpdGlvbiI6InRvcC1yaWdodCJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
