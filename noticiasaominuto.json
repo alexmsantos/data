@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3054319/aviso-de-tempo-quente-estendido-ate-terca-feira-e-em-11-distritos-ipma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Atenção! Aviso de tempo quente estendido até 3.ª-feira e em 11 distritos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3054319/aviso-de-tempo-quente-estendido-ate-terca-feira-e-em-11-distritos-ipma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789885386000,
+         "created": 1789885386000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a466281f0f53.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3054328/hamas-apela-a-mediadores-fim-imediato-da-escalada-de-ataques-em-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Hamas apela a mediadores fim imediato da escalada de ataques em Gaza",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a997c890fb35.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDcyLCJjcm9wSGVpZ2h0Ijo2MDMsImNyb3BYIjo4LCJjcm9wWSI6MjF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQwNSwiY3JvcEhlaWdodCI6NzIxLCJjcm9wWCI6NTY1LCJjcm9wWSI6MH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3053089/bill-skarsgard-de-it-protagonizara-novo-jogo-de-hideo-kojima#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bill Skarsgård, de \"It\", protagonizará novo jogo de Hideo Kojima",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3053089/bill-skarsgard-de-it-protagonizara-novo-jogo-de-hideo-kojima#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789668426000,
-         "created": 1789668426000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aabee08adafe.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ2LCJjcm9wSGVpZ2h0IjoxNDMyLCJjcm9wWCI6OCwiY3JvcFkiOjEyMn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQyLCJjcm9wSGVpZ2h0IjoxNjc1LCJjcm9wWCI6MTE1OSwiY3JvcFkiOjEyfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
