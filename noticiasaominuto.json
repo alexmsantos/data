@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/fama/3053480/a-hepatite-c-virou-a-minha-vida-de-pernas-para-o-ar-sentenca-de-morte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"A hepatite C virou a minha vida de pernas para o ar. Sentença de morte\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/3053480/a-hepatite-c-virou-a-minha-vida-de-pernas-para-o-ar-sentenca-de-morte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789934477000,
+         "created": 1789934477000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaced11cdad5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjQ2M30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjAxOCwiY3JvcEhlaWdodCI6MzU4OCwiY3JvcFgiOjM2MywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3054532/santa-clara-empata-com-sporting-de-braga-e-iguala-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Santa Clara empata com Sporting de Braga e apanha Sporting no pódio",
@@ -607,7 +628,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_690e0b1af0c15.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab02c28ed3aa.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aacda99b3e9b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQwLCJjcm9wSGVpZ2h0IjoxNDI5LCJjcm9wWCI6MTEsImNyb3BZIjoxMDB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk0MiwiY3JvcEhlaWdodCI6MTY3NSwiY3JvcFgiOjg2OCwiY3JvcFkiOjE2fX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3052944/regresso-as-aulas-que-direitos-tem-os-pais-trabalhadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Regresso às aulas: Que direitos têm os pais trabalhadores? ",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3052944/regresso-as-aulas-que-direitos-tem-os-pais-trabalhadores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789716642000,
-         "created": 1789716642000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aabba5c66ef4.webp?crop_params=eyJzdGFtcCI6eyJjYXRlZ29yeSI6ImVjb25vbWlhIiwibGFiZWwiOiJ0cmFiYWxob19pbXBvc3Rvc19kZXNjb21wbGljYWRvcyIsImNvbG9yIjoiYnJhbmNvIiwicG9zaXRpb24iOiJib3R0b20tcmlnaHQifX0=",
                "type": "image/jpeg",
                "length": "0"
             }
