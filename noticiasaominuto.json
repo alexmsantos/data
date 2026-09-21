@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3054732/mau-tempo-reconstrucao-do-no-do-ip4-em-vila-real-deve-estar-concluida-em-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Reconstrução do nó do IP4 em Vila Real deve estar concluída em abril",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3054732/mau-tempo-reconstrucao-do-no-do-ip4-em-vila-real-deve-estar-concluida-em-abril#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1789986792000,
+         "created": 1789986792000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_584fb1064cfb0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozMjAyLCJjcm9wSGVpZ2h0IjoxODAxLCJjcm9wWCI6LTEsImNyb3BZIjoyMTN9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3054714/australia-nomeia-nova-embaixadora-para-timor-leste#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Austrália nomeia nova embaixadora para Timor-Leste",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_587f88ba1c213.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjoxMDl9fQ==",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_587f88ba1c213.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjoxMDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjIwMSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68a55c0219668.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3054021/argentina-critica-apoio-britanico-a-petroliferas-nas-ilhas-malvinas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Argentina critica apoio britânico a petrolíferas nas ilhas Malvinas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3054021/argentina-critica-apoio-britanico-a-petroliferas-nas-ilhas-malvinas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789799838000,
-         "created": 1789799838000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_655ccd942cf09.webp",
                "type": "image/jpeg",
                "length": "0"
             }
