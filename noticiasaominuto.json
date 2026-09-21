@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3055110/etiopia-guterres-preocupado-com-agravamento-da-situacao-de-seguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guterres preocupado com agravamento da situação de segurança na Etiópia",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3055110/etiopia-guterres-preocupado-com-agravamento-da-situacao-de-seguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790025338000,
+         "created": 1790025338000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a04a0e2e081c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcxNiwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3054952/governo-aprova-medidas-para-prevenir-e-conter-alga-asiatica-invasora#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo aprova medidas para prevenir e conter alga asiática invasora",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaf820fc6dbe.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3053984/nutricionista-revela-3-habitos-que-aumentam-exposicao-a-microplasticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nutricionista revela 3 hábitos que \"aumentam exposição a microplásticos\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3053984/nutricionista-revela-3-habitos-que-aumentam-exposicao-a-microplasticos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789890269000,
-         "created": 1789890269000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aadaf4aa8287.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDQ1LCJjcm9wSGVpZ2h0IjoxMzc1LCJjcm9wWCI6OTksImNyb3BZIjo0ODZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
