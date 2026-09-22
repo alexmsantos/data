@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3055318/mclaren-prepara-revolucao-e-tem-nova-identidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "McLaren prepara \"revolução\" e tem nova identidade",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3055318/mclaren-prepara-revolucao-e-tem-nova-identidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790072841000,
+         "created": 1790072841000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab249aec286f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3055309/uls-do-algarve-reforca-hospitais-de-faro-e-portimao-com-136-profissionais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "ULS do Algarve reforça hospitais de Faro e Portimão com 136 profissionais",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab009bda915a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3054540/partido-de-putin-vence-eleicoes-na-russia-com-57-54-dos-votos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia: Primeiros resultados oficiais dão vitória ao partido de Putin",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3054540/partido-de-putin-vence-eleicoes-na-russia-com-57-54-dos-votos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789935703000,
-         "created": 1789935703000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab02f58be63e.webp",
                "type": "image/jpeg",
                "length": "0"
             }
