@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3055669/presidente-da-liga-de-futebol-aponta-a-seguranca-como-prioridade-estrategica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Reinaldo Teixeira aponta a segurança como \"prioridade estratégica\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3055669/presidente-da-liga-de-futebol-aponta-a-seguranca-como-prioridade-estrategica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790102244000,
+         "created": 1790102244000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab2bc8723613.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEwOX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6ODAxLCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3055657/euro-cai-face-ao-dolar-pela-nona-sessao-consecutiva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Euro cai face ao dólar pela nona sessão consecutiva",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3055657/euro-cai-face-ao-dolar-pela-nona-sessao-consecutiva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790102212000,
+         "created": 1790102212000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_568277a74cf3a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3055332/freelander-marca-lancamento-global-para-a-proxima-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Freelander marca lançamento global para a próxima semana",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3055332/freelander-marca-lancamento-global-para-a-proxima-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790101961000,
+         "created": 1790101961000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab250da7fdd2.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3055655/primeiro-dia-apos-polemica-moedas-diz-usar-expressao-nao-e-engano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Primeiro Dia\"? Após polémica, Moedas diz: \"Usar expressão não é engano\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3055655/primeiro-dia-apos-polemica-moedas-diz-usar-expressao-nao-e-engano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790101921000,
+         "created": 1790101921000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_64921c13843f0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDkxLCJjcm9wSGVpZ2h0IjoxNDAxLCJjcm9wWCI6MjYsImNyb3BZIjo2MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTk3LCJjcm9wSGVpZ2h0IjoxNzczLCJjcm9wWCI6NzUwLCJjcm9wWSI6MH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3055656/incendios-urbanizacao-evacuada-e-estrada-nacional-105-cortada-em-santo-tirso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Urbanização evacuada e Estrada Nacional 105 cortada em Santo Tirso",
@@ -10205,90 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab10fb55abf1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTE2LCJjcm9wSGVpZ2h0Ijo2MjgsImNyb3BYIjoyNiwiY3JvcFkiOjIzNH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3054804/universidade-de-coimbra-dedica-xxix-semana-cultural-a-harmonia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Universidade de Coimbra dedica XXIX Semana Cultural à harmonia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3054804/universidade-de-coimbra-dedica-xxix-semana-cultural-a-harmonia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789993699000,
-         "created": 1789993699000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_64364cccaf2a8.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNTh9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/3054801/governo-torna-permanente-apoio-as-artes-e-oficios-tradicionais-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo torna permanente apoio às artes e ofícios tradicionais do PRR",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/cultura/3054801/governo-torna-permanente-apoio-as-artes-e-oficios-tradicionais-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789993539000,
-         "created": 1789993539000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab1139ebefa6.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNDAsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3054795/governo-concluiu-classificacao-da-zona-especial-de-conservacao-do-estuario-do-sado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo concluiu classificação da Zona Especial de Conservação no Sado",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3054795/governo-concluiu-classificacao-da-zona-especial-de-conservacao-do-estuario-do-sado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789993384000,
-         "created": 1789993384000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_58b0c574c0259.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzY1LCJjcm9wSGVpZ2h0Ijo5OTMsImNyb3BYIjoyMTUsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3054800/montenegro-considera-que-governo-e-presidente-partilham-a-mesma-visao-na-educacao-caudio-e-cvideo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Montenegro acredita que partilha com Presidente a mesma visão na Educação",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3054800/montenegro-considera-que-governo-e-presidente-partilham-a-mesma-visao-na-educacao-caudio-e-cvideo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789993305000,
-         "created": 1789993305000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab113dbb81d4.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTMxLCJjcm9wSGVpZ2h0IjoxNDI0LCJjcm9wWCI6OSwiY3JvcFkiOjE1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjoyOTEsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
