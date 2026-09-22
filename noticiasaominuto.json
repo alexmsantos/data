@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3055444/obitojorge-palma-musico-recordado-por-tantas-e-tao-boas-cancoes-e-sentido-de-liberdade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Um manguito à tua morte\": Museus e artistas despedem-se de Jorge Palma",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3055444/obitojorge-palma-musico-recordado-por-tantas-e-tao-boas-cancoes-e-sentido-de-liberdade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790096029000,
+         "created": 1790096029000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_60af8646f0bc9.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3055438/violencia-domestica-procurador-propoe-nova-diligencia-obrigatoria-para-esclarecer-vitimas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Violência doméstica: Procurador alerta para suspensões indevidas",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_584fb1064cfb0.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozMjAyLCJjcm9wSGVpZ2h0IjoxODAxLCJjcm9wWCI6LTEsImNyb3BZIjoyMTN9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3054714/australia-nomeia-nova-embaixadora-para-timor-leste#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Austrália nomeia nova embaixadora para Timor-Leste",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3054714/australia-nomeia-nova-embaixadora-para-timor-leste#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789986656000,
-         "created": 1789986656000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_587f88ba1c213.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ5LCJjcm9wSGVpZ2h0IjoxMTUzLCJjcm9wWCI6LTEsImNyb3BZIjoxMDl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NSwiY3JvcFgiOjIwMSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
