@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3055768/moldova-declara-estado-de-emergencia-para-energia-e-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Moldova declara estado de emergência para energia e água devido a preços",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3055768/moldova-declara-estado-de-emergencia-para-energia-e-agua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790115890000,
+         "created": 1790115890000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6400c82cb6edc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3055762/maioria-dos-trabalhadores-da-fabrica-pontual-que-fechou-em-gaia-com-acompanhamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Pontual: Maioria de operários da fábrica que fechou acompanhada pelo IEFP",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab1441c80c1e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3054911/alzheimer-quais-podem-ser-os-sinais-de-alerta-quando-procurar-ajuda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alzheimer: Quais podem ser os sinais de alerta? Quando procurar ajuda?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3054911/alzheimer-quais-podem-ser-os-sinais-de-alerta-quando-procurar-ajuda#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790005806000,
-         "created": 1790005806000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68cd68c900e70.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTA0LCJjcm9wSGVpZ2h0IjoxNDA4LCJjcm9wWCI6LTEsImNyb3BZIjoyNDd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjkxNywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
