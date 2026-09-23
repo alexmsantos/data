@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3056010/supostos-terroristas-matam-e-sequestram-civis-em-muidumbe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Supostos terroristas matam e sequestram civis em Muidumbe",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3056010/supostos-terroristas-matam-e-sequestram-civis-em-muidumbe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790168305000,
+         "created": 1790168305000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab3b6d64d12d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3056004/torreense-bate-fc-kharkiv-e-continua-a-surpreender-na-europa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Torreense bate FC Kharkiv e continua a surpreender na Europa",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab12f4207273.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3054862/numero-de-casais-desempregados-com-recuo-homologo-de-11-em-agosto-iefp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Número de casais desempregados com recuo homólogo de 11% em agosto",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3054862/numero-de-casais-desempregados-com-recuo-homologo-de-11-em-agosto-iefp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1789999626000,
-         "created": 1789999626000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab12bfebae89.webp",
                "type": "image/jpeg",
                "length": "0"
             }
