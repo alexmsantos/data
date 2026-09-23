@@ -14,8 +14,25 @@
          "published": 1790151508000,
          "created": 1790151508000,
          "category": "Opinião",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-18-manuel-cardoso_peqrgb.png-5bda9d22-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-05-18-manuel-cardoso_peqrgb.png-5bda9d22-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-05-18-manuel-cardoso_peqrgb.png-5bda9d22-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "a7aba579-325c-4ad7-ae2d-8d8382023ac1",
