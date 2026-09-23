@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3055979/camane-pedro-moutinho-raquel-tavares-e-diogo-rocha-no-festival-amalia-no-fundao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Camané, Raquel Tavares e Diogo Rocha no Festival Amália no Fundão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3055979/camane-pedro-moutinho-raquel-tavares-e-diogo-rocha-no-festival-amalia-no-fundao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790164068000,
+         "created": 1790164068000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_57f09e87bfd50.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3055974/renault-leva-quatro-prototipos-e-seis-novos-modelos-ao-salao-de-paris#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Renault leva quatro protótipos e seis novos modelos ao Salão de Paris",
@@ -145,7 +166,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_65b89d24b3fa1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjo2NH19",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_65b89d24b3fa1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjo2NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYxLCJjcm9wSGVpZ2h0IjoxNzA4LCJjcm9wWCI6MTE2OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab1b3fa51484.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjM4LCJjcm9wSGVpZ2h0Ijo5MjIsImNyb3BYIjowLCJjcm9wWSI6NzF9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3055145/pingo-doce-agradece-a-stella-autora-de-o-que-tem-no-carro-obrigado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Pingo Doce agradece a Stella, autora de \"O que tem no carro?\": \"Obrigado\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3055145/pingo-doce-agradece-a-stella-autora-de-o-que-tem-no-carro-obrigado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790033979000,
-         "created": 1790033979000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab1afc8923bb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0NzEsImNyb3BIZWlnaHQiOjI2NSwiY3JvcFgiOjEwNywiY3JvcFkiOjY2fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjoyOTIsImNyb3BIZWlnaHQiOjUxOSwiY3JvcFgiOjE4NiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
