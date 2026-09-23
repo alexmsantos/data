@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3056083/disseram-que-a-skoda-e-a-nova-porsche-no-grupo-volkswagen-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Disseram que \"a Skoda é a nova Porsche\" no Grupo Volkswagen. Porquê?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3056083/disseram-que-a-skoda-e-a-nova-porsche-no-grupo-volkswagen-porque#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790193823000,
+         "created": 1790193823000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab3cee2cb077.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3056336/taca-de-portugal-programa-da-terceira-eliminatoria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Festa da Taça. Eis o sorteio da terceira eliminatória (com ausentes)",
@@ -14678,27 +14699,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5723286f04b38.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjcxNywiY3JvcEhlaWdodCI6MTI3NSwiY3JvcFgiOjUxMywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3055102/humorista-servio-acusa-empresarios-portugueses-de-censura-com-fado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Humorista sérvio acusa empresários portugueses de censura… com fado",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3055102/humorista-servio-acusa-empresarios-portugueses-de-censura-com-fado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790024238000,
-         "created": 1790024238000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab1850855a8c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjMzNiwiY3JvcEhlaWdodCI6NTk3LCJjcm9wWCI6NTA0LCJjcm9wWSI6MH0sImxhbmRzY2FwZSI6eyJjcm9wV2lkdGgiOjEwNjEsImNyb3BIZWlnaHQiOjU5NywiY3JvcFgiOjEzMSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
