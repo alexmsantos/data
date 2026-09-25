@@ -6,11 +6,43 @@
    "category": [],
    "items": [
       {
+         "id": "410a8df2-3ce1-4169-b2a4-298e4ae9fc5d",
+         "title": "Agora sim, o outono está a chegar: próxima semana terá chuva e tempo mais fresco",
+         "description": "<p><span>Quase todos os distritos vão contar com chuva, pelo menos, até quarta-feira.</span><span> Faro será a exceção, com as temperaturas máximas a rondarem os 27ºC e sem previsão de precipitação.</span></p>",
+         "link": "https://sicnoticias.pt/meteorologia/2026-09-25-proxima-semana-contara-com-chuva-e-descida-das-temperaturas-em-quase-todo-o-pais-548a6e04",
+         "author": "SIC Notícias",
+         "published": 1790351587000,
+         "created": 1790351587000,
+         "category": "Meteorologia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-09-23-outono-chuva-730d2681/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2024-09-23-outono-chuva-730d2681/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2024-09-23-outono-chuva-730d2681/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "e9818d81-3287-4d2e-8161-f61ea9cb1e27",
          "title": "Encontrado corpo de pescador desaparecido no mar nos Açores",
          "description": "<p><span>O corpo de um homem, que tudo indica ser do homem de 51 anos, que desapareceu na manhã de 23 de setembro, após alegadamente ter caído da embarcação de pesca onde seguia.</span></p>",
          "link": "https://sicnoticias.pt/pais/2026-09-25-encontrado-corpo-de-pescador-que-tera-caido-ao-mar-em-ribeira-grande-nos-acores-a7ee001b",
-         "author": "SIC Notícias",
+         "author": [
+            "Ana Lemos",
+            "SIC Notícias"
+         ],
          "published": 1790351042000,
          "created": 1790351042000,
          "category": "País",
@@ -266,35 +298,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-07-09-bc---16x9.jpg-32a8e03c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "a95d9ad0-deb3-4c86-8b52-6afe62ea1d3b",
-         "title": "Comissão de inquérito aos exames nacionais vai ser presidida pelo PSD",
-         "description": "<p><span>O social-democrata foi o escolhido para liderar a comissão parlamentar de inquérito aos exames nacionais. A criação da comissão foi proposta pelo Bloco de Esquerda</span><span> com o objetivo de esclarecer os problemas com a classificação digital e terá a duração de 90 dias.</span></p>",
-         "link": "https://sicnoticias.pt/pais/educacao/2026-09-25-emidio-guerreiro-vai-presidir-a-comissao-de-inquerito-aos-exames-nacionais-fbcb664c",
-         "author": "SIC Notícias",
-         "published": 1790337481000,
-         "created": 1790337481000,
-         "category": "Educação",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2021-05-04-Emidio-Guerreiro.JPG-a0547896/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2021-05-04-Emidio-Guerreiro.JPG-a0547896/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2021-05-04-Emidio-Guerreiro.JPG-a0547896/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
