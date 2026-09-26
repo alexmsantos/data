@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3057734/acao-fecha-estabelecimento-em-sintra-produtos-alimentares-apreendidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ação fecha estabelecimento em Sintra. Produtos alimentares apreendidos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3057734/acao-fecha-estabelecimento-em-sintra-produtos-alimentares-apreendidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790417817000,
+         "created": 1790417817000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab7898959415.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc4OCwiY3JvcEhlaWdodCI6MTQwMiwiY3JvcFgiOjIxMSwiY3JvcFkiOjM0fX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3057722/associacao-pioneira-portuguesa-no-canada-celebra-70-anos-e-ambiciona-casa-propria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Associação pioneira portuguesa no Canadá celebra 70 anos",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67d6920159fdc.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67d6920159fdc.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjcyMCwiY3JvcEhlaWdodCI6MTI4MCwiY3JvcFgiOjczMiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -498,7 +519,7 @@
          },
          "published": 1790408386000,
          "created": 1790408386000,
-         "category": "Mundo",
+         "category": "País",
          "content": "",
          "enclosures": [
             {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab55f4a8c8ee.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYxLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjI4fX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3056859/iemen-onu-apela-para-dialogo-e-alerta-que-populacao-nao-suporta-outro-conflito-em-grande-escala#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ONU alerta: Iémen \"não consegue suportar outro conflito em grande escala\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3056859/iemen-onu-apela-para-dialogo-e-alerta-que-populacao-nao-suporta-outro-conflito-em-grande-escala#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790274880000,
-         "created": 1790274880000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_65a0e18d38e35.webp",
                "type": "image/jpeg",
                "length": "0"
             }
