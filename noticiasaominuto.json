@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3057674/liga-nacoes-selecao-portuguesa-treina-em-oslo-antes-do-duelo-com-a-noruega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Seleção portuguesa treina em Oslo antes do duelo com a Noruega",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3057674/liga-nacoes-selecao-portuguesa-treina-em-oslo-antes-do-duelo-com-a-noruega#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790401072000,
+         "created": 1790401072000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab412d1df815.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6OTd9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3057626/trump-diz-que-vai-ver-xi-em-novembro-na-apec-e-em-dezembro-no-g20#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Trump diz que vai ver Xi em novembro na APEC e em dezembro no G20",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5b6adbe23757e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3056695/comissao-eleitoral-de-israel-excluiu-todos-os-partidos-arabes-das-eleicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Comissão eleitoral israelita exclui todos os partidos árabes das eleições",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3056695/comissao-eleitoral-de-israel-excluiu-todos-os-partidos-arabes-das-eleicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790263576000,
-         "created": 1790263576000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6360c1548a32b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
