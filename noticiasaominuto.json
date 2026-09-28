@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3058575/perdeu-titulo-para-vasco-vilaca-e-atira-as-vezes-e-preciso-ser-cao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Perdeu título para Vasco Vilaça e atira: \"Às vezes é preciso ser cão\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3058575/perdeu-titulo-para-vasco-vilaca-e-atira-as-vezes-e-preciso-ser-cao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790622163000,
+         "created": 1790622163000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abaabb4dc5e2.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3058528/caso-gemeas-da-acusacao-aos-arguidos-e-as-reacoes-tudo-o-que-foi-dito#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Caso gémeas: Da acusação, aos arguidos… e as reações. Tudo o que foi dito",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab7ed664daa8.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3057818/trabalhador-morre-soterrado-no-recinto-da-extinta-feira-popular-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Trabalhador morre soterrado no recinto da extinta Feira Popular em Lisboa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3057818/trabalhador-morre-soterrado-no-recinto-da-extinta-feira-popular-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790441921000,
-         "created": 1790441921000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_66d01426600bd.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTU4LCJjcm9wSGVpZ2h0IjoxNDM5LCJjcm9wWCI6MiwiY3JvcFkiOjEzNH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTEyLCJjcm9wSGVpZ2h0IjoxNjIyLCJjcm9wWCI6MTY0OCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
