@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3058475/o-estado-de-espirito-de-cristiano-ronaldo-na-chegada-da-selecao-a-malmo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O estado de espírito de Cristiano Ronaldo na chegada da seleção a Malmo",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3058475/o-estado-de-espirito-de-cristiano-ronaldo-na-chegada-da-selecao-a-malmo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790612760000,
+         "created": 1790612760000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aba85ce68184.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3058438/escocesa-vive-pesadelo-apos-sofrer-avc-durante-escapadinha-a-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Escocesa vive \"pesadelo\" após sofrer AVC durante \"escapadinha a Portugal\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab7acadf0b73.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMDgwLCJjcm9wSGVpZ2h0Ijo2MDgsImNyb3BYIjowLCJjcm9wWSI6ODN9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3057753/dois-turistas-norte-americanos-encontrados-mortos-nos-escombros-de-explosao-em-atenas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Atenas: 2 norte-americanos encontrados mortos nos escombros de explosão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3057753/dois-turistas-norte-americanos-encontrados-mortos-nos-escombros-de-explosao-em-atenas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790425420000,
-         "created": 1790425420000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab6241e40874.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoyNjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
