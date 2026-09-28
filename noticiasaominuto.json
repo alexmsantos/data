@@ -1,13 +1,34 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/pais/3058435/passos-coelho-defende-mais-agilidade-nas-decisoes-do-estado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Passos Coelho defende mais \"agilidade\" nas decisões do Estado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3058435/passos-coelho-defende-mais-agilidade-nas-decisoes-do-estado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790608526000,
+         "created": 1790608526000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa4401b79879.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/pais/3058426/leilao-de-ilha-privada-na-ria-de-aveiro-terminou-sem-que-fosse-atingido-valor-base#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Leilão de ilha privada na ria de Aveiro acaba. Não se atinge valor base",
+         "title": "Leilão de ilha privada na ria de Aveiro acaba: Não atingiu valor base",
          "description": "",
          "link": "https://www.noticiasaominuto.com/pais/3058426/leilao-de-ilha-privada-na-ria-de-aveiro-terminou-sem-que-fosse-atingido-valor-base#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_563945ec0912b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjE0MjcsImNyb3BIZWlnaHQiOjI1MzcsImNyb3BYIjo3NTYsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3057321/do-imposto-do-carro-ao-pingo-doce-as-noticias-preferidas-da-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Do imposto do carro ao Pingo Doce: As notícias preferidas da semana",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3057321/do-imposto-do-carro-ao-pingo-doce-as-noticias-preferidas-da-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790418672000,
-         "created": 1790418672000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab66f46d60ae.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2MywiY3JvcEhlaWdodCI6MTM1NywiY3JvcFgiOjM5MCwiY3JvcFkiOjI4NX0sInN0YW1wIjp7ImNhdGVnb3J5IjoiZWNvbm9taWEiLCJsYWJlbCI6InByZWZlcmlkYXNfZGFfc2VtYW5hIiwiY29sb3IiOiJwcmV0byIsInBvc2l0aW9uIjoiY2VudGVyLXJpZ2h0In19",
                "type": "image/jpeg",
                "length": "0"
             }
