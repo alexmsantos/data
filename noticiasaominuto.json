@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3059120/mp-acusa-13-arguidos-por-fraude-com-fundos-europeus-de-valor-superior-a-16-me#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "MP acusa 13 arguidos por fraude com fundos europeus: 16 milhões de lucro",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3059120/mp-acusa-13-arguidos-por-fraude-com-fundos-europeus-de-valor-superior-a-16-me#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790703086000,
+         "created": 1790703086000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5b9a3247a5a4f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3059136/prr-portugal-submete-o-ultimo-pedido-de-pagamento-no-valor-de-4672-me#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Portugal submete último pedido de pagamento no valor de 4.672 milhões",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab14c33bc6d6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3058315/medio-oriente-governo-palestiniano-pede-protecao-para-diplomatas-em-ramallah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": " Governo palestiniano pede proteção para diplomatas em Ramallah",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3058315/medio-oriente-governo-palestiniano-pede-protecao-para-diplomatas-em-ramallah#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790596831000,
-         "created": 1790596831000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68adef6496884.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNTV9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
