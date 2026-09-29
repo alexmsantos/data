@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3059094/ministros-espanhois-apelam-a-pressao-popular-para-parlamento-validar-medidas-da-habitacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ministros espanhóis apelam a pressão popular para validar medidas da habitação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3059094/ministros-espanhois-apelam-a-pressao-popular-para-parlamento-validar-medidas-da-habitacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790699288000,
+         "created": 1790699288000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_655b27ada9b66.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3059090/ivg-realizadas-por-estrangeiras-refletem-padrao-demografico-da-imigracao-ministra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "IVG realizadas por estrangeiras refletem padrão demográfico da imigração",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aba390aa3c46.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3058283/samsung-tem-dois-novos-tablets-a-caminho-veja-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Samsung tem dois novos tablets a caminho. Veja as imagens",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3058283/samsung-tem-dois-novos-tablets-a-caminho-veja-as-imagens#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790593238000,
-         "created": 1790593238000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_60e3150665f13.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6OSwiY3JvcFkiOjI2Mn0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTM5LCJjcm9wSGVpZ2h0IjoxNjcwLCJjcm9wWCI6MTU0LCJjcm9wWSI6MTh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
