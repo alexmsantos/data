@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3059508/gnr-participa-em-operacao-internacional-contra-fraude-ao-iva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "GNR participa em operação internacional contra fraude ao IVA",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3059508/gnr-participa-em-operacao-internacional-contra-fraude-ao-iva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790769457000,
+         "created": 1790769457000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_624d3414673e5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoxNzR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3059505/numero-de-dormidas-turisticas-baixa-ha-11-meses-consecutivos-nos-acores#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Número de dormidas turísticas baixa há 11 meses consecutivos nos Açores",
@@ -1153,7 +1174,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abcc98074a7c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo3MjUsImNyb3BIZWlnaHQiOjQwOCwiY3JvcFgiOjAsImNyb3BZIjoyNjV9fQ==",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abcea4554feb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyN319",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6abb5580d4237.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MTg1LCJjcm9wWSI6NDJ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3058708/china-preve-concluir-novo-mapa-geologico-de-marte-ate-final-de-2028#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "China prevê concluir novo mapa geológico de Marte até final de 2028",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3058708/china-preve-concluir-novo-mapa-geologico-de-marte-ate-final-de-2028#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790667170000,
-         "created": 1790667170000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6968cf17deb51.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTE5LCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6MjQsImNyb3BZIjoxM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6Nzk1LCJjcm9wSGVpZ2h0IjoxNDEzLCJjcm9wWCI6MTE2NCwiY3JvcFkiOjE2fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
