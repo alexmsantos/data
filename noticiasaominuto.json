@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3060214/fiat-multiplay-concept-car-pode-criar-uma-categoria-inteiramente-nova#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "FIAT Multiplay. Concept car pode \"criar uma categoria totalmente nova\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3060214/fiat-multiplay-concept-car-pode-criar-uma-categoria-inteiramente-nova#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790858588000,
+         "created": 1790858588000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abe4638c7227.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3060215/carlos-cabreiro-defende-ter-condicoes-para-continuar-a-dirigir-pj#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Carlos Cabreiro defende ter condições para continuar a dirigir PJ",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6abca796e034f.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3059375/por-ca-azia-de-cr7-causa-mal-estar-e-extremo-a-vista-no-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Por cá: Azia de CR7 causa mal-estar e extremo à vista no Sporting",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3059375/por-ca-azia-de-cr7-causa-mal-estar-e-extremo-a-vista-no-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790753885000,
-         "created": 1790753885000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abca0782db53.webp",
                "type": "image/jpeg",
                "length": "0"
             }
