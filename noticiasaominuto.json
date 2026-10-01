@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Política",
+   "title": "Notícias ao Minuto - Fama",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3060330/atriz-e-cantora-lirica-helena-afonso-morre-aos-78-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Atriz e cantora lírica Helena Afonso morre aos 78 anos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3060330/atriz-e-cantora-lirica-helena-afonso-morre-aos-78-anos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790870287000,
+         "created": 1790870287000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abe74b66b5e3.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3060348/chega-marca-para-31-de-outubro-eleicoes-diretas-para-a-lideranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Chega marca para 31 de outubro eleições diretas para a liderança",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_63ff298f9e4e5.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3052907/vestidos-de-manga-comprida-perfeitos-para-o-outono-a-partir-de-14#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Vestidos de manga comprida perfeitos para o outono (a partir de 14€)",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3052907/vestidos-de-manga-comprida-perfeitos-para-o-outono-a-partir-de-14#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790766665000,
-         "created": 1790766665000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aabb29984d7c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNjAwLCJjcm9wSGVpZ2h0Ijo5MDAsImNyb3BYIjotMSwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ3MiwiY3JvcEhlaWdodCI6ODM5LCJjcm9wWCI6MTEyNSwiY3JvcFkiOjR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
