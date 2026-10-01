@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3060501/grecia-centra-presidencia-do-conselho-de-seguranca-da-onu-na-ia-e-nas-criancas-afetadas-por-conflitos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Grécia centra presidência do Conselho de Segurança na IA e crianças",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3060501/grecia-centra-presidencia-do-conselho-de-seguranca-da-onu-na-ia-e-nas-criancas-afetadas-por-conflitos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1790891351000,
+         "created": 1790891351000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abec7243917d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDgyLCJjcm9wSGVpZ2h0IjoxMzk2LCJjcm9wWCI6MzksImNyb3BZIjoxOTV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNiwiY3JvcFgiOjc0NywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3060335/em-direto-portugal-entra-em-campo-na-dinamarca-no-meio-do-furacao-cr7#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Portugal reage à 'crise Ronaldo' com vitória de coroa na Dinamarca",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a15829fd14f5.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3059643/negocio-fechado-vasco-seabra-deixa-arouca-e-ruma-ao-rio-ave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Negócio fechado. Vasco Seabra deixa Arouca e ruma ao Rio Ave",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3059643/negocio-fechado-vasco-seabra-deixa-arouca-e-ruma-ao-rio-ave#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1790783273000,
-         "created": 1790783273000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aaef9b148a33.webp",
                "type": "image/jpeg",
                "length": "0"
             }
