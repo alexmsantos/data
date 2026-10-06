@@ -6,6 +6,79 @@
    "category": [],
    "items": [
       {
+         "id": "3b4919ff-4dcb-4083-a689-d38f380dbb82",
+         "title": "Uma entrevista em cada esquina",
+         "description": "<p>Nos grandes congressos internacionais, a sala de conferências é um lugar seguro. O perigo está no <i>foyer</i>, onde, entre canapés e cafés, todos nos perguntam o mesmo: «A tua investigação é sobre o quê?» Um ritual de <i>speed interview </i>que prefiro trocar, sem hesitar, pela torre de marfim</p>",
+         "link": "https://expresso.pt/opiniao/2026-10-06-uma-entrevista-em-cada-esquina-749da747",
+         "author": "Jorge Botelho Moniz",
+         "published": 1791265571000,
+         "created": 1791265571000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "dad06a3a-53e7-4958-af45-8afba3b152d5",
+         "title": "Seremos governados pelo algoritmo? Quem escolhe aquilo em que acreditamos: nós ou ‘ele’? Adolfo Mesquita Nunes responde a Daniel Oliveira",
+         "description": "<p>As redes sociais e a inteligência artificial estão a mudar a forma como recebemos informação, formamos opiniões e participamos na democracia. Adolfo Mesquita Nunes regressa ao Perguntar Não Ofende para analisar com Daniel Oliveira o poder dos algoritmos, a polarização política e os riscos de entregar à tecnologia decisões cada vez mais importantes</p>",
+         "link": "https://expresso.pt/podcasts/perguntar-nao-ofende/2026-10-06-seremos-governados-pelo-algoritmo--quem-escolhe-aquilo-em-que-acreditamos-nos-ou-ele--adolfo-mesquita-nunes-responde-a-daniel-oliveira-fae3b4f7",
+         "author": [
+            "Daniel Oliveira",
+            "João Martins"
+         ],
+         "published": 1791265500000,
+         "created": 1791265500000,
+         "category": "Perguntar Não Ofende",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-05-20260929_15_pno-adolfo-mesquita-nunes_jff.jpg-d7b8670d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-05-20260929_15_pno-adolfo-mesquita-nunes_jff.jpg-d7b8670d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-05-20260929_15_pno-adolfo-mesquita-nunes_jff.jpg-d7b8670d/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "4b81f9fe-dbc2-4b71-9cf2-7158536f5a84",
+         "title": "“O mundo deve aceitar algumas coisas negativas em troca dos benefícios da IA”, diz Sam Altman, CEO da OpenAI",
+         "description": "<p><span>Apesar da aproximação recente entre a OpenAI e a Anthropic nas questões de segurança e regulação da inteligência artificial, Sam Altman afirmou, numa entrevista ao \"Politico\", que continuam a existir \"diferenças significativas\" entre as duas empresas</span></p>",
+         "link": "https://expresso.pt/ia-inteligencia-artificial/2026-10-06-o-mundo-deve-aceitar-algumas-coisas-negativas-em-troca-dos-beneficios-da-ia-diz-sam-altman-ceo-da-openai-23e527f0",
+         "author": "Helena Bento",
+         "published": 1791265500000,
+         "created": 1791265500000,
+         "category": "Inteligência Artificial",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-05-sam-altman-openai-3528bfe5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-05-sam-altman-openai-3528bfe5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-05-sam-altman-openai-3528bfe5/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "823f36f0-7169-47d7-a6a6-11057ccebdf3",
          "title": "Compromisso sobre o quê?",
          "description": "<p>Um apelo ao entendimento que não diz sobre o quê é a versão mais acabada daquilo que Ventura descreve, um acordo entre os dois grandes cujo único conteúdo verificável é o facto de existir</p>",
@@ -189,93 +262,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2023-12-02-Metsola-e-Montenegro-f75168ba/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "60f1a348-8a83-4e66-be8d-371bb13a6b2a",
-         "title": "Mulheres vivem com mais dor em todo o corpo do que os homens",
-         "description": "<p><span>Estudo publicado na \"</span><span>Nature Medicine\" </span><span>analisou dados de 6,1 milhões de pessoas em 118 países </span><span>concluiu que as mulheres relatam mais dor do que os homens em todas as partes do corpo analisadas. Os resultados sugerem ainda que, ao contrário do que muitas vezes se pensa, uma grande parte da carga de dor se acumula antes da meia-idade</span></p>",
-         "link": "https://expresso.pt/sociedade/2026-10-05-mulheres-vivem-com-mais-dor-em-todo-o-corpo-do-que-os-homens-conclusoes-sao-de-um-novo-estudo-global-5f872d4b",
-         "author": "Helena Bento",
-         "published": 1791231416000,
-         "created": 1791231416000,
-         "category": "Sociedade",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-05-dor-nas-mulheres.jpg-9acd02d6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-05-dor-nas-mulheres.jpg-9acd02d6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-10-05-dor-nas-mulheres.jpg-9acd02d6-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "e90ce53c-d6bc-4409-9516-ae04ad9f2712",
-         "title": "Oshpitzin, a cidade antes de Auschwitz",
-         "description": "<p>Antes de a Alemanha nazi lhe impor o nome Auschwitz, mais de metade da população de Oświęcim era judia. Hoje, a cidade tem 35 mil habitantes e já não tem comunidade judaica. Quase dois milhões de pessoas visitam todos os anos o antigo campo, nos arredores, e poucas chegam ao centro</p>",
-         "link": "https://expresso.pt/polonia/2026-10-05-oshpitzin-a-cidade-antes-de-auschwitz-6583bc73",
-         "author": "Hélder Gomes",
-         "published": 1791230124000,
-         "created": 1791230124000,
-         "category": "Polónia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-05-gettyimages-2276681874.jpg-5544f9ce/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-05-gettyimages-2276681874.jpg-5544f9ce/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-10-05-gettyimages-2276681874.jpg-5544f9ce/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "2625717d-cb9d-4b75-92b8-53c295ab8071",
-         "title": "O que revela a \"teoria da vitória”? Comandante supremo da NATO vai apresentar a melhor forma de derrotar a Rússia em caso de ataque",
-         "description": "<p><span>O responsável máximo pelo planeamento e pela execução de todas as operações militares da NATO irá detalhar as suas ideias numa conferência de segurança a realizar em Varsóvia na próxima segunda-feira</span></p>",
-         "link": "https://expresso.pt/geopolitica/2026-10-05-o-que-revela-a-teoria-da-vitoria--comandante-supremo-da-nato-vai-apresentar-a-melhor-forma-de-derrotar-a-russia-em-caso-de-ataque-04c58743",
-         "author": "Agência Lusa",
-         "published": 1791228310000,
-         "created": 1791228310000,
-         "category": "Geopolítica",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-25-nato.jpg-1809bbc7-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-25-nato.jpg-1809bbc7-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-09-25-nato.jpg-1809bbc7-1/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
