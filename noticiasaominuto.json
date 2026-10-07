@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3063011/dados-de-alojamento-local-devem-ser-partilhados-entre-ine-e-at-diz-ana-mendes-godinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Mendes Godinho defende partilha de dados de AL entre INE e AT",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3063011/dados-de-alojamento-local-devem-ser-partilhados-entre-ine-e-at-diz-ana-mendes-godinho#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791396117000,
+         "created": 1791396117000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5e96f7d1c2c24.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3063013/ministra-da-justica-admite-pequenas-obras-na-cadeia-de-ponta-delgada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ministra da Justiça admite \"pequenas obras\" na cadeia de Ponta Delgada",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_640ed9d25838a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3062167/sete-jovens-acusados-de-agredir-homem-na-estacao-ferroviaria-de-paredes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sete jovens acusados de agredir homem na estação ferroviária de Paredes",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3062167/sete-jovens-acusados-de-agredir-homem-na-estacao-ferroviaria-de-paredes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791286744000,
-         "created": 1791286744000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_66379190e427d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMzh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1NywiY3JvcEhlaWdodCI6MTcwMiwiY3JvcFgiOjMxNSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
