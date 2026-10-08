@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3063198/festival-literario-folio-comeca-em-obidos-com-450-autores-e-300-iniciativas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Festival Literário Folio 2026: 450 autores e 300 iniciativas em Óbidos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3063198/festival-literario-folio-comeca-em-obidos-com-450-autores-e-300-iniciativas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791440922000,
+         "created": 1791440922000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_651e99058f6d2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTIwLCJjcm9wSGVpZ2h0IjoxNDE3LCJjcm9wWCI6MjAsImNyb3BZIjoxMDl9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3063188/china-apela-ao-dialogo-com-ue-e-alerta-contra-protecionismo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "China apela ao diálogo com UE e alerta contra protecionismo",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac50bb3f3c4e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY0LCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjEsImNyb3BIZWlnaHQiOjE3MDgsImNyb3BYIjo3MywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3062330/autores-veteranos-encabecam-listas-de-apostas-ao-nobel-da-literatura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Autores veteranos encabeçam listas de apostas ao Nobel da Literatura",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3062330/autores-veteranos-encabecam-listas-de-apostas-ao-nobel-da-literatura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791302169000,
-         "created": 1791302169000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69697e1c971d5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjo3Mzl9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
