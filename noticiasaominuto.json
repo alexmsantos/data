@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3063610/ue-reune-se-para-discutir-custo-de-vida-e-orcamento-comunitario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "UE reúne-se para discutir custo de vida e orçamento comunitário",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3063610/ue-reune-se-para-discutir-custo-de-vida-e-orcamento-comunitario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791478472000,
+         "created": 1791478472000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_56571b4fb1fca.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3063600/medio-oriente-colombia-vai-transferir-embaixada-em-israel-para-jerusalem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Colômbia vai transferir embaixada em Israel para Jerusalém",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3063600/medio-oriente-colombia-vai-transferir-embaixada-em-israel-para-jerusalem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791478379000,
+         "created": 1791478379000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac7bc5de93ea.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3063588/homem-detido-por-cultivar-droga-em-chaves-gnr-apreende-canabis-e-armas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Homem detido por cultivar droga em Chaves: GNR apreende canábis e armas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3063588/homem-detido-por-cultivar-droga-em-chaves-gnr-apreende-canabis-e-armas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791478294000,
+         "created": 1791478294000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac7b6095046e.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYxMiwiY3JvcEhlaWdodCI6MTA4OCwiY3JvcFgiOjU3OSwiY3JvcFkiOjExMn19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3063601/oe2027-verbas-para-ambiente-e-energia-diminuem-com-efeito-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OE2027: Verbas para Ambiente e Energia diminuem com efeito do PRR",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3063601/oe2027-verbas-para-ambiente-e-energia-diminuem-com-efeito-do-prr#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791478185000,
+         "created": 1791478185000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_57fe1a28cca88.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3063608/oe2027-verbas-para-ensino-superior-ciencia-e-inovacao-diminuem-7-6#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "OE2027: Verbas para Ensino Superior, Ciência e Inovação diminuem 7,6%",
@@ -10205,90 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68dd671d7983f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjI5NywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3062663/amigos-de-cristiano-ronaldo-voltam-a-atacar-jesus-sao-varias-traicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Amigos de Cristiano Ronaldo voltam a atacar Jesus: \"São várias traições\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3062663/amigos-de-cristiano-ronaldo-voltam-a-atacar-jesus-sao-varias-traicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791367822000,
-         "created": 1791367822000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac60c08ecf73.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDYsImNyb3BZIjoyMTZ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3062670/grupo-de-trabalho-propoe-mudancas-legais-para-proteger-centro-do-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Grupo de trabalho propõe mudanças legais para proteger centro do Porto",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3062670/grupo-de-trabalho-propoe-mudancas-legais-para-proteger-centro-do-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791367776000,
-         "created": 1791367776000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac60af0d0fba.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQzLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MTgsImNyb3BZIjo1Mn19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3062660/os-habitos-inofensivos-que-podem-estar-a-prejudicar-a-sua-visao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Os hábitos inofensivos que podem estar a prejudicar a sua visão",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3062660/os-habitos-inofensivos-que-podem-estar-a-prejudicar-a-sua-visao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791367640000,
-         "created": 1791367640000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac600c24307e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3062671/cfp-alerta-para-falta-de-informacao-sobre-desvios-na-execucao-orcamental#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "CFP alerta para falta de informação sobre desvios na execução orçamental",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3062671/cfp-alerta-para-falta-de-informacao-sobre-desvios-na-execucao-orcamental#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791367556000,
-         "created": 1791367556000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_64b0e147c8d0f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
