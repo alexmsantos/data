@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3063443/fenprof-apresenta-queixa-crime-contra-o-ministro-da-educacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Fenprof vai apresentar queixa-crime contra ministro da Educação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3063443/fenprof-apresenta-queixa-crime-contra-o-ministro-da-educacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791473065000,
+         "created": 1791473065000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_673381251be2f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3063510/oe2027-governo-eleva-previsao-de-crescimento-economico-para-2-3#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Governo eleva previsão de crescimento económico para 2,3%",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3063510/oe2027-governo-eleva-previsao-de-crescimento-economico-para-2-3#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791473049000,
+         "created": 1791473049000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a634c4adc90e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3063491/huthis-atacam-aeroporto-de-riade-e-alertam-trabalhadores-de-refinarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Huthis atacam aeroporto de Riade e alertam trabalhadores de refinarias",
@@ -10247,48 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac50ba0d3906.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3062601/por-ca-a-verdade-de-cr7-lukebakio-quer-mais-e-leoes-moralizados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Por cá: A verdade de CR7, Lukebakio quer mais e leões moralizados",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3062601/por-ca-a-verdade-de-cr7-lukebakio-quer-mais-e-leoes-moralizados#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791357958000,
-         "created": 1791357958000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac5de8451e46.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3062599/israel-macron-recorda-vitimas-do-07-de-outubro-e-reafirma-compromisso-com-a-paz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Macron recorda vítimas do 7 de outubro e reafirma compromisso com a paz",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3062599/israel-macron-recorda-vitimas-do-07-de-outubro-e-reafirma-compromisso-com-a-paz#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791357466000,
-         "created": 1791357466000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_696f37ac310f9.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDY0LCJjcm9wSGVpZ2h0IjoxMTYxLCJjcm9wWCI6NzcsImNyb3BZIjoyNTF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
