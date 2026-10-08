@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3063881/partidos-alemaes-unem-se-para-combater-antissemitismo-em-berlim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Partidos alemães unem-se para combater antissemitismo em Berlim",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3063881/partidos-alemaes-unem-se-para-combater-antissemitismo-em-berlim#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791501552000,
+         "created": 1791501552000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac816d04c430.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3063880/buscas-a-casa-do-ex-principe-andre-sao-declaradas-ilegais-pelo-tribunal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tribunal declara ilegais as buscas à casa do ex-príncipe André",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac3717781a00.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3062966/cristiano-ronaldo-exigiu-respeito-e-jorge-jesus-nao-lhe-deu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Cristiano Ronaldo exigiu respeito e Jorge Jesus não lhe deu\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3062966/cristiano-ronaldo-exigiu-respeito-e-jorge-jesus-nao-lhe-deu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791392253000,
-         "created": 1791392253000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abde905b8100.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjUzfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo3NjgsImNyb3BIZWlnaHQiOjEzNjYsImNyb3BYIjoxMTk1LCJjcm9wWSI6Nzh9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
