@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3063594/oe2027-verba-para-seguranca-interna-aumenta-9-3-para-3164-me#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OE2027: Segurança interna terá 3.164 milhões de euros, um aumento de 9,3%",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3063594/oe2027-verba-para-seguranca-interna-aumenta-9-3-para-3164-me#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791478631000,
+         "created": 1791478631000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_56b10a41740a9.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3063610/ue-reune-se-para-discutir-custo-de-vida-e-orcamento-comunitario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "UE reúne-se para discutir custo de vida e orçamento comunitário",
@@ -376,7 +397,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_634eb9a454853.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac7bc45eea7a.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -1825,7 +1846,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac79cdb28990.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQ5LCJjcm9wSGVpZ2h0IjoxNDM0LCJjcm9wWCI6MTEsImNyb3BZIjo3fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo2NDcsImNyb3BIZWlnaHQiOjExNTEsImNyb3BYIjo5NzMsImNyb3BZIjo1NTd9fQ==",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac7bb5ef21fd.webp",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_678a7f8eab10d.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3062677/tribunal-de-leiria-condena-a-prisao-homem-que-fazia-das-burlas-ola-pai-ola-mae-o-modo-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fazia das burlas \"Olá pai, olá mãe\" modo de vida. Foi condenado a 5 anos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3062677/tribunal-de-leiria-condena-a-prisao-homem-que-fazia-das-burlas-ola-pai-ola-mae-o-modo-de-vida#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791368088000,
-         "created": 1791368088000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_68dd671d7983f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoxNzR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjI5NywiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
