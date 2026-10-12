@@ -43,8 +43,25 @@
          "published": 1791828769000,
          "created": 1791828769000,
          "category": "Política",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2022-02-04-centro-de-supervisao-da-rede-siresp-fb0135ad/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2022-02-04-centro-de-supervisao-da-rede-siresp-fb0135ad/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2022-02-04-centro-de-supervisao-da-rede-siresp-fb0135ad/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "58505840-8993-4904-aedb-f7dd2e3d0279",
@@ -78,7 +95,7 @@
       {
          "id": "d2784756-0ebf-4c77-af2e-164c71723ab2",
          "title": "Secretário-geral demitido no MAI arrasa Luís Neves: “Nunca fui alvo de tantas pressões ilegítimas\"",
-         "description": "<p><span>Ricardo Carrilho diz que a sua demissão representa uma \"purga política cirúrgica\" e \"um atentado ao Estado de Direito\". Segundo garante, o que levou o ministro da Administração Interna a demiti-lo foi ter proposto a extinção da SIRESP SA. Fica a acusação: Neves recusou “desmantelar esquemas de favorecimento”</span></p>",
+         "description": "<p>Ricardo Carrilho diz que a sua demissão representa uma \"purga política cirúrgica\" e \"um atentado ao Estado de Direito\". Segundo garante, o que levou o ministro da Administração Interna a demiti-lo foi ter proposto a extinção da SIRESP SA. Fica a acusação: Neves recusou “desmantelar esquemas de favorecimento”</p>",
          "link": "https://expresso.pt/politica/2026-10-12-secretario-geral-demitido-no-mai-arrasa-luis-neves-nunca-fui-alvo-de-tantas-pressoes-ilegitimas-a94beeec",
          "author": "João Pedro Henriques",
          "published": 1791827551000,
