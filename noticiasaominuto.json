@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3066690/dois-autores-e-uma-associacao-portuguesa-candidatos-a-premio-sueco-alma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Dois autores e uma associação portuguesa candidatos a prémio sueco ALMA",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3066690/dois-autores-e-uma-associacao-portuguesa-candidatos-a-premio-sueco-alma#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1791983874000,
+         "created": 1791983874000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_67dc4c22b6362.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3066683/confrontos-entre-estudantes-e-policia-na-albania-deixam-20-feridos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Confrontos entre estudantes e polícia na Albânia deixam 20 feridos",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_643814c57e989.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3065955/fotografias-desfocadas-no-iphone-veja-como-melhorar-com-estas-dicas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Fotografias desfocadas no iPhone? Veja como melhorar com estas dicas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3065955/fotografias-desfocadas-no-iphone-veja-como-melhorar-com-estas-dicas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1791887395000,
-         "created": 1791887395000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6acdf9ca85733.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQzLCJjcm9wSGVpZ2h0IjoxNDMxLCJjcm9wWCI6OSwiY3JvcFkiOjEzOH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTQyLCJjcm9wSGVpZ2h0IjoxNjc1LCJjcm9wWCI6NjIxLCJjcm9wWSI6MTN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
