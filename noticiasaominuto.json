@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3068247/camara-do-porto-vota-consulta-publica-do-projeto-da-avenida-da-ponte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Câmara do Porto vota consulta pública do projeto da Avenida da Ponte",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3068247/camara-do-porto-vota-consulta-publica-do-projeto-da-avenida-da-ponte#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792190318000,
+         "created": 1792190318000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_683dc3bc8af64.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgxMCwiY3JvcEhlaWdodCI6MTQ0MCwiY3JvcFgiOjEyMDcsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3068356/ucrania-pais-vai-entregar-orgaos-para-transplante-por-drone#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Ucrânia lança projeto de entrega de órgãos para transplante por drone",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5f7c27e64fb2f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODgyLCJjcm9wSGVpZ2h0IjoxMDU5LCJjcm9wWCI6MjIsImNyb3BZIjoxNDh9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2NCwiY3JvcEhlaWdodCI6MTM1OCwiY3JvcFgiOjczNywiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3067641/habitacao-assembleia-popular-no-porto-avalia-mudar-de-local-permanecer-ou-acampar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Assembleia popular no Porto avalia mudar de local, permanecer ou acampar",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3067641/habitacao-assembleia-popular-no-porto-avalia-mudar-de-local-permanecer-ou-acampar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792094097000,
-         "created": 1792094097000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad121a45f4ad.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTQzLCJjcm9wSGVpZ2h0IjoxNDMwLCJjcm9wWCI6MCwiY3JvcFkiOjI3N319",
                "type": "image/jpeg",
                "length": "0"
             }
