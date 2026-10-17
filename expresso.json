@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "f680d236-a9e9-45fb-a43e-f6d8489e6d97",
+         "title": "Milhares de pessoas protestam \"contra o aumento do custo de vida\" no Porto em manifestação da CGTP",
+         "description": "<p>Manifestação nacional teve uma forte adesão no Porto, levando milhares de pessoas às ruas, enchendo a Rua de Santa Catarina</p>",
+         "link": "https://expresso.pt/sociedade/2026-10-17-milhares-de-pessoas-protestam-contra-o-aumento-do-custo-de-vida-no-porto-em-manifestacao-da-cgtp-6b652027",
+         "author": "Expresso",
+         "published": 1792240523000,
+         "created": 1792240523000,
+         "category": "Sociedade",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-17-porto-17be359b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-17-porto-17be359b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-17-porto-17be359b/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "7732e3f8-c187-4996-b948-660e16c81f40",
          "title": "França: dezenas de detidos em protestos e bloqueios em várias cidades",
          "description": "<p><span>As manifestações juntam reivindicações sobre o custo de vida, a habitação e os serviços públicos, incluindo as condições nas escolas. Foram mobilizados mais de 10 mil polícias</span></p>",
@@ -14,8 +43,25 @@
          "published": 1792238932000,
          "created": 1792238932000,
          "category": "Internacional",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-14-gettyimages-2299632624.jpg-dcdc0a76-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-14-gettyimages-2299632624.jpg-dcdc0a76-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-14-gettyimages-2299632624.jpg-dcdc0a76-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "8ab420fc-77c9-4a01-a185-c979c7e55613",
@@ -231,35 +277,6 @@
          "category": "Transportes",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "a7f1cf91-10fc-4c4a-81bb-79849637fc6d",
-         "title": "Habitação: Líder do PS \"compreende\" a indignação mas quer \"ordem pública\" nas ruas",
-         "description": "<p><span>José Luís Carneiro diz que é preciso “compatibilizar” o </span><span>\"o direito e a ordem pública com o direito à manifestação”. E começa a explicar o que propõe o seu partido para resolver o problema: nova política de solos, incentivos fiscais e mais construção pública</span></p>",
-         "link": "https://expresso.pt/politica/2026-10-17-habitacao-lider-do-ps-compreende-a-indignacao-mas-quer-ordem-publica-nas-ruas-8f2e9dce",
-         "author": "Agência Lusa",
-         "published": 1792225761000,
-         "created": 1792225761000,
-         "category": "Política",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-10-jose-luis-carneiro-9f16308a-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-09-10-jose-luis-carneiro-9f16308a-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-09-10-jose-luis-carneiro-9f16308a-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
