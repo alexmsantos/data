@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3068581/partidos-em-berlim-propoem-expropriar-160-mil-habitacoes-a-grandes-imobiliarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Partidos em Berlim propõem expropriar 160 mil habitações a grandes imobiliárias",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3068581/partidos-em-berlim-propoem-expropriar-160-mil-habitacoes-a-grandes-imobiliarias#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792264149000,
+         "created": 1792264149000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac816d04c430.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjU4NywiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3068580/venezuela-luso-venezuelanos-manifestam-se-na-madeira-para-exigir-marcacao-de-eleicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Luso venezuelanos manifestam-se na Madeira para exigir marcação de eleições",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69fc4c5c3ab25.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3067896/euribor-sobe-a-tres-e-a-seis-meses-e-desce-a-12-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Euribor sobe a três e a seis meses e desce a 12 meses",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3067896/euribor-sobe-a-tres-e-a-seis-meses-e-desce-a-12-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792146325000,
-         "created": 1792146325000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_698f0645875df.webp",
                "type": "image/jpeg",
                "length": "0"
             }
