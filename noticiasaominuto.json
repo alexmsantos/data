@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3069629/manifestantes-em-lisboa-desmobilizam-e-regressam-as-19h00-ao-rossio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Manifestantes em Lisboa desmobilizam e regressam às 19h00 ao Rossio",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3069629/manifestantes-em-lisboa-desmobilizam-e-regressam-as-19h00-ao-rossio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792487512000,
+         "created": 1792487512000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad721440a935.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3069622/como-tem-sido-os-dias-de-cristina-ferreira-apresentadora-revela-tudo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Como têm sido os dias de Cristina Ferreira? Apresentadora revela tudo",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad513df867b4.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3068845/benfica-goleia-em-dia-de-estreia-sporting-no-trono-e-fc-porto-desilude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Benfica goleia em dia de estreia, Sporting no trono e FC Porto desilude",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3068845/benfica-goleia-em-dia-de-estreia-sporting-no-trono-e-fc-porto-desilude#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792352623000,
-         "created": 1792352623000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad50e6845f4f.webp",
                "type": "image/jpeg",
                "length": "0"
             }
