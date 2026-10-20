@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "eac13f98-960c-4516-8352-89c873cb7382",
+         "title": "Macron, prazo expirado",
+         "description": "<p><span>A insurreição e a anarquia seguem de perto a queda dos impérios personalizados</span></p>",
+         "link": "https://expresso.pt/opiniao/2026-10-20-macron-prazo-expirado-76f305bc",
+         "author": "Clara Ferreira Alves",
+         "published": 1792477643000,
+         "created": 1792477643000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-11-05-clara-ferreira-alves.png-05456ba9-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "545406d7-1683-4582-aa0c-37fa13e43c45",
          "title": "Na América Latina, o medo tornou-se um princípio de planeamento urbanístico: as cidades estão cada vez mais fortificadas",
          "description": "<p>A perceção de insegurança está a contribuir para redesenhar as cidades latino-americanas. Bairros, casas, complexos empresariais ou centros comerciais fecham-se entre muros, grades, câmaras de vigilância e seguranças à porta, isolando quem os frequenta. Esta lógica de segregação leva os cidadãos a sentirem-se estrangeiros nas suas cidades. E dá às organizações criminosas uma oportunidade para se mostrarem úteis, cobrando por proteção contra o medo que ajudaram a criar</p>",
@@ -208,38 +237,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "01bd8504-fa28-4590-a1c2-21b2c8c960bb",
-         "title": "O mercado da habitação está péssimo. E o que é que mudou ou vai mudar na lei?",
-         "description": "<p>No Expresso da Manhã, Paulo Baldaia conversa com a jornalista Eunice Parreira sobre o Novo Regime de Arrendamento Urbano, que está para aprovação na Assembleia da República</p>",
-         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-10-20-o-mercado-da-habitacao-esta-pessimo.-e-o-que-e-que-mudou-ou-vai-mudar-na-lei--172bfd14",
-         "author": [
-            "Paulo Baldaia",
-            "Gustavo Carvalho"
-         ],
-         "published": 1792474200000,
-         "created": 1792474200000,
-         "category": "Expresso da Manhã",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
