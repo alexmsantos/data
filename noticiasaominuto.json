@@ -1,13 +1,97 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
       {
+         "id": "https://www.noticiasaominuto.com/mundo/3070522/apos-atropelamento-outra-deputada-na-australia-ameacada-suspeito-detido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Após atropelamento, outra deputada na Austrália ameaçada. Suspeito detido",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3070522/apos-atropelamento-outra-deputada-na-australia-ameacada-suspeito-detido#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792595570000,
+         "created": 1792595570000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_632df5618d014.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3070549/voz-baixa-no-whatsapp-eis-como-limpar-o-microfone-do-telemovel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Voz baixa no WhatsApp? Saiba como limpar o microfone do seu telemóvel",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3070549/voz-baixa-no-whatsapp-eis-como-limpar-o-microfone-do-telemovel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792595462000,
+         "created": 1792595462000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad8c7977f766.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNzc2LCJjcm9wSGVpZ2h0Ijo5OTksImNyb3BYIjo2NjIsImNyb3BZIjoyMjl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc2OCwiY3JvcEhlaWdodCI6MTM2NiwiY3JvcFgiOjEzNjAsImNyb3BZIjoyNH19",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3070544/psdmatosinhos-acusa-luisa-salgueiro-ps-de-esquecer-seguranca-na-cidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PSD/Matosinhos acusa Luísa Salgueiro de esquecer segurança na cidade",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3070544/psdmatosinhos-acusa-luisa-salgueiro-ps-de-esquecer-seguranca-na-cidade#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792595454000,
+         "created": 1792595454000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_59ccfb5e60bb8.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3070529/menor-atira-pedra-e-acerta-em-vidro-de-carro-condutor-esta-em-uci#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Menor atira pedra e acerta em vidro de carro. Condutor está na UCI",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3070529/menor-atira-pedra-e-acerta-em-vidro-de-carro-condutor-esta-em-uci#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792595447000,
+         "created": 1792595447000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad8c26228667.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
          "id": "https://www.noticiasaominuto.com/fama/3070550/dolores-aveiro-visita-santuario-de-fatima-com-companheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Dolores Aveiro visita Santuário de Fátima com companheiro",
+         "title": "Dolores Aveiro visita Santuário de Fátima com o companheiro",
          "description": "",
          "link": "https://www.noticiasaominuto.com/fama/3070550/dolores-aveiro-visita-santuario-de-fatima-com-companheiro#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10205,90 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad74a3690d7e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3069731/portugal-prossegue-em-guimaraes-caminhada-para-o-mundial-feminino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal prossegue em Guimarães a caminhada para o Mundial",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3069731/portugal-prossegue-em-guimaraes-caminhada-para-o-mundial-feminino#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792499272000,
-         "created": 1792499272000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_687220c28267a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3069742/iemen-guerra-deixa-250-mil-deslocados-internos-e-3-milhoes-podem-ficar-sem-agua-onu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Iémen: Guerra deixa 250 mil deslocados e 3 milhões podem ficar sem água",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3069742/iemen-guerra-deixa-250-mil-deslocados-internos-e-3-milhoes-podem-ficar-sem-agua-onu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792499141000,
-         "created": 1792499141000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac90cf91c818.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3069737/israel-acusa-libano-de-nao-agir-contra-hezbollah-no-sul-do-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Israel acusa Líbano de não agir contra Hezbollah no sul do país",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3069737/israel-acusa-libano-de-nao-agir-contra-hezbollah-no-sul-do-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792499046000,
-         "created": 1792499046000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6908a1dd8ae44.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3069713/comissao-europeia-aprova-aquisicao-da-fnac-darty-pelo-grupo-ep#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Comissão Europeia aprova aquisição da Fnac Darty pelo Grupo EP",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3069713/comissao-europeia-aprova-aquisicao-da-fnac-darty-pelo-grupo-ep#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792499022000,
-         "created": 1792499022000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_697755e2d70d9.webp",
                "type": "image/jpeg",
                "length": "0"
             }
