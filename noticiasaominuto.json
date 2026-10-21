@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3070637/mocambique-entrega-fabrica-de-paineis-solares-a-grupo-do-dubai#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Moçambique entrega fábrica de painéis solares a grupo do Dubai",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3070637/mocambique-entrega-fabrica-de-paineis-solares-a-grupo-do-dubai#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792604737000,
+         "created": 1792604737000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad8e1a25e666.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDM5LCJjcm9wSGVpZ2h0IjoxMzcyLCJjcm9wWCI6MTIxLCJjcm9wWSI6LTF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3070664/governo-admite-que-conta-geral-do-estado-levara-anos-a-cumprir-a-lei#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo admite que Conta Geral do Estado levará anos a cumprir a lei",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5484cd4bcb70e.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3069897/carlos-moedas-policia-atuou-com-proporcionalidade-em-acampada-no-rossio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Polícia atuou \"com proporcionalidade\" em acampada no Rossio, diz Moedas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3069897/carlos-moedas-policia-atuou-com-proporcionalidade-em-acampada-no-rossio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792511281000,
-         "created": 1792511281000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_688cc3cc3424c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYyLCJjcm9wSGVpZ2h0IjoxNDQxLCJjcm9wWCI6LTEsImNyb3BZIjoyMzV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjYxMiwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
