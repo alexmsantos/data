@@ -46,8 +46,25 @@
          "published": 1792616727000,
          "created": 1792616727000,
          "category": "Sociedade",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-21-acampada-manifestacao-no-rossio-em-lisboa--devido-a-crise-da-habitacao-chaves-06f8f890/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-21-acampada-manifestacao-no-rossio-em-lisboa--devido-a-crise-da-habitacao-chaves-06f8f890/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-21-acampada-manifestacao-no-rossio-em-lisboa--devido-a-crise-da-habitacao-chaves-06f8f890/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "68a56641-ae9f-4ec7-b880-bd7db106f6e5",
