@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "660509b3-efcb-4397-8020-24804c955d5b",
+         "title": "A lebre e a tartaruga",
+         "description": "<p><span>“Onde Queremos Viver” é um livro de crónicas e ensaios escritos a quatro mãos por um casal, Djaimilia Pereira de Almeida e Humberto Brito, e tanto abordam assuntos íntimos como os grandes debates contemporâneos</span></p>",
+         "link": "https://expresso.pt/revista/culturas/livros/2026-10-22-a-lebre-e-a-tartaruga-fffd9564",
+         "author": "Pedro Mexia",
+         "published": 1792651539000,
+         "created": 1792651539000,
+         "category": "Livros",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-19-djaimilia-pereira-de-almeida_01_t-_idp.jpg-f4cefc7a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-19-djaimilia-pereira-de-almeida_01_t-_idp.jpg-f4cefc7a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-19-djaimilia-pereira-de-almeida_01_t-_idp.jpg-f4cefc7a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "87e272c4-6423-47b1-aedc-dc644599edfb",
          "title": "Tenho andado a duplipensar nisto",
          "description": "<p>Ninguém pode acusar as ideias do Chega de não terem lógica. E não só têm uma lógica como têm duas. O facto de serem contraditórias não é importante</p>",
@@ -253,40 +282,6 @@
          "category": "Opinião",
          "enclosures": [],
          "media": {}
-      },
-      {
-         "id": "ee7b1d92-f2ad-4189-b364-cf7427b62a11",
-         "title": "Ângelo Correia: “Eu era um pendura do elétrico para não pagar cinco tostões. Da escola D. João de Castro até à Ajuda, nós poupávamos indo à pendura ou a pé”",
-         "description": "<p>Fundador do PSD, antigo ministro da Administração Interna e protagonista de vários momentos da história política portuguesa, Ângelo Correia é o convidado de Júlio Isidro para uma conversa sobre uma vida entre a política, as empresas e o mundo</p>",
-         "link": "https://expresso.pt/podcasts/geracao-40/2026-10-22-eu-era-um-pendura-do-eletrico-para-nao-pagar-cinco-tostoes.-da-escola-d.-joao-de-castro-ate-a-ajuda-nos-poupavamos-indo-a-pendura-ou-a-pe-d0342d95",
-         "author": [
-            "Júlio Isidro",
-            "João Martins",
-            "Mariana Óca Ferreira",
-            "Matilde Fieschi"
-         ],
-         "published": 1792647900000,
-         "created": 1792647900000,
-         "category": "Geração 40",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-20-geracao-40-angelo-correia-19102026-05-mf.jpg-36913b78/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-20-geracao-40-angelo-correia-19102026-05-mf.jpg-36913b78/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-10-20-geracao-40-angelo-correia-19102026-05-mf.jpg-36913b78/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
       }
    ]
 }
