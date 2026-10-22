@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3071250/christa-pike-apresenta-recuperacao-significativa-diz-advogado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Christa Pike \"apresenta recuperação significativa\", diz advogado",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3071250/christa-pike-apresenta-recuperacao-significativa-diz-advogado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792687867000,
+         "created": 1792687867000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6abc27f7bcd52.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MzcsImNyb3BIZWlnaHQiOjI0NiwiY3JvcFgiOjUsImNyb3BZIjo5NH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MjUxLCJjcm9wSGVpZ2h0Ijo0NDcsImNyb3BYIjo4NCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3071247/famoso-adepto-do-manchester-united-mostra-reacao-apos-derrota-com-o-como#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Famoso adepto do Manchester United mostra reação após derrota com o Como",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad8c6e06a463.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NjQsImNyb3BZIjoyOX19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/auto/3070388/e-um-recorde-condutor-foi-apanhado-a-292kmh-na-ponte-vasco-da-gama#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "É um recorde! Condutor foi apanhado a 292km/h na Ponte Vasco da Gama",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/auto/3070388/e-um-recorde-condutor-foi-apanhado-a-292kmh-na-ponte-vasco-da-gama#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792596558000,
-         "created": 1792596558000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad8c95f19089.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo2MDUsImNyb3BIZWlnaHQiOjM0MCwiY3JvcFgiOjMsImNyb3BZIjoxMTF9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjI1MCwiY3JvcEhlaWdodCI6NDQ0LCJjcm9wWCI6NSwiY3JvcFkiOjZ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
