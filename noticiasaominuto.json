@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3070927/parecia-filme-sete-feridos-apos-atropelamento-no-porto-que-se-sabe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Parecia filme\". Sete feridos após atropelamento no Porto. Que se sabe?",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3070927/parecia-filme-sete-feridos-apos-atropelamento-no-porto-que-se-sabe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792656327000,
+         "created": 1792656327000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_55c756c26a7a7.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjc3OSwiY3JvcEhlaWdodCI6MTM4NSwiY3JvcFgiOjk4OCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3070863/nova-iorque-publica-mais-40-mil-documentos-sobre-11-de-setembro-e-riscos-toxicos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Nova Iorque publica mais 40 mil documentos sobre 11 de Setembro e riscos",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad260e5e8754.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6LTEsImNyb3BZIjo1NTV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjM5OCwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3070171/il-quer-sentar-partidos-a-mesa-sobre-habitacaocinismo-as-respostas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "IL quer sentar partidos à mesa sobre habitação.\"Cinismo\"? As respostas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3070171/il-quer-sentar-partidos-a-mesa-sobre-habitacaocinismo-as-respostas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792540740000,
-         "created": 1792540740000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_685b0d2980dac.webp",
                "type": "image/jpeg",
                "length": "0"
             }
