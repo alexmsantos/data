@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3071319/continental-investe-10-milhoes-em-centro-de-inovacao-em-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Continental investe 10 milhões em centro de inovação em Famalicão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3071319/continental-investe-10-milhoes-em-centro-de-inovacao-em-famalicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1792698456000,
+         "created": 1792698456000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_62f61fca1d229.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3071355/psp-apreende-500-doses-de-haxixe-a-suspeito-de-violencia-domestica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "PSP apreende 500 doses de haxixe a suspeito de violência doméstica",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6387027f9f880.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3070662/camara-de-gaviao-reforca-apoios-para-travar-aumento-da-populacao-de-javalis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Gavião reforça apoios para travar aumento da população de javalis",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3070662/camara-de-gaviao-reforca-apoios-para-travar-aumento-da-populacao-de-javalis#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1792608798000,
-         "created": 1792608798000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_66a0dd8092d1c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjg5LCJjcm9wSGVpZ2h0IjoxMjg4LCJjcm9wWCI6NDUsImNyb3BZIjozMzJ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjY2NCwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
