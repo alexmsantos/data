@@ -43,8 +43,25 @@
          "published": 1792937468000,
          "created": 1792937468000,
          "category": "Prémios do Imobiliário",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-25-video.0000001.jpg-9b3d6fd4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-25-video.0000001.jpg-9b3d6fd4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-25-video.0000001.jpg-9b3d6fd4/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "b2b8c79e-24c2-4fe6-b857-78c70926b4b1",
