@@ -6,6 +6,47 @@
    "category": [],
    "items": [
       {
+         "id": "fdd1f202-3c60-474e-88bc-9ad997542fff",
+         "title": "Deus lhe pague",
+         "description": "<p>O problema não é deste Governo, nem do anterior. São décadas de opções que favoreceram a valorização imobiliária sem garantirem, com a mesma determinação, que havia casas para quem vive e trabalha nas cidades. Estive do lado de quem decide e sei que contar fogos e anunciar metas não chega</p>",
+         "link": "https://expresso.pt/opiniao/2026-10-26-deus-lhe-pague-ae46d675",
+         "author": "António Gil Leitão",
+         "published": 1792997431000,
+         "created": 1792997431000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
+      },
+      {
+         "id": "3a3d7f18-e7e0-4f9b-8e74-961bb1d62dbe",
+         "title": "Galp e Moeve desistem da fusão dos seus negócios de refinação e venda de combustíveis",
+         "description": "<p><span>Caiu por terra o acordo anunciado em janeiro entre Galp e Moeve, que levantou várias preocupações sobre a perda de controlo e potencial encerramento da única refinaria de petróleo em Portugal</span></p>",
+         "link": "https://expresso.pt/economia/economia_energia/2026-10-26-galp-e-moeve-desistem-da-fusao-dos-seus-negocios-de-refinacao-e-venda-de-combustiveis-cfd52af8",
+         "author": "Miguel Prado",
+         "published": 1792997351000,
+         "created": 1792997351000,
+         "category": "Energia",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-22-refinaria-de-sines.jpg-00cddfdc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-22-refinaria-de-sines.jpg-00cddfdc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-22-refinaria-de-sines.jpg-00cddfdc/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "96af2bb3-5007-45d4-aa5b-46f3037ab92b",
          "title": "Direitos humanos, disse ele!",
          "description": "<p>Com o novo dirigente da PSP, o país ficou que a saber que os cassetetes trabalham melhor na calada da noite. A Constituição submetida pela lei e pela ordem. Ou o Human rights washing</p>",
@@ -223,67 +264,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-10-25-rap-2510-parte-1--2-.jpg-e2b299c3/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "4bc29515-5b7b-4e7d-b56f-533b31597fc1",
-         "title": "Marcelo, Costa, Montenegro e até Rui Pinto: partidos divulgam nomes a serem ouvidos pela CPI a Neves",
-         "description": "<p>Os trabalhos da comissão não serão interrompidos durante as negociações do Orçamento do Estado para 2027. Listas de nomes incluem governantes dos Governos do PS e muitos funcionários ligados à PJ</p>",
-         "link": "https://expresso.pt/parlamento/2026-10-25-marcelo-costa-montenegro-e-ate-rui-pinto-partidos-divulgam-nomes-a-serem-ouvidos-pela-cpi-a-neves-44e3c91e",
-         "author": [
-            "Expresso",
-            "Agência Lusa"
-         ],
-         "published": 1792969760000,
-         "created": 1792969760000,
-         "category": "Parlamento",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-09-debate-quinzenal-com-a-presenca-do-primeiro-ministro-luis-montenegro-na-assembleia-da-republica-em-lisboa.-luis-neves-ministro-administracao-interna-0a255918-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-09-debate-quinzenal-com-a-presenca-do-primeiro-ministro-luis-montenegro-na-assembleia-da-republica-em-lisboa.-luis-neves-ministro-administracao-interna-0a255918-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-10-09-debate-quinzenal-com-a-presenca-do-primeiro-ministro-luis-montenegro-na-assembleia-da-republica-em-lisboa.-luis-neves-ministro-administracao-interna-0a255918-1/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "a78766e1-a226-4a61-a27c-dc4b4a4b43f4",
-         "title": "Lula da Silva volta a ganhar em Lisboa e no Porto na segunda volta. Flávio Bolsonaro venceu em Faro",
-         "description": "<p>Na capital portuguesa, onde se concentravam o maior número de votantes, Lula venceu com 19.420 votos, equivalente a 60,10%, contra 12.894 votos de Flávio, correspondentes a 39,90%. No Porto, as percentagens foram quase decalcadas</p>",
-         "link": "https://expresso.pt/internacional/brasil/eleicoes/2026-10-25-lula-da-silva-volta-a-ganhar-em-lisboa-e-no-porto-na-segunda-volta.-flavio-bolsonaro-venceu-em-faro-5c2b52f0",
-         "author": "Agência Lusa",
-         "published": 1792969192000,
-         "created": 1792969192000,
-         "category": "Eleições no Brasil",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-25-doc.20261025.48006986.jsg_8935.jpg-f258507c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-25-doc.20261025.48006986.jsg_8935.jpg-f258507c/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-10-25-doc.20261025.48006986.jsg_8935.jpg-f258507c/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
