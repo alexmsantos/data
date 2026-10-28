@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3074482/adolescentes-ateiam-fogo-a-garrafa-dentro-de-autocarro-em-sesimbra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Adolescentes ateiam fogo a garrafa dentro de autocarro em Sesimbra",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3074482/adolescentes-ateiam-fogo-a-garrafa-dentro-de-autocarro-em-sesimbra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793203436000,
+         "created": 1793203436000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae215ca5740d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjozNDYsImNyb3BIZWlnaHQiOjE5NCwiY3JvcFgiOjQsImNyb3BZIjoxMzd9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3074492/desporto-nao-profissional-desafia-a-criacao-de-um-programa-nacional-de-seguranca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "APCVD desafia a criação de um programa nacional de segurança",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae0b6cd833a6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3073779/afluencia-as-urnas-em-israel-atinge-recorde-de-44-9-as-1400#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Afluência às urnas em Israel atinge recorde de 44,9% às 14:00",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3073779/afluencia-as-urnas-em-israel-atinge-recorde-de-44-9-as-1400#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793112099000,
-         "created": 1793112099000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae0b6c0033e2.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE2MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6ODk2LCJjcm9wSGVpZ2h0IjoxNTkzLCJjcm9wWCI6NzE0LCJjcm9wWSI6OTd9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
