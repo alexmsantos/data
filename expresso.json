@@ -6,6 +6,35 @@
    "category": [],
    "items": [
       {
+         "id": "0b8ec518-98c8-4961-94e6-09b73fb12a0f",
+         "title": "Farto de estar farto do fim do mundo",
+         "description": "<p>A indústria do pessimismo dá-nos um fim do mundo adaptado aos nossos medos via algoritmo. Infelizmente a apatia não é solução</p>",
+         "link": "https://expresso.pt/opiniao/2026-10-28-farto-de-estar-farto-do-fim-do-mundo-ca578265",
+         "author": "Luís Pedro Nunes",
+         "published": 1793173126000,
+         "created": 1793173126000,
+         "category": "Opinião",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-05-luispedronunes.png-f8047917/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2024-09-05-luispedronunes.png-f8047917/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2024-09-05-luispedronunes.png-f8047917/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "4c38c634-0f4c-47b9-9e97-8b7f56ba2f95",
          "title": "Como é que a tecnologia está a mudar o conforto das habitações?",
          "description": "<p>As declarações dos protagonistas do quarto encontro do ciclo de conversas Panorama Imobiliário, uma iniciativa promovida em parceria pelo Expresso e pela Nos Smart Home</p>",
@@ -264,18 +293,6 @@
                "medium": "image"
             }
          }
-      },
-      {
-         "id": "b266ab07-048d-4c9f-93c1-58e30308c0d2",
-         "title": "Memórias da luta antifascista de João Miguel Tavares",
-         "description": "<p><span>Comparações com o Estado Novo têm que ser feitas com responsabilidade. Democracia é quando o poder político violenta aqueles que gostavam de ser donos de uma casa</span></p>",
-         "link": "https://expresso.pt/opiniao/2026-10-28-memorias-da-luta-antifascista-de-joao-miguel-tavares-f39a3c00",
-         "author": "Manuel Cardoso",
-         "published": 1793170070000,
-         "created": 1793170070000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
       }
    ]
 }
