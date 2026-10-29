@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Lifestyle",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/lifestyle/3075347/sol-em-escorpiao-e-lua-em-gemeos-6-signos-que-sofrem-mudancas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sol em Escorpião e Lua em Gémeos: 6 signos que sofrem mudanças",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/lifestyle/3075347/sol-em-escorpiao-e-lua-em-gemeos-6-signos-que-sofrem-mudancas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793311322000,
+         "created": 1793311322000,
+         "category": "Lifestyle",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae39f61e9728.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3075398/jornalista-portuguesa-detida-pelas-autoridades-israelitas-na-cisjordania#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Jornalista portuguesa detida pelas autoridades israelitas na Cisjordânia",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_65dca1b455c76.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3074451/revolut-quer-dar-acesso-a-investimentos-em-empresas-tecnologicas-privadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Revolut quer dar acesso a investimentos em empresas tecnológicas privadas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3074451/revolut-quer-dar-acesso-a-investimentos-em-empresas-tecnologicas-privadas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793215800000,
-         "created": 1793215800000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae20c0b86f2c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6MjU2LCJjcm9wWSI6Mjc4fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NDcsImNyb3BIZWlnaHQiOjE2ODMsImNyb3BYIjoxMDc3LCJjcm9wWSI6MTN9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
