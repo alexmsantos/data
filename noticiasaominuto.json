@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3074928/ben-gvir-pede-detencao-de-lideres-de-partidos-arabes-em-israel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ben Gvir pede detenção de líderes de partidos árabes em Israel",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3074928/ben-gvir-pede-detencao-de-lideres-de-partidos-arabes-em-israel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793268475000,
+         "created": 1793268475000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_665b8d9e069b4.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3074899/rute-cardoso-mostra-ferias-em-familia-e-recebe-apoio-que-coragem#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rute Cardoso mostra férias em família e recebe apoio: \"Que coragem\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae1c365e4850.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3074116/governo-de-cabo-verde-mantem-precos-do-gas-e-apoia-pesca-artesanal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo de Cabo Verde mantém preços do gás e apoia pesca artesanal",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3074116/governo-de-cabo-verde-mantem-precos-do-gas-e-apoia-pesca-artesanal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793174584000,
-         "created": 1793174584000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_54005aa0e20b5.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNjc2LCJjcm9wSGVpZ2h0IjoxNTA2LCJjcm9wWCI6NzEsImNyb3BZIjo2MX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6MTA1MCwiY3JvcEhlaWdodCI6MTg2NywiY3JvcFgiOjczNSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
