@@ -6,9 +6,103 @@
    "category": [],
    "items": [
       {
+         "id": "1fcac47e-a001-494a-9716-f785dd0a133b",
+         "title": "O outono",
+         "description": "<p><span>Numa manhã fresca de outono, a floresta estava cheia de cores e sons. Foi nesse cenário mágico que a Mia, uma pisco-de-peito-ruivo fêmea, saiu para o seu passeio...</span></p>",
+         "link": "https://expresso.pt/expressinho/2026-10-29-o-outono-0d0f7071",
+         "author": [
+            "Maria Madalena Andrade",
+            "8 anos",
+            "Cascais"
+         ],
+         "published": 1793278800000,
+         "created": 1793278800000,
+         "category": "Expressinho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-era-uma-vez.webp-64520f6c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-era-uma-vez.webp-64520f6c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-09-09-era-uma-vez.webp-64520f6c/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "1075d2b8-317a-43be-b2ae-91692171c107",
+         "title": "Missão da semana: sou um cientista da nutrição!",
+         "description": "<p><span>Hoje a tua missão é vestires a bata de cientista da nutrição para analisar, ingrediente por ingrediente, tudo o que faz parte do pão tradicional, o seu papel no teu organismo e como este alimento pode fazer parte de uma alimentação variada e equilibrada.</span></p>",
+         "link": "https://expresso.pt/expressinho/2026-10-29-missao-da-semana-sou-um-cientista-da-nutricao-3578f567",
+         "author": "Conteúdo patrocinado",
+         "published": 1793278800000,
+         "created": 1793278800000,
+         "category": "Expressinho",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-28-pub-missao-continente.jpg-26425858/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-28-pub-missao-continente.jpg-26425858/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-28-pub-missao-continente.jpg-26425858/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "59e65873-9276-4922-b4d3-bc69bd6661d2",
+         "title": "Acidente em Toledo: confirmados 69 mortos, Sánchez promete esclarecer \"até ao último detalhe\" as causas da colisão",
+         "description": "<p><span>Equipas no terreno encontraram mais um corpo nos escombros. Em</span><span> Toledo para uma reunião de emergência, o primeiro-ministro espanhol prometeu uma investigação completa e rigorosa e anunciou medidas de auxílio às famílias das vítimas</span></p><p><br></p>",
+         "link": "https://expresso.pt/espanha/2026-10-29-acidente-em-toledo-confirmados-69-mortos-sanchez-promete-esclarecer-ate-ao-ultimo-detalhe-as-causas-da-colisao-567445e3",
+         "author": [
+            "Expresso",
+            "Agência Lusa"
+         ],
+         "published": 1793278740000,
+         "created": 1793278740000,
+         "category": "Espanha",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-29-acidente-toledo-819f4343/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-29-acidente-toledo-819f4343/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-29-acidente-toledo-819f4343/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "5df982e9-6770-4241-a08e-67cb5df74a2d",
          "title": "Banco de Portugal vai ter apenas um novo edifício no Campo Grande e não dois, como inicialmente previsto. A poupança é de €35 milhões",
-         "description": "<p>O Banco de Portugal alterou o primeiro contrato de promessa assinado no mandato do seu antecessor Mário Centeno, trocando dois edificio por um. A sede será no novo imóvel mas o eificio histórico da Baixa lisboeta, continuará a existir</p>",
+         "description": "<p>O Banco de Portugal alterou o primeiro contrato de promessa assinado no mandato do seu antecessor Mário Centeno, trocando dois edificio por um. A sede será no novo imóvel mas o edifício histórico da Baixa lisboeta, continuará a existir</p>",
          "link": "https://expresso.pt/economia/2026-10-29-banco-de-portugal-vai-ter-apenas-um-novo-edificio-no-campo-grande-e-nao-dois-como-inicialmente-previsto.-a-poupanca-e-de-35-milhoes-824c46a8",
          "author": "Isabel Vicente",
          "published": 1793278563000,
@@ -206,93 +300,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2025-03-19-billy-chloe-corgan.jpg-4fc99a70/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "b18dda44-1558-4b5b-9f19-f9a22be31058",
-         "title": "Desemprego estável nos 5,6% em setembro, mas população empregada a recuar",
-         "description": "<p>Em setembro, a taxa de desemprego não sofreu alterações, mas a população empregada continua a recuar desde maio deste ano</p>",
-         "link": "https://expresso.pt/economia/trabalho/2026-10-29-desemprego-estavel-nos-56-em-setembro-mas-populacao-empregada-a-recuar-fb470a37",
-         "author": "Cátia Mateus",
-         "published": 1793272631000,
-         "created": 1793272631000,
-         "category": "Trabalho",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2021-12-22-desemprego-IEFP-13e63f0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2021-12-22-desemprego-IEFP-13e63f0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2021-12-22-desemprego-IEFP-13e63f0a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "19fd1af3-dab9-49b5-9f49-a994010f7585",
-         "title": "“Faça sol ou faça chuva”, hotel JNcQUOI House abre as portas a 3 de dezembro",
-         "description": "<p>Dois anos depois do incêndio que obrigou a adiar a inauguração, o hotel JNcQUOI House, na Avenida da Liberdade, em Lisboa, já tem data de abertura. Dia 3 de dezembro, às 10h05, abrem-se as portas do ambicioso projeto com apenas 16 quartos e a promessa de “privacidade, discrição e um serviço que se adapta ao ritmo de cada um”</p>",
-         "link": "https://expresso.pt/boa-cama-boa-mesa/viagens-hoteis/2026-10-29-faca-sol-ou-faca-chuva-hotel-jncquoi-house-abre-as-portas-a-3-de-dezembro-89c3907d",
-         "author": "Boa Cama Boa Mesa",
-         "published": 1793272526000,
-         "created": 1793272526000,
-         "category": "Viagens e Hotéis",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2024-01-13-jncquoi-house-edit-Instagram-Miguel-Guedes-de-Sousa.jpg-ba13e101/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2024-01-13-jncquoi-house-edit-Instagram-Miguel-Guedes-de-Sousa.jpg-ba13e101/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2024-01-13-jncquoi-house-edit-Instagram-Miguel-Guedes-de-Sousa.jpg-ba13e101/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "5f2f1f12-ea65-4c1b-b302-c5ccfa883c99",
-         "title": "Washington prepara-se para todos os cenários: J.D.Vance procura pontes com o Irão, mas Israel faz pressão por nova ofensiva",
-         "description": "<p>As negociações entre o Irão e os Estados Unidos encontram-se num ponto crítico, penduradas entre a rutura e a retomada das negociações pela paz. O vice-presidente avançou em nome de um esforço diplomático de última hora, mas nova ofensiva militar de grande envergadura pode estar iminente. Uma resposta formal é aguardada esta quinta-feira</p>",
-         "link": "https://expresso.pt/internacional/2026-10-29-washington-prepara-se-para-todos-os-cenarios-j.d.vance-procura-pontes-com-o-irao-mas-israel-faz-pressao-por-nova-ofensiva-3cbe9f37",
-         "author": "Christiana Martins",
-         "published": 1793271584000,
-         "created": 1793271584000,
-         "category": "Internacional",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-07-gettyimages-2272829909.jpg-c5cd606a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-05-07-gettyimages-2272829909.jpg-c5cd606a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-05-07-gettyimages-2272829909.jpg-c5cd606a/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
