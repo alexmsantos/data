@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3076111/edp-vence-lote-em-leilao-de-transmissao-de-energia-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "EDP vence lote em leilão de transmissão de energia no Brasil",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3076111/edp-vence-lote-em-leilao-de-transmissao-de-energia-no-brasil#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793398820000,
+         "created": 1793398820000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5b3328429b771.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo1MDIwLCJjcm9wSGVpZ2h0IjoyODI0LCJjcm9wWCI6LTEsImNyb3BZIjo0NzZ9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3075935/em-direto-casa-pia-sporting-da-pontape-de-saida-na-10-jornada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "EM DIRETO: Sporting vence e espera por FC Porto, Benfica e não só",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_689e5c10e1f2a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3075416/habitacao-manifestantes-querem-reunir-se-com-pedro-duarte-no-rivoli-no-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Manifestantes querem reunir-se com Pedro Duarte no Rivoli no Porto",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3075416/habitacao-manifestantes-querem-reunir-se-com-pedro-duarte-no-rivoli-no-porto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793313723000,
-         "created": 1793313723000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae3cbbcdb8f9.webp",
                "type": "image/jpeg",
                "length": "0"
             }
