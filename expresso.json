@@ -6,6 +6,38 @@
    "category": [],
    "items": [
       {
+         "id": "0a117990-b7f7-43d9-bbc1-c1e9fa4e3b9e",
+         "title": "A vida dos portugueses “está muito melhor”? Hugo Soares acha que sim, os eleitores da AD acham que não",
+         "description": "<p>No Expresso da Manhã, Paulo Baldaia conversa com o diretor-adjunto do Expresso David Dinis sobre as conclusões da sondagem Expresso/SIC, realizada pela GfK/ICS/ISCTE</p>",
+         "link": "https://expresso.pt/podcasts/expresso-da-manha/2026-10-30-a-vida-dos-portugueses-esta-muito-melhor--hugo-soares-acha-que-sim-os-eleitores-da-ad-acham-que-nao-f6225b73",
+         "author": [
+            "Paulo Baldaia",
+            "Gustavo Carvalho"
+         ],
+         "published": 1793341800000,
+         "created": 1793341800000,
+         "category": "Expresso da Manhã",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "9b12a8cd-de87-4ff6-9ed9-e0092c790976",
          "title": "Assembleias populares traçam próximos passos: Lisboa debate acampada conjunta, Porto quer reunir com Pedro Duarte",
          "description": "<p><span>Centenas de ativistas reuniram-se esta quinta-feira em Lisboa e no Porto para discutir o futuro do movimento pelo direito à habitação, dias após as intervenções policiais nas duas cidades. Entre as propostas em cima da mesa estão a concentração das acampadas no Porto, novas formas de organização interna e mais ações de protesto nas próximas semanas</span></p>",
@@ -117,38 +149,6 @@
          }
       },
       {
-         "id": "65fb446f-05c9-4b77-b97c-49c0643f8f0c",
-         "title": "Quando a escola faz a diferença: “Aqui ninguém deixa os alunos afogarem-se\"",
-         "description": "<p><span>As dificuldades socioeconómicas podem condicionar o sucesso dos alunos. Mas há escolas que tentam garantir que “ninguém fica para trás” independentemente das “circunstâncias em que se encontram”. Em Chaves, Vila do Conde e Espinho, ficam algumas das secundárias que mais ajudaram estes alunos a ter bons resultados</span></p>",
-         "link": "https://expresso.pt/ranking-das-escolas/2025/2026-10-30-quando-a-escola-faz-a-diferenca-aqui-ninguem-deixa-os-alunos-afogarem-se-36244239",
-         "author": [
-            "Ana Margarida Alves",
-            "Sofia Miguel Rosa"
-         ],
-         "published": 1793318401000,
-         "created": 1793318401000,
-         "category": "Ranking das Escolas 2025",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-27-rds_11_escola-manuel-laranjeira-espinho_3c8a0707.jpg-05787940/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-27-rds_11_escola-manuel-laranjeira-espinho_3c8a0707.jpg-05787940/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-10-27-rds_11_escola-manuel-laranjeira-espinho_3c8a0707.jpg-05787940/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "bb27111b-7735-4dc8-8fa1-33f30a164341",
          "title": "Na Escola Básica e Secundária de Anadia, o esforço coletivo dá lugar a “bons resultados”",
          "description": "<p>A instituição de ensino é a escola pública com a melhor média nos exames nacionais do ensino secundário no ranking do Expresso. A entreajuda e o trabalho de equipa ajudam a explicar os bons resultados</p>",
@@ -175,6 +175,38 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-10-26-rds_07_escola-anadia-ranking-escolas_3c8a0509.jpg-4d890789/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "65fb446f-05c9-4b77-b97c-49c0643f8f0c",
+         "title": "Quando a escola faz a diferença: “Aqui ninguém deixa os alunos afogarem-se\"",
+         "description": "<p><span>As dificuldades socioeconómicas podem condicionar o sucesso dos alunos. Mas há escolas que tentam garantir que “ninguém fica para trás” independentemente das “circunstâncias em que se encontram”. Em Chaves, Vila do Conde e Espinho, ficam algumas das secundárias que mais ajudaram estes alunos a ter bons resultados</span></p>",
+         "link": "https://expresso.pt/ranking-das-escolas/2025/2026-10-30-quando-a-escola-faz-a-diferenca-aqui-ninguem-deixa-os-alunos-afogarem-se-36244239",
+         "author": [
+            "Ana Margarida Alves",
+            "Sofia Miguel Rosa"
+         ],
+         "published": 1793318401000,
+         "created": 1793318401000,
+         "category": "Ranking das Escolas 2025",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-27-rds_11_escola-manuel-laranjeira-espinho_3c8a0707.jpg-05787940/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-10-27-rds_11_escola-manuel-laranjeira-espinho_3c8a0707.jpg-05787940/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-10-27-rds_11_escola-manuel-laranjeira-espinho_3c8a0707.jpg-05787940/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -268,35 +300,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-10-29-eco_2818.jpg-ea0d0f2e/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "f1b2d278-3a83-4eb0-b985-bca7e624604d",
-         "title": "\"Nunca sonhei ser ministro das Finanças\": Joaquim Miranda Sarmento, na revista E, na revista E",
-         "description": "",
-         "link": "https://expresso.pt/semanario/revista-e",
-         "author": "Expresso",
-         "published": 1793314680000,
-         "created": 1793314680000,
-         "category": "Capas",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-29-e_2818.jpg-7fc18ed5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-10-29-e_2818.jpg-7fc18ed5/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-10-29-e_2818.jpg-7fc18ed5/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
