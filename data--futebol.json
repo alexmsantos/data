@@ -1,0 +1,91 @@
+{
+  "generatedAt": "2026-10-30 17:03:02 UTC",
+  "timeZone": "Europe/Lisbon",
+  "today": "2026-10-30",
+  "matches": [
+    {
+      "id": 6585716,
+      "competitionId": 1652,
+      "competition": "Liga Portugal 2",
+      "round": "Matchweek 5",
+      "date": "2026-10-04",
+      "time": "11:00",
+      "status": "Finished",
+      "statusType": "finished",
+      "home": "SC Farense",
+      "away": "GD Chaves",
+      "homeScore": "2",
+      "awayScore": "2"
+    },
+    {
+      "id": 6585733,
+      "competitionId": 1652,
+      "competition": "Liga Portugal 2",
+      "round": "Matchweek 7",
+      "date": "2026-10-09",
+      "time": "18:00",
+      "status": "Live",
+      "statusType": "live",
+      "home": "Penafiel",
+      "away": "Avs Futebol",
+      "homeScore": "2",
+      "awayScore": "2"
+    },
+    {
+      "id": 6583563,
+      "competitionId": 1556,
+      "competition": "Bundesliga",
+      "round": "Matchweek 8",
+      "date": "2026-10-30",
+      "time": "19:30",
+      "status": "Not started",
+      "statusType": "scheduled",
+      "home": "Elversberg",
+      "away": "1. FSV Mainz 05",
+      "homeScore": "",
+      "awayScore": ""
+    },
+    {
+      "id": 6580567,
+      "competitionId": 1507,
+      "competition": "LaLiga EA Sports",
+      "round": "Matchweek 11",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "status": "Not started",
+      "statusType": "scheduled",
+      "home": "Villarreal CF",
+      "away": "Espanyol",
+      "homeScore": "",
+      "awayScore": ""
+    },
+    {
+      "id": 6546991,
+      "competitionId": 2131,
+      "competition": "Ligue 1 McDonald’s",
+      "round": "Matchweek 9",
+      "date": "2026-10-30",
+      "time": "20:05",
+      "status": "Not started",
+      "statusType": "scheduled",
+      "home": "Lille OSC",
+      "away": "RC Lens",
+      "homeScore": "",
+      "awayScore": ""
+    },
+    {
+      "id": 6585448,
+      "competitionId": 1550,
+      "competition": "Liga Portugal",
+      "round": "Matchweek 10",
+      "date": "2026-10-30",
+      "time": "20:15",
+      "status": "Not started",
+      "statusType": "scheduled",
+      "home": "Casa Pia AC",
+      "away": "Sporting CP",
+      "homeScore": "",
+      "awayScore": ""
+    }
+  ]
+}
