@@ -1,10 +1,115 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3075682/mai-assume-responsabilidade-na-intervencao-da-psp-nas-manifestacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ação da PSP em protestos? \"Responsabilidade política é minha\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3075682/mai-assume-responsabilidade-na-intervencao-da-psp-nas-manifestacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793358835000,
+         "created": 1793358835000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6acdcdeba71a1.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3075676/euribor-termina-outubro-com-media-inalterada-a-3-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Quais as médias? Euribor despedem-se de outubro assim",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3075676/euribor-termina-outubro-com-media-inalterada-a-3-meses#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793358829000,
+         "created": 1793358829000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_65c0c3781e7da.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3075668/chery-anuncia-tecnologia-de-carregamento-para-500-km-em-cinco-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Chery anuncia tecnologia de carregamento para 500 km em cinco minutos",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3075668/chery-anuncia-tecnologia-de-carregamento-para-500-km-em-cinco-minutos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793358786000,
+         "created": 1793358786000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae47b1e8b825.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3075670/qatar-envia-delegacao-a-teerao-para-tentar-retomar-negociacoes-com-o-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Qatar envia delegação a Teerão para tentar retomar negociações com o Irão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3075670/qatar-envia-delegacao-a-teerao-para-tentar-retomar-negociacoes-com-o-irao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793358710000,
+         "created": 1793358710000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a2f1df7ef6dc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3075684/motorola-vai-desvendar-na-proxima-semana-o-seu-novo-topo-de-gama#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Motorola vai desvendar na próxima semana o seu novo topo de gama",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3075684/motorola-vai-desvendar-na-proxima-semana-o-seu-novo-topo-de-gama#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793358644000,
+         "created": 1793358644000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae47ab7c8194.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxNTcxLCJjcm9wSGVpZ2h0Ijo4ODQsImNyb3BYIjoxNCwiY3JvcFkiOjd9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjQ5MCwiY3JvcEhlaWdodCI6ODcwLCJjcm9wWCI6NDQxLCJjcm9wWSI6MTF9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3075677/sanchez-reconhece-quebra-de-confianca-na-rede-ferroviaria#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Sánchez reconhece \"quebra de confiança\" na rede ferroviária após acidente",
@@ -10184,111 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_68fb49260688c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3074918/deputados-da-armenia-envolvem-se-em-confrontos-fisicos-no-parlamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Deputados da Arménia envolvem-se em confrontos físicos no parlamento",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3074918/deputados-da-armenia-envolvem-se-em-confrontos-fisicos-no-parlamento#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793270083000,
-         "created": 1793270083000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae31e7da5ba7.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3074949/russia-condena-ataques-de-drones-ucranianos-durante-cimeira-com-africa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia condena ataques de drones ucranianos durante cimeira com África",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3074949/russia-condena-ataques-de-drones-ucranianos-durante-cimeira-com-africa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793269838000,
-         "created": 1793269838000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab6b96759eb0.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3069906/the-secret-na-lapa-tem-novo-chef-as-sobremesas-sao-de-perder-a-cabeca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "The Secret, na Lapa, tem novo chef. As sobremesas são de perder a cabeça",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3069906/the-secret-na-lapa-tem-novo-chef-as-sobremesas-sao-de-perder-a-cabeca#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793269800000,
-         "created": 1793269800000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ad78239e6d0c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3074945/tgv-leva-a-declarar-utilidade-publica-para-expropriacoes-em-ovar-e-na-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Utilidade pública? TGV leva a expropriações em Ovar e na Feira",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3074945/tgv-leva-a-declarar-utilidade-publica-para-expropriacoes-em-ovar-e-na-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793269738000,
-         "created": 1793269738000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_547dc8244c6d2.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3074940/autoridades-espanholas-a-trabalhar-dia-e-noite-para-esclarecer-acidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Autoridades espanholas a trabalhar \"dia e noite\" para esclarecer acidente",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3074940/autoridades-espanholas-a-trabalhar-dia-e-noite-para-esclarecer-acidente#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793269626000,
-         "created": 1793269626000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae31ca251f3b.webp",
                "type": "image/jpeg",
                "length": "0"
             }
