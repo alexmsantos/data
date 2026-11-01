@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3076785/aplicacao-de-alerta-de-ataques-aereos-na-ucrania-foi-pirateada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Aplicação de alerta de ataques aéreos na Ucrânia foi pirateada",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3076785/aplicacao-de-alerta-de-ataques-aereos-na-ucrania-foi-pirateada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1793573153000,
+         "created": 1793573153000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ae7c1086f4c0.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3076777/napoli-perde-em-vesperas-de-jogar-com-o-fc-porto-no-dragao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Napoli perde em vésperas de jogar com o FC Porto no Dragão",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69260f749ddef.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3076085/associacao-de-imigrantes-dos-acores-tem-nova-sede-em-ponta-delgada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Associação de Imigrantes dos Açores tem nova sede em Ponta Delgada",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3076085/associacao-de-imigrantes-dos-acores-tem-nova-sede-em-ponta-delgada#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793392873000,
-         "created": 1793392873000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6adb922791681.webp",
                "type": "image/jpeg",
                "length": "0"
             }
