@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3080713/protecao-civil-da-madeira-registou-210-ocorrencias-ate-as-2100#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Proteção Civil da Madeira registou 210 ocorrências até às 21h00",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3080713/protecao-civil-da-madeira-registou-210-ocorrencias-ate-as-2100#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794176900000,
+         "created": 1794176900000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5298a40f459cc.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3080707/cronica-estrela-benfica#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Salvador Pavlidis marca nos descontos e Benfica vence na Amadora",
@@ -553,7 +574,7 @@
       },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3080111/em-direto-famalicao-arouca-da-arranque-a-11-jornada-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Zvonarek deixa o Benfica em apuros na Amadora",
+         "title": "EM DIRETO: Pavlidis marca ao cair do pano para o Benfica",
          "description": "",
          "link": "https://www.noticiasaominuto.com/desporto/3080111/em-direto-famalicao-arouca-da-arranque-a-11-jornada-da-i-liga#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "author": {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_692d5419266e8.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3080047/centristas-abertos-a-viabilizar-governo-com-esquerda-ou-direita-na-suecia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Centristas abertos a viabilizar governo com esquerda ou direita na Suécia",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3080047/centristas-abertos-a-viabilizar-governo-com-esquerda-ou-direita-na-suecia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1793988682000,
-         "created": 1793988682000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5422d5b532082.webp",
                "type": "image/jpeg",
                "length": "0"
             }
