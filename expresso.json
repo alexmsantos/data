@@ -211,9 +211,12 @@
       {
          "id": "e58346df-910e-4ef2-bd52-05e06ed94516",
          "title": "ERC dá aval Diana Ramos na Lusa e puxa as orelhas à administração",
-         "description": "<p><span>Diana Ramos teve luz verde da Entidade Reguladora para a Comunicação Social para ser diretora de informação da Lusa. Regulador lamentou, contudo, que a administração da Lusa não tenha cumprido todas as regras formais que estes processos exigem </span></p>",
+         "description": "<p><span>Diana Ramos teve luz verde da Entidade Reguladora para a Comunicação Social para ser diretora de informação da Lusa. Regulador lamentou, contudo, que a administração da Lusa não tenha cumprido todas as regras formais que estes processos exigem</span></p>",
          "link": "https://expresso.pt/media-comunicacao/2026-11-09-erc-da-aval-diana-ramos-na-lusa-e-puxa-as-orelhas-a-administracao-30e01f95",
-         "author": "Agência Lusa",
+         "author": [
+            "Agência Lusa",
+            "Expresso"
+         ],
          "published": 1794239734000,
          "created": 1794239734000,
          "category": "Média e Comunicação",
