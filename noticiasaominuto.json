@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3081001/homem-de-40-anos-detido-por-violencia-domestica-na-madeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Homem de 40 anos detido por violência doméstica na Madeira",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3081001/homem-de-40-anos-detido-por-violencia-domestica-na-madeira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794231230000,
+         "created": 1794231230000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_68397142c739a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3080998/numero-de-mortos-em-barco-perto-da-grecia-sobe-para-13#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Número de mortos em barco perto da Grécia sobe para 13",
@@ -104,27 +125,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac905370b058.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3081026/governo-diz-que-propostas-ps-levariam-a-defice-de-0-2-do-pib#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Governo diz que propostas PS levariam a défice de 0,2% do PIB",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3081026/governo-diz-que-propostas-ps-levariam-a-defice-de-0-2-do-pib#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794230501000,
-         "created": 1794230501000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af1c8fbb5b61.webp",
                "type": "image/jpeg",
                "length": "0"
             }
