@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3081121/credit-agricole-propoe-fusao-com-banco-bpm-para-criar-terceiro-maior-banco-italiano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Será 3.º maior banco italiano? Crédit Agricole propõe fusão com Banco BPM",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3081121/credit-agricole-propoe-fusao-com-banco-bpm-para-criar-terceiro-maior-banco-italiano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794240957000,
+         "created": 1794240957000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af1f1be5a73a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3081138/estacionamento-da-estacao-rio-tinto-em-gondomar-fecha-para-alargar-ferrovia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Gondomar: Estacionamento da estação Rio Tinto fecha para alargar ferrovia",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6aefab3bc2462.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3080441/a-reacao-de-paulo-fonseca-a-vitoria-na-estreia-pelo-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "A reação de Paulo Fonseca à vitória na estreia pelo Sporting",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3080441/a-reacao-de-paulo-fonseca-a-vitoria-na-estreia-pelo-sporting#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794091496000,
-         "created": 1794091496000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aefa5860b207.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDc4LCJjcm9wSGVpZ2h0IjoxMzk0LCJjcm9wWCI6NDQsImNyb3BZIjoyNX19",
                "type": "image/jpeg",
                "length": "0"
             }
