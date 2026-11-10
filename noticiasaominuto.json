@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3081451/seis-detidos-na-trofa-por-suspeita-de-jogo-ilegal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Seis detidos na Trofa por suspeita de jogo ilegal",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3081451/seis-detidos-na-trofa-por-suspeita-de-jogo-ilegal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794300723000,
+         "created": 1794300723000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_683576a51eb34.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3081449/waze-como-app-de-navegacao-predefinida-o-passo-a-passo-no-android#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Waze como app de navegação predefinida. O passo a passo no Android",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6af15da460c09.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3080790/nova-deli-sob-nevoa-toxica-com-poluicao-sazonal-agravada-por-diwali#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nova Deli sob névoa tóxica com poluição sazonal agravada por Diwali",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3080790/nova-deli-sob-nevoa-toxica-com-poluicao-sazonal-agravada-por-diwali#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794201221000,
-         "created": 1794201221000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af1569dd2fd0.webp",
                "type": "image/jpeg",
                "length": "0"
             }
