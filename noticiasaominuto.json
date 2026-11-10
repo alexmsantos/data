@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3081379/riade-ouve-explosoes-e-missil-intercetado-pela-coligacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Riade ouve explosões e míssil intercetado pela coligação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3081379/riade-ouve-explosoes-e-missil-intercetado-pela-coligacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794282492000,
+         "created": 1794282492000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af2942eead4e.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3081375/australia-vai-aplicar-salvaguardas-obrigatorias-em-ia-segundo-lusa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Austrália vai aplicar salvaguardas obrigatórias em IA, segundo Lusa",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6a799748b7faa.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/3080670/chico-da-tina-apresenta-super-arraial-em-abril-de-2027-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Chico da Tina leva \"Super Arraial\" a Lisboa em abril de 2027",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/cultura/3080670/chico-da-tina-apresenta-super-arraial-em-abril-de-2027-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794164967000,
-         "created": 1794164967000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af0c8b6d03a1.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMzY2LCJjcm9wSGVpZ2h0Ijo3NjgsImNyb3BYIjowLCJjcm9wWSI6ODF9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
