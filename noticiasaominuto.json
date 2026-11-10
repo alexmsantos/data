@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3081392/regiao-do-pacifico-regista-32-tufoes-em-2026-novo-recorde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Região do Pacífico regista 32 tufões em 2026, novo recorde",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3081392/regiao-do-pacifico-regista-32-tufoes-em-2026-novo-recorde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794288524000,
+         "created": 1794288524000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af2aba38b5c1.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3081390/manifestantes-detidos-no-porto-pronunciam-se-sobre-suspensao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Manifestantes detidos no Porto pronunciam-se sobre suspensão",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6af0d018d66ef.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3080673/para-jesus-ver-alberto-costa-assiste-e-borja-sainz-marca-em-guimaraes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Para Jesus ver. Alberto Costa assiste e Borja Sainz marca em Guimarães",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3080673/para-jesus-ver-alberto-costa-assiste-e-borja-sainz-marca-em-guimaraes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794165728000,
-         "created": 1794165728000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af0cbd1b0182.webp",
                "type": "image/jpeg",
                "length": "0"
             }
