@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3081390/manifestantes-detidos-no-porto-pronunciam-se-sobre-suspensao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Manifestantes detidos no Porto pronunciam-se sobre suspensão",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3081390/manifestantes-detidos-no-porto-pronunciam-se-sobre-suspensao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794287400000,
+         "created": 1794287400000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af2a72c5265b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3081384/california-rejeita-proposta-de-tributar-riqueza-dos-multimilionarios#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Califórnia rejeita proposta de tributar riqueza dos multimilionários",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6af0cbd1b0182.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3080675/a-recuperacao-milagrosa-e-tardia-que-impediu-a-derrota-do-man-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "A recuperação milagrosa (e tardia) que impediu a derrota do Man. United",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3080675/a-recuperacao-milagrosa-e-tardia-que-impediu-a-derrota-do-man-united#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794165534000,
-         "created": 1794165534000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af0cb20957d8.webp",
                "type": "image/jpeg",
                "length": "0"
             }
