@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3082739/linha-ferroviaria-da-beira-baixa-interrompida-entre-santa-margarida-e-tramagal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Linha da Beira Baixa interrompida entre Santa Margarida e Tramagal",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3082739/linha-ferroviaria-da-beira-baixa-interrompida-entre-santa-margarida-e-tramagal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794437843000,
+         "created": 1794437843000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac8820133d69.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3082736/tribunais-israelitas-rejeitam-libertacao-14-medicos-de-gaza#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Tribunais israelitas rejeitam libertação 14 médicos de Gaza",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_56bb7cc53d42c.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3082067/netanyahu-acusa-hamas-de-explorar-sofrimento-em-gaza-para-culpar-israel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Netanyahu acusa Hamas de explorar sofrimento em Gaza para culpar Israel",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3082067/netanyahu-acusa-hamas-de-explorar-sofrimento-em-gaza-para-culpar-israel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794347048000,
-         "created": 1794347048000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af3902d59821.webp",
                "type": "image/jpeg",
                "length": "0"
             }
