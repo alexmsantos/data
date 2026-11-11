@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3082709/treinador-do-torreense-destaca-confianca-e-ambicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Treinador do Torreense destaca \"confiança e ambição\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3082709/treinador-do-torreense-destaca-confianca-e-ambicao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794430582000,
+         "created": 1794430582000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_683048a6a3d75.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMjgwLCJjcm9wSGVpZ2h0Ijo3MjAsImNyb3BYIjozMjAsImNyb3BZIjowfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo0NTAsImNyb3BIZWlnaHQiOjgwMCwiY3JvcFgiOjc5OCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3082707/nada-foi-encontrado-nas-escolas-de-italia-apos-ameacas-de-bomba-meloni#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bombas? \"Nada foi encontrado, em nenhuma escola\", garante Meloni",
@@ -19,7 +40,7 @@
          "content": "",
          "enclosures": [
             {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af4d60e8abec.webp",
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af4d60e8abec.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYzLCJjcm9wSGVpZ2h0IjoxNDQyLCJjcm9wWCI6LTIsImNyb3BZIjoyNjN9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzOSwiY3JvcEhlaWdodCI6MTY2OSwiY3JvcFgiOjE3OSwiY3JvcFkiOjM2fX0=",
                "type": "image/jpeg",
                "length": "0"
             }
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6af37f80cb335.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3082049/acp-retira-iniciativa-de-referendo-sobre-trotinetes-partilhadas-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ACP desiste de referendo sobre trotinetes partilhadas em Lisboa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3082049/acp-retira-iniciativa-de-referendo-sobre-trotinetes-partilhadas-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794343016000,
-         "created": 1794343016000,
-         "category": "Auto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_64f24d585af0e.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEzNDMsImNyb3BZIjowfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
