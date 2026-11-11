@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Fama",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3082532/guarda-redes-do-chelsea-destruiu-ferrari-de-300-mil-euros-em-nurburgring#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guarda-redes do Chelsea destruiu Ferrari de 300 mil euros em Nürburgring",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3082532/guarda-redes-do-chelsea-destruiu-ferrari-de-300-mil-euros-em-nurburgring#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794412557000,
+         "created": 1794412557000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af48f5e03904.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/fama/3082527/pessoas-a-queixar-que-exageramos-com-medidas-melhor-do-que-o-contrario#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Pessoas a queixar que exagerámos com medidas. Melhor do que o contrário\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_65cca037d9eeb.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3081774/ucrania-primeiro-dia-de-negociacoes-em-abu-dhabi-foi-construtivo-e-substancial-zelensky#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Ucrânia: 1.º dia de negociações em Abu Dhabi \"construtivo e substancial\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3081774/ucrania-primeiro-dia-de-negociacoes-em-abu-dhabi-foi-construtivo-e-substancial-zelensky#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794325993000,
-         "created": 1794325993000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_69c5641670898.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjE1fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5NjAsImNyb3BIZWlnaHQiOjE3MDcsImNyb3BYIjoxMDA4LCJjcm9wWSI6MH19",
                "type": "image/jpeg",
                "length": "0"
             }
