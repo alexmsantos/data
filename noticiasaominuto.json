@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3082546/italia-reino-unido-e-irlanda-ameacas-de-bomba-em-milhares-de-escolas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Itália, Reino Unido e Irlanda: Ameaças de bomba em milhares de escolas",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3082546/italia-reino-unido-e-irlanda-ameacas-de-bomba-em-milhares-de-escolas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794414338000,
+         "created": 1794414338000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af493d9f0676.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTY1LCJjcm9wSGVpZ2h0IjoxNDQzLCJjcm9wWCI6LTMsImNyb3BZIjoyNjR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc1NCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3082548/lamine-yamal-cumpre-promessa-o-gesto-do-craque-espanhol-que-corre-mundo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Lamine Yamal cumpre promessa. O gesto do craque espanhol que corre mundo",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6af3419b02642.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/lifestyle/3081641/o-segredo-para-cortar-castanhas-e-conseguir-descasca-las-sem-esforco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "O segredo para cortar castanhas e conseguir descascá-las sem esforço",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/lifestyle/3081641/o-segredo-para-cortar-castanhas-e-conseguir-descasca-las-sem-esforco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794326873000,
-         "created": 1794326873000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af318d8de639.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMjc1LCJjcm9wSGVpZ2h0IjoxMjgwLCJjcm9wWCI6LTEsImNyb3BZIjo0MDV9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjg2NCwiY3JvcEhlaWdodCI6MTUzNiwiY3JvcFgiOjg1OCwiY3JvcFkiOjMyOH19",
                "type": "image/jpeg",
                "length": "0"
             }
