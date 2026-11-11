@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3082613/ativos-e-depositos-da-banca-mocambicana-crescem-mas-lucros-caem-45#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Ativos e depósitos da banca moçambicana crescem, mas lucros caem 45%",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3082613/ativos-e-depositos-da-banca-mocambicana-crescem-mas-lucros-caem-45#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794419904000,
+         "created": 1794419904000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af4ace826800.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3082597/bombeiros-sapadores-registam-275-ocorrencias-em-lisboa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bombeiros sapadores registam 275 ocorrências em Lisboa",
@@ -83,27 +104,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ac3d64d4eeaf.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3082572/irao-ameaca-bases-norte-americanas-na-europa-incluindo-ilhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Irão ameaça bases norte-americanas na Europa, incluindo ilhas",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3082572/irao-ameaca-bases-norte-americanas-na-europa-incluindo-ilhas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794419159000,
-         "created": 1794419159000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aa902d65f7bf.webp",
                "type": "image/jpeg",
                "length": "0"
             }
