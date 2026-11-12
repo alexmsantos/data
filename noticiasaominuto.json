@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3082768/mau-tempo-algarve-registou-224-ocorrencias-na-quarta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Algarve registou 224 ocorrências na quarta-feira",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3082768/mau-tempo-algarve-registou-224-ocorrencias-na-quarta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794465531000,
+         "created": 1794465531000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_698f902d6bb81.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3082763/nove-policias-feridos-em-disturbios-e-confrontos-durante-greve-geral-em-madrid#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Polícias feridos em distúrbios e confrontos durante greve geral em Madrid",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6af3ce7cd9f1c.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjcwMSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3082125/bolsa-de-toquio-abre-com-nikkei-a-subir-0-33#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Bolsa de Tóquio abre com Nikkei a subir 0,33%",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3082125/bolsa-de-toquio-abre-com-nikkei-a-subir-0-33#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794359162000,
-         "created": 1794359162000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5512bf8a7199d.webp",
                "type": "image/jpeg",
                "length": "0"
             }
