@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Desporto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3083525/bolsa-de-lisboa-abre-a-subir-0-11#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bolsa de Lisboa abre a subir 0,11%",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3083525/bolsa-de-lisboa-abre-a-subir-0-11#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794559708000,
+         "created": 1794559708000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_69553849c426c.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3083438/setor-europeu-do-tomate-quer-proteger-mercado-contra-concorrencia-marroquina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Tomate: Setor europeu quer proteger mercado da concorrência marroquina",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3083438/setor-europeu-do-tomate-quer-proteger-mercado-contra-concorrencia-marroquina#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794559673000,
+         "created": 1794559673000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a9a90b101879.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/desporto/3083533/frozenpark-adquire-70-dos-creditos-do-boavista#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Após compra do Bessa, Frozenpark adquire 70% dos créditos do Boavista",
@@ -10247,48 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_69724e835dd11.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3082869/black-friday-as-5-questoes-que-deve-fazer-antes-de-comprar-um-computador#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Black Friday. As 5 questões que deve fazer antes de comprar um computador",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3082869/black-friday-as-5-questoes-que-deve-fazer-antes-de-comprar-um-computador#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794474227000,
-         "created": 1794474227000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_60a39efcc536b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMzA1LCJjcm9wSGVpZ2h0IjoxMjk3LCJjcm9wWCI6MjMzLCJjcm9wWSI6MTk5fSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo4ODEsImNyb3BIZWlnaHQiOjE1NjcsImNyb3BYIjoxMDQ0LCJjcm9wWSI6MTZ9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3082863/nao-fecha-parlamento-abriu-por-causa-de-hugo-soares-deputado-recusa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"Não fecha\". Parlamento abriu por causa de Hugo Soares? Deputado recusa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3082863/nao-fecha-parlamento-abriu-por-causa-de-hugo-soares-deputado-recusa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794473837000,
-         "created": 1794473837000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a1f1b916bb2b.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDQ4LCJjcm9wSGVpZ2h0IjoxMTUyLCJjcm9wWCI6OTEsImNyb3BZIjoxODB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjkzMCwiY3JvcEhlaWdodCI6MTY1MywiY3JvcFgiOjc1MCwiY3JvcFkiOi0xfX0=",
                "type": "image/jpeg",
                "length": "0"
             }
