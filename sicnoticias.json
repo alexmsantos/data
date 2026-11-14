@@ -43,8 +43,25 @@
          "published": 1794680826000,
          "created": 1794680826000,
          "category": "País",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-12-27-acidente-estrada-carro.jpg-cedc17f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2022-12-27-acidente-estrada-carro.jpg-cedc17f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2022-12-27-acidente-estrada-carro.jpg-cedc17f3/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "0c0eec10-cff5-4b15-a449-323f1e566932",
