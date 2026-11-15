@@ -130,8 +130,25 @@
          "published": 1794743232000,
          "created": 1794743232000,
          "category": "Guerra Rússia-Ucrânia",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-09-21-2026-09-20t183019z_1848722710_rc26nna8pnjy_rtrmadp_3_ukraine-crisis-russia-refinery.jpg-d7a5d56a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/sicnot/2026-09-21-2026-09-20t183019z_1848722710_rc26nna8pnjy_rtrmadp_3_ukraine-crisis-russia-refinery.jpg-d7a5d56a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/sicnot/2026-09-21-2026-09-20t183019z_1848722710_rc26nna8pnjy_rtrmadp_3_ukraine-crisis-russia-refinery.jpg-d7a5d56a-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "a75cb235-d989-4525-a5d5-c29c5b4fb9c2",
