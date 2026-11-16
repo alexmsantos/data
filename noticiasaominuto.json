@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/tech/3084907/bolsa-de-nova-iorque-cai-com-acoes-da-nvidia-a-descer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Bolsa de Nova Iorque cai com ações da Nvidia a descer",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/tech/3084907/bolsa-de-nova-iorque-cai-com-acoes-da-nvidia-a-descer#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794841982000,
+         "created": 1794841982000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5d84e3711825d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3084832/vereador-da-habitacao-em-lisboa-relativiza-contestacao-da-hasta-publica-de-10-terrenos-municipais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Venda de terrenos em Lisboa contestada em tribunal. Câmara não recua",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6af898f7bbd72.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3084231/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Mais de 16 mil voos cancelados na sexta-feira e hoje nos EUA, prevê FAA",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3084231/mais-de-16-mil-voos-cancelados-na-sexta-feira-e-hoje-nos-eua-preve-faa#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794678007000,
-         "created": 1794678007000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af899ab52b66.webp",
                "type": "image/jpeg",
                "length": "0"
             }
