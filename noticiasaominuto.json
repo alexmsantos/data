@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3085115/jesus-arrasado-em-espanha-sempre-que-abre-a-boca-so-se-enterra-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Jesus arrasado em Espanha: \"Sempre que abre a boca, só se enterra mais\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3085115/jesus-arrasado-em-espanha-sempre-que-abre-a-boca-so-se-enterra-mais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794862432000,
+         "created": 1794862432000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a0d72f381f9d.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3085125/onu-elogia-povo-cabo-verdiano-pelo-envolvimento-civico-nas-eleicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "ONU elogia povo cabo-verdiano pelo envolvimento cívico nas eleições",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3085125/onu-elogia-povo-cabo-verdiano-pelo-envolvimento-civico-nas-eleicoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794862167000,
+         "created": 1794862167000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afb6c7d45842.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3085122/ministro-da-educacao-mantem-compromisso-de-fomentar-emprego-cientifico-c-audio#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo admite que programas de emprego científico podem não ser ideais",
@@ -10247,48 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6af9af2b379ba.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3084443/espanha-e-lider-europeu-no-consumo-de-cerveja-sem-alcool#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Sabe qual é o país da Europa que mais consome cerveja sem álcool?",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3084443/espanha-e-lider-europeu-no-consumo-de-cerveja-sem-alcool#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794747960000,
-         "created": 1794747960000,
-         "category": "Lifestyle",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_678698a7a47ee.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3084087/gta-vi-esteve-perto-de-ser-banido-na-coreia-do-sul-por-excesso-de-nudez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "\"GTA VI\" esteve perto de ser banido na Coreia do Sul por excesso de nudez",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3084087/gta-vi-esteve-perto-de-ser-banido-na-coreia-do-sul-por-excesso-de-nudez#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794747600000,
-         "created": 1794747600000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_681a1bbcd92fc.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMDI0LCJjcm9wSGVpZ2h0IjoxMTM4LCJjcm9wWCI6MTAsImNyb3BZIjoxOTl9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjgwNiwiY3JvcEhlaWdodCI6MTQzMywiY3JvcFgiOjM5MSwiY3JvcFkiOjR9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
