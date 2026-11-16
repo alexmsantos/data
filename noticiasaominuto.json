@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - País",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3084943/tce-defende-participacao-do-setor-privado-em-projetos-de-educacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "TCE defende participação do setor privado em projetos de educação",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3084943/tce-defende-participacao-do-setor-privado-em-projetos-de-educacao#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794846384000,
+         "created": 1794846384000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afb2eb23c59f.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3084945/estuario-do-sado-podera-subir-2-graus-ate-2100-diz-estudo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Estuário do Sado poderá subir 2 graus até 2100, diz estudo",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_62fc90f44c890.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3084283/liga-nacoes-braga-homenageia-cristiano-ronaldo-com-coreografia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Braga homenageia Cristiano Ronaldo com coreografia e uma tarja",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3084283/liga-nacoes-braga-homenageia-cristiano-ronaldo-com-coreografia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794687463000,
-         "created": 1794687463000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af8c2beb39a7.webp",
                "type": "image/jpeg",
                "length": "0"
             }
