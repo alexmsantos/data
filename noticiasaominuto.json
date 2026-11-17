@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Desporto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/desporto/3085501/nao-ha-cr7-ha-forbs7-portugal-vence-em-gales-e-confirma-primeiro-lugar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Não há CR7, há Forbs7. Portugal vence em Gales e confirma primeiro lugar",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/desporto/3085501/nao-ha-cr7-ha-forbs7-portugal-vence-em-gales-e-confirma-primeiro-lugar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794951463000,
+         "created": 1794951463000,
+         "category": "Desporto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afcc5f2ada54.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3085792/medio-oriente-conselho-de-paz-entrega-relatorio-sobre-gaza-e-alerta-para-cessar-fogo-falhado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Conselho de Paz entrega relatório sobre Gaza (e deixa alerta)",
@@ -755,27 +776,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6afcaf37dfd5a.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3085501/em-direto-pais-de-gales-portugal-define-contas-do-grupo-a4#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "EM DIRETO: Forbs salta do banco para marcar no Gales-Portugal",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3085501/em-direto-pais-de-gales-portugal-define-contas-do-grupo-a4#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794944667000,
-         "created": 1794944667000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afcc5f2ada54.webp",
                "type": "image/jpeg",
                "length": "0"
             }
