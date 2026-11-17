@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - País",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3085200/guardas-prisionais-iniciam-greve-geral-ate-3-de-janeiro-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Guardas prisionais iniciam greve geral até 3 de janeiro de 2027",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3085200/guardas-prisionais-iniciam-greve-geral-ate-3-de-janeiro-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1794892920000,
+         "created": 1794892920000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afbe47d0f6b5.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3085192/kim-jong-un-visita-fronteira-com-china-possivelmente-esta-semana#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Kim Jong-un visita fronteira com China, possivelmente esta semana",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6647ded09fe54.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/mundo/3084506/russia-alerta-para-regresso-de-ensaios-nucleares-e-ameaca-resposta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Rússia alerta para regresso de ensaios nucleares e ameaça com resposta",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/mundo/3084506/russia-alerta-para-regresso-de-ensaios-nucleares-e-ameaca-resposta#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794766402000,
-         "created": 1794766402000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6af9f66e05e2d.webp",
                "type": "image/jpeg",
                "length": "0"
             }
