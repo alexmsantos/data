@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3086070/dentista-das-feras-trata-urso-com-dor-de-dente-pumas-irmas-e-ate-cobra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "\"Dentista das feras\" trata urso com dor de dente, pumas irmãs e até cobra",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3086070/dentista-das-feras-trata-urso-com-dor-de-dente-pumas-irmas-e-ate-cobra#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795007531000,
+         "created": 1795007531000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afd9228ae0bb.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/tech/3085332/rumores-indicam-que-serao-precisas-200-horas-para-completar-gta-vi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Rumores indicam que serão precisas 200 horas para completar \"GTA VI\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6afc44f2c2d37.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3085424/portugal-reune-especialistas-e-astronauta-da-nasa-em-forum-sobre-espaco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Portugal debaterá futuro do Espaço com especialistas e astronauta da NASA",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3085424/portugal-reune-especialistas-e-astronauta-da-nasa-em-forum-sobre-espaco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794917910000,
-         "created": 1794917910000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afc44288a219.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyMTQzLCJjcm9wSGVpZ2h0IjoxMjA2LCJjcm9wWCI6NDA0LCJjcm9wWSI6MzQxfSwicG9ydHJhaXQiOnsiY3JvcFdpZHRoIjo5MzcsImNyb3BIZWlnaHQiOjE2NjYsImNyb3BYIjoxMDk4LCJjcm9wWSI6MTJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
