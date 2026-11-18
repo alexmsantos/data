@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Tech",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3086165/erc-atua-junto-da-meta-sobre-limitacoes-aos-media-e-pede-colaboracao-com-regulador-irlandes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Notícias com acesso limitado no Facebook e Instagram. ERC intervém",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3086165/erc-atua-junto-da-meta-sobre-limitacoes-aos-media-e-pede-colaboracao-com-regulador-irlandes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795011960000,
+         "created": 1795011960000,
+         "category": "Tech",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6964c4f81a54b.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/3086158/teatrao-abre-as-portas-de-tartufo-para-expor-manipuladores-dos-dias-de-hoje-c-fotos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Teatrão estreia em Coimbra versão de \"Tartufo\" censurada há 362 anos",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_5cf75fa881217.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/tech/3085493/eset-alerta-para-ficheiros-maliciosos-que-se-fazem-passar-por-gta-vi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "ESET alerta para ficheiros maliciosos que se fazem passar por \"GTA VI\"",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/tech/3085493/eset-alerta-para-ficheiros-maliciosos-que-se-fazem-passar-por-gta-vi#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794923909000,
-         "created": 1794923909000,
-         "category": "Tech",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6aed9ca8b5366.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxODk3LCJjcm9wSGVpZ2h0IjoxMDY3LCJjcm9wWCI6NywiY3JvcFkiOjZ9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjYwMiwiY3JvcEhlaWdodCI6MTA3MSwiY3JvcFgiOjI2NiwiY3JvcFkiOjJ9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
