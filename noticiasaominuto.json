@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Tech",
+   "title": "Notícias ao Minuto - Auto",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/auto/3086164/quanto-pode-andar-com-o-carro-na-reserva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Acendeu a luz da reserva? Saiba quantos quilómetros ainda pode fazer",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/auto/3086164/quanto-pode-andar-com-o-carro-na-reserva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795012304000,
+         "created": 1795012304000,
+         "category": "Auto",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afdb47dcb209.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/pais/3086165/erc-atua-junto-da-meta-sobre-limitacoes-aos-media-e-pede-colaboracao-com-regulador-irlandes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Notícias com acesso limitado no Facebook e Instagram. ERC intervém",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_568277ed6dd77.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3085480/navigator-aumenta-precos-da-gama-gkraft-entre-8-e-12-a-partir-de-janeiro-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Navigator vai aumentar preços das embalagens até 12% em janeiro",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3085480/navigator-aumenta-precos-da-gama-gkraft-entre-8-e-12-a-partir-de-janeiro-de-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794923956000,
-         "created": 1794923956000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_5cf75fa881217.webp",
                "type": "image/jpeg",
                "length": "0"
             }
