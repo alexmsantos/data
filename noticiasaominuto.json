@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Auto",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3086172/atencao-passageiros-vem-ai-uma-semana-de-greves-na-cp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Atenção, passageiros: Vem aí uma semana de greve na CP",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3086172/atencao-passageiros-vem-ai-uma-semana-de-greves-na-cp#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795012590000,
+         "created": 1795012590000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afdb7d67bed6.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/auto/3086164/quanto-pode-andar-com-o-carro-na-reserva#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Acendeu a luz da reserva? Saiba quantos quilómetros ainda pode fazer",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6afc5ed47afab.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3085479/camara-de-vizela-aprova-orcamento-de-31-6-milhoes-de-euros-para-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Câmara de Vizela aprova orçamento de 31,6 milhões de euros para 2027",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3085479/camara-de-vizela-aprova-orcamento-de-31-6-milhoes-de-euros-para-2027#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1794923996000,
-         "created": 1794923996000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_568277ed6dd77.webp",
                "type": "image/jpeg",
                "length": "0"
             }
