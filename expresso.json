@@ -72,8 +72,25 @@
          "published": 1795101322000,
          "created": 1795101322000,
          "category": "Hotéis de Charme",
-         "enclosures": [],
-         "media": {}
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-11-19-axis-avenida.jpg-f8dcfe50/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-11-19-axis-avenida.jpg-f8dcfe50/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-11-19-axis-avenida.jpg-f8dcfe50/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
       },
       {
          "id": "8ca9b592-f490-4578-9148-b25a28e8db01",
