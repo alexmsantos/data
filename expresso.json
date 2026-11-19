@@ -6,6 +6,40 @@
    "category": [],
    "items": [
       {
+         "id": "34b8a8ec-a7bb-4ee7-987f-f29caa18341e",
+         "title": "“Um aluno perguntou ao meu colega 'Professor, posso citar autores anteriores a 2020?' e ele disse-me 'Ainda estou a recuperar desse e-mail”",
+         "description": "<p>Os alunos ainda leem os clássicos? E o que acontece quando a inteligência artificial ameaça substituir o tempo lento da aprendizagem? Raquel Varela fala de educação, conhecimento, tecnologia e do valor da História para compreender um mundo em mudança. Oiça-a no podcast O Princípio da Inquietação</p>",
+         "link": "https://expresso.pt/podcasts/o-principio-da-inquietacao/2026-11-19-um-aluno-perguntou-ao-meu-colega-professor-posso-citar-autores-anteriores-a-2020--e-ele-disse-me-ainda-estou-a-recuperar-desse-e-mail-613b5446",
+         "author": [
+            "Catarina Barosa",
+            "David Erlich",
+            "Matilde Fieschi",
+            "Tale House"
+         ],
+         "published": 1795072500000,
+         "created": 1795072500000,
+         "category": "O Princípio da Inquietação",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-11-18-principio-da-inquietacao-raquel-varela-07102026-07-mf.jpg-1c8b5bc6-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-11-18-principio-da-inquietacao-raquel-varela-07102026-07-mf.jpg-1c8b5bc6-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-11-18-principio-da-inquietacao-raquel-varela-07102026-07-mf.jpg-1c8b5bc6-1/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "c41bf831-1d14-4fe8-93cc-62290c17a0bc",
          "title": "Ciência poética: Ada Lovelace e a invenção da Inteligência Artificial",
          "description": "<p><span>Depois do homem-máquina de Descartes, dos djinn, dos génios e dos autómatos do século XVIII, Rui Tavares entra no seu segundo desejo: o desejo de imaginação. E fá-lo através de uma mulher que, muito antes da existência dos computadores, foi capaz de imaginar o que eles poderiam vir a ser: Ada Lovelace</span></p>",
@@ -38,18 +72,6 @@
          }
       },
       {
-         "id": "ce620c90-eb7e-49ff-a2f7-c07faa5fa741",
-         "title": "A produtividade que Portugal deixa debaixo do chão",
-         "description": "<p>Portugal procura há décadas setores que produzam mais por trabalhador, paguem melhores salários e criem emprego fora dos grandes centros. Tem um que cumpre os três critérios e que, ainda assim, esbarra com frequência na resistência dos concelhos onde quer crescer</p>",
-         "link": "https://expresso.pt/opiniao/2026-11-19-a-produtividade-que-portugal-deixa-debaixo-do-chao-fc7a61a5",
-         "author": "João Duarte",
-         "published": 1795071600000,
-         "created": 1795071600000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
          "id": "b6ef1b84-5dc7-4408-8da2-0e729294fd9c",
          "title": "Os preços da habitação em Portugal e as bolsas americanas",
          "description": "<p>A procura de habitação não depende apenas dos rendimentos, como salários, juros, rendas e lucros, mas também da riqueza acumulada e da valorização dos ativos financeiros</p>",
@@ -77,6 +99,18 @@
                "medium": "image"
             }
          }
+      },
+      {
+         "id": "ce620c90-eb7e-49ff-a2f7-c07faa5fa741",
+         "title": "A produtividade que Portugal deixa debaixo do chão",
+         "description": "<p>Portugal procura há décadas setores que produzam mais por trabalhador, paguem melhores salários e criem emprego fora dos grandes centros. Tem um que cumpre os três critérios e que, ainda assim, esbarra com frequência na resistência dos concelhos onde quer crescer</p>",
+         "link": "https://expresso.pt/opiniao/2026-11-19-a-produtividade-que-portugal-deixa-debaixo-do-chao-fc7a61a5",
+         "author": "João Duarte",
+         "published": 1795071600000,
+         "created": 1795071600000,
+         "category": "Opinião",
+         "enclosures": [],
+         "media": {}
       },
       {
          "id": "8e748a55-9cf8-4cb0-911f-ec102bebbe5e",
@@ -216,35 +250,6 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/sicnot/2025-09-03-expresso-da-manha-2025-paulo-baldaia---3x2.jpg-304f137a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
-         "id": "e7c992cb-f5ed-4ca5-81bc-9687ced555b6",
-         "title": "Genocídio ou contraterrorismo em Myanmar? E o que tem Israel que ver com isto? O acórdão sobre os rohingya em 15 perguntas e respostas",
-         "description": "<p>O Tribunal Internacional de Justiça lê esta quinta-feira a decisão sobre as operações militares de 2016 e 2017 na antiga Birmânia. “Dar o nome certo a este crime é crucial para se chegar à justiça”, diz o ativista rohingya Nay San Lwin. Lido de forma restritiva, o critério do tribunal – de que a intenção de destruir tem de ser a “única inferência razoável” a tirar dos factos – “tornaria o genocídio quase impossível de provar em situações de conflito armado”, alerta a professora de Direito Internacional Laura Íñigo Álvarez</p>",
-         "link": "https://expresso.pt/asia/2026-11-19-genocidio-ou-contraterrorismo-em-myanmar--e-o-que-tem-israel-que-ver-com-isto--o-acordao-sobre-os-rohingya-em-15-perguntas-e-respostas-040b175d",
-         "author": "Hélder Gomes",
-         "published": 1795068000000,
-         "created": 1795068000000,
-         "category": "Ásia",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-11-18-gettyimages-2305190403.jpg-65be9b49/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-11-18-gettyimages-2305190403.jpg-65be9b49/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-11-18-gettyimages-2305190403.jpg-65be9b49/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
