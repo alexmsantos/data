@@ -14,6 +14,9 @@ jobs:
     - name: Scrape ECO
       run: node ecoScraper.js
       continue-on-error: true
+    - name: Scrape DN
+      run: node dnScraper.js
+      continue-on-error: true
     - name: RSS to JSON Expresso
       run: node rss-to-json--expresso.js
       continue-on-error: true
