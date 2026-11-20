@@ -14,7 +14,7 @@ jobs:
     - name: Scrape ECO
       run: node ecoScraper.js
       continue-on-error: true
-    - name: Scrape DN
+    - name: Scrape Diário de Notícias
       run: node dnScraper.js
       continue-on-error: true
     - name: RSS to JSON Expresso
