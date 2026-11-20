@@ -1,0 +1,19 @@
+name: Check News Digest PT
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * 1'
+      timezone: 'Europe/Lisbon'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check active news sources
+        run: ruby .github/check-news-digest.rb
