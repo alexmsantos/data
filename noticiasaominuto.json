@@ -1,10 +1,94 @@
 {
-   "title": "Notícias ao Minuto - Cultura",
+   "title": "Notícias ao Minuto - Mundo",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3087360/ucrania-kiev-acusa-russia-de-violacao-do-espaco-aereo-polaco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Kyiv acusa Rússia de violação do espaço aéreo polaco: \"Mais uma...\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3087360/ucrania-kiev-acusa-russia-de-violacao-do-espaco-aereo-polaco#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795171758000,
+         "created": 1795171758000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_681e5245f0949.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNzQsImNyb3BZIjowfX0=",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/fama/3087343/o-emotivo-testemunho-de-nuno-markl-um-ano-apos-sofrer-avc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "O emotivo testemunho de Nuno Markl um ano após sofrer AVC",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/fama/3087343/o-emotivo-testemunho-de-nuno-markl-um-ano-apos-sofrer-avc#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795171749000,
+         "created": 1795171749000,
+         "category": "Fama",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a5f08b6d135f.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoxMTM1LCJjcm9wSGVpZ2h0Ijo2MzksImNyb3BYIjoxOCwiY3JvcFkiOjEyNX0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6NTQ0LCJjcm9wSGVpZ2h0Ijo5NjgsImNyb3BYIjozODcsImNyb3BZIjoxMjR9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3087357/trabalho-do-pai-casa-da-avo-e-atl-foram-solucoes-para-dia-de-greve-em-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Trabalho do pai, casa da avó e ATL foram soluções para dia de greve em Viseu",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3087357/trabalho-do-pai-casa-da-avo-e-atl-foram-solucoes-para-dia-de-greve-em-viseu#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795171661000,
+         "created": 1795171661000,
+         "category": "País",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_645907150ba82.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/politica/3087358/ministro-das-financas-acusa-chega-e-ps-de-formarem-bloco-fatal-e-defice#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Sarmento acusa Chega e PS de criarem \"bloco fatal\" para que haja défice",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/3087358/ministro-das-financas-acusa-chega-e-ps-de-formarem-bloco-fatal-e-defice#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795171577000,
+         "created": 1795171577000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_664615b8a90be.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/cultura/3087347/hotel-exilio-revisita-hotel-parisiense-que-acolheu-exilados-nazis-e-sobreviventes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "\"Hotel Exílio\" revisita hotel que acolheu exilados, nazis e sobreviventes",
@@ -10205,90 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6ab6af5292cab.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjEwNjQsImNyb3BZIjowfX0=",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/desporto/3086709/os-festejos-do-sporting-apos-a-chegada-a-final-da-taca-intercontinental#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Os festejos do Sporting após a chegada à final da Taça Intercontinental",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/desporto/3086709/os-festejos-do-sporting-apos-a-chegada-a-final-da-taca-intercontinental#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1795088786000,
-         "created": 1795088786000,
-         "category": "Desporto",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afee1776b34c.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjo0MjIsImNyb3BIZWlnaHQiOjIzOCwiY3JvcFgiOjQ5LCJjcm9wWSI6Mn19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3086703/macau-aprova-lei-das-associacoes-com-novas-regras-para-ligacoes-ao-exterior#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Macau aprova lei das associações com novas regras para ligações ao exterior",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3086703/macau-aprova-lei-das-associacoes-com-novas-regras-para-ligacoes-ao-exterior#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1795088746000,
-         "created": 1795088746000,
-         "category": "Mundo",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_65d85abc13930.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk1OCwiY3JvcEhlaWdodCI6MTcwMywiY3JvcFgiOjExMjgsImNyb3BZIjotMX19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/politica/3086702/cristina-rodrigues-chega-vai-depor-no-caso-do-alegado-assalto-ao-gabinete-de-ventura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Alegado assalto ao gabinete de Ventura. Cristina Rodrigues vai depor",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/politica/3086702/cristina-rodrigues-chega-vai-depor-no-caso-do-alegado-assalto-ao-gabinete-de-ventura#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1795088614000,
-         "created": 1795088614000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afee17f1c585.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDk3LCJjcm9wSGVpZ2h0IjoxNDA0LCJjcm9wWCI6MzIsImNyb3BZIjo0MH0sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6NDQ0LCJjcm9wWSI6MH19",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/cultura/3086706/leon-bridges-e-a-mais-recente-confirmacao-do-nos-alive#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Leon Bridges é a mais recente confirmação do NOS Alive",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/cultura/3086706/leon-bridges-e-a-mais-recente-confirmacao-do-nos-alive#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1795088510000,
-         "created": 1795088510000,
-         "category": "Cultura",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6afedf0e06c0f.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjU2OSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
