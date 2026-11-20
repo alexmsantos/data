@@ -17,6 +17,9 @@ jobs:
     - name: Scrape Diário de Notícias
       run: node dnScraper.js
       continue-on-error: true
+    - name: Scrape Jornal de Notícias
+      run: node jnScraper.js
+      continue-on-error: true
     - name: Scrape Correio da Manhã
       run: node cmScraper.js
       continue-on-error: true
@@ -96,7 +99,7 @@ jobs:
       continue-on-error: true
     - name: Merge files
       run: |-
-        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--eco.json digest/latest--cnnportugal.json digest/latest--dn.json digest/latest--cm.json | jq -r tostring > digest/digestpt.json
+        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--eco.json digest/latest--cnnportugal.json digest/latest--dn.json digest/latest--cm.json digest/latest--jn.json | jq -r tostring > digest/digestpt.json
     - name: Commit and push changes
       run: |-
         git diff
