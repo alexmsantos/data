@@ -20,6 +20,9 @@ jobs:
     - name: Scrape Jornal de Notícias
       run: node jnScraper.js
       continue-on-error: true
+    - name: Scrape Renascença
+      run: node rss-to-json--renascenca.js --digest
+      continue-on-error: true
     - name: Scrape Jornal de Negócios
       run: node negociosScraper.js
       continue-on-error: true
@@ -116,16 +119,24 @@ jobs:
           digest/latest--cm.json
           digest/latest--jn.json
           digest/latest--negocios.json
+          digest/latest--renascenca.json
       run: |-
         read -r -a digest_files <<< "$DIGEST_FILES"
+        empty_digest=$(mktemp)
+        trap 'rm -f "$empty_digest"' EXIT
+        echo '[]' > "$empty_digest"
         for index in "${!digest_files[@]}"; do
-          if [[ "${digest_files[index]}" == digest/latest--jn.json ]] &&
-             ! jq -es 'length == 1 and (.[0] | type == "array")' "${digest_files[index]}" >/dev/null 2>&1; then
-            echo "::warning::Digest do JN em falta ou inválido. A usar uma lista vazia na agregação."
-            digest_files[index]=/dev/stdin
-          fi
+          file="${digest_files[index]}"
+          case "$file" in
+            digest/latest--jn.json|digest/latest--renascenca.json)
+              if ! jq -es 'length == 1 and (.[0] | type == "array")' "$file" >/dev/null 2>&1; then
+                echo "::warning::$file em falta ou inválido. A usar uma lista vazia na agregação."
+                digest_files[index]="$empty_digest"
+              fi
+              ;;
+          esac
         done
-        jq -cs . "${digest_files[@]}" <<< '[]' > digest/digestpt.json
+        jq -cs . "${digest_files[@]}" > digest/digestpt.json
     - name: Commit and push changes
       run: |-
         git diff
