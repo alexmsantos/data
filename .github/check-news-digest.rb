@@ -1,7 +1,6 @@
 require 'fileutils'
 require 'json'
 require 'open3'
-require 'shellwords'
 require 'time'
 require 'tmpdir'
 require 'uri'
@@ -13,9 +12,8 @@ merge_index = steps.index { |step| step['name'] == 'Merge files' }
 abort 'Passo de merge do digest em falta' unless merge_index
 
 collection_steps = steps.take(merge_index).select { |step| step.key?('run') }
-merge = steps.fetch(merge_index).fetch('run')
 # Read the same source list as the publish workflow, including any muted media.
-digest_files = Shellwords.split(merge.split('|', 2).first).drop(3)
+digest_files = steps.fetch(merge_index).fetch('env').fetch('DIGEST_FILES').split
 unless digest_files.any? && digest_files.all? { |path| path.match?(%r{\Adigest/latest--[a-z0-9-]+\.json\z}) }
   abort 'Não foi possível identificar os ficheiros do digest no passo de merge'
 end
