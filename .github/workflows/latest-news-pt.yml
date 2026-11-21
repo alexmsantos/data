@@ -102,7 +102,12 @@ jobs:
       continue-on-error: true
     - name: Merge files
       run: |-
-        jq -s . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--eco.json digest/latest--cnnportugal.json digest/latest--dn.json digest/latest--cm.json digest/latest--jn.json digest/latest--negocios.json | jq -r tostring > digest/digestpt.json
+        jn_digest=digest/latest--jn.json
+        if ! jq -es 'length == 1 and (.[0] | type == "array")' "$jn_digest" >/dev/null 2>&1; then
+          echo "::warning::Digest do JN em falta ou inválido. A usar uma lista vazia na agregação."
+          jn_digest=/dev/stdin
+        fi
+        jq -cs . digest/latest--publico.json digest/latest--observador.json digest/latest--expresso.json digest/latest--rtp.json digest/latest--economico.json digest/latest--noticiasaominuto.json digest/latest--sicnoticias.json digest/latest--eco.json digest/latest--cnnportugal.json digest/latest--dn.json digest/latest--cm.json "$jn_digest" digest/latest--negocios.json <<< '[]' > digest/digestpt.json
     - name: Commit and push changes
       run: |-
         git diff

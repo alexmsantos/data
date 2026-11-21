@@ -1,5 +1,6 @@
 const { execFile } = require('node:child_process');
-const { writeFile } = require('node:fs/promises');
+const { randomUUID } = require('node:crypto');
+const { rename, rm, writeFile } = require('node:fs/promises');
 const { join } = require('node:path');
 const { promisify } = require('node:util');
 const cheerio = require('cheerio');
@@ -11,7 +12,8 @@ const sitemap = origin + '/feed/news/sitemap.xml';
 
 async function download(url) {
   const { stdout } = await run('curl', [
-    '--fail', '--silent', '--show-error', '--location', '--max-time', '15', url,
+    '--fail', '--silent', '--show-error', '--location', '--max-time', '15',
+    '--retry', '2', '--retry-max-time', '30', '--retry-connrefused', url,
   ], { maxBuffer: 16 * 1024 * 1024 });
   return stdout;
 }
@@ -87,7 +89,14 @@ async function main() {
     console.warn(`Página de últimas do JN indisponível (${error.message}). A consultar o sitemap.`);
     return readSitemap();
   });
-  await writeFile(join(__dirname, 'digest', 'latest--jn.json'), JSON.stringify(articles, null, 2) + '\n');
+  const output = join(__dirname, 'digest', 'latest--jn.json');
+  const temporary = `${output}.${randomUUID()}.tmp`;
+  try {
+    await writeFile(temporary, JSON.stringify(articles, null, 2) + '\n');
+    await rename(temporary, output);
+  } finally {
+    await rm(temporary, { force: true });
+  }
   console.log(`JN: ${articles.length} artigos recolhidos.`);
 }
 
