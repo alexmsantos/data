@@ -29,6 +29,9 @@ jobs:
     - name: Scrape Correio da Manhã
       run: node cmScraper.js
       continue-on-error: true
+    - name: Scrape SOL
+      run: node solScraper.js
+      continue-on-error: true
     - name: RSS to JSON Expresso
       run: node rss-to-json--expresso.js
       continue-on-error: true
@@ -120,6 +123,7 @@ jobs:
           digest/latest--jn.json
           digest/latest--negocios.json
           digest/latest--renascenca.json
+          digest/latest--sol.json
       run: |-
         read -r -a digest_files <<< "$DIGEST_FILES"
         empty_digest=$(mktemp)
@@ -128,7 +132,7 @@ jobs:
         for index in "${!digest_files[@]}"; do
           file="${digest_files[index]}"
           case "$file" in
-            digest/latest--jn.json|digest/latest--renascenca.json)
+            digest/latest--jn.json|digest/latest--renascenca.json|digest/latest--sol.json)
               if ! jq -es 'length == 1 and (.[0] | type == "array")' "$file" >/dev/null 2>&1; then
                 echo "::warning::$file em falta ou inválido. A usar uma lista vazia na agregação."
                 digest_files[index]="$empty_digest"
