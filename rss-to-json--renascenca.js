@@ -11,6 +11,7 @@ const feedUrl = site + '/rssfeed-ultimas';
 const latestUrl = site + '/ultimas';
 const newsFeed = 'https://news.google.com/rss/search?q=site%3Arr.pt+when%3A1d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150';
 const run = promisify(execFile);
+const publisherHosts = new Set(['rr.pt', 'www.rr.pt', 'rr.sapo.pt']);
 
 async function loadPage(url, timeout = 8000) {
     try {
@@ -22,15 +23,40 @@ async function loadPage(url, timeout = 8000) {
 }
 
 function articleUrl(href) {
+    if (!href || !URL.canParse(href, site)) return;
     const url = new URL(href, site);
-    const articlePath = /\/(?:noticia|artigo|especial)\/.+\/\d{4}\/\d{2}\/\d{2}\/.+\/\d+\/?$/;
-    if (url.origin === site && articlePath.test(url.pathname)) {
+    const articlePath = /^\/(?:bola-branca\/)?(?:noticia|artigo|especial)\/[^/]+\/\d{4}\/\d{2}\/\d{2}\/[^/]+\/\d+\/?$/;
+    if (['https:', 'http:'].includes(url.protocol) && publisherHosts.has(url.host) &&
+        articlePath.test(url.pathname)) {
         return site + url.pathname.replace(/\/?$/, '/');
+    }
+}
+
+function canonicalArticle($, pageUrl) {
+    const canonical = $('link[rel="canonical"]').first().attr('href');
+    const openGraph = $('meta[property="og:url"]').first().attr('content');
+    return articleUrl(canonical) || articleUrl(openGraph) || articleUrl(pageUrl);
+}
+
+async function resolveGoogleArticle(link, timeout) {
+    try {
+        const { stdout } = await run('curl', [
+            '--silent', '--show-error', '--location', '--max-redirs', '5',
+            '--proto', '=https', '--proto-redir', '=https', '--max-time', String(timeout),
+            '--write-out', '\n%{url_effective}', link,
+        ], { maxBuffer: 4 * 1024 * 1024 });
+        const end = stdout.lastIndexOf('\n');
+        const pageUrl = new URL(stdout.slice(end + 1));
+        if (!publisherHosts.has(pageUrl.host)) return;
+        return canonicalArticle(cheerio.load(stdout.slice(0, end)), pageUrl.href);
+    } catch {
+        return undefined;
     }
 }
 
 async function scrapeArticle(link, timeout) {
     const $ = await loadPage(link, timeout);
+    link = canonicalArticle($, link);
     const meta = name => $(`meta[property="${name}"], meta[name="${name}"]`).first().attr('content');
     const title = (meta('og:title') || $('h1').first().text()).trim();
     const published = Date.parse(meta('article:published_time') || $('time[datetime]').first().attr('datetime'));
@@ -70,7 +96,7 @@ async function scrapeLatest() {
     if (!links.size) throw new Error(`Nenhum link de notícia encontrado em ${latestUrl}`);
 
     const items = [];
-    const deadline = Date.now() + 14000;
+    const deadline = Date.now() + 6000;
     const latestLinks = [...links].slice(0, 25);
     for (let index = 0; index < latestLinks.length; index += 4) {
         const timeout = Math.min(8000, deadline - Date.now());
@@ -100,19 +126,16 @@ function makeFeed(items) {
 
 async function readNewsFeed() {
     const { stdout } = await run('curl', [
-        '--fail', '--silent', '--show-error', '--location', '--max-time', '12', newsFeed,
+        '--fail', '--silent', '--show-error', '--location', '--max-time', '8', newsFeed,
     ], { maxBuffer: 16 * 1024 * 1024 });
     const $ = cheerio.load(stdout, { xml: true });
     const items = new Map();
-    const publishers = new Set([
-        'https://rr.pt', 'https://www.rr.pt', 'https://rr.sapo.pt',
-        'http://rr.pt', 'http://www.rr.pt', 'http://rr.sapo.pt',
-    ]);
 
     $('rss > channel > item').each((_, element) => {
         const item = $(element);
         const source = item.children('source');
-        if (!publishers.has(source.attr('url')?.replace(/\/$/, ''))) return;
+        const publisher = source.attr('url');
+        if (!URL.canParse(publisher) || !publisherHosts.has(new URL(publisher).host)) return;
         const link = item.children('link').text().trim();
         // Google Notícias reports Renascença timestamps one hour before the publisher.
         const published = Date.parse(item.children('pubDate').text().trim()) + 60 * 60 * 1000;
@@ -129,13 +152,29 @@ async function readNewsFeed() {
         });
     });
     if (!items.size) throw new Error('Nenhum artigo válido da Renascença no Google Notícias');
-    return makeFeed([...items.values()].sort((a, b) => b.published - a.published).slice(0, 25));
+    const candidates = [...items.values()].sort((a, b) => b.published - a.published);
+    const resolved = new Map();
+    const deadline = Date.now() + 10000;
+    for (let index = 0; index < candidates.length && resolved.size < 10; index += 5) {
+        const timeout = Math.min(3, (deadline - Date.now()) / 1000);
+        if (timeout <= 0) break;
+        const batch = candidates.slice(index, index + 5);
+        const links = await Promise.all(batch.map(item => resolveGoogleArticle(item.link, timeout)));
+        for (const [index, link] of links.entries()) {
+            if (link && !resolved.has(link)) resolved.set(link, { ...batch[index], id: link, link });
+        }
+    }
+    if (!resolved.size) throw new Error('O Google Notícias não devolveu links diretos para artigos da Renascença');
+    return makeFeed([...resolved.values()]);
 }
 
 async function getLatest() {
     try {
         const feed = await parse(feedUrl, { timeout: 8000 });
-        const items = feed.items?.filter(isValidArticle);
+        const items = feed.items?.flatMap(item => {
+            const link = articleUrl(item.link);
+            return link && isValidArticle(item) ? [{ ...item, link }] : [];
+        });
         if (items?.length) return { feed: { ...feed, items }, source: 'RSS oficial' };
         throw new Error('Nenhum artigo válido');
     } catch (error) {
