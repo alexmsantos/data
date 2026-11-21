@@ -34,7 +34,7 @@ async function scrapeArticle(link, timeout) {
     const meta = name => $(`meta[property="${name}"], meta[name="${name}"]`).first().attr('content');
     const title = (meta('og:title') || $('h1').first().text()).trim();
     const published = Date.parse(meta('article:published_time') || $('time[datetime]').first().attr('datetime'));
-    if (!title || !Number.isFinite(published)) {
+    if (!isValidTitle(title) || !Number.isFinite(published)) {
         throw new Error(`Título ou data de publicação em falta em ${link}`);
     }
 
@@ -121,7 +121,7 @@ async function readNewsFeed() {
         const headline = item.children('title').text().trim();
         const suffix = ' - ' + source.text().trim();
         const title = headline.endsWith(suffix) ? headline.slice(0, -suffix.length).trim() : headline;
-        if (!title) return;
+        if (!isValidTitle(title)) return;
 
         items.set(link, {
             id: link, title, description: '', link, published, created: published,
@@ -135,7 +135,8 @@ async function readNewsFeed() {
 async function getLatest() {
     try {
         const feed = await parse(feedUrl, { timeout: 8000 });
-        if (feed.items?.some(isValidArticle)) return { feed, source: 'RSS oficial' };
+        const items = feed.items?.filter(isValidArticle);
+        if (items?.length) return { feed: { ...feed, items }, source: 'RSS oficial' };
         throw new Error('Nenhum artigo válido');
     } catch (error) {
         console.warn(`RSS da Renascença indisponível (${error.message}). A consultar /ultimas.`);
@@ -149,8 +150,14 @@ async function getLatest() {
     return { feed: await readNewsFeed(), source: 'Google Notícias' };
 }
 
+function isValidTitle(title) {
+    if (typeof title !== 'string') return false;
+    const trimmed = title.trim();
+    return !/^(?:[-–—]\s*)?(?:Renascença)?$/iu.test(trimmed);
+}
+
 function isValidArticle({ title, link, published }) {
-    return typeof title === 'string' && title.trim() && typeof link === 'string' &&
+    return isValidTitle(title) && typeof link === 'string' &&
         /^https?:\/\//.test(link) && URL.canParse(link) &&
         Number.isFinite(published) && Number.isFinite(new Date(published).getTime());
 }
