@@ -48,6 +48,9 @@ Dir.mktmpdir('news-digest-') do |directory|
       details = stderr.strip.empty? ? stdout : stderr
       report << [name, "Falha na execução (código #{status.exitstatus})"]
       warn details.lines.last(8).map { |line| "  #{line}" }.join
+    elsif name == 'Scrape Jornal de Notícias' && stdout.match?(/artigos recolhidos via Google Notícias\./)
+      report << [name, 'OK · Google Notícias (fonte alternativa)']
+      warn stderr
     elsif stderr.match?(/A consultar (a FreeNewsAPI|o sitemap)|A usar o RSS/)
       report << [name, 'A fonte principal falhou e foi usada a alternativa']
       warn stderr

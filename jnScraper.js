@@ -9,23 +9,24 @@ const run = promisify(execFile);
 const origin = 'https://www.jn.pt';
 const latest = origin + '/ultimas';
 const sitemap = origin + '/feed/news/sitemap.xml';
+const newsFeed = 'https://news.google.com/rss/search?q=site%3Ajn.pt+when%3A1d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150';
 
-async function download(url) {
+async function download(url, retries = 2) {
   const { stdout } = await run('curl', [
     '--fail', '--silent', '--show-error', '--location', '--max-time', '15',
-    '--retry', '2', '--retry-max-time', '30', '--retry-connrefused', url,
+    '--retry', String(retries), '--retry-max-time', '30', '--retry-connrefused', url,
   ], { maxBuffer: 16 * 1024 * 1024 });
   return stdout;
 }
 
-function normalizeArticles(entries) {
+function normalizeArticles(entries, articleOrigin = origin) {
   const articles = new Map();
   for (const { title, href, date } of entries) {
     const published = Date.parse(date);
     if (!title || !href || !Number.isFinite(published) || !URL.canParse(href, latest)) continue;
     const url = new URL(href, latest);
-    if (url.origin !== origin) continue;
-    url.search = '';
+    if (url.origin !== articleOrigin) continue;
+    if (articleOrigin === origin) url.search = '';
     url.hash = '';
     articles.set(url.href, {
       title,
@@ -84,11 +85,37 @@ async function readSitemap() {
   return normalizeArticles(entries);
 }
 
+async function readNewsFeed() {
+  const $ = cheerio.load(await download(newsFeed, 0), { xml: true });
+  const entries = $('rss > channel > item').map((_, element) => {
+    const item = $(element);
+    const publisher = item.children('source');
+    if (!['https://www.jn.pt', 'https://jn.pt'].includes(publisher.attr('url'))) return null;
+    const href = item.children('link').text().trim();
+    if (!href.startsWith('https://news.google.com/rss/articles/')) return null;
+    const title = item.children('title').text().trim();
+    const suffix = ' - ' + publisher.text().trim();
+    return {
+      title: title.endsWith(suffix) ? title.slice(0, -suffix.length) : title,
+      href,
+      date: item.children('pubDate').text().trim(),
+    };
+  }).get();
+  return normalizeArticles(entries, 'https://news.google.com');
+}
+
 async function main() {
-  const articles = await readLatest().catch(error => {
-    console.warn(`Página de últimas do JN indisponível (${error.message}). A consultar o sitemap.`);
-    return readSitemap();
-  });
+  let source = 'JN';
+  const articles = await readLatest()
+    .catch(error => {
+      console.warn(`Página de últimas do JN indisponível (${error.message}). A consultar o sitemap.`);
+      return readSitemap();
+    })
+    .catch(error => {
+      console.warn(`Sitemap do JN indisponível (${error.message}). A consultar o Google Notícias.`);
+      source = 'Google Notícias';
+      return readNewsFeed();
+    });
   const output = join(__dirname, 'digest', 'latest--jn.json');
   const temporary = `${output}.${randomUUID()}.tmp`;
   try {
@@ -97,7 +124,7 @@ async function main() {
   } finally {
     await rm(temporary, { force: true });
   }
-  console.log(`JN: ${articles.length} artigos recolhidos.`);
+  console.log(`JN: ${articles.length} artigos recolhidos via ${source}.`);
 }
 
 main().catch(error => {
