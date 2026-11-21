@@ -1,11 +1,20 @@
+const { execFile } = require('node:child_process');
 const { writeFile } = require('node:fs/promises');
 const { join } = require('node:path');
+const { promisify } = require('node:util');
 const cheerio = require('cheerio');
-const request = require('request-promise');
 
+const run = promisify(execFile);
 const origin = 'https://www.jn.pt';
 const latest = origin + '/ultimas';
 const sitemap = origin + '/feed/news/sitemap.xml';
+
+async function download(url) {
+  const { stdout } = await run('curl', [
+    '--fail', '--silent', '--show-error', '--location', '--max-time', '15', url,
+  ], { maxBuffer: 16 * 1024 * 1024 });
+  return stdout;
+}
 
 function normalizeArticles(entries) {
   const articles = new Map();
@@ -30,7 +39,7 @@ function normalizeArticles(entries) {
 }
 
 async function readLatest() {
-  const html = await request({ uri: latest, timeout: 15000 });
+  const html = await download(latest);
   const $ = cheerio.load(html);
 
   // Next.js delivers the article list and its publication dates in Flight data.
@@ -60,7 +69,7 @@ async function readLatest() {
 }
 
 async function readSitemap() {
-  const xml = await request({ uri: sitemap, timeout: 15000 });
+  const xml = await download(sitemap);
   const $ = cheerio.load(xml, { xml: true });
   const entries = $('urlset > url').map((_, element) => {
     const item = $(element);
