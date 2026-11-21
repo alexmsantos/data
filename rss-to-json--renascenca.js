@@ -114,7 +114,8 @@ async function readNewsFeed() {
         const source = item.children('source');
         if (!publishers.has(source.attr('url')?.replace(/\/$/, ''))) return;
         const link = item.children('link').text().trim();
-        const published = Date.parse(item.children('pubDate').text().trim());
+        // Google Notícias reports Renascença timestamps one hour before the publisher.
+        const published = Date.parse(item.children('pubDate').text().trim()) + 60 * 60 * 1000;
         if (!link.startsWith('https://news.google.com/rss/articles/') || !Number.isFinite(published)) return;
 
         const headline = item.children('title').text().trim();
