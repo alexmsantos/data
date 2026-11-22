@@ -7,6 +7,7 @@ const request = require('request-promise');
 const origin = 'https://sol.iol.pt';
 const latest = origin + '/ultimas';
 const feed = origin + '/rss.xml';
+const newsFeed = 'https://news.google.com/rss/search?q=site%3Asol.iol.pt+when%3A1d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150';
 const limit = 10;
 
 async function download(uri, timeout = 8000) {
@@ -18,9 +19,7 @@ async function download(uri, timeout = 8000) {
       || (error.statusCode === 403 && typeof error.error === 'string'
         && error.error.includes('/cdn-cgi/challenge-platform/'));
     if (challenge) {
-      const blocked = new Error(`HTTP ${error.statusCode}: desafio da Cloudflare`);
-      blocked.code = 'CLOUDFLARE_CHALLENGE';
-      throw blocked;
+      throw new Error(`HTTP ${error.statusCode}: desafio da Cloudflare`);
     }
     throw new Error(`HTTP ${error.statusCode}`);
   }
@@ -64,6 +63,26 @@ async function readFeed() {
   return articles;
 }
 
+async function readNewsFeed() {
+  const $ = cheerio.load(await download(newsFeed), { xml: true });
+  const articles = new Map();
+  $('rss > channel > item').each((_, element) => {
+    const item = $(element);
+    const source = item.children('source');
+    const publisher = source.attr('url');
+    if (!URL.canParse(publisher) || new URL(publisher).hostname !== new URL(origin).hostname) return;
+    const url = item.children('link').text().trim();
+    if (!url.startsWith('https://news.google.com/rss/articles/')) return;
+    const headline = item.children('title').text().trim();
+    const suffix = ' - ' + source.text().trim();
+    const title = headline.endsWith(suffix) ? headline.slice(0, -suffix.length).trim() : headline;
+    const date = publicationDate(item.children('pubDate').text().trim());
+    if (title && date) articles.set(url, { title, url, date });
+  });
+  if (!articles.size) throw new Error('Nenhum artigo válido do SOL no Google Notícias');
+  return [...articles.values()];
+}
+
 async function readArticleDate(url) {
   try {
     const $ = cheerio.load(await download(url, 6000));
@@ -77,10 +96,6 @@ async function readArticleDate(url) {
 
 async function scrapeLatest() {
   const [listing, rss] = await Promise.allSettled([readLatest(), readFeed()]);
-  if ([listing, rss].every(result => result.status === 'rejected'
-    && result.reason.code === 'CLOUDFLARE_CHALLENGE')) {
-    return null;
-  }
   if (rss.status === 'rejected') console.warn(`RSS do SOL indisponível (${rss.reason.message}).`);
 
   let articles;
@@ -98,19 +113,22 @@ async function scrapeLatest() {
     articles = rss.status === 'fulfilled' ? [...rss.value.values()] : [];
   }
 
-  return articles.filter(article => article.date)
-    .sort((a, b) => b.date.localeCompare(a.date))
-    .slice(0, limit)
-    .map(({ title, url, date }) => ({ title, url, date_published: date, media: 'SOL' }));
+  const dated = articles.filter(article => article.date);
+  return dated.length || rss.status === 'rejected' ? dated : [...rss.value.values()];
 }
 
 async function main() {
-  const articles = await scrapeLatest();
-  if (articles === null) {
-    console.warn('SOL: a Cloudflare bloqueou o RSS e a página de últimas notícias. O digest do SOL não foi atualizado.');
-    return;
+  let articles = await scrapeLatest();
+  let source = 'SOL';
+  if (!articles.length) {
+    console.warn('SOL: as fontes oficiais não devolveram artigos válidos. A consultar o Google Notícias.');
+    articles = await readNewsFeed();
+    source = 'Google Notícias';
   }
-  if (!articles.length) throw new Error('Nenhum artigo com hora de publicação válida');
+  articles = articles
+    .sort((a, b) => b.date.localeCompare(a.date))
+    .slice(0, limit)
+    .map(({ title, url, date }) => ({ title, url, date_published: date, media: 'SOL' }));
   const output = join(__dirname, 'digest', 'latest--sol.json');
   const temporary = `${output}.${randomUUID()}.tmp`;
   try {
@@ -119,7 +137,7 @@ async function main() {
   } finally {
     await rm(temporary, { force: true });
   }
-  console.log(`SOL: ${articles.length} artigos recolhidos.`);
+  console.log(`SOL: ${articles.length} artigos recolhidos via ${source}.`);
 }
 
 main().catch(error => {

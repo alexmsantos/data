@@ -124,7 +124,7 @@ function makeFeed(items) {
     };
 }
 
-async function readNewsFeed() {
+async function readNewsFeed(allowGoogleLinks) {
     const { stdout } = await run('curl', [
         '--fail', '--silent', '--show-error', '--location', '--max-time', '8', newsFeed,
     ], { maxBuffer: 16 * 1024 * 1024 });
@@ -164,11 +164,15 @@ async function readNewsFeed() {
             if (link && !resolved.has(link)) resolved.set(link, { ...batch[index], id: link, link });
         }
     }
-    if (!resolved.size) throw new Error('O Google Notícias não devolveu links diretos para artigos da Renascença');
+    if (!resolved.size) {
+        if (!allowGoogleLinks) throw new Error('O Google Notícias não devolveu links diretos para artigos da Renascença');
+        console.warn('Renascença: links diretos indisponíveis. A usar os links do Google Notícias no digest.');
+        return makeFeed(candidates.slice(0, 10));
+    }
     return makeFeed([...resolved.values()]);
 }
 
-async function getLatest() {
+async function getLatest(allowGoogleLinks) {
     try {
         const feed = await parse(feedUrl, { timeout: 8000 });
         const items = feed.items?.flatMap(item => {
@@ -186,7 +190,7 @@ async function getLatest() {
     } catch (error) {
         console.warn(`Página de últimas da Renascença indisponível (${error.message}). A consultar o Google Notícias.`);
     }
-    return { feed: await readNewsFeed(), source: 'Google Notícias' };
+    return { feed: await readNewsFeed(allowGoogleLinks), source: 'Google Notícias' };
 }
 
 function isValidTitle(title) {
@@ -212,8 +216,9 @@ async function writeJson(path, data, indentation) {
 }
 
 async function main() {
-    const { feed, source } = await getLatest();
-    if (process.argv.includes('--digest')) {
+    const digest = process.argv.includes('--digest');
+    const { feed, source } = await getLatest(digest);
+    if (digest) {
         const articles = feed.items.filter(isValidArticle)
             .sort((a, b) => b.published - a.published)
             .slice(0, 10)
@@ -225,7 +230,9 @@ async function main() {
             }));
         await writeJson('digest/latest--renascenca.json', articles, 2);
     }
-    await writeJson('renascenca.json', feed, 3);
+    if (feed.items.every(item => articleUrl(item.link))) {
+        await writeJson('renascenca.json', feed, 3);
+    }
     console.log(`Renascença: ${feed.items.length} artigos recolhidos via ${source}.`);
 }
 
