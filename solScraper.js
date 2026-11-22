@@ -7,7 +7,7 @@ const request = require('request-promise');
 const origin = 'https://sol.iol.pt';
 const latest = origin + '/ultimas';
 const feed = origin + '/rss.xml';
-const newsFeed = 'https://news.google.com/rss/search?q=site%3Asol.iol.pt%2Fnoticias%2F+when%3A2d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150';
+const newsFeed = 'https://news.google.com/rss/search?q=site%3Asol.iol.pt+when%3A2d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150';
 const authorPageTitles = new Set(['abel mascarenhas', 'filipe novaes']);
 const limit = 10;
 
