@@ -10,7 +10,20 @@ const feed = origin + '/rss.xml';
 const limit = 10;
 
 async function download(uri, timeout = 8000) {
-  return request({ uri, timeout, gzip: true });
+  try {
+    return await request({ uri, timeout, gzip: true });
+  } catch (error) {
+    if (!error.statusCode) throw error;
+    const challenge = error.response?.headers?.['cf-mitigated'] === 'challenge'
+      || (error.statusCode === 403 && typeof error.error === 'string'
+        && error.error.includes('/cdn-cgi/challenge-platform/'));
+    if (challenge) {
+      const blocked = new Error(`HTTP ${error.statusCode}: desafio da Cloudflare`);
+      blocked.code = 'CLOUDFLARE_CHALLENGE';
+      throw blocked;
+    }
+    throw new Error(`HTTP ${error.statusCode}`);
+  }
 }
 
 function articleUrl(href) {
@@ -64,6 +77,10 @@ async function readArticleDate(url) {
 
 async function scrapeLatest() {
   const [listing, rss] = await Promise.allSettled([readLatest(), readFeed()]);
+  if ([listing, rss].every(result => result.status === 'rejected'
+    && result.reason.code === 'CLOUDFLARE_CHALLENGE')) {
+    return null;
+  }
   if (rss.status === 'rejected') console.warn(`RSS do SOL indisponível (${rss.reason.message}).`);
 
   let articles;
@@ -89,6 +106,10 @@ async function scrapeLatest() {
 
 async function main() {
   const articles = await scrapeLatest();
+  if (articles === null) {
+    console.warn('SOL: a Cloudflare bloqueou o RSS e a página de últimas notícias. O digest do SOL não foi atualizado.');
+    return;
+  }
   if (!articles.length) throw new Error('Nenhum artigo com hora de publicação válida');
   const output = join(__dirname, 'digest', 'latest--sol.json');
   const temporary = `${output}.${randomUUID()}.tmp`;
