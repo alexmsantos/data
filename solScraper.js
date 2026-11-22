@@ -7,7 +7,8 @@ const request = require('request-promise');
 const origin = 'https://sol.iol.pt';
 const latest = origin + '/ultimas';
 const feed = origin + '/rss.xml';
-const newsFeed = 'https://news.google.com/rss/search?q=site%3Asol.iol.pt+when%3A2d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150';
+const newsFeed = 'https://news.google.com/rss/search?q=site%3Asol.iol.pt%2Fnoticias%2F+when%3A2d&hl=pt-PT&gl=PT&ceid=PT%3Apt-150';
+const authorPageTitles = new Set(['abel mascarenhas', 'filipe novaes']);
 const limit = 10;
 
 async function download(uri, timeout = 8000) {
@@ -87,7 +88,9 @@ async function readNewsFeed() {
     const suffix = ' - ' + publisher.text().trim();
     const title = headline.endsWith(suffix) ? headline.slice(0, -suffix.length).trim() : headline;
     const date = publicationDate(item.children('pubDate').text().trim());
-    if (title && date) articles.set(url, { title, url, date });
+    if (title && date && !authorPageTitles.has(title.replace(/\s+/g, ' ').toLowerCase())) {
+      articles.set(url, { title, url, date });
+    }
   });
   if (!articles.size) throw new Error('O Google Notícias não devolveu artigos válidos do SOL');
   return [...articles.values()];
