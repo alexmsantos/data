@@ -1,0 +1,32 @@
+name: Experiment - AI news topics
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Number of unique titles to classify (max 500)
+        required: false
+        default: '100'
+permissions:
+  contents: read
+jobs:
+  classify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Classify titles (manual only, no writes to published digest)
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TOPICS_LIMIT: ${{ inputs.limit }}
+        run: node scripts/classify-digest-topics.mjs
+      - name: Downloadable experimental results
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-news-topics-experiment
+          path: |
+            digest/digestpt-topics-experiment.json
+            digest/topics-experiment-report.json
+          retention-days: 7
