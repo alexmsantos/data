@@ -5,6 +5,11 @@ on:
   #schedule:
   #  - cron:  '*/8 6-23 * * *'
 
+# Prevent overlapping digest runs and conflicting pushes.
+concurrency:
+  group: fetch-news-digest-pt
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -143,7 +148,6 @@ jobs:
         jq -cs . "${digest_files[@]}" > digest/digestpt.json
     - name: Commit and push changes
       run: |-
-        git diff
         git config user.name "Automated"
         git config user.email "---"
         git pull
