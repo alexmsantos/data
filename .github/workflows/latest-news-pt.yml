@@ -147,9 +147,18 @@ jobs:
         done
         jq -cs . "${digest_files[@]}" > digest/digestpt.json
     - name: Commit and push changes
+      timeout-minutes: 2
       run: |-
         git config user.name "Automated"
         git config user.email "---"
-        git pull
-        git diff --quiet || (git add -A && git commit -m "Updated News Digest PT")
-        git push
+        git add -A
+        if git diff --cached --quiet; then
+          echo "No changes to publish."
+          exit 0
+        fi
+        git commit -m "Updated News Digest PT"
+        if ! timeout 20s git push origin HEAD:main; then
+          echo "::warning::Push not accepted immediately; retrying once."
+          timeout 20s git pull --rebase origin main
+          timeout 20s git push origin HEAD:main
+        fi
