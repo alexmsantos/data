@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Cultura",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/pais/3089386/mmp-alerta-para-falhas-na-drenagem-urbana-apos-inundacoes-que-atingiram-museu-do-traje#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Museu Nacional do Traje atingido pelas inundações em Lisboa",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/pais/3089386/mmp-alerta-para-falhas-na-drenagem-urbana-apos-inundacoes-que-atingiram-museu-do-traje#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795531084000,
+         "created": 1795531084000,
+         "category": "Cultura",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_5b166bd911fd9.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3089398/bruxelas-alerta-para-casas-sobrevalorizadas-e-subida-do-credito-a-habitacao-em-portugal#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Bruxelas alerta para casas sobrevalorizadas e subida dos empréstimos",
@@ -36,7 +57,7 @@
          },
          "published": 1795530872000,
          "created": 1795530872000,
-         "category": "Mundo",
+         "category": "Economia",
          "content": "",
          "enclosures": [
             {
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_664b2b2ea5f25.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3088691/bce-aceita-ativos-tokenizados-como-garantia-para-emprestar-aos-bancos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "BCE passa a aceitar ativos digitais como garantia de empréstimos",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3088691/bce-aceita-ativos-tokenizados-como-garantia-para-emprestar-aos-bancos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1795441062000,
-         "created": 1795441062000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6900be4290ceb.webp",
                "type": "image/jpeg",
                "length": "0"
             }
