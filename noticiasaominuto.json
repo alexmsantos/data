@@ -1,10 +1,31 @@
 {
-   "title": "Notícias ao Minuto - Economia",
+   "title": "Notícias ao Minuto - Política",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/politica/3089356/pcp-e-bloco-rejeitam-alteracoes-ao-oe2027-e-mesmo-para-chumbar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "PCP e Bloco rejeitam alterações ao OE2027. \"É mesmo para chumbar\"",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/politica/3089356/pcp-e-bloco-rejeitam-alteracoes-ao-oe2027-e-mesmo-para-chumbar#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795527863000,
+         "created": 1795527863000,
+         "category": "Política",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6a3424b3ce3bb.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjEzM30sInBvcnRyYWl0Ijp7ImNyb3BXaWR0aCI6OTYwLCJjcm9wSGVpZ2h0IjoxNzA3LCJjcm9wWCI6MTA5OCwiY3JvcFkiOjB9fQ==",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/economia/3089357/governo-determina-avaliacao-a-qualidade-das-aguas-e-solos-com-urgencia#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Governo determina avaliação à qualidade das águas e solos com \"urgência\"",
@@ -10268,27 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6b043153c72d6.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3088604/nova-polemica-em-oeiras-isaltino-morais-contratou-servicos-da-filha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Nova polémica em Oeiras: Isaltino Morais contratou serviços da filha",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3088604/nova-polemica-em-oeiras-isaltino-morais-contratou-servicos-da-filha#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1795436805000,
-         "created": 1795436805000,
-         "category": "País",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_6b041e92bf544.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNDEyLCJjcm9wSGVpZ2h0IjoxMzU3LCJjcm9wWCI6NTUsImNyb3BZIjoyODR9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjczMSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
