@@ -2,22 +2,53 @@ name: INE Destaques
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '15 9-11 * * 1-5'
+    - cron: '15 9-11 * * 1-5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ine-destaques
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 2
     steps:
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v5
+      with:
+        ref: main
+        fetch-depth: 1
     - name: CURL destaques INE
-      run: |-
-        curl "https://www.ine.pt/ine/dst_mobile.jsp?lang=PT" | jq -c . > digest/latest--ine.json
+      shell: bash
+      run: |
+        set -euo pipefail
+        curl --fail --silent --show-error --location --connect-timeout 10 --max-time 30 "https://www.ine.pt/ine/dst_mobile.jsp?lang=PT" |
+          jq -ce 'if type == "array" and length > 0 then . else error("Invalid or empty INE feed") end' > "$RUNNER_TEMP/latest--ine.json"
     - name: Commit and push changes
-      run: |-
-        git diff
+      shell: bash
+      run: |
+        set -euo pipefail
         git config user.name "Automated"
-        git config user.email "---"
-        git pull
-        git diff --quiet || (git add -A && git commit -m "Updated INE Destaques")
-        git push
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        for attempt in 1 2 3; do
+          git fetch --no-tags --depth=1 origin refs/heads/main
+          git reset --hard FETCH_HEAD
+          cp "$RUNNER_TEMP/latest--ine.json" digest/latest--ine.json
+          git add -- digest/latest--ine.json
+          if git diff --cached --quiet; then
+            echo "No INE changes."
+            exit 0
+          fi
+          git commit -m "Updated INE Destaques"
+          if git push origin HEAD:refs/heads/main; then
+            exit 0
+          fi
+          if [ "$attempt" -lt 3 ]; then
+            sleep 2
+          fi
+        done
+        echo "Unable to publish INE updates after three attempts." >&2
+        exit 1
