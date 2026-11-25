@@ -1,10 +1,52 @@
 {
-   "title": "Notícias ao Minuto - Mundo",
+   "title": "Notícias ao Minuto - Economia",
    "description": "Portugal e o Mundo ao minuto",
    "link": "https://www.noticiasaominuto.com/ultima-hora",
    "image": "",
    "category": [],
    "items": [
+      {
+         "id": "https://www.noticiasaominuto.com/economia/3089746/shein-paga-100-milhoes-de-dolares-para-resolver-acusacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "Shein paga 100 milhões de dólares para resolver acusações",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/economia/3089746/shein-paga-100-milhoes-de-dolares-para-resolver-acusacoes#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795573400000,
+         "created": 1795573400000,
+         "category": "Economia",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6b0646c5d9c59.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
+      {
+         "id": "https://www.noticiasaominuto.com/mundo/3089745/oms-diz-que-esperanca-de-vida-em-cuba-caiu-pela-primeira-vez-desde-1950#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "title": "OMS diz que esperança de vida em Cuba caiu pela primeira vez desde 1950",
+         "description": "",
+         "link": "https://www.noticiasaominuto.com/mundo/3089745/oms-diz-que-esperanca-de-vida-em-cuba-caiu-pela-primeira-vez-desde-1950#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+         "author": {
+            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+         },
+         "published": 1795573207000,
+         "created": 1795573207000,
+         "category": "Mundo",
+         "content": "",
+         "enclosures": [
+            {
+               "url": "https://media-manager.noticiasaominuto.com/640/naom_6b064613dde7a.webp",
+               "type": "image/jpeg",
+               "length": "0"
+            }
+         ],
+         "media": {}
+      },
       {
          "id": "https://www.noticiasaominuto.com/mundo/3089718/exercito-dos-eua-agenda-destruicao-de-explosivos-para-quarta-feira#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
          "title": "Exército dos EUA agenda destruição de explosivos para quarta-feira",
@@ -10247,48 +10289,6 @@
          "enclosures": [
             {
                "url": "https://media-manager.noticiasaominuto.com/640/naom_6b04b8dcf0aca.webp",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/economia/3089032/oe2027-investimento-minimo-em-investigacao-cientifica-para-vistos-gold-baixa-para-250-mil-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Investimento mínimo em investigação científica para vistos gold baixa",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/economia/3089032/oe2027-investimento-minimo-em-investigacao-cientifica-para-vistos-gold-baixa-para-250-mil-euros#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1795472730000,
-         "created": 1795472730000,
-         "category": "Economia",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_636bad7bf073b.webp?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjc1MSwiY3JvcFkiOjB9fQ==",
-               "type": "image/jpeg",
-               "length": "0"
-            }
-         ],
-         "media": {}
-      },
-      {
-         "id": "https://www.noticiasaominuto.com/pais/3089031/oe2027-suplementos-da-gnr-e-psp-para-escalas-turnos-piquetes-e-residencia-aumentam-no-proximo-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "title": "Suplementos da GNR e PSP para escalas (e não só) aumenta no próximo ano",
-         "description": "",
-         "link": "https://www.noticiasaominuto.com/pais/3089031/oe2027-suplementos-da-gnr-e-psp-para-escalas-turnos-piquetes-e-residencia-aumentam-no-proximo-ano#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
-         "author": {
-            "xmlns:dc": "http://purl.org/dc/elements/1.1/"
-         },
-         "published": 1795472549000,
-         "created": 1795472549000,
-         "category": "Política",
-         "content": "",
-         "enclosures": [
-            {
-               "url": "https://media-manager.noticiasaominuto.com/640/naom_67a67d3188a4d.webp?crop_params=eyJsYW5kc2NhcGUiOnsiY3JvcFdpZHRoIjoyNTYwLCJjcm9wSGVpZ2h0IjoxNDQwLCJjcm9wWCI6MCwiY3JvcFkiOjB9LCJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjk2MCwiY3JvcEhlaWdodCI6MTcwNywiY3JvcFgiOjk0NSwiY3JvcFkiOjB9fQ==",
                "type": "image/jpeg",
                "length": "0"
             }
