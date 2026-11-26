@@ -2,31 +2,64 @@ name: Fetch articles
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0,2,6,8,10,12,14,16,18,20,22 * * *'
+    - cron: '0 0,2,6,8,10,12,14,16,18,20,22 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-articles
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 3
     steps:
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v5
+      with:
+        ref: main
+        fetch-depth: 1
     - name: Download Feed
-      run: |-
-        curl "https://www.publico.pt/api/content/home?&op=false&size=30" | jq -r tostring > hardnews.json
-    - name: Download Feed
-      run: |-
-        curl "https://www.publico.pt/api/page/hp/opinion" | jq -r tostring > opinion.json
-    - name: Download Feed
-      run: |-
-        curl "https://www.publico.pt/api/list/ultimas" | jq -r tostring > latest-news.json
-    - name: Download Feed
-      run: |-
-        curl "https://www.publico.pt/api/content/top-bar" | jq -r tostring > carimbos.json
+      shell: bash
+      run: |
+        set -euo pipefail
+        curl --fail --silent --show-error --location --connect-timeout 8 --max-time 15 "https://www.publico.pt/api/content/home?&op=false&size=30" |
+          jq -cs 'if length == 1 and (.[0] | (type == "object" or type == "array")) then .[0] else error("Invalid feed: hardnews.json") end' > "$RUNNER_TEMP/hardnews.json"
+        curl --fail --silent --show-error --location --connect-timeout 8 --max-time 15 "https://www.publico.pt/api/page/hp/opinion" |
+          jq -cs 'if length == 1 and (.[0] | (type == "object" or type == "array")) then .[0] else error("Invalid feed: opinion.json") end' > "$RUNNER_TEMP/opinion.json"
+        curl --fail --silent --show-error --location --connect-timeout 8 --max-time 15 "https://www.publico.pt/api/list/ultimas" |
+          jq -cs 'if length == 1 and (.[0] | (type == "object" or type == "array")) then .[0] else error("Invalid feed: latest-news.json") end' > "$RUNNER_TEMP/latest-news.json"
+        curl --fail --silent --show-error --location --connect-timeout 8 --max-time 15 "https://www.publico.pt/api/content/top-bar" |
+          jq -cs 'if length == 1 and (.[0] | (type == "object" or type == "array")) then .[0] else error("Invalid feed: carimbos.json") end' > "$RUNNER_TEMP/carimbos.json"
     - name: Commit and push changes
-      run: |-
-        git diff
+      shell: bash
+      run: |
+        set -euo pipefail
         git config user.name "Automated"
-        git config user.email "---"
-        git pull
-        git diff --quiet || (git add -A && git commit -m "Updated with latest articles")
-        git push
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        for attempt in 1 2 3; do
+          if timeout 15s git fetch --no-tags --depth=1 origin refs/heads/main; then
+            git reset --hard FETCH_HEAD
+            cp "$RUNNER_TEMP/hardnews.json" "hardnews.json"
+            cp "$RUNNER_TEMP/opinion.json" "opinion.json"
+            cp "$RUNNER_TEMP/latest-news.json" "latest-news.json"
+            cp "$RUNNER_TEMP/carimbos.json" "carimbos.json"
+            git add -- hardnews.json opinion.json latest-news.json carimbos.json
+            if git diff --cached --quiet; then
+              echo "No changes to publish."
+              exit 0
+            fi
+            git commit -m "Updated with latest articles"
+            if timeout 15s git push origin HEAD:refs/heads/main; then
+              exit 0
+            fi
+          fi
+          echo "::warning::Publish attempt $attempt failed."
+          if [ "$attempt" -lt 3 ]; then
+            sleep 2
+          fi
+        done
+        echo "Unable to publish after three attempts." >&2
+        exit 1
