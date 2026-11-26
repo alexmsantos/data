@@ -2,22 +2,55 @@ name: Fetch weather
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0,3,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22 * * *'
+    - cron: '0 0,3,6,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-weather
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 2
     steps:
     - name: Check out repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v5
+      with:
+        ref: main
+        fetch-depth: 1
     - name: Download Feed
-      run: |-
-        curl "https://api.open-meteo.com/v1/forecast?latitude=38.74&longitude=-9.28&daily=weathercode,temperature_2m_max,temperature_2m_min&current_weather=true&forecast_days=1&timezone=Europe%2FLondon" | jq -r tostring > weather.json
+      shell: bash
+      run: |
+        set -euo pipefail
+        curl --fail --silent --show-error --location --connect-timeout 8 --max-time 15 "https://api.open-meteo.com/v1/forecast?latitude=38.74&longitude=-9.28&daily=weathercode,temperature_2m_max,temperature_2m_min&current_weather=true&forecast_days=1&timezone=Europe%2FLondon" |
+          jq -cs 'if length == 1 and (.[0] | type == "object" and (.current_weather | type == "object") and (.daily | type == "object")) then .[0] else error("Invalid feed: weather.json") end' > "$RUNNER_TEMP/weather.json"
     - name: Commit and push changes
-      run: |-
-        git diff
+      shell: bash
+      run: |
+        set -euo pipefail
         git config user.name "Automated"
-        git config user.email "---"
-        git pull
-        git diff --quiet || (git add -A && git commit -m "Updated with latest weather")
-        git push
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        for attempt in 1 2 3; do
+          if timeout 15s git fetch --no-tags --depth=1 origin refs/heads/main; then
+            git reset --hard FETCH_HEAD
+            cp "$RUNNER_TEMP/weather.json" "weather.json"
+            git add -- weather.json
+            if git diff --cached --quiet; then
+              echo "No changes to publish."
+              exit 0
+            fi
+            git commit -m "Updated with latest weather"
+            if timeout 15s git push origin HEAD:refs/heads/main; then
+              exit 0
+            fi
+          fi
+          echo "::warning::Publish attempt $attempt failed."
+          if [ "$attempt" -lt 3 ]; then
+            sleep 2
+          fi
+        done
+        echo "Unable to publish after three attempts." >&2
+        exit 1
