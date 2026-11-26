@@ -6,6 +6,39 @@
    "category": [],
    "items": [
       {
+         "id": "ed1b1a9e-750e-412d-a885-4bc8c92e2548",
+         "title": "Um transporte personalizado à sua porta? É para já",
+         "description": "<p>Solução que reúne a flexibilidade de rotas do táxi com o preço do autocarro, funciona em 14 das 21 comunidades intermunicipais portuguesas e ajuda pessoas que não têm carro a ir ao mercado, ao médico e à farmácia</p>",
+         "link": "https://expresso.pt/revista/fisga/2026-11-26-um-transporte-personalizado-a-sua-porta--e-para-ja-7a235300",
+         "author": [
+            "Diogo Ferreira Nunes",
+            "Sofia Miguel Rosa",
+            "Cristiano Salgado"
+         ],
+         "published": 1795677300000,
+         "created": 1795677300000,
+         "category": "Fisga",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-11-24-transporteflex_t-_idp.jpg-6a1963f0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-11-24-transporteflex_t-_idp.jpg-6a1963f0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-11-24-transporteflex_t-_idp.jpg-6a1963f0/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
          "id": "e5db3551-0c6c-4ec6-8b17-1bb242eb7248",
          "title": "Greve dos guardas prisionais já travou transferência de 111 reclusos do Estabelecimento Prisional de Lisboa",
          "description": "<p><span>Associação de Apoio aos Reclusos diz que a greve de 48 dias “só acontece porque os guardas não perdem salário”. Profissionais querem que o Governo cumpra acordo sobre horas extraordinárias e promoções. Reclusos chegam a ficar fechados na cela 22 horas por dia</span></p>",
@@ -79,35 +112,6 @@
          }
       },
       {
-         "id": "3a352b67-a373-4f2b-ab9f-cef5d2790ecc",
-         "title": "“Fatherland” nos cinemas: Thomas Mann em viagem pela Alemanha do pós-guerra, com reflexos no presente e a maior atriz alemã ao volante",
-         "description": "<p><span>Regresso do polaco Pawel Pawlikowski, “Fatherland” parte da história verdadeira do regresso de Thomas Mann à Alemanha. A protagonista, Sandra Hüller, falou ao Expresso sobre o provável candidato aos Óscares</span></p>",
-         "link": "https://expresso.pt/revista/culturas/cinema/2026-11-26-cinema-thomas-mann-em-viagem-pela-alemanha-do-pos-guerra-com-reflexos-no-presente-e-a-maior-atriz-alema-da-atualidade-ao-volante-5a6d4feb",
-         "author": "Rui Pedro Tendinha",
-         "published": 1795676400000,
-         "created": 1795676400000,
-         "category": "Cinema",
-         "enclosures": [
-            {
-               "url": "https://images.impresa.pt/expresso/2026-11-23-fatherland_2_t-_idp.jpg-bbe4300a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "length": "0"
-            },
-            {
-               "url": "https://images.impresa.pt/expresso/2026-11-23-fatherland_2_t-_idp.jpg-bbe4300a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         ],
-         "media": {
-            "thumbnail": {
-               "url": "https://images.impresa.pt/expresso/2026-11-23-fatherland_2_t-_idp.jpg-bbe4300a/1.91x1/mw-1200?outputFormat=jpeg",
-               "type": "image/jpeg",
-               "medium": "image"
-            }
-         }
-      },
-      {
          "id": "dca3dc23-b638-4626-a47b-35221d044f6f",
          "title": "Alianças de ocasião, cambalhotas e vãs promessas: que novidades nos trouxe o Orçamento do Estado?",
          "description": "<p>Balanço. Alterações inesperadas, mudanças de posição e muitas medidas de aplicação incerta marcam o Orçamento</p>",
@@ -135,6 +139,35 @@
          "media": {
             "thumbnail": {
                "url": "https://images.impresa.pt/expresso/2026-11-25-tm1620_t-_idp.jpg-f0d643e7/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         }
+      },
+      {
+         "id": "3a352b67-a373-4f2b-ab9f-cef5d2790ecc",
+         "title": "“Fatherland” nos cinemas: Thomas Mann em viagem pela Alemanha do pós-guerra, com reflexos no presente e a maior atriz alemã ao volante",
+         "description": "<p><span>Regresso do polaco Pawel Pawlikowski, “Fatherland” parte da história verdadeira do regresso de Thomas Mann à Alemanha. A protagonista, Sandra Hüller, falou ao Expresso sobre o provável candidato aos Óscares</span></p>",
+         "link": "https://expresso.pt/revista/culturas/cinema/2026-11-26-cinema-thomas-mann-em-viagem-pela-alemanha-do-pos-guerra-com-reflexos-no-presente-e-a-maior-atriz-alema-da-atualidade-ao-volante-5a6d4feb",
+         "author": "Rui Pedro Tendinha",
+         "published": 1795676400000,
+         "created": 1795676400000,
+         "category": "Cinema",
+         "enclosures": [
+            {
+               "url": "https://images.impresa.pt/expresso/2026-11-23-fatherland_2_t-_idp.jpg-bbe4300a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "length": "0"
+            },
+            {
+               "url": "https://images.impresa.pt/expresso/2026-11-23-fatherland_2_t-_idp.jpg-bbe4300a/1.91x1/mw-1200?outputFormat=jpeg",
+               "type": "image/jpeg",
+               "medium": "image"
+            }
+         ],
+         "media": {
+            "thumbnail": {
+               "url": "https://images.impresa.pt/expresso/2026-11-23-fatherland_2_t-_idp.jpg-bbe4300a/1.91x1/mw-1200?outputFormat=jpeg",
                "type": "image/jpeg",
                "medium": "image"
             }
@@ -235,18 +268,6 @@
          "author": "Ana Bárbara Pedrosa",
          "published": 1795676077000,
          "created": 1795676077000,
-         "category": "Opinião",
-         "enclosures": [],
-         "media": {}
-      },
-      {
-         "id": "20f55544-2c5c-4368-b396-6c80af02a36e",
-         "title": "A notária não me queria casar com uma estrangeira",
-         "description": "<p>A internacionalização de Portugal não se faz apenas nas empresas e nas universidades. Faz-se também nas famílias. No último quarto de século, os portugueses deram à sua vida íntima uma dimensão multicultural e cosmopolita que ainda escasseia entre as nossas elites políticas</p>",
-         "link": "https://expresso.pt/opiniao/2026-11-26-a-notaria-nao-me-queria-casar-com-uma-estrangeira-36f9d0b7",
-         "author": "Rodrigo Tavares",
-         "published": 1795675805000,
-         "created": 1795675805000,
          "category": "Opinião",
          "enclosures": [],
          "media": {}
